@@ -1,0 +1,1 @@
+to generate a colored substance.", " The solution will turn bluish and a precipitate may form.", " The solution shows two absorption bands, one in the red between Fraunhofer lines B and C and the other near the D line.", " An estimate of the relevant wavelengths can be made by referring to the Fraunhofer lines article." ] ] ] }

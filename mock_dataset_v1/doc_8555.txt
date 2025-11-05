@@ -1,0 +1,1 @@
+age of sixteen. ... 14, Kellogg Family \nCollec-.", "related_links": null, "title": "'A Sower Went Forth': Lyman Beecher Kellogg and Kansas State ..."}], "air_date": "1999-11-12", "question": "If Abby jogs 2 miles a day around a 1/4-mile track, she does this many laps in a week", "value": "$500", "id": 210886, "answer": "56", "round": "Double Jeopardy!", "show_number": "3495"}

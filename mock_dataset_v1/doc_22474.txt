@@ -1,0 +1,1 @@
+Because, it is the backdrop and context for my latest trip to \nDenmark.", "related_links": null, "title": "dining | the ulterior epicure"}], "air_date": "2001-03-08", "question": "Some say this Scottish queen only married the Earl of Bothwell because he abducted her", "value": "$300", "id": 37002, "answer": "Mary, Queen of Scots", "round": "Jeopardy!", "show_number": "3809"}

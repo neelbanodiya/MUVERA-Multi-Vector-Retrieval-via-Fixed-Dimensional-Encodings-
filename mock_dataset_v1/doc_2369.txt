@@ -1,0 +1,1 @@
+the plate, which...", "related_links": null, "title": "Suzuki passes Rose's total as Marlins lose to Padres 6-3 | Ap | jg-tc ..."}], "air_date": "2005-04-28", "question": "This San Francisco Giants pitcher has been called the most feared starter in the National League", "value": "$400", "id": 54044, "answer": "Jason Schmidt", "round": "Jeopardy!", "show_number": "4764"}
