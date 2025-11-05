@@ -1,8 +1,0 @@
-{
-    "query": "Where is Mrs. Olson\u2019s Coffee Hut located?",
-    "response": [
-        "doc_15179.txt",
-        "doc_15180.txt",
-        "doc_15181.txt"
-    ]
-}

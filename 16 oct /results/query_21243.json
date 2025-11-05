@@ -1,9 +1,0 @@
-{
-    "query": "When did WrestleMania XXX take place, and what was significant about its broadcast?",
-    "response": [
-        "doc_12260.txt",
-        "doc_12259.txt",
-        "doc_12258.txt",
-        "doc_20955.txt"
-    ]
-}

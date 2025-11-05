@@ -1,9 +1,0 @@
-{
-    "query": "Which venue hosted WrestleMania 29, and what was the event\u2019s advertised name?",
-    "response": [
-        "doc_12260.txt",
-        "doc_12259.txt",
-        "doc_12258.txt",
-        "doc_20955.txt"
-    ]
-}

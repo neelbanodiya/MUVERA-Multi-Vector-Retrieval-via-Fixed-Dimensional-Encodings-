@@ -1,9 +1,0 @@
-{
-    "query": "Where was Andrew Carnegie born, and what was his father\u2019s profession?",
-    "response": [
-        "doc_4246.txt",
-        "doc_4242.txt",
-        "doc_4243.txt",
-        "doc_4241.txt"
-    ]
-}

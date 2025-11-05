@@ -1,9 +1,0 @@
-{
-    "query": "In what year was WrestleMania X-Seven held, and where did it take place?",
-    "response": [
-        "doc_12260.txt",
-        "doc_12259.txt",
-        "doc_12258.txt",
-        "doc_20955.txt"
-    ]
-}

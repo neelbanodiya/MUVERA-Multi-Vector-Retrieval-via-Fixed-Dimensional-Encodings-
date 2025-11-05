@@ -1,8 +1,0 @@
-{
-    "query": "Which engine powers the Airbus A320 family, including the A320, A321, and A319?",
-    "response": [
-        "doc_22503.txt",
-        "doc_22504.txt",
-        "doc_22505.txt"
-    ]
-}

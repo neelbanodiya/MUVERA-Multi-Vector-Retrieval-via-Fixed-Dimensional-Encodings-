@@ -1,9 +1,0 @@
-{
-    "query": "When was the first space shuttle mission, STS-1, launched?",
-    "response": [
-        "doc_4162.txt",
-        "doc_23947.txt",
-        "doc_23948.txt",
-        "doc_23949.txt"
-    ]
-}

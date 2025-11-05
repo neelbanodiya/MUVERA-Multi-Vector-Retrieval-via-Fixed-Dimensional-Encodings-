@@ -1,9 +1,0 @@
-{
-    "query": "In what year did Yo-Yo Ma perform with Emanuel Ax at Carnegie Hall?",
-    "response": [
-        "doc_4450.txt",
-        "doc_4448.txt",
-        "doc_4449.txt",
-        "doc_4447.txt"
-    ]
-}

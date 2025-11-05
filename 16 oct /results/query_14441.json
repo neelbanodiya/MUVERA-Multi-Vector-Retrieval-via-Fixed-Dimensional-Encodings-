@@ -1,9 +1,0 @@
-{
-    "query": "Which television network is KVUI affiliated with?",
-    "response": [
-        "doc_8363.txt",
-        "doc_8364.txt",
-        "doc_2025.txt",
-        "doc_2023.txt"
-    ]
-}

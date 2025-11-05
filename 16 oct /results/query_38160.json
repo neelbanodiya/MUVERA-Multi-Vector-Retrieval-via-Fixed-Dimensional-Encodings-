@@ -1,9 +1,0 @@
-{
-    "query": "How many conference titles did Bobby Hauck lead the Montana Grizzlies to?",
-    "response": [
-        "doc_22386.txt",
-        "doc_22387.txt",
-        "doc_22388.txt",
-        "doc_18335.txt"
-    ]
-}

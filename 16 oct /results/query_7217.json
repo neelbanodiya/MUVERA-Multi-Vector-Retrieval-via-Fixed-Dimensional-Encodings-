@@ -1,9 +1,0 @@
-{
-    "query": "What year was *Drum Taps* published?",
-    "response": [
-        "doc_4169.txt",
-        "doc_4165.txt",
-        "doc_4166.txt",
-        "doc_4164.txt"
-    ]
-}

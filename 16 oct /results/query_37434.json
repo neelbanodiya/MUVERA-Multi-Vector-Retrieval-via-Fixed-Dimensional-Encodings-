@@ -1,9 +1,0 @@
-{
-    "query": "What is a \u201cChampignon\u201d in French?",
-    "response": [
-        "doc_21917.txt",
-        "doc_21919.txt",
-        "doc_21918.txt",
-        "doc_5849.txt"
-    ]
-}

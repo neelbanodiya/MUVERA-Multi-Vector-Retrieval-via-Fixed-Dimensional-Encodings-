@@ -1,9 +1,0 @@
-{
-    "query": "What time is it currently in Buffalo, New York, USA?",
-    "response": [
-        "doc_11304.txt",
-        "doc_11303.txt",
-        "doc_11307.txt",
-        "doc_11306.txt"
-    ]
-}

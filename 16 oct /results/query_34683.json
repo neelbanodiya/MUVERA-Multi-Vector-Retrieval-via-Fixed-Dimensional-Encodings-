@@ -1,9 +1,0 @@
-{
-    "query": "What was the name of the NCCU basketball team that won the CIAA championship in 1950?",
-    "response": [
-        "doc_19122.txt",
-        "doc_19123.txt",
-        "doc_19124.txt",
-        "doc_20192.txt"
-    ]
-}

@@ -1,9 +1,0 @@
-{
-    "query": "Where is Mrs. Olson's Coffee Hut currently located?",
-    "response": [
-        "doc_15179.txt",
-        "doc_15180.txt",
-        "doc_15181.txt",
-        "doc_19223.txt"
-    ]
-}

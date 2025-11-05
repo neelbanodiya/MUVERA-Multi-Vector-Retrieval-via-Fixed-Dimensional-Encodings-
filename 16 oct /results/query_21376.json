@@ -1,9 +1,0 @@
-{
-    "query": "Which cities are included in the \u201cPrague, Budapest and Vienna\u201d tour options?",
-    "response": [
-        "doc_12333.txt",
-        "doc_12331.txt",
-        "doc_12332.txt",
-        "doc_12335.txt"
-    ]
-}

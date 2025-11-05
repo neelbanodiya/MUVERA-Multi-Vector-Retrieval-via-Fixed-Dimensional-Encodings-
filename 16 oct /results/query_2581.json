@@ -1,9 +1,0 @@
-{
-    "query": "Can you check the current status of flights departing from Abilene Regional Airport (ABI)?",
-    "response": [
-        "doc_1555.txt",
-        "doc_1554.txt",
-        "doc_1557.txt",
-        "doc_1556.txt"
-    ]
-}

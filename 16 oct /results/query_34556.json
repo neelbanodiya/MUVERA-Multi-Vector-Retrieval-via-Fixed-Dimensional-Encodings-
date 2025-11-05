@@ -1,9 +1,0 @@
-{
-    "query": "What specific legal proceedings were Mr. Olivier Dupuis subjected to in Italy?",
-    "response": [
-        "doc_20104.txt",
-        "doc_20105.txt",
-        "doc_20107.txt",
-        "doc_20108.txt"
-    ]
-}

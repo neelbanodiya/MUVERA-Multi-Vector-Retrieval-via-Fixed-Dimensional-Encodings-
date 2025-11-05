@@ -1,9 +1,0 @@
-{
-    "query": "In what conference did the 2012 Montana Grizzlies football team compete?",
-    "response": [
-        "doc_22387.txt",
-        "doc_22386.txt",
-        "doc_22388.txt",
-        "doc_1973.txt"
-    ]
-}

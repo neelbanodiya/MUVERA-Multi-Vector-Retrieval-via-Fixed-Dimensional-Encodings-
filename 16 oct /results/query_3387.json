@@ -1,9 +1,0 @@
-{
-    "query": "For which university did the 2009 Oklahoma State Cowboys football team compete?",
-    "response": [
-        "doc_2010.txt",
-        "doc_2011.txt",
-        "doc_2012.txt",
-        "doc_11115.txt"
-    ]
-}

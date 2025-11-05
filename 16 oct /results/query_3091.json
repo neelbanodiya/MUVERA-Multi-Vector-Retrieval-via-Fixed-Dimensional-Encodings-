@@ -1,9 +1,0 @@
-{
-    "query": "Which films featured car chases set in San Francisco?",
-    "response": [
-        "doc_1887.txt",
-        "doc_1888.txt",
-        "doc_1886.txt",
-        "doc_1890.txt"
-    ]
-}

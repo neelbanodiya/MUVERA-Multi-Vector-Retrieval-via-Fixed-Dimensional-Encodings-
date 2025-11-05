@@ -1,8 +1,0 @@
-{
-    "query": "In what suburb of Adelaide is Woodcroft College located?",
-    "response": [
-        "doc_17123.txt",
-        "doc_17124.txt",
-        "doc_14426.txt"
-    ]
-}

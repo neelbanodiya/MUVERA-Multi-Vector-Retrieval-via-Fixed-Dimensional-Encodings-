@@ -1,9 +1,0 @@
-{
-    "query": "In what year did the 2008 Autosport 1000 km of Silverstone take place?",
-    "response": [
-        "doc_12599.txt",
-        "doc_12600.txt",
-        "doc_12601.txt",
-        "doc_5660.txt"
-    ]
-}

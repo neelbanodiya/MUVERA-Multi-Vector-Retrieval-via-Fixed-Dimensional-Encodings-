@@ -1,9 +1,0 @@
-{
-    "query": "In which district of Kerala is Kochi located?",
-    "response": [
-        "doc_14854.txt",
-        "doc_14852.txt",
-        "doc_14851.txt",
-        "doc_14853.txt"
-    ]
-}

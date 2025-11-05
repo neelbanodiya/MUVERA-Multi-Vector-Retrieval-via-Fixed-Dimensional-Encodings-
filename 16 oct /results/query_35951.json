@@ -1,9 +1,0 @@
-{
-    "query": "In what year and location was WrestleMania III held?",
-    "response": [
-        "doc_12260.txt",
-        "doc_12258.txt",
-        "doc_20955.txt",
-        "doc_12259.txt"
-    ]
-}

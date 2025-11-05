@@ -1,9 +1,0 @@
-{
-    "query": "In what location did the first Academy Awards ceremony take place?",
-    "response": [
-        "doc_16983.txt",
-        "doc_16988.txt",
-        "doc_16987.txt",
-        "doc_16990.txt"
-    ]
-}

@@ -1,9 +1,0 @@
-{
-    "query": "Which driver won the 1950 Dutch Grand Prix?",
-    "response": [
-        "doc_18377.txt",
-        "doc_18378.txt",
-        "doc_12600.txt",
-        "doc_5657.txt"
-    ]
-}

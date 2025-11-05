@@ -1,9 +1,0 @@
-{
-    "query": "What cities are included in the suggested itineraries: Prague, Vienna, and Budapest?",
-    "response": [
-        "doc_12331.txt",
-        "doc_12333.txt",
-        "doc_12335.txt",
-        "doc_12334.txt"
-    ]
-}

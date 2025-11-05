@@ -1,9 +1,0 @@
-{
-    "query": "Which district in Kerala is known as the commercial capital?",
-    "response": [
-        "doc_14852.txt",
-        "doc_14853.txt",
-        "doc_14854.txt",
-        "doc_14851.txt"
-    ]
-}

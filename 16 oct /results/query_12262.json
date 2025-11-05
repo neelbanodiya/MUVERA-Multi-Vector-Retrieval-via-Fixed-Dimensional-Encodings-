@@ -1,9 +1,0 @@
-{
-    "query": "Who said the quote, \"I'm going to steal the Declaration of Independence\"?",
-    "response": [
-        "doc_7161.txt",
-        "doc_7158.txt",
-        "doc_7157.txt",
-        "doc_7160.txt"
-    ]
-}

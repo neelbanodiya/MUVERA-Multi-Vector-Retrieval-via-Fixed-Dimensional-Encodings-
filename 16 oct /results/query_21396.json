@@ -1,9 +1,0 @@
-{
-    "query": "Which Confucian scholar was Sungyang Hall constructed to commemorate?",
-    "response": [
-        "doc_12342.txt",
-        "doc_12344.txt",
-        "doc_12343.txt",
-        "doc_16573.txt"
-    ]
-}

@@ -1,9 +1,0 @@
-{
-    "query": "Where were Andrew Carnegie born and where did he later donate funds to build a library?",
-    "response": [
-        "doc_4246.txt",
-        "doc_4241.txt",
-        "doc_4243.txt",
-        "doc_4242.txt"
-    ]
-}

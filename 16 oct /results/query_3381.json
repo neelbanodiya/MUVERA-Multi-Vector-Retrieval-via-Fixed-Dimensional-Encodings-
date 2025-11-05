@@ -1,8 +1,0 @@
-{
-    "query": "In what conference did all of these Oklahoma State Cowboys football teams compete?",
-    "response": [
-        "doc_2010.txt",
-        "doc_2011.txt",
-        "doc_11114.txt"
-    ]
-}

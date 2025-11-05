@@ -1,9 +1,0 @@
-{
-    "query": "Which sports teams are based in Los Angeles, as mentioned in the provided text?",
-    "response": [
-        "doc_10507.txt",
-        "doc_8052.txt",
-        "doc_10511.txt",
-        "doc_8056.txt"
-    ]
-}

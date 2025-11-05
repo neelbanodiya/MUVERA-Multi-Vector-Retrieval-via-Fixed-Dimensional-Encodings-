@@ -1,9 +1,0 @@
-{
-    "query": "What year was the film *West Side Story* released?",
-    "response": [
-        "doc_8897.txt",
-        "doc_8895.txt",
-        "doc_8894.txt",
-        "doc_8896.txt"
-    ]
-}
