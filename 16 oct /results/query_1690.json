@@ -1,0 +1,10 @@
+{
+    "query": "What year did Jones arrive in Georgia with his family?",
+    "response": [
+        "doc_972.txt",
+        "doc_985.txt",
+        "doc_973.txt",
+        "doc_1749.txt",
+        "doc_24012.txt"
+    ]
+}

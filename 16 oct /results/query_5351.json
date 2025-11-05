@@ -1,0 +1,10 @@
+{
+    "query": "What was Mel Gibson promoting at the premiere of *Hacksaw Ridge* in October 2016?",
+    "response": [
+        "doc_22139.txt",
+        "doc_11861.txt",
+        "doc_9384.txt",
+        "doc_14909.txt",
+        "doc_17108.txt"
+    ]
+}

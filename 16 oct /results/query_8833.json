@@ -1,0 +1,10 @@
+{
+    "query": "What event occurred in 1759 involving troops and a victory at Quebec?",
+    "response": [
+        "doc_10052.txt",
+        "doc_4309.txt",
+        "doc_10051.txt",
+        "doc_4311.txt",
+        "doc_10055.txt"
+    ]
+}

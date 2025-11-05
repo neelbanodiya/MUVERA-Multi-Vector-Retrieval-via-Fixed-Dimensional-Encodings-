@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary purpose of the Romanian government established after the 1977 earthquake, as described in the Encyclopedia.com article?",
+    "response": [
+        "doc_7568.txt",
+        "doc_10375.txt",
+        "doc_3828.txt",
+        "doc_15952.txt",
+        "doc_6075.txt"
+    ]
+}

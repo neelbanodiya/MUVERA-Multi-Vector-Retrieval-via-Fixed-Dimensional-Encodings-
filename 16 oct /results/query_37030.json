@@ -1,0 +1,10 @@
+{
+    "query": "What name did Ray Charles use for his record label?",
+    "response": [
+        "doc_9459.txt",
+        "doc_23435.txt",
+        "doc_8120.txt",
+        "doc_4735.txt",
+        "doc_2792.txt"
+    ]
+}

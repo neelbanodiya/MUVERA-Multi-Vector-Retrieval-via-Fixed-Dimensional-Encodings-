@@ -1,0 +1,10 @@
+{
+    "query": "What was a product sold by the Boy Scouts of America?",
+    "response": [
+        "doc_12645.txt",
+        "doc_19642.txt",
+        "doc_8338.txt",
+        "doc_6149.txt",
+        "doc_9071.txt"
+    ]
+}

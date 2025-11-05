@@ -1,0 +1,10 @@
+{
+    "query": "Which Council Directive, as last amended by Commission Directive 2004/21/EC, addresses the marketing and use of dangerous substances?",
+    "response": [
+        "doc_16396.txt",
+        "doc_13931.txt",
+        "doc_17243.txt",
+        "doc_16417.txt",
+        "doc_13930.txt"
+    ]
+}

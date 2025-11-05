@@ -1,0 +1,10 @@
+{
+    "query": "What accusations have some of the individuals detained following the closure made against the Spanish police authorities?",
+    "response": [
+        "doc_16825.txt",
+        "doc_13569.txt",
+        "doc_10288.txt",
+        "doc_8051.txt",
+        "doc_14459.txt"
+    ]
+}

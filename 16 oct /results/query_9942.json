@@ -1,0 +1,10 @@
+{
+    "query": "According to Evan Thomas\u2019s biography of Robert Kennedy, what was the CIA\u2019s goal regarding Cuba?",
+    "response": [
+        "doc_21683.txt",
+        "doc_11839.txt",
+        "doc_22393.txt",
+        "doc_9010.txt",
+        "doc_6112.txt"
+    ]
+}

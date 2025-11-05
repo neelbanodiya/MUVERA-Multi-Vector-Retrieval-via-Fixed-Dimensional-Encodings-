@@ -1,0 +1,10 @@
+{
+    "query": "Since what year has a country other than the United States or the United Kingdom hosted a major event?",
+    "response": [
+        "doc_12345.txt",
+        "doc_397.txt",
+        "doc_17409.txt",
+        "doc_17260.txt",
+        "doc_18992.txt"
+    ]
+}

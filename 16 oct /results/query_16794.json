@@ -1,0 +1,10 @@
+{
+    "query": "What type of cheese is sometimes included in a Caesar salad, as referenced in one of the articles?",
+    "response": [
+        "doc_9713.txt",
+        "doc_9728.txt",
+        "doc_9720.txt",
+        "doc_9726.txt",
+        "doc_9715.txt"
+    ]
+}

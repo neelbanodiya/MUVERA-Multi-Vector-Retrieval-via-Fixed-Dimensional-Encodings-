@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Osama bin Laden and three other men during a firefight?",
+    "response": [
+        "doc_6759.txt",
+        "doc_20684.txt",
+        "doc_18155.txt",
+        "doc_8681.txt",
+        "doc_22458.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who played the character Michael Bluth in \u201cArrested Development\u201d?",
+    "response": [
+        "doc_17888.txt",
+        "doc_24097.txt",
+        "doc_21897.txt",
+        "doc_4466.txt",
+        "doc_2850.txt"
+    ]
+}

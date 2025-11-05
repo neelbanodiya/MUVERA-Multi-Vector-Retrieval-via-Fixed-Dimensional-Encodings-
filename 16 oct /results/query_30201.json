@@ -1,0 +1,10 @@
+{
+    "query": "What is the total amount proposed for heading 8 (Compensation) in the PDB for this financial year?",
+    "response": [
+        "doc_17565.txt",
+        "doc_17612.txt",
+        "doc_22218.txt",
+        "doc_13302.txt",
+        "doc_13303.txt"
+    ]
+}

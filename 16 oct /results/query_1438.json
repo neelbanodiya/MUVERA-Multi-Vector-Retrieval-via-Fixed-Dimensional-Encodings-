@@ -1,0 +1,10 @@
+{
+    "query": "Who is Ian Bell, and what is his batting score?",
+    "response": [
+        "doc_15163.txt",
+        "doc_7628.txt",
+        "doc_14520.txt",
+        "doc_16351.txt",
+        "doc_15164.txt"
+    ]
+}

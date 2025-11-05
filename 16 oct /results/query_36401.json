@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the first Canadian ambassador to the United States appointed?",
+    "response": [
+        "doc_21257.txt",
+        "doc_21249.txt",
+        "doc_21256.txt",
+        "doc_21251.txt",
+        "doc_21252.txt"
+    ]
+}

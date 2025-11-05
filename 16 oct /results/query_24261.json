@@ -1,0 +1,10 @@
+{
+    "query": "Who is referred to as \u201cGod\u201d in the passage?",
+    "response": [
+        "doc_12562.txt",
+        "doc_12551.txt",
+        "doc_20311.txt",
+        "doc_6089.txt",
+        "doc_12560.txt"
+    ]
+}

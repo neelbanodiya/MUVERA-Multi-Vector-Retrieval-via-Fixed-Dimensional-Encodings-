@@ -1,0 +1,10 @@
+{
+    "query": "What was the bloodiest day of the Civil War, and when did it occur?",
+    "response": [
+        "doc_202.txt",
+        "doc_197.txt",
+        "doc_193.txt",
+        "doc_194.txt",
+        "doc_196.txt"
+    ]
+}

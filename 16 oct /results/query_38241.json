@@ -1,0 +1,10 @@
+{
+    "query": "What is the Empire State Plaza\u2019s relationship to the state of New York?",
+    "response": [
+        "doc_22425.txt",
+        "doc_22431.txt",
+        "doc_22433.txt",
+        "doc_22424.txt",
+        "doc_22423.txt"
+    ]
+}

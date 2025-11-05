@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate distance between Petrified Forest National Park and Holbrook, Arizona?",
+    "response": [
+        "doc_9324.txt",
+        "doc_9327.txt",
+        "doc_9330.txt",
+        "doc_9332.txt",
+        "doc_9329.txt"
+    ]
+}

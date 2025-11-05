@@ -1,0 +1,10 @@
+{
+    "query": "Which streaming service confirmed the Gilmore Girls revival would be available to watch?",
+    "response": [
+        "doc_13155.txt",
+        "doc_17068.txt",
+        "doc_12616.txt",
+        "doc_19273.txt",
+        "doc_17071.txt"
+    ]
+}

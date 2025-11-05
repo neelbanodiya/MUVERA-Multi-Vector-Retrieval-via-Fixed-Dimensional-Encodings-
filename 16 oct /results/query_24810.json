@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of a Tom Paxton album mentioned in the passage?",
+    "response": [
+        "doc_5278.txt",
+        "doc_12338.txt",
+        "doc_14550.txt",
+        "doc_17758.txt",
+        "doc_8168.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What elements should be included in a future EU Constitution, according to the passage?",
+    "response": [
+        "doc_13384.txt",
+        "doc_17385.txt",
+        "doc_17364.txt",
+        "doc_13321.txt",
+        "doc_17253.txt"
+    ]
+}

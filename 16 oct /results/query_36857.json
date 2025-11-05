@@ -1,0 +1,10 @@
+{
+    "query": "Who stars as the private detective Philip Marlowe in the 1946 film adaptation of \u201cThe Big Sleep\u201d?",
+    "response": [
+        "doc_21529.txt",
+        "doc_21538.txt",
+        "doc_21533.txt",
+        "doc_21537.txt",
+        "doc_21530.txt"
+    ]
+}

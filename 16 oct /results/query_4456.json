@@ -1,0 +1,10 @@
+{
+    "query": "What event triggered a series of uprisings across the Tibetan plateau?",
+    "response": [
+        "doc_397.txt",
+        "doc_18993.txt",
+        "doc_4061.txt",
+        "doc_18126.txt",
+        "doc_9673.txt"
+    ]
+}

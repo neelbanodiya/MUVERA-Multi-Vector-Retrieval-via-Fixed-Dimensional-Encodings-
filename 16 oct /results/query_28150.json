@@ -1,0 +1,10 @@
+{
+    "query": "In what constellation is the galaxy M64, known as the \u201cBlack Eye\u201d galaxy, located?",
+    "response": [
+        "doc_16350.txt",
+        "doc_16073.txt",
+        "doc_16084.txt",
+        "doc_1291.txt",
+        "doc_1288.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What did Ruth write about her recovery?",
+    "response": [
+        "doc_5512.txt",
+        "doc_2329.txt",
+        "doc_633.txt",
+        "doc_9839.txt",
+        "doc_21722.txt"
+    ]
+}

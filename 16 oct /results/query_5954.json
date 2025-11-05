@@ -1,0 +1,10 @@
+{
+    "query": "What type of transportation is mentioned as being used to cross the Mersey River?",
+    "response": [
+        "doc_5189.txt",
+        "doc_19663.txt",
+        "doc_13142.txt",
+        "doc_13141.txt",
+        "doc_13150.txt"
+    ]
+}

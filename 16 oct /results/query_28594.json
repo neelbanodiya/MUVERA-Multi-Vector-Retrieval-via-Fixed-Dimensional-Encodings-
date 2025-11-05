@@ -1,0 +1,10 @@
+{
+    "query": "Which individuals are listed as graduates in the University of Central Missouri\u2019s academic standing records?",
+    "response": [
+        "doc_20191.txt",
+        "doc_9023.txt",
+        "doc_8871.txt",
+        "doc_22508.txt",
+        "doc_18087.txt"
+    ]
+}

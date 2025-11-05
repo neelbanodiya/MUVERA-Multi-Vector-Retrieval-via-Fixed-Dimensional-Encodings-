@@ -1,0 +1,10 @@
+{
+    "query": "What instrument was Patton proficient in playing, according to the provided text?",
+    "response": [
+        "doc_5245.txt",
+        "doc_12775.txt",
+        "doc_5250.txt",
+        "doc_5241.txt",
+        "doc_22803.txt"
+    ]
+}

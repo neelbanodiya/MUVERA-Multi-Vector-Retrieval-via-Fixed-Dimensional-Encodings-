@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, what is the general principle concerning bail amounts within the Constitution?",
+    "response": [
+        "doc_10996.txt",
+        "doc_11004.txt",
+        "doc_11001.txt",
+        "doc_10993.txt",
+        "doc_10990.txt"
+    ]
+}

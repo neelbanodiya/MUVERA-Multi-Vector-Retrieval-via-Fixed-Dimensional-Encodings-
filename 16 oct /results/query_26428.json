@@ -1,0 +1,10 @@
+{
+    "query": "Which language was primarily spoken in the literary works of the Classical period?",
+    "response": [
+        "doc_15383.txt",
+        "doc_15381.txt",
+        "doc_15373.txt",
+        "doc_20490.txt",
+        "doc_15377.txt"
+    ]
+}

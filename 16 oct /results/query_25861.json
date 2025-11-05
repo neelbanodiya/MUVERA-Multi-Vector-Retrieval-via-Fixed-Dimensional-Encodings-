@@ -1,0 +1,10 @@
+{
+    "query": "What specific issue related to customs procedures is identified as a cause of weakness in the European customs system, according to the rapporteur?",
+    "response": [
+        "doc_15027.txt",
+        "doc_19525.txt",
+        "doc_12882.txt",
+        "doc_20036.txt",
+        "doc_1218.txt"
+    ]
+}

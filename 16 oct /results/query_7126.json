@@ -1,0 +1,10 @@
+{
+    "query": "What is Oprah Winfrey credited with?",
+    "response": [
+        "doc_15592.txt",
+        "doc_3447.txt",
+        "doc_22211.txt",
+        "doc_724.txt",
+        "doc_22200.txt"
+    ]
+}

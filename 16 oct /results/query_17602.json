@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what are some regions where a brogue might be found as a regional form of English?",
+    "response": [
+        "doc_10191.txt",
+        "doc_10192.txt",
+        "doc_1678.txt",
+        "doc_1782.txt",
+        "doc_4394.txt"
+    ]
+}

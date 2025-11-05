@@ -1,0 +1,10 @@
+{
+    "query": "According to the European Parliament\u2019s resolution, what should compensation for living donors strictly limit itself to?",
+    "response": [
+        "doc_24042.txt",
+        "doc_24041.txt",
+        "doc_18903.txt",
+        "doc_12932.txt",
+        "doc_996.txt"
+    ]
+}

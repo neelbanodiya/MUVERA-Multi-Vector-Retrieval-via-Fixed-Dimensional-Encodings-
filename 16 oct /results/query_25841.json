@@ -1,0 +1,10 @@
+{
+    "query": "Aaron Himelstein was born in October 1985.",
+    "response": [
+        "doc_15024.txt",
+        "doc_2477.txt",
+        "doc_4739.txt",
+        "doc_7993.txt",
+        "doc_18584.txt"
+    ]
+}

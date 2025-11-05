@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was God\u2019s instruction regarding the king of Israel?",
+    "response": [
+        "doc_1246.txt",
+        "doc_1238.txt",
+        "doc_1242.txt",
+        "doc_1243.txt",
+        "doc_1240.txt"
+    ]
+}

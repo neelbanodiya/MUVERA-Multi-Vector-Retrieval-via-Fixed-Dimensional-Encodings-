@@ -1,0 +1,10 @@
+{
+    "query": "When did \u201cThe Catch\u201d series first premiere?",
+    "response": [
+        "doc_21897.txt",
+        "doc_10569.txt",
+        "doc_9516.txt",
+        "doc_12719.txt",
+        "doc_3700.txt"
+    ]
+}

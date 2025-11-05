@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what biblical reference does the film \u201cThe Seventh Seal\u201d utilize?",
+    "response": [
+        "doc_7690.txt",
+        "doc_7688.txt",
+        "doc_7681.txt",
+        "doc_7687.txt",
+        "doc_7677.txt"
+    ]
+}

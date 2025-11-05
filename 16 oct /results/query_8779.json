@@ -1,0 +1,10 @@
+{
+    "query": "What is the phone number for Rich?",
+    "response": [
+        "doc_23718.txt",
+        "doc_3446.txt",
+        "doc_3595.txt",
+        "doc_19178.txt",
+        "doc_3594.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When does the requirement for a Vessel Monitoring System apply to fishing vessels exceeding 10 meters in length overall?",
+    "response": [
+        "doc_12112.txt",
+        "doc_12073.txt",
+        "doc_12113.txt",
+        "doc_12075.txt",
+        "doc_12079.txt"
+    ]
+}

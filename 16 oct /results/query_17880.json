@@ -1,0 +1,10 @@
+{
+    "query": "What was Barry Livingston best known for in the 1960s?",
+    "response": [
+        "doc_10362.txt",
+        "doc_18954.txt",
+        "doc_7546.txt",
+        "doc_5762.txt",
+        "doc_10349.txt"
+    ]
+}

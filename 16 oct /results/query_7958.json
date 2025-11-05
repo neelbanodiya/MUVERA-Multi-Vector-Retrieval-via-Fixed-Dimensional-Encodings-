@@ -1,0 +1,10 @@
+{
+    "query": "What university did Bob have a degree in communications from?",
+    "response": [
+        "doc_14424.txt",
+        "doc_16873.txt",
+        "doc_6805.txt",
+        "doc_350.txt",
+        "doc_17061.txt"
+    ]
+}

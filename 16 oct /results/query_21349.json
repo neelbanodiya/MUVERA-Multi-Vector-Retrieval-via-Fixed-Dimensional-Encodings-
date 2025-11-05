@@ -1,0 +1,10 @@
+{
+    "query": "What contact information is provided for press enquiries related to the Strasbourg plenary session?",
+    "response": [
+        "doc_19290.txt",
+        "doc_12314.txt",
+        "doc_18477.txt",
+        "doc_2292.txt",
+        "doc_11018.txt"
+    ]
+}

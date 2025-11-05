@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Millard Fillmore in the 1856 election?",
+    "response": [
+        "doc_2761.txt",
+        "doc_2776.txt",
+        "doc_2773.txt",
+        "doc_2775.txt",
+        "doc_2768.txt"
+    ]
+}

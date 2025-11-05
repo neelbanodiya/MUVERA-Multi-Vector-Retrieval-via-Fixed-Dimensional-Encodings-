@@ -1,0 +1,10 @@
+{
+    "query": "When were Barbie and Blaine reunited?",
+    "response": [
+        "doc_21652.txt",
+        "doc_15007.txt",
+        "doc_16055.txt",
+        "doc_16963.txt",
+        "doc_18850.txt"
+    ]
+}

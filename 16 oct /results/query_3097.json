@@ -1,0 +1,10 @@
+{
+    "query": "What movie features Steve McQueen in a car chase scene at \u201cMiami Airport\u201d?",
+    "response": [
+        "doc_1887.txt",
+        "doc_1888.txt",
+        "doc_1886.txt",
+        "doc_1892.txt",
+        "doc_1890.txt"
+    ]
+}

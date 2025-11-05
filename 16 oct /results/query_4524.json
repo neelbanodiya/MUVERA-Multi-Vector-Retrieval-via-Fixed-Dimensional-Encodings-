@@ -1,0 +1,10 @@
+{
+    "query": "Which city is Manila bordered by to the north?",
+    "response": [
+        "doc_21465.txt",
+        "doc_38.txt",
+        "doc_12057.txt",
+        "doc_2623.txt",
+        "doc_1005.txt"
+    ]
+}

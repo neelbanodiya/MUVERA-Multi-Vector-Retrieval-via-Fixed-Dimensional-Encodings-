@@ -1,0 +1,10 @@
+{
+    "query": "When and where was Chinx killed?",
+    "response": [
+        "doc_9675.txt",
+        "doc_18155.txt",
+        "doc_24066.txt",
+        "doc_6113.txt",
+        "doc_18154.txt"
+    ]
+}

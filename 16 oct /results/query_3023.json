@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between Tristan and King Arthur?",
+    "response": [
+        "doc_1837.txt",
+        "doc_1838.txt",
+        "doc_1849.txt",
+        "doc_1848.txt",
+        "doc_7113.txt"
+    ]
+}

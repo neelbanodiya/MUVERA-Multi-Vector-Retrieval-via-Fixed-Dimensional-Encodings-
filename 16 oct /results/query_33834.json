@@ -1,0 +1,10 @@
+{
+    "query": "What is Clint Eastwood's second favorite actor?",
+    "response": [
+        "doc_19694.txt",
+        "doc_19693.txt",
+        "doc_19690.txt",
+        "doc_18823.txt",
+        "doc_18828.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many nautical miles is the distance from Sumatra to the Isles of Ternate and Tidore?",
+    "response": [
+        "doc_5564.txt",
+        "doc_14195.txt",
+        "doc_10129.txt",
+        "doc_14199.txt",
+        "doc_14210.txt"
+    ]
+}

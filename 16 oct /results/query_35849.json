@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of an album released by Eric Clapton featuring Derek and the Dominos?",
+    "response": [
+        "doc_20896.txt",
+        "doc_20897.txt",
+        "doc_20898.txt",
+        "doc_20900.txt",
+        "doc_20895.txt"
+    ]
+}

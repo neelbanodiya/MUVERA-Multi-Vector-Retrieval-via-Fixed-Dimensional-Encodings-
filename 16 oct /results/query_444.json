@@ -1,0 +1,10 @@
+{
+    "query": "What musical is based on the film *Passione d'Amore*?",
+    "response": [
+        "doc_244.txt",
+        "doc_245.txt",
+        "doc_246.txt",
+        "doc_243.txt",
+        "doc_247.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What does the name \"Salvador\" derive from?",
+    "response": [
+        "doc_9341.txt",
+        "doc_23598.txt",
+        "doc_9342.txt",
+        "doc_9249.txt",
+        "doc_17774.txt"
+    ]
+}

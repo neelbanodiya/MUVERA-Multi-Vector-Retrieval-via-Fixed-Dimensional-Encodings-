@@ -1,0 +1,10 @@
+{
+    "query": "What happened to United Tech shares during a specific period?",
+    "response": [
+        "doc_8250.txt",
+        "doc_22066.txt",
+        "doc_16485.txt",
+        "doc_4698.txt",
+        "doc_20569.txt"
+    ]
+}

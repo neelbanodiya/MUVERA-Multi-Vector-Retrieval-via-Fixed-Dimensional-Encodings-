@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the award Henry received?",
+    "response": [
+        "doc_11667.txt",
+        "doc_21684.txt",
+        "doc_10402.txt",
+        "doc_8598.txt",
+        "doc_7016.txt"
+    ]
+}

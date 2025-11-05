@@ -1,0 +1,10 @@
+{
+    "query": "Where did Gregory Peck embark on a live speaking tour?",
+    "response": [
+        "doc_9873.txt",
+        "doc_9872.txt",
+        "doc_7877.txt",
+        "doc_16160.txt",
+        "doc_10673.txt"
+    ]
+}

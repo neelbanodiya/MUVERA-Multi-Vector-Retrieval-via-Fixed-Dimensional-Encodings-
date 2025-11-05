@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what should visitors bring when climbing the Acropolis?",
+    "response": [
+        "doc_22652.txt",
+        "doc_11054.txt",
+        "doc_22655.txt",
+        "doc_22656.txt",
+        "doc_22653.txt"
+    ]
+}

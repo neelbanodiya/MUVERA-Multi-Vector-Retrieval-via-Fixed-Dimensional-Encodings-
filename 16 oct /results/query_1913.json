@@ -1,0 +1,10 @@
+{
+    "query": "On what dates will President Buzek present the Charlemagne Youth Prize and the Charlemagne Prize?",
+    "response": [
+        "doc_1144.txt",
+        "doc_1147.txt",
+        "doc_1148.txt",
+        "doc_15491.txt",
+        "doc_19289.txt"
+    ]
+}

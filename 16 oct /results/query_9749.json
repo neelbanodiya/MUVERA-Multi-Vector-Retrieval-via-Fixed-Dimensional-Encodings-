@@ -1,0 +1,10 @@
+{
+    "query": "What was the total amount of EU funding allocated for health research between 2007 and 2013?",
+    "response": [
+        "doc_5630.txt",
+        "doc_5629.txt",
+        "doc_5641.txt",
+        "doc_1363.txt",
+        "doc_19702.txt"
+    ]
+}

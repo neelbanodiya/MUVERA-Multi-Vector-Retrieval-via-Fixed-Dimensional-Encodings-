@@ -1,0 +1,10 @@
+{
+    "query": "What words are listed as starting with the letter \u201cS\u201d?",
+    "response": [
+        "doc_12379.txt",
+        "doc_12385.txt",
+        "doc_12396.txt",
+        "doc_12383.txt",
+        "doc_12384.txt"
+    ]
+}

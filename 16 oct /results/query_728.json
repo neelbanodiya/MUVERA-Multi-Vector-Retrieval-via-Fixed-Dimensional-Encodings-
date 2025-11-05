@@ -1,0 +1,10 @@
+{
+    "query": "Which animation is associated with Adobe?",
+    "response": [
+        "doc_20311.txt",
+        "doc_19215.txt",
+        "doc_20310.txt",
+        "doc_23040.txt",
+        "doc_23543.txt"
+    ]
+}

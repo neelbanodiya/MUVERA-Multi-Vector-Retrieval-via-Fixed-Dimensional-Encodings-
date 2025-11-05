@@ -1,0 +1,10 @@
+{
+    "query": "For which video game console was the \u201cJurassic Park\u201d Sega CD game released?",
+    "response": [
+        "doc_8692.txt",
+        "doc_10862.txt",
+        "doc_10865.txt",
+        "doc_8693.txt",
+        "doc_12870.txt"
+    ]
+}

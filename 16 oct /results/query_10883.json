@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of Christina Rossetti\u2019s first published collection of poetry?",
+    "response": [
+        "doc_6302.txt",
+        "doc_6305.txt",
+        "doc_6307.txt",
+        "doc_6306.txt",
+        "doc_6304.txt"
+    ]
+}

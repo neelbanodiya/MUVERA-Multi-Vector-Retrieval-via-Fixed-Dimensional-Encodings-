@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the deadline for Member States to implement this directive into national legislation?",
+    "response": [
+        "doc_5828.txt",
+        "doc_24056.txt",
+        "doc_24064.txt",
+        "doc_8723.txt",
+        "doc_11812.txt"
+    ]
+}

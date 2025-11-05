@@ -1,0 +1,10 @@
+{
+    "query": "In what context was the quote \u201cLouis, I think this is the beginning of a beautiful friendship\u201d used during World War II propaganda films?",
+    "response": [
+        "doc_18759.txt",
+        "doc_18748.txt",
+        "doc_18747.txt",
+        "doc_18757.txt",
+        "doc_18761.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many studio albums has HIM released?",
+    "response": [
+        "doc_12045.txt",
+        "doc_12043.txt",
+        "doc_11672.txt",
+        "doc_20314.txt",
+        "doc_12044.txt"
+    ]
+}

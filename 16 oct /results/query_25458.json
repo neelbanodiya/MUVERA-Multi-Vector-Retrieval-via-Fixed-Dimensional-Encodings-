@@ -1,0 +1,10 @@
+{
+    "query": "In June 1909, what event took place at the Indianapolis Motor Speedway?",
+    "response": [
+        "doc_13009.txt",
+        "doc_20955.txt",
+        "doc_15159.txt",
+        "doc_19244.txt",
+        "doc_19243.txt"
+    ]
+}

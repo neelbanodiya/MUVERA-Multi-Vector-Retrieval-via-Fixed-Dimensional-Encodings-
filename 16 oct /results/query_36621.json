@@ -1,0 +1,10 @@
+{
+    "query": "Which Oscar did Capra earn for directing *You Can't Take It With You*?",
+    "response": [
+        "doc_21386.txt",
+        "doc_21385.txt",
+        "doc_4911.txt",
+        "doc_23287.txt",
+        "doc_4917.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to his autobiography, *My Prison Without Bars*, what did Pete Rose recall observing while visiting Schott\u2019s home?",
+    "response": [
+        "doc_10956.txt",
+        "doc_10958.txt",
+        "doc_10951.txt",
+        "doc_10965.txt",
+        "doc_10959.txt"
+    ]
+}

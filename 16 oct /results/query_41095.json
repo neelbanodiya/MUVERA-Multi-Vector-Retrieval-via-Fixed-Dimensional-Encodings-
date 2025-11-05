@@ -1,0 +1,10 @@
+{
+    "query": "Which international figures have condemned the murder of Mr. Chebeya Bahizire?",
+    "response": [
+        "doc_24067.txt",
+        "doc_24068.txt",
+        "doc_24066.txt",
+        "doc_20154.txt",
+        "doc_24069.txt"
+    ]
+}

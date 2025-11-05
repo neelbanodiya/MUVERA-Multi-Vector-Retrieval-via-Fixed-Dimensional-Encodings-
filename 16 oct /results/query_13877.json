@@ -1,0 +1,10 @@
+{
+    "query": "According to one document, what was a key element of Georgia\u2019s actions leading up to the Cherokee removal?",
+    "response": [
+        "doc_974.txt",
+        "doc_970.txt",
+        "doc_973.txt",
+        "doc_983.txt",
+        "doc_13608.txt"
+    ]
+}

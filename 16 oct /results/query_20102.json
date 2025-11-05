@@ -1,0 +1,10 @@
+{
+    "query": "Can you identify any Italian-language titles from the list?",
+    "response": [
+        "doc_12946.txt",
+        "doc_11143.txt",
+        "doc_2888.txt",
+        "doc_14493.txt",
+        "doc_11146.txt"
+    ]
+}

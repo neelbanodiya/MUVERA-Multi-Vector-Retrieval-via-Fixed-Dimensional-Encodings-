@@ -1,0 +1,10 @@
+{
+    "query": "What hotel houses the Secret Garden and Dolphin Habitat?",
+    "response": [
+        "doc_6034.txt",
+        "doc_6028.txt",
+        "doc_17809.txt",
+        "doc_573.txt",
+        "doc_575.txt"
+    ]
+}

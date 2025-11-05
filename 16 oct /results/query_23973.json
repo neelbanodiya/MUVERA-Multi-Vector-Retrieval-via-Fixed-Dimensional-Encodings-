@@ -1,0 +1,10 @@
+{
+    "query": "During what conflict did 90,000 Marines attack Iraqi forces?",
+    "response": [
+        "doc_6759.txt",
+        "doc_8681.txt",
+        "doc_2315.txt",
+        "doc_1483.txt",
+        "doc_3127.txt"
+    ]
+}

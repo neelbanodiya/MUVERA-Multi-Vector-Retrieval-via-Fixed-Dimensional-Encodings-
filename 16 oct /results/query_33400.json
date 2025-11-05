@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what EU directive addresses discrimination based on various grounds, including disability?",
+    "response": [
+        "doc_19459.txt",
+        "doc_5286.txt",
+        "doc_18443.txt",
+        "doc_5285.txt",
+        "doc_17214.txt"
+    ]
+}

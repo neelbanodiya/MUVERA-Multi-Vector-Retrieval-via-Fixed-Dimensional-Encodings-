@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of the film directed by Lewis Milestone featuring All Quiet on the Western Front?",
+    "response": [
+        "doc_8516.txt",
+        "doc_2231.txt",
+        "doc_15484.txt",
+        "doc_14685.txt",
+        "doc_22834.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of film is described as a \u201cScience fiction thriller\u201d?",
+    "response": [
+        "doc_15303.txt",
+        "doc_20567.txt",
+        "doc_15311.txt",
+        "doc_1229.txt",
+        "doc_15304.txt"
+    ]
+}

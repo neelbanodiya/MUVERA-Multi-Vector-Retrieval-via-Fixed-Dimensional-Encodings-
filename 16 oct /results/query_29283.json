@@ -1,0 +1,10 @@
+{
+    "query": "Which TV show featured Kevin\u2019s troubled, hippie older sister?",
+    "response": [
+        "doc_1623.txt",
+        "doc_21998.txt",
+        "doc_1621.txt",
+        "doc_21997.txt",
+        "doc_19273.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "For which film is Edmund Gwenn most notably remembered, and for what award did he receive recognition for it?",
+    "response": [
+        "doc_15278.txt",
+        "doc_4918.txt",
+        "doc_4928.txt",
+        "doc_4924.txt",
+        "doc_4920.txt"
+    ]
+}

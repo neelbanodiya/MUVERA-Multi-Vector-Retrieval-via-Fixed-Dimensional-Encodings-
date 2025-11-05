@@ -1,0 +1,10 @@
+{
+    "query": "What river valley is Medford, Oregon, situated within?",
+    "response": [
+        "doc_890.txt",
+        "doc_898.txt",
+        "doc_891.txt",
+        "doc_3153.txt",
+        "doc_3657.txt"
+    ]
+}

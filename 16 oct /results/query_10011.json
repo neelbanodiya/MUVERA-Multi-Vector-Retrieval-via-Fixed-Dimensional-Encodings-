@@ -1,0 +1,10 @@
+{
+    "query": "What types of food are sold at Costco, according to the Kirkland Cat Food review?",
+    "response": [
+        "doc_5801.txt",
+        "doc_1798.txt",
+        "doc_1799.txt",
+        "doc_4896.txt",
+        "doc_1795.txt"
+    ]
+}

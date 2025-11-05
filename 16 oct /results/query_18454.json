@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked articles, what phrase serves as both Florida\u2019s and the U.S.\u2019s state motto?",
+    "response": [
+        "doc_10702.txt",
+        "doc_10699.txt",
+        "doc_10700.txt",
+        "doc_10704.txt",
+        "doc_10701.txt"
+    ]
+}

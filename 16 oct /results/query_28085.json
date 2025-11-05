@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the company that became Phelps Dodge?",
+    "response": [
+        "doc_12646.txt",
+        "doc_12645.txt",
+        "doc_22263.txt",
+        "doc_8697.txt",
+        "doc_4519.txt"
+    ]
+}

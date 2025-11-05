@@ -1,0 +1,10 @@
+{
+    "query": "When did Nevada become a state?",
+    "response": [
+        "doc_20226.txt",
+        "doc_8280.txt",
+        "doc_8286.txt",
+        "doc_8279.txt",
+        "doc_8277.txt"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "query": "Which television station is licensed to Salem, Oregon?",
+    "response": [
+        "doc_8364.txt",
+        "doc_8363.txt",
+        "doc_136.txt"
+    ]
+}

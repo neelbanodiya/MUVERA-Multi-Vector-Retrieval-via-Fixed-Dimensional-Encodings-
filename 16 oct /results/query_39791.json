@@ -1,0 +1,10 @@
+{
+    "query": "What year did John Wayne win his only Oscar?",
+    "response": [
+        "doc_23277.txt",
+        "doc_23281.txt",
+        "doc_23283.txt",
+        "doc_23279.txt",
+        "doc_23285.txt"
+    ]
+}

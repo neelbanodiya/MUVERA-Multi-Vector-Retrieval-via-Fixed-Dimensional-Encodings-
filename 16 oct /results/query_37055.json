@@ -1,0 +1,10 @@
+{
+    "query": "What role did John Donovan play in the formation of the Central Intelligence Agency?",
+    "response": [
+        "doc_21683.txt",
+        "doc_21682.txt",
+        "doc_2420.txt",
+        "doc_19680.txt",
+        "doc_15277.txt"
+    ]
+}

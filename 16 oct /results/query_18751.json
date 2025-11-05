@@ -1,0 +1,10 @@
+{
+    "query": "When was Congressman Don Young first sworn in to Congress?",
+    "response": [
+        "doc_10892.txt",
+        "doc_10891.txt",
+        "doc_1924.txt",
+        "doc_10893.txt",
+        "doc_10897.txt"
+    ]
+}

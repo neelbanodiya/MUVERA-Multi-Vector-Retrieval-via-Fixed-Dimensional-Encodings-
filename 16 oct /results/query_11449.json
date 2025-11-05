@@ -1,0 +1,10 @@
+{
+    "query": "Which countries experienced a rise in tourist travel from Russia as a result of visa difficulties?",
+    "response": [
+        "doc_6654.txt",
+        "doc_18361.txt",
+        "doc_18362.txt",
+        "doc_16789.txt",
+        "doc_14690.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to multiple references, what phrase does Harry Callahan often say to the audience?",
+    "response": [
+        "doc_9439.txt",
+        "doc_5543.txt",
+        "doc_16733.txt",
+        "doc_22914.txt",
+        "doc_9991.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the breakdown of European financial aid to the Central African Republic, specifically detailing amounts from the European Development Fund, the general budget, the Directorate-General for Humanitarian Aid, and the Instrument for Stability?",
+    "response": [
+        "doc_13872.txt",
+        "doc_4941.txt",
+        "doc_7760.txt",
+        "doc_9154.txt",
+        "doc_17996.txt"
+    ]
+}

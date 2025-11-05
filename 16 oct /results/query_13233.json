@@ -1,0 +1,10 @@
+{
+    "query": "What is the subject of the upcoming summer production at the Voorhees Theatre Company?",
+    "response": [
+        "doc_17109.txt",
+        "doc_17914.txt",
+        "doc_18215.txt",
+        "doc_2526.txt",
+        "doc_14251.txt"
+    ]
+}

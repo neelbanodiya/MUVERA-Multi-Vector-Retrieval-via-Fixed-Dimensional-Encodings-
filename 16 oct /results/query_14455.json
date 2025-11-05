@@ -1,0 +1,10 @@
+{
+    "query": "Which country officially annexed Martinique in 1674?",
+    "response": [
+        "doc_8369.txt",
+        "doc_8377.txt",
+        "doc_8375.txt",
+        "doc_8371.txt",
+        "doc_8372.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year was the film *Jurassic Park: The Lost World* released?",
+    "response": [
+        "doc_12872.txt",
+        "doc_12869.txt",
+        "doc_12870.txt",
+        "doc_12877.txt",
+        "doc_12871.txt"
+    ]
+}

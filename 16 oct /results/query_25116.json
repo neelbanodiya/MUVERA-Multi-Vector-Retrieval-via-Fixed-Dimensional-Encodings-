@@ -1,0 +1,10 @@
+{
+    "query": "How are Roman numerals typically arranged when writing a year or a number?",
+    "response": [
+        "doc_14582.txt",
+        "doc_14589.txt",
+        "doc_14598.txt",
+        "doc_14583.txt",
+        "doc_14584.txt"
+    ]
+}

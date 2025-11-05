@@ -1,0 +1,10 @@
+{
+    "query": "When was the Barcelona Declaration adopted, establishing the partnership between the European Union and the southern and eastern Mediterranean countries?",
+    "response": [
+        "doc_15468.txt",
+        "doc_1210.txt",
+        "doc_2484.txt",
+        "doc_2485.txt",
+        "doc_11103.txt"
+    ]
+}

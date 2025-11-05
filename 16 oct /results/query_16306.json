@@ -1,0 +1,10 @@
+{
+    "query": "Which singer, known for their work with Glenn Miller, later led their own Cleveland band?",
+    "response": [
+        "doc_9461.txt",
+        "doc_9460.txt",
+        "doc_9456.txt",
+        "doc_19020.txt",
+        "doc_9458.txt"
+    ]
+}

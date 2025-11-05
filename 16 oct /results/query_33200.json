@@ -1,0 +1,10 @@
+{
+    "query": "What year was Barbara Mikulski elected as Maryland\u2019s Senator?",
+    "response": [
+        "doc_19319.txt",
+        "doc_19316.txt",
+        "doc_19325.txt",
+        "doc_19321.txt",
+        "doc_19318.txt"
+    ]
+}

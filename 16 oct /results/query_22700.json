@@ -1,0 +1,10 @@
+{
+    "query": "What cultures are represented at the Latino Museum of the City of New York?",
+    "response": [
+        "doc_13050.txt",
+        "doc_13051.txt",
+        "doc_13063.txt",
+        "doc_13055.txt",
+        "doc_13052.txt"
+    ]
+}

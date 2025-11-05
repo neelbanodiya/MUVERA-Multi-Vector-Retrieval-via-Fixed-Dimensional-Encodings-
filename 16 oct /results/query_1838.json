@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the main entrance to the Forbidden City in Beijing, and what is its significance?",
+    "response": [
+        "doc_1042.txt",
+        "doc_1049.txt",
+        "doc_1053.txt",
+        "doc_1048.txt",
+        "doc_1047.txt"
+    ]
+}

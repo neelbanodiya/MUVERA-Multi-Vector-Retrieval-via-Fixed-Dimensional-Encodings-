@@ -1,0 +1,10 @@
+{
+    "query": "What type of art is Roula Partheniou creating?",
+    "response": [
+        "doc_17272.txt",
+        "doc_9165.txt",
+        "doc_5492.txt",
+        "doc_9450.txt",
+        "doc_23901.txt"
+    ]
+}

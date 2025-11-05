@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the airfield Jonathan Cox visited?",
+    "response": [
+        "doc_2993.txt",
+        "doc_14515.txt",
+        "doc_14516.txt",
+        "doc_6507.txt",
+        "doc_14896.txt"
+    ]
+}

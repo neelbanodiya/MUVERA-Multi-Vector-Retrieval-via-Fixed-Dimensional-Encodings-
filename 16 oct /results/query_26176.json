@@ -1,0 +1,10 @@
+{
+    "query": "How many workers were affected by the stoppage at Pouchen Company in Dong Nai?",
+    "response": [
+        "doc_11897.txt",
+        "doc_21226.txt",
+        "doc_18268.txt",
+        "doc_10985.txt",
+        "doc_2727.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is a traditional ingredient sometimes added to Indian pudding besides milk?",
+    "response": [
+        "doc_21686.txt",
+        "doc_21687.txt",
+        "doc_21695.txt",
+        "doc_21688.txt",
+        "doc_21685.txt"
+    ]
+}

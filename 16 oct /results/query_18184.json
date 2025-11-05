@@ -1,0 +1,10 @@
+{
+    "query": "What product did John Low Sands begin packing in tin canisters?",
+    "response": [
+        "doc_11889.txt",
+        "doc_6336.txt",
+        "doc_6182.txt",
+        "doc_1959.txt",
+        "doc_7724.txt"
+    ]
+}

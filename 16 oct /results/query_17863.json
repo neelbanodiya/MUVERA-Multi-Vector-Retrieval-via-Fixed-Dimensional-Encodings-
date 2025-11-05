@@ -1,0 +1,10 @@
+{
+    "query": "On which television show did Gale Gordon play the character Mr. Mooney?",
+    "response": [
+        "doc_10352.txt",
+        "doc_10349.txt",
+        "doc_10361.txt",
+        "doc_10363.txt",
+        "doc_10353.txt"
+    ]
+}

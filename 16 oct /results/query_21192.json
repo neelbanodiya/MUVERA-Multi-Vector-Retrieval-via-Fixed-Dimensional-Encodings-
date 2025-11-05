@@ -1,0 +1,10 @@
+{
+    "query": "What was Al Capone\u2019s real first name?",
+    "response": [
+        "doc_12240.txt",
+        "doc_12235.txt",
+        "doc_12248.txt",
+        "doc_12237.txt",
+        "doc_12236.txt"
+    ]
+}

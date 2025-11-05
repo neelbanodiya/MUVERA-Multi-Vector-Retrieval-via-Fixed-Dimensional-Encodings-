@@ -1,0 +1,10 @@
+{
+    "query": "What are some hotels located on or near Fisherman\u2019s Wharf in San Francisco?",
+    "response": [
+        "doc_17805.txt",
+        "doc_17818.txt",
+        "doc_17815.txt",
+        "doc_17809.txt",
+        "doc_17811.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "To what was Captain Fisby sent?",
+    "response": [
+        "doc_15767.txt",
+        "doc_6410.txt",
+        "doc_2421.txt",
+        "doc_13912.txt",
+        "doc_2064.txt"
+    ]
+}

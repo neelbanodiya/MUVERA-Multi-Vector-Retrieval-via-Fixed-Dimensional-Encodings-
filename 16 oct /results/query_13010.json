@@ -1,0 +1,10 @@
+{
+    "query": "What did Will Smith state about his attendance at the Oscars?",
+    "response": [
+        "doc_2264.txt",
+        "doc_7611.txt",
+        "doc_17912.txt",
+        "doc_17913.txt",
+        "doc_10556.txt"
+    ]
+}

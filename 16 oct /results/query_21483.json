@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate number of letters in the English alphabet?",
+    "response": [
+        "doc_12379.txt",
+        "doc_12392.txt",
+        "doc_18317.txt",
+        "doc_3637.txt",
+        "doc_12395.txt"
+    ]
+}

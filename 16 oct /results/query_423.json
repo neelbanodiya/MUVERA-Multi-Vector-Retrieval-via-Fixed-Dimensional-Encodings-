@@ -1,0 +1,10 @@
+{
+    "query": "What event occurred involving tenor Fabio Armiliato during the performance of *Tosca*?",
+    "response": [
+        "doc_227.txt",
+        "doc_228.txt",
+        "doc_15391.txt",
+        "doc_14182.txt",
+        "doc_15392.txt"
+    ]
+}

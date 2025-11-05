@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Cleveland attend the Corn Palace in Sioux City, Iowa?",
+    "response": [
+        "doc_21210.txt",
+        "doc_21212.txt",
+        "doc_21213.txt",
+        "doc_21211.txt",
+        "doc_20875.txt"
+    ]
+}

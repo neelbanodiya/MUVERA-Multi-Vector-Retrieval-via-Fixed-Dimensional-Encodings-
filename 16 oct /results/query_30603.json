@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what did Uncle Pete foster a love for?",
+    "response": [
+        "doc_6559.txt",
+        "doc_2161.txt",
+        "doc_20134.txt",
+        "doc_15771.txt",
+        "doc_17338.txt"
+    ]
+}

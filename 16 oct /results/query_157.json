@@ -1,0 +1,10 @@
+{
+    "query": "Which university did Mike Kelly coach at for the longest period of time?",
+    "response": [
+        "doc_76.txt",
+        "doc_75.txt",
+        "doc_74.txt",
+        "doc_1880.txt",
+        "doc_5438.txt"
+    ]
+}

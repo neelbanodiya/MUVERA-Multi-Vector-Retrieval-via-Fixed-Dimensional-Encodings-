@@ -1,0 +1,10 @@
+{
+    "query": "On what date did the United States of America become an independent nation?",
+    "response": [
+        "doc_19852.txt",
+        "doc_19841.txt",
+        "doc_8286.txt",
+        "doc_19849.txt",
+        "doc_19848.txt"
+    ]
+}

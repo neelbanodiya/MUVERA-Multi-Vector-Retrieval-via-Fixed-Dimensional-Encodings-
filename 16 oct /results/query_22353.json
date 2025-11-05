@@ -1,0 +1,10 @@
+{
+    "query": "Is the Commission aware of this situation?",
+    "response": [
+        "doc_14096.txt",
+        "doc_6069.txt",
+        "doc_9472.txt",
+        "doc_16524.txt",
+        "doc_16708.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Besides Joshua Reynolds, who else was involved in the tradition of British history painting mentioned in the text?",
+    "response": [
+        "doc_20406.txt",
+        "doc_20420.txt",
+        "doc_20407.txt",
+        "doc_20411.txt",
+        "doc_20409.txt"
+    ]
+}

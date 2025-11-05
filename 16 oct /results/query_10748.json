@@ -1,0 +1,10 @@
+{
+    "query": "What period accumulated 10,000 Japanese diplomatic messages?",
+    "response": [
+        "doc_7137.txt",
+        "doc_6214.txt",
+        "doc_6219.txt",
+        "doc_7132.txt",
+        "doc_7143.txt"
+    ]
+}

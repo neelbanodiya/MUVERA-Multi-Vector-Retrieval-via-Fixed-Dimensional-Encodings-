@@ -1,0 +1,10 @@
+{
+    "query": "How many new and redesigned greeting cards does Hallmark produce each year?",
+    "response": [
+        "doc_691.txt",
+        "doc_689.txt",
+        "doc_690.txt",
+        "doc_692.txt",
+        "doc_18886.txt"
+    ]
+}

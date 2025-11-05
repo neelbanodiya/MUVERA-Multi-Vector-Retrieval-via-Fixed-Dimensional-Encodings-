@@ -1,0 +1,10 @@
+{
+    "query": "What city is the Nob Hill Lambourne Hotel located in?",
+    "response": [
+        "doc_17805.txt",
+        "doc_17809.txt",
+        "doc_17811.txt",
+        "doc_17808.txt",
+        "doc_17816.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the amateur ice hockey team based in Pittsburgh, Pennsylvania?",
+    "response": [
+        "doc_7629.txt",
+        "doc_7630.txt",
+        "doc_21627.txt",
+        "doc_21628.txt",
+        "doc_2616.txt"
+    ]
+}

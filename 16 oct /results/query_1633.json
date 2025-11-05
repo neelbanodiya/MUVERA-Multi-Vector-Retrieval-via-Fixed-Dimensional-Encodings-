@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what specific foods were deficient in vitamin B2 among the Cretans?",
+    "response": [
+        "doc_932.txt",
+        "doc_8912.txt",
+        "doc_1345.txt",
+        "doc_12650.txt",
+        "doc_8913.txt"
+    ]
+}

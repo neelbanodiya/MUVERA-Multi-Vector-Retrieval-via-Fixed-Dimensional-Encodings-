@@ -1,0 +1,10 @@
+{
+    "query": "How many times did Edward IV\u2019s control of England change hands?",
+    "response": [
+        "doc_7324.txt",
+        "doc_9756.txt",
+        "doc_7322.txt",
+        "doc_9767.txt",
+        "doc_7332.txt"
+    ]
+}

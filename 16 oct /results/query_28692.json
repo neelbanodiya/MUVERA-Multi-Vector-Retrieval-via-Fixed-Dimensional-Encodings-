@@ -1,0 +1,10 @@
+{
+    "query": "Which organization was nominated for the Sakharov Prize and what is its primary focus?",
+    "response": [
+        "doc_16711.txt",
+        "doc_16710.txt",
+        "doc_16712.txt",
+        "doc_22225.txt",
+        "doc_22012.txt"
+    ]
+}

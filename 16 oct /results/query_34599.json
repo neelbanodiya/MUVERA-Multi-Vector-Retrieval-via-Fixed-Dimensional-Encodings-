@@ -1,0 +1,10 @@
+{
+    "query": "When did the illusionist reproduce the article in Goldston's Magical Quarterly?",
+    "response": [
+        "doc_6147.txt",
+        "doc_7862.txt",
+        "doc_8337.txt",
+        "doc_1734.txt",
+        "doc_11783.txt"
+    ]
+}

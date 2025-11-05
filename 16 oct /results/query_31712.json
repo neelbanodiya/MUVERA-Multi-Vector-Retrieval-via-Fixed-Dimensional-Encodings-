@@ -1,0 +1,10 @@
+{
+    "query": "What was the role of Edward I, as described in the inscription on his tomb?",
+    "response": [
+        "doc_459.txt",
+        "doc_7329.txt",
+        "doc_7330.txt",
+        "doc_7325.txt",
+        "doc_7336.txt"
+    ]
+}

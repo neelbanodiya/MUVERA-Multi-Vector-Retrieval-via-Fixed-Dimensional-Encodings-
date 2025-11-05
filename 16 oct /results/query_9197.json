@@ -1,0 +1,10 @@
+{
+    "query": "Which author was born near Natchez, Mississippi, and spent his early childhood there?",
+    "response": [
+        "doc_18976.txt",
+        "doc_18975.txt",
+        "doc_14665.txt",
+        "doc_18977.txt",
+        "doc_10388.txt"
+    ]
+}

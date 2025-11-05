@@ -1,0 +1,10 @@
+{
+    "query": "What concert did the author attend in 1995, featuring the Smashing Pumpkins and Garbage?",
+    "response": [
+        "doc_15686.txt",
+        "doc_19668.txt",
+        "doc_19670.txt",
+        "doc_12018.txt",
+        "doc_15320.txt"
+    ]
+}

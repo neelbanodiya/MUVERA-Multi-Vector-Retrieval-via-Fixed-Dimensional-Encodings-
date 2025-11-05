@@ -1,0 +1,10 @@
+{
+    "query": "What was Donna Douglas\u2019s birthplace?",
+    "response": [
+        "doc_8209.txt",
+        "doc_21211.txt",
+        "doc_3656.txt",
+        "doc_749.txt",
+        "doc_8210.txt"
+    ]
+}

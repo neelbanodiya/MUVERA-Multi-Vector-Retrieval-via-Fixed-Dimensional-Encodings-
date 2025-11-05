@@ -1,0 +1,10 @@
+{
+    "query": "Which organization commonly uses the Beijing BJ212?",
+    "response": [
+        "doc_6920.txt",
+        "doc_20402.txt",
+        "doc_22538.txt",
+        "doc_2460.txt",
+        "doc_7846.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In \u201cSmallville,\u201d who created the character Lionel Luthor?",
+    "response": [
+        "doc_15394.txt",
+        "doc_22330.txt",
+        "doc_1981.txt",
+        "doc_18953.txt",
+        "doc_18954.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which NFL team\u2019s defensive end recorded five sacks and seven stops behind the line of scrimmage?",
+    "response": [
+        "doc_11277.txt",
+        "doc_11281.txt",
+        "doc_11280.txt",
+        "doc_11282.txt",
+        "doc_11279.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate arm span of a Pacific octopus?",
+    "response": [
+        "doc_14903.txt",
+        "doc_7275.txt",
+        "doc_16915.txt",
+        "doc_2338.txt",
+        "doc_14904.txt"
+    ]
+}

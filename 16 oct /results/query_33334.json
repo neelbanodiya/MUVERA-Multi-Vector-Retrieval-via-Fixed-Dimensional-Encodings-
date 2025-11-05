@@ -1,0 +1,10 @@
+{
+    "query": "Which Shakespeare play is referenced alongside Ryan Gosling using Richard\u2019s pick-up lines?",
+    "response": [
+        "doc_19420.txt",
+        "doc_19421.txt",
+        "doc_19422.txt",
+        "doc_19424.txt",
+        "doc_19425.txt"
+    ]
+}

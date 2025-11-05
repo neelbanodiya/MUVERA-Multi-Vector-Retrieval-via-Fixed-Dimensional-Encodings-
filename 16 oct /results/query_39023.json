@@ -1,0 +1,10 @@
+{
+    "query": "At what age was Richard Gere when he starred alongside Julia Roberts in *Pretty Woman*?",
+    "response": [
+        "doc_22841.txt",
+        "doc_22839.txt",
+        "doc_22840.txt",
+        "doc_22856.txt",
+        "doc_22849.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who designed the title sequence for the James Bond film *Goldfinger*?",
+    "response": [
+        "doc_9791.txt",
+        "doc_9793.txt",
+        "doc_9792.txt",
+        "doc_9788.txt",
+        "doc_9789.txt"
+    ]
+}

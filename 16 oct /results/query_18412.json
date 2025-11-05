@@ -1,0 +1,10 @@
+{
+    "query": "Who observed that Matt Miller was arguing with ex-Presidents?",
+    "response": [
+        "doc_16334.txt",
+        "doc_10673.txt",
+        "doc_14933.txt",
+        "doc_22072.txt",
+        "doc_20523.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which countries, besides Egypt, were experiencing growth in internet usage?",
+    "response": [
+        "doc_6436.txt",
+        "doc_13929.txt",
+        "doc_548.txt",
+        "doc_3284.txt",
+        "doc_3274.txt"
+    ]
+}

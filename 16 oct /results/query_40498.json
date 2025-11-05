@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what significant historical event is associated with Mount Sinai?",
+    "response": [
+        "doc_23689.txt",
+        "doc_23688.txt",
+        "doc_23694.txt",
+        "doc_23690.txt",
+        "doc_23678.txt"
+    ]
+}

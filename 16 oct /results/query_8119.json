@@ -1,0 +1,10 @@
+{
+    "query": "What regulation, published in OJ L 384, 29.12.2006, p. 8, amended and corrected Regulation (EC) No 1782/2003?",
+    "response": [
+        "doc_3424.txt",
+        "doc_8140.txt",
+        "doc_23974.txt",
+        "doc_19129.txt",
+        "doc_20770.txt"
+    ]
+}

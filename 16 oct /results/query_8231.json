@@ -1,0 +1,10 @@
+{
+    "query": "What was the reported distance the Russian aircraft allegedly violated Turkish airspace?",
+    "response": [
+        "doc_4764.txt",
+        "doc_15731.txt",
+        "doc_5637.txt",
+        "doc_17782.txt",
+        "doc_8005.txt"
+    ]
+}

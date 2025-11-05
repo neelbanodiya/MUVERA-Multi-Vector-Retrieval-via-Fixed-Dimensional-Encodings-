@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Dean Barrow sworn in as Prime Minister of Belize?",
+    "response": [
+        "doc_11473.txt",
+        "doc_11472.txt",
+        "doc_11478.txt",
+        "doc_9120.txt",
+        "doc_11474.txt"
+    ]
+}

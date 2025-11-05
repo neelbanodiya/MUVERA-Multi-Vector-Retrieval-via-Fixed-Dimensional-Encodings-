@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary reason for the Titanic\u2019s sinking, as described in the documents?",
+    "response": [
+        "doc_21098.txt",
+        "doc_6987.txt",
+        "doc_6986.txt",
+        "doc_6995.txt",
+        "doc_7962.txt"
+    ]
+}

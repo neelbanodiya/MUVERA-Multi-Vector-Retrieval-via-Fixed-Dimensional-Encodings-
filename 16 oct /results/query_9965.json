@@ -1,0 +1,10 @@
+{
+    "query": "When was Amelia Earhart last seen?",
+    "response": [
+        "doc_5784.txt",
+        "doc_5788.txt",
+        "doc_5790.txt",
+        "doc_5780.txt",
+        "doc_5778.txt"
+    ]
+}

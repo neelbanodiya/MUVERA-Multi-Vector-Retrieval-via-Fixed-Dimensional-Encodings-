@@ -1,0 +1,10 @@
+{
+    "query": "In what year did a German engineer, Dr. Otto, invent an internal combustion engine?",
+    "response": [
+        "doc_11534.txt",
+        "doc_11527.txt",
+        "doc_11537.txt",
+        "doc_11542.txt",
+        "doc_11533.txt"
+    ]
+}

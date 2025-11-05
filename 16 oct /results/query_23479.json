@@ -1,0 +1,10 @@
+{
+    "query": "Which co-stars has William Hamm dated according to the passage?",
+    "response": [
+        "doc_8175.txt",
+        "doc_11327.txt",
+        "doc_5156.txt",
+        "doc_7821.txt",
+        "doc_11916.txt"
+    ]
+}

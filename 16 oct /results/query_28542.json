@@ -1,0 +1,10 @@
+{
+    "query": "What type of stone is used in the sculpture described in the article from Zimbabwe?",
+    "response": [
+        "doc_16169.txt",
+        "doc_16170.txt",
+        "doc_5430.txt",
+        "doc_3874.txt",
+        "doc_5429.txt"
+    ]
+}

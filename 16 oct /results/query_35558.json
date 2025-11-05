@@ -1,0 +1,10 @@
+{
+    "query": "Which county is mentioned as being near Hopewell, Virginia, and served as headquarters of the Union Army during the Siege of Petersburg?",
+    "response": [
+        "doc_20722.txt",
+        "doc_20716.txt",
+        "doc_20715.txt",
+        "doc_20720.txt",
+        "doc_20732.txt"
+    ]
+}

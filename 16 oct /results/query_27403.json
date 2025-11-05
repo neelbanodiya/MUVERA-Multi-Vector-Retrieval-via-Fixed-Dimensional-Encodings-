@@ -1,0 +1,10 @@
+{
+    "query": "Are phytosanitary products from the neonicotinoid family banned in certain EU countries?",
+    "response": [
+        "doc_4957.txt",
+        "doc_5455.txt",
+        "doc_23717.txt",
+        "doc_2654.txt",
+        "doc_23407.txt"
+    ]
+}

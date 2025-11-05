@@ -1,0 +1,10 @@
+{
+    "query": "According to one article, what is Habermas\u2019 key concept valuable for?",
+    "response": [
+        "doc_5942.txt",
+        "doc_9447.txt",
+        "doc_4833.txt",
+        "doc_22191.txt",
+        "doc_4326.txt"
+    ]
+}

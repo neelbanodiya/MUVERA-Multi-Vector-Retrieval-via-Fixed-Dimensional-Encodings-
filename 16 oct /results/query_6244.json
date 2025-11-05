@@ -1,0 +1,10 @@
+{
+    "query": "What is the annual rent paid by the Cricket Club to the Sevenoaks Town Council?",
+    "response": [
+        "doc_3616.txt",
+        "doc_22936.txt",
+        "doc_4482.txt",
+        "doc_10288.txt",
+        "doc_10500.txt"
+    ]
+}

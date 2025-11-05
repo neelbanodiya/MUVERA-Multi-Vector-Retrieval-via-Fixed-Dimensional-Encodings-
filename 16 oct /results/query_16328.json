@@ -1,0 +1,10 @@
+{
+    "query": "What action is the passage suggesting the Commission consider regarding market intervention in Greece?",
+    "response": [
+        "doc_9473.txt",
+        "doc_20298.txt",
+        "doc_16814.txt",
+        "doc_17771.txt",
+        "doc_23403.txt"
+    ]
+}

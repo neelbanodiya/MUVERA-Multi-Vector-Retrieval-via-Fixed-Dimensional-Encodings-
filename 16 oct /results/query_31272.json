@@ -1,0 +1,10 @@
+{
+    "query": "Who was freed after a trip by former President Bill Clinton?",
+    "response": [
+        "doc_20681.txt",
+        "doc_4812.txt",
+        "doc_431.txt",
+        "doc_22461.txt",
+        "doc_8129.txt"
+    ]
+}

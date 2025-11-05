@@ -1,0 +1,10 @@
+{
+    "query": "What branch of the U.S. military originally operated LID: COF?",
+    "response": [
+        "doc_23464.txt",
+        "doc_18898.txt",
+        "doc_16167.txt",
+        "doc_18900.txt",
+        "doc_18899.txt"
+    ]
+}

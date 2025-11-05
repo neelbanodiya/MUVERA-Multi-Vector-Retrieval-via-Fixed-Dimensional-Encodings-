@@ -1,0 +1,10 @@
+{
+    "query": "According to the Yale Law article, what is a generally accepted principle regarding customary international law?",
+    "response": [
+        "doc_9742.txt",
+        "doc_3438.txt",
+        "doc_21017.txt",
+        "doc_3092.txt",
+        "doc_7432.txt"
+    ]
+}

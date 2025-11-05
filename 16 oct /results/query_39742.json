@@ -1,0 +1,10 @@
+{
+    "query": "If a salary is paid to officials from EU funds, to how many officials is it paid?",
+    "response": [
+        "doc_2656.txt",
+        "doc_23264.txt",
+        "doc_2657.txt",
+        "doc_2027.txt",
+        "doc_865.txt"
+    ]
+}

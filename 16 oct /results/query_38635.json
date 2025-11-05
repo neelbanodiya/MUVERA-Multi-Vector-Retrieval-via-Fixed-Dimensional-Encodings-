@@ -1,0 +1,10 @@
+{
+    "query": "What region was the \"Purple People Eaters\" football team associated with?",
+    "response": [
+        "doc_22632.txt",
+        "doc_22649.txt",
+        "doc_22641.txt",
+        "doc_22633.txt",
+        "doc_22648.txt"
+    ]
+}

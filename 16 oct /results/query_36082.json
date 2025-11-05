@@ -1,0 +1,10 @@
+{
+    "query": "Who grinned as Cowell covered his face?",
+    "response": [
+        "doc_22072.txt",
+        "doc_15670.txt",
+        "doc_15680.txt",
+        "doc_14491.txt",
+        "doc_12734.txt"
+    ]
+}

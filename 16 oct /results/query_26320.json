@@ -1,0 +1,10 @@
+{
+    "query": "According to one article, what kind of music is featured on the \u201cThemes From Classic Science Fiction, Fantasy And Horror Films\u201d release?",
+    "response": [
+        "doc_15303.txt",
+        "doc_15304.txt",
+        "doc_15306.txt",
+        "doc_15305.txt",
+        "doc_15315.txt"
+    ]
+}

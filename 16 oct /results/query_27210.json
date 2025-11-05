@@ -1,0 +1,10 @@
+{
+    "query": "What year did Joe Namath sign with the New York Jets?",
+    "response": [
+        "doc_21942.txt",
+        "doc_2701.txt",
+        "doc_23053.txt",
+        "doc_23061.txt",
+        "doc_23052.txt"
+    ]
+}

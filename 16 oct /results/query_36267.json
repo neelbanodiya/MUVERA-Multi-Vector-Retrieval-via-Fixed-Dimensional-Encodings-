@@ -1,0 +1,10 @@
+{
+    "query": "Why did Mr. Field choose to take a redundancy package instead of celebrating the anniversary?",
+    "response": [
+        "doc_4502.txt",
+        "doc_19090.txt",
+        "doc_16745.txt",
+        "doc_22919.txt",
+        "doc_2957.txt"
+    ]
+}

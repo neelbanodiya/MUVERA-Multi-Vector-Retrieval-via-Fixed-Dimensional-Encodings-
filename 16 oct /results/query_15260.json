@@ -1,0 +1,10 @@
+{
+    "query": "In what region of Chile did the speaker grow up?",
+    "response": [
+        "doc_10935.txt",
+        "doc_1389.txt",
+        "doc_8847.txt",
+        "doc_11022.txt",
+        "doc_8845.txt"
+    ]
+}

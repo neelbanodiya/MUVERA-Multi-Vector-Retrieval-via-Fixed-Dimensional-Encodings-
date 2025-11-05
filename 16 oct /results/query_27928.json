@@ -1,0 +1,10 @@
+{
+    "query": "What happened at a dinner for Xi\u2019s predecessor involving a protester at the White House?",
+    "response": [
+        "doc_7921.txt",
+        "doc_6759.txt",
+        "doc_16234.txt",
+        "doc_21058.txt",
+        "doc_805.txt"
+    ]
+}

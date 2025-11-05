@@ -1,0 +1,10 @@
+{
+    "query": "What year did Frank Sinatra join the Tommy Dorsey Orchestra?",
+    "response": [
+        "doc_9455.txt",
+        "doc_9466.txt",
+        "doc_9463.txt",
+        "doc_9456.txt",
+        "doc_9462.txt"
+    ]
+}

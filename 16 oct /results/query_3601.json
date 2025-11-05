@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Golden Gate Bridge become a California Historic Civil Engineering Landmark?",
+    "response": [
+        "doc_19672.txt",
+        "doc_2123.txt",
+        "doc_16687.txt",
+        "doc_16685.txt",
+        "doc_16686.txt"
+    ]
+}

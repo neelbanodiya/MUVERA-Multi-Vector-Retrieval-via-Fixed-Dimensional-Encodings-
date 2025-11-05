@@ -1,0 +1,10 @@
+{
+    "query": "What is the Firth of Forth located in?",
+    "response": [
+        "doc_9249.txt",
+        "doc_9295.txt",
+        "doc_8682.txt",
+        "doc_23504.txt",
+        "doc_138.txt"
+    ]
+}

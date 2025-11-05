@@ -1,0 +1,10 @@
+{
+    "query": "What kind of show was *The Beverly Hillbillies* described as?",
+    "response": [
+        "doc_17179.txt",
+        "doc_17177.txt",
+        "doc_17183.txt",
+        "doc_17175.txt",
+        "doc_17182.txt"
+    ]
+}

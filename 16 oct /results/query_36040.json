@@ -1,0 +1,10 @@
+{
+    "query": "What specific types of information is the European Parliament requesting from EU Member States regarding their anti-terrorism measures?",
+    "response": [
+        "doc_14344.txt",
+        "doc_21026.txt",
+        "doc_15133.txt",
+        "doc_22580.txt",
+        "doc_10828.txt"
+    ]
+}

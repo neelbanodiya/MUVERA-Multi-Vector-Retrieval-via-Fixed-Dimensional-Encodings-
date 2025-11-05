@@ -1,0 +1,10 @@
+{
+    "query": "What types of recreational activities are available within the Daniel Boone National Forest?",
+    "response": [
+        "doc_18425.txt",
+        "doc_2879.txt",
+        "doc_2880.txt",
+        "doc_7300.txt",
+        "doc_18140.txt"
+    ]
+}

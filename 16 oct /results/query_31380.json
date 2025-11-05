@@ -1,0 +1,10 @@
+{
+    "query": "What number was retired by the Portland Trail Blazers in honor of their 1977 NBA Finals victory?",
+    "response": [
+        "doc_18336.txt",
+        "doc_18335.txt",
+        "doc_11226.txt",
+        "doc_3575.txt",
+        "doc_21626.txt"
+    ]
+}

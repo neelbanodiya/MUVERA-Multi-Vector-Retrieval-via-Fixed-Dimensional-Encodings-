@@ -1,0 +1,10 @@
+{
+    "query": "Is the European Commission aware of similar cases?",
+    "response": [
+        "doc_3702.txt",
+        "doc_2228.txt",
+        "doc_23224.txt",
+        "doc_14220.txt",
+        "doc_4427.txt"
+    ]
+}

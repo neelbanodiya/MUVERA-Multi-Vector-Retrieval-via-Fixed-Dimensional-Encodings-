@@ -1,0 +1,10 @@
+{
+    "query": "Which city is the seat of the executive and administrative branches of government in Bolivia?",
+    "response": [
+        "doc_6514.txt",
+        "doc_6515.txt",
+        "doc_6518.txt",
+        "doc_6516.txt",
+        "doc_6517.txt"
+    ]
+}

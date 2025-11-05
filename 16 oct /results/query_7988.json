@@ -1,0 +1,10 @@
+{
+    "query": "What happened in France in 1999 regarding Kosovar Albanians?",
+    "response": [
+        "doc_22972.txt",
+        "doc_22973.txt",
+        "doc_13909.txt",
+        "doc_9673.txt",
+        "doc_13820.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what city did Arthur Galan AG originate, and what types of clothing does the brand primarily offer?",
+    "response": [
+        "doc_12366.txt",
+        "doc_20932.txt",
+        "doc_20933.txt",
+        "doc_1097.txt",
+        "doc_12365.txt"
+    ]
+}

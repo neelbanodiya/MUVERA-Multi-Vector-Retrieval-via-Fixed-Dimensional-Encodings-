@@ -1,0 +1,10 @@
+{
+    "query": "Which song by Super Furry Animals did Gruff Rhys describe as being about \u201crings of communication around the world\u201d?",
+    "response": [
+        "doc_10107.txt",
+        "doc_6030.txt",
+        "doc_10112.txt",
+        "doc_709.txt",
+        "doc_704.txt"
+    ]
+}

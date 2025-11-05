@@ -1,0 +1,10 @@
+{
+    "query": "What phrase is translated as \u201cGood Day\u201d in Finnish, according to the provided text?",
+    "response": [
+        "doc_9259.txt",
+        "doc_9260.txt",
+        "doc_9265.txt",
+        "doc_9261.txt",
+        "doc_9268.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the free weekly film series hosted at the ATLANTA Emory Cinematheque?",
+    "response": [
+        "doc_6882.txt",
+        "doc_4457.txt",
+        "doc_14257.txt",
+        "doc_18844.txt",
+        "doc_15255.txt"
+    ]
+}

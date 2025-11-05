@@ -1,0 +1,10 @@
+{
+    "query": "What is the traditional sweetener used in Indian pudding according to the sources?",
+    "response": [
+        "doc_21685.txt",
+        "doc_21692.txt",
+        "doc_21686.txt",
+        "doc_21695.txt",
+        "doc_21697.txt"
+    ]
+}

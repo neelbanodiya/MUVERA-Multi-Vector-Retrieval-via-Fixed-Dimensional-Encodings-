@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was the year of Riccardo\u2019s 25th Anniversary reception?",
+    "response": [
+        "doc_1882.txt",
+        "doc_21368.txt",
+        "doc_11710.txt",
+        "doc_11629.txt",
+        "doc_12599.txt"
+    ]
+}

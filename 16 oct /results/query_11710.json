@@ -1,0 +1,10 @@
+{
+    "query": "Which names are listed alongside \u201cDumas\u201d?",
+    "response": [
+        "doc_11146.txt",
+        "doc_2950.txt",
+        "doc_2949.txt",
+        "doc_14493.txt",
+        "doc_22330.txt"
+    ]
+}

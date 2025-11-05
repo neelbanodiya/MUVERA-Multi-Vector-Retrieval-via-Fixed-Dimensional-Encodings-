@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the poem \u201cGoblin Market\u201d published?",
+    "response": [
+        "doc_6305.txt",
+        "doc_6306.txt",
+        "doc_6299.txt",
+        "doc_4165.txt",
+        "doc_23022.txt"
+    ]
+}

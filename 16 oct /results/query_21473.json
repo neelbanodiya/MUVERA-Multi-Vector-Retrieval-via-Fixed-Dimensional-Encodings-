@@ -1,0 +1,10 @@
+{
+    "query": "When did the City of Boston come under American control?",
+    "response": [
+        "doc_12368.txt",
+        "doc_6607.txt",
+        "doc_2711.txt",
+        "doc_2706.txt",
+        "doc_10049.txt"
+    ]
+}

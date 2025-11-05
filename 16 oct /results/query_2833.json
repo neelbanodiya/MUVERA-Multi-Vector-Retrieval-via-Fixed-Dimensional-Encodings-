@@ -1,0 +1,10 @@
+{
+    "query": "In what sector does the Escorts Group operate, as described in the passage?",
+    "response": [
+        "doc_12072.txt",
+        "doc_15326.txt",
+        "doc_6985.txt",
+        "doc_18911.txt",
+        "doc_22227.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What did Scotland invent?",
+    "response": [
+        "doc_12774.txt",
+        "doc_16451.txt",
+        "doc_12772.txt",
+        "doc_9250.txt",
+        "doc_12770.txt"
+    ]
+}

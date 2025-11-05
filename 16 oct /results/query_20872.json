@@ -1,0 +1,10 @@
+{
+    "query": "When did the Budgets Committee begin working on the 2013 budget?",
+    "response": [
+        "doc_22186.txt",
+        "doc_17578.txt",
+        "doc_22187.txt",
+        "doc_17534.txt",
+        "doc_17594.txt"
+    ]
+}

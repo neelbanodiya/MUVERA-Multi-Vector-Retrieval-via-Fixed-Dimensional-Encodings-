@@ -1,0 +1,10 @@
+{
+    "query": "Does the Commission plan to present further proposals to simplify the rules, particularly in areas with high error rates?",
+    "response": [
+        "doc_6223.txt",
+        "doc_18127.txt",
+        "doc_15031.txt",
+        "doc_16745.txt",
+        "doc_19520.txt"
+    ]
+}

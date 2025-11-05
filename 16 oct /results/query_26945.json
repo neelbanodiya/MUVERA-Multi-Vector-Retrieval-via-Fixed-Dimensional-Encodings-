@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, who are the three Muses that instruct Apollo in the ballet?",
+    "response": [
+        "doc_15649.txt",
+        "doc_15650.txt",
+        "doc_15664.txt",
+        "doc_15657.txt",
+        "doc_15658.txt"
+    ]
+}

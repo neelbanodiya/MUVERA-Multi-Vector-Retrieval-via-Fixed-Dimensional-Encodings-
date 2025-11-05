@@ -1,0 +1,10 @@
+{
+    "query": "What specific item is available for purchase at John Lewis alongside MAC eyeshadows and Dior lipstick?",
+    "response": [
+        "doc_10817.txt",
+        "doc_10814.txt",
+        "doc_10816.txt",
+        "doc_10809.txt",
+        "doc_10806.txt"
+    ]
+}

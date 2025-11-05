@@ -1,0 +1,10 @@
+{
+    "query": "What types of food were commonly eaten by soldiers during World War II?",
+    "response": [
+        "doc_12534.txt",
+        "doc_8917.txt",
+        "doc_7096.txt",
+        "doc_8751.txt",
+        "doc_8749.txt"
+    ]
+}

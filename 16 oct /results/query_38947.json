@@ -1,0 +1,10 @@
+{
+    "query": "What action is the passage requesting the ECB to take regarding supervision of SWIFT?",
+    "response": [
+        "doc_18303.txt",
+        "doc_20771.txt",
+        "doc_20808.txt",
+        "doc_13368.txt",
+        "doc_6984.txt"
+    ]
+}

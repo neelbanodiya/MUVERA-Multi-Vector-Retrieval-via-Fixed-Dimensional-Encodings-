@@ -1,0 +1,10 @@
+{
+    "query": "How many consecutive NCAA Tournaments did South Carolina make from 1995 to 2011?",
+    "response": [
+        "doc_3300.txt",
+        "doc_3301.txt",
+        "doc_3292.txt",
+        "doc_19633.txt",
+        "doc_19124.txt"
+    ]
+}

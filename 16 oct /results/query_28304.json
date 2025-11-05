@@ -1,0 +1,10 @@
+{
+    "query": "When did Richard Nixon deliver his \u201cSilent Majority\u201d speech?",
+    "response": [
+        "doc_16475.txt",
+        "doc_16471.txt",
+        "doc_16469.txt",
+        "doc_16476.txt",
+        "doc_16470.txt"
+    ]
+}

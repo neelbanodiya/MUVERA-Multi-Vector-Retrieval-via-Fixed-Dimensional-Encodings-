@@ -1,0 +1,10 @@
+{
+    "query": "What volcanic island separates the Bering Sea and Pacific Ocean?",
+    "response": [
+        "doc_9611.txt",
+        "doc_9610.txt",
+        "doc_9621.txt",
+        "doc_9609.txt",
+        "doc_9614.txt"
+    ]
+}

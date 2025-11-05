@@ -1,0 +1,10 @@
+{
+    "query": "In what year was John Hope Franklin honored with the Spingarn Medal?",
+    "response": [
+        "doc_22052.txt",
+        "doc_15822.txt",
+        "doc_851.txt",
+        "doc_53.txt",
+        "doc_4908.txt"
+    ]
+}

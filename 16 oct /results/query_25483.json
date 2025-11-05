@@ -1,0 +1,10 @@
+{
+    "query": "What is Aurora\u2019s parentage, as described in the text?",
+    "response": [
+        "doc_14771.txt",
+        "doc_14773.txt",
+        "doc_352.txt",
+        "doc_19708.txt",
+        "doc_20025.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When did the Chinese Communist Party come to power, according to the passage?",
+    "response": [
+        "doc_1050.txt",
+        "doc_4775.txt",
+        "doc_10984.txt",
+        "doc_1207.txt",
+        "doc_10988.txt"
+    ]
+}

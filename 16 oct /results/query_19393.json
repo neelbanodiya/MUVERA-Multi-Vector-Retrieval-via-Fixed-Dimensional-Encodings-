@@ -1,0 +1,10 @@
+{
+    "query": "What is a forceps defined as according to Merriam-Webster?",
+    "response": [
+        "doc_21020.txt",
+        "doc_11230.txt",
+        "doc_20760.txt",
+        "doc_8401.txt",
+        "doc_18739.txt"
+    ]
+}

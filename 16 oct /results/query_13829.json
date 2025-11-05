@@ -1,0 +1,10 @@
+{
+    "query": "What process did SCENIHR use to develop its opinion regarding dental amalgam?",
+    "response": [
+        "doc_8046.txt",
+        "doc_8047.txt",
+        "doc_17209.txt",
+        "doc_18903.txt",
+        "doc_13328.txt"
+    ]
+}

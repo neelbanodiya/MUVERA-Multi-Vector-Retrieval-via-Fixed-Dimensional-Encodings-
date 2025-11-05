@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of a book by Aldous Huxley that originated from Milton\u2019s work?",
+    "response": [
+        "doc_14934.txt",
+        "doc_1725.txt",
+        "doc_6298.txt",
+        "doc_20263.txt",
+        "doc_19952.txt"
+    ]
+}

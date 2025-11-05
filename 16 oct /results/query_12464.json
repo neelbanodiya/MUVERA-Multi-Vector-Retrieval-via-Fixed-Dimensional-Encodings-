@@ -1,0 +1,10 @@
+{
+    "query": "What is Air France-KLM seen as?",
+    "response": [
+        "doc_18728.txt",
+        "doc_18729.txt",
+        "doc_18730.txt",
+        "doc_22299.txt",
+        "doc_22503.txt"
+    ]
+}

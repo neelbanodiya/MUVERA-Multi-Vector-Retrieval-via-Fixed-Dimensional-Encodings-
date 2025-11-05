@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what role have universities traditionally played in European development?",
+    "response": [
+        "doc_5380.txt",
+        "doc_5375.txt",
+        "doc_5378.txt",
+        "doc_5376.txt",
+        "doc_5379.txt"
+    ]
+}

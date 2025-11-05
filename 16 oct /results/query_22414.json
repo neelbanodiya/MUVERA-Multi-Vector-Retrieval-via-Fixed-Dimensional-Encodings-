@@ -1,0 +1,10 @@
+{
+    "query": "Where are the managers of the Yacht Research Unit and Wind located in relation to standard SUVs?",
+    "response": [
+        "doc_4413.txt",
+        "doc_7292.txt",
+        "doc_22342.txt",
+        "doc_11117.txt",
+        "doc_14210.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Vonda Shepard signed to a recording contract?",
+    "response": [
+        "doc_18968.txt",
+        "doc_4735.txt",
+        "doc_18965.txt",
+        "doc_8122.txt",
+        "doc_4604.txt"
+    ]
+}

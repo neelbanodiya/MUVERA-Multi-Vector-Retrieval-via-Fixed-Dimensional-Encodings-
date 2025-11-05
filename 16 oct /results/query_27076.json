@@ -1,0 +1,10 @@
+{
+    "query": "Which airport in Saudi Arabia was mentioned as having recently renovated terminals?",
+    "response": [
+        "doc_15717.txt",
+        "doc_15730.txt",
+        "doc_15719.txt",
+        "doc_15718.txt",
+        "doc_15731.txt"
+    ]
+}

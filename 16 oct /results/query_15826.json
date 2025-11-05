@@ -1,0 +1,10 @@
+{
+    "query": "What is the central plot of the film \u201cBig Eyes\u201d?",
+    "response": [
+        "doc_6591.txt",
+        "doc_4475.txt",
+        "doc_18773.txt",
+        "doc_18947.txt",
+        "doc_4831.txt"
+    ]
+}

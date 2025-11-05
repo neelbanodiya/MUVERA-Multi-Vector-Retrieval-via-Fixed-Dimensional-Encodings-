@@ -1,0 +1,10 @@
+{
+    "query": "What compilation album, featuring The Prodigy, reached number 1 in the UK singles charts?",
+    "response": [
+        "doc_17727.txt",
+        "doc_17717.txt",
+        "doc_17730.txt",
+        "doc_17715.txt",
+        "doc_17725.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What geographical connection does the Strait of Hormuz create between bodies of water?",
+    "response": [
+        "doc_22947.txt",
+        "doc_22945.txt",
+        "doc_22939.txt",
+        "doc_22937.txt",
+        "doc_22940.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which National Book Award did a writer win?",
+    "response": [
+        "doc_5767.txt",
+        "doc_22568.txt",
+        "doc_24145.txt",
+        "doc_5762.txt",
+        "doc_5758.txt"
+    ]
+}

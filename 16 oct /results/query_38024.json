@@ -1,0 +1,10 @@
+{
+    "query": "Which country produced the CAC Boomerang, and when was it manufactured?",
+    "response": [
+        "doc_22299.txt",
+        "doc_10500.txt",
+        "doc_17211.txt",
+        "doc_12424.txt",
+        "doc_24118.txt"
+    ]
+}

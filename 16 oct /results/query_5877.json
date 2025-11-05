@@ -1,0 +1,10 @@
+{
+    "query": "What period does the passage primarily discuss regarding the United States armed forces?",
+    "response": [
+        "doc_3417.txt",
+        "doc_13505.txt",
+        "doc_17122.txt",
+        "doc_17121.txt",
+        "doc_8938.txt"
+    ]
+}

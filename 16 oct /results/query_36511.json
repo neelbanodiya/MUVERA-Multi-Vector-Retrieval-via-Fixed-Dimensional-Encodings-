@@ -1,0 +1,10 @@
+{
+    "query": "What is Poland\u2019s border control budget?",
+    "response": [
+        "doc_21304.txt",
+        "doc_3584.txt",
+        "doc_3585.txt",
+        "doc_15899.txt",
+        "doc_10084.txt"
+    ]
+}

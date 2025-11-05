@@ -1,0 +1,10 @@
+{
+    "query": "Who is the leader of the Union forces that are seen in the provided texts?",
+    "response": [
+        "doc_13203.txt",
+        "doc_22869.txt",
+        "doc_13204.txt",
+        "doc_9148.txt",
+        "doc_14365.txt"
+    ]
+}

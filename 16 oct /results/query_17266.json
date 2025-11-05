@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what action should Avery have taken?",
+    "response": [
+        "doc_13334.txt",
+        "doc_9997.txt",
+        "doc_3880.txt",
+        "doc_14526.txt",
+        "doc_309.txt"
+    ]
+}

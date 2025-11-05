@@ -1,0 +1,9 @@
+{
+    "query": "What was the release date of \u201cGreatest Hits\u201d by Westlife?",
+    "response": [
+        "doc_4603.txt",
+        "doc_8006.txt",
+        "doc_4606.txt",
+        "doc_4604.txt"
+    ]
+}

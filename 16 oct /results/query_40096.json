@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Volvo introduce the first production three-point seat belt?",
+    "response": [
+        "doc_23480.txt",
+        "doc_23477.txt",
+        "doc_23481.txt",
+        "doc_23478.txt",
+        "doc_23482.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what sea are the Cuyo Islands located?",
+    "response": [
+        "doc_12056.txt",
+        "doc_9610.txt",
+        "doc_12064.txt",
+        "doc_16230.txt",
+        "doc_11629.txt"
+    ]
+}

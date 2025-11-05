@@ -1,0 +1,10 @@
+{
+    "query": "What features are mentioned in the San Diego Reader article from December 2000?",
+    "response": [
+        "doc_18965.txt",
+        "doc_2121.txt",
+        "doc_15416.txt",
+        "doc_7408.txt",
+        "doc_4686.txt"
+    ]
+}

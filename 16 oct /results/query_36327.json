@@ -1,0 +1,10 @@
+{
+    "query": "What types of publications are mentioned as featuring the work of a Kenyan poet?",
+    "response": [
+        "doc_14658.txt",
+        "doc_3820.txt",
+        "doc_6707.txt",
+        "doc_6926.txt",
+        "doc_23608.txt"
+    ]
+}

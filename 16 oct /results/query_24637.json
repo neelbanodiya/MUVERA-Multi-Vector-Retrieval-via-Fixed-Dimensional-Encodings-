@@ -1,0 +1,10 @@
+{
+    "query": "According to Regulation (EC) No 295/2008, how is an \u201centerprise death\u201d defined?",
+    "response": [
+        "doc_14322.txt",
+        "doc_226.txt",
+        "doc_3265.txt",
+        "doc_19052.txt",
+        "doc_4701.txt"
+    ]
+}

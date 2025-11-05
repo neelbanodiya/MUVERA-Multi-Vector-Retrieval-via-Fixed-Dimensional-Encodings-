@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the town newspaper owner in \u201cUnder the Dome,\u201d as referenced in an episode of *The Simpsons*?",
+    "response": [
+        "doc_6908.txt",
+        "doc_3723.txt",
+        "doc_8912.txt",
+        "doc_12978.txt",
+        "doc_1298.txt"
+    ]
+}

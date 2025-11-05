@@ -1,0 +1,10 @@
+{
+    "query": "If claiming interest, what are the options for specifying the interest rate (e.g., a percentage above the ECB base rate or \u2018other\u2019)?",
+    "response": [
+        "doc_3444.txt",
+        "doc_3448.txt",
+        "doc_3445.txt",
+        "doc_3426.txt",
+        "doc_3443.txt"
+    ]
+}

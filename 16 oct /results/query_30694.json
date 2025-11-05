@@ -1,0 +1,10 @@
+{
+    "query": "What kind of souvenirs can be found at the Holmenkollen ski-jumping hill?",
+    "response": [
+        "doc_17859.txt",
+        "doc_17863.txt",
+        "doc_17853.txt",
+        "doc_17851.txt",
+        "doc_17854.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Dwight D. Eisenhower die?",
+    "response": [
+        "doc_6108.txt",
+        "doc_6110.txt",
+        "doc_6112.txt",
+        "doc_20256.txt",
+        "doc_7721.txt"
+    ]
+}

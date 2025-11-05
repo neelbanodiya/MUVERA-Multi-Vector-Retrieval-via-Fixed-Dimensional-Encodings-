@@ -1,0 +1,10 @@
+{
+    "query": "What regional Convention is being referenced in the resolution?",
+    "response": [
+        "doc_20749.txt",
+        "doc_1782.txt",
+        "doc_13355.txt",
+        "doc_13202.txt",
+        "doc_9883.txt"
+    ]
+}

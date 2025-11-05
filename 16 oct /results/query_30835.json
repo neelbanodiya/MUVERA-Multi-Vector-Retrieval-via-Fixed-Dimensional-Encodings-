@@ -1,0 +1,10 @@
+{
+    "query": "In what region did Dzhokhar Dudayev serve as president, and what was the status of this region at the time of his death?",
+    "response": [
+        "doc_17965.txt",
+        "doc_17968.txt",
+        "doc_17966.txt",
+        "doc_17972.txt",
+        "doc_17969.txt"
+    ]
+}

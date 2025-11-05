@@ -1,0 +1,10 @@
+{
+    "query": "Who joined Jimmy and the others?",
+    "response": [
+        "doc_1784.txt",
+        "doc_12337.txt",
+        "doc_9401.txt",
+        "doc_3070.txt",
+        "doc_1033.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Appomattox Manor built?",
+    "response": [
+        "doc_3187.txt",
+        "doc_1450.txt",
+        "doc_19974.txt",
+        "doc_10049.txt",
+        "doc_18621.txt"
+    ]
+}

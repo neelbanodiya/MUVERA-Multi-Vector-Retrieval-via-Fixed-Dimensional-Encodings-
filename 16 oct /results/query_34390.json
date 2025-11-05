@@ -1,0 +1,10 @@
+{
+    "query": "What is Jim Hawkins\u2019 initial role on the *Hispaniola*?",
+    "response": [
+        "doc_20006.txt",
+        "doc_20010.txt",
+        "doc_20018.txt",
+        "doc_1974.txt",
+        "doc_15277.txt"
+    ]
+}

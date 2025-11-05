@@ -1,0 +1,10 @@
+{
+    "query": "What action does Medea take that is described as removing a \u201csmile\u201d from someone?",
+    "response": [
+        "doc_8051.txt",
+        "doc_3050.txt",
+        "doc_3794.txt",
+        "doc_4103.txt",
+        "doc_9144.txt"
+    ]
+}

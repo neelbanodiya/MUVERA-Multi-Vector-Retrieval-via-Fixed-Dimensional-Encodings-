@@ -1,0 +1,10 @@
+{
+    "query": "In 1968, who received the highest honor that Japan offered, specifically related to flowers?",
+    "response": [
+        "doc_22013.txt",
+        "doc_22021.txt",
+        "doc_22019.txt",
+        "doc_22014.txt",
+        "doc_22015.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is a notable feature of Glacier National Park described in the provided links?",
+    "response": [
+        "doc_18135.txt",
+        "doc_18129.txt",
+        "doc_18131.txt",
+        "doc_18140.txt",
+        "doc_13997.txt"
+    ]
+}

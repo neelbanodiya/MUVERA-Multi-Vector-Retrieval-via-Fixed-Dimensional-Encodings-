@@ -1,0 +1,10 @@
+{
+    "query": "Who is Curly McLain in the story?",
+    "response": [
+        "doc_20006.txt",
+        "doc_20134.txt",
+        "doc_21902.txt",
+        "doc_3700.txt",
+        "doc_2231.txt"
+    ]
+}

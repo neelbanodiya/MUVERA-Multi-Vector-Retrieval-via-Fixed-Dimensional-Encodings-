@@ -1,0 +1,10 @@
+{
+    "query": "What film features Bill Murray as a groundskeeper named Carl?",
+    "response": [
+        "doc_16925.txt",
+        "doc_10969.txt",
+        "doc_15485.txt",
+        "doc_5156.txt",
+        "doc_13535.txt"
+    ]
+}

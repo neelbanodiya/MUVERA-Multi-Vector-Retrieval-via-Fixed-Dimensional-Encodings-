@@ -1,0 +1,10 @@
+{
+    "query": "In what two countries is Jane Campion based?",
+    "response": [
+        "doc_8789.txt",
+        "doc_3281.txt",
+        "doc_3268.txt",
+        "doc_6623.txt",
+        "doc_22969.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is a notable characteristic of *Lophodermium* fungi, and which plant family do they frequently infect?",
+    "response": [
+        "doc_20057.txt",
+        "doc_2950.txt",
+        "doc_20056.txt",
+        "doc_19031.txt",
+        "doc_2951.txt"
+    ]
+}

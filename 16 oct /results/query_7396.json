@@ -1,0 +1,10 @@
+{
+    "query": "What refrigerator was introduced by Kelvinator in 1952?",
+    "response": [
+        "doc_4285.txt",
+        "doc_4293.txt",
+        "doc_4286.txt",
+        "doc_4289.txt",
+        "doc_4288.txt"
+    ]
+}

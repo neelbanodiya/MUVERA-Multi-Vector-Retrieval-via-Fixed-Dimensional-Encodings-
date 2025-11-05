@@ -1,0 +1,10 @@
+{
+    "query": "For which film was Carey Villegas nominated for the 83rd Academy Awards in the category of Best Visual Effects?",
+    "response": [
+        "doc_13633.txt",
+        "doc_2263.txt",
+        "doc_4909.txt",
+        "doc_4918.txt",
+        "doc_12358.txt"
+    ]
+}

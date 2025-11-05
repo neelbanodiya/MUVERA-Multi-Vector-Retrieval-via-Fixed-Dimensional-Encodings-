@@ -1,0 +1,10 @@
+{
+    "query": "Which individuals were involved in the 1988 debate where \u201cSenator, you\u2019re no Jack Kennedy\u201d was said?",
+    "response": [
+        "doc_17410.txt",
+        "doc_17411.txt",
+        "doc_17413.txt",
+        "doc_17417.txt",
+        "doc_17418.txt"
+    ]
+}

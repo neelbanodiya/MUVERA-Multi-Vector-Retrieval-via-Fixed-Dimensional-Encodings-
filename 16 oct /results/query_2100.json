@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, who was appointed as Israel\u2019s first king?",
+    "response": [
+        "doc_1247.txt",
+        "doc_1235.txt",
+        "doc_1246.txt",
+        "doc_1237.txt",
+        "doc_1243.txt"
+    ]
+}

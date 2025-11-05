@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the stadium where the Denver Broncos won Super Bowl XXXII?",
+    "response": [
+        "doc_6194.txt",
+        "doc_6195.txt",
+        "doc_6209.txt",
+        "doc_11256.txt",
+        "doc_18913.txt"
+    ]
+}

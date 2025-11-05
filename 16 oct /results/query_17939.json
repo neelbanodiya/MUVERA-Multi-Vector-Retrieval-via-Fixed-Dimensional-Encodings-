@@ -1,0 +1,10 @@
+{
+    "query": "What is the estimated oil reserve size in Libya as of 2010?",
+    "response": [
+        "doc_10385.txt",
+        "doc_21441.txt",
+        "doc_2030.txt",
+        "doc_7717.txt",
+        "doc_22692.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the new casino complex located in St. Louis?",
+    "response": [
+        "doc_21166.txt",
+        "doc_2426.txt",
+        "doc_21164.txt",
+        "doc_572.txt",
+        "doc_14640.txt"
+    ]
+}

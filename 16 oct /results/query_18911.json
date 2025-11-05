@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many people were assembled in Tiananmen Square at the height of the protests?",
+    "response": [
+        "doc_10970.txt",
+        "doc_10978.txt",
+        "doc_10987.txt",
+        "doc_10988.txt",
+        "doc_10974.txt"
+    ]
+}

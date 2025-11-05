@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what type of structures are found in La Laguna de San Gabriel?",
+    "response": [
+        "doc_2499.txt",
+        "doc_19706.txt",
+        "doc_8124.txt",
+        "doc_4597.txt",
+        "doc_8685.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Besides the Painted Desert, what other natural feature is found within the Petrified Forest National Park?",
+    "response": [
+        "doc_9326.txt",
+        "doc_9324.txt",
+        "doc_9327.txt",
+        "doc_9336.txt",
+        "doc_9325.txt"
+    ]
+}

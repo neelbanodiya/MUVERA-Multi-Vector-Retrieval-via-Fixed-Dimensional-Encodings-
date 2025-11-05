@@ -1,0 +1,10 @@
+{
+    "query": "According to Ms. Malmstr\u00f6m, what would be the objective of a potential Commission proposal regarding Schengen rules?",
+    "response": [
+        "doc_132.txt",
+        "doc_10500.txt",
+        "doc_24018.txt",
+        "doc_9671.txt",
+        "doc_10306.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Frank Buck film serial did Harry L. Fraser direct?",
+    "response": [
+        "doc_14748.txt",
+        "doc_21391.txt",
+        "doc_5867.txt",
+        "doc_2679.txt",
+        "doc_19588.txt"
+    ]
+}

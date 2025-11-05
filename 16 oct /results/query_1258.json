@@ -1,0 +1,10 @@
+{
+    "query": "What Commission Regulation replaced the previous rules regarding wine labeling?",
+    "response": [
+        "doc_723.txt",
+        "doc_5724.txt",
+        "doc_19533.txt",
+        "doc_20795.txt",
+        "doc_20814.txt"
+    ]
+}

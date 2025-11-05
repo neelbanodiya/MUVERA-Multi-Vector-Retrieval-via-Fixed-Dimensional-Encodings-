@@ -1,0 +1,9 @@
+{
+    "query": "Which television series starring Kim Sung-ryung aired on MBC from March 14, 2015, for 50 episodes?",
+    "response": [
+        "doc_16054.txt",
+        "doc_6916.txt",
+        "doc_16055.txt",
+        "doc_6917.txt"
+    ]
+}

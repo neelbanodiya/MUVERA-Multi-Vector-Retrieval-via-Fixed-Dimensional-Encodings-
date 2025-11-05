@@ -1,0 +1,10 @@
+{
+    "query": "In what country was Bruno Gerussi born, and for what television series is he most famous?",
+    "response": [
+        "doc_4475.txt",
+        "doc_10762.txt",
+        "doc_627.txt",
+        "doc_623.txt",
+        "doc_21041.txt"
+    ]
+}

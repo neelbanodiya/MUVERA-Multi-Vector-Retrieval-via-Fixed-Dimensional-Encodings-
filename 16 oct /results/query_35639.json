@@ -1,0 +1,10 @@
+{
+    "query": "What specific articles of Regulation (EU) No [xxxx/2011] are referenced in conjunction with Article [5] of the same regulation?",
+    "response": [
+        "doc_20830.txt",
+        "doc_20752.txt",
+        "doc_20822.txt",
+        "doc_20848.txt",
+        "doc_20835.txt"
+    ]
+}

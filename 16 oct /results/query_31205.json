@@ -1,0 +1,10 @@
+{
+    "query": "Who built the labyrinth for King Minos, and what was his skill in construction?",
+    "response": [
+        "doc_18210.txt",
+        "doc_18202.txt",
+        "doc_18193.txt",
+        "doc_18198.txt",
+        "doc_506.txt"
+    ]
+}

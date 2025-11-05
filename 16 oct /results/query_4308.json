@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the character played by Katharine Hepburn in *Suddenly, Last Summer*?",
+    "response": [
+        "doc_2503.txt",
+        "doc_2504.txt",
+        "doc_2502.txt",
+        "doc_2510.txt",
+        "doc_2512.txt"
+    ]
+}

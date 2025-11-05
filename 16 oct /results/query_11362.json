@@ -1,0 +1,10 @@
+{
+    "query": "According to Merriam-Webster, what is a conga?",
+    "response": [
+        "doc_6598.txt",
+        "doc_10209.txt",
+        "doc_17773.txt",
+        "doc_22879.txt",
+        "doc_12944.txt"
+    ]
+}

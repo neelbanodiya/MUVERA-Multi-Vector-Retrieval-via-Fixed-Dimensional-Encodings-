@@ -1,0 +1,10 @@
+{
+    "query": "What specific dish is described as \u201cI ate his liver with some fava beans and a nice Chianti\u201d?",
+    "response": [
+        "doc_15004.txt",
+        "doc_15781.txt",
+        "doc_15778.txt",
+        "doc_21687.txt",
+        "doc_9724.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what context is the phrase \u201cI\u2019m going to steal the Declaration of Independence\u201d referenced in a book titled \u201cMe the People\u201d?",
+    "response": [
+        "doc_7157.txt",
+        "doc_7161.txt",
+        "doc_7158.txt",
+        "doc_7160.txt",
+        "doc_7162.txt"
+    ]
+}

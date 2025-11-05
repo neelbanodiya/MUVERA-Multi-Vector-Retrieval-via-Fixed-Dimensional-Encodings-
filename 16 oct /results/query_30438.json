@@ -1,0 +1,10 @@
+{
+    "query": "How did the arrival of Pablo Neruda impact the local community on the island featured in *Il Postino*?",
+    "response": [
+        "doc_6504.txt",
+        "doc_11629.txt",
+        "doc_5030.txt",
+        "doc_663.txt",
+        "doc_772.txt"
+    ]
+}

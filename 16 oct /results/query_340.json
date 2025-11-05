@@ -1,0 +1,10 @@
+{
+    "query": "Is the proposed plan to close down Olympic Airways consistent with Community law?",
+    "response": [
+        "doc_188.txt",
+        "doc_7006.txt",
+        "doc_189.txt",
+        "doc_7004.txt",
+        "doc_7007.txt"
+    ]
+}

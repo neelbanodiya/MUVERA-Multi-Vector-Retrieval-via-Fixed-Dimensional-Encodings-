@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate time difference between Vasco da Gama\u2019s arrival in India and the death of Chinese explorer Cheng Ho?",
+    "response": [
+        "doc_19239.txt",
+        "doc_19235.txt",
+        "doc_19236.txt",
+        "doc_19234.txt",
+        "doc_19233.txt"
+    ]
+}

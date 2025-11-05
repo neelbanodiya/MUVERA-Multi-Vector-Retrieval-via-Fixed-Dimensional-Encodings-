@@ -1,0 +1,10 @@
+{
+    "query": "Which band is Jeremy Riddle associated with, and what was a notable song from their album *Full Attention*?",
+    "response": [
+        "doc_20041.txt",
+        "doc_12338.txt",
+        "doc_12713.txt",
+        "doc_13852.txt",
+        "doc_16033.txt"
+    ]
+}

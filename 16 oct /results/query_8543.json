@@ -1,0 +1,10 @@
+{
+    "query": "When was Company C first mustered as the Cambridge Light Infantry?",
+    "response": [
+        "doc_4952.txt",
+        "doc_4953.txt",
+        "doc_4954.txt",
+        "doc_4955.txt",
+        "doc_22444.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what did the people of Israel desire when seeking a king?",
+    "response": [
+        "doc_1240.txt",
+        "doc_1250.txt",
+        "doc_1239.txt",
+        "doc_19764.txt",
+        "doc_7912.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who is Helen Reddy?",
+    "response": [
+        "doc_10682.txt",
+        "doc_9772.txt",
+        "doc_14424.txt",
+        "doc_21156.txt",
+        "doc_14779.txt"
+    ]
+}

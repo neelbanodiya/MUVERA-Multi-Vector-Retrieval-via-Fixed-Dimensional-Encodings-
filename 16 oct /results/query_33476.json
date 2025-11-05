@@ -1,0 +1,10 @@
+{
+    "query": "According to the articles, what was a key characteristic of the Lincoln S&L that contributed to its downfall?",
+    "response": [
+        "doc_5171.txt",
+        "doc_6860.txt",
+        "doc_13877.txt",
+        "doc_22395.txt",
+        "doc_19130.txt"
+    ]
+}

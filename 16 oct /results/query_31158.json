@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what role did Tituba play in the Salem Witch Trials?",
+    "response": [
+        "doc_9125.txt",
+        "doc_18150.txt",
+        "doc_18145.txt",
+        "doc_1306.txt",
+        "doc_18144.txt"
+    ]
+}

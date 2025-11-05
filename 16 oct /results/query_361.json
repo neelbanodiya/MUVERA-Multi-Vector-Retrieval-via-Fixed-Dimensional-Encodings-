@@ -1,0 +1,10 @@
+{
+    "query": "What nickname did the South give to the Battle of Antietam?",
+    "response": [
+        "doc_193.txt",
+        "doc_207.txt",
+        "doc_203.txt",
+        "doc_190.txt",
+        "doc_198.txt"
+    ]
+}

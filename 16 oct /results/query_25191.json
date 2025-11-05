@@ -1,0 +1,10 @@
+{
+    "query": "Which rivers were mentioned as being associated with health hazards in Belgium?",
+    "response": [
+        "doc_16444.txt",
+        "doc_16407.txt",
+        "doc_77.txt",
+        "doc_19821.txt",
+        "doc_12680.txt"
+    ]
+}

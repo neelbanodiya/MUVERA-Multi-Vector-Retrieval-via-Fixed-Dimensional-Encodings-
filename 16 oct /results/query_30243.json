@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the current proportion of environmental infringement cases within the EU\u2019s overall pending cases?",
+    "response": [
+        "doc_13366.txt",
+        "doc_4706.txt",
+        "doc_9671.txt",
+        "doc_9770.txt",
+        "doc_16891.txt"
+    ]
+}

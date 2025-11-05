@@ -1,0 +1,10 @@
+{
+    "query": "What evolutionary concept does the passage link to the idea of all life on Earth being related?",
+    "response": [
+        "doc_16067.txt",
+        "doc_9344.txt",
+        "doc_12597.txt",
+        "doc_7449.txt",
+        "doc_5929.txt"
+    ]
+}

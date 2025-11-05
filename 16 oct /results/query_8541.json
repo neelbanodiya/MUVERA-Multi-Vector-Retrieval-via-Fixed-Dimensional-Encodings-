@@ -1,0 +1,10 @@
+{
+    "query": "What type of establishment hosted the Mayo holiday party?",
+    "response": [
+        "doc_4951.txt",
+        "doc_397.txt",
+        "doc_6835.txt",
+        "doc_7340.txt",
+        "doc_6862.txt"
+    ]
+}

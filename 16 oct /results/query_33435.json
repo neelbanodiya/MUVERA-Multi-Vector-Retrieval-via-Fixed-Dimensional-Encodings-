@@ -1,0 +1,10 @@
+{
+    "query": "Which family was connected with St Elizabeth Parish in Jamaica?",
+    "response": [
+        "doc_19479.txt",
+        "doc_984.txt",
+        "doc_12949.txt",
+        "doc_17043.txt",
+        "doc_23690.txt"
+    ]
+}

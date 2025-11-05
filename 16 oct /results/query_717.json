@@ -1,0 +1,10 @@
+{
+    "query": "What types of footwear were being observed at New York Fashion Week?",
+    "response": [
+        "doc_6734.txt",
+        "doc_413.txt",
+        "doc_6738.txt",
+        "doc_8827.txt",
+        "doc_21601.txt"
+    ]
+}

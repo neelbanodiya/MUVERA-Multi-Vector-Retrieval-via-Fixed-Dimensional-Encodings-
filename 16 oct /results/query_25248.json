@@ -1,0 +1,10 @@
+{
+    "query": "Who received the artifacts from the Spanish government?",
+    "response": [
+        "doc_9675.txt",
+        "doc_19681.txt",
+        "doc_19682.txt",
+        "doc_4296.txt",
+        "doc_10288.txt"
+    ]
+}

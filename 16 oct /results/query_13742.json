@@ -1,0 +1,10 @@
+{
+    "query": "What was the original intended title of Paul Simon\u2019s \u201cGreatest Hits, Etc.\u201d album?",
+    "response": [
+        "doc_8008.txt",
+        "doc_8006.txt",
+        "doc_4604.txt",
+        "doc_6337.txt",
+        "doc_12338.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the Vogue US editor?",
+    "response": [
+        "doc_1020.txt",
+        "doc_12365.txt",
+        "doc_2023.txt",
+        "doc_14612.txt",
+        "doc_10682.txt"
+    ]
+}

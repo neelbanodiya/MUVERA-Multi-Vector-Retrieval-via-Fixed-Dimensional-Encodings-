@@ -1,0 +1,10 @@
+{
+    "query": "When was the European Parliament\u2019s resolution on the ministerial meeting of the European Space Agency?",
+    "response": [
+        "doc_18604.txt",
+        "doc_4028.txt",
+        "doc_15468.txt",
+        "doc_19524.txt",
+        "doc_7811.txt"
+    ]
+}

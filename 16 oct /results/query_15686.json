@@ -1,0 +1,10 @@
+{
+    "query": "In what state was Dale Earnhardt born?",
+    "response": [
+        "doc_9095.txt",
+        "doc_9083.txt",
+        "doc_14748.txt",
+        "doc_3571.txt",
+        "doc_5575.txt"
+    ]
+}

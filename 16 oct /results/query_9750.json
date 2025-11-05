@@ -1,0 +1,10 @@
+{
+    "query": "What specific actions did the European Parliament call for regarding smoking in enclosed workplaces?",
+    "response": [
+        "doc_6658.txt",
+        "doc_3091.txt",
+        "doc_12956.txt",
+        "doc_17890.txt",
+        "doc_6414.txt"
+    ]
+}

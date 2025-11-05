@@ -1,0 +1,10 @@
+{
+    "query": "What award did Jane Campion win at the Cannes Film Festival in 1993?",
+    "response": [
+        "doc_3220.txt",
+        "doc_3219.txt",
+        "doc_3233.txt",
+        "doc_3232.txt",
+        "doc_3229.txt"
+    ]
+}

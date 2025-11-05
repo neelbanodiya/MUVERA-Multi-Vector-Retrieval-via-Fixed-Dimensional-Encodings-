@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, who did Sir Walter Scott collaborate with on a particular project?",
+    "response": [
+        "doc_17913.txt",
+        "doc_11916.txt",
+        "doc_22250.txt",
+        "doc_5897.txt",
+        "doc_385.txt"
+    ]
+}

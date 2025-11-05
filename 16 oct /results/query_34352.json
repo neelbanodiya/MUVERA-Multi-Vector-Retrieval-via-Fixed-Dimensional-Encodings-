@@ -1,0 +1,10 @@
+{
+    "query": "Besides The Honeys, which other female group contributed vocals to a Beach Boys single mentioned in the provided text?",
+    "response": [
+        "doc_18886.txt",
+        "doc_19986.txt",
+        "doc_12408.txt",
+        "doc_13104.txt",
+        "doc_22491.txt"
+    ]
+}

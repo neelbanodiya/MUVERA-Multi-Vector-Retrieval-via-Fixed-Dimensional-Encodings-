@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the agency open a new office in Las Vegas, Nevada?",
+    "response": [
+        "doc_452.txt",
+        "doc_23400.txt",
+        "doc_61.txt",
+        "doc_7811.txt",
+        "doc_4686.txt"
+    ]
+}

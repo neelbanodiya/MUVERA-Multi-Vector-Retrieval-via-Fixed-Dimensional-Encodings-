@@ -1,0 +1,10 @@
+{
+    "query": "Besides Fisherman\u2019s Wharf, what other nearby locations are the Nob Hill Hotel close to?",
+    "response": [
+        "doc_17816.txt",
+        "doc_17805.txt",
+        "doc_17808.txt",
+        "doc_17819.txt",
+        "doc_5563.txt"
+    ]
+}

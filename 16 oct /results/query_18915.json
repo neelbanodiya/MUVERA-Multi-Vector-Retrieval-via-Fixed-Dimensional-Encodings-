@@ -1,0 +1,10 @@
+{
+    "query": "What action did the Chinese government take in response to the demonstrations in Tiananmen Square?",
+    "response": [
+        "doc_10987.txt",
+        "doc_10984.txt",
+        "doc_10981.txt",
+        "doc_10975.txt",
+        "doc_10979.txt"
+    ]
+}

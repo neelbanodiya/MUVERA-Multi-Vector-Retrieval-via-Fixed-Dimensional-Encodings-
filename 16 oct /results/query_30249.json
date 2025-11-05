@@ -1,0 +1,10 @@
+{
+    "query": "Which policy areas are within the budgetary remit of the ITRE committee, as outlined in the passage?",
+    "response": [
+        "doc_132.txt",
+        "doc_21441.txt",
+        "doc_22192.txt",
+        "doc_13303.txt",
+        "doc_13364.txt"
+    ]
+}

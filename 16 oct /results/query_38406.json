@@ -1,0 +1,10 @@
+{
+    "query": "Which publishing firm has published Bloom\u2019s \u201cBloom\u2019s Literary Criticism\u201d series?",
+    "response": [
+        "doc_22536.txt",
+        "doc_22535.txt",
+        "doc_1000.txt",
+        "doc_18583.txt",
+        "doc_16749.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Council Regulation (EC) No 864/2004 adopted, and what was its purpose?",
+    "response": [
+        "doc_3424.txt",
+        "doc_3006.txt",
+        "doc_22228.txt",
+        "doc_22229.txt",
+        "doc_4700.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year was \u201cBye Bye Bye\u201d released by NSYNC?",
+    "response": [
+        "doc_20316.txt",
+        "doc_14725.txt",
+        "doc_5279.txt",
+        "doc_3476.txt",
+        "doc_8468.txt"
+    ]
+}

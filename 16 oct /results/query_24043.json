@@ -1,0 +1,10 @@
+{
+    "query": "What is Tom Cruise\u2019s birthdate?",
+    "response": [
+        "doc_6380.txt",
+        "doc_8377.txt",
+        "doc_14748.txt",
+        "doc_3797.txt",
+        "doc_8372.txt"
+    ]
+}

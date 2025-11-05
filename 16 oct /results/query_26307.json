@@ -1,0 +1,10 @@
+{
+    "query": "Where was John baptized, and what role did this event play in confirming John\u2019s ministry?",
+    "response": [
+        "doc_23697.txt",
+        "doc_6319.txt",
+        "doc_6325.txt",
+        "doc_23698.txt",
+        "doc_23317.txt"
+    ]
+}

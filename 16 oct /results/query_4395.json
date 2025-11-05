@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of Barenaked Ladies\u2019 upcoming album, and when is it scheduled for release?",
+    "response": [
+        "doc_5278.txt",
+        "doc_15313.txt",
+        "doc_8467.txt",
+        "doc_16865.txt",
+        "doc_1422.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is the title of one of the songs on the \u201cAnimal Boy\u201d album?",
+    "response": [
+        "doc_12338.txt",
+        "doc_15141.txt",
+        "doc_20896.txt",
+        "doc_12713.txt",
+        "doc_13852.txt"
+    ]
+}

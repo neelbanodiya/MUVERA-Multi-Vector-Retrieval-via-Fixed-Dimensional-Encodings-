@@ -1,0 +1,10 @@
+{
+    "query": "Who directed \u201cHostel: Part III\u201d?",
+    "response": [
+        "doc_3201.txt",
+        "doc_10927.txt",
+        "doc_14577.txt",
+        "doc_23557.txt",
+        "doc_5868.txt"
+    ]
+}

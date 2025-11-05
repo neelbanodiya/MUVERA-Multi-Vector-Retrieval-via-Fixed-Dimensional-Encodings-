@@ -1,0 +1,10 @@
+{
+    "query": "Which prefecture-level city in Hebei Province is Xuanhua located in?",
+    "response": [
+        "doc_16758.txt",
+        "doc_16759.txt",
+        "doc_4543.txt",
+        "doc_38.txt",
+        "doc_39.txt"
+    ]
+}

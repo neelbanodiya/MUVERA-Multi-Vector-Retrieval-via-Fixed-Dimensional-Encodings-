@@ -1,0 +1,10 @@
+{
+    "query": "What type of establishment is Smuggler\u2019s Cove likened to?",
+    "response": [
+        "doc_7369.txt",
+        "doc_7258.txt",
+        "doc_13724.txt",
+        "doc_15426.txt",
+        "doc_14641.txt"
+    ]
+}

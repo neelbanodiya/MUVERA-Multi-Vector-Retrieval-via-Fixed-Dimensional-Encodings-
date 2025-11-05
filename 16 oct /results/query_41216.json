@@ -1,0 +1,10 @@
+{
+    "query": "Which team won the coin flip to determine the higher pick in the 1988 NBA draft?",
+    "response": [
+        "doc_24140.txt",
+        "doc_24143.txt",
+        "doc_24141.txt",
+        "doc_24142.txt",
+        "doc_24139.txt"
+    ]
+}

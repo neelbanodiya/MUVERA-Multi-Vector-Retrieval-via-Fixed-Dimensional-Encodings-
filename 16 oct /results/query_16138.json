@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Petrified Forest National Park located geographically?",
+    "response": [
+        "doc_9324.txt",
+        "doc_9328.txt",
+        "doc_9332.txt",
+        "doc_9327.txt",
+        "doc_9326.txt"
+    ]
+}

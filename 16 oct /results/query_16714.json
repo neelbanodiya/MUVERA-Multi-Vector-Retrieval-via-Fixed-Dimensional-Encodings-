@@ -1,0 +1,10 @@
+{
+    "query": "The passage mentions a biblical reference \u2013 Acts 17:6 \u2013 what action did the people take in response to those \u201cturning the world upside down\u201d?",
+    "response": [
+        "doc_9686.txt",
+        "doc_20631.txt",
+        "doc_20645.txt",
+        "doc_9685.txt",
+        "doc_19431.txt"
+    ]
+}

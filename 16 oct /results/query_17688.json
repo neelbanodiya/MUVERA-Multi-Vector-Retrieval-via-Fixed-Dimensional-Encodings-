@@ -1,0 +1,10 @@
+{
+    "query": "What size FLOR tiles are packaged in an oversized pizza box?",
+    "response": [
+        "doc_10240.txt",
+        "doc_10231.txt",
+        "doc_10242.txt",
+        "doc_10236.txt",
+        "doc_8242.txt"
+    ]
+}

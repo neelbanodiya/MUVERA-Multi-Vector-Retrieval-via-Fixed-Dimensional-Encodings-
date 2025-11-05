@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Katz Group of Companies based?",
+    "response": [
+        "doc_14642.txt",
+        "doc_14641.txt",
+        "doc_12645.txt",
+        "doc_12736.txt",
+        "doc_14640.txt"
+    ]
+}

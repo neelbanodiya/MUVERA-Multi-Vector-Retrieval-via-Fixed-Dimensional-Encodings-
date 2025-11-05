@@ -1,0 +1,10 @@
+{
+    "query": "In 1812, what action did British troops take that angered the United States?",
+    "response": [
+        "doc_17954.txt",
+        "doc_17961.txt",
+        "doc_10053.txt",
+        "doc_17957.txt",
+        "doc_10050.txt"
+    ]
+}

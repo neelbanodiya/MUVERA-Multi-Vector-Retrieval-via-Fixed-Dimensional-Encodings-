@@ -1,0 +1,10 @@
+{
+    "query": "On which album does the song \u201cKim\u201d appear, and when was it released?",
+    "response": [
+        "doc_6689.txt",
+        "doc_15611.txt",
+        "doc_24092.txt",
+        "doc_14727.txt",
+        "doc_14724.txt"
+    ]
+}

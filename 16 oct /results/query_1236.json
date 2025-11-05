@@ -1,0 +1,10 @@
+{
+    "query": "What is Jack Frost traditionally associated with, according to the provided text?",
+    "response": [
+        "doc_20220.txt",
+        "doc_20219.txt",
+        "doc_10083.txt",
+        "doc_2907.txt",
+        "doc_11916.txt"
+    ]
+}

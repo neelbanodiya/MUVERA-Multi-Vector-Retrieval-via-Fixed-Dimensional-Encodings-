@@ -1,0 +1,10 @@
+{
+    "query": "What types of boats are frequently seen alongside sailboats in St. Augustine?",
+    "response": [
+        "doc_17816.txt",
+        "doc_22270.txt",
+        "doc_17661.txt",
+        "doc_17663.txt",
+        "doc_15790.txt"
+    ]
+}

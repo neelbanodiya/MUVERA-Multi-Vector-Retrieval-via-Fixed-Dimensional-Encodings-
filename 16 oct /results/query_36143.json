@@ -1,0 +1,10 @@
+{
+    "query": "According to the resolution, what is the European Parliament\u2019s stance on the harassment and persecution of human rights defenders and lawyers in Iran?",
+    "response": [
+        "doc_3062.txt",
+        "doc_21077.txt",
+        "doc_3065.txt",
+        "doc_19590.txt",
+        "doc_4900.txt"
+    ]
+}

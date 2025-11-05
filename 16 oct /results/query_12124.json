@@ -1,0 +1,10 @@
+{
+    "query": "What types of food are highlighted in the Louisville, Kentucky culinary adventure?",
+    "response": [
+        "doc_7081.txt",
+        "doc_7085.txt",
+        "doc_7090.txt",
+        "doc_7086.txt",
+        "doc_7080.txt"
+    ]
+}

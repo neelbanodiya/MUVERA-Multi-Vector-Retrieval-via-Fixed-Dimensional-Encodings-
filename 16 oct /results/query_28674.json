@@ -1,0 +1,10 @@
+{
+    "query": "Which producer worked on the album \u201cAnimal Boy\u201d?",
+    "response": [
+        "doc_2674.txt",
+        "doc_23994.txt",
+        "doc_20569.txt",
+        "doc_1784.txt",
+        "doc_5319.txt"
+    ]
+}

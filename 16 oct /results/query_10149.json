@@ -1,0 +1,10 @@
+{
+    "query": "What organizations monitored the Duma elections in the Russian Federation?",
+    "response": [
+        "doc_5893.txt",
+        "doc_5888.txt",
+        "doc_19294.txt",
+        "doc_18360.txt",
+        "doc_16788.txt"
+    ]
+}

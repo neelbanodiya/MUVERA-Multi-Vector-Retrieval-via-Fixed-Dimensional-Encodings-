@@ -1,0 +1,10 @@
+{
+    "query": "Which actors starred in the 1933 film \u201cArizona to Broadway\u201d?",
+    "response": [
+        "doc_6006.txt",
+        "doc_10594.txt",
+        "doc_18863.txt",
+        "doc_21901.txt",
+        "doc_18858.txt"
+    ]
+}

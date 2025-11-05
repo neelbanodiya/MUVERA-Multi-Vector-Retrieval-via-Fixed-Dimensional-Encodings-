@@ -1,0 +1,10 @@
+{
+    "query": "To which countries did UK MEPs send election observation teams between 2004 and 2008?",
+    "response": [
+        "doc_3746.txt",
+        "doc_3586.txt",
+        "doc_5648.txt",
+        "doc_23599.txt",
+        "doc_5635.txt"
+    ]
+}

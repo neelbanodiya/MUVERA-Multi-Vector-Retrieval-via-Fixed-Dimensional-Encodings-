@@ -1,0 +1,10 @@
+{
+    "query": "In what year was W.C. Fields\u2019 film *My Little Chickadee* produced?",
+    "response": [
+        "doc_14385.txt",
+        "doc_14393.txt",
+        "doc_14387.txt",
+        "doc_14399.txt",
+        "doc_14394.txt"
+    ]
+}

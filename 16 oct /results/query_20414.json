@@ -1,0 +1,10 @@
+{
+    "query": "According to the Reddit post, what factors contributed to Pok\u00e9mon\u2019s greater popularity compared to Digimon?",
+    "response": [
+        "doc_8801.txt",
+        "doc_10822.txt",
+        "doc_5560.txt",
+        "doc_15810.txt",
+        "doc_7360.txt"
+    ]
+}

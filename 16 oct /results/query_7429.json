@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many British officers were wounded during the capture of Fort Ticonderoga?",
+    "response": [
+        "doc_4311.txt",
+        "doc_4305.txt",
+        "doc_10411.txt",
+        "doc_4304.txt",
+        "doc_4309.txt"
+    ]
+}

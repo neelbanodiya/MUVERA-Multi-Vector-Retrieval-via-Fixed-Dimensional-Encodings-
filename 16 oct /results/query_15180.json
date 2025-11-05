@@ -1,0 +1,10 @@
+{
+    "query": "Which war did John Patrick himself fight in, according to one of the linked articles?",
+    "response": [
+        "doc_341.txt",
+        "doc_587.txt",
+        "doc_23698.txt",
+        "doc_338.txt",
+        "doc_207.txt"
+    ]
+}

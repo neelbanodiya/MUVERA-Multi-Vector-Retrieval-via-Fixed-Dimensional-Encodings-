@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of the Antiquities Act, as mentioned in the provided text?",
+    "response": [
+        "doc_21024.txt",
+        "doc_22363.txt",
+        "doc_21010.txt",
+        "doc_21023.txt",
+        "doc_18001.txt"
+    ]
+}

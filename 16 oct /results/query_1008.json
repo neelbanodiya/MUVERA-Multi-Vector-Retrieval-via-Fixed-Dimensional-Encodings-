@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the hotel where Obama stayed during his visit to New York City, as mentioned in one of the links?",
+    "response": [
+        "doc_567.txt",
+        "doc_565.txt",
+        "doc_3334.txt",
+        "doc_566.txt",
+        "doc_22432.txt"
+    ]
+}

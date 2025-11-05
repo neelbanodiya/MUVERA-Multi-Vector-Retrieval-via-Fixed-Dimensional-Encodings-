@@ -1,0 +1,10 @@
+{
+    "query": "In what city did Al Capone live and operate?",
+    "response": [
+        "doc_7727.txt",
+        "doc_12233.txt",
+        "doc_7721.txt",
+        "doc_7723.txt",
+        "doc_16168.txt"
+    ]
+}

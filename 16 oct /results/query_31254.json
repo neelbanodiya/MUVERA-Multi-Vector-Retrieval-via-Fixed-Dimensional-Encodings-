@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is \u201cextrasensory perception\u201d (ESP)?",
+    "response": [
+        "doc_18221.txt",
+        "doc_17916.txt",
+        "doc_15890.txt",
+        "doc_8338.txt",
+        "doc_10127.txt"
+    ]
+}

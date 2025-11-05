@@ -1,0 +1,10 @@
+{
+    "query": "What types of training programs are offered in the Tampa area?",
+    "response": [
+        "doc_10119.txt",
+        "doc_22792.txt",
+        "doc_5378.txt",
+        "doc_22100.txt",
+        "doc_23693.txt"
+    ]
+}

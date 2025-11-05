@@ -1,0 +1,10 @@
+{
+    "query": "When were the findings of the US military investigation communicated to the press?",
+    "response": [
+        "doc_17975.txt",
+        "doc_22332.txt",
+        "doc_21681.txt",
+        "doc_3496.txt",
+        "doc_173.txt"
+    ]
+}

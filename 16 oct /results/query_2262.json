@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Amelia Earhart and Putnam publish a book together?",
+    "response": [
+        "doc_5778.txt",
+        "doc_19982.txt",
+        "doc_7862.txt",
+        "doc_15830.txt",
+        "doc_24144.txt"
+    ]
+}

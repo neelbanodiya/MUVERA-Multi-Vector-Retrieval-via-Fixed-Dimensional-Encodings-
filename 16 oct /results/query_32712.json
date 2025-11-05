@@ -1,0 +1,10 @@
+{
+    "query": "Which country will be sending four new MEPs to Brussels and Strasbourg?",
+    "response": [
+        "doc_19062.txt",
+        "doc_12314.txt",
+        "doc_3591.txt",
+        "doc_1271.txt",
+        "doc_1630.txt"
+    ]
+}

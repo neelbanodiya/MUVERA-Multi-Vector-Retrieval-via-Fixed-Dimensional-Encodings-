@@ -1,0 +1,10 @@
+{
+    "query": "Does the Commission believe that recycling contributes to greenhouse gas emissions?",
+    "response": [
+        "doc_17804.txt",
+        "doc_9162.txt",
+        "doc_8239.txt",
+        "doc_21491.txt",
+        "doc_5722.txt"
+    ]
+}

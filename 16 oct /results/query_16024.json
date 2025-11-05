@@ -1,0 +1,10 @@
+{
+    "query": "What is Bentley Mitchum\u2019s birthdate?",
+    "response": [
+        "doc_452.txt",
+        "doc_16345.txt",
+        "doc_16904.txt",
+        "doc_24098.txt",
+        "doc_14748.txt"
+    ]
+}

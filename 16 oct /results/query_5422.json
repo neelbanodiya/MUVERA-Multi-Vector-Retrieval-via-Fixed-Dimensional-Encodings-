@@ -1,0 +1,10 @@
+{
+    "query": "Which two major rivers of California meet and flow into San Francisco Bay?",
+    "response": [
+        "doc_3147.txt",
+        "doc_3145.txt",
+        "doc_3148.txt",
+        "doc_3160.txt",
+        "doc_3157.txt"
+    ]
+}

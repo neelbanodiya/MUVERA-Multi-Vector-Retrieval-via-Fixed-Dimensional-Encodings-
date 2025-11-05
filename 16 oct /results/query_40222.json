@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate elevation of Mont Aneto?",
+    "response": [
+        "doc_23524.txt",
+        "doc_23534.txt",
+        "doc_23528.txt",
+        "doc_23536.txt",
+        "doc_23529.txt"
+    ]
+}

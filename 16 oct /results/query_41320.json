@@ -1,0 +1,10 @@
+{
+    "query": "What metals are commonly used in U.S. coins, as indicated by the provided links?",
+    "response": [
+        "doc_24207.txt",
+        "doc_24211.txt",
+        "doc_24222.txt",
+        "doc_24223.txt",
+        "doc_24217.txt"
+    ]
+}

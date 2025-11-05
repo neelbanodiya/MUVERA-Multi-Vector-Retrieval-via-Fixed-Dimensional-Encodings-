@@ -1,0 +1,10 @@
+{
+    "query": "What century was Sir Thomas Malory active in?",
+    "response": [
+        "doc_22247.txt",
+        "doc_22261.txt",
+        "doc_22246.txt",
+        "doc_22244.txt",
+        "doc_22251.txt"
+    ]
+}

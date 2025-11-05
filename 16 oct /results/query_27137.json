@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was Bill Clinton\u2019s campaign\u2019s mantra in 1992?",
+    "response": [
+        "doc_15748.txt",
+        "doc_15746.txt",
+        "doc_15751.txt",
+        "doc_15750.txt",
+        "doc_15752.txt"
+    ]
+}

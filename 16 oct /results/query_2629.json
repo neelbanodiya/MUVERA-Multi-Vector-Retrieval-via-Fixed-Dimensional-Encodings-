@@ -1,0 +1,10 @@
+{
+    "query": "Who is Tom Hanks portraying in the passage?",
+    "response": [
+        "doc_2231.txt",
+        "doc_1570.txt",
+        "doc_12759.txt",
+        "doc_19588.txt",
+        "doc_15485.txt"
+    ]
+}

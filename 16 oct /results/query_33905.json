@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what event led to the migration of the Kyrgyz south in the 13th century?",
+    "response": [
+        "doc_19726.txt",
+        "doc_19737.txt",
+        "doc_19738.txt",
+        "doc_19733.txt",
+        "doc_19744.txt"
+    ]
+}

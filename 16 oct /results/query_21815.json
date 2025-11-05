@@ -1,0 +1,10 @@
+{
+    "query": "Which goddess is described as \u201cQueen of Heaven\u201d across multiple of the referenced sources, including Apuleius\u2019 *The Golden Ass*?",
+    "response": [
+        "doc_12557.txt",
+        "doc_12551.txt",
+        "doc_12565.txt",
+        "doc_12560.txt",
+        "doc_12558.txt"
+    ]
+}

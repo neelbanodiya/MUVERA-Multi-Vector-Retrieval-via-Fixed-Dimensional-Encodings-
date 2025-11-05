@@ -1,0 +1,10 @@
+{
+    "query": "Who is the girl hoping for Matthau to be her father?",
+    "response": [
+        "doc_9129.txt",
+        "doc_7104.txt",
+        "doc_22486.txt",
+        "doc_9219.txt",
+        "doc_12952.txt"
+    ]
+}

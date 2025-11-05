@@ -1,0 +1,10 @@
+{
+    "query": "What kind of tours are described as \u201cquintessential\u201d in Venice?",
+    "response": [
+        "doc_20246.txt",
+        "doc_4562.txt",
+        "doc_20249.txt",
+        "doc_23693.txt",
+        "doc_3668.txt"
+    ]
+}

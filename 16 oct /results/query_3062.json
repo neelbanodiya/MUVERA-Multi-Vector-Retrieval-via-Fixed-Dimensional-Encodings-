@@ -1,0 +1,10 @@
+{
+    "query": "What is Fernando Arriola's description of the situation with online advertising?",
+    "response": [
+        "doc_12419.txt",
+        "doc_11415.txt",
+        "doc_240.txt",
+        "doc_17884.txt",
+        "doc_20931.txt"
+    ]
+}

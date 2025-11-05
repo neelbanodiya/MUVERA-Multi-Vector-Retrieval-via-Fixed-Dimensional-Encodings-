@@ -1,0 +1,10 @@
+{
+    "query": "Under what circumstances does Article 7a(3b) apply, as outlined in the provided text?",
+    "response": [
+        "doc_20780.txt",
+        "doc_20750.txt",
+        "doc_20754.txt",
+        "doc_20776.txt",
+        "doc_21023.txt"
+    ]
+}

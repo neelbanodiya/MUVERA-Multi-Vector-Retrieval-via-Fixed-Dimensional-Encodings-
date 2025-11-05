@@ -1,0 +1,10 @@
+{
+    "query": "How did Rebekah respond to the servant\u2019s request for water?",
+    "response": [
+        "doc_8101.txt",
+        "doc_8092.txt",
+        "doc_8102.txt",
+        "doc_8099.txt",
+        "doc_8107.txt"
+    ]
+}

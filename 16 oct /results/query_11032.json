@@ -1,0 +1,10 @@
+{
+    "query": "What awards has Kenny Rogers received, specifically mentioning an award from 1983?",
+    "response": [
+        "doc_18243.txt",
+        "doc_15278.txt",
+        "doc_15820.txt",
+        "doc_10381.txt",
+        "doc_18242.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What types of events are mentioned as places where Mother Love and her family connect with people (e.g., fairs, expos)?",
+    "response": [
+        "doc_19146.txt",
+        "doc_5221.txt",
+        "doc_15353.txt",
+        "doc_20167.txt",
+        "doc_6835.txt"
+    ]
+}

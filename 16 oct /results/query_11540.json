@@ -1,0 +1,10 @@
+{
+    "query": "In 2005, which player was selected for the NBA First Team All Rookie Team?",
+    "response": [
+        "doc_24141.txt",
+        "doc_24143.txt",
+        "doc_21628.txt",
+        "doc_24139.txt",
+        "doc_11227.txt"
+    ]
+}

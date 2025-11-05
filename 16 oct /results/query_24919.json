@@ -1,0 +1,10 @@
+{
+    "query": "What city in Nicaragua is described as both the capital and largest city?",
+    "response": [
+        "doc_6514.txt",
+        "doc_6515.txt",
+        "doc_38.txt",
+        "doc_10127.txt",
+        "doc_21464.txt"
+    ]
+}

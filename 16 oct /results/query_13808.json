@@ -1,0 +1,10 @@
+{
+    "query": "What factors are considered when determining the \u201c100 Best Hotels in the World,\u201d as described in the Travel + Leisure article?",
+    "response": [
+        "doc_4896.txt",
+        "doc_17013.txt",
+        "doc_14176.txt",
+        "doc_7788.txt",
+        "doc_572.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many issues of \u201cThe Un-Men\u201d monthly comic book series were published?",
+    "response": [
+        "doc_6751.txt",
+        "doc_1979.txt",
+        "doc_2858.txt",
+        "doc_18583.txt",
+        "doc_5354.txt"
+    ]
+}

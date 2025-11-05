@@ -1,0 +1,10 @@
+{
+    "query": "What state is Jim Lovell originally from, according to the provided links?",
+    "response": [
+        "doc_15209.txt",
+        "doc_19205.txt",
+        "doc_891.txt",
+        "doc_518.txt",
+        "doc_24077.txt"
+    ]
+}

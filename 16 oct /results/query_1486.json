@@ -1,0 +1,10 @@
+{
+    "query": "What types of snakes are considered high-risk in Florida, according to a risk assessment?",
+    "response": [
+        "doc_833.txt",
+        "doc_846.txt",
+        "doc_836.txt",
+        "doc_835.txt",
+        "doc_848.txt"
+    ]
+}

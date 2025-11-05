@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate distance between Alabama Town and present-day downtown Montgomery?",
+    "response": [
+        "doc_13596.txt",
+        "doc_13595.txt",
+        "doc_13604.txt",
+        "doc_13598.txt",
+        "doc_13603.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what city does a portion of the footage used in Marco Rubio\u2019s campaign ad originate from?",
+    "response": [
+        "doc_15172.txt",
+        "doc_5407.txt",
+        "doc_15170.txt",
+        "doc_1887.txt",
+        "doc_15171.txt"
+    ]
+}

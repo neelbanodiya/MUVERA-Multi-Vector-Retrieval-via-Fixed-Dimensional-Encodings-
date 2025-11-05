@@ -1,0 +1,10 @@
+{
+    "query": "How did the film *Hair* influence the musical *Grease*?",
+    "response": [
+        "doc_1021.txt",
+        "doc_14577.txt",
+        "doc_2231.txt",
+        "doc_3483.txt",
+        "doc_21090.txt"
+    ]
+}

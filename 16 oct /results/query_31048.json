@@ -1,0 +1,10 @@
+{
+    "query": "What movies did Walter Matthau and Carl Reiner star in together?",
+    "response": [
+        "doc_18104.txt",
+        "doc_18097.txt",
+        "doc_4871.txt",
+        "doc_14390.txt",
+        "doc_5158.txt"
+    ]
+}

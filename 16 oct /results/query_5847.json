@@ -1,0 +1,10 @@
+{
+    "query": "What was recommended regarding a DEW line?",
+    "response": [
+        "doc_990.txt",
+        "doc_20097.txt",
+        "doc_991.txt",
+        "doc_3702.txt",
+        "doc_6943.txt"
+    ]
+}

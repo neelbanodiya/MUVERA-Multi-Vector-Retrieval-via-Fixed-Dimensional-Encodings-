@@ -1,0 +1,10 @@
+{
+    "query": "What types of leaders are featured in the Aspen Ideas Festival?",
+    "response": [
+        "doc_13852.txt",
+        "doc_2402.txt",
+        "doc_22131.txt",
+        "doc_7300.txt",
+        "doc_18447.txt"
+    ]
+}

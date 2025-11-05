@@ -1,0 +1,10 @@
+{
+    "query": "Besides *Mack & Mabel*, in what other musical did Robert Preston star alongside Bernadette Peters?",
+    "response": [
+        "doc_7020.txt",
+        "doc_7022.txt",
+        "doc_7024.txt",
+        "doc_7027.txt",
+        "doc_7025.txt"
+    ]
+}

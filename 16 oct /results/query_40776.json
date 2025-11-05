@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of the Yemeni population lives on USD 2 a day or less, according to the passage?",
+    "response": [
+        "doc_9923.txt",
+        "doc_9924.txt",
+        "doc_23843.txt",
+        "doc_2486.txt",
+        "doc_23077.txt"
+    ]
+}

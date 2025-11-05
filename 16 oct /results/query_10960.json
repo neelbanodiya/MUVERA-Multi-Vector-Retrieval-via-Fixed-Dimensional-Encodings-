@@ -1,0 +1,10 @@
+{
+    "query": "According to \u201cLove is a Mix Tape,\u201d what caused Renee\u2019s death?",
+    "response": [
+        "doc_6345.txt",
+        "doc_17323.txt",
+        "doc_2785.txt",
+        "doc_20456.txt",
+        "doc_13613.txt"
+    ]
+}

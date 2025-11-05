@@ -1,0 +1,10 @@
+{
+    "query": "What country made George its patron saint and eventually adopted his flag?",
+    "response": [
+        "doc_16460.txt",
+        "doc_16448.txt",
+        "doc_16461.txt",
+        "doc_16459.txt",
+        "doc_16449.txt"
+    ]
+}

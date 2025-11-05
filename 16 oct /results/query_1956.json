@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, does Morocco receive special treatment in its relations with the EU?",
+    "response": [
+        "doc_4235.txt",
+        "doc_1180.txt",
+        "doc_1213.txt",
+        "doc_1212.txt",
+        "doc_3127.txt"
+    ]
+}

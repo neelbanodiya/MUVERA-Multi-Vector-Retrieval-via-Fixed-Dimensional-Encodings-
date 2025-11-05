@@ -1,0 +1,10 @@
+{
+    "query": "Which creek was the site of battles during the Maryland Campaign, including those near Sharpsburg?",
+    "response": [
+        "doc_204.txt",
+        "doc_197.txt",
+        "doc_198.txt",
+        "doc_205.txt",
+        "doc_206.txt"
+    ]
+}

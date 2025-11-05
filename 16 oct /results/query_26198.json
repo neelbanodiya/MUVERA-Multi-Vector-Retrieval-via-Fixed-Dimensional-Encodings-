@@ -1,0 +1,10 @@
+{
+    "query": "Who was the first UN Secretary-General, and what was his nationality?",
+    "response": [
+        "doc_15223.txt",
+        "doc_15224.txt",
+        "doc_15225.txt",
+        "doc_15236.txt",
+        "doc_15231.txt"
+    ]
+}

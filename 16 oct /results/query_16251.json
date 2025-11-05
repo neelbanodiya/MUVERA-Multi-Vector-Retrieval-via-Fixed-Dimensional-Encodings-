@@ -1,0 +1,10 @@
+{
+    "query": "What does the government in Smolensk not do?",
+    "response": [
+        "doc_490.txt",
+        "doc_491.txt",
+        "doc_23377.txt",
+        "doc_3599.txt",
+        "doc_489.txt"
+    ]
+}

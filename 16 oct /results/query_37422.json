@@ -1,0 +1,10 @@
+{
+    "query": "What piece did John Philip Sousa conduct shortly before his 70th birthday?",
+    "response": [
+        "doc_21909.txt",
+        "doc_21912.txt",
+        "doc_21906.txt",
+        "doc_21914.txt",
+        "doc_21910.txt"
+    ]
+}

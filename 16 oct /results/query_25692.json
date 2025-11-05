@@ -1,0 +1,10 @@
+{
+    "query": "Which Air Force Space Command base is home to the 45th Space Wing?",
+    "response": [
+        "doc_14896.txt",
+        "doc_14282.txt",
+        "doc_14281.txt",
+        "doc_14898.txt",
+        "doc_14897.txt"
+    ]
+}

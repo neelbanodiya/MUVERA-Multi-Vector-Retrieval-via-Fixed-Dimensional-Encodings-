@@ -1,0 +1,10 @@
+{
+    "query": "What is the location of the monument dedicated to Rubn Dario?",
+    "response": [
+        "doc_14499.txt",
+        "doc_14511.txt",
+        "doc_14506.txt",
+        "doc_14505.txt",
+        "doc_14503.txt"
+    ]
+}

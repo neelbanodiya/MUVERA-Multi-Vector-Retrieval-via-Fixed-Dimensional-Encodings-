@@ -1,0 +1,10 @@
+{
+    "query": "What films are listed as being available: \u201cDial M For Murder\u201d, \u201cRear Window\u201d, \u201cThe Country Girl\u201d and \u201cHigh Society\u201d?",
+    "response": [
+        "doc_7767.txt",
+        "doc_18823.txt",
+        "doc_22108.txt",
+        "doc_8518.txt",
+        "doc_11143.txt"
+    ]
+}

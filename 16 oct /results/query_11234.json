@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what did Leif find that led him to name the country?",
+    "response": [
+        "doc_6511.txt",
+        "doc_6509.txt",
+        "doc_9252.txt",
+        "doc_6502.txt",
+        "doc_1839.txt"
+    ]
+}

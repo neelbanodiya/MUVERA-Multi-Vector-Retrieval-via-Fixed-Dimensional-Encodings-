@@ -1,0 +1,10 @@
+{
+    "query": "What is the estimated annual cost of the Natura 2000 network for the EU as a whole?",
+    "response": [
+        "doc_8877.txt",
+        "doc_15144.txt",
+        "doc_15493.txt",
+        "doc_3443.txt",
+        "doc_16992.txt"
+    ]
+}

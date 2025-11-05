@@ -1,0 +1,10 @@
+{
+    "query": "What is the median number of cell lineages identified in the VNC of Drosophila melanogaster?",
+    "response": [
+        "doc_20350.txt",
+        "doc_20055.txt",
+        "doc_19032.txt",
+        "doc_19030.txt",
+        "doc_21776.txt"
+    ]
+}

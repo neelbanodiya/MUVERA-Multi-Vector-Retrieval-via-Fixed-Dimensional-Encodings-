@@ -1,0 +1,10 @@
+{
+    "query": "Which fashion designers are participating in New York Fashion Week?",
+    "response": [
+        "doc_6738.txt",
+        "doc_6734.txt",
+        "doc_6739.txt",
+        "doc_6732.txt",
+        "doc_6737.txt"
+    ]
+}

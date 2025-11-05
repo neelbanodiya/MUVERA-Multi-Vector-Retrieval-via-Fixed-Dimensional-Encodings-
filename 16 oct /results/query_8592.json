@@ -1,0 +1,10 @@
+{
+    "query": "In what city and state was Turner born?",
+    "response": [
+        "doc_21108.txt",
+        "doc_14748.txt",
+        "doc_5575.txt",
+        "doc_2559.txt",
+        "doc_2177.txt"
+    ]
+}

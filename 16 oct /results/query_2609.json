@@ -1,0 +1,10 @@
+{
+    "query": "What film did Jim Lovell appear in as the captain of the Iwo Jima?",
+    "response": [
+        "doc_1566.txt",
+        "doc_1568.txt",
+        "doc_1567.txt",
+        "doc_1570.txt",
+        "doc_1580.txt"
+    ]
+}

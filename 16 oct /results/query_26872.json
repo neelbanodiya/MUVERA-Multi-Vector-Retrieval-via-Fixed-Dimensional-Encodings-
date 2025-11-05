@@ -1,0 +1,10 @@
+{
+    "query": "What specific provisions regarding complaint handling were modified by the Council?",
+    "response": [
+        "doc_15608.txt",
+        "doc_15601.txt",
+        "doc_13355.txt",
+        "doc_19827.txt",
+        "doc_15597.txt"
+    ]
+}

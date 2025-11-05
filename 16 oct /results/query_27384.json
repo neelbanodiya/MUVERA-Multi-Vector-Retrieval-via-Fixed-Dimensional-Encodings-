@@ -1,0 +1,10 @@
+{
+    "query": "Which country\u2019s people contributed significantly to the victory at the Battle of Stalingrad?",
+    "response": [
+        "doc_15923.txt",
+        "doc_15924.txt",
+        "doc_15919.txt",
+        "doc_15912.txt",
+        "doc_15910.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was Rob Dawson hoping would *not* be the story of the season, as referenced in the Manchester United vs. Galatasaray recap?",
+    "response": [
+        "doc_309.txt",
+        "doc_19273.txt",
+        "doc_2680.txt",
+        "doc_19747.txt",
+        "doc_13076.txt"
+    ]
+}

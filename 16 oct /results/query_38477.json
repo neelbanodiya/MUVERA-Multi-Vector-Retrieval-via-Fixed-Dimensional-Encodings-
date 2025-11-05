@@ -1,0 +1,10 @@
+{
+    "query": "Which song, released in 1982 by Joan Jett and The Blackhearts, is mentioned in the passage?",
+    "response": [
+        "doc_22547.txt",
+        "doc_22552.txt",
+        "doc_22551.txt",
+        "doc_22548.txt",
+        "doc_22562.txt"
+    ]
+}

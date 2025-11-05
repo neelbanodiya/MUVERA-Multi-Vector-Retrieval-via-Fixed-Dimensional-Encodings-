@@ -1,0 +1,10 @@
+{
+    "query": "What is one of the city\u2019s most iconic hotels, designated a New York City landmark?",
+    "response": [
+        "doc_565.txt",
+        "doc_570.txt",
+        "doc_22585.txt",
+        "doc_572.txt",
+        "doc_566.txt"
+    ]
+}

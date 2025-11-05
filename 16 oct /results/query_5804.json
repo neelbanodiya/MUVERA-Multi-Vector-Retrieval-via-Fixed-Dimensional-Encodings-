@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the sources, who was Judah P. Benjamin?",
+    "response": [
+        "doc_1235.txt",
+        "doc_3383.txt",
+        "doc_3392.txt",
+        "doc_1236.txt",
+        "doc_1242.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What does Bill do while moving?",
+    "response": [
+        "doc_15594.txt",
+        "doc_18013.txt",
+        "doc_13334.txt",
+        "doc_22420.txt",
+        "doc_6992.txt"
+    ]
+}

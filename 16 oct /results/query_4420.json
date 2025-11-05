@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate date of birth for Nancy Lee Crook, as mentioned in the provided obituaries?",
+    "response": [
+        "doc_3543.txt",
+        "doc_14375.txt",
+        "doc_15417.txt",
+        "doc_724.txt",
+        "doc_19552.txt"
+    ]
+}

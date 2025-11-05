@@ -1,0 +1,10 @@
+{
+    "query": "What is the first SNL host whose first and last names rhyme?",
+    "response": [
+        "doc_22895.txt",
+        "doc_22896.txt",
+        "doc_16660.txt",
+        "doc_16329.txt",
+        "doc_12380.txt"
+    ]
+}

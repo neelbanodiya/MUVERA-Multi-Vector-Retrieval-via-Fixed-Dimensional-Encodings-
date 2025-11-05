@@ -1,0 +1,10 @@
+{
+    "query": "What is one of the world\u2019s most important collections of paintings that the Thyssen-Bornemisza museum has?",
+    "response": [
+        "doc_8507.txt",
+        "doc_14728.txt",
+        "doc_4557.txt",
+        "doc_20379.txt",
+        "doc_8506.txt"
+    ]
+}

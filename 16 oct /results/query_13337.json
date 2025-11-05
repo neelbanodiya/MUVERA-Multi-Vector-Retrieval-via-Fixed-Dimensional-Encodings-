@@ -1,0 +1,10 @@
+{
+    "query": "For which financial year did the Committee on Employment and Social Affairs approve the closure of accounts for the European Agency for Safety and Health at Work?",
+    "response": [
+        "doc_7811.txt",
+        "doc_7810.txt",
+        "doc_7809.txt",
+        "doc_19129.txt",
+        "doc_17584.txt"
+    ]
+}

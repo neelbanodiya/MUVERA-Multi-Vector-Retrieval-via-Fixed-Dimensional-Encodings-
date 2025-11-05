@@ -1,0 +1,10 @@
+{
+    "query": "Which languages are mentioned as using a spelling system similar to Latin script?",
+    "response": [
+        "doc_12379.txt",
+        "doc_20885.txt",
+        "doc_12382.txt",
+        "doc_23850.txt",
+        "doc_20886.txt"
+    ]
+}

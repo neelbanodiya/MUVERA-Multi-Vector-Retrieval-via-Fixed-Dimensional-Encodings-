@@ -1,0 +1,10 @@
+{
+    "query": "Who was a finalist for the Pro Football Hall of Fame in 2015, and which NFL teams did they play for?",
+    "response": [
+        "doc_13005.txt",
+        "doc_22643.txt",
+        "doc_13000.txt",
+        "doc_6831.txt",
+        "doc_6829.txt"
+    ]
+}

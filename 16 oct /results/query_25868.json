@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Turkey hold its first openly contested elections, and what event marked the beginning of modern Turkey?",
+    "response": [
+        "doc_5893.txt",
+        "doc_3828.txt",
+        "doc_16809.txt",
+        "doc_22717.txt",
+        "doc_18992.txt"
+    ]
+}

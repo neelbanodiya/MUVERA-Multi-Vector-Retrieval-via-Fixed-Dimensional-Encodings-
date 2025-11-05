@@ -1,0 +1,10 @@
+{
+    "query": "With which neighboring countries does Brazil share a land border?",
+    "response": [
+        "doc_23422.txt",
+        "doc_23426.txt",
+        "doc_23420.txt",
+        "doc_23421.txt",
+        "doc_23425.txt"
+    ]
+}

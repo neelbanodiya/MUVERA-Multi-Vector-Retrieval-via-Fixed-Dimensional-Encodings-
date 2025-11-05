@@ -1,0 +1,10 @@
+{
+    "query": "What is one reason cited for the fascination with a specific television show (\"The X-Files\")?",
+    "response": [
+        "doc_20360.txt",
+        "doc_2513.txt",
+        "doc_3982.txt",
+        "doc_1391.txt",
+        "doc_8962.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which film, directed by Sidney Lumet, received an Academy Award for Best Screenplay in 1957?",
+    "response": [
+        "doc_4925.txt",
+        "doc_4918.txt",
+        "doc_4927.txt",
+        "doc_4916.txt",
+        "doc_4909.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is Prince known for, according to the Pinterest link about him?",
+    "response": [
+        "doc_4481.txt",
+        "doc_15767.txt",
+        "doc_1849.txt",
+        "doc_20132.txt",
+        "doc_1848.txt"
+    ]
+}

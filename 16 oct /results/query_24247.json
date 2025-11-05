@@ -1,0 +1,10 @@
+{
+    "query": "Who encouraged Ralph Ellison to write?",
+    "response": [
+        "doc_14082.txt",
+        "doc_14076.txt",
+        "doc_14079.txt",
+        "doc_21315.txt",
+        "doc_5762.txt"
+    ]
+}

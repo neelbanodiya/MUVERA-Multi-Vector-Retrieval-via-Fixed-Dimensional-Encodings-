@@ -1,0 +1,10 @@
+{
+    "query": "On what dates were meetings scheduled in Brussels for March 2012?",
+    "response": [
+        "doc_10307.txt",
+        "doc_21397.txt",
+        "doc_1896.txt",
+        "doc_20062.txt",
+        "doc_14820.txt"
+    ]
+}

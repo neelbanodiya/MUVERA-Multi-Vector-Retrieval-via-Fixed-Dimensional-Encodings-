@@ -1,0 +1,10 @@
+{
+    "query": "What is San Jose, California known for having in relation to its population?",
+    "response": [
+        "doc_21465.txt",
+        "doc_15880.txt",
+        "doc_21463.txt",
+        "doc_20235.txt",
+        "doc_21402.txt"
+    ]
+}

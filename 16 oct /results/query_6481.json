@@ -1,0 +1,10 @@
+{
+    "query": "Which medical drama did Alan Shore, a former \u201cThe Practice\u201d character, appear in?",
+    "response": [
+        "doc_11495.txt",
+        "doc_6074.txt",
+        "doc_12639.txt",
+        "doc_6752.txt",
+        "doc_2264.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What Nobel Prize winner is mentioned in relation to economists like Gary Becker and Richard Posner?",
+    "response": [
+        "doc_11971.txt",
+        "doc_7252.txt",
+        "doc_21157.txt",
+        "doc_14153.txt",
+        "doc_6743.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Jewish congregation founded in Cape Town?",
+    "response": [
+        "doc_19762.txt",
+        "doc_21282.txt",
+        "doc_23683.txt",
+        "doc_19769.txt",
+        "doc_8349.txt"
+    ]
+}

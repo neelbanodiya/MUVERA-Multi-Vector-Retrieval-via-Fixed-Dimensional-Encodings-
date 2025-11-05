@@ -1,0 +1,10 @@
+{
+    "query": "Which film featured Kayvan Novak and earned George Clooney an Academy Award for Best Supporting Actor?",
+    "response": [
+        "doc_23290.txt",
+        "doc_4922.txt",
+        "doc_23280.txt",
+        "doc_23278.txt",
+        "doc_16172.txt"
+    ]
+}

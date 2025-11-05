@@ -1,0 +1,10 @@
+{
+    "query": "What is the story of Jason and the Argonauts about?",
+    "response": [
+        "doc_1848.txt",
+        "doc_15677.txt",
+        "doc_20310.txt",
+        "doc_1836.txt",
+        "doc_21379.txt"
+    ]
+}

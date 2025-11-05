@@ -1,0 +1,10 @@
+{
+    "query": "According to the European Parliament, what role is particularly emphasized for transplant coordinators?",
+    "response": [
+        "doc_14217.txt",
+        "doc_24037.txt",
+        "doc_14218.txt",
+        "doc_24178.txt",
+        "doc_24028.txt"
+    ]
+}

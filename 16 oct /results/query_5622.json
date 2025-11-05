@@ -1,0 +1,10 @@
+{
+    "query": "What is the largest country in Africa by area, and where is it located?",
+    "response": [
+        "doc_3268.txt",
+        "doc_3274.txt",
+        "doc_3279.txt",
+        "doc_3283.txt",
+        "doc_3271.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Fleetwood brands manufacture motorhomes, as listed in the passage?",
+    "response": [
+        "doc_21857.txt",
+        "doc_21861.txt",
+        "doc_21859.txt",
+        "doc_21858.txt",
+        "doc_21856.txt"
+    ]
+}

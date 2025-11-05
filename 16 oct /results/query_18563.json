@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many people lost their lives during World War II?",
+    "response": [
+        "doc_10773.txt",
+        "doc_23673.txt",
+        "doc_1627.txt",
+        "doc_15257.txt",
+        "doc_23674.txt"
+    ]
+}

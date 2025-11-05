@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what did Art mean to \u201ceverybody\u201d?",
+    "response": [
+        "doc_12597.txt",
+        "doc_21242.txt",
+        "doc_9937.txt",
+        "doc_23901.txt",
+        "doc_23905.txt"
+    ]
+}

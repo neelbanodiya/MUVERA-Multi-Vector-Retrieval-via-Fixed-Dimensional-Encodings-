@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Silver Buffalo Award first awarded?",
+    "response": [
+        "doc_16990.txt",
+        "doc_16983.txt",
+        "doc_15826.txt",
+        "doc_15821.txt",
+        "doc_15819.txt"
+    ]
+}

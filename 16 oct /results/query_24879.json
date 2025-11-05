@@ -1,0 +1,10 @@
+{
+    "query": "According to George Wilkes, how long did it take for the phrase \u201cSmart Alec\u201d to germinate?",
+    "response": [
+        "doc_14466.txt",
+        "doc_7648.txt",
+        "doc_19069.txt",
+        "doc_17884.txt",
+        "doc_18785.txt"
+    ]
+}

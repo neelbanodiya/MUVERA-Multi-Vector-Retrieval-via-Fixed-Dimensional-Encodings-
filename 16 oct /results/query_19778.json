@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Carole King first recorded as a demo?",
+    "response": [
+        "doc_11425.txt",
+        "doc_11426.txt",
+        "doc_11422.txt",
+        "doc_11430.txt",
+        "doc_12407.txt"
+    ]
+}

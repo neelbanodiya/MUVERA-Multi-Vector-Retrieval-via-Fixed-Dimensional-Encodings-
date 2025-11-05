@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what type of lettuce is commonly used in Caesar salads?",
+    "response": [
+        "doc_9713.txt",
+        "doc_9717.txt",
+        "doc_9714.txt",
+        "doc_9723.txt",
+        "doc_9715.txt"
+    ]
+}

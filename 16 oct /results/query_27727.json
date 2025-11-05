@@ -1,0 +1,10 @@
+{
+    "query": "What Disney film features Mowgli?",
+    "response": [
+        "doc_20622.txt",
+        "doc_20623.txt",
+        "doc_20609.txt",
+        "doc_4407.txt",
+        "doc_22313.txt"
+    ]
+}

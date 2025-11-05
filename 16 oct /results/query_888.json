@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between Clark Kent and the character Kristin Kreuk played on *Smallville*?",
+    "response": [
+        "doc_493.txt",
+        "doc_499.txt",
+        "doc_497.txt",
+        "doc_496.txt",
+        "doc_501.txt"
+    ]
+}

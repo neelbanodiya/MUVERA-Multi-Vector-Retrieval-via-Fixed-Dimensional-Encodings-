@@ -1,0 +1,10 @@
+{
+    "query": "What is the currency used in Cambodia, as mentioned in one of the links?",
+    "response": [
+        "doc_4061.txt",
+        "doc_19222.txt",
+        "doc_4062.txt",
+        "doc_70.txt",
+        "doc_15211.txt"
+    ]
+}

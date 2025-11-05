@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, where did Benito Lynch spend his childhood?",
+    "response": [
+        "doc_16971.txt",
+        "doc_16978.txt",
+        "doc_16979.txt",
+        "doc_16977.txt",
+        "doc_15623.txt"
+    ]
+}

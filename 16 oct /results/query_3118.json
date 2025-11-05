@@ -1,0 +1,10 @@
+{
+    "query": "What record did Vic Washington set at the 56th Grey Cup?",
+    "response": [
+        "doc_1901.txt",
+        "doc_10682.txt",
+        "doc_8502.txt",
+        "doc_19125.txt",
+        "doc_1883.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of territory is Montserrat?",
+    "response": [
+        "doc_3666.txt",
+        "doc_3667.txt",
+        "doc_23530.txt",
+        "doc_3669.txt",
+        "doc_8789.txt"
+    ]
+}

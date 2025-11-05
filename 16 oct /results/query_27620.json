@@ -1,0 +1,10 @@
+{
+    "query": "Who commanded the Army of the Cumberland, and what was his relationship to a former U.S. President?",
+    "response": [
+        "doc_15265.txt",
+        "doc_1920.txt",
+        "doc_207.txt",
+        "doc_458.txt",
+        "doc_517.txt"
+    ]
+}

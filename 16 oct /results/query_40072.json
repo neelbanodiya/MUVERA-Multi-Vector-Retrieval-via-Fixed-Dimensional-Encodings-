@@ -1,0 +1,10 @@
+{
+    "query": "When was the United States Naval Academy established, and where?",
+    "response": [
+        "doc_19359.txt",
+        "doc_23463.txt",
+        "doc_14449.txt",
+        "doc_6613.txt",
+        "doc_22509.txt"
+    ]
+}

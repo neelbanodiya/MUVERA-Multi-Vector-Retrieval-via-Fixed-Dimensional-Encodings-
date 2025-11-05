@@ -1,0 +1,10 @@
+{
+    "query": "Which science-fiction titles feature Lou Diamond Phillips and Amy Locane?",
+    "response": [
+        "doc_8321.txt",
+        "doc_9401.txt",
+        "doc_18948.txt",
+        "doc_3713.txt",
+        "doc_15304.txt"
+    ]
+}

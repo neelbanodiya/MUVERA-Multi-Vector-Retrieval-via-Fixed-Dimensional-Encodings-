@@ -1,0 +1,10 @@
+{
+    "query": "What city was the evangelical Christian television program based in?",
+    "response": [
+        "doc_4960.txt",
+        "doc_2023.txt",
+        "doc_4614.txt",
+        "doc_17059.txt",
+        "doc_4961.txt"
+    ]
+}

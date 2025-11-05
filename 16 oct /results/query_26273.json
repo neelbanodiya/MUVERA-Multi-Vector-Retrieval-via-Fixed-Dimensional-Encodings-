@@ -1,0 +1,10 @@
+{
+    "query": "When did Syrian refugees begin seeking refuge in Turkey?",
+    "response": [
+        "doc_15261.txt",
+        "doc_15260.txt",
+        "doc_987.txt",
+        "doc_9921.txt",
+        "doc_7210.txt"
+    ]
+}

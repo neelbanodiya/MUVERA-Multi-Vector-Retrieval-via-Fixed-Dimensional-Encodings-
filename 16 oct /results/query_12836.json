@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of families in Rhode Island experienced child poverty between 2010 and 2014, based on the provided factbook?",
+    "response": [
+        "doc_7466.txt",
+        "doc_15445.txt",
+        "doc_8913.txt",
+        "doc_20176.txt",
+        "doc_21429.txt"
+    ]
+}

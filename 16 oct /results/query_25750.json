@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is \"Kentucky windage\"?",
+    "response": [
+        "doc_16326.txt",
+        "doc_9077.txt",
+        "doc_971.txt",
+        "doc_4929.txt",
+        "doc_10700.txt"
+    ]
+}

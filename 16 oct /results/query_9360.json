@@ -1,0 +1,10 @@
+{
+    "query": "What was the age range of participants in a study examining eye movement patterns on Chinese Yellow Pages advertising?",
+    "response": [
+        "doc_5394.txt",
+        "doc_21214.txt",
+        "doc_22954.txt",
+        "doc_11605.txt",
+        "doc_7648.txt"
+    ]
+}

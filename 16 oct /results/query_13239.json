@@ -1,0 +1,10 @@
+{
+    "query": "Through which specific funds has European financial aid been paid to Senegal (e.g., European Development Fund, general budget, Directorate-General for Humanitarian Aid, Instrument for Stability)?",
+    "response": [
+        "doc_1656.txt",
+        "doc_7760.txt",
+        "doc_4941.txt",
+        "doc_13872.txt",
+        "doc_18520.txt"
+    ]
+}

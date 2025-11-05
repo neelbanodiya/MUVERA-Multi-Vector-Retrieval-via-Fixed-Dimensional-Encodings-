@@ -1,0 +1,10 @@
+{
+    "query": "On what date did Abraham Lincoln sustain a fatal injury?",
+    "response": [
+        "doc_7923.txt",
+        "doc_6110.txt",
+        "doc_6108.txt",
+        "doc_6109.txt",
+        "doc_7935.txt"
+    ]
+}

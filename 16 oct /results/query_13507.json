@@ -1,0 +1,10 @@
+{
+    "query": "What type of work did Daphne du Maurier write about her family\u2019s history?",
+    "response": [
+        "doc_7887.txt",
+        "doc_7885.txt",
+        "doc_7883.txt",
+        "doc_7881.txt",
+        "doc_7882.txt"
+    ]
+}

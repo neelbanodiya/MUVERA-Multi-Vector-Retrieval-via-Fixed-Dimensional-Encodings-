@@ -1,0 +1,10 @@
+{
+    "query": "How many people demonstrated in Beijing on May 17, 1989?",
+    "response": [
+        "doc_10975.txt",
+        "doc_10988.txt",
+        "doc_10982.txt",
+        "doc_10970.txt",
+        "doc_10987.txt"
+    ]
+}

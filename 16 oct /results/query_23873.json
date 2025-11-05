@@ -1,0 +1,10 @@
+{
+    "query": "What type of volcano is Mount Rainier?",
+    "response": [
+        "doc_13848.txt",
+        "doc_2281.txt",
+        "doc_18544.txt",
+        "doc_3666.txt",
+        "doc_12276.txt"
+    ]
+}

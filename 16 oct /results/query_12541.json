@@ -1,0 +1,10 @@
+{
+    "query": "What was Theodore Roosevelt\u2019s home located in Oyster Bay?",
+    "response": [
+        "doc_12676.txt",
+        "doc_1649.txt",
+        "doc_18154.txt",
+        "doc_9108.txt",
+        "doc_7863.txt"
+    ]
+}

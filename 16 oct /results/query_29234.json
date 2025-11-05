@@ -1,0 +1,10 @@
+{
+    "query": "Who played Althea Flynt in the film \u201cThe People Vs. Larry Flynt\u201d?",
+    "response": [
+        "doc_17021.txt",
+        "doc_17025.txt",
+        "doc_17029.txt",
+        "doc_17028.txt",
+        "doc_17024.txt"
+    ]
+}

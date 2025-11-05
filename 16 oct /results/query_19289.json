@@ -1,0 +1,10 @@
+{
+    "query": "What awards did K\u014dki Uchiyama receive in 2011 and 2015, respectively?",
+    "response": [
+        "doc_22014.txt",
+        "doc_22019.txt",
+        "doc_22015.txt",
+        "doc_22017.txt",
+        "doc_22025.txt"
+    ]
+}

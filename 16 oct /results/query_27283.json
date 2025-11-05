@@ -1,0 +1,10 @@
+{
+    "query": "What type of art was being produced in Europe during the 17th century, as referenced in one of the linked documents?",
+    "response": [
+        "doc_15841.txt",
+        "doc_5584.txt",
+        "doc_15836.txt",
+        "doc_20241.txt",
+        "doc_5585.txt"
+    ]
+}

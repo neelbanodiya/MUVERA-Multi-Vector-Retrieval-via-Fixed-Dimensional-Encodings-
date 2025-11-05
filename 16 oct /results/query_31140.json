@@ -1,0 +1,10 @@
+{
+    "query": "Which women, besides Rebecca Nurse, were also accused of witchcraft during the Salem Witch Trials?",
+    "response": [
+        "doc_18144.txt",
+        "doc_18147.txt",
+        "doc_18148.txt",
+        "doc_18149.txt",
+        "doc_18145.txt"
+    ]
+}

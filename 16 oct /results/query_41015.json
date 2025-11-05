@@ -1,0 +1,10 @@
+{
+    "query": "What epic is \u201cTroy\u201d by Adele Geras based on?",
+    "response": [
+        "doc_23997.txt",
+        "doc_23999.txt",
+        "doc_8162.txt",
+        "doc_23867.txt",
+        "doc_1812.txt"
+    ]
+}

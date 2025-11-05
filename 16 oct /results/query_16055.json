@@ -1,0 +1,10 @@
+{
+    "query": "What geological feature is created by the subduction of oceanic crust under the Adriatic/Apulian Plate?",
+    "response": [
+        "doc_9295.txt",
+        "doc_9297.txt",
+        "doc_9296.txt",
+        "doc_9294.txt",
+        "doc_3268.txt"
+    ]
+}

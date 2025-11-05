@@ -1,0 +1,10 @@
+{
+    "query": "What was the total stock of RAL at the end of 2004?",
+    "response": [
+        "doc_23588.txt",
+        "doc_17502.txt",
+        "doc_17503.txt",
+        "doc_23584.txt",
+        "doc_23587.txt"
+    ]
+}

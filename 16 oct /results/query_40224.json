@@ -1,0 +1,10 @@
+{
+    "query": "From which geographical regions are elements identified as part of dust carried to the Pyrenean chain?",
+    "response": [
+        "doc_4341.txt",
+        "doc_4336.txt",
+        "doc_16485.txt",
+        "doc_4335.txt",
+        "doc_8789.txt"
+    ]
+}

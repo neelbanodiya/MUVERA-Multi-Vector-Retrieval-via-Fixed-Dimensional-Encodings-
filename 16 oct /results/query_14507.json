@@ -1,0 +1,10 @@
+{
+    "query": "What date does Doc Brown punch into the circuits of his time machine?",
+    "response": [
+        "doc_1060.txt",
+        "doc_4698.txt",
+        "doc_7560.txt",
+        "doc_9893.txt",
+        "doc_1176.txt"
+    ]
+}

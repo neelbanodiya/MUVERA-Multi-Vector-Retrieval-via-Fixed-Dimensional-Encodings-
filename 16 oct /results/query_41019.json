@@ -1,0 +1,10 @@
+{
+    "query": "Who was the first pilot to fly non-stop from New York to Paris?",
+    "response": [
+        "doc_15404.txt",
+        "doc_24004.txt",
+        "doc_1330.txt",
+        "doc_1325.txt",
+        "doc_1328.txt"
+    ]
+}

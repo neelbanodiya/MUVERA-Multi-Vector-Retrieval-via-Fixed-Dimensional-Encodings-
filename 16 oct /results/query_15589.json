@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Tufts University ranked 27th nationally by U.S. News & World Report?",
+    "response": [
+        "doc_9025.txt",
+        "doc_12230.txt",
+        "doc_9024.txt",
+        "doc_9023.txt",
+        "doc_1511.txt"
+    ]
+}

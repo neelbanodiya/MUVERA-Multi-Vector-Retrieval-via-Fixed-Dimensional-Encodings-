@@ -1,0 +1,10 @@
+{
+    "query": "What type of art is Alexander Calder known for?",
+    "response": [
+        "doc_6959.txt",
+        "doc_21747.txt",
+        "doc_21891.txt",
+        "doc_3684.txt",
+        "doc_21889.txt"
+    ]
+}

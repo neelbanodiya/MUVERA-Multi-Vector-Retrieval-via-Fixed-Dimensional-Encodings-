@@ -1,0 +1,10 @@
+{
+    "query": "What were the names of the first three women initially accused of witchcraft in Salem?",
+    "response": [
+        "doc_18147.txt",
+        "doc_18146.txt",
+        "doc_18145.txt",
+        "doc_18149.txt",
+        "doc_18148.txt"
+    ]
+}

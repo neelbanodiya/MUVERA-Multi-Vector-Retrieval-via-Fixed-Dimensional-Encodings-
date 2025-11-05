@@ -1,0 +1,10 @@
+{
+    "query": "Which historical figure is associated with the construction of the St. Wenceslas Chapel, as noted in the \u201cWelcome To Prague Summer 2015\u201d document?",
+    "response": [
+        "doc_16210.txt",
+        "doc_16214.txt",
+        "doc_16211.txt",
+        "doc_16209.txt",
+        "doc_16212.txt"
+    ]
+}

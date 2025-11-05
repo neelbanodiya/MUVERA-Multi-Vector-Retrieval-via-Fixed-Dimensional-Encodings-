@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what type of musical instrument did Roger Daltrey\u2019s father buy him in 1959?",
+    "response": [
+        "doc_16329.txt",
+        "doc_10194.txt",
+        "doc_11548.txt",
+        "doc_20539.txt",
+        "doc_739.txt"
+    ]
+}

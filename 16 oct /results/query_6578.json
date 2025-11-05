@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, when was *The Bad News Bears* first released?",
+    "response": [
+        "doc_7560.txt",
+        "doc_16914.txt",
+        "doc_14909.txt",
+        "doc_17305.txt",
+        "doc_21368.txt"
+    ]
+}

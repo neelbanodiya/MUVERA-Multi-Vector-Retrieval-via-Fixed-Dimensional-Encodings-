@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Janis Joplin announce she was leaving Big Brother & Holding Co.?",
+    "response": [
+        "doc_8010.txt",
+        "doc_8011.txt",
+        "doc_8022.txt",
+        "doc_8012.txt",
+        "doc_8024.txt"
+    ]
+}

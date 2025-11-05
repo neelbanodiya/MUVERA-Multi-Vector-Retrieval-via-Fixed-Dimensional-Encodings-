@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the cinematographer who received rave reviews for the movie *Arjun Reddy*?",
+    "response": [
+        "doc_10446.txt",
+        "doc_21157.txt",
+        "doc_599.txt",
+        "doc_2963.txt",
+        "doc_2680.txt"
+    ]
+}

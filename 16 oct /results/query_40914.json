@@ -1,0 +1,10 @@
+{
+    "query": "What term is used to describe a collection of \u201cChinese coins\u201d?",
+    "response": [
+        "doc_23921.txt",
+        "doc_23923.txt",
+        "doc_23920.txt",
+        "doc_23922.txt",
+        "doc_23924.txt"
+    ]
+}

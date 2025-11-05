@@ -1,0 +1,10 @@
+{
+    "query": "Which television show starred Don Johnson and Cheech Marin as Inspectors?",
+    "response": [
+        "doc_5201.txt",
+        "doc_5205.txt",
+        "doc_5204.txt",
+        "doc_5209.txt",
+        "doc_5210.txt"
+    ]
+}

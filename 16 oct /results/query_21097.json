@@ -1,0 +1,10 @@
+{
+    "query": "What event celebrated all things Turkish in Houston?",
+    "response": [
+        "doc_12175.txt",
+        "doc_12174.txt",
+        "doc_19768.txt",
+        "doc_101.txt",
+        "doc_13530.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What action is the Commission requesting regarding African institutions and courts in relation to this situation?",
+    "response": [
+        "doc_9472.txt",
+        "doc_10306.txt",
+        "doc_8119.txt",
+        "doc_23403.txt",
+        "doc_13720.txt"
+    ]
+}

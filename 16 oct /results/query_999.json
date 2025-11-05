@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, when were the Waldorf Astoria and St. Regis hotels originally established?",
+    "response": [
+        "doc_568.txt",
+        "doc_564.txt",
+        "doc_563.txt",
+        "doc_565.txt",
+        "doc_571.txt"
+    ]
+}

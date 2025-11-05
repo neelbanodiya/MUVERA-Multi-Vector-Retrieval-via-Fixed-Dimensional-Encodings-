@@ -1,0 +1,10 @@
+{
+    "query": "Approximately when was Hieronymus Bosch\u2019s \u201cGarden of Earthly Delights\u201d painted?",
+    "response": [
+        "doc_4564.txt",
+        "doc_4551.txt",
+        "doc_4552.txt",
+        "doc_4568.txt",
+        "doc_4553.txt"
+    ]
+}

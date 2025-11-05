@@ -1,0 +1,10 @@
+{
+    "query": "What did Pete Rose admit to in *My Prison Without Bars* regarding his betting on baseball games?",
+    "response": [
+        "doc_10958.txt",
+        "doc_10957.txt",
+        "doc_10951.txt",
+        "doc_10962.txt",
+        "doc_10961.txt"
+    ]
+}

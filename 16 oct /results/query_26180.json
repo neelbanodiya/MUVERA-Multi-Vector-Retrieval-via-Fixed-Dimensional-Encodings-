@@ -1,0 +1,10 @@
+{
+    "query": "What are the cities mentioned in the snippets related to transportation services in Dong Nai province?",
+    "response": [
+        "doc_67.txt",
+        "doc_15211.txt",
+        "doc_6430.txt",
+        "doc_6315.txt",
+        "doc_10976.txt"
+    ]
+}

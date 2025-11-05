@@ -1,0 +1,10 @@
+{
+    "query": "What was Walter Matthau\u2019s final on-screen appearance, and who directed it?",
+    "response": [
+        "doc_18100.txt",
+        "doc_21385.txt",
+        "doc_5156.txt",
+        "doc_3771.txt",
+        "doc_15484.txt"
+    ]
+}

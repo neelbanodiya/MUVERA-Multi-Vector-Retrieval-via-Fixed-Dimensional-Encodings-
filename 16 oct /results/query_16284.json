@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the story \u201cMonsters Are Due on Maple Street\u201d?",
+    "response": [
+        "doc_18344.txt",
+        "doc_9595.txt",
+        "doc_448.txt",
+        "doc_6077.txt",
+        "doc_21755.txt"
+    ]
+}

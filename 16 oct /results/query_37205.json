@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what was the initial action of the Lord regarding Sodom and Gomorrah?",
+    "response": [
+        "doc_21757.txt",
+        "doc_21758.txt",
+        "doc_21765.txt",
+        "doc_21756.txt",
+        "doc_21759.txt"
+    ]
+}

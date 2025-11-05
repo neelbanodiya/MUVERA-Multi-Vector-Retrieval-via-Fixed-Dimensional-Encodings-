@@ -1,0 +1,10 @@
+{
+    "query": "Which company acquired Coles Group Limited in 2007?",
+    "response": [
+        "doc_21496.txt",
+        "doc_21497.txt",
+        "doc_10345.txt",
+        "doc_3695.txt",
+        "doc_275.txt"
+    ]
+}

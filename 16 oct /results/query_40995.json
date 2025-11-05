@@ -1,0 +1,10 @@
+{
+    "query": "In what franchise is Bruce Campbell best known for portraying Ash Williams?",
+    "response": [
+        "doc_15278.txt",
+        "doc_23994.txt",
+        "doc_7864.txt",
+        "doc_18954.txt",
+        "doc_4475.txt"
+    ]
+}

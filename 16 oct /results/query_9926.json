@@ -1,0 +1,10 @@
+{
+    "query": "What awards has Leslye Walton received?",
+    "response": [
+        "doc_2264.txt",
+        "doc_10450.txt",
+        "doc_2265.txt",
+        "doc_4458.txt",
+        "doc_5758.txt"
+    ]
+}

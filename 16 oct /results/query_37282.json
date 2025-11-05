@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 7a, what Directive governs the processing of personal data related to this Directive?",
+    "response": [
+        "doc_182.txt",
+        "doc_24026.txt",
+        "doc_21815.txt",
+        "doc_21816.txt",
+        "doc_21813.txt"
+    ]
+}

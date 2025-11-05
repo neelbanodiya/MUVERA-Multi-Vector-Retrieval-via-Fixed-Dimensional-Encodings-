@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary composition of Jupiter\u2019s atmosphere, and how do gases move within it?",
+    "response": [
+        "doc_1280.txt",
+        "doc_1282.txt",
+        "doc_1287.txt",
+        "doc_1290.txt",
+        "doc_1283.txt"
+    ]
+}

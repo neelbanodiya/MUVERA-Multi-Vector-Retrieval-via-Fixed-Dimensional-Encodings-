@@ -1,0 +1,10 @@
+{
+    "query": "What role is Roger fulfilling during this event?",
+    "response": [
+        "doc_21379.txt",
+        "doc_17370.txt",
+        "doc_20032.txt",
+        "doc_13334.txt",
+        "doc_23644.txt"
+    ]
+}

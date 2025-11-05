@@ -1,0 +1,10 @@
+{
+    "query": "What river does St. Louis, Missouri, lie on?",
+    "response": [
+        "doc_21161.txt",
+        "doc_1633.txt",
+        "doc_21162.txt",
+        "doc_2427.txt",
+        "doc_21164.txt"
+    ]
+}

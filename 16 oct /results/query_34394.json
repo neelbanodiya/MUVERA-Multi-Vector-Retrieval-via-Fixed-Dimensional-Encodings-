@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was Robert Louis Stevenson\u2019s initial motivation for writing *Treasure Island*?",
+    "response": [
+        "doc_20009.txt",
+        "doc_20015.txt",
+        "doc_20016.txt",
+        "doc_20007.txt",
+        "doc_20011.txt"
+    ]
+}

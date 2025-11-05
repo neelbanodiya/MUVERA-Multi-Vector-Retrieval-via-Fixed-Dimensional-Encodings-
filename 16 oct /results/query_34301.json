@@ -1,0 +1,10 @@
+{
+    "query": "What types of discounts are offered on the Chic dressing website?",
+    "response": [
+        "doc_8830.txt",
+        "doc_8823.txt",
+        "doc_2960.txt",
+        "doc_8817.txt",
+        "doc_8818.txt"
+    ]
+}

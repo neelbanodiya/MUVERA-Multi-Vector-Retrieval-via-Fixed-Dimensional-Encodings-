@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, where was Emerson\u2019s essay \u201cSelf-Reliance\u201d written?",
+    "response": [
+        "doc_12350.txt",
+        "doc_12353.txt",
+        "doc_12352.txt",
+        "doc_12354.txt",
+        "doc_12355.txt"
+    ]
+}

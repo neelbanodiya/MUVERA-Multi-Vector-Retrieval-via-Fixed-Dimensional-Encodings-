@@ -1,0 +1,10 @@
+{
+    "query": "What did the European Parliament call for in 2007 regarding existing cancer measures?",
+    "response": [
+        "doc_20777.txt",
+        "doc_5644.txt",
+        "doc_20810.txt",
+        "doc_20762.txt",
+        "doc_9293.txt"
+    ]
+}

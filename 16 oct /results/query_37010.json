@@ -1,0 +1,10 @@
+{
+    "query": "What was the first official U.S. flag flown during battle, and when did it occur?",
+    "response": [
+        "doc_21643.txt",
+        "doc_21641.txt",
+        "doc_21646.txt",
+        "doc_21642.txt",
+        "doc_21647.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission currently exploring in relation to combating corruption?",
+    "response": [
+        "doc_6071.txt",
+        "doc_10336.txt",
+        "doc_19064.txt",
+        "doc_2923.txt",
+        "doc_21355.txt"
+    ]
+}

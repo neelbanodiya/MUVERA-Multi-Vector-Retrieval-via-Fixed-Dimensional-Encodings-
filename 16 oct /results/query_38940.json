@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was the GDP growth rate of the eurozone in 2006?",
+    "response": [
+        "doc_17529.txt",
+        "doc_17590.txt",
+        "doc_13918.txt",
+        "doc_3654.txt",
+        "doc_17373.txt"
+    ]
+}

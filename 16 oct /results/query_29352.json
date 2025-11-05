@@ -1,0 +1,10 @@
+{
+    "query": "What book did Nehru write while in prison, intended to educate his daughter about world history?",
+    "response": [
+        "doc_17083.txt",
+        "doc_17082.txt",
+        "doc_17087.txt",
+        "doc_17081.txt",
+        "doc_17085.txt"
+    ]
+}

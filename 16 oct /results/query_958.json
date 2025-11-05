@@ -1,0 +1,10 @@
+{
+    "query": "In what region of Europe is this country located?",
+    "response": [
+        "doc_7201.txt",
+        "doc_3268.txt",
+        "doc_1002.txt",
+        "doc_3267.txt",
+        "doc_14687.txt"
+    ]
+}

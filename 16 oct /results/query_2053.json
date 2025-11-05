@@ -1,0 +1,10 @@
+{
+    "query": "In what year and location was the 2007 Forest Hills Tennis Classic held?",
+    "response": [
+        "doc_15159.txt",
+        "doc_15158.txt",
+        "doc_1232.txt",
+        "doc_15160.txt",
+        "doc_18355.txt"
+    ]
+}

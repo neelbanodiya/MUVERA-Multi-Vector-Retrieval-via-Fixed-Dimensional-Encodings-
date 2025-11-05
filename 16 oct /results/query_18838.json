@@ -1,0 +1,10 @@
+{
+    "query": "In which countries is the Yoruba religion primarily found?",
+    "response": [
+        "doc_10933.txt",
+        "doc_10934.txt",
+        "doc_8789.txt",
+        "doc_7258.txt",
+        "doc_12142.txt"
+    ]
+}

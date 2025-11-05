@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was Charles Dickens\u2019s profession?",
+    "response": [
+        "doc_11914.txt",
+        "doc_11913.txt",
+        "doc_20542.txt",
+        "doc_11909.txt",
+        "doc_11915.txt"
+    ]
+}

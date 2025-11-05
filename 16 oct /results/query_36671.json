@@ -1,0 +1,10 @@
+{
+    "query": "What kind of music did Cornell Campbell describe as \u201csweet melodies\u201d?",
+    "response": [
+        "doc_12573.txt",
+        "doc_19136.txt",
+        "doc_3913.txt",
+        "doc_7668.txt",
+        "doc_22803.txt"
+    ]
+}

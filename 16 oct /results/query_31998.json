@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is a \u201cKarate chop\u201d and how does it differ from a roundhouse punch?",
+    "response": [
+        "doc_18638.txt",
+        "doc_18645.txt",
+        "doc_18637.txt",
+        "doc_18642.txt",
+        "doc_18640.txt"
+    ]
+}

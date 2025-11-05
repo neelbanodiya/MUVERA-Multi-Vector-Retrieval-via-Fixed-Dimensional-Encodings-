@@ -1,0 +1,10 @@
+{
+    "query": "What previous European Parliament resolutions did the resolution on Bahrain reference?",
+    "response": [
+        "doc_4899.txt",
+        "doc_5386.txt",
+        "doc_5821.txt",
+        "doc_13720.txt",
+        "doc_23374.txt"
+    ]
+}

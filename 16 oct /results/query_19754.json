@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote the song \u201cUp On The Roof,\u201d which was recorded by The Drifters in 1962?",
+    "response": [
+        "doc_11430.txt",
+        "doc_11417.txt",
+        "doc_11431.txt",
+        "doc_11422.txt",
+        "doc_11429.txt"
+    ]
+}

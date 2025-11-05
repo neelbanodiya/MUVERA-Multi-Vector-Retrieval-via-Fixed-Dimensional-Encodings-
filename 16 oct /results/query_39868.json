@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what was the timeframe for the elimination of chemical weapons following the START I treaty\u2019s entry into force?",
+    "response": [
+        "doc_10365.txt",
+        "doc_207.txt",
+        "doc_10500.txt",
+        "doc_3828.txt",
+        "doc_16466.txt"
+    ]
+}

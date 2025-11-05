@@ -1,0 +1,10 @@
+{
+    "query": "What was the average speed of cars participating in the Silver State Classic Challenge?",
+    "response": [
+        "doc_23261.txt",
+        "doc_12599.txt",
+        "doc_8547.txt",
+        "doc_22575.txt",
+        "doc_22790.txt"
+    ]
+}

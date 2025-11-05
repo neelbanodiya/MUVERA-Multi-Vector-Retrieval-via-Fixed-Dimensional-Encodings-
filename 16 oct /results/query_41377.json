@@ -1,0 +1,10 @@
+{
+    "query": "Since the first season in 1996-97, how many Big 12 players have been selected for NCAA events?",
+    "response": [
+        "doc_24240.txt",
+        "doc_19122.txt",
+        "doc_24242.txt",
+        "doc_24246.txt",
+        "doc_2010.txt"
+    ]
+}

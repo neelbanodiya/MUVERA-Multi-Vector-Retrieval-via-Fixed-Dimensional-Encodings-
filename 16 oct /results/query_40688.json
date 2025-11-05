@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Brosnan appear for his fourth time as James Bond?",
+    "response": [
+        "doc_23804.txt",
+        "doc_23801.txt",
+        "doc_23805.txt",
+        "doc_23797.txt",
+        "doc_9788.txt"
+    ]
+}

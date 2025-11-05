@@ -1,0 +1,10 @@
+{
+    "query": "According to the article, what clothing items are associated with Gap?",
+    "response": [
+        "doc_2959.txt",
+        "doc_1103.txt",
+        "doc_2958.txt",
+        "doc_21599.txt",
+        "doc_2961.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many camels did Rebekah water for the servant?",
+    "response": [
+        "doc_8099.txt",
+        "doc_8090.txt",
+        "doc_8102.txt",
+        "doc_8104.txt",
+        "doc_8107.txt"
+    ]
+}

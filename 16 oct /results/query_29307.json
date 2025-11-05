@@ -1,0 +1,10 @@
+{
+    "query": "What sports team is associated with Kansas City?",
+    "response": [
+        "doc_10507.txt",
+        "doc_8052.txt",
+        "doc_24251.txt",
+        "doc_9158.txt",
+        "doc_19122.txt"
+    ]
+}

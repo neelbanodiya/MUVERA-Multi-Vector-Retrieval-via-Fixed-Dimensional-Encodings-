@@ -1,0 +1,10 @@
+{
+    "query": "Where did Daphne du Maurier grow up as a child?",
+    "response": [
+        "doc_7883.txt",
+        "doc_7880.txt",
+        "doc_7884.txt",
+        "doc_7882.txt",
+        "doc_7886.txt"
+    ]
+}

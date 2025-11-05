@@ -1,0 +1,10 @@
+{
+    "query": "Which company owns more than 20 daily news journals, including papers in 41 U.S. cities?",
+    "response": [
+        "doc_23494.txt",
+        "doc_23495.txt",
+        "doc_3070.txt",
+        "doc_23502.txt",
+        "doc_19456.txt"
+    ]
+}

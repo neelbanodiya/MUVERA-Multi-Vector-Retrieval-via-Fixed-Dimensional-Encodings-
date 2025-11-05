@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is Michael Jordan\u2019s Olympic medal count?",
+    "response": [
+        "doc_11674.txt",
+        "doc_13769.txt",
+        "doc_20191.txt",
+        "doc_19244.txt",
+        "doc_21100.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was Jason Bonham\u2019s role in the Led Zeppelin performance?",
+    "response": [
+        "doc_2402.txt",
+        "doc_2408.txt",
+        "doc_2389.txt",
+        "doc_19012.txt",
+        "doc_18954.txt"
+    ]
+}

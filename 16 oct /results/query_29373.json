@@ -1,0 +1,10 @@
+{
+    "query": "What is the setting of the musical \u201cFiddler on the Roof\u201d?",
+    "response": [
+        "doc_17093.txt",
+        "doc_15392.txt",
+        "doc_5249.txt",
+        "doc_21967.txt",
+        "doc_16769.txt"
+    ]
+}

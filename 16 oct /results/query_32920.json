@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what percentage of the EU\u2019s gas imports originate from Russia?",
+    "response": [
+        "doc_19176.txt",
+        "doc_16790.txt",
+        "doc_176.txt",
+        "doc_19646.txt",
+        "doc_1211.txt"
+    ]
+}

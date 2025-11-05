@@ -1,0 +1,10 @@
+{
+    "query": "What is the official mascot of the University of Pittsburgh?",
+    "response": [
+        "doc_19359.txt",
+        "doc_18912.txt",
+        "doc_18911.txt",
+        "doc_6782.txt",
+        "doc_6777.txt"
+    ]
+}

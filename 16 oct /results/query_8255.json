@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, who led the Conservative Party in 1975?",
+    "response": [
+        "doc_15076.txt",
+        "doc_4774.txt",
+        "doc_15074.txt",
+        "doc_15073.txt",
+        "doc_23152.txt"
+    ]
+}

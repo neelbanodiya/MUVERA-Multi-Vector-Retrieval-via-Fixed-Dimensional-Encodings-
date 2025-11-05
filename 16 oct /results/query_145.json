@@ -1,0 +1,10 @@
+{
+    "query": "What is a well-known Sichuan-style Chinese dish?",
+    "response": [
+        "doc_65.txt",
+        "doc_8753.txt",
+        "doc_8749.txt",
+        "doc_8756.txt",
+        "doc_8761.txt"
+    ]
+}

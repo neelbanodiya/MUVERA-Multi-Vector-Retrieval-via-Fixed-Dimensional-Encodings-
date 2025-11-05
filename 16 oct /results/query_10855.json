@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what are the fees associated with registering a yacht on the Croatian shipping register, depending on its origin?",
+    "response": [
+        "doc_6291.txt",
+        "doc_17671.txt",
+        "doc_11217.txt",
+        "doc_12077.txt",
+        "doc_17665.txt"
+    ]
+}

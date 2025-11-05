@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many acres does the Painted Desert encompass?",
+    "response": [
+        "doc_9326.txt",
+        "doc_9325.txt",
+        "doc_9324.txt",
+        "doc_23078.txt",
+        "doc_11036.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is served before the BBQ Festival?",
+    "response": [
+        "doc_14996.txt",
+        "doc_14353.txt",
+        "doc_10427.txt",
+        "doc_9978.txt",
+        "doc_2218.txt"
+    ]
+}

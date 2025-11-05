@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Andrew Carnegie born?",
+    "response": [
+        "doc_4246.txt",
+        "doc_4243.txt",
+        "doc_4242.txt",
+        "doc_3572.txt",
+        "doc_1747.txt"
+    ]
+}

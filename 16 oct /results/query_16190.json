@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was the focus of the Los Angeles County Museum of Art (LACMA)?",
+    "response": [
+        "doc_14728.txt",
+        "doc_20379.txt",
+        "doc_20388.txt",
+        "doc_20380.txt",
+        "doc_14733.txt"
+    ]
+}

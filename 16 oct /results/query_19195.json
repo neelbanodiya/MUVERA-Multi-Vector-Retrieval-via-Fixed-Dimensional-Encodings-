@@ -1,0 +1,10 @@
+{
+    "query": "What was The Who\u2019s first single?",
+    "response": [
+        "doc_14727.txt",
+        "doc_12407.txt",
+        "doc_1812.txt",
+        "doc_14847.txt",
+        "doc_5318.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What types of books has Writers of the Round Table Press produced, and where are they available?",
+    "response": [
+        "doc_18583.txt",
+        "doc_5050.txt",
+        "doc_14698.txt",
+        "doc_21236.txt",
+        "doc_10782.txt"
+    ]
+}

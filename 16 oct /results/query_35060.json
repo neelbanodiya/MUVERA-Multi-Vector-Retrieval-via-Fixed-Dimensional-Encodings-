@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what type of content was included in the initial programming of the Noggin service?",
+    "response": [
+        "doc_12392.txt",
+        "doc_14412.txt",
+        "doc_20626.txt",
+        "doc_12597.txt",
+        "doc_19143.txt"
+    ]
+}

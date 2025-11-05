@@ -1,0 +1,10 @@
+{
+    "query": "When did the *Osomatsu-san* anime series first air in Japan?",
+    "response": [
+        "doc_9515.txt",
+        "doc_6683.txt",
+        "doc_9644.txt",
+        "doc_2926.txt",
+        "doc_594.txt"
+    ]
+}

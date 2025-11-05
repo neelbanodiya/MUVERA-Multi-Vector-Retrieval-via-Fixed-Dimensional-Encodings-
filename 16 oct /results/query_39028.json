@@ -1,0 +1,10 @@
+{
+    "query": "In *Pretty Woman*, what profession does Julia Roberts\u2019 character have?",
+    "response": [
+        "doc_22855.txt",
+        "doc_22843.txt",
+        "doc_1731.txt",
+        "doc_20553.txt",
+        "doc_12949.txt"
+    ]
+}

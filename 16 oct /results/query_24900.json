@@ -1,0 +1,10 @@
+{
+    "query": "What did Grandmother do to her face?",
+    "response": [
+        "doc_16050.txt",
+        "doc_11032.txt",
+        "doc_9308.txt",
+        "doc_9318.txt",
+        "doc_10297.txt"
+    ]
+}

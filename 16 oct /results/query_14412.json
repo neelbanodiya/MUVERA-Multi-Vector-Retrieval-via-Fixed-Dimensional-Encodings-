@@ -1,0 +1,10 @@
+{
+    "query": "What was Carthage doing in 146 BC, according to the text?",
+    "response": [
+        "doc_8346.txt",
+        "doc_8352.txt",
+        "doc_8787.txt",
+        "doc_8348.txt",
+        "doc_8357.txt"
+    ]
+}

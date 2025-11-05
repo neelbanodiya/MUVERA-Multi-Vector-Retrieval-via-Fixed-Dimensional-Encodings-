@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what denominations of currency were featured on US bank notes?",
+    "response": [
+        "doc_3445.txt",
+        "doc_6170.txt",
+        "doc_5478.txt",
+        "doc_16485.txt",
+        "doc_14589.txt"
+    ]
+}

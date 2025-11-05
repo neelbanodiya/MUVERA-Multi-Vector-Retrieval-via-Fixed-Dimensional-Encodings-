@@ -1,0 +1,10 @@
+{
+    "query": "What action did the committee demand the Commission undertake regarding OLAF, and when should it begin?",
+    "response": [
+        "doc_12146.txt",
+        "doc_20922.txt",
+        "doc_3880.txt",
+        "doc_7872.txt",
+        "doc_3539.txt"
+    ]
+}

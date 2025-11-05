@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is the typical use of Roman numerals in the NFL?",
+    "response": [
+        "doc_14597.txt",
+        "doc_14587.txt",
+        "doc_14591.txt",
+        "doc_14590.txt",
+        "doc_14599.txt"
+    ]
+}

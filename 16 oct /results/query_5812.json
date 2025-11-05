@@ -1,0 +1,10 @@
+{
+    "query": "According to the Alabama State Port Authority document, what was the estimated economic impact of a specific program?",
+    "response": [
+        "doc_3389.txt",
+        "doc_22954.txt",
+        "doc_11921.txt",
+        "doc_8136.txt",
+        "doc_11924.txt"
+    ]
+}

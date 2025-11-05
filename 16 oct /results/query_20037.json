@@ -1,0 +1,10 @@
+{
+    "query": "Which company went bankrupt during the height of the Cabbage Patch Kids\u2019 popularity?",
+    "response": [
+        "doc_11546.txt",
+        "doc_8011.txt",
+        "doc_7497.txt",
+        "doc_5794.txt",
+        "doc_21161.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What encryption methods are mentioned in the passage, specifically alongside \u201cGoldBug\u201d?",
+    "response": [
+        "doc_21820.txt",
+        "doc_12597.txt",
+        "doc_17998.txt",
+        "doc_23612.txt",
+        "doc_15581.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Willie Stargell hit a ball so far that they painted the seat gold?",
+    "response": [
+        "doc_17801.txt",
+        "doc_7697.txt",
+        "doc_23766.txt",
+        "doc_2443.txt",
+        "doc_20418.txt"
+    ]
+}

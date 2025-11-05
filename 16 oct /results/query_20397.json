@@ -1,0 +1,10 @@
+{
+    "query": "What is the connection between the Pok\u00e9mon card distribution in the United States and Wizards of the Coast?",
+    "response": [
+        "doc_10700.txt",
+        "doc_21986.txt",
+        "doc_8686.txt",
+        "doc_8837.txt",
+        "doc_4218.txt"
+    ]
+}

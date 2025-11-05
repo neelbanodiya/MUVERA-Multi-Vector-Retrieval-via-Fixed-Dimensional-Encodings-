@@ -1,0 +1,10 @@
+{
+    "query": "How many people did Wiley Post accompany during his travels?",
+    "response": [
+        "doc_15594.txt",
+        "doc_11916.txt",
+        "doc_4656.txt",
+        "doc_9236.txt",
+        "doc_8197.txt"
+    ]
+}

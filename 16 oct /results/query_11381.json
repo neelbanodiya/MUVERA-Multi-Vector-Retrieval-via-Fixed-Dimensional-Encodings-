@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the city that Boston was originally named after?",
+    "response": [
+        "doc_6607.txt",
+        "doc_6610.txt",
+        "doc_6609.txt",
+        "doc_6608.txt",
+        "doc_7301.txt"
+    ]
+}

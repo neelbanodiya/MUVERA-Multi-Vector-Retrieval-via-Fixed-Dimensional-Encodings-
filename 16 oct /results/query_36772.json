@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of discarded wind turbine blades in Denmark end up in landfill, according to reports from Danish authorities?",
+    "response": [
+        "doc_21491.txt",
+        "doc_3253.txt",
+        "doc_12143.txt",
+        "doc_9880.txt",
+        "doc_3246.txt"
+    ]
+}

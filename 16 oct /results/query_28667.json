@@ -1,0 +1,10 @@
+{
+    "query": "Which country established a trading post in California between 1769 and 1776?",
+    "response": [
+        "doc_16681.txt",
+        "doc_16685.txt",
+        "doc_19675.txt",
+        "doc_16690.txt",
+        "doc_16698.txt"
+    ]
+}

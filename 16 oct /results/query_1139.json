@@ -1,0 +1,10 @@
+{
+    "query": "What is one characteristic of *Jane Eyre* mentioned in the provided text regarding the narrative style?",
+    "response": [
+        "doc_643.txt",
+        "doc_632.txt",
+        "doc_647.txt",
+        "doc_642.txt",
+        "doc_634.txt"
+    ]
+}

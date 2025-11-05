@@ -1,0 +1,8 @@
+{
+    "query": "Which battalion of the 101st Airborne Division is currently assigned to the 2nd Brigade Combat Team?",
+    "response": [
+        "doc_18900.txt",
+        "doc_18899.txt",
+        "doc_18898.txt"
+    ]
+}

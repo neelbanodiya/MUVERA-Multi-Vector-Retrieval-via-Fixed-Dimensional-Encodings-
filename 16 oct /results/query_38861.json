@@ -1,0 +1,10 @@
+{
+    "query": "Who did John F. Kennedy hold on Election Day in 1960?",
+    "response": [
+        "doc_2477.txt",
+        "doc_3807.txt",
+        "doc_2476.txt",
+        "doc_15078.txt",
+        "doc_22700.txt"
+    ]
+}

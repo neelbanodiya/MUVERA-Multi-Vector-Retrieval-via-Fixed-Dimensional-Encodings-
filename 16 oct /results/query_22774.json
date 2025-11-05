@@ -1,0 +1,10 @@
+{
+    "query": "What fruit is mentioned alongside \u201cTutti Frutti\u201d?",
+    "response": [
+        "doc_2950.txt",
+        "doc_13106.txt",
+        "doc_23448.txt",
+        "doc_21923.txt",
+        "doc_14493.txt"
+    ]
+}

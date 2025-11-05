@@ -1,0 +1,10 @@
+{
+    "query": "What architectural style is the Oral Roberts University campus known for?",
+    "response": [
+        "doc_4610.txt",
+        "doc_4609.txt",
+        "doc_4607.txt",
+        "doc_4608.txt",
+        "doc_3913.txt"
+    ]
+}

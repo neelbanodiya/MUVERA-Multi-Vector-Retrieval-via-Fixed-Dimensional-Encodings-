@@ -1,0 +1,10 @@
+{
+    "query": "Where was the city of Tenochtitlan built?",
+    "response": [
+        "doc_38.txt",
+        "doc_7260.txt",
+        "doc_16681.txt",
+        "doc_8343.txt",
+        "doc_18154.txt"
+    ]
+}

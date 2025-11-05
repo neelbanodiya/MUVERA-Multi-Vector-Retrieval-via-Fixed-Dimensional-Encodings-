@@ -1,0 +1,10 @@
+{
+    "query": "What specific dishes does Hanna\u2019s Gourmet currently serve?",
+    "response": [
+        "doc_15785.txt",
+        "doc_10439.txt",
+        "doc_14354.txt",
+        "doc_15778.txt",
+        "doc_10431.txt"
+    ]
+}

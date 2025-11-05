@@ -1,0 +1,10 @@
+{
+    "query": "What two entities independently concluded that the ROKS Cheonan was sunk by a torpedo from the Democratic People\u2019s Republic of Korea (DPRK)?",
+    "response": [
+        "doc_9779.txt",
+        "doc_9780.txt",
+        "doc_7869.txt",
+        "doc_4809.txt",
+        "doc_556.txt"
+    ]
+}

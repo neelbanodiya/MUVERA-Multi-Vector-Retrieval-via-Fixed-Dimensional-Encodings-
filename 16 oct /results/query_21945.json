@@ -1,0 +1,10 @@
+{
+    "query": "What is a synonym for \u201cpharaoh\u201d according to the Thesaurus.com website?",
+    "response": [
+        "doc_12650.txt",
+        "doc_12654.txt",
+        "doc_18486.txt",
+        "doc_18487.txt",
+        "doc_8506.txt"
+    ]
+}

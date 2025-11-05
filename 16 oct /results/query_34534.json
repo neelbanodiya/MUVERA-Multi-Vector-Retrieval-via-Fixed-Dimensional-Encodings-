@@ -1,0 +1,10 @@
+{
+    "query": "What is Dominic currently studying at Notre Dame?",
+    "response": [
+        "doc_14425.txt",
+        "doc_10681.txt",
+        "doc_350.txt",
+        "doc_20399.txt",
+        "doc_18509.txt"
+    ]
+}

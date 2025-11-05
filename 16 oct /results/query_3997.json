@@ -1,0 +1,10 @@
+{
+    "query": "At what age did Jane Austen begin writing *Sense and Sensibility*?",
+    "response": [
+        "doc_2322.txt",
+        "doc_2330.txt",
+        "doc_2317.txt",
+        "doc_2320.txt",
+        "doc_2323.txt"
+    ]
+}

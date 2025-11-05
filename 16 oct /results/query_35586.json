@@ -1,0 +1,10 @@
+{
+    "query": "Which Treaty articles are cited as justification for the European Parliament\u2019s actions in this resolution?",
+    "response": [
+        "doc_13217.txt",
+        "doc_13321.txt",
+        "doc_13322.txt",
+        "doc_13347.txt",
+        "doc_5835.txt"
+    ]
+}

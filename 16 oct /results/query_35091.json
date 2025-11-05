@@ -1,0 +1,10 @@
+{
+    "query": "Approximately when was Sappho born?",
+    "response": [
+        "doc_20466.txt",
+        "doc_20467.txt",
+        "doc_20470.txt",
+        "doc_9898.txt",
+        "doc_3569.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the only country on the Iberian Peninsula that borders the Mediterranean Sea?",
+    "response": [
+        "doc_3267.txt",
+        "doc_3268.txt",
+        "doc_3280.txt",
+        "doc_3279.txt",
+        "doc_3274.txt"
+    ]
+}

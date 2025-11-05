@@ -1,0 +1,10 @@
+{
+    "query": "What was Mabel Normand\u2019s role in the story of *Mack & Mabel*?",
+    "response": [
+        "doc_7025.txt",
+        "doc_7023.txt",
+        "doc_7020.txt",
+        "doc_7022.txt",
+        "doc_7028.txt"
+    ]
+}

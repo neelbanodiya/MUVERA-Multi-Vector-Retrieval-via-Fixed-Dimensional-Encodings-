@@ -1,0 +1,10 @@
+{
+    "query": "What type of location is Sibenik described as?",
+    "response": [
+        "doc_7343.txt",
+        "doc_7259.txt",
+        "doc_8784.txt",
+        "doc_1388.txt",
+        "doc_22538.txt"
+    ]
+}

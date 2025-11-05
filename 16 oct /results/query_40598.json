@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of Catherine de Medici\u2019s father?",
+    "response": [
+        "doc_23759.txt",
+        "doc_23752.txt",
+        "doc_23758.txt",
+        "doc_23751.txt",
+        "doc_23745.txt"
+    ]
+}

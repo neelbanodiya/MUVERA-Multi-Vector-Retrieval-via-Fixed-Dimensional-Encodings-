@@ -1,0 +1,10 @@
+{
+    "query": "Which Pearl Jam album produced the singles \u201cAlive,\u201d \u201cEven Flow,\u201d and \u201cJeremy\u201d?",
+    "response": [
+        "doc_20047.txt",
+        "doc_20044.txt",
+        "doc_20045.txt",
+        "doc_20042.txt",
+        "doc_20041.txt"
+    ]
+}

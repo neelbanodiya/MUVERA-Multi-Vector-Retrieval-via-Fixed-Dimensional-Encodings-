@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary focus of Robert Louis Stevenson\u2019s *Treasure Island*?",
+    "response": [
+        "doc_20015.txt",
+        "doc_20006.txt",
+        "doc_20008.txt",
+        "doc_20016.txt",
+        "doc_20010.txt"
+    ]
+}

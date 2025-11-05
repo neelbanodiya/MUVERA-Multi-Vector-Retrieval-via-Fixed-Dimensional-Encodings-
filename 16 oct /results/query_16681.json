@@ -1,0 +1,10 @@
+{
+    "query": "When did the Commission decide to refer the case to the Court of Justice?",
+    "response": [
+        "doc_9668.txt",
+        "doc_9340.txt",
+        "doc_11948.txt",
+        "doc_24096.txt",
+        "doc_17079.txt"
+    ]
+}

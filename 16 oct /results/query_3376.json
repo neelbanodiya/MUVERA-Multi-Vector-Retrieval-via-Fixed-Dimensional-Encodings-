@@ -1,0 +1,10 @@
+{
+    "query": "What was the length of the 1998-99 NHL lockout?",
+    "response": [
+        "doc_16877.txt",
+        "doc_16876.txt",
+        "doc_9674.txt",
+        "doc_10337.txt",
+        "doc_13132.txt"
+    ]
+}

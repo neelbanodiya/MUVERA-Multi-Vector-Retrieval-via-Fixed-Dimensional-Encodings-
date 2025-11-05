@@ -1,0 +1,10 @@
+{
+    "query": "For the last twenty years, has the Commission created a table showing the average three-month interest rate for each Member State?",
+    "response": [
+        "doc_15461.txt",
+        "doc_12144.txt",
+        "doc_18023.txt",
+        "doc_4440.txt",
+        "doc_3250.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was the first edition of \u201cQuotations from Chairman Mao Tse-Tung\u201d published?",
+    "response": [
+        "doc_20981.txt",
+        "doc_20983.txt",
+        "doc_20982.txt",
+        "doc_20988.txt",
+        "doc_1527.txt"
+    ]
+}

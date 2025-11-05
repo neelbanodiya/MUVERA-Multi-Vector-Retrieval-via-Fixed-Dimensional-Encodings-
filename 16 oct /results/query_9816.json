@@ -1,0 +1,10 @@
+{
+    "query": "Which governing body recognized the 2008 FIA Formula One World Championship as the highest class of competition?",
+    "response": [
+        "doc_5660.txt",
+        "doc_8854.txt",
+        "doc_5659.txt",
+        "doc_8855.txt",
+        "doc_8853.txt"
+    ]
+}

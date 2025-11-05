@@ -1,0 +1,10 @@
+{
+    "query": "Which committees will hold a joint public hearing regarding the European Institute of Technology?",
+    "response": [
+        "doc_2053.txt",
+        "doc_8250.txt",
+        "doc_1146.txt",
+        "doc_17370.txt",
+        "doc_13217.txt"
+    ]
+}

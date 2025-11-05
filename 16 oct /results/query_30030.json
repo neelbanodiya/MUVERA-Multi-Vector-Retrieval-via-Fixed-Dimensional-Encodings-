@@ -1,0 +1,10 @@
+{
+    "query": "Can a blood test be necessary during certain imaging procedures, such as an MRI, to assess kidney function?",
+    "response": [
+        "doc_17448.txt",
+        "doc_17460.txt",
+        "doc_17452.txt",
+        "doc_17450.txt",
+        "doc_17447.txt"
+    ]
+}

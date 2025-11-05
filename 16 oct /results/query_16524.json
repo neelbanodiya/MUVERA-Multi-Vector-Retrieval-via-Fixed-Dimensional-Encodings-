@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote the novel *Midnight in the Garden of Good and Evil*?",
+    "response": [
+        "doc_9601.txt",
+        "doc_9600.txt",
+        "doc_9598.txt",
+        "doc_9599.txt",
+        "doc_9602.txt"
+    ]
+}

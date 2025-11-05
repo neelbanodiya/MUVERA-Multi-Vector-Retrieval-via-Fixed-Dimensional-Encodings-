@@ -1,0 +1,10 @@
+{
+    "query": "What years did King George VI serve as monarch?",
+    "response": [
+        "doc_9759.txt",
+        "doc_9756.txt",
+        "doc_9767.txt",
+        "doc_9769.txt",
+        "doc_9755.txt"
+    ]
+}

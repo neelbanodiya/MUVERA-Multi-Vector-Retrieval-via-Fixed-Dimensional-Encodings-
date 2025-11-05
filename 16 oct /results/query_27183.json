@@ -1,0 +1,10 @@
+{
+    "query": "According to the documents, what types of winds are identified as hazards for sailors crossing the waters between Spain and France?",
+    "response": [
+        "doc_15788.txt",
+        "doc_15789.txt",
+        "doc_15790.txt",
+        "doc_15800.txt",
+        "doc_15796.txt"
+    ]
+}

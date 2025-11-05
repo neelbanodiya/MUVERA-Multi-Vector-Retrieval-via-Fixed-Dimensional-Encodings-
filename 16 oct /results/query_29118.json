@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what did Sylvester Stallone call a coat?",
+    "response": [
+        "doc_14480.txt",
+        "doc_16962.txt",
+        "doc_1124.txt",
+        "doc_151.txt",
+        "doc_15426.txt"
+    ]
+}

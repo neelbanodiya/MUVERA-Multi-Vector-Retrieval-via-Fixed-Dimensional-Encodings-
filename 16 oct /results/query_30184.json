@@ -1,0 +1,10 @@
+{
+    "query": "What was the total amount allocated to \u201cRegional Policy\u201d in 2005?",
+    "response": [
+        "doc_17540.txt",
+        "doc_17615.txt",
+        "doc_17535.txt",
+        "doc_17541.txt",
+        "doc_17529.txt"
+    ]
+}

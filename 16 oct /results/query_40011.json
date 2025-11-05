@@ -1,0 +1,10 @@
+{
+    "query": "Besides Venezuela, Suriname, and Guyana, which other country borders Brazil?",
+    "response": [
+        "doc_23426.txt",
+        "doc_23420.txt",
+        "doc_23422.txt",
+        "doc_23421.txt",
+        "doc_23425.txt"
+    ]
+}

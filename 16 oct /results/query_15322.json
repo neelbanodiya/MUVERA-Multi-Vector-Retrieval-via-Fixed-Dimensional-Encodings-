@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, how has student enrollment at UTEP changed regarding Mexican students since 2006?",
+    "response": [
+        "doc_8869.txt",
+        "doc_8872.txt",
+        "doc_8873.txt",
+        "doc_11398.txt",
+        "doc_8871.txt"
+    ]
+}

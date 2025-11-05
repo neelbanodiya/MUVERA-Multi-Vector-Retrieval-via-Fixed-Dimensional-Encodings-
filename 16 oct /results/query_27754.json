@@ -1,0 +1,10 @@
+{
+    "query": "What is Gouda, South Holland, Netherlands, famous for?",
+    "response": [
+        "doc_7258.txt",
+        "doc_16151.txt",
+        "doc_16152.txt",
+        "doc_3657.txt",
+        "doc_5857.txt"
+    ]
+}

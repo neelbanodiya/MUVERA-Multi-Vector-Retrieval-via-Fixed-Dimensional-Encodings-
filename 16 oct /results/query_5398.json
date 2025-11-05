@@ -1,0 +1,10 @@
+{
+    "query": "What are the names of the two longest rivers in California that flow into the Bay Delta?",
+    "response": [
+        "doc_3145.txt",
+        "doc_3147.txt",
+        "doc_3143.txt",
+        "doc_3148.txt",
+        "doc_3153.txt"
+    ]
+}

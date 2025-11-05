@@ -1,0 +1,10 @@
+{
+    "query": "How much financial support is the Commission currently negotiating for large-scale demonstration projects related to algae biofuels?",
+    "response": [
+        "doc_1722.txt",
+        "doc_21479.txt",
+        "doc_19591.txt",
+        "doc_20347.txt",
+        "doc_8239.txt"
+    ]
+}

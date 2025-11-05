@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Gian Carlo Menotti honored by the Kennedy Center?",
+    "response": [
+        "doc_10454.txt",
+        "doc_10468.txt",
+        "doc_9675.txt",
+        "doc_16990.txt",
+        "doc_8202.txt"
+    ]
+}

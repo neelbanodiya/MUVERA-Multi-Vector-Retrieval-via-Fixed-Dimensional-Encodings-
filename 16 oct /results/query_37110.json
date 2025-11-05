@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary occupation of the Boers, as described in the text?",
+    "response": [
+        "doc_21714.txt",
+        "doc_16485.txt",
+        "doc_6834.txt",
+        "doc_11046.txt",
+        "doc_10160.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which types of wood are listed as being supplied by Rajala Lumber & Millworks Company?",
+    "response": [
+        "doc_4228.txt",
+        "doc_4226.txt",
+        "doc_4229.txt",
+        "doc_4222.txt",
+        "doc_4224.txt"
+    ]
+}

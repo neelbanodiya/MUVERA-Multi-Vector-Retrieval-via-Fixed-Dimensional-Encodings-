@@ -1,0 +1,10 @@
+{
+    "query": "When was the film *Kings Row* released?",
+    "response": [
+        "doc_18600.txt",
+        "doc_18597.txt",
+        "doc_18590.txt",
+        "doc_18592.txt",
+        "doc_582.txt"
+    ]
+}

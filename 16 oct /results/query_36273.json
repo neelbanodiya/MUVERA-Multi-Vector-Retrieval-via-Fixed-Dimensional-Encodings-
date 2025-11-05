@@ -1,0 +1,10 @@
+{
+    "query": "What is one of the events celebrated with a golden bottle of Youth Dew?",
+    "response": [
+        "doc_103.txt",
+        "doc_19768.txt",
+        "doc_3509.txt",
+        "doc_19758.txt",
+        "doc_102.txt"
+    ]
+}

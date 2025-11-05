@@ -1,0 +1,10 @@
+{
+    "query": "Pettersson's conviction was later overturned on appeal to which court?",
+    "response": [
+        "doc_15501.txt",
+        "doc_15502.txt",
+        "doc_15496.txt",
+        "doc_15499.txt",
+        "doc_19044.txt"
+    ]
+}

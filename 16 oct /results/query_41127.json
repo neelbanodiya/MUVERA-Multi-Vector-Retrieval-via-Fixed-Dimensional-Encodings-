@@ -1,0 +1,10 @@
+{
+    "query": "What reasons does the Commission state it lacks for investigating the allegations mentioned?",
+    "response": [
+        "doc_15684.txt",
+        "doc_15281.txt",
+        "doc_3341.txt",
+        "doc_312.txt",
+        "doc_2268.txt"
+    ]
+}

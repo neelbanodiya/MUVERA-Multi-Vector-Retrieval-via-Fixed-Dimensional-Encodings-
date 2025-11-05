@@ -1,0 +1,10 @@
+{
+    "query": "What resolutions did the European Parliament adopt in 2001 and 2002, as indicated in the passage?",
+    "response": [
+        "doc_11789.txt",
+        "doc_5827.txt",
+        "doc_17516.txt",
+        "doc_22223.txt",
+        "doc_15468.txt"
+    ]
+}

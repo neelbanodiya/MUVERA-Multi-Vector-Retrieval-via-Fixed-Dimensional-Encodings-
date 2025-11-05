@@ -1,0 +1,10 @@
+{
+    "query": "What change was made to the song \"Grandpa Can Boogie Too\"?",
+    "response": [
+        "doc_16340.txt",
+        "doc_15613.txt",
+        "doc_9805.txt",
+        "doc_7664.txt",
+        "doc_13613.txt"
+    ]
+}

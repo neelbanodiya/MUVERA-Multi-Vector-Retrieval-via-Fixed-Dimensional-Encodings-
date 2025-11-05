@@ -1,0 +1,10 @@
+{
+    "query": "Who directed the sketch of Rose wearing the Heart of the Ocean necklace?",
+    "response": [
+        "doc_8473.txt",
+        "doc_8475.txt",
+        "doc_8472.txt",
+        "doc_8476.txt",
+        "doc_8483.txt"
+    ]
+}

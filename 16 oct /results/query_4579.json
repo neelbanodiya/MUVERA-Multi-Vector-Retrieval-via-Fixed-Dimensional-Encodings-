@@ -1,0 +1,10 @@
+{
+    "query": "What is the legacy associated with the Stevens name?",
+    "response": [
+        "doc_4241.txt",
+        "doc_7372.txt",
+        "doc_7345.txt",
+        "doc_19872.txt",
+        "doc_1771.txt"
+    ]
+}

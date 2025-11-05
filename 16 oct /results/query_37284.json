@@ -1,0 +1,10 @@
+{
+    "query": "What is the timeframe for the European Parliament or the Council to express an objection to a delegated act?",
+    "response": [
+        "doc_20823.txt",
+        "doc_20800.txt",
+        "doc_20801.txt",
+        "doc_21821.txt",
+        "doc_8158.txt"
+    ]
+}

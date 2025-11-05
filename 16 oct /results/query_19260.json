@@ -1,0 +1,10 @@
+{
+    "query": "Which organizations are associated with lobbying efforts in Washington, D.C., according to the provided links?",
+    "response": [
+        "doc_11168.txt",
+        "doc_11165.txt",
+        "doc_11161.txt",
+        "doc_11171.txt",
+        "doc_11166.txt"
+    ]
+}

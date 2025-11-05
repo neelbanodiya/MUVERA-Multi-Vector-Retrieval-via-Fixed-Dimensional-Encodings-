@@ -1,0 +1,10 @@
+{
+    "query": "What specific region of Thailand was a setting for a teacher\u2019s work described in the text?",
+    "response": [
+        "doc_22893.txt",
+        "doc_7788.txt",
+        "doc_23923.txt",
+        "doc_1001.txt",
+        "doc_12962.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which president is credited with creating the first national monument in the United States?",
+    "response": [
+        "doc_16265.txt",
+        "doc_16266.txt",
+        "doc_16271.txt",
+        "doc_16262.txt",
+        "doc_16273.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What action has the European Commission taken to help the tourism sector access EU funding?",
+    "response": [
+        "doc_12615.txt",
+        "doc_15326.txt",
+        "doc_6654.txt",
+        "doc_7949.txt",
+        "doc_19802.txt"
+    ]
+}

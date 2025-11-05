@@ -1,0 +1,10 @@
+{
+    "query": "According to the 2016 Fox News article, what has Donald Trump been doing for nine months?",
+    "response": [
+        "doc_11077.txt",
+        "doc_6845.txt",
+        "doc_11078.txt",
+        "doc_6841.txt",
+        "doc_6848.txt"
+    ]
+}

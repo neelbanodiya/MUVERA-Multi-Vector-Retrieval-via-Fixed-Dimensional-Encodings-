@@ -1,0 +1,10 @@
+{
+    "query": "What initiative is the Commission promoting regarding parking for people with disabilities?",
+    "response": [
+        "doc_23706.txt",
+        "doc_5287.txt",
+        "doc_5285.txt",
+        "doc_23832.txt",
+        "doc_15070.txt"
+    ]
+}

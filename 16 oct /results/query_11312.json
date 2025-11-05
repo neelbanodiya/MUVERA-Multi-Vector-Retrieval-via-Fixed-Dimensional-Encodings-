@@ -1,0 +1,10 @@
+{
+    "query": "What kind of place did Heidi send a gift to Peter?",
+    "response": [
+        "doc_6559.txt",
+        "doc_22073.txt",
+        "doc_12218.txt",
+        "doc_8094.txt",
+        "doc_10429.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the postal code for Dong Nai province?",
+    "response": [
+        "doc_15219.txt",
+        "doc_15214.txt",
+        "doc_15222.txt",
+        "doc_15218.txt",
+        "doc_15213.txt"
+    ]
+}

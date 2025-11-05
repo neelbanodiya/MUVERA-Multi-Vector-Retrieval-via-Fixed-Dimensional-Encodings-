@@ -1,0 +1,10 @@
+{
+    "query": "What instrument was popular for African Americans to play in string bands?",
+    "response": [
+        "doc_5250.txt",
+        "doc_15245.txt",
+        "doc_5251.txt",
+        "doc_16779.txt",
+        "doc_22084.txt"
+    ]
+}

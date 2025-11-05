@@ -1,0 +1,10 @@
+{
+    "query": "Who does Hamlet implicate before dying?",
+    "response": [
+        "doc_7109.txt",
+        "doc_7116.txt",
+        "doc_14531.txt",
+        "doc_14532.txt",
+        "doc_7105.txt"
+    ]
+}

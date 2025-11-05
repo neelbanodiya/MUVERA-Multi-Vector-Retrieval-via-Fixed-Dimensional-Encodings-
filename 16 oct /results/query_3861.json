@@ -1,0 +1,10 @@
+{
+    "query": "Besides *F. gardenii* and *F. major*, what other fossil *Fothergilla* species have been identified, and where were they discovered?",
+    "response": [
+        "doc_2270.txt",
+        "doc_2269.txt",
+        "doc_21574.txt",
+        "doc_2951.txt",
+        "doc_8616.txt"
+    ]
+}

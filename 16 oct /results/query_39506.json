@@ -1,0 +1,10 @@
+{
+    "query": "What was the Netherlands known for in terms of subjects studied?",
+    "response": [
+        "doc_5857.txt",
+        "doc_799.txt",
+        "doc_10253.txt",
+        "doc_21747.txt",
+        "doc_14714.txt"
+    ]
+}

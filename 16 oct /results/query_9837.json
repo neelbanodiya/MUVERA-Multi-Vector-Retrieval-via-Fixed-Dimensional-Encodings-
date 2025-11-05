@@ -1,0 +1,10 @@
+{
+    "query": "What type of injury did Jeremy Menez suffer?",
+    "response": [
+        "doc_242.txt",
+        "doc_5706.txt",
+        "doc_5705.txt",
+        "doc_21333.txt",
+        "doc_22071.txt"
+    ]
+}

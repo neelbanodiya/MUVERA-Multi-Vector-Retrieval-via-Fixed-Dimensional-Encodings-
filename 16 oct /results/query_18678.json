@@ -1,0 +1,10 @@
+{
+    "query": "What was Kyung Joon Kim investigated for?",
+    "response": [
+        "doc_10861.txt",
+        "doc_9779.txt",
+        "doc_9780.txt",
+        "doc_5302.txt",
+        "doc_6490.txt"
+    ]
+}

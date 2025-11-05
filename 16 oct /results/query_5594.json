@@ -1,0 +1,10 @@
+{
+    "query": "Which couples have had ceremonies at Las Vegas\u2019s A Little White Wedding Chapel?",
+    "response": [
+        "doc_3262.txt",
+        "doc_3258.txt",
+        "doc_23833.txt",
+        "doc_8831.txt",
+        "doc_567.txt"
+    ]
+}

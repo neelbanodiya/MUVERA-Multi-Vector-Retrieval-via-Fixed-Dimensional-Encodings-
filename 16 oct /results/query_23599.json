@@ -1,0 +1,10 @@
+{
+    "query": "What groups of people are mentioned as enjoying the John Wayne Pioneer Trail?",
+    "response": [
+        "doc_13684.txt",
+        "doc_3461.txt",
+        "doc_13695.txt",
+        "doc_6835.txt",
+        "doc_15420.txt"
+    ]
+}

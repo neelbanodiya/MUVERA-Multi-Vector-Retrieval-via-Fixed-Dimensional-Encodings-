@@ -1,0 +1,10 @@
+{
+    "query": "What specific action did the Transport Committee recommend regarding ship-source pollution?",
+    "response": [
+        "doc_12158.txt",
+        "doc_319.txt",
+        "doc_23647.txt",
+        "doc_23619.txt",
+        "doc_8135.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What characteristic is used to describe Martinique in relation to France, according to one of the provided sources?",
+    "response": [
+        "doc_8368.txt",
+        "doc_8374.txt",
+        "doc_8369.txt",
+        "doc_8367.txt",
+        "doc_8372.txt"
+    ]
+}

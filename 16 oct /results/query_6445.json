@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what book by Stephen King inspired the story *Stranger Things*?",
+    "response": [
+        "doc_3712.txt",
+        "doc_3713.txt",
+        "doc_3711.txt",
+        "doc_9231.txt",
+        "doc_20128.txt"
+    ]
+}

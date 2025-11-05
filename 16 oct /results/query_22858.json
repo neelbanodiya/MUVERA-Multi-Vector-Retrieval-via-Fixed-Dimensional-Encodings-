@@ -1,0 +1,10 @@
+{
+    "query": "What specific events is the resolution referencing regarding the peace process in the Middle East?",
+    "response": [
+        "doc_1987.txt",
+        "doc_4809.txt",
+        "doc_5821.txt",
+        "doc_13164.txt",
+        "doc_1211.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what similarity do *Jane Eyre* and *Agnes Grey* share?",
+    "response": [
+        "doc_632.txt",
+        "doc_631.txt",
+        "doc_641.txt",
+        "doc_644.txt",
+        "doc_643.txt"
+    ]
+}

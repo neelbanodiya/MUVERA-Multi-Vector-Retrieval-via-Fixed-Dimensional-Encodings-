@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what did Hillary Clinton receive during a campaign event?",
+    "response": [
+        "doc_12889.txt",
+        "doc_18327.txt",
+        "doc_3647.txt",
+        "doc_19322.txt",
+        "doc_19313.txt"
+    ]
+}

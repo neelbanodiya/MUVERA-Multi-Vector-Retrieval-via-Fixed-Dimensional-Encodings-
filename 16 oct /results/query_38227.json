@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Empire State Plaza located?",
+    "response": [
+        "doc_22425.txt",
+        "doc_22423.txt",
+        "doc_22431.txt",
+        "doc_22429.txt",
+        "doc_22435.txt"
+    ]
+}

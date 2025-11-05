@@ -1,0 +1,10 @@
+{
+    "query": "On what date did Mr. Tajani provide the referenced answer?",
+    "response": [
+        "doc_12548.txt",
+        "doc_12293.txt",
+        "doc_16275.txt",
+        "doc_24096.txt",
+        "doc_16165.txt"
+    ]
+}

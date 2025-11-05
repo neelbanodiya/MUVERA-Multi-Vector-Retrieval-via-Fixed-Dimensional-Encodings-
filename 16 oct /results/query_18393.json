@@ -1,0 +1,10 @@
+{
+    "query": "Is the entity responsible for all WEEE obligations provided for in Directive 2002/96/EC the producer of the actual EEE, or the manufacturer/s of the individual internal components?",
+    "response": [
+        "doc_10654.txt",
+        "doc_10405.txt",
+        "doc_18040.txt",
+        "doc_18008.txt",
+        "doc_12488.txt"
+    ]
+}

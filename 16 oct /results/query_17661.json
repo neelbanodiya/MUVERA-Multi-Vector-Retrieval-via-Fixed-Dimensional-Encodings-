@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, what historical factors influenced the production and sale of alcohol in Mexico?",
+    "response": [
+        "doc_10212.txt",
+        "doc_10211.txt",
+        "doc_10220.txt",
+        "doc_10213.txt",
+        "doc_10223.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary focus of the magazine *Saveur*?",
+    "response": [
+        "doc_3695.txt",
+        "doc_3696.txt",
+        "doc_22775.txt",
+        "doc_19458.txt",
+        "doc_5490.txt"
+    ]
+}

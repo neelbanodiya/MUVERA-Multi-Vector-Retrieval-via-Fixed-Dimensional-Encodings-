@@ -1,0 +1,10 @@
+{
+    "query": "What specific action is being called for at the Dublin EU-US Summit regarding terrorism?",
+    "response": [
+        "doc_15131.txt",
+        "doc_15132.txt",
+        "doc_19899.txt",
+        "doc_18365.txt",
+        "doc_15138.txt"
+    ]
+}

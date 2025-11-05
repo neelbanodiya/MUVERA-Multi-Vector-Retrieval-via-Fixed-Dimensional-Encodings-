@@ -1,0 +1,10 @@
+{
+    "query": "On what television series did Max Adler play the role of Dave Karofsky?",
+    "response": [
+        "doc_4822.txt",
+        "doc_19584.txt",
+        "doc_5157.txt",
+        "doc_15115.txt",
+        "doc_19014.txt"
+    ]
+}

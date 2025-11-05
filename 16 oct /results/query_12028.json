@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the book \u201cBecoming a Woman of Worth\u201d?",
+    "response": [
+        "doc_14807.txt",
+        "doc_5505.txt",
+        "doc_7791.txt",
+        "doc_7633.txt",
+        "doc_643.txt"
+    ]
+}

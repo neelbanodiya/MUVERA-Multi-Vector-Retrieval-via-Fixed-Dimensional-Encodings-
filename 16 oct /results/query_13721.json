@@ -1,0 +1,10 @@
+{
+    "query": "What was Lee Strasberg\u2019s role in New York City from 1951 onwards?",
+    "response": [
+        "doc_7985.txt",
+        "doc_7987.txt",
+        "doc_7986.txt",
+        "doc_7988.txt",
+        "doc_7989.txt"
+    ]
+}

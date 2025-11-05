@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what was a specific event that Baldr experienced repeatedly?",
+    "response": [
+        "doc_6078.txt",
+        "doc_6077.txt",
+        "doc_14526.txt",
+        "doc_23701.txt",
+        "doc_5363.txt"
+    ]
+}

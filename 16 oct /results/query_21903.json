@@ -1,0 +1,10 @@
+{
+    "query": "What is MONUC\u2019s role, according to the passage?",
+    "response": [
+        "doc_21379.txt",
+        "doc_17271.txt",
+        "doc_17916.txt",
+        "doc_632.txt",
+        "doc_20310.txt"
+    ]
+}

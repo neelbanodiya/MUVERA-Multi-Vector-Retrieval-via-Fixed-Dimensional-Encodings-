@@ -1,0 +1,10 @@
+{
+    "query": "What year did Kenny Rogers and Sheena Easton release a duet version of \u201cWe\u2019ve Got Tonight\u201d?",
+    "response": [
+        "doc_6385.txt",
+        "doc_6392.txt",
+        "doc_6382.txt",
+        "doc_6393.txt",
+        "doc_6376.txt"
+    ]
+}

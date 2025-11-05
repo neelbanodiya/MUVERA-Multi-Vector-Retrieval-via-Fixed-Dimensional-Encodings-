@@ -1,0 +1,10 @@
+{
+    "query": "What type of desserts does \u201cPuddings & Desserts\u201d offer?",
+    "response": [
+        "doc_21685.txt",
+        "doc_23445.txt",
+        "doc_21689.txt",
+        "doc_21690.txt",
+        "doc_23452.txt"
+    ]
+}

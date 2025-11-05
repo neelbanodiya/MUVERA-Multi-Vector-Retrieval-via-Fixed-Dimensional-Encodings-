@@ -1,0 +1,10 @@
+{
+    "query": "According to the 1953 novel, \u201cThe Long Goodbye,\u201d what are the proportions of gin and Rose\u2019s lime juice in a \u201creal gimlet\u201d?",
+    "response": [
+        "doc_15189.txt",
+        "doc_15190.txt",
+        "doc_8178.txt",
+        "doc_642.txt",
+        "doc_2330.txt"
+    ]
+}

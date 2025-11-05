@@ -1,0 +1,10 @@
+{
+    "query": "Between which two bodies of water are the islands of Antigua and Barbuda located?",
+    "response": [
+        "doc_4420.txt",
+        "doc_4412.txt",
+        "doc_4418.txt",
+        "doc_4422.txt",
+        "doc_4416.txt"
+    ]
+}

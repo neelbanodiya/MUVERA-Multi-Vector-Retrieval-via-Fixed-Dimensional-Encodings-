@@ -1,0 +1,10 @@
+{
+    "query": "What did Kathy Bates rejuvenate?",
+    "response": [
+        "doc_431.txt",
+        "doc_22746.txt",
+        "doc_22861.txt",
+        "doc_18146.txt",
+        "doc_20100.txt"
+    ]
+}

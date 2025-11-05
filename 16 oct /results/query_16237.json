@@ -1,0 +1,10 @@
+{
+    "query": "When was the new Porsche car's competitive debut?",
+    "response": [
+        "doc_9406.txt",
+        "doc_9404.txt",
+        "doc_24118.txt",
+        "doc_9876.txt",
+        "doc_5660.txt"
+    ]
+}

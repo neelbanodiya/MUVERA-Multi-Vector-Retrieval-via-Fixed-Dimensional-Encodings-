@@ -1,0 +1,10 @@
+{
+    "query": "According to multiple sources, what is the core message of the lyrics \u201cJoy to the World\u201d?",
+    "response": [
+        "doc_2478.txt",
+        "doc_2479.txt",
+        "doc_2480.txt",
+        "doc_2482.txt",
+        "doc_2481.txt"
+    ]
+}

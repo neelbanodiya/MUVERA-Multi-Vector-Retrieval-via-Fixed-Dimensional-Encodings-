@@ -1,0 +1,10 @@
+{
+    "query": "In which film does the blue diamond, known as the Heart of the Ocean, play a significant role?",
+    "response": [
+        "doc_8475.txt",
+        "doc_8478.txt",
+        "doc_8476.txt",
+        "doc_8485.txt",
+        "doc_1580.txt"
+    ]
+}

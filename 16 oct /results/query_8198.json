@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Aditi Sharma begin her first television series, *Gangaa*?",
+    "response": [
+        "doc_4747.txt",
+        "doc_2964.txt",
+        "doc_9869.txt",
+        "doc_1810.txt",
+        "doc_10446.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the original name of the retailer Sweatshop, and when did it change its name?",
+    "response": [
+        "doc_5718.txt",
+        "doc_19642.txt",
+        "doc_2841.txt",
+        "doc_2837.txt",
+        "doc_1319.txt"
+    ]
+}

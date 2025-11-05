@@ -1,0 +1,10 @@
+{
+    "query": "What position did Mark Wright play in the New South Wales Rugby League premiership?",
+    "response": [
+        "doc_8720.txt",
+        "doc_8719.txt",
+        "doc_18658.txt",
+        "doc_20433.txt",
+        "doc_15128.txt"
+    ]
+}

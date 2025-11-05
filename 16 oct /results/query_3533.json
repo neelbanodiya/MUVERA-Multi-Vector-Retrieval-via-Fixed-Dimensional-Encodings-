@@ -1,0 +1,10 @@
+{
+    "query": "What was Joseph McCarthy\u2019s position during the period described in the passages?",
+    "response": [
+        "doc_2101.txt",
+        "doc_22393.txt",
+        "doc_20608.txt",
+        "doc_140.txt",
+        "doc_4939.txt"
+    ]
+}

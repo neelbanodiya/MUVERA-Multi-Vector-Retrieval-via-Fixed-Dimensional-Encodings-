@@ -1,0 +1,10 @@
+{
+    "query": "Who commissioned portraits of Henry VIII and his wives?",
+    "response": [
+        "doc_21509.txt",
+        "doc_21501.txt",
+        "doc_21512.txt",
+        "doc_21513.txt",
+        "doc_21514.txt"
+    ]
+}

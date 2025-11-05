@@ -1,0 +1,10 @@
+{
+    "query": "Why has the Franca Metro Line No 9 been stuck underground for a year?",
+    "response": [
+        "doc_19707.txt",
+        "doc_19706.txt",
+        "doc_10696.txt",
+        "doc_6577.txt",
+        "doc_4831.txt"
+    ]
+}

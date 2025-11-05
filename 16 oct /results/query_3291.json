@@ -1,0 +1,10 @@
+{
+    "query": "Which NBA team selected Jordan Adams in the first round of the 2014 draft?",
+    "response": [
+        "doc_24141.txt",
+        "doc_1973.txt",
+        "doc_24143.txt",
+        "doc_24140.txt",
+        "doc_21628.txt"
+    ]
+}

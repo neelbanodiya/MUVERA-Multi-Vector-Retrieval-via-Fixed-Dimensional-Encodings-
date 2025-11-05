@@ -1,0 +1,10 @@
+{
+    "query": "What event is described as one of Hitler\u2019s biggest mistakes?",
+    "response": [
+        "doc_13738.txt",
+        "doc_4348.txt",
+        "doc_4344.txt",
+        "doc_10136.txt",
+        "doc_4347.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What genre is Robin Cook best known for combining in his writing?",
+    "response": [
+        "doc_5762.txt",
+        "doc_5766.txt",
+        "doc_8121.txt",
+        "doc_9402.txt",
+        "doc_3129.txt"
+    ]
+}

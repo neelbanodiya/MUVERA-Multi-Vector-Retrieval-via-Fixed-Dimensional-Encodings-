@@ -1,0 +1,10 @@
+{
+    "query": "Where is Mount Sinai located in relation to the Byzantine monastery of St. Catherine?",
+    "response": [
+        "doc_23688.txt",
+        "doc_23678.txt",
+        "doc_23689.txt",
+        "doc_23685.txt",
+        "doc_23684.txt"
+    ]
+}

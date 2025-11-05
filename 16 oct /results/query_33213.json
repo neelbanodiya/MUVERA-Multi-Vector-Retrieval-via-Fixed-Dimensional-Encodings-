@@ -1,0 +1,10 @@
+{
+    "query": "In 1974, what act granted District residents voting representation in both the House and Senate?",
+    "response": [
+        "doc_22700.txt",
+        "doc_19326.txt",
+        "doc_22699.txt",
+        "doc_20103.txt",
+        "doc_2477.txt"
+    ]
+}

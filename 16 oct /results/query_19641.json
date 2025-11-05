@@ -1,0 +1,10 @@
+{
+    "query": "Who scored the game-winning goal in the victory against the Russians?",
+    "response": [
+        "doc_11339.txt",
+        "doc_11338.txt",
+        "doc_11348.txt",
+        "doc_11340.txt",
+        "doc_11343.txt"
+    ]
+}

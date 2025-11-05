@@ -1,0 +1,10 @@
+{
+    "query": "According to the Philadelphia Magazine article, who was Howard Mudd?",
+    "response": [
+        "doc_8336.txt",
+        "doc_8422.txt",
+        "doc_3935.txt",
+        "doc_22773.txt",
+        "doc_12227.txt"
+    ]
+}

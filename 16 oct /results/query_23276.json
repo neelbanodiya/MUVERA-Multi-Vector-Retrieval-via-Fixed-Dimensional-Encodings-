@@ -1,0 +1,10 @@
+{
+    "query": "Which island became the first British colony in the Caribbean?",
+    "response": [
+        "doc_13480.txt",
+        "doc_4424.txt",
+        "doc_4417.txt",
+        "doc_13483.txt",
+        "doc_13476.txt"
+    ]
+}

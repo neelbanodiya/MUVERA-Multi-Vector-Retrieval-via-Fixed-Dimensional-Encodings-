@@ -1,0 +1,10 @@
+{
+    "query": "What musical genres are fused together in the New York dance craze 'reggaeton'?",
+    "response": [
+        "doc_19460.txt",
+        "doc_2059.txt",
+        "doc_21994.txt",
+        "doc_13050.txt",
+        "doc_22585.txt"
+    ]
+}

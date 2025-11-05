@@ -1,0 +1,10 @@
+{
+    "query": "How much funding was initially allocated to the EGF budget line 04 05 01 in the 2011 budget?",
+    "response": [
+        "doc_10889.txt",
+        "doc_3247.txt",
+        "doc_3250.txt",
+        "doc_23146.txt",
+        "doc_17525.txt"
+    ]
+}

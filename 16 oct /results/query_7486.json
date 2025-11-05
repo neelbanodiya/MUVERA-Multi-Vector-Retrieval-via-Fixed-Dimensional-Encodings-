@@ -1,0 +1,10 @@
+{
+    "query": "Which rivers are explicitly mentioned as being part of the Tigris-Euphrates system?",
+    "response": [
+        "doc_4335.txt",
+        "doc_4336.txt",
+        "doc_4339.txt",
+        "doc_4338.txt",
+        "doc_4341.txt"
+    ]
+}

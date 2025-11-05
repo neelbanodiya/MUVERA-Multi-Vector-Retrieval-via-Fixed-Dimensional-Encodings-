@@ -1,0 +1,10 @@
+{
+    "query": "What imagery is associated with the fleur-de-lys design found in some of the referenced items (e.g., brooch, shield)?",
+    "response": [
+        "doc_7904.txt",
+        "doc_1845.txt",
+        "doc_3688.txt",
+        "doc_6810.txt",
+        "doc_12597.txt"
+    ]
+}

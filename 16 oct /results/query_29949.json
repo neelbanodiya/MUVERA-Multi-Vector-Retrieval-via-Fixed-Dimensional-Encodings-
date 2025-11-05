@@ -1,0 +1,10 @@
+{
+    "query": "What is the EU\u2019s long-term plan regarding funding its budget?",
+    "response": [
+        "doc_2491.txt",
+        "doc_24179.txt",
+        "doc_4749.txt",
+        "doc_15081.txt",
+        "doc_17565.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Italian composer is most significant for symphonic music during the first third of the 20th century, according to one of the sources?",
+    "response": [
+        "doc_20429.txt",
+        "doc_20425.txt",
+        "doc_20430.txt",
+        "doc_20427.txt",
+        "doc_14556.txt"
+    ]
+}

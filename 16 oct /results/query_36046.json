@@ -1,0 +1,10 @@
+{
+    "query": "What was the population of Yorkshire and the Humber in 2011?",
+    "response": [
+        "doc_21028.txt",
+        "doc_21027.txt",
+        "doc_5987.txt",
+        "doc_19015.txt",
+        "doc_20255.txt"
+    ]
+}

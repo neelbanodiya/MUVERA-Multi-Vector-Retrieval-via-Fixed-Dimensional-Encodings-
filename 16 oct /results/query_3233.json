@@ -1,0 +1,10 @@
+{
+    "query": "According to the legend, what tools did John Henry use in his contests?",
+    "response": [
+        "doc_1945.txt",
+        "doc_1951.txt",
+        "doc_1941.txt",
+        "doc_1953.txt",
+        "doc_1943.txt"
+    ]
+}

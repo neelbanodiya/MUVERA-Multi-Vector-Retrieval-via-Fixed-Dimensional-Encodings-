@@ -1,0 +1,10 @@
+{
+    "query": "On what river does the \u201cFerry Cross the Mersey\u201d travel?",
+    "response": [
+        "doc_3481.txt",
+        "doc_3487.txt",
+        "doc_3491.txt",
+        "doc_3492.txt",
+        "doc_3488.txt"
+    ]
+}

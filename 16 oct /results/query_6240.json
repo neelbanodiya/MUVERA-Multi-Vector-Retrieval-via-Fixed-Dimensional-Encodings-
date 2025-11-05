@@ -1,0 +1,10 @@
+{
+    "query": "How many rooms did Knole House once have?",
+    "response": [
+        "doc_3610.txt",
+        "doc_3613.txt",
+        "doc_3615.txt",
+        "doc_3608.txt",
+        "doc_3612.txt"
+    ]
+}

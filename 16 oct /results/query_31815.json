@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the state geologist who compiled extensive surveys of peaks in the United States?",
+    "response": [
+        "doc_18545.txt",
+        "doc_18544.txt",
+        "doc_18534.txt",
+        "doc_1389.txt",
+        "doc_3329.txt"
+    ]
+}

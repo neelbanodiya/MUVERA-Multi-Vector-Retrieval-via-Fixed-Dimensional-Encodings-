@@ -1,0 +1,10 @@
+{
+    "query": "What beverage is made from eight vegetables or a mixture of vegetables and fruits, and is owned by the Campbell Soup Company?",
+    "response": [
+        "doc_4885.txt",
+        "doc_19405.txt",
+        "doc_8756.txt",
+        "doc_8754.txt",
+        "doc_8755.txt"
+    ]
+}

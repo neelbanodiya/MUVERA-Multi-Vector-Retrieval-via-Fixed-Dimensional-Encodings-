@@ -1,0 +1,10 @@
+{
+    "query": "Where did the conflict between Thackeray and Dickens, known as the \u201cGarrick Club Affair,\u201d take place?",
+    "response": [
+        "doc_1443.txt",
+        "doc_1444.txt",
+        "doc_1446.txt",
+        "doc_1445.txt",
+        "doc_1450.txt"
+    ]
+}

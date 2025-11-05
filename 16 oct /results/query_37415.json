@@ -1,0 +1,10 @@
+{
+    "query": "When did John Philip Sousa lead the U.S. Marine Band?",
+    "response": [
+        "doc_21906.txt",
+        "doc_21912.txt",
+        "doc_21910.txt",
+        "doc_21907.txt",
+        "doc_21913.txt"
+    ]
+}

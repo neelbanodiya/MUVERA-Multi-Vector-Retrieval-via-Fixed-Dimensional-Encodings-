@@ -1,0 +1,10 @@
+{
+    "query": "What is Michael Crichton known for, besides being an author?",
+    "response": [
+        "doc_349.txt",
+        "doc_5762.txt",
+        "doc_5763.txt",
+        "doc_12902.txt",
+        "doc_17761.txt"
+    ]
+}

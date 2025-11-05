@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is one of the recognized titles that CSULB has been given?",
+    "response": [
+        "doc_12654.txt",
+        "doc_8265.txt",
+        "doc_23903.txt",
+        "doc_8401.txt",
+        "doc_18923.txt"
+    ]
+}

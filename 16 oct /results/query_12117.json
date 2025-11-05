@@ -1,0 +1,10 @@
+{
+    "query": "What type of dessert is mentioned as a favorite in Lexington, Kentucky?",
+    "response": [
+        "doc_7080.txt",
+        "doc_7081.txt",
+        "doc_7085.txt",
+        "doc_7086.txt",
+        "doc_7094.txt"
+    ]
+}

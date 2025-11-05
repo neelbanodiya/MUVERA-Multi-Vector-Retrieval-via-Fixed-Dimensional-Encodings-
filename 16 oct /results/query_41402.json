@@ -1,0 +1,10 @@
+{
+    "query": "Which author is credited with writing \u201cThe Maltese Falcon\u201d novel?",
+    "response": [
+        "doc_24254.txt",
+        "doc_17130.txt",
+        "doc_17753.txt",
+        "doc_9247.txt",
+        "doc_4655.txt"
+    ]
+}

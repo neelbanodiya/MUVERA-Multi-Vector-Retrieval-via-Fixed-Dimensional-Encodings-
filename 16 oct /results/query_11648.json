@@ -1,0 +1,10 @@
+{
+    "query": "What nickname did Carl give to the colorful bird he discovered?",
+    "response": [
+        "doc_7860.txt",
+        "doc_10095.txt",
+        "doc_22349.txt",
+        "doc_15762.txt",
+        "doc_14063.txt"
+    ]
+}

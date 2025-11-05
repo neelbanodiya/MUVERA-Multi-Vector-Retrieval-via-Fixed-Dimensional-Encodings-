@@ -1,0 +1,10 @@
+{
+    "query": "What act did the tenor, Fabio Armiliato, sustain an injury in?",
+    "response": [
+        "doc_227.txt",
+        "doc_228.txt",
+        "doc_15391.txt",
+        "doc_14184.txt",
+        "doc_23701.txt"
+    ]
+}

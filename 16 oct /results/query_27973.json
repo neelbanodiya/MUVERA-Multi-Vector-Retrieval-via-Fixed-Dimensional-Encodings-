@@ -1,0 +1,10 @@
+{
+    "query": "What caused the 2011 Missouri River floods?",
+    "response": [
+        "doc_16254.txt",
+        "doc_14049.txt",
+        "doc_14035.txt",
+        "doc_16255.txt",
+        "doc_14039.txt"
+    ]
+}

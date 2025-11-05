@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Holmenkollen Ski Jump located in relation to Oslo?",
+    "response": [
+        "doc_17854.txt",
+        "doc_17858.txt",
+        "doc_17856.txt",
+        "doc_17860.txt",
+        "doc_17864.txt"
+    ]
+}

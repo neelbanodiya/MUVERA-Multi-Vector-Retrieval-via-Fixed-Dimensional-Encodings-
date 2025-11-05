@@ -1,0 +1,10 @@
+{
+    "query": "What document served as the basis for the European Parliament\u2019s report on Nanosciences and nanotechnologies?",
+    "response": [
+        "doc_14283.txt",
+        "doc_14284.txt",
+        "doc_14289.txt",
+        "doc_14286.txt",
+        "doc_14295.txt"
+    ]
+}

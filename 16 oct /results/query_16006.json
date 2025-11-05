@@ -1,0 +1,10 @@
+{
+    "query": "What country is described as \u201cFinnish\u201d and \u201cSuomalainen\u201d?",
+    "response": [
+        "doc_3882.txt",
+        "doc_9268.txt",
+        "doc_3883.txt",
+        "doc_9265.txt",
+        "doc_23768.txt"
+    ]
+}

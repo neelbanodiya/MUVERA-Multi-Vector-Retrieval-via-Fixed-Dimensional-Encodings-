@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the novel that Walter Van Tilburg Clark wrote?",
+    "response": [
+        "doc_12782.txt",
+        "doc_4655.txt",
+        "doc_15276.txt",
+        "doc_14989.txt",
+        "doc_19420.txt"
+    ]
+}

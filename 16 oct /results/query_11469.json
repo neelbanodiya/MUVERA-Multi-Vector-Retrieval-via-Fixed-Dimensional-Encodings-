@@ -1,0 +1,10 @@
+{
+    "query": "Is the Israeli Government planning to demolish 88 houses in Silwan?",
+    "response": [
+        "doc_6668.txt",
+        "doc_12515.txt",
+        "doc_1277.txt",
+        "doc_13132.txt",
+        "doc_13780.txt"
+    ]
+}

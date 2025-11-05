@@ -1,0 +1,10 @@
+{
+    "query": "How many buildings does the Commission occupy in Luxembourg?",
+    "response": [
+        "doc_2.txt",
+        "doc_15281.txt",
+        "doc_3516.txt",
+        "doc_2059.txt",
+        "doc_7371.txt"
+    ]
+}

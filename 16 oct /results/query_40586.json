@@ -1,0 +1,10 @@
+{
+    "query": "What dynasty did the members of the Medici family establish?",
+    "response": [
+        "doc_23746.txt",
+        "doc_23745.txt",
+        "doc_23748.txt",
+        "doc_23747.txt",
+        "doc_23754.txt"
+    ]
+}

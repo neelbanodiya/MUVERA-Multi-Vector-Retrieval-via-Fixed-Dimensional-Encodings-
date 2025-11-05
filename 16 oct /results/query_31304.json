@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what did Keynes describe the environment as?",
+    "response": [
+        "doc_17916.txt",
+        "doc_4939.txt",
+        "doc_17082.txt",
+        "doc_2338.txt",
+        "doc_13510.txt"
+    ]
+}

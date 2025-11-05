@@ -1,0 +1,10 @@
+{
+    "query": "What event is described as the \u201cbeginning of World War II\u201d in several of the linked articles?",
+    "response": [
+        "doc_10769.txt",
+        "doc_10770.txt",
+        "doc_10773.txt",
+        "doc_15913.txt",
+        "doc_15912.txt"
+    ]
+}

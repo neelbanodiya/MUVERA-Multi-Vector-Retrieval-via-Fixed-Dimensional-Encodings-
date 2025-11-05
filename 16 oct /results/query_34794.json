@@ -1,0 +1,10 @@
+{
+    "query": "What was Stephen Crane\u2019s occupation?",
+    "response": [
+        "doc_21631.txt",
+        "doc_9771.txt",
+        "doc_10450.txt",
+        "doc_19778.txt",
+        "doc_6945.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was Willy Brandt attempting to achieve through his political reforms?",
+    "response": [
+        "doc_10144.txt",
+        "doc_1959.txt",
+        "doc_9951.txt",
+        "doc_9624.txt",
+        "doc_14535.txt"
+    ]
+}

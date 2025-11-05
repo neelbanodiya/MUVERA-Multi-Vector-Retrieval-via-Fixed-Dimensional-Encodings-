@@ -1,0 +1,10 @@
+{
+    "query": "Which Aviary is located in New Jersey?",
+    "response": [
+        "doc_21401.txt",
+        "doc_21400.txt",
+        "doc_19873.txt",
+        "doc_9608.txt",
+        "doc_19223.txt"
+    ]
+}

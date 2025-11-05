@@ -1,0 +1,10 @@
+{
+    "query": "What television show did Raven star in, and on which channel?",
+    "response": [
+        "doc_3349.txt",
+        "doc_3343.txt",
+        "doc_3344.txt",
+        "doc_3350.txt",
+        "doc_3342.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What comparison is made regarding the moon\u2019s nature in relation to the Earth?",
+    "response": [
+        "doc_15890.txt",
+        "doc_21576.txt",
+        "doc_15552.txt",
+        "doc_15611.txt",
+        "doc_8797.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What steps is the European Commission taking in this area, specifically concerning industrialised countries?",
+    "response": [
+        "doc_18429.txt",
+        "doc_14215.txt",
+        "doc_7717.txt",
+        "doc_24176.txt",
+        "doc_19531.txt"
+    ]
+}

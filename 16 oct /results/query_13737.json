@@ -1,0 +1,10 @@
+{
+    "query": "When was the album \u201cBridge over Troubled Water\u201d released?",
+    "response": [
+        "doc_8006.txt",
+        "doc_8007.txt",
+        "doc_12045.txt",
+        "doc_2675.txt",
+        "doc_19669.txt"
+    ]
+}

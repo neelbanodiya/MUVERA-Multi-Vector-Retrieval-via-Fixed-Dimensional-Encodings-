@@ -1,0 +1,10 @@
+{
+    "query": "What anniversary is Guinness World Records celebrating?",
+    "response": [
+        "doc_12723.txt",
+        "doc_12722.txt",
+        "doc_1627.txt",
+        "doc_15974.txt",
+        "doc_101.txt"
+    ]
+}

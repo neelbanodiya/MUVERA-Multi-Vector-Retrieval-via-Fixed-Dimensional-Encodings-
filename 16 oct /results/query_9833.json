@@ -1,0 +1,10 @@
+{
+    "query": "What did the alligator in the Sun article appear to be holding in its mouth, according to the photograph?",
+    "response": [
+        "doc_5701.txt",
+        "doc_5702.txt",
+        "doc_4837.txt",
+        "doc_12122.txt",
+        "doc_9940.txt"
+    ]
+}

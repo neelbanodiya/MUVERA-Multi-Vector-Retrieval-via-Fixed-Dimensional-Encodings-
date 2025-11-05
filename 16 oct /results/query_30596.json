@@ -1,0 +1,10 @@
+{
+    "query": "Which actor portrayed Bobby Darin in a film nominated for an Oscar?",
+    "response": [
+        "doc_23281.txt",
+        "doc_23290.txt",
+        "doc_23286.txt",
+        "doc_23279.txt",
+        "doc_23289.txt"
+    ]
+}

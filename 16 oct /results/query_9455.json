@@ -1,0 +1,10 @@
+{
+    "query": "In 1586, how many ships did John Davis return with after his second expedition?",
+    "response": [
+        "doc_5456.txt",
+        "doc_5457.txt",
+        "doc_5024.txt",
+        "doc_5025.txt",
+        "doc_14862.txt"
+    ]
+}

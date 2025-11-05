@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Rub\u00e9n graduate from Loyola High School of Los Angeles?",
+    "response": [
+        "doc_23872.txt",
+        "doc_8987.txt",
+        "doc_22780.txt",
+        "doc_10681.txt",
+        "doc_15624.txt"
+    ]
+}

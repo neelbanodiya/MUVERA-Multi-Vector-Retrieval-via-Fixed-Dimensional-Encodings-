@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the belt given to Queen Hippolyta?",
+    "response": [
+        "doc_10866.txt",
+        "doc_12558.txt",
+        "doc_12550.txt",
+        "doc_12559.txt",
+        "doc_12557.txt"
+    ]
+}

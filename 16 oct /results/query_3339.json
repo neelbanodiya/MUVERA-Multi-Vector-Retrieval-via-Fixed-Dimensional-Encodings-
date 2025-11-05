@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Pittsburgh Penguins finish last in the NHL Entry Draft?",
+    "response": [
+        "doc_2003.txt",
+        "doc_21627.txt",
+        "doc_2001.txt",
+        "doc_2617.txt",
+        "doc_1991.txt"
+    ]
+}

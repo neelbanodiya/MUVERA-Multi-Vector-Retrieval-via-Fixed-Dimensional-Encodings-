@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate length of the Hollywood Sign?",
+    "response": [
+        "doc_14903.txt",
+        "doc_11751.txt",
+        "doc_12749.txt",
+        "doc_14904.txt",
+        "doc_12752.txt"
+    ]
+}

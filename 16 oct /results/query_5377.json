@@ -1,0 +1,10 @@
+{
+    "query": "When did the takeover of the Quinn Group by Anglo-Irish Bank occur?",
+    "response": [
+        "doc_9107.txt",
+        "doc_3131.txt",
+        "doc_23360.txt",
+        "doc_1314.txt",
+        "doc_8697.txt"
+    ]
+}

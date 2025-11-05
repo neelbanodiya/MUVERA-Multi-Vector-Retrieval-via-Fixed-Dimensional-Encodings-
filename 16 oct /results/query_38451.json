@@ -1,0 +1,10 @@
+{
+    "query": "What song did Joan Jett & The Blackhearts have a number one hit with in 1982?",
+    "response": [
+        "doc_22555.txt",
+        "doc_22547.txt",
+        "doc_22562.txt",
+        "doc_22554.txt",
+        "doc_22550.txt"
+    ]
+}

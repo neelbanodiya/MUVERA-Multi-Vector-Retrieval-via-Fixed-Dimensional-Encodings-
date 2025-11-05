@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject of the letter addressed by Frieda Brepoels and other MEPs to the President of the European Council, the President of the European Commission, and the Prime Minister of Spain?",
+    "response": [
+        "doc_2028.txt",
+        "doc_18365.txt",
+        "doc_11963.txt",
+        "doc_12328.txt",
+        "doc_19294.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which countries are explicitly mentioned as forming a security hotline related to Libya?",
+    "response": [
+        "doc_22690.txt",
+        "doc_22691.txt",
+        "doc_19531.txt",
+        "doc_22686.txt",
+        "doc_22693.txt"
+    ]
+}

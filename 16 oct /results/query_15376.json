@@ -1,0 +1,10 @@
+{
+    "query": "Who directed *West Side Story*, and what other notable contribution did Jerome Robbins make to the film?",
+    "response": [
+        "doc_8897.txt",
+        "doc_8896.txt",
+        "doc_8895.txt",
+        "doc_8894.txt",
+        "doc_14685.txt"
+    ]
+}

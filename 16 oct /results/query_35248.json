@@ -1,0 +1,10 @@
+{
+    "query": "How old was Charles Dickens when he began writing works such as *Oliver Twist* and *Pickwick Papers*?",
+    "response": [
+        "doc_20555.txt",
+        "doc_11914.txt",
+        "doc_20553.txt",
+        "doc_20538.txt",
+        "doc_11913.txt"
+    ]
+}

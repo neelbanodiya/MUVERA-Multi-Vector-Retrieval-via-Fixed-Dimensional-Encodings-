@@ -1,0 +1,10 @@
+{
+    "query": "What event led Britain and France to declare war on Germany?",
+    "response": [
+        "doc_10774.txt",
+        "doc_15916.txt",
+        "doc_9106.txt",
+        "doc_23521.txt",
+        "doc_23523.txt"
+    ]
+}

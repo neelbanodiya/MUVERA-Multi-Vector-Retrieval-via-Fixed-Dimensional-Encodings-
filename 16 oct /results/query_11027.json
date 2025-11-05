@@ -1,0 +1,10 @@
+{
+    "query": "What Billboard chart did Sheena Easton achieve a number 1 single on?",
+    "response": [
+        "doc_12043.txt",
+        "doc_6376.txt",
+        "doc_6380.txt",
+        "doc_24094.txt",
+        "doc_14725.txt"
+    ]
+}

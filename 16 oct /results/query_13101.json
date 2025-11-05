@@ -1,0 +1,10 @@
+{
+    "query": "Who produced the film *The A-Team*?",
+    "response": [
+        "doc_12412.txt",
+        "doc_3202.txt",
+        "doc_1230.txt",
+        "doc_13535.txt",
+        "doc_2963.txt"
+    ]
+}

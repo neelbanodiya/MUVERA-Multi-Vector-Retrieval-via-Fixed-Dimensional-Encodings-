@@ -1,0 +1,10 @@
+{
+    "query": "What year was Captain and Tennille's song \"Do That to Me One More Time\" released?",
+    "response": [
+        "doc_20559.txt",
+        "doc_20558.txt",
+        "doc_20564.txt",
+        "doc_20566.txt",
+        "doc_20560.txt"
+    ]
+}

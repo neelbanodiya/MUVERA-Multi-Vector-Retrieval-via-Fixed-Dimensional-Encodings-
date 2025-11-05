@@ -1,0 +1,10 @@
+{
+    "query": "When were the canals of Little Venice built?",
+    "response": [
+        "doc_23368.txt",
+        "doc_23363.txt",
+        "doc_23365.txt",
+        "doc_23369.txt",
+        "doc_20235.txt"
+    ]
+}

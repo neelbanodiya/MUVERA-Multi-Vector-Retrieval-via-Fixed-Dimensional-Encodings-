@@ -1,0 +1,10 @@
+{
+    "query": "What year was Benjamin Harrison born in Oxford, Ohio?",
+    "response": [
+        "doc_19368.txt",
+        "doc_18977.txt",
+        "doc_19370.txt",
+        "doc_19369.txt",
+        "doc_17127.txt"
+    ]
+}

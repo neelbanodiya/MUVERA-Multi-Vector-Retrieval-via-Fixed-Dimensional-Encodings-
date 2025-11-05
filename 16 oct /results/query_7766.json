@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Tayloe Murphy Institute, Darden School, University of Virginia established?",
+    "response": [
+        "doc_19370.txt",
+        "doc_18578.txt",
+        "doc_8871.txt",
+        "doc_19360.txt",
+        "doc_6608.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many lizard species are mentioned as being found in San Diego Zoo?",
+    "response": [
+        "doc_12297.txt",
+        "doc_12300.txt",
+        "doc_12295.txt",
+        "doc_12307.txt",
+        "doc_12298.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was Secret Service agent Brass Bancroft\u2019s role in the passage?",
+    "response": [
+        "doc_6410.txt",
+        "doc_23625.txt",
+        "doc_2420.txt",
+        "doc_4656.txt",
+        "doc_12094.txt"
+    ]
+}

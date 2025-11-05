@@ -1,0 +1,10 @@
+{
+    "query": "What play is performed outdoors in June and July at Helen Keller\u2019s Home in Tuscumbia?",
+    "response": [
+        "doc_8212.txt",
+        "doc_8211.txt",
+        "doc_8210.txt",
+        "doc_8214.txt",
+        "doc_8216.txt"
+    ]
+}

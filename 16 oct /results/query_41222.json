@@ -1,0 +1,10 @@
+{
+    "query": "What period does \u201cWolf Hall\u201d cover, and who is the central figure whose rise to power it documents?",
+    "response": [
+        "doc_4482.txt",
+        "doc_10500.txt",
+        "doc_7521.txt",
+        "doc_12122.txt",
+        "doc_20126.txt"
+    ]
+}

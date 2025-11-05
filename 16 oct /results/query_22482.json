@@ -1,0 +1,10 @@
+{
+    "query": "What is the Guru Granth Sahib, and what does it contain according to the passage?",
+    "response": [
+        "doc_12966.txt",
+        "doc_12965.txt",
+        "doc_12958.txt",
+        "doc_12964.txt",
+        "doc_12962.txt"
+    ]
+}

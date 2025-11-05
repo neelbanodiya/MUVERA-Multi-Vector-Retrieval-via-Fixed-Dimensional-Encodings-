@@ -1,0 +1,10 @@
+{
+    "query": "What was the specific role being advertised by the European Commission in November 1999?",
+    "response": [
+        "doc_13159.txt",
+        "doc_18303.txt",
+        "doc_17239.txt",
+        "doc_4548.txt",
+        "doc_11794.txt"
+    ]
+}

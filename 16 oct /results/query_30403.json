@@ -1,0 +1,10 @@
+{
+    "query": "What is the City of Pittsburgh trying to improve to increase neighborhood pride?",
+    "response": [
+        "doc_17678.txt",
+        "doc_17680.txt",
+        "doc_17679.txt",
+        "doc_17693.txt",
+        "doc_17683.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was Noah Nochasak doing in northern Quebec, as described in one of the linked articles?",
+    "response": [
+        "doc_21264.txt",
+        "doc_19369.txt",
+        "doc_21267.txt",
+        "doc_9257.txt",
+        "doc_15669.txt"
+    ]
+}

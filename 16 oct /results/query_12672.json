@@ -1,0 +1,10 @@
+{
+    "query": "According to one article, what is a key characteristic of the Nordic model\u2019s welfare system?",
+    "response": [
+        "doc_18095.txt",
+        "doc_14153.txt",
+        "doc_22771.txt",
+        "doc_6374.txt",
+        "doc_14160.txt"
+    ]
+}

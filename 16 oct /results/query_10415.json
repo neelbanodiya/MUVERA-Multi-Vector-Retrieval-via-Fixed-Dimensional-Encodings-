@@ -1,0 +1,10 @@
+{
+    "query": "What animal is described as an officially recognized endangered species in Arizona?",
+    "response": [
+        "doc_12305.txt",
+        "doc_14972.txt",
+        "doc_12296.txt",
+        "doc_13072.txt",
+        "doc_12300.txt"
+    ]
+}

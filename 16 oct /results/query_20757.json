@@ -1,0 +1,10 @@
+{
+    "query": "The text suggests that Jewish groups have been involved in influencing various organizations; can you identify one such example mentioned?",
+    "response": [
+        "doc_4863.txt",
+        "doc_10828.txt",
+        "doc_21020.txt",
+        "doc_20688.txt",
+        "doc_17733.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what county and year was Josiah Gale and Rachel Mead residing?",
+    "response": [
+        "doc_15201.txt",
+        "doc_1753.txt",
+        "doc_15195.txt",
+        "doc_15208.txt",
+        "doc_337.txt"
+    ]
+}

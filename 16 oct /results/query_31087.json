@@ -1,0 +1,10 @@
+{
+    "query": "What specific human rights concerns are highlighted regarding the treatment of migrant workers in China?",
+    "response": [
+        "doc_18575.txt",
+        "doc_18124.txt",
+        "doc_18118.txt",
+        "doc_18576.txt",
+        "doc_18123.txt"
+    ]
+}

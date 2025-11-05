@@ -1,0 +1,10 @@
+{
+    "query": "How long was Newton re-elected as president of the Royal Society?",
+    "response": [
+        "doc_21064.txt",
+        "doc_21066.txt",
+        "doc_21073.txt",
+        "doc_21067.txt",
+        "doc_21062.txt"
+    ]
+}

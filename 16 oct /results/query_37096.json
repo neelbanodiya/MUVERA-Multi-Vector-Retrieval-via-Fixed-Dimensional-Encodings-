@@ -1,0 +1,10 @@
+{
+    "query": "Approximately what percentage of the total teachers in West Bengal are members of the All Bengal Teachers Association?",
+    "response": [
+        "doc_21708.txt",
+        "doc_21705.txt",
+        "doc_21704.txt",
+        "doc_21707.txt",
+        "doc_2523.txt"
+    ]
+}

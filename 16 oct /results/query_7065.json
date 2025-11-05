@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Art Rogers create the photograph \"Puppies\"?",
+    "response": [
+        "doc_21893.txt",
+        "doc_4039.txt",
+        "doc_21892.txt",
+        "doc_6963.txt",
+        "doc_20987.txt"
+    ]
+}

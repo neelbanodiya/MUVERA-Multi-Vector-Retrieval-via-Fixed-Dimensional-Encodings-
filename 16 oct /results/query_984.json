@@ -1,0 +1,9 @@
+{
+    "query": "According to the provided links, what communication issue contributed to the British forces charging into the wrong target?",
+    "response": [
+        "doc_554.txt",
+        "doc_555.txt",
+        "doc_556.txt",
+        "doc_557.txt"
+    ]
+}

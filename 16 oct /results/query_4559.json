@@ -1,0 +1,10 @@
+{
+    "query": "Which two grandfathers did Harry S. Truman\u2019s parents attempt to honor with his middle name?",
+    "response": [
+        "doc_2638.txt",
+        "doc_2640.txt",
+        "doc_2636.txt",
+        "doc_2639.txt",
+        "doc_2637.txt"
+    ]
+}

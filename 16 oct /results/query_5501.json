@@ -1,0 +1,10 @@
+{
+    "query": "What types of households are identified as being among the largest groups of children at risk of poverty across EU countries?",
+    "response": [
+        "doc_3215.txt",
+        "doc_6646.txt",
+        "doc_16896.txt",
+        "doc_4660.txt",
+        "doc_8361.txt"
+    ]
+}

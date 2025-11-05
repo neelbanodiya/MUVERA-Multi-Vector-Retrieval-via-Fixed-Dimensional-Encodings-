@@ -1,0 +1,10 @@
+{
+    "query": "What types of performers are included in the overview mentioned in the passage (e.g., Broadway shows, comedians)?",
+    "response": [
+        "doc_17181.txt",
+        "doc_9185.txt",
+        "doc_18858.txt",
+        "doc_16365.txt",
+        "doc_17097.txt"
+    ]
+}

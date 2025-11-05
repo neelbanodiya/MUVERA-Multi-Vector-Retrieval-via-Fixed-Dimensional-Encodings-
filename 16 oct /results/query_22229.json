@@ -1,0 +1,10 @@
+{
+    "query": "What is the House in Chicago known for?",
+    "response": [
+        "doc_13724.txt",
+        "doc_3686.txt",
+        "doc_21780.txt",
+        "doc_3619.txt",
+        "doc_3080.txt"
+    ]
+}

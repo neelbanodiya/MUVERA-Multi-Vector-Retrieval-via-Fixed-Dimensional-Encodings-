@@ -1,0 +1,10 @@
+{
+    "query": "Besides the tram, what other attraction is located within the Santa Rosa and San Jacinto National Monument Area?",
+    "response": [
+        "doc_9327.txt",
+        "doc_13019.txt",
+        "doc_13020.txt",
+        "doc_19706.txt",
+        "doc_6888.txt"
+    ]
+}

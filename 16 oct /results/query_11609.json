@@ -1,0 +1,10 @@
+{
+    "query": "What are the four tracks featured in Final Lap 2?",
+    "response": [
+        "doc_6757.txt",
+        "doc_5249.txt",
+        "doc_13592.txt",
+        "doc_5278.txt",
+        "doc_14258.txt"
+    ]
+}

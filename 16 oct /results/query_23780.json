@@ -1,0 +1,10 @@
+{
+    "query": "What award did Kate receive, and what composer\u2019s demands did she overcome?",
+    "response": [
+        "doc_2263.txt",
+        "doc_2330.txt",
+        "doc_12637.txt",
+        "doc_12638.txt",
+        "doc_10449.txt"
+    ]
+}

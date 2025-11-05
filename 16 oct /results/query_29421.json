@@ -1,0 +1,10 @@
+{
+    "query": "What tools does the European Union provide to Member States for forest protection and management?",
+    "response": [
+        "doc_17121.txt",
+        "doc_11364.txt",
+        "doc_15033.txt",
+        "doc_22809.txt",
+        "doc_22506.txt"
+    ]
+}

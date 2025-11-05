@@ -1,0 +1,10 @@
+{
+    "query": "Which congregation is now administered by Rodef Shalom?",
+    "response": [
+        "doc_4961.txt",
+        "doc_4960.txt",
+        "doc_23679.txt",
+        "doc_13132.txt",
+        "doc_21440.txt"
+    ]
+}

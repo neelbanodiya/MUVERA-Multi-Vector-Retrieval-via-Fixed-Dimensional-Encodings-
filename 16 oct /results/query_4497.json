@@ -1,0 +1,10 @@
+{
+    "query": "What is the start and end date of the 2017\u201318 NHL season?",
+    "response": [
+        "doc_2616.txt",
+        "doc_2615.txt",
+        "doc_16877.txt",
+        "doc_16876.txt",
+        "doc_1999.txt"
+    ]
+}

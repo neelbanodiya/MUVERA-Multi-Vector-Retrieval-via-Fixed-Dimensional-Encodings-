@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary rule that cadets at West Point are expected to uphold?",
+    "response": [
+        "doc_13182.txt",
+        "doc_12982.txt",
+        "doc_20320.txt",
+        "doc_20101.txt",
+        "doc_21019.txt"
+    ]
+}

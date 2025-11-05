@@ -1,0 +1,10 @@
+{
+    "query": "What action did Haru perform regarding Shiba?",
+    "response": [
+        "doc_11507.txt",
+        "doc_3063.txt",
+        "doc_14526.txt",
+        "doc_8911.txt",
+        "doc_9672.txt"
+    ]
+}

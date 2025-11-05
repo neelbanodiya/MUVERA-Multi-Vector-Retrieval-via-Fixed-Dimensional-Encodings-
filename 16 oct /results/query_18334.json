@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what issue led to the change of the initial title for *Catch-22*?",
+    "response": [
+        "doc_10614.txt",
+        "doc_2965.txt",
+        "doc_5323.txt",
+        "doc_1057.txt",
+        "doc_19206.txt"
+    ]
+}

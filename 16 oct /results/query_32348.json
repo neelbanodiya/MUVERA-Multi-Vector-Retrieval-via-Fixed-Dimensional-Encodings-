@@ -1,0 +1,10 @@
+{
+    "query": "Which actor starred in \u201cNight Court\u201d and \u201cThe X-Files\u201d?",
+    "response": [
+        "doc_2264.txt",
+        "doc_21359.txt",
+        "doc_5054.txt",
+        "doc_15399.txt",
+        "doc_7767.txt"
+    ]
+}

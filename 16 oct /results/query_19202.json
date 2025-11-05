@@ -1,0 +1,10 @@
+{
+    "query": "Which band, similar to R.E.M., was considered \u201cthe band of my childhood\u201d by someone who later worked with Led Zeppelin?",
+    "response": [
+        "doc_7664.txt",
+        "doc_1986.txt",
+        "doc_7860.txt",
+        "doc_8596.txt",
+        "doc_6337.txt"
+    ]
+}

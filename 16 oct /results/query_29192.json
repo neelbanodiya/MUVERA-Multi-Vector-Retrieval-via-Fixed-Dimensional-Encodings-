@@ -1,0 +1,10 @@
+{
+    "query": "What movie is described as \u201ca filmed version of Harry Potter and the Sorcerer\u2019s Stone, adapted from the wildly popular book by J.K.\u201d?",
+    "response": [
+        "doc_20310.txt",
+        "doc_9792.txt",
+        "doc_20309.txt",
+        "doc_2231.txt",
+        "doc_1812.txt"
+    ]
+}

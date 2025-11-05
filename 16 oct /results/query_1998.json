@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate date of the Buddha\u2019s birth, according to the passage?",
+    "response": [
+        "doc_1193.txt",
+        "doc_1192.txt",
+        "doc_1203.txt",
+        "doc_1198.txt",
+        "doc_1201.txt"
+    ]
+}

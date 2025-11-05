@@ -1,0 +1,10 @@
+{
+    "query": "In 1993, which female director from New Zealand won the Cannes Film Festival\u2019s Palm d\u2019Or?",
+    "response": [
+        "doc_3216.txt",
+        "doc_3233.txt",
+        "doc_3223.txt",
+        "doc_3220.txt",
+        "doc_3230.txt"
+    ]
+}

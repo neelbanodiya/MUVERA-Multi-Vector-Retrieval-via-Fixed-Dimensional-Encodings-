@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many students applied for need-based aid at George Mason University last year?",
+    "response": [
+        "doc_14946.txt",
+        "doc_22099.txt",
+        "doc_20153.txt",
+        "doc_20.txt",
+        "doc_7445.txt"
+    ]
+}

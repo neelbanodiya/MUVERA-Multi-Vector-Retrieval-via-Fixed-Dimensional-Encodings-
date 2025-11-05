@@ -1,0 +1,10 @@
+{
+    "query": "Who created the animated television series \u201cGravity Falls\u201d?",
+    "response": [
+        "doc_3699.txt",
+        "doc_9799.txt",
+        "doc_6338.txt",
+        "doc_22715.txt",
+        "doc_12053.txt"
+    ]
+}

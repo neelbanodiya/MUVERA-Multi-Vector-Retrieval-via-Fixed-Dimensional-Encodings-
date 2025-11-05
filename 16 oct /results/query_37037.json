@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is considered \u201ctrue\u201d in Python?",
+    "response": [
+        "doc_22886.txt",
+        "doc_23904.txt",
+        "doc_1116.txt",
+        "doc_16004.txt",
+        "doc_9446.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In 1930, what symbolic act did Gandhi lead to protest the government\u2019s salt monopoly?",
+    "response": [
+        "doc_1403.txt",
+        "doc_1416.txt",
+        "doc_1405.txt",
+        "doc_1409.txt",
+        "doc_1404.txt"
+    ]
+}

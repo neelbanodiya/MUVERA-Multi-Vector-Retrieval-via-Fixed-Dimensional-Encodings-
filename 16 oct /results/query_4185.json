@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is a benefit of having a Yankees pack?",
+    "response": [
+        "doc_5535.txt",
+        "doc_23382.txt",
+        "doc_20134.txt",
+        "doc_18889.txt",
+        "doc_20319.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is a common failing observed in Christians?",
+    "response": [
+        "doc_20637.txt",
+        "doc_9445.txt",
+        "doc_23699.txt",
+        "doc_5042.txt",
+        "doc_9215.txt"
+    ]
+}

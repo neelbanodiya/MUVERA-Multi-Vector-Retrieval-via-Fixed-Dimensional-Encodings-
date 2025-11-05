@@ -1,0 +1,10 @@
+{
+    "query": "What is the capital city of Illinois, and is it Chicago or Springfield?",
+    "response": [
+        "doc_12164.txt",
+        "doc_4818.txt",
+        "doc_12165.txt",
+        "doc_4819.txt",
+        "doc_2708.txt"
+    ]
+}

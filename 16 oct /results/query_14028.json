@@ -1,0 +1,10 @@
+{
+    "query": "What types of research projects does the Agency analyze for potential regulatory follow-up measures?",
+    "response": [
+        "doc_8142.txt",
+        "doc_23626.txt",
+        "doc_23627.txt",
+        "doc_161.txt",
+        "doc_17534.txt"
+    ]
+}

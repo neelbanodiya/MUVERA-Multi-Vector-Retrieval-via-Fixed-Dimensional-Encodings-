@@ -1,0 +1,10 @@
+{
+    "query": "What did the Boston.com article mention regarding FBI Director Comey\u2019s letter?",
+    "response": [
+        "doc_4720.txt",
+        "doc_12843.txt",
+        "doc_12227.txt",
+        "doc_19860.txt",
+        "doc_16672.txt"
+    ]
+}

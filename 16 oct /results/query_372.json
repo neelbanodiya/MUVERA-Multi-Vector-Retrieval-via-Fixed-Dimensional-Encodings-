@@ -1,0 +1,10 @@
+{
+    "query": "What battle is associated with the town of Sharpsburg, Maryland?",
+    "response": [
+        "doc_192.txt",
+        "doc_190.txt",
+        "doc_201.txt",
+        "doc_199.txt",
+        "doc_204.txt"
+    ]
+}

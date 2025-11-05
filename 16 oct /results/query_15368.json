@@ -1,0 +1,10 @@
+{
+    "query": "What Shakespearean tragedy does *West Side Story* loosely adapt?",
+    "response": [
+        "doc_8894.txt",
+        "doc_8895.txt",
+        "doc_8897.txt",
+        "doc_14830.txt",
+        "doc_19205.txt"
+    ]
+}

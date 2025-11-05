@@ -1,0 +1,10 @@
+{
+    "query": "What is Mr. Kurtz\u2019s position within the Company\u2019s operations?",
+    "response": [
+        "doc_4787.txt",
+        "doc_2139.txt",
+        "doc_2026.txt",
+        "doc_1717.txt",
+        "doc_20141.txt"
+    ]
+}

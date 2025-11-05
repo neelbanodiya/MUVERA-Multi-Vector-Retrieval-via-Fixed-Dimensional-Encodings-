@@ -1,0 +1,10 @@
+{
+    "query": "When was the large thermal power plant in Porto Tolle built?",
+    "response": [
+        "doc_8893.txt",
+        "doc_17648.txt",
+        "doc_17641.txt",
+        "doc_23414.txt",
+        "doc_4287.txt"
+    ]
+}

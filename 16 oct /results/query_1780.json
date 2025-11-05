@@ -1,0 +1,10 @@
+{
+    "query": "What years did Woodrow Wilson live from?",
+    "response": [
+        "doc_1017.txt",
+        "doc_1013.txt",
+        "doc_1012.txt",
+        "doc_1016.txt",
+        "doc_1014.txt"
+    ]
+}

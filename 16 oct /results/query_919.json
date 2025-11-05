@@ -1,0 +1,10 @@
+{
+    "query": "Why did George Washington Carver add a middle name to his name?",
+    "response": [
+        "doc_522.txt",
+        "doc_521.txt",
+        "doc_523.txt",
+        "doc_520.txt",
+        "doc_519.txt"
+    ]
+}

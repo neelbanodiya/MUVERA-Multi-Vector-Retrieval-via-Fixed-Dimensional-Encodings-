@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the book detailing the rise of Jack Aubrey?",
+    "response": [
+        "doc_4654.txt",
+        "doc_9032.txt",
+        "doc_22261.txt",
+        "doc_22249.txt",
+        "doc_22260.txt"
+    ]
+}

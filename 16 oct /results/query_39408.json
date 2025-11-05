@@ -1,0 +1,10 @@
+{
+    "query": "What type of contract did Blake sign?",
+    "response": [
+        "doc_1885.txt",
+        "doc_15684.txt",
+        "doc_19837.txt",
+        "doc_10797.txt",
+        "doc_17443.txt"
+    ]
+}

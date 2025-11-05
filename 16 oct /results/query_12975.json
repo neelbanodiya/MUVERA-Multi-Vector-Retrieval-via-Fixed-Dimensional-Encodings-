@@ -1,0 +1,10 @@
+{
+    "query": "What film featured Nicolas Cage and Hayden Christensen, and was directed by Andrew Lau?",
+    "response": [
+        "doc_14684.txt",
+        "doc_2231.txt",
+        "doc_8693.txt",
+        "doc_2850.txt",
+        "doc_8067.txt"
+    ]
+}

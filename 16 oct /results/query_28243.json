@@ -1,0 +1,10 @@
+{
+    "query": "What is the proposed power output of the photovoltaic plant in Cisterna?",
+    "response": [
+        "doc_16442.txt",
+        "doc_3363.txt",
+        "doc_3362.txt",
+        "doc_2269.txt",
+        "doc_18740.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which author wrote the novel \u201cElmer Gantry\u201d?",
+    "response": [
+        "doc_8520.txt",
+        "doc_8517.txt",
+        "doc_8516.txt",
+        "doc_4655.txt",
+        "doc_16131.txt"
+    ]
+}

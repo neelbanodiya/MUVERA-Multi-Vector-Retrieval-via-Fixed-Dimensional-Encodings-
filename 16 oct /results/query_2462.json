@@ -1,0 +1,10 @@
+{
+    "query": "Who was the president of the Garrick Club, according to a letter from Devonshire?",
+    "response": [
+        "doc_1448.txt",
+        "doc_1443.txt",
+        "doc_1447.txt",
+        "doc_1450.txt",
+        "doc_1446.txt"
+    ]
+}

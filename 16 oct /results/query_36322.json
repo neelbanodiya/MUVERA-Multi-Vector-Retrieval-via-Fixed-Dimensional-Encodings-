@@ -1,0 +1,10 @@
+{
+    "query": "Who are the \u201cMadres de la Plaza de Mayo\u201d and \u201cde Negro\u201d?",
+    "response": [
+        "doc_17951.txt",
+        "doc_17948.txt",
+        "doc_14499.txt",
+        "doc_17272.txt",
+        "doc_22786.txt"
+    ]
+}

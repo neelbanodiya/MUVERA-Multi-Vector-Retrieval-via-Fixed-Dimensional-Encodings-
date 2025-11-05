@@ -1,0 +1,10 @@
+{
+    "query": "What constitutional provision in Italy guarantees the uncensurability of Members of Parliament?",
+    "response": [
+        "doc_20107.txt",
+        "doc_20108.txt",
+        "doc_20104.txt",
+        "doc_19459.txt",
+        "doc_4865.txt"
+    ]
+}

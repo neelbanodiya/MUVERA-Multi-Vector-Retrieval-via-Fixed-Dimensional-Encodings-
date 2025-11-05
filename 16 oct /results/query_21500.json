@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is required if employment is in Canada, regardless of the employer\u2019s location?",
+    "response": [
+        "doc_12395.txt",
+        "doc_19521.txt",
+        "doc_9882.txt",
+        "doc_19838.txt",
+        "doc_3016.txt"
+    ]
+}

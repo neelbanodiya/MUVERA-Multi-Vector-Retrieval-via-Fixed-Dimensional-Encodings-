@@ -1,0 +1,10 @@
+{
+    "query": "Which organizations were represented on the UK judging panel?",
+    "response": [
+        "doc_15491.txt",
+        "doc_16931.txt",
+        "doc_5379.txt",
+        "doc_5235.txt",
+        "doc_20037.txt"
+    ]
+}

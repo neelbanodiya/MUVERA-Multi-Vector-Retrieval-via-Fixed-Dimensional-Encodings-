@@ -1,0 +1,10 @@
+{
+    "query": "Where did the first major battle of the American Civil War take place on Northern soil?",
+    "response": [
+        "doc_198.txt",
+        "doc_206.txt",
+        "doc_190.txt",
+        "doc_201.txt",
+        "doc_202.txt"
+    ]
+}

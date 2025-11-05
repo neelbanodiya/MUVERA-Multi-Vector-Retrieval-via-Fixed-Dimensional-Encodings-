@@ -1,0 +1,10 @@
+{
+    "query": "What materials were used in the construction of the Hawker Hurricane fuselage?",
+    "response": [
+        "doc_12768.txt",
+        "doc_12765.txt",
+        "doc_12767.txt",
+        "doc_12764.txt",
+        "doc_12762.txt"
+    ]
+}

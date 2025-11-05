@@ -1,0 +1,10 @@
+{
+    "query": "What are the names of Pinocchio\u2019s animal companions featured in several of the sources?",
+    "response": [
+        "doc_20620.txt",
+        "doc_20619.txt",
+        "doc_20618.txt",
+        "doc_20617.txt",
+        "doc_9274.txt"
+    ]
+}

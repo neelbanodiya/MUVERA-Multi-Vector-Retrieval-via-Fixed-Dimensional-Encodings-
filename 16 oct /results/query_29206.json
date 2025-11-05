@@ -1,0 +1,10 @@
+{
+    "query": "What character from Arthur Miller\u2019s play *Death of a Salesman* is referenced in the text?",
+    "response": [
+        "doc_16998.txt",
+        "doc_2265.txt",
+        "doc_16997.txt",
+        "doc_4463.txt",
+        "doc_2231.txt"
+    ]
+}

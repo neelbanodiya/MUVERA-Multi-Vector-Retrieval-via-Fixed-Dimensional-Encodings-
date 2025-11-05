@@ -1,0 +1,10 @@
+{
+    "query": "When was the introduction of the pocket-sized radio by Sony?",
+    "response": [
+        "doc_8699.txt",
+        "doc_8700.txt",
+        "doc_8701.txt",
+        "doc_8702.txt",
+        "doc_8707.txt"
+    ]
+}

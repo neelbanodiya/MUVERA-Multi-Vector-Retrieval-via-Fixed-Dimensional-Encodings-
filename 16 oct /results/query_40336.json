@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Stephan, a French astronomer, discovered?",
+    "response": [
+        "doc_7251.txt",
+        "doc_23604.txt",
+        "doc_13867.txt",
+        "doc_23602.txt",
+        "doc_7253.txt"
+    ]
+}

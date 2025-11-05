@@ -1,0 +1,10 @@
+{
+    "query": "Which television series featured Lauren Graham and Alexis Bledel as a mother and daughter?",
+    "response": [
+        "doc_7184.txt",
+        "doc_7179.txt",
+        "doc_7182.txt",
+        "doc_4648.txt",
+        "doc_7193.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the purpose of Article 27c regarding confidentiality?",
+    "response": [
+        "doc_20824.txt",
+        "doc_13378.txt",
+        "doc_20821.txt",
+        "doc_24047.txt",
+        "doc_13278.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Besides the Gila monster, what other reptile species are known to be venomous?",
+    "response": [
+        "doc_12296.txt",
+        "doc_12304.txt",
+        "doc_12298.txt",
+        "doc_12297.txt",
+        "doc_12300.txt"
+    ]
+}

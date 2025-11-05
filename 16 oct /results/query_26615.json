@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Acadia National Park initially created?",
+    "response": [
+        "doc_16260.txt",
+        "doc_15477.txt",
+        "doc_16263.txt",
+        "doc_16272.txt",
+        "doc_3381.txt"
+    ]
+}

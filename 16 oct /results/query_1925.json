@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of Philadelphia Magazine's \\\"Best Salon\\\" in 2015?",
+    "response": [
+        "doc_22587.txt",
+        "doc_18583.txt",
+        "doc_8824.txt",
+        "doc_8212.txt",
+        "doc_22137.txt"
+    ]
+}

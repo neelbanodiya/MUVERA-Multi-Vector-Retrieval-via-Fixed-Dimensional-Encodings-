@@ -1,0 +1,10 @@
+{
+    "query": "What specific tax benefit do parents with any other personal or civil status receive in Portugal that married or widowed parents do not?",
+    "response": [
+        "doc_12906.txt",
+        "doc_4104.txt",
+        "doc_19521.txt",
+        "doc_14874.txt",
+        "doc_14459.txt"
+    ]
+}

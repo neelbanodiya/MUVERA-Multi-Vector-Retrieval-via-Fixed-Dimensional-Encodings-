@@ -1,0 +1,10 @@
+{
+    "query": "What did Morrison include in his new book, \u201cWhat Happened\u201d?",
+    "response": [
+        "doc_9401.txt",
+        "doc_22773.txt",
+        "doc_4170.txt",
+        "doc_11916.txt",
+        "doc_5323.txt"
+    ]
+}

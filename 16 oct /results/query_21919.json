@@ -1,0 +1,10 @@
+{
+    "query": "For which film did Craig Warner receive the award for Best Writer at the Seoul International Drama Awards in 2010?",
+    "response": [
+        "doc_12638.txt",
+        "doc_12639.txt",
+        "doc_14342.txt",
+        "doc_5766.txt",
+        "doc_4918.txt"
+    ]
+}

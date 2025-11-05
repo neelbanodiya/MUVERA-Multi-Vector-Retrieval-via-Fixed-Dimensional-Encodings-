@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the document titled \"A Healing Grove\"?",
+    "response": [
+        "doc_19983.txt",
+        "doc_19984.txt",
+        "doc_1313.txt",
+        "doc_5859.txt",
+        "doc_1294.txt"
+    ]
+}

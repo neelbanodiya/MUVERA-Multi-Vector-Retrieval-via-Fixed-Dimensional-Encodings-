@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, how many of the U.N.\u2019s top posts have historically been held by men?",
+    "response": [
+        "doc_14946.txt",
+        "doc_22188.txt",
+        "doc_22134.txt",
+        "doc_10138.txt",
+        "doc_12945.txt"
+    ]
+}

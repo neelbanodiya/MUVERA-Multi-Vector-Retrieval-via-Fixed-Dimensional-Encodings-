@@ -1,0 +1,10 @@
+{
+    "query": "What role did Ryan Gentles play in the movie \u201cMadea Goes to Jail\u201d?",
+    "response": [
+        "doc_16925.txt",
+        "doc_18874.txt",
+        "doc_781.txt",
+        "doc_580.txt",
+        "doc_784.txt"
+    ]
+}

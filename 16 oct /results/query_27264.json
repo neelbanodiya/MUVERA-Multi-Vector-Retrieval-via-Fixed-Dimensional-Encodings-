@@ -1,0 +1,10 @@
+{
+    "query": "When was the word \u201cKraak\u201d not used in relation to Chinese porcelain?",
+    "response": [
+        "doc_15835.txt",
+        "doc_15836.txt",
+        "doc_5424.txt",
+        "doc_12427.txt",
+        "doc_792.txt"
+    ]
+}

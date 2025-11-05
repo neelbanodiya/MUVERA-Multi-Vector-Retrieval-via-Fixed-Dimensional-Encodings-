@@ -1,0 +1,10 @@
+{
+    "query": "Who were Shadrach, Meshach, and Abednego?",
+    "response": [
+        "doc_10206.txt",
+        "doc_10203.txt",
+        "doc_10207.txt",
+        "doc_10205.txt",
+        "doc_10208.txt"
+    ]
+}

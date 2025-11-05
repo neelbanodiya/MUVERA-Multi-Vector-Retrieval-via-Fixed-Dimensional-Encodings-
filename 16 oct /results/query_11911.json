@@ -1,0 +1,10 @@
+{
+    "query": "What type of novel is described as being about the Crucifixion of Jesus?",
+    "response": [
+        "doc_6929.txt",
+        "doc_4654.txt",
+        "doc_5050.txt",
+        "doc_22535.txt",
+        "doc_12463.txt"
+    ]
+}

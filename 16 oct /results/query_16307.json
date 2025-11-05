@@ -1,0 +1,10 @@
+{
+    "query": "What was Frank Sinatra doing in 1939, according to one of the linked resources?",
+    "response": [
+        "doc_15278.txt",
+        "doc_9453.txt",
+        "doc_9454.txt",
+        "doc_9469.txt",
+        "doc_9456.txt"
+    ]
+}

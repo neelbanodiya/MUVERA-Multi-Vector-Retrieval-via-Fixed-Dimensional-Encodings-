@@ -1,0 +1,10 @@
+{
+    "query": "What year was the film *Brokeback Mountain* released?",
+    "response": [
+        "doc_1231.txt",
+        "doc_598.txt",
+        "doc_1812.txt",
+        "doc_9891.txt",
+        "doc_12612.txt"
+    ]
+}

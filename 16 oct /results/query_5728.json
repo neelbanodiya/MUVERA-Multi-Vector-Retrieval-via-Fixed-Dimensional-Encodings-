@@ -1,0 +1,10 @@
+{
+    "query": "What year was gold discovered on the Clearwater River in Idaho?",
+    "response": [
+        "doc_3324.txt",
+        "doc_3327.txt",
+        "doc_3322.txt",
+        "doc_3320.txt",
+        "doc_3325.txt"
+    ]
+}

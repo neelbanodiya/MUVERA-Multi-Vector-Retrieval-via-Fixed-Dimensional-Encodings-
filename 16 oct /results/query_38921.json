@@ -1,0 +1,10 @@
+{
+    "query": "What festivals take place in July in both Santo Domingo and Puerto Plata?",
+    "response": [
+        "doc_103.txt",
+        "doc_95.txt",
+        "doc_104.txt",
+        "doc_99.txt",
+        "doc_101.txt"
+    ]
+}

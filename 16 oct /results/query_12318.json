@@ -1,0 +1,10 @@
+{
+    "query": "Who portray Lorelai Gilmore and Rory Gilmore in the *Gilmore Girls* series?",
+    "response": [
+        "doc_7184.txt",
+        "doc_7182.txt",
+        "doc_7180.txt",
+        "doc_7179.txt",
+        "doc_7183.txt"
+    ]
+}

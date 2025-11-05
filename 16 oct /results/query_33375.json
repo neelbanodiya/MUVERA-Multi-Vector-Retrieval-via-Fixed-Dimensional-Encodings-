@@ -1,0 +1,10 @@
+{
+    "query": "When did the word \"turkey\" first become commonly used in English to describe the bird?",
+    "response": [
+        "doc_19436.txt",
+        "doc_19444.txt",
+        "doc_19439.txt",
+        "doc_19438.txt",
+        "doc_19441.txt"
+    ]
+}

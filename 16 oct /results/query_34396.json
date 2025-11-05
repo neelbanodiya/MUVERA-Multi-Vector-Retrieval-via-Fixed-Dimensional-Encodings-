@@ -1,0 +1,10 @@
+{
+    "query": "What is the Spanish Main described as?",
+    "response": [
+        "doc_20505.txt",
+        "doc_1984.txt",
+        "doc_23530.txt",
+        "doc_5719.txt",
+        "doc_15002.txt"
+    ]
+}

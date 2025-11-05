@@ -1,0 +1,10 @@
+{
+    "query": "Which Staten Island neighborhoods are included within Community Board 1?",
+    "response": [
+        "doc_1510.txt",
+        "doc_1512.txt",
+        "doc_13057.txt",
+        "doc_1511.txt",
+        "doc_14544.txt"
+    ]
+}

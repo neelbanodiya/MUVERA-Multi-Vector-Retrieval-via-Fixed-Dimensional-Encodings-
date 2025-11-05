@@ -1,0 +1,10 @@
+{
+    "query": "What party did William Dayton represent as a vice-presidential candidate in 1856?",
+    "response": [
+        "doc_16808.txt",
+        "doc_16810.txt",
+        "doc_16806.txt",
+        "doc_16805.txt",
+        "doc_16809.txt"
+    ]
+}

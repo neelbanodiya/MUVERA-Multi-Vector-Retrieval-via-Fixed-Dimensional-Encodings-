@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the documentary *Wild Man Blues* directed by Barbara Kopple?",
+    "response": [
+        "doc_8709.txt",
+        "doc_8713.txt",
+        "doc_8710.txt",
+        "doc_8714.txt",
+        "doc_10969.txt"
+    ]
+}

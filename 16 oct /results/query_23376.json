@@ -1,0 +1,10 @@
+{
+    "query": "What is Cleveland Tower and what is it dedicated to?",
+    "response": [
+        "doc_2.txt",
+        "doc_3381.txt",
+        "doc_13537.txt",
+        "doc_29.txt",
+        "doc_5304.txt"
+    ]
+}

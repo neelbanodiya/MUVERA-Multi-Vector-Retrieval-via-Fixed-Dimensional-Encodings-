@@ -1,0 +1,10 @@
+{
+    "query": "Which Greek poetess is referenced as an inspiration for female authors, as noted in one of the linked articles?",
+    "response": [
+        "doc_1306.txt",
+        "doc_630.txt",
+        "doc_13852.txt",
+        "doc_8270.txt",
+        "doc_6299.txt"
+    ]
+}

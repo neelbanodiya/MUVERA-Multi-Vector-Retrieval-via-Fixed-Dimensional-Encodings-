@@ -1,0 +1,10 @@
+{
+    "query": "In 1616, what did the Roman Catholic Church declare regarding the Copernican theory?",
+    "response": [
+        "doc_16507.txt",
+        "doc_16513.txt",
+        "doc_16520.txt",
+        "doc_16512.txt",
+        "doc_16517.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Caribbean islands, besides Haiti, are included in the Hurricane Warning issued by the National Hurricane Center?",
+    "response": [
+        "doc_4930.txt",
+        "doc_4931.txt",
+        "doc_4413.txt",
+        "doc_11492.txt",
+        "doc_4415.txt"
+    ]
+}

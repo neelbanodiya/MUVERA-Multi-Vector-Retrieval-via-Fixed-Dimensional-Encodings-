@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is a traditional use of implements in Japan, specifically related to samurai?",
+    "response": [
+        "doc_789.txt",
+        "doc_788.txt",
+        "doc_801.txt",
+        "doc_790.txt",
+        "doc_797.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who appeared in a cameo appearance in Michael Lewis\u2019s bestseller \u201cThe Big Short\u201d?",
+    "response": [
+        "doc_4463.txt",
+        "doc_20131.txt",
+        "doc_4876.txt",
+        "doc_20127.txt",
+        "doc_8516.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "For how long was there a conflict between the Lydians and the Medes?",
+    "response": [
+        "doc_515.txt",
+        "doc_516.txt",
+        "doc_509.txt",
+        "doc_503.txt",
+        "doc_514.txt"
+    ]
+}

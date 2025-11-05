@@ -1,0 +1,10 @@
+{
+    "query": "In what month did Yuri Gagarin become the first human to travel into space?",
+    "response": [
+        "doc_602.txt",
+        "doc_600.txt",
+        "doc_604.txt",
+        "doc_615.txt",
+        "doc_608.txt"
+    ]
+}

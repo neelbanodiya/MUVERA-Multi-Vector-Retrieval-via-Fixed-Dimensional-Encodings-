@@ -1,0 +1,10 @@
+{
+    "query": "Which film was \u201cCarol\u201d based on, and who starred in it?",
+    "response": [
+        "doc_14546.txt",
+        "doc_21901.txt",
+        "doc_21902.txt",
+        "doc_726.txt",
+        "doc_14780.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What plant was used by women in ancient Greece to dye their hair?",
+    "response": [
+        "doc_11052.txt",
+        "doc_11045.txt",
+        "doc_11048.txt",
+        "doc_11054.txt",
+        "doc_11055.txt"
+    ]
+}

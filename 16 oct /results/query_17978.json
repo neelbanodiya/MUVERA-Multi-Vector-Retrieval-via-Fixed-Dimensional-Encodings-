@@ -1,0 +1,10 @@
+{
+    "query": "Which Norwegian football club did Ole Gunnar Solskj\u00e6r and \u00d8yvind Leonhardsen play for?",
+    "response": [
+        "doc_10403.txt",
+        "doc_9360.txt",
+        "doc_1883.txt",
+        "doc_1882.txt",
+        "doc_7851.txt"
+    ]
+}

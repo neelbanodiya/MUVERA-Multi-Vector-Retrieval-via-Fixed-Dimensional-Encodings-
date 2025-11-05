@@ -1,0 +1,10 @@
+{
+    "query": "How might a system modify LSB technique to keep a message secret?",
+    "response": [
+        "doc_18810.txt",
+        "doc_18809.txt",
+        "doc_18794.txt",
+        "doc_18805.txt",
+        "doc_18804.txt"
+    ]
+}

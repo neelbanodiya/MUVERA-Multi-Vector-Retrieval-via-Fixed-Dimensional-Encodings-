@@ -1,0 +1,10 @@
+{
+    "query": "How many championship golf courses has Couples designed?",
+    "response": [
+        "doc_3299.txt",
+        "doc_3287.txt",
+        "doc_3298.txt",
+        "doc_3611.txt",
+        "doc_3610.txt"
+    ]
+}

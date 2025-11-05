@@ -1,0 +1,10 @@
+{
+    "query": "Who founded Canonical Ltd., the company behind the development of Ubuntu?",
+    "response": [
+        "doc_7627.txt",
+        "doc_9166.txt",
+        "doc_20224.txt",
+        "doc_4623.txt",
+        "doc_10368.txt"
+    ]
+}

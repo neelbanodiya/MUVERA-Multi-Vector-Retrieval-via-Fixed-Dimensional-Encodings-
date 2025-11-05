@@ -1,0 +1,10 @@
+{
+    "query": "Which battle is mentioned as a significant event involving the Boers and the use of the term \u201cBoer\u201d?",
+    "response": [
+        "doc_207.txt",
+        "doc_4482.txt",
+        "doc_18271.txt",
+        "doc_4757.txt",
+        "doc_16169.txt"
+    ]
+}

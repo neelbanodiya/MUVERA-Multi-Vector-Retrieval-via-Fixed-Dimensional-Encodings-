@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is a common term for a Navy ship?",
+    "response": [
+        "doc_15283.txt",
+        "doc_15301.txt",
+        "doc_13913.txt",
+        "doc_2183.txt",
+        "doc_8741.txt"
+    ]
+}

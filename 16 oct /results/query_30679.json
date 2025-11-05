@@ -1,0 +1,10 @@
+{
+    "query": "How far is Holmenkollen ski jump from central Oslo?",
+    "response": [
+        "doc_17853.txt",
+        "doc_17854.txt",
+        "doc_17852.txt",
+        "doc_17856.txt",
+        "doc_17851.txt"
+    ]
+}

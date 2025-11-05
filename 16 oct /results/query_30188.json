@@ -1,0 +1,10 @@
+{
+    "query": "Which European agency is located in Thessaloniki and what is its total budget?",
+    "response": [
+        "doc_17587.txt",
+        "doc_17996.txt",
+        "doc_13223.txt",
+        "doc_17584.txt",
+        "doc_23642.txt"
+    ]
+}

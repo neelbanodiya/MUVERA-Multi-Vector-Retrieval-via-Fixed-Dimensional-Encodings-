@@ -1,0 +1,10 @@
+{
+    "query": "What was the Pickle Family Circus celebrating in 1984?",
+    "response": [
+        "doc_3513.txt",
+        "doc_21211.txt",
+        "doc_19392.txt",
+        "doc_3508.txt",
+        "doc_3501.txt"
+    ]
+}

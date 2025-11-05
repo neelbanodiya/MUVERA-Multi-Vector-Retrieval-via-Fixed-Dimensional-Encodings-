@@ -1,0 +1,10 @@
+{
+    "query": "What film, directed by Ettore Scola, served as the basis for the musical *Passion*?",
+    "response": [
+        "doc_2231.txt",
+        "doc_14685.txt",
+        "doc_1812.txt",
+        "doc_323.txt",
+        "doc_1580.txt"
+    ]
+}

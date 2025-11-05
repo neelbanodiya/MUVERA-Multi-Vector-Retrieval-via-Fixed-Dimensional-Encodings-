@@ -1,0 +1,10 @@
+{
+    "query": "Where did the Battle of Bennington take place?",
+    "response": [
+        "doc_198.txt",
+        "doc_191.txt",
+        "doc_194.txt",
+        "doc_7952.txt",
+        "doc_192.txt"
+    ]
+}

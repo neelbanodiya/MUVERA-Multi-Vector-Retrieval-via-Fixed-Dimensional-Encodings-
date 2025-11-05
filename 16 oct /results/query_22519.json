@@ -1,0 +1,10 @@
+{
+    "query": "When was Guru Nanak Dev born?",
+    "response": [
+        "doc_12973.txt",
+        "doc_12969.txt",
+        "doc_12958.txt",
+        "doc_12977.txt",
+        "doc_12972.txt"
+    ]
+}

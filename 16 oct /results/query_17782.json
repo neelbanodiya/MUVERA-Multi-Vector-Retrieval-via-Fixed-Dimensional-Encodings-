@@ -1,0 +1,10 @@
+{
+    "query": "Where is Gallaudet University located?",
+    "response": [
+        "doc_10309.txt",
+        "doc_10311.txt",
+        "doc_10313.txt",
+        "doc_9023.txt",
+        "doc_19359.txt"
+    ]
+}

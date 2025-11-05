@@ -1,0 +1,10 @@
+{
+    "query": "Which band, featuring Laura Carter, is based in Athens, Georgia?",
+    "response": [
+        "doc_8510.txt",
+        "doc_8695.txt",
+        "doc_4444.txt",
+        "doc_14846.txt",
+        "doc_19139.txt"
+    ]
+}

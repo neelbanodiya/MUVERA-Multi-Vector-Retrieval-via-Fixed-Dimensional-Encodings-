@@ -1,0 +1,10 @@
+{
+    "query": "To whom, besides the European Parliament, is the President instructed to forward the Decision and resolution?",
+    "response": [
+        "doc_5237.txt",
+        "doc_9102.txt",
+        "doc_7810.txt",
+        "doc_7809.txt",
+        "doc_22801.txt"
+    ]
+}

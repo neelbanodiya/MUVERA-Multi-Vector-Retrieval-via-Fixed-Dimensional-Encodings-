@@ -1,0 +1,10 @@
+{
+    "query": "What type of mine is the Andina, Chuquicamata, El Abra, El Teniente, Gaby, Inca de Oro, and Spence operation?",
+    "response": [
+        "doc_5155.txt",
+        "doc_5144.txt",
+        "doc_5145.txt",
+        "doc_5141.txt",
+        "doc_5149.txt"
+    ]
+}

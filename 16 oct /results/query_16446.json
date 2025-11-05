@@ -1,0 +1,10 @@
+{
+    "query": "In the story of Medea, what was the primary motivation for her actions?",
+    "response": [
+        "doc_9559.txt",
+        "doc_9548.txt",
+        "doc_9554.txt",
+        "doc_9547.txt",
+        "doc_9551.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what culture was the ancient fortified city of Indus Valley Civilization part of?",
+    "response": [
+        "doc_4335.txt",
+        "doc_5420.txt",
+        "doc_15773.txt",
+        "doc_20059.txt",
+        "doc_5428.txt"
+    ]
+}

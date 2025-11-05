@@ -1,0 +1,10 @@
+{
+    "query": "How did Spanish students of navigation benefit in the past?",
+    "response": [
+        "doc_20153.txt",
+        "doc_15794.txt",
+        "doc_15789.txt",
+        "doc_11398.txt",
+        "doc_15793.txt"
+    ]
+}

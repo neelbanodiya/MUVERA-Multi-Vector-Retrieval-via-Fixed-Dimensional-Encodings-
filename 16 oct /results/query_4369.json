@@ -1,0 +1,10 @@
+{
+    "query": "What anniversary did Moscow mark in 2011, and what iconic structure was associated with it?",
+    "response": [
+        "doc_2539.txt",
+        "doc_2542.txt",
+        "doc_2541.txt",
+        "doc_2540.txt",
+        "doc_2536.txt"
+    ]
+}

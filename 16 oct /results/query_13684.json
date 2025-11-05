@@ -1,0 +1,10 @@
+{
+    "query": "What committee produced the report titled \"Esko Sepp\u00e4nen\" regarding the proposal for a Council regulation amending Regulation (EC) No 2424/2001?",
+    "response": [
+        "doc_7970.txt",
+        "doc_20794.txt",
+        "doc_4525.txt",
+        "doc_3243.txt",
+        "doc_9429.txt"
+    ]
+}

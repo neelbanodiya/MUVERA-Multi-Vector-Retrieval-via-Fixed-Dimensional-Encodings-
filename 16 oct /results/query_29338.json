@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was the basis for the *Tomorrow Never Dies* video game?",
+    "response": [
+        "doc_17074.txt",
+        "doc_17073.txt",
+        "doc_17070.txt",
+        "doc_17069.txt",
+        "doc_12761.txt"
+    ]
+}

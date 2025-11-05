@@ -1,0 +1,10 @@
+{
+    "query": "Who officiated the funeral for Charles O. Babcock?",
+    "response": [
+        "doc_6410.txt",
+        "doc_6112.txt",
+        "doc_7939.txt",
+        "doc_12227.txt",
+        "doc_11481.txt"
+    ]
+}

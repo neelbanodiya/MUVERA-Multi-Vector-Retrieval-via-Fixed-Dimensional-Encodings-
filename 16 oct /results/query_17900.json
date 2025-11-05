@@ -1,0 +1,10 @@
+{
+    "query": "Which country occupies the western part of the Iberian Peninsula?",
+    "response": [
+        "doc_10366.txt",
+        "doc_10368.txt",
+        "doc_10371.txt",
+        "doc_10370.txt",
+        "doc_1001.txt"
+    ]
+}

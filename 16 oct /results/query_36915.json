@@ -1,0 +1,10 @@
+{
+    "query": "What characteristic distinguishes Old World monkeys from New World monkeys?",
+    "response": [
+        "doc_21577.txt",
+        "doc_21585.txt",
+        "doc_21578.txt",
+        "doc_21583.txt",
+        "doc_21576.txt"
+    ]
+}

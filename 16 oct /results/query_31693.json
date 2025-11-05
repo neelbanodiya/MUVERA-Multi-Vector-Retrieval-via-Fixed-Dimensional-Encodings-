@@ -1,0 +1,10 @@
+{
+    "query": "What role did Joe Pesci play in the film *Goodfellas*?",
+    "response": [
+        "doc_18481.txt",
+        "doc_18484.txt",
+        "doc_18483.txt",
+        "doc_18480.txt",
+        "doc_18479.txt"
+    ]
+}

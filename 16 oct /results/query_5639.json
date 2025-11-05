@@ -1,0 +1,10 @@
+{
+    "query": "How many kilometers is the Mediterranean coastline of Nigeria?",
+    "response": [
+        "doc_3268.txt",
+        "doc_3267.txt",
+        "doc_3281.txt",
+        "doc_3269.txt",
+        "doc_3275.txt"
+    ]
+}

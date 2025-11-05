@@ -1,0 +1,10 @@
+{
+    "query": "During which decade did Bea Arthur achieve fame as Dorothy Zbornak on *The Golden Girls*?",
+    "response": [
+        "doc_4646.txt",
+        "doc_4649.txt",
+        "doc_4650.txt",
+        "doc_4651.txt",
+        "doc_4642.txt"
+    ]
+}

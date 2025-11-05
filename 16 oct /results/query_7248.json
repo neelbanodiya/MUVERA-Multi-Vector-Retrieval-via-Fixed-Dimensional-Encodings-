@@ -1,0 +1,10 @@
+{
+    "query": "What kind of food is mentioned alongside Chianti?",
+    "response": [
+        "doc_9729.txt",
+        "doc_15779.txt",
+        "doc_18266.txt",
+        "doc_15449.txt",
+        "doc_15780.txt"
+    ]
+}

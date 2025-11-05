@@ -1,0 +1,10 @@
+{
+    "query": "Which Norwegian yarn brands are mentioned in the passage, and where is the wool for one of them now produced?",
+    "response": [
+        "doc_14712.txt",
+        "doc_13725.txt",
+        "doc_16993.txt",
+        "doc_13724.txt",
+        "doc_16485.txt"
+    ]
+}

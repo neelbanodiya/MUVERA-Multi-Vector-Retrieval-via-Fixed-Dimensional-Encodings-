@@ -1,0 +1,10 @@
+{
+    "query": "Who presided over Bruce Willis\u2019s wedding ceremony with Demi Moore?",
+    "response": [
+        "doc_3261.txt",
+        "doc_3259.txt",
+        "doc_3258.txt",
+        "doc_8831.txt",
+        "doc_20420.txt"
+    ]
+}

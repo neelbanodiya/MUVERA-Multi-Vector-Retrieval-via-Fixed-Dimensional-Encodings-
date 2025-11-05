@@ -1,0 +1,10 @@
+{
+    "query": "What types of vehicles were built on the regular Hudson car chassis?",
+    "response": [
+        "doc_17163.txt",
+        "doc_17158.txt",
+        "doc_17162.txt",
+        "doc_17149.txt",
+        "doc_17154.txt"
+    ]
+}

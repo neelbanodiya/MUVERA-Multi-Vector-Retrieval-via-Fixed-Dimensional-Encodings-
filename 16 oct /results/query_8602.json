@@ -1,0 +1,10 @@
+{
+    "query": "In what wars did Jackson fight?",
+    "response": [
+        "doc_7051.txt",
+        "doc_23516.txt",
+        "doc_3850.txt",
+        "doc_3851.txt",
+        "doc_1483.txt"
+    ]
+}

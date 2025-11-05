@@ -1,0 +1,10 @@
+{
+    "query": "What historical event led to an increased awareness of Vitamin C?",
+    "response": [
+        "doc_18619.txt",
+        "doc_18493.txt",
+        "doc_14460.txt",
+        "doc_4543.txt",
+        "doc_20875.txt"
+    ]
+}

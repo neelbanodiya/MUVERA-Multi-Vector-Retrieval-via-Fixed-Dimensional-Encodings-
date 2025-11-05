@@ -1,0 +1,10 @@
+{
+    "query": "Which musician is credited with writing the English lyrics for \u201cDeck the Halls\u201d?",
+    "response": [
+        "doc_20024.txt",
+        "doc_13852.txt",
+        "doc_12171.txt",
+        "doc_20536.txt",
+        "doc_17758.txt"
+    ]
+}

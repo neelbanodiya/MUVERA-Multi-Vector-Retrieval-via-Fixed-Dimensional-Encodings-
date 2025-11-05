@@ -1,0 +1,10 @@
+{
+    "query": "Which bridge was the first to span the Little Belt strait, and in what country is it located?",
+    "response": [
+        "doc_21710.txt",
+        "doc_12122.txt",
+        "doc_19671.txt",
+        "doc_4336.txt",
+        "doc_12058.txt"
+    ]
+}

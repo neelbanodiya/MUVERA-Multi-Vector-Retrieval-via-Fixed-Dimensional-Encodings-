@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what theological doctrine does Goodman Brown\u2019s journey reveal?",
+    "response": [
+        "doc_7122.txt",
+        "doc_21631.txt",
+        "doc_4980.txt",
+        "doc_23687.txt",
+        "doc_15274.txt"
+    ]
+}

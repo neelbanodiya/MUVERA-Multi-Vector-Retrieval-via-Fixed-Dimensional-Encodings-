@@ -1,0 +1,10 @@
+{
+    "query": "When was Mr. Christensen's opinion on capital requirements tabled?",
+    "response": [
+        "doc_3444.txt",
+        "doc_8445.txt",
+        "doc_17998.txt",
+        "doc_23241.txt",
+        "doc_21003.txt"
+    ]
+}

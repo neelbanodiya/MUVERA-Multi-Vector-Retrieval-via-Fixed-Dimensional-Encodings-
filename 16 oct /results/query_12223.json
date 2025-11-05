@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what two Japanese works of literature contain mythology?",
+    "response": [
+        "doc_7137.txt",
+        "doc_7145.txt",
+        "doc_7140.txt",
+        "doc_7141.txt",
+        "doc_797.txt"
+    ]
+}

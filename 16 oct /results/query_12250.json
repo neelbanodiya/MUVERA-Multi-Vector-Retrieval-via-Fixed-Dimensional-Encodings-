@@ -1,0 +1,10 @@
+{
+    "query": "What Greek letter represents dentistry, as indicated in the \u201cRecord Observer\u201d article?",
+    "response": [
+        "doc_7147.txt",
+        "doc_21575.txt",
+        "doc_3828.txt",
+        "doc_17209.txt",
+        "doc_792.txt"
+    ]
+}

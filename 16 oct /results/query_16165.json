@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Hornnes Church built, and by whom were the plans for its construction?",
+    "response": [
+        "doc_9359.txt",
+        "doc_458.txt",
+        "doc_22811.txt",
+        "doc_12130.txt",
+        "doc_18493.txt"
+    ]
+}

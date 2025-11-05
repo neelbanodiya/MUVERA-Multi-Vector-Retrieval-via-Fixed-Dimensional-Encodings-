@@ -1,0 +1,10 @@
+{
+    "query": "In 1992, who put \u201cIt\u2019s the economy, stupid\u201d on the door of his Little Rock office?",
+    "response": [
+        "doc_15748.txt",
+        "doc_4102.txt",
+        "doc_4833.txt",
+        "doc_21994.txt",
+        "doc_15177.txt"
+    ]
+}

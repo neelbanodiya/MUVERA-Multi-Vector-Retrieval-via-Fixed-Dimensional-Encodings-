@@ -1,0 +1,10 @@
+{
+    "query": "What is the typical rainfall range for the Neem tree, as described in one of the linked articles?",
+    "response": [
+        "doc_4233.txt",
+        "doc_4222.txt",
+        "doc_1110.txt",
+        "doc_2108.txt",
+        "doc_8556.txt"
+    ]
+}

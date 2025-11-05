@@ -1,0 +1,10 @@
+{
+    "query": "What Nirvana albums are specifically mentioned as being factory sealed cassettes?",
+    "response": [
+        "doc_19007.txt",
+        "doc_19008.txt",
+        "doc_19009.txt",
+        "doc_6337.txt",
+        "doc_12338.txt"
+    ]
+}

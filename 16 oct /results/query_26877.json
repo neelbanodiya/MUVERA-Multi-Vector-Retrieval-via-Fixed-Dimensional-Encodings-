@@ -1,0 +1,10 @@
+{
+    "query": "Which song by Rihanna samples Enya\u2019s \u201cOne by One\u201d?",
+    "response": [
+        "doc_18603.txt",
+        "doc_1812.txt",
+        "doc_10757.txt",
+        "doc_15613.txt",
+        "doc_13592.txt"
+    ]
+}

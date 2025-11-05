@@ -1,0 +1,9 @@
+{
+    "query": "What route did the Butterfield Overland Mail take through New Mexico Territory?",
+    "response": [
+        "doc_21710.txt",
+        "doc_21711.txt",
+        "doc_21709.txt",
+        "doc_20378.txt"
+    ]
+}

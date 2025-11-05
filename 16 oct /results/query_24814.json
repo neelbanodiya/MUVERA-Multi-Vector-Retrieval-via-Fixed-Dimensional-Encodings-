@@ -1,0 +1,10 @@
+{
+    "query": "What type of art does Josephine Starrs create?",
+    "response": [
+        "doc_5492.txt",
+        "doc_14424.txt",
+        "doc_17272.txt",
+        "doc_1081.txt",
+        "doc_20025.txt"
+    ]
+}

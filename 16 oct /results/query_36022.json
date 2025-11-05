@@ -1,0 +1,10 @@
+{
+    "query": "What fundamental values do EU Member States share, as referenced in the context of racism and xenophobia?",
+    "response": [
+        "doc_21012.txt",
+        "doc_10525.txt",
+        "doc_21025.txt",
+        "doc_21024.txt",
+        "doc_22878.txt"
+    ]
+}

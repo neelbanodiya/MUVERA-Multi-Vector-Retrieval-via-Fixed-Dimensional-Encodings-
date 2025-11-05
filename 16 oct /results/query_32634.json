@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the House of Blues host an event in Houston, Texas?",
+    "response": [
+        "doc_12260.txt",
+        "doc_19022.txt",
+        "doc_12259.txt",
+        "doc_12015.txt",
+        "doc_5267.txt"
+    ]
+}

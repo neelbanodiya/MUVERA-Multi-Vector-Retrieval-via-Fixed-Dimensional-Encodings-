@@ -1,0 +1,10 @@
+{
+    "query": "How much cash did Carl end up with after taking the gun?",
+    "response": [
+        "doc_5328.txt",
+        "doc_14526.txt",
+        "doc_7628.txt",
+        "doc_6759.txt",
+        "doc_16337.txt"
+    ]
+}

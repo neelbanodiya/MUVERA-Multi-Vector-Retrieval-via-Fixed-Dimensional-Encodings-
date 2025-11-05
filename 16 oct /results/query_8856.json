@@ -1,0 +1,10 @@
+{
+    "query": "Where does the passage say America\u2019s beauty is \u201cfrom sea to\u201d?",
+    "response": [
+        "doc_9610.txt",
+        "doc_5119.txt",
+        "doc_9611.txt",
+        "doc_23041.txt",
+        "doc_9303.txt"
+    ]
+}

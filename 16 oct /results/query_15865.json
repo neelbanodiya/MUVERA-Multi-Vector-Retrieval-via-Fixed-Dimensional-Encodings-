@@ -1,0 +1,10 @@
+{
+    "query": "Who is Waylon Payne the son of?",
+    "response": [
+        "doc_12240.txt",
+        "doc_18531.txt",
+        "doc_8086.txt",
+        "doc_1220.txt",
+        "doc_7878.txt"
+    ]
+}

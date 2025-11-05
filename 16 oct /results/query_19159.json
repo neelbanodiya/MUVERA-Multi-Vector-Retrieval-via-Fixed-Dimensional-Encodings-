@@ -1,0 +1,10 @@
+{
+    "query": "How many Palestinians have been imprisoned since 1967, according to the UN Special Rapporteur?",
+    "response": [
+        "doc_11110.txt",
+        "doc_13133.txt",
+        "doc_18574.txt",
+        "doc_3064.txt",
+        "doc_10337.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many teeth did Mamenchisaurus have, and what happened to them?",
+    "response": [
+        "doc_16918.txt",
+        "doc_16913.txt",
+        "doc_16916.txt",
+        "doc_16915.txt",
+        "doc_16919.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What action did the Council take regarding the Parliament\u2019s amendments?",
+    "response": [
+        "doc_13359.txt",
+        "doc_939.txt",
+        "doc_356.txt",
+        "doc_3794.txt",
+        "doc_13210.txt"
+    ]
+}

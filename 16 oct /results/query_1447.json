@@ -1,0 +1,10 @@
+{
+    "query": "What is the subject of the e-book titled \u201cBulger On Trial: Boston\u2019s Most Notorious Gangster and the Pursuit of Justice\u201d?",
+    "response": [
+        "doc_821.txt",
+        "doc_12239.txt",
+        "doc_20994.txt",
+        "doc_2858.txt",
+        "doc_21972.txt"
+    ]
+}

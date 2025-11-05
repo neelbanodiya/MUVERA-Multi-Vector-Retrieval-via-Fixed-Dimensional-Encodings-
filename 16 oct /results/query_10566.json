@@ -1,0 +1,10 @@
+{
+    "query": "On what date did soldiers corner John Wilkes Booth in a burning barn near Port Royal, Virginia?",
+    "response": [
+        "doc_6111.txt",
+        "doc_6113.txt",
+        "doc_6112.txt",
+        "doc_6109.txt",
+        "doc_6110.txt"
+    ]
+}

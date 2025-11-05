@@ -1,0 +1,10 @@
+{
+    "query": "What document, issued in 1995, served as a basis for the Euro-Mediterranean process?",
+    "response": [
+        "doc_2485.txt",
+        "doc_11103.txt",
+        "doc_15257.txt",
+        "doc_7288.txt",
+        "doc_9746.txt"
+    ]
+}

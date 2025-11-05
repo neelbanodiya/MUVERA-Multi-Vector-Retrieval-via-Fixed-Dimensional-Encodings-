@@ -1,0 +1,10 @@
+{
+    "query": "What action plan was adopted by the European Parliament and the Council in 1996 to combat cancer?",
+    "response": [
+        "doc_13931.txt",
+        "doc_13163.txt",
+        "doc_21528.txt",
+        "doc_14344.txt",
+        "doc_16161.txt"
+    ]
+}

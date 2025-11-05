@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 4d, what is the timeline for the Commission to adopt implementing acts related to the platform?",
+    "response": [
+        "doc_6172.txt",
+        "doc_20749.txt",
+        "doc_20792.txt",
+        "doc_20754.txt",
+        "doc_18021.txt"
+    ]
+}

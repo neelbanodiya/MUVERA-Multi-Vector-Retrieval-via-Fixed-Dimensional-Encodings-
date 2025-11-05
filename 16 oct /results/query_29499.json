@@ -1,0 +1,10 @@
+{
+    "query": "How many passengers can the Chevrolet Suburban accommodate?",
+    "response": [
+        "doc_17152.txt",
+        "doc_22504.txt",
+        "doc_17155.txt",
+        "doc_17159.txt",
+        "doc_15605.txt"
+    ]
+}

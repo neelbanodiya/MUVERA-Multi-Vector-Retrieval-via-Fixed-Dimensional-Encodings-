@@ -1,0 +1,10 @@
+{
+    "query": "What was the original name of the game produced by the Pressman company?",
+    "response": [
+        "doc_12430.txt",
+        "doc_12423.txt",
+        "doc_7627.txt",
+        "doc_10865.txt",
+        "doc_3164.txt"
+    ]
+}

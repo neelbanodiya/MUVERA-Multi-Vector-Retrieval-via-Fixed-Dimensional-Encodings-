@@ -1,0 +1,10 @@
+{
+    "query": "What city did Hopkins arrive in on August 10, 1881?",
+    "response": [
+        "doc_24012.txt",
+        "doc_24011.txt",
+        "doc_3331.txt",
+        "doc_5518.txt",
+        "doc_16326.txt"
+    ]
+}

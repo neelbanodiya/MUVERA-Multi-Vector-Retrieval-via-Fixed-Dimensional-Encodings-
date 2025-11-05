@@ -1,0 +1,10 @@
+{
+    "query": "According to Prentice, what was one of the most exciting features of the new hospital?",
+    "response": [
+        "doc_6752.txt",
+        "doc_4606.txt",
+        "doc_9316.txt",
+        "doc_18583.txt",
+        "doc_8008.txt"
+    ]
+}

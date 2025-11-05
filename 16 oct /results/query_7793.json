@@ -1,0 +1,10 @@
+{
+    "query": "Which Commission Communication, released on 12 November 2007, did this resolution reference?",
+    "response": [
+        "doc_18349.txt",
+        "doc_8111.txt",
+        "doc_22965.txt",
+        "doc_4010.txt",
+        "doc_14789.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the typical maturation time for varieties at the National Tropical Botanical Garden?",
+    "response": [
+        "doc_19931.txt",
+        "doc_4879.txt",
+        "doc_7346.txt",
+        "doc_20057.txt",
+        "doc_10611.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of train service operates in Spain by Renfe?",
+    "response": [
+        "doc_17951.txt",
+        "doc_72.txt",
+        "doc_1914.txt",
+        "doc_1004.txt",
+        "doc_1005.txt"
+    ]
+}

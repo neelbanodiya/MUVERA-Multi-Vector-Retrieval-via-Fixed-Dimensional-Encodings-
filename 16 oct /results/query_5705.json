@@ -1,0 +1,10 @@
+{
+    "query": "What short story by Edgar Allen Poe inspired the script for *Invisible Glass*?",
+    "response": [
+        "doc_8164.txt",
+        "doc_8178.txt",
+        "doc_4150.txt",
+        "doc_8166.txt",
+        "doc_4147.txt"
+    ]
+}

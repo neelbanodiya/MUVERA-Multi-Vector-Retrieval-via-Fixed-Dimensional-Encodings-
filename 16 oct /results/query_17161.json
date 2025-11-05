@@ -1,0 +1,10 @@
+{
+    "query": "Where was the \u201cVenus de Milo\u201d discovered, and when?",
+    "response": [
+        "doc_3870.txt",
+        "doc_3873.txt",
+        "doc_9928.txt",
+        "doc_9930.txt",
+        "doc_3871.txt"
+    ]
+}

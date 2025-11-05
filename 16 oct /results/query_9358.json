@@ -1,0 +1,10 @@
+{
+    "query": "What SIC code was associated with Yellow Pages listings for National Commercial Banks?",
+    "response": [
+        "doc_5394.txt",
+        "doc_2837.txt",
+        "doc_16329.txt",
+        "doc_10427.txt",
+        "doc_2950.txt"
+    ]
+}

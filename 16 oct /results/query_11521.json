@@ -1,0 +1,10 @@
+{
+    "query": "Which region of Italy is known for producing numerous varieties of apples?",
+    "response": [
+        "doc_20235.txt",
+        "doc_1001.txt",
+        "doc_23532.txt",
+        "doc_23445.txt",
+        "doc_1007.txt"
+    ]
+}

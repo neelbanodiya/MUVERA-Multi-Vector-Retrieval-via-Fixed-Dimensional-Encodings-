@@ -1,0 +1,10 @@
+{
+    "query": "How many Emmy awards did Michael Richards win?",
+    "response": [
+        "doc_4458.txt",
+        "doc_4470.txt",
+        "doc_4461.txt",
+        "doc_4466.txt",
+        "doc_4465.txt"
+    ]
+}

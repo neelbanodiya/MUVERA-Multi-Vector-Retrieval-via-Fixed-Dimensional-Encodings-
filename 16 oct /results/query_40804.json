@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, what historical influences shaped the development of the Urdu language?",
+    "response": [
+        "doc_23855.txt",
+        "doc_23857.txt",
+        "doc_23861.txt",
+        "doc_23850.txt",
+        "doc_23854.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Besides Canadians, who else was present during the residency in Paris?",
+    "response": [
+        "doc_21250.txt",
+        "doc_21266.txt",
+        "doc_21251.txt",
+        "doc_6623.txt",
+        "doc_21263.txt"
+    ]
+}

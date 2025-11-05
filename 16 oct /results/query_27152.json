@@ -1,0 +1,10 @@
+{
+    "query": "What physical characteristics are described for Alaric?",
+    "response": [
+        "doc_21785.txt",
+        "doc_15758.txt",
+        "doc_10249.txt",
+        "doc_3167.txt",
+        "doc_21784.txt"
+    ]
+}

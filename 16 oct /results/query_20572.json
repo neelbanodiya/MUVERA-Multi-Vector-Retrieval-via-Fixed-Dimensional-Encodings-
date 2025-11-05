@@ -1,0 +1,10 @@
+{
+    "query": "What is Heidi Klum\u2019s reported sense of humor like, according to the article?",
+    "response": [
+        "doc_19208.txt",
+        "doc_4099.txt",
+        "doc_11151.txt",
+        "doc_6454.txt",
+        "doc_17878.txt"
+    ]
+}

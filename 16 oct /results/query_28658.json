@@ -1,0 +1,10 @@
+{
+    "query": "When was the original Spanish military outpost established?",
+    "response": [
+        "doc_16691.txt",
+        "doc_16685.txt",
+        "doc_16694.txt",
+        "doc_16690.txt",
+        "doc_16697.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year was Kenny Rogers' duet \u201cMake No Mistake, She\u2019s Mine\u201d released?",
+    "response": [
+        "doc_6382.txt",
+        "doc_6383.txt",
+        "doc_6380.txt",
+        "doc_6389.txt",
+        "doc_6392.txt"
+    ]
+}

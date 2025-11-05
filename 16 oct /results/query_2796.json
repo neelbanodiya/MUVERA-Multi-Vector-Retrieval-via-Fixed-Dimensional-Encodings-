@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what was Nancy Reagan known for regarding her role as First Lady?",
+    "response": [
+        "doc_433.txt",
+        "doc_442.txt",
+        "doc_443.txt",
+        "doc_20676.txt",
+        "doc_2385.txt"
+    ]
+}

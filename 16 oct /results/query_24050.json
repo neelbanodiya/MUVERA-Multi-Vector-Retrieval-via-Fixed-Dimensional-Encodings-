@@ -1,0 +1,10 @@
+{
+    "query": "What is the instructor at the Naval Academy located in?",
+    "response": [
+        "doc_23463.txt",
+        "doc_19223.txt",
+        "doc_19359.txt",
+        "doc_10309.txt",
+        "doc_1511.txt"
+    ]
+}

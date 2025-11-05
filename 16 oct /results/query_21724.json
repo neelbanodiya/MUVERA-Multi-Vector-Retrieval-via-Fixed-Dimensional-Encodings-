@@ -1,0 +1,10 @@
+{
+    "query": "What role did Franklin D. Roosevelt play during World War II, according to the provided documents?",
+    "response": [
+        "doc_11662.txt",
+        "doc_19160.txt",
+        "doc_12523.txt",
+        "doc_20674.txt",
+        "doc_12520.txt"
+    ]
+}

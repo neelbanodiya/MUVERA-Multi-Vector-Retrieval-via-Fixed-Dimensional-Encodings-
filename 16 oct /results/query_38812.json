@@ -1,0 +1,10 @@
+{
+    "query": "When was the song \u201cShrimp Boats\u201d originally recorded?",
+    "response": [
+        "doc_22729.txt",
+        "doc_22733.txt",
+        "doc_22736.txt",
+        "doc_22730.txt",
+        "doc_22739.txt"
+    ]
+}

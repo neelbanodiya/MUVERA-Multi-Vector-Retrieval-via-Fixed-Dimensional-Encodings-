@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cBurn After Reading\u201d released in the United States?",
+    "response": [
+        "doc_2548.txt",
+        "doc_10083.txt",
+        "doc_7862.txt",
+        "doc_8467.txt",
+        "doc_8006.txt"
+    ]
+}

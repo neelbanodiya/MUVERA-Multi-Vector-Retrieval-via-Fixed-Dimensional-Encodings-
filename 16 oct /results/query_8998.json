@@ -1,0 +1,10 @@
+{
+    "query": "What city did Alexander the Great plan to establish as his capital?",
+    "response": [
+        "doc_5160.txt",
+        "doc_3937.txt",
+        "doc_5192.txt",
+        "doc_2711.txt",
+        "doc_2708.txt"
+    ]
+}

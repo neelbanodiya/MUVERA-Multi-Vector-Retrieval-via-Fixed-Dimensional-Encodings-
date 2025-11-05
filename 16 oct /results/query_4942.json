@@ -1,0 +1,10 @@
+{
+    "query": "What natural phenomenon can be frequently observed at Cumberland Falls?",
+    "response": [
+        "doc_2882.txt",
+        "doc_12641.txt",
+        "doc_19749.txt",
+        "doc_15442.txt",
+        "doc_4220.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of story is John Grisham known for writing?",
+    "response": [
+        "doc_19881.txt",
+        "doc_19884.txt",
+        "doc_17767.txt",
+        "doc_9402.txt",
+        "doc_19890.txt"
+    ]
+}

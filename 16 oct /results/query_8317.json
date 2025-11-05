@@ -1,0 +1,10 @@
+{
+    "query": "What organizations are associated with the Massachusetts Institute of Technology (MIT)?",
+    "response": [
+        "doc_4803.txt",
+        "doc_4805.txt",
+        "doc_4806.txt",
+        "doc_4804.txt",
+        "doc_4808.txt"
+    ]
+}

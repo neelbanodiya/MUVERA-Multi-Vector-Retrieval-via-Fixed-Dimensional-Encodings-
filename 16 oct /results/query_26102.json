@@ -1,0 +1,10 @@
+{
+    "query": "What city waterfront is featured in Marco Rubio\u2019s \u201cMorning in America\u201d ad?",
+    "response": [
+        "doc_15170.txt",
+        "doc_15171.txt",
+        "doc_15173.txt",
+        "doc_15172.txt",
+        "doc_15177.txt"
+    ]
+}

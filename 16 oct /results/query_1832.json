@@ -1,0 +1,10 @@
+{
+    "query": "What was Gordon and Carma Hinton photographing in Beijing?",
+    "response": [
+        "doc_5700.txt",
+        "doc_4039.txt",
+        "doc_20399.txt",
+        "doc_2306.txt",
+        "doc_4382.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what region of the United States is Minnesota located?",
+    "response": [
+        "doc_18155.txt",
+        "doc_1655.txt",
+        "doc_890.txt",
+        "doc_21465.txt",
+        "doc_18154.txt"
+    ]
+}

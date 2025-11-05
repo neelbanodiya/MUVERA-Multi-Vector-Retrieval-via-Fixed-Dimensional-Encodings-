@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission\u2019s primary goal regarding driver behavior?",
+    "response": [
+        "doc_22475.txt",
+        "doc_23721.txt",
+        "doc_21795.txt",
+        "doc_21424.txt",
+        "doc_9749.txt"
+    ]
+}

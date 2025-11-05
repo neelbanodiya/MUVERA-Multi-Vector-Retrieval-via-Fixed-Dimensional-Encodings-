@@ -1,0 +1,10 @@
+{
+    "query": "What European Parliament resolutions were referenced in the motion for a European Parliament resolution?",
+    "response": [
+        "doc_22186.txt",
+        "doc_23223.txt",
+        "doc_18513.txt",
+        "doc_20030.txt",
+        "doc_13347.txt"
+    ]
+}

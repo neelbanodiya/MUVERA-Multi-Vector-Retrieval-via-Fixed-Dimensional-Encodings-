@@ -1,0 +1,10 @@
+{
+    "query": "What city was Cardinal George born in?",
+    "response": [
+        "doc_15623.txt",
+        "doc_15624.txt",
+        "doc_21440.txt",
+        "doc_13785.txt",
+        "doc_3819.txt"
+    ]
+}

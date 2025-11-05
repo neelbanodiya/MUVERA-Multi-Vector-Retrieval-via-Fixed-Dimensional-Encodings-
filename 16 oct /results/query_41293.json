@@ -1,0 +1,10 @@
+{
+    "query": "Which of the following films did Logan Lerman star in: \u201cThe Three Musketeers\u201d, \u201cFury\u201d, and \u201cThe Butterfly Effect\u201d?",
+    "response": [
+        "doc_24189.txt",
+        "doc_4989.txt",
+        "doc_4996.txt",
+        "doc_4986.txt",
+        "doc_6367.txt"
+    ]
+}

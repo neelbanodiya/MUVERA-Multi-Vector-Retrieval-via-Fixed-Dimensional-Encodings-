@@ -1,0 +1,10 @@
+{
+    "query": "Besides pizza franchises, what other types of businesses did Rabbe Gr\u00f6nblom establish?",
+    "response": [
+        "doc_10669.txt",
+        "doc_12645.txt",
+        "doc_7172.txt",
+        "doc_9777.txt",
+        "doc_1795.txt"
+    ]
+}

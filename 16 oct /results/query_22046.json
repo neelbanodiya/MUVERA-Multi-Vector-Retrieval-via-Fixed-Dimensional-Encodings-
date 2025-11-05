@@ -1,0 +1,10 @@
+{
+    "query": "What record did Ohio hold according to the provided links?",
+    "response": [
+        "doc_19366.txt",
+        "doc_19268.txt",
+        "doc_14755.txt",
+        "doc_19369.txt",
+        "doc_13275.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Tiananmen Square protests begin, according to the provided texts?",
+    "response": [
+        "doc_10970.txt",
+        "doc_10987.txt",
+        "doc_10974.txt",
+        "doc_10971.txt",
+        "doc_10988.txt"
+    ]
+}

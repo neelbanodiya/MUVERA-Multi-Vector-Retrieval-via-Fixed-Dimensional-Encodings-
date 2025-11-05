@@ -1,0 +1,10 @@
+{
+    "query": "What is the subject of the recommendation by Enrique Bar\u00f3n Crespo?",
+    "response": [
+        "doc_6011.txt",
+        "doc_5983.txt",
+        "doc_5816.txt",
+        "doc_20931.txt",
+        "doc_8930.txt"
+    ]
+}

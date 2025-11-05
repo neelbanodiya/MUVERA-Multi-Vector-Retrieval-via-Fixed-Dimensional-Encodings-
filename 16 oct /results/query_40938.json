@@ -1,0 +1,10 @@
+{
+    "query": "Which coffee-producing region is associated with the \"Medellin\" grade?",
+    "response": [
+        "doc_1388.txt",
+        "doc_23956.txt",
+        "doc_23957.txt",
+        "doc_23532.txt",
+        "doc_23961.txt"
+    ]
+}

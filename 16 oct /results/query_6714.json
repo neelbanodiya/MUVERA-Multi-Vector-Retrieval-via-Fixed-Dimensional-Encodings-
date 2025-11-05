@@ -1,0 +1,10 @@
+{
+    "query": "When was the ceremony honoring Malcolm Butler in Vicksburg?",
+    "response": [
+        "doc_3856.txt",
+        "doc_3855.txt",
+        "doc_3852.txt",
+        "doc_3853.txt",
+        "doc_3849.txt"
+    ]
+}

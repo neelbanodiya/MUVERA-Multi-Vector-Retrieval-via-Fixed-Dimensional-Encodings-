@@ -1,0 +1,10 @@
+{
+    "query": "What names of knights are specifically mentioned alongside King Arthur in the sources listed?",
+    "response": [
+        "doc_1834.txt",
+        "doc_1833.txt",
+        "doc_1841.txt",
+        "doc_1842.txt",
+        "doc_1849.txt"
+    ]
+}

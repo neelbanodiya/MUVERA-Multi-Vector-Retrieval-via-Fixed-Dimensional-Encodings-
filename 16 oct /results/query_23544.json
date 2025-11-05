@@ -1,0 +1,10 @@
+{
+    "query": "Which French international school in Morocco serves levels from preschool through senior high school, and what is it named after?",
+    "response": [
+        "doc_6612.txt",
+        "doc_4739.txt",
+        "doc_17123.txt",
+        "doc_20592.txt",
+        "doc_5565.txt"
+    ]
+}

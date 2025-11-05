@@ -1,0 +1,10 @@
+{
+    "query": "What year did Marco Polo and his companions arrive at Kublai Khan\u2019s court in China?",
+    "response": [
+        "doc_2305.txt",
+        "doc_2300.txt",
+        "doc_2309.txt",
+        "doc_2297.txt",
+        "doc_2312.txt"
+    ]
+}

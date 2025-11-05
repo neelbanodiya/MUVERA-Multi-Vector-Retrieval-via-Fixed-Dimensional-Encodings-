@@ -1,0 +1,9 @@
+{
+    "query": "What types of revenue are categorized as \"assigned revenue\" according to Article 18(1)(g) of the Financial Regulation?",
+    "response": [
+        "doc_22199.txt",
+        "doc_22200.txt",
+        "doc_22198.txt",
+        "doc_22201.txt"
+    ]
+}

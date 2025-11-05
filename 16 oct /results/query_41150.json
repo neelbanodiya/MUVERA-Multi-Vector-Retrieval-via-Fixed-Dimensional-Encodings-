@@ -1,0 +1,10 @@
+{
+    "query": "Which music video featured Cedric Carreon and Angel Jacob?",
+    "response": [
+        "doc_24095.txt",
+        "doc_15319.txt",
+        "doc_17144.txt",
+        "doc_1982.txt",
+        "doc_23546.txt"
+    ]
+}

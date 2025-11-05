@@ -1,0 +1,10 @@
+{
+    "query": "What is David Bowie instructed to do in his will, as reported in one of the linked articles?",
+    "response": [
+        "doc_15046.txt",
+        "doc_20128.txt",
+        "doc_7648.txt",
+        "doc_10635.txt",
+        "doc_14093.txt"
+    ]
+}

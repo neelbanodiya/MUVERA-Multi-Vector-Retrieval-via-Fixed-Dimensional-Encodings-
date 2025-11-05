@@ -1,0 +1,10 @@
+{
+    "query": "What Bureau decisions influenced the appropriations outlined in this document?",
+    "response": [
+        "doc_22199.txt",
+        "doc_9103.txt",
+        "doc_22202.txt",
+        "doc_3018.txt",
+        "doc_19131.txt"
+    ]
+}

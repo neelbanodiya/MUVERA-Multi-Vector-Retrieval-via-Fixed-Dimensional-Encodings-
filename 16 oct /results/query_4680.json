@@ -1,0 +1,10 @@
+{
+    "query": "Which city was designated as the temporary capital for a period of ten years due to the Residence Act?",
+    "response": [
+        "doc_13261.txt",
+        "doc_15599.txt",
+        "doc_13324.txt",
+        "doc_15473.txt",
+        "doc_13276.txt"
+    ]
+}

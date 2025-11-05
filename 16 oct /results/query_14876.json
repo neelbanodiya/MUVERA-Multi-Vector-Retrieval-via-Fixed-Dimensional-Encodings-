@@ -1,0 +1,10 @@
+{
+    "query": "Which palace served as the base for the Habsburg dynasty?",
+    "response": [
+        "doc_8633.txt",
+        "doc_8644.txt",
+        "doc_8638.txt",
+        "doc_8640.txt",
+        "doc_8634.txt"
+    ]
+}

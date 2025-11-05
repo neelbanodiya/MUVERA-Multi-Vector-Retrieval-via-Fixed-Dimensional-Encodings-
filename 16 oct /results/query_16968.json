@@ -1,0 +1,10 @@
+{
+    "query": "How many Tony Awards did Michael Bennett\u2019s production of *A Chorus Line* win?",
+    "response": [
+        "doc_9825.txt",
+        "doc_9823.txt",
+        "doc_9831.txt",
+        "doc_9833.txt",
+        "doc_9824.txt"
+    ]
+}

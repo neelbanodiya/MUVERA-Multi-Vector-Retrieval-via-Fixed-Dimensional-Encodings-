@@ -1,0 +1,10 @@
+{
+    "query": "In the episode \u201cI Don\u2019t Wanna Know Why the Caged Bird Sings,\u201d what does Marge promise to do for Dwight, a man who attempts to rob a bank?",
+    "response": [
+        "doc_2806.txt",
+        "doc_13104.txt",
+        "doc_22377.txt",
+        "doc_17873.txt",
+        "doc_11072.txt"
+    ]
+}

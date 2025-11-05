@@ -1,0 +1,10 @@
+{
+    "query": "When was Knole House originally built?",
+    "response": [
+        "doc_3607.txt",
+        "doc_3618.txt",
+        "doc_3613.txt",
+        "doc_3612.txt",
+        "doc_3624.txt"
+    ]
+}

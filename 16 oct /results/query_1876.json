@@ -1,0 +1,10 @@
+{
+    "query": "What kind of pants are being advertised on Kijiji, and what features do they have?",
+    "response": [
+        "doc_1089.txt",
+        "doc_1090.txt",
+        "doc_1100.txt",
+        "doc_1095.txt",
+        "doc_1098.txt"
+    ]
+}

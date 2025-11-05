@@ -1,0 +1,10 @@
+{
+    "query": "What type of entertainment was Jeff Smith known for in the 1980s (PBS)?",
+    "response": [
+        "doc_7817.txt",
+        "doc_7826.txt",
+        "doc_18839.txt",
+        "doc_17118.txt",
+        "doc_4481.txt"
+    ]
+}

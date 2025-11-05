@@ -1,0 +1,10 @@
+{
+    "query": "When was the third CSF originally approved by the Commission?",
+    "response": [
+        "doc_14032.txt",
+        "doc_22712.txt",
+        "doc_7773.txt",
+        "doc_9110.txt",
+        "doc_21818.txt"
+    ]
+}

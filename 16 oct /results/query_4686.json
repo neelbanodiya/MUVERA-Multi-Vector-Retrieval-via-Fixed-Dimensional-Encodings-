@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is Philadelphia\u2019s current ranking as a city in the United States?",
+    "response": [
+        "doc_2708.txt",
+        "doc_2710.txt",
+        "doc_2709.txt",
+        "doc_2711.txt",
+        "doc_13053.txt"
+    ]
+}

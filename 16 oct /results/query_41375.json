@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked articles, how close was Oklahoma to joining the Pac-10 conference in 2010?",
+    "response": [
+        "doc_24239.txt",
+        "doc_2010.txt",
+        "doc_11116.txt",
+        "doc_17688.txt",
+        "doc_11115.txt"
+    ]
+}

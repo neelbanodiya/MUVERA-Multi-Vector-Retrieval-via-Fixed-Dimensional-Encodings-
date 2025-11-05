@@ -1,0 +1,10 @@
+{
+    "query": "With whom did Woody Allen tour in Europe during the filming of \u201cWild Man Blues\u201d?",
+    "response": [
+        "doc_8710.txt",
+        "doc_8711.txt",
+        "doc_8709.txt",
+        "doc_8713.txt",
+        "doc_8714.txt"
+    ]
+}

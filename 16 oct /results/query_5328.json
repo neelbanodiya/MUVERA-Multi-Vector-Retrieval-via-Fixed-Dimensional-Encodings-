@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the projected percentage of the European population over the age of 65 in 2050?",
+    "response": [
+        "doc_3095.txt",
+        "doc_15183.txt",
+        "doc_14144.txt",
+        "doc_16895.txt",
+        "doc_14131.txt"
+    ]
+}

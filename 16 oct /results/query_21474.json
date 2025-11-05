@@ -1,0 +1,10 @@
+{
+    "query": "What was the date of Margaret Lothrop\u2019s residence at The Wayside?",
+    "response": [
+        "doc_1450.txt",
+        "doc_3622.txt",
+        "doc_3620.txt",
+        "doc_23690.txt",
+        "doc_11245.txt"
+    ]
+}

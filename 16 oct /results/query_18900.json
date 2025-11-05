@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the book Pete Rose wrote?",
+    "response": [
+        "doc_19142.txt",
+        "doc_15276.txt",
+        "doc_21631.txt",
+        "doc_724.txt",
+        "doc_7862.txt"
+    ]
+}

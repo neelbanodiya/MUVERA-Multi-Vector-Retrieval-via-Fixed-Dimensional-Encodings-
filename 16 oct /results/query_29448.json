@@ -1,0 +1,10 @@
+{
+    "query": "In what animated film does the Millennium Falcon appear in Lego form, with specific actors reprising their roles?",
+    "response": [
+        "doc_6660.txt",
+        "doc_14494.txt",
+        "doc_14871.txt",
+        "doc_21371.txt",
+        "doc_16729.txt"
+    ]
+}

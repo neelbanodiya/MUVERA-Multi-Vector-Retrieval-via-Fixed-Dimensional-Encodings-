@@ -1,0 +1,10 @@
+{
+    "query": "What song was released about the Mersey River featuring Gerry & the Pacemakers?",
+    "response": [
+        "doc_3490.txt",
+        "doc_3482.txt",
+        "doc_3493.txt",
+        "doc_3489.txt",
+        "doc_3481.txt"
+    ]
+}

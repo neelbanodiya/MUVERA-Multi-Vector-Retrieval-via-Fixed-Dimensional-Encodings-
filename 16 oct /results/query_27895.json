@@ -1,0 +1,10 @@
+{
+    "query": "Which actor starred in the 1987 film adaptation of *Presumed Innocent*?",
+    "response": [
+        "doc_16225.txt",
+        "doc_16218.txt",
+        "doc_16219.txt",
+        "doc_16224.txt",
+        "doc_19247.txt"
+    ]
+}

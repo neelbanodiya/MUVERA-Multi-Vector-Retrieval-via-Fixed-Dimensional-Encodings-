@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is the nature of the Godfather series?",
+    "response": [
+        "doc_21379.txt",
+        "doc_2928.txt",
+        "doc_14494.txt",
+        "doc_13076.txt",
+        "doc_20567.txt"
+    ]
+}

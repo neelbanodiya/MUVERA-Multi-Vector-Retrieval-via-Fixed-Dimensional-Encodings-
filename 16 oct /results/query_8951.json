@@ -1,0 +1,10 @@
+{
+    "query": "What was a notable change in newspapers during the early 1960s, as described in the Guardian article?",
+    "response": [
+        "doc_20650.txt",
+        "doc_1734.txt",
+        "doc_951.txt",
+        "doc_22773.txt",
+        "doc_3071.txt"
+    ]
+}

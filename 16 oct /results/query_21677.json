@@ -1,0 +1,10 @@
+{
+    "query": "What is the purpose of the Community Control Programme as outlined in the text?",
+    "response": [
+        "doc_12492.txt",
+        "doc_12477.txt",
+        "doc_12070.txt",
+        "doc_9753.txt",
+        "doc_8876.txt"
+    ]
+}

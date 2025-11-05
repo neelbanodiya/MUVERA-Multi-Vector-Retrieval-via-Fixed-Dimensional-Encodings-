@@ -1,0 +1,10 @@
+{
+    "query": "What did Mr. Bush say during his campaign regarding foreign policy?",
+    "response": [
+        "doc_3086.txt",
+        "doc_11106.txt",
+        "doc_16160.txt",
+        "doc_15258.txt",
+        "doc_22125.txt"
+    ]
+}

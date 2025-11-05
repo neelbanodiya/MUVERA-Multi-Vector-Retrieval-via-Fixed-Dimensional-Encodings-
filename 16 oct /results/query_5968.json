@@ -1,0 +1,10 @@
+{
+    "query": "What has been a method of crossing rivers like the Mersey for over 1000 years?",
+    "response": [
+        "doc_3487.txt",
+        "doc_3486.txt",
+        "doc_3484.txt",
+        "doc_3491.txt",
+        "doc_3488.txt"
+    ]
+}

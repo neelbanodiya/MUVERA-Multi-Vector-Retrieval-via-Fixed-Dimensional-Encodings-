@@ -1,0 +1,10 @@
+{
+    "query": "What architectural style is reflected in the design of the Castro Theatre?",
+    "response": [
+        "doc_10560.txt",
+        "doc_23030.txt",
+        "doc_4184.txt",
+        "doc_20382.txt",
+        "doc_20252.txt"
+    ]
+}

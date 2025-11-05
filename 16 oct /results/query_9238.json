@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what type of film is *Rear Window*?",
+    "response": [
+        "doc_1580.txt",
+        "doc_400.txt",
+        "doc_18213.txt",
+        "doc_2231.txt",
+        "doc_2113.txt"
+    ]
+}

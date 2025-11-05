@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what ancient works mention the Pillars of Hercules?",
+    "response": [
+        "doc_8685.txt",
+        "doc_8682.txt",
+        "doc_8684.txt",
+        "doc_8686.txt",
+        "doc_8690.txt"
+    ]
+}

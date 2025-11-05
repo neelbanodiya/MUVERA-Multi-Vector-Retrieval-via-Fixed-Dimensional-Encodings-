@@ -1,0 +1,10 @@
+{
+    "query": "What song did Joan Jett initially like a lot, according to the passage?",
+    "response": [
+        "doc_21090.txt",
+        "doc_22548.txt",
+        "doc_22551.txt",
+        "doc_22547.txt",
+        "doc_21658.txt"
+    ]
+}

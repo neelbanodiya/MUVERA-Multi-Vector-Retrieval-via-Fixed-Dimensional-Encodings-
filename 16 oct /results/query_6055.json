@@ -1,0 +1,10 @@
+{
+    "query": "What book won the Pulitzer Prize and became the best-selling book of 1931 and 1932?",
+    "response": [
+        "doc_14264.txt",
+        "doc_8518.txt",
+        "doc_14271.txt",
+        "doc_4654.txt",
+        "doc_7862.txt"
+    ]
+}

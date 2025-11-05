@@ -1,0 +1,10 @@
+{
+    "query": "What event is depicted on the reverse of commemorative coins recognizing the 50th anniversary of Apollo 11?",
+    "response": [
+        "doc_5926.txt",
+        "doc_5919.txt",
+        "doc_1882.txt",
+        "doc_13530.txt",
+        "doc_19770.txt"
+    ]
+}

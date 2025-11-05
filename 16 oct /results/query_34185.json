@@ -1,0 +1,10 @@
+{
+    "query": "What type of story did John Grisham write that involved suing an insurance company?",
+    "response": [
+        "doc_19879.txt",
+        "doc_19890.txt",
+        "doc_19884.txt",
+        "doc_22774.txt",
+        "doc_3820.txt"
+    ]
+}

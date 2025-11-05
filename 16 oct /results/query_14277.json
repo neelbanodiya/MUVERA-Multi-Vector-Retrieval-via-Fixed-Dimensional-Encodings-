@@ -1,0 +1,10 @@
+{
+    "query": "What is Minnesota\u2019s state nickname?",
+    "response": [
+        "doc_8277.txt",
+        "doc_8281.txt",
+        "doc_8283.txt",
+        "doc_10701.txt",
+        "doc_22639.txt"
+    ]
+}

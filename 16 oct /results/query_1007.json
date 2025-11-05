@@ -1,0 +1,10 @@
+{
+    "query": "At which hotel did Donald Trump\u2019s parents celebrate their anniversary party?",
+    "response": [
+        "doc_566.txt",
+        "doc_16989.txt",
+        "doc_16988.txt",
+        "doc_397.txt",
+        "doc_571.txt"
+    ]
+}

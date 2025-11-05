@@ -1,0 +1,10 @@
+{
+    "query": "What types of lettuce are mentioned as good varieties of Boston type lettuce?",
+    "response": [
+        "doc_3132.txt",
+        "doc_3136.txt",
+        "doc_9713.txt",
+        "doc_9717.txt",
+        "doc_9714.txt"
+    ]
+}

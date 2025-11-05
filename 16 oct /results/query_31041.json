@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, in which film did Walter Matthau play a grumpy old man?",
+    "response": [
+        "doc_18098.txt",
+        "doc_18097.txt",
+        "doc_18100.txt",
+        "doc_18101.txt",
+        "doc_3771.txt"
+    ]
+}

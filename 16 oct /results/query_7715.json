@@ -1,0 +1,10 @@
+{
+    "query": "Who was Roger Avon?",
+    "response": [
+        "doc_18954.txt",
+        "doc_4477.txt",
+        "doc_5869.txt",
+        "doc_19011.txt",
+        "doc_13655.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is happening in Connecticut related to social issues?",
+    "response": [
+        "doc_5943.txt",
+        "doc_5944.txt",
+        "doc_15991.txt",
+        "doc_5160.txt",
+        "doc_10414.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what is the Kojiki (Records of Ancient Matters)?",
+    "response": [
+        "doc_7131.txt",
+        "doc_7138.txt",
+        "doc_7144.txt",
+        "doc_7132.txt",
+        "doc_7135.txt"
+    ]
+}

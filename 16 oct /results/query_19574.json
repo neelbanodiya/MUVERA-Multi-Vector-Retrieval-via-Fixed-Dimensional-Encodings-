@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what year was the book \u201cLittle Women\u201d published by Tyndale House Publishers?",
+    "response": [
+        "doc_636.txt",
+        "doc_11314.txt",
+        "doc_641.txt",
+        "doc_10083.txt",
+        "doc_643.txt"
+    ]
+}

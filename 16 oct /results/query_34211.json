@@ -1,0 +1,10 @@
+{
+    "query": "What type of theater or film is mentioned as being on the fringes of the University of Iowa?",
+    "response": [
+        "doc_20485.txt",
+        "doc_18212.txt",
+        "doc_3270.txt",
+        "doc_18844.txt",
+        "doc_18082.txt"
+    ]
+}

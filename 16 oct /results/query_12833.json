@@ -1,0 +1,10 @@
+{
+    "query": "What is the cost of postage for a cheque with RM0.32 service fee?",
+    "response": [
+        "doc_3443.txt",
+        "doc_3448.txt",
+        "doc_2918.txt",
+        "doc_3445.txt",
+        "doc_3446.txt"
+    ]
+}

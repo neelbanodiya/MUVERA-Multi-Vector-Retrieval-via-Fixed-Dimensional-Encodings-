@@ -1,0 +1,10 @@
+{
+    "query": "What roles did Patrick Henry hold besides being governor of Virginia?",
+    "response": [
+        "doc_10062.txt",
+        "doc_10063.txt",
+        "doc_10065.txt",
+        "doc_10068.txt",
+        "doc_10064.txt"
+    ]
+}

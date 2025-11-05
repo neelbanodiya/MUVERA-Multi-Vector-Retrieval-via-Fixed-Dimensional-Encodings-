@@ -1,0 +1,10 @@
+{
+    "query": "What was Thomas Oliphant known for, besides writing lyrics?",
+    "response": [
+        "doc_20025.txt",
+        "doc_5762.txt",
+        "doc_3129.txt",
+        "doc_14076.txt",
+        "doc_4939.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the Museo di Storia della Scienza located in?",
+    "response": [
+        "doc_14728.txt",
+        "doc_8504.txt",
+        "doc_4557.txt",
+        "doc_2499.txt",
+        "doc_4597.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year was Firehose\u2019s album \u201cFlyin\u2019 the Flannel\u201d released?",
+    "response": [
+        "doc_8467.txt",
+        "doc_20314.txt",
+        "doc_5278.txt",
+        "doc_9871.txt",
+        "doc_8006.txt"
+    ]
+}

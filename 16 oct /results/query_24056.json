@@ -1,0 +1,10 @@
+{
+    "query": "What animal was depicted with the head of the Egyptian god Thoth?",
+    "response": [
+        "doc_13954.txt",
+        "doc_13955.txt",
+        "doc_13953.txt",
+        "doc_13957.txt",
+        "doc_13956.txt"
+    ]
+}

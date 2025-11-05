@@ -1,0 +1,10 @@
+{
+    "query": "What century did an American chess prodigy cross the Atlantic?",
+    "response": [
+        "doc_13838.txt",
+        "doc_8344.txt",
+        "doc_5780.txt",
+        "doc_5859.txt",
+        "doc_20856.txt"
+    ]
+}

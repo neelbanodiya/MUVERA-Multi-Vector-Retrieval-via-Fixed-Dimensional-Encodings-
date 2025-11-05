@@ -1,0 +1,10 @@
+{
+    "query": "Who directed the 1961 film *West Side Story*?",
+    "response": [
+        "doc_8897.txt",
+        "doc_8894.txt",
+        "doc_8896.txt",
+        "doc_8895.txt",
+        "doc_8898.txt"
+    ]
+}

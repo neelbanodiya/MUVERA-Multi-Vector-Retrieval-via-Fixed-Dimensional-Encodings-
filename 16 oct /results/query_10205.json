@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Dwight D. Eisenhower featured on a commemorative silver dollar?",
+    "response": [
+        "doc_5911.txt",
+        "doc_5927.txt",
+        "doc_5912.txt",
+        "doc_5928.txt",
+        "doc_5916.txt"
+    ]
+}

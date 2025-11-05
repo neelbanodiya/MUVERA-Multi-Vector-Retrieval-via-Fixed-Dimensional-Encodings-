@@ -1,0 +1,10 @@
+{
+    "query": "Where is most of the U.S. popcorn grown?",
+    "response": [
+        "doc_23983.txt",
+        "doc_23984.txt",
+        "doc_23980.txt",
+        "doc_23990.txt",
+        "doc_23985.txt"
+    ]
+}

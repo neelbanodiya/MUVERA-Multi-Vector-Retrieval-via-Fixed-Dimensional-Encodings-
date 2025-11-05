@@ -1,0 +1,10 @@
+{
+    "query": "What was J. Edgar Hoover's connection to a hotel in New Orleans?",
+    "response": [
+        "doc_23405.txt",
+        "doc_6841.txt",
+        "doc_23406.txt",
+        "doc_4250.txt",
+        "doc_3913.txt"
+    ]
+}

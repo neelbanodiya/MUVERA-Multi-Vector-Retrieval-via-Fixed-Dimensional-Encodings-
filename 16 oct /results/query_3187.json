@@ -1,0 +1,10 @@
+{
+    "query": "What role did Dick Armey hold in the House leadership prior to 1992?",
+    "response": [
+        "doc_1921.txt",
+        "doc_1932.txt",
+        "doc_1930.txt",
+        "doc_1926.txt",
+        "doc_1923.txt"
+    ]
+}

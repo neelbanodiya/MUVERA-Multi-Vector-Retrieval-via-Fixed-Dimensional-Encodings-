@@ -1,0 +1,10 @@
+{
+    "query": "What type of painting was Mattia Benedetti known for, and where did he primarily work?",
+    "response": [
+        "doc_10759.txt",
+        "doc_3692.txt",
+        "doc_10763.txt",
+        "doc_3689.txt",
+        "doc_10765.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "The EC Treaty provides for the recognition of school education or vocational training \u2013 is this treaty consistently observed across all Member States?",
+    "response": [
+        "doc_1918.txt",
+        "doc_5639.txt",
+        "doc_19052.txt",
+        "doc_19051.txt",
+        "doc_5373.txt"
+    ]
+}

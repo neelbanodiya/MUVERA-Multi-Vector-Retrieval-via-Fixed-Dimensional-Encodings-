@@ -1,0 +1,10 @@
+{
+    "query": "Which cities are featured in several tour packages (Prague, Vienna, and Budapest)?",
+    "response": [
+        "doc_12332.txt",
+        "doc_12333.txt",
+        "doc_12335.txt",
+        "doc_12331.txt",
+        "doc_12334.txt"
+    ]
+}

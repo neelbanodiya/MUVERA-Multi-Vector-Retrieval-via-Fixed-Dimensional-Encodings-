@@ -1,0 +1,10 @@
+{
+    "query": "Who did Luther Vandross record \u201cEndless Love\u201d with?",
+    "response": [
+        "doc_7536.txt",
+        "doc_7544.txt",
+        "doc_7537.txt",
+        "doc_7538.txt",
+        "doc_7539.txt"
+    ]
+}

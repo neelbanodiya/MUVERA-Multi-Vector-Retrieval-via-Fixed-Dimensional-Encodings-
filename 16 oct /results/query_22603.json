@@ -1,0 +1,10 @@
+{
+    "query": "Which NFL team is associated with \u201cMean\u201d Joe Greene?",
+    "response": [
+        "doc_5389.txt",
+        "doc_74.txt",
+        "doc_1221.txt",
+        "doc_2179.txt",
+        "doc_1652.txt"
+    ]
+}

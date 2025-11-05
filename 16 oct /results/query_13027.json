@@ -1,0 +1,10 @@
+{
+    "query": "What is one of the topics Jay-Z addresses in a track mentioned in the passage?",
+    "response": [
+        "doc_14412.txt",
+        "doc_12597.txt",
+        "doc_21972.txt",
+        "doc_3997.txt",
+        "doc_8686.txt"
+    ]
+}

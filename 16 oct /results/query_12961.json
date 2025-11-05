@@ -1,0 +1,10 @@
+{
+    "query": "What genre is the film \u201cBall at Savoy (1936 film)\u201d?",
+    "response": [
+        "doc_7767.txt",
+        "doc_7553.txt",
+        "doc_1887.txt",
+        "doc_8179.txt",
+        "doc_14780.txt"
+    ]
+}

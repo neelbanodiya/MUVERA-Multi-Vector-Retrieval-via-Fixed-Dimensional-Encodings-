@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Philip II assassinated?",
+    "response": [
+        "doc_6110.txt",
+        "doc_20680.txt",
+        "doc_5191.txt",
+        "doc_5198.txt",
+        "doc_20670.txt"
+    ]
+}

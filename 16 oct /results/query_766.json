@@ -1,0 +1,10 @@
+{
+    "query": "What is the location of the Betty Ford Center?",
+    "response": [
+        "doc_433.txt",
+        "doc_434.txt",
+        "doc_2.txt",
+        "doc_11463.txt",
+        "doc_22431.txt"
+    ]
+}

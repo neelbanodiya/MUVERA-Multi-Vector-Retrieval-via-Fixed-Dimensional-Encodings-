@@ -1,0 +1,10 @@
+{
+    "query": "What is the location of Dhaka, the capital city of Bangladesh?",
+    "response": [
+        "doc_22173.txt",
+        "doc_15952.txt",
+        "doc_22177.txt",
+        "doc_22172.txt",
+        "doc_21464.txt"
+    ]
+}

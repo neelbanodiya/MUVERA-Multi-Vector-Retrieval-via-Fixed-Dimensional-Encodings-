@@ -1,0 +1,10 @@
+{
+    "query": "Who was awarded the Silver Buffalo Award and was also a pioneering polar explorer?",
+    "response": [
+        "doc_15823.txt",
+        "doc_15822.txt",
+        "doc_15821.txt",
+        "doc_15827.txt",
+        "doc_15826.txt"
+    ]
+}

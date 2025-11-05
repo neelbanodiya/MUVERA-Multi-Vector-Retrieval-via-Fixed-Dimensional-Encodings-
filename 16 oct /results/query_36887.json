@@ -1,0 +1,10 @@
+{
+    "query": "What flavor profile is associated with Fever Tree mixers?",
+    "response": [
+        "doc_21555.txt",
+        "doc_2722.txt",
+        "doc_21564.txt",
+        "doc_18265.txt",
+        "doc_5249.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What did Henri Matisse say was the source of his color sense?",
+    "response": [
+        "doc_22072.txt",
+        "doc_18326.txt",
+        "doc_3646.txt",
+        "doc_21501.txt",
+        "doc_628.txt"
+    ]
+}

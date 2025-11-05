@@ -1,0 +1,10 @@
+{
+    "query": "What types of art are featured in exhibitions at the Saint Louis Art Museum?",
+    "response": [
+        "doc_6626.txt",
+        "doc_14733.txt",
+        "doc_14739.txt",
+        "doc_20384.txt",
+        "doc_14734.txt"
+    ]
+}

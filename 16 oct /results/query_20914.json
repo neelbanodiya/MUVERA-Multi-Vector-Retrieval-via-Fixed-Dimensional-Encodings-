@@ -1,0 +1,10 @@
+{
+    "query": "Which film directed by Mike Mitchell stars Kelly Preston?",
+    "response": [
+        "doc_12052.txt",
+        "doc_8067.txt",
+        "doc_1812.txt",
+        "doc_7654.txt",
+        "doc_23795.txt"
+    ]
+}

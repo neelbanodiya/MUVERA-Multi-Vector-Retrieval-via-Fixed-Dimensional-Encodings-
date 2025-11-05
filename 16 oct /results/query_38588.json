@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which musical received multiple acting nominations at the Tony Awards in 1980?",
+    "response": [
+        "doc_17912.txt",
+        "doc_22622.txt",
+        "doc_17914.txt",
+        "doc_9835.txt",
+        "doc_1965.txt"
+    ]
+}

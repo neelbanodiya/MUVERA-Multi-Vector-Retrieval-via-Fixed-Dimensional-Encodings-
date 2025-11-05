@@ -1,0 +1,10 @@
+{
+    "query": "What event led to the destruction of nearly all the towns on Crete?",
+    "response": [
+        "doc_12449.txt",
+        "doc_20207.txt",
+        "doc_7565.txt",
+        "doc_5821.txt",
+        "doc_7567.txt"
+    ]
+}

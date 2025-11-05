@@ -1,0 +1,10 @@
+{
+    "query": "What award did Paul McCartney\u2019s 2002 tour receive according to Billboard Magazine?",
+    "response": [
+        "doc_5567.txt",
+        "doc_17914.txt",
+        "doc_17912.txt",
+        "doc_5568.txt",
+        "doc_12010.txt"
+    ]
+}

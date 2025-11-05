@@ -1,0 +1,10 @@
+{
+    "query": "What was Fantomah wearing?",
+    "response": [
+        "doc_1088.txt",
+        "doc_14480.txt",
+        "doc_10945.txt",
+        "doc_1086.txt",
+        "doc_1076.txt"
+    ]
+}

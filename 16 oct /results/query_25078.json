@@ -1,0 +1,10 @@
+{
+    "query": "To whom did Beethoven dedicate his ninth symphony?",
+    "response": [
+        "doc_14550.txt",
+        "doc_14551.txt",
+        "doc_14552.txt",
+        "doc_14554.txt",
+        "doc_14555.txt"
+    ]
+}

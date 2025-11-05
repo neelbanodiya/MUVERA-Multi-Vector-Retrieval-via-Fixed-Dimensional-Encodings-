@@ -1,0 +1,10 @@
+{
+    "query": "Which city established the first secondary school in North America?",
+    "response": [
+        "doc_6613.txt",
+        "doc_6612.txt",
+        "doc_6609.txt",
+        "doc_6607.txt",
+        "doc_6614.txt"
+    ]
+}

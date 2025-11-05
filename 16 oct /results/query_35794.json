@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the ballet company associated with Gasparo Angiolini?",
+    "response": [
+        "doc_15656.txt",
+        "doc_9887.txt",
+        "doc_15664.txt",
+        "doc_15652.txt",
+        "doc_3971.txt"
+    ]
+}

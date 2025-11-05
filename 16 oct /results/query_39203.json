@@ -1,0 +1,10 @@
+{
+    "query": "What countries border the Strait of Hormuz?",
+    "response": [
+        "doc_22947.txt",
+        "doc_22937.txt",
+        "doc_22940.txt",
+        "doc_22943.txt",
+        "doc_22939.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What years did Helmut Schmidt serve as Chancellor of Germany?",
+    "response": [
+        "doc_21730.txt",
+        "doc_21736.txt",
+        "doc_21735.txt",
+        "doc_21731.txt",
+        "doc_21734.txt"
+    ]
+}

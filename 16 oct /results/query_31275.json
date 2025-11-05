@@ -1,0 +1,10 @@
+{
+    "query": "Which radio show were Tom and Ray Magliozzi known as, and what type of awards did it receive?",
+    "response": [
+        "doc_18242.txt",
+        "doc_18243.txt",
+        "doc_484.txt",
+        "doc_9274.txt",
+        "doc_14257.txt"
+    ]
+}

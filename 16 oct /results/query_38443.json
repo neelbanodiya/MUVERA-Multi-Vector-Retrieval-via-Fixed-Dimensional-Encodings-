@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was a notable aspect of Joan Jett\u2019s performance regarding gender and sexual identity?",
+    "response": [
+        "doc_22551.txt",
+        "doc_21602.txt",
+        "doc_7181.txt",
+        "doc_11310.txt",
+        "doc_17879.txt"
+    ]
+}

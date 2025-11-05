@@ -1,0 +1,10 @@
+{
+    "query": "Where did Dennis and the Family sometimes retreat to?",
+    "response": [
+        "doc_9000.txt",
+        "doc_9015.txt",
+        "doc_8997.txt",
+        "doc_8999.txt",
+        "doc_9006.txt"
+    ]
+}

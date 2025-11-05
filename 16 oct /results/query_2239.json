@@ -1,0 +1,10 @@
+{
+    "query": "Which film production company, established by Wicks Walker, produced \u201cSpring Breakers\u201d starring James Franco?",
+    "response": [
+        "doc_1323.txt",
+        "doc_3201.txt",
+        "doc_14778.txt",
+        "doc_22859.txt",
+        "doc_18753.txt"
+    ]
+}

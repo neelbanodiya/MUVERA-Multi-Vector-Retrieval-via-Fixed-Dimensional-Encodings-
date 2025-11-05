@@ -1,0 +1,10 @@
+{
+    "query": "Does the EU know whether these fuels are produced in an environmentally harmful or friendly way?",
+    "response": [
+        "doc_20347.txt",
+        "doc_12155.txt",
+        "doc_1067.txt",
+        "doc_22675.txt",
+        "doc_18032.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what does the Texas Constitution state regarding the right to keep and bear arms?",
+    "response": [
+        "doc_4209.txt",
+        "doc_11004.txt",
+        "doc_4205.txt",
+        "doc_11003.txt",
+        "doc_4217.txt"
+    ]
+}

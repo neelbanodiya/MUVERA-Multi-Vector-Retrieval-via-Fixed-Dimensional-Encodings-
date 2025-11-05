@@ -1,0 +1,10 @@
+{
+    "query": "What material was the statue found on the island of Melos?",
+    "response": [
+        "doc_3870.txt",
+        "doc_3879.txt",
+        "doc_3871.txt",
+        "doc_3876.txt",
+        "doc_3872.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which NFL teams did Lee Riley play for professionally?",
+    "response": [
+        "doc_3576.txt",
+        "doc_6725.txt",
+        "doc_3577.txt",
+        "doc_5391.txt",
+        "doc_9159.txt"
+    ]
+}

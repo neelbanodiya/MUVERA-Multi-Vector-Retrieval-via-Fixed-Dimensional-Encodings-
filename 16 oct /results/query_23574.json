@@ -1,0 +1,10 @@
+{
+    "query": "What poem by Ezra Pound is discussed in the \u201cRHYTHMS IN POETRY\u201d document?",
+    "response": [
+        "doc_20536.txt",
+        "doc_10751.txt",
+        "doc_5509.txt",
+        "doc_22732.txt",
+        "doc_4166.txt"
+    ]
+}

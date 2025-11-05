@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote the novel *Mila 18*?",
+    "response": [
+        "doc_10631.txt",
+        "doc_11486.txt",
+        "doc_10614.txt",
+        "doc_2322.txt",
+        "doc_22248.txt"
+    ]
+}

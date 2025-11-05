@@ -1,0 +1,10 @@
+{
+    "query": "What year was *Back to the Future* released, and what year does *Back to the Future Part II* take place?",
+    "response": [
+        "doc_8389.txt",
+        "doc_8391.txt",
+        "doc_8390.txt",
+        "doc_3983.txt",
+        "doc_16729.txt"
+    ]
+}

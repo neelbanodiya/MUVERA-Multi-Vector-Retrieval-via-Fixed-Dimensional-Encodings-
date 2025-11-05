@@ -1,0 +1,10 @@
+{
+    "query": "What was Jean-Claude Duvalier known by?",
+    "response": [
+        "doc_6129.txt",
+        "doc_6128.txt",
+        "doc_6133.txt",
+        "doc_6135.txt",
+        "doc_6130.txt"
+    ]
+}

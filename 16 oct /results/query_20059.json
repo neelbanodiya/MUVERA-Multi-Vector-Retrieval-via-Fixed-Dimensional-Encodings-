@@ -1,0 +1,10 @@
+{
+    "query": "What river did Leutze use as a model for the painting \u201cWashington Crossing the Delaware\u201d?",
+    "response": [
+        "doc_11577.txt",
+        "doc_11578.txt",
+        "doc_11576.txt",
+        "doc_11582.txt",
+        "doc_11579.txt"
+    ]
+}

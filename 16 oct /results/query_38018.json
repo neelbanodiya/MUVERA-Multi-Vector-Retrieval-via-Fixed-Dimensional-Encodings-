@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Greg Lewis?",
+    "response": [
+        "doc_12734.txt",
+        "doc_7628.txt",
+        "doc_15690.txt",
+        "doc_9997.txt",
+        "doc_15163.txt"
+    ]
+}

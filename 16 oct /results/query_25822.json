@@ -1,0 +1,10 @@
+{
+    "query": "What year was Lindsay Lohan featured on the soap opera *Another World*?",
+    "response": [
+        "doc_4007.txt",
+        "doc_10379.txt",
+        "doc_7070.txt",
+        "doc_17887.txt",
+        "doc_14780.txt"
+    ]
+}

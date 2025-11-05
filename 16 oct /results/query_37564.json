@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between Los Angeles County and Japan, according to the provided documents?",
+    "response": [
+        "doc_22014.txt",
+        "doc_22015.txt",
+        "doc_794.txt",
+        "doc_4686.txt",
+        "doc_10601.txt"
+    ]
+}

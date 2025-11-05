@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Roman Emperor Hadrian squelch the Second Jewish Revolt?",
+    "response": [
+        "doc_18490.txt",
+        "doc_19762.txt",
+        "doc_19771.txt",
+        "doc_19756.txt",
+        "doc_18501.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was the Hollywood Sign originally erected?",
+    "response": [
+        "doc_11750.txt",
+        "doc_11746.txt",
+        "doc_11760.txt",
+        "doc_11749.txt",
+        "doc_11751.txt"
+    ]
+}

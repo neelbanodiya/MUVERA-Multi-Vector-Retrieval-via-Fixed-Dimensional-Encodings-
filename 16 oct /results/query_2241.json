@@ -1,0 +1,10 @@
+{
+    "query": "What type of humor is described as being reminiscent of Buster Keaton?",
+    "response": [
+        "doc_11952.txt",
+        "doc_11951.txt",
+        "doc_19206.txt",
+        "doc_2886.txt",
+        "doc_23303.txt"
+    ]
+}

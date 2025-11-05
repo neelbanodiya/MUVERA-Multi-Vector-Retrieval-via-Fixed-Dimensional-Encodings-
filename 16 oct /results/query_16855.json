@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Weber appear in London?",
+    "response": [
+        "doc_15277.txt",
+        "doc_4042.txt",
+        "doc_17118.txt",
+        "doc_24118.txt",
+        "doc_18954.txt"
+    ]
+}

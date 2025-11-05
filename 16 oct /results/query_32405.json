@@ -1,0 +1,10 @@
+{
+    "query": "What types of situations trigger the activation of the Rapid Reaction Facility?",
+    "response": [
+        "doc_18904.txt",
+        "doc_18903.txt",
+        "doc_24036.txt",
+        "doc_24048.txt",
+        "doc_16441.txt"
+    ]
+}

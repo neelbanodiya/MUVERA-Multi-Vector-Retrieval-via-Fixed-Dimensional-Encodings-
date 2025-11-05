@@ -1,0 +1,10 @@
+{
+    "query": "Which specific European initiative aimed to help audiovisual companies access funding by subsidizing bank guarantees?",
+    "response": [
+        "doc_22986.txt",
+        "doc_17621.txt",
+        "doc_19418.txt",
+        "doc_22981.txt",
+        "doc_23001.txt"
+    ]
+}

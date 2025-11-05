@@ -1,0 +1,10 @@
+{
+    "query": "Which river system is described as the \u201chub of California\u2019s water supply system\u201d?",
+    "response": [
+        "doc_3146.txt",
+        "doc_3144.txt",
+        "doc_3143.txt",
+        "doc_3158.txt",
+        "doc_3147.txt"
+    ]
+}

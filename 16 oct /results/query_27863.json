@@ -1,0 +1,10 @@
+{
+    "query": "What museum is located in Prague, Czech Republic, that honors Antonin Dvorak?",
+    "response": [
+        "doc_8504.txt",
+        "doc_16208.txt",
+        "doc_8505.txt",
+        "doc_16214.txt",
+        "doc_16209.txt"
+    ]
+}

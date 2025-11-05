@@ -1,0 +1,10 @@
+{
+    "query": "What type of boat was used to cross the river in Emanuel Leutze\u2019s painting of Washington Crossing the Delaware?",
+    "response": [
+        "doc_11577.txt",
+        "doc_11576.txt",
+        "doc_11581.txt",
+        "doc_11578.txt",
+        "doc_11580.txt"
+    ]
+}

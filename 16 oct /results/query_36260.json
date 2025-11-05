@@ -1,0 +1,10 @@
+{
+    "query": "What is Mick Jagger planning for the Rolling Stones' 50th anniversary?",
+    "response": [
+        "doc_12174.txt",
+        "doc_21135.txt",
+        "doc_1882.txt",
+        "doc_12130.txt",
+        "doc_5318.txt"
+    ]
+}

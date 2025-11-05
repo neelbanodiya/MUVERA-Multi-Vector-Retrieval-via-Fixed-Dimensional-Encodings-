@@ -1,0 +1,10 @@
+{
+    "query": "What was Amelia Earhart known for accomplishing?",
+    "response": [
+        "doc_9548.txt",
+        "doc_18845.txt",
+        "doc_433.txt",
+        "doc_5777.txt",
+        "doc_20408.txt"
+    ]
+}

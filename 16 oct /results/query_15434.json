@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many individuals were arrested under the Sedition Act?",
+    "response": [
+        "doc_8937.txt",
+        "doc_8938.txt",
+        "doc_16825.txt",
+        "doc_19041.txt",
+        "doc_15257.txt"
+    ]
+}

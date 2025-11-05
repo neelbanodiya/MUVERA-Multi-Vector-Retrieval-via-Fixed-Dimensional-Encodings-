@@ -1,0 +1,10 @@
+{
+    "query": "Which state played a key role in the development of Cairns, building the Babinda Hotel?",
+    "response": [
+        "doc_1765.txt",
+        "doc_1764.txt",
+        "doc_1776.txt",
+        "doc_1778.txt",
+        "doc_1770.txt"
+    ]
+}

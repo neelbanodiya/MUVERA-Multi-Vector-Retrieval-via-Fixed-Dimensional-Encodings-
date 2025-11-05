@@ -1,0 +1,10 @@
+{
+    "query": "When was Philadelphia considered the largest city in Pennsylvania and the first capital of the United States?",
+    "response": [
+        "doc_2711.txt",
+        "doc_2708.txt",
+        "doc_2710.txt",
+        "doc_2713.txt",
+        "doc_2712.txt"
+    ]
+}

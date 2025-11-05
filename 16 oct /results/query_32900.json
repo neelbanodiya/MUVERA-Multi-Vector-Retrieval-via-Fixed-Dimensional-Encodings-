@@ -1,0 +1,10 @@
+{
+    "query": "What team did Jens Voigt play for in 1998?",
+    "response": [
+        "doc_15128.txt",
+        "doc_6528.txt",
+        "doc_3073.txt",
+        "doc_10380.txt",
+        "doc_2671.txt"
+    ]
+}

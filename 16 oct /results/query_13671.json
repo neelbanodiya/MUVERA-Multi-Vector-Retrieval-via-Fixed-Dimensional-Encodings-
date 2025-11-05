@@ -1,0 +1,10 @@
+{
+    "query": "What routes are the vessels operated by the \u201cFlotta sarda\u201d currently serving?",
+    "response": [
+        "doc_14641.txt",
+        "doc_21081.txt",
+        "doc_7963.txt",
+        "doc_15287.txt",
+        "doc_21098.txt"
+    ]
+}

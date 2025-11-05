@@ -1,0 +1,10 @@
+{
+    "query": "In what city does John Berendt\u2019s novel, *Midnight in the Garden of Good and Evil*, primarily take place?",
+    "response": [
+        "doc_9600.txt",
+        "doc_9601.txt",
+        "doc_9599.txt",
+        "doc_9598.txt",
+        "doc_9604.txt"
+    ]
+}

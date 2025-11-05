@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the new game-themed series Nickelodeon is adding?",
+    "response": [
+        "doc_20437.txt",
+        "doc_20440.txt",
+        "doc_20438.txt",
+        "doc_10292.txt",
+        "doc_10865.txt"
+    ]
+}

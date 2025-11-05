@@ -1,0 +1,10 @@
+{
+    "query": "According to the October 2003 Brussels European Council conclusions, did the Council approve a prolongation of the milk quota for the Azores?",
+    "response": [
+        "doc_12031.txt",
+        "doc_17890.txt",
+        "doc_22579.txt",
+        "doc_12932.txt",
+        "doc_13159.txt"
+    ]
+}

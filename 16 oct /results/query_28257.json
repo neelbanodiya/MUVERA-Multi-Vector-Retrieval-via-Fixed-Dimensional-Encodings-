@@ -1,0 +1,10 @@
+{
+    "query": "Besides Scotland, which other countries recognize Saint Andrew as their patron saint?",
+    "response": [
+        "doc_16448.txt",
+        "doc_16459.txt",
+        "doc_16454.txt",
+        "doc_16460.txt",
+        "doc_16451.txt"
+    ]
+}

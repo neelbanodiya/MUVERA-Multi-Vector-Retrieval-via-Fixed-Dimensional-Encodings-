@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the 1960 NFL Draft held?",
+    "response": [
+        "doc_20936.txt",
+        "doc_20937.txt",
+        "doc_24140.txt",
+        "doc_5388.txt",
+        "doc_5389.txt"
+    ]
+}

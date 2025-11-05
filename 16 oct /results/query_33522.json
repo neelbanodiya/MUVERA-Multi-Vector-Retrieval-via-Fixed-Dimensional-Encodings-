@@ -1,0 +1,10 @@
+{
+    "query": "What was the age of Alice Hathaway Lee Roosevelt when her daughter was born?",
+    "response": [
+        "doc_19536.txt",
+        "doc_19538.txt",
+        "doc_19552.txt",
+        "doc_10677.txt",
+        "doc_12671.txt"
+    ]
+}

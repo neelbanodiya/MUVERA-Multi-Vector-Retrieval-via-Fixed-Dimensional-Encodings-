@@ -1,0 +1,10 @@
+{
+    "query": "What specific type of national rules are explicitly excluded from the scope of this Directive?",
+    "response": [
+        "doc_9883.txt",
+        "doc_11798.txt",
+        "doc_18010.txt",
+        "doc_22533.txt",
+        "doc_24037.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the Harlan Ellison collection that includes \u201cMemos from Purgatory,\u201d \u201cShatterday,\u201d and \u201cStalking the Nightmare\u201d?",
+    "response": [
+        "doc_1848.txt",
+        "doc_1311.txt",
+        "doc_2152.txt",
+        "doc_1313.txt",
+        "doc_5091.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what role did Savannah play during the American Revolution?",
+    "response": [
+        "doc_9125.txt",
+        "doc_970.txt",
+        "doc_976.txt",
+        "doc_4507.txt",
+        "doc_14451.txt"
+    ]
+}

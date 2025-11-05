@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, which Muse is specifically associated with the art of dance and song?",
+    "response": [
+        "doc_11998.txt",
+        "doc_11997.txt",
+        "doc_15650.txt",
+        "doc_7656.txt",
+        "doc_12002.txt"
+    ]
+}

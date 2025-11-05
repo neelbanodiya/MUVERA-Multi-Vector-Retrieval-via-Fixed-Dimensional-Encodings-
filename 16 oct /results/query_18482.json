@@ -1,0 +1,10 @@
+{
+    "query": "What role did Jimmy Smits play on the television drama *L.A. Law*?",
+    "response": [
+        "doc_10720.txt",
+        "doc_10719.txt",
+        "doc_10724.txt",
+        "doc_10727.txt",
+        "doc_10903.txt"
+    ]
+}

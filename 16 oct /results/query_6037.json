@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is the central conflict depicted in *The Outsiders*?",
+    "response": [
+        "doc_5238.txt",
+        "doc_20018.txt",
+        "doc_5504.txt",
+        "doc_2678.txt",
+        "doc_4842.txt"
+    ]
+}

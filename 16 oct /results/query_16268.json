@@ -1,0 +1,10 @@
+{
+    "query": "What specific EU legislation provides tax relief for takeovers involving an exchange of shares?",
+    "response": [
+        "doc_9432.txt",
+        "doc_6414.txt",
+        "doc_22385.txt",
+        "doc_17444.txt",
+        "doc_21703.txt"
+    ]
+}

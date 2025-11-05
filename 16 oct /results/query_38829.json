@@ -1,0 +1,10 @@
+{
+    "query": "For which film did Kathy Bates win an Oscar for Best Actress?",
+    "response": [
+        "doc_22744.txt",
+        "doc_22747.txt",
+        "doc_22745.txt",
+        "doc_22746.txt",
+        "doc_12638.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Connecticut ratify the U.S. Constitution?",
+    "response": [
+        "doc_4199.txt",
+        "doc_4200.txt",
+        "doc_4207.txt",
+        "doc_4201.txt",
+        "doc_19845.txt"
+    ]
+}

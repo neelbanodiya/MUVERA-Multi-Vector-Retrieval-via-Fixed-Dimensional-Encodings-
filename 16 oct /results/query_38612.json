@@ -1,0 +1,10 @@
+{
+    "query": "Which defensive line is referenced as being comparable to the \u201cSteel Curtain,\u201d \u201cPurple People Eaters,\u201d or \u201cDoomsday Defense\u201d?",
+    "response": [
+        "doc_9595.txt",
+        "doc_16999.txt",
+        "doc_5091.txt",
+        "doc_1844.txt",
+        "doc_11650.txt"
+    ]
+}

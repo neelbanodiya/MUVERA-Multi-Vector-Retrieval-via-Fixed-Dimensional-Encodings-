@@ -1,0 +1,10 @@
+{
+    "query": "Where does the route of each marathon pass through in Athens?",
+    "response": [
+        "doc_22656.txt",
+        "doc_22652.txt",
+        "doc_22654.txt",
+        "doc_22653.txt",
+        "doc_22660.txt"
+    ]
+}

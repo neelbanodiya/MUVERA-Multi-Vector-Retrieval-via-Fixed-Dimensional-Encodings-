@@ -1,0 +1,10 @@
+{
+    "query": "Which musician suggested Carl write \u201cBlue Suede Shoes\u201d?",
+    "response": [
+        "doc_7859.txt",
+        "doc_2374.txt",
+        "doc_10936.txt",
+        "doc_5598.txt",
+        "doc_6335.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is Pablo Neruda\u2019s nationality?",
+    "response": [
+        "doc_22777.txt",
+        "doc_10682.txt",
+        "doc_13656.txt",
+        "doc_3732.txt",
+        "doc_20059.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Sir Thomas More\u2019s book, *Utopia*, published?",
+    "response": [
+        "doc_15999.txt",
+        "doc_16006.txt",
+        "doc_16003.txt",
+        "doc_16002.txt",
+        "doc_16010.txt"
+    ]
+}

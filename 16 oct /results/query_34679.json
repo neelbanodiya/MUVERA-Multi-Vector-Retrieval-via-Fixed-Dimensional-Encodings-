@@ -1,0 +1,10 @@
+{
+    "query": "What is Dean Smith remembered for, based on the article about him?",
+    "response": [
+        "doc_12834.txt",
+        "doc_19035.txt",
+        "doc_1222.txt",
+        "doc_2172.txt",
+        "doc_12830.txt"
+    ]
+}

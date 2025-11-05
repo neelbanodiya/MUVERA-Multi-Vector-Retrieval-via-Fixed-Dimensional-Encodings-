@@ -1,0 +1,10 @@
+{
+    "query": "Which actor received the Officer of the Order of Arts and Letters at a ceremony?",
+    "response": [
+        "doc_16986.txt",
+        "doc_12642.txt",
+        "doc_22012.txt",
+        "doc_20408.txt",
+        "doc_1834.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which country borders the Persian Gulf to the east via the Strait of Hormuz?",
+    "response": [
+        "doc_22947.txt",
+        "doc_22941.txt",
+        "doc_22939.txt",
+        "doc_22940.txt",
+        "doc_22948.txt"
+    ]
+}

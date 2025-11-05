@@ -1,0 +1,10 @@
+{
+    "query": "What company released the song \u201cWeight Watchers\u201d as a promotional single?",
+    "response": [
+        "doc_13854.txt",
+        "doc_13853.txt",
+        "doc_5370.txt",
+        "doc_5371.txt",
+        "doc_20314.txt"
+    ]
+}

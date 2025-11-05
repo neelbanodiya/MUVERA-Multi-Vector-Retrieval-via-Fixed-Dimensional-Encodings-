@@ -1,0 +1,10 @@
+{
+    "query": "What legal change was Arnold Schwarzenegger seeking to allow him to run for president?",
+    "response": [
+        "doc_18586.txt",
+        "doc_2477.txt",
+        "doc_164.txt",
+        "doc_8571.txt",
+        "doc_23576.txt"
+    ]
+}

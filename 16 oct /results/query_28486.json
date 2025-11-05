@@ -1,0 +1,10 @@
+{
+    "query": "According to the articles, what type of glass is traditionally used for drinks like the French 75?",
+    "response": [
+        "doc_16601.txt",
+        "doc_16602.txt",
+        "doc_16605.txt",
+        "doc_15191.txt",
+        "doc_16603.txt"
+    ]
+}

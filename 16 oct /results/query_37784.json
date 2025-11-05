@@ -1,0 +1,10 @@
+{
+    "query": "What textile is specifically mentioned as originating from Bukhara, Uzbekistan?",
+    "response": [
+        "doc_7258.txt",
+        "doc_6433.txt",
+        "doc_6437.txt",
+        "doc_15766.txt",
+        "doc_20059.txt"
+    ]
+}

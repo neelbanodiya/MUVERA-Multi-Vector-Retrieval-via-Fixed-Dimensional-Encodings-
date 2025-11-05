@@ -1,0 +1,10 @@
+{
+    "query": "What was the origin of the name \"The Sex Pistols\"?",
+    "response": [
+        "doc_11501.txt",
+        "doc_9341.txt",
+        "doc_9342.txt",
+        "doc_20399.txt",
+        "doc_4404.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Commission Communication served as a basis for the European Parliament\u2019s resolution on demographic challenge?",
+    "response": [
+        "doc_5984.txt",
+        "doc_21466.txt",
+        "doc_22877.txt",
+        "doc_17370.txt",
+        "doc_14283.txt"
+    ]
+}

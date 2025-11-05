@@ -1,0 +1,10 @@
+{
+    "query": "What ingredients are included in a vegan meal shared by a Bahamian vegan?",
+    "response": [
+        "doc_4880.txt",
+        "doc_4888.txt",
+        "doc_4898.txt",
+        "doc_8917.txt",
+        "doc_7081.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who was the first native-born Canadian to be sworn in, according to the provided text?",
+    "response": [
+        "doc_21250.txt",
+        "doc_21251.txt",
+        "doc_21266.txt",
+        "doc_21261.txt",
+        "doc_15980.txt"
+    ]
+}

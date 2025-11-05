@@ -1,0 +1,10 @@
+{
+    "query": "What iconic landmarks are located in Managua, Nicaragua?",
+    "response": [
+        "doc_14503.txt",
+        "doc_14502.txt",
+        "doc_14505.txt",
+        "doc_14511.txt",
+        "doc_14504.txt"
+    ]
+}

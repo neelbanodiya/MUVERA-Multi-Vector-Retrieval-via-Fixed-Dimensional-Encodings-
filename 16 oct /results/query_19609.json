@@ -1,0 +1,10 @@
+{
+    "query": "What percentage increase in Official Development Assistance (ODA) did the EU experience between 2000 and 2009?",
+    "response": [
+        "doc_18519.txt",
+        "doc_9137.txt",
+        "doc_4667.txt",
+        "doc_19127.txt",
+        "doc_19129.txt"
+    ]
+}

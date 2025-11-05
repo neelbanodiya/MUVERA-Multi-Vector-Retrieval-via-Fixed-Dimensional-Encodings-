@@ -1,0 +1,10 @@
+{
+    "query": "Who served as Secretary of the Treasury during Washington\u2019s presidency, and what was his role during the Revolutionary War?",
+    "response": [
+        "doc_43.txt",
+        "doc_47.txt",
+        "doc_42.txt",
+        "doc_46.txt",
+        "doc_44.txt"
+    ]
+}

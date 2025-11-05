@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many copies of the \u201cLittle Red Book\u201d were distributed worldwide?",
+    "response": [
+        "doc_8336.txt",
+        "doc_10071.txt",
+        "doc_8337.txt",
+        "doc_12046.txt",
+        "doc_20256.txt"
+    ]
+}

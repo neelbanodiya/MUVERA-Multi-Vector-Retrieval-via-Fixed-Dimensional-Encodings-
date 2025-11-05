@@ -1,0 +1,10 @@
+{
+    "query": "Which actor played Gruesome in the *Dick Tracy Meets Gruesome* VHS release?",
+    "response": [
+        "doc_4874.txt",
+        "doc_4876.txt",
+        "doc_11495.txt",
+        "doc_19273.txt",
+        "doc_19272.txt"
+    ]
+}

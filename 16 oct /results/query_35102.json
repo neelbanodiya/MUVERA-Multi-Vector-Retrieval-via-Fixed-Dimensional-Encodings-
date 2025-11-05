@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is Sappho best known for in her work?",
+    "response": [
+        "doc_20466.txt",
+        "doc_20477.txt",
+        "doc_20472.txt",
+        "doc_20474.txt",
+        "doc_20467.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where was Barack Obama initially greeted upon arrival in Saudi Arabia?",
+    "response": [
+        "doc_15735.txt",
+        "doc_15732.txt",
+        "doc_15727.txt",
+        "doc_16233.txt",
+        "doc_15721.txt"
+    ]
+}

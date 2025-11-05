@@ -1,0 +1,10 @@
+{
+    "query": "What was the European Parliament's resolution date regarding Cesare Battisti\u2019s refusal to extradite from Brazil?",
+    "response": [
+        "doc_164.txt",
+        "doc_163.txt",
+        "doc_3127.txt",
+        "doc_2052.txt",
+        "doc_12932.txt"
+    ]
+}

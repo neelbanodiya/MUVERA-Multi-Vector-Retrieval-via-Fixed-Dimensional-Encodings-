@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary goal of the European Union\u2019s Common Fisheries Policy (CFP)?",
+    "response": [
+        "doc_12110.txt",
+        "doc_8668.txt",
+        "doc_16980.txt",
+        "doc_22159.txt",
+        "doc_4493.txt"
+    ]
+}

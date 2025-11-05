@@ -1,0 +1,10 @@
+{
+    "query": "Which pitcher did Joe DiMaggio describe as the best and fastest he\u2019d ever faced?",
+    "response": [
+        "doc_2362.txt",
+        "doc_2354.txt",
+        "doc_2366.txt",
+        "doc_2353.txt",
+        "doc_2356.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, in which region of Colombia is coffee grown that is less acidic than Medellin coffee?",
+    "response": [
+        "doc_23956.txt",
+        "doc_23959.txt",
+        "doc_23963.txt",
+        "doc_23958.txt",
+        "doc_23957.txt"
+    ]
+}

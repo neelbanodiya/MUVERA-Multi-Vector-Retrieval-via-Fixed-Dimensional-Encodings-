@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the author whose \u201cAndromeda Strain\u201d was reviewed as \u201cCompelling and reasonably executed\u201d?",
+    "response": [
+        "doc_8772.txt",
+        "doc_4147.txt",
+        "doc_3553.txt",
+        "doc_20133.txt",
+        "doc_2157.txt"
+    ]
+}

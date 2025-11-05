@@ -1,0 +1,10 @@
+{
+    "query": "What academic degrees does Molloy College offer?",
+    "response": [
+        "doc_18385.txt",
+        "doc_22509.txt",
+        "doc_3913.txt",
+        "doc_9024.txt",
+        "doc_2854.txt"
+    ]
+}

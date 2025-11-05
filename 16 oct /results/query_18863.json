@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the document titled \u201cMedieval France; a companion to French studies\u201d?",
+    "response": [
+        "doc_14699.txt",
+        "doc_10063.txt",
+        "doc_12463.txt",
+        "doc_17979.txt",
+        "doc_20747.txt"
+    ]
+}

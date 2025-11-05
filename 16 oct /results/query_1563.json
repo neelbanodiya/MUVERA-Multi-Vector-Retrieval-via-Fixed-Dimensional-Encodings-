@@ -1,0 +1,10 @@
+{
+    "query": "For how many years did U.S. officials organize the Berlin Airlift?",
+    "response": [
+        "doc_875.txt",
+        "doc_884.txt",
+        "doc_879.txt",
+        "doc_873.txt",
+        "doc_878.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was Taran Noah Smith\u2019s role in the television show *Home Improvement*?",
+    "response": [
+        "doc_18633.txt",
+        "doc_18627.txt",
+        "doc_18636.txt",
+        "doc_10903.txt",
+        "doc_580.txt"
+    ]
+}

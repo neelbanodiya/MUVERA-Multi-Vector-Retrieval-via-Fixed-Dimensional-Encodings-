@@ -1,0 +1,10 @@
+{
+    "query": "Who was the British Prime Minister who \u201cstonewalled\u201d Ian Smith in 1964?",
+    "response": [
+        "doc_4782.txt",
+        "doc_11481.txt",
+        "doc_5649.txt",
+        "doc_9772.txt",
+        "doc_21253.txt"
+    ]
+}

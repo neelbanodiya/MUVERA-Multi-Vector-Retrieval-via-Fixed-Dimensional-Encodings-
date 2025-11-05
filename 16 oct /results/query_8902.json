@@ -1,0 +1,10 @@
+{
+    "query": "At what altitude is the Chuquicamata open-pit mine located?",
+    "response": [
+        "doc_5141.txt",
+        "doc_5149.txt",
+        "doc_5142.txt",
+        "doc_5147.txt",
+        "doc_5153.txt"
+    ]
+}

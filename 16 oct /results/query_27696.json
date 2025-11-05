@@ -1,0 +1,10 @@
+{
+    "query": "What action is the Commission planning to take regarding the discussions on minimum training duration for oncology, given the current impasse?",
+    "response": [
+        "doc_16105.txt",
+        "doc_7457.txt",
+        "doc_21479.txt",
+        "doc_7872.txt",
+        "doc_133.txt"
+    ]
+}

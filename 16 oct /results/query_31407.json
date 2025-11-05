@@ -1,0 +1,10 @@
+{
+    "query": "Which band produced the album \u201cHolland,\u201d and in what year was it released?",
+    "response": [
+        "doc_9892.txt",
+        "doc_8511.txt",
+        "doc_12716.txt",
+        "doc_22673.txt",
+        "doc_9871.txt"
+    ]
+}

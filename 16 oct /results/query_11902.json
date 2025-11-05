@@ -1,0 +1,10 @@
+{
+    "query": "Which author wrote \u201cThe Robe,\u201d a novel that includes a depiction of the crucifixion of Jesus?",
+    "response": [
+        "doc_6921.txt",
+        "doc_9302.txt",
+        "doc_7532.txt",
+        "doc_12463.txt",
+        "doc_9303.txt"
+    ]
+}

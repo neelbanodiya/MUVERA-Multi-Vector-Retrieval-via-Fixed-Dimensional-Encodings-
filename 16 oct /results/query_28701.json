@@ -1,0 +1,10 @@
+{
+    "query": "What types of marine mammals, besides bottlenose dolphins, are studied by Hal Whitehead\u2019s laboratory?",
+    "response": [
+        "doc_3463.txt",
+        "doc_16725.txt",
+        "doc_3457.txt",
+        "doc_22340.txt",
+        "doc_3458.txt"
+    ]
+}

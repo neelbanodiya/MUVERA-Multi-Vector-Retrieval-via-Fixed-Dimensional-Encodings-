@@ -1,0 +1,10 @@
+{
+    "query": "What was happening in Mexico City that caused people to be rushed from the city?",
+    "response": [
+        "doc_20372.txt",
+        "doc_3124.txt",
+        "doc_20373.txt",
+        "doc_6759.txt",
+        "doc_6075.txt"
+    ]
+}

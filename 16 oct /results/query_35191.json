@@ -1,0 +1,10 @@
+{
+    "query": "Which groups were represented in the debate regarding the political situation in Honduras?",
+    "response": [
+        "doc_20524.txt",
+        "doc_20518.txt",
+        "doc_34.txt",
+        "doc_17369.txt",
+        "doc_19590.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, for which film did Joe Pesci win an award in 1990?",
+    "response": [
+        "doc_18479.txt",
+        "doc_18482.txt",
+        "doc_18484.txt",
+        "doc_18481.txt",
+        "doc_23277.txt"
+    ]
+}

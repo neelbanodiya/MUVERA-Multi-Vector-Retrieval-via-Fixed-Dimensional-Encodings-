@@ -1,0 +1,10 @@
+{
+    "query": "What are \u201cthe dogs\u201d that Antony refers to?",
+    "response": [
+        "doc_23176.txt",
+        "doc_23177.txt",
+        "doc_9893.txt",
+        "doc_21575.txt",
+        "doc_21299.txt"
+    ]
+}

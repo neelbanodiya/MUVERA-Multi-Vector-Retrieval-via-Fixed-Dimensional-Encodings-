@@ -1,0 +1,10 @@
+{
+    "query": "What television show is referenced as an \u201cA-Team\u201d?",
+    "response": [
+        "doc_12761.txt",
+        "doc_20311.txt",
+        "doc_3488.txt",
+        "doc_5394.txt",
+        "doc_9436.txt"
+    ]
+}

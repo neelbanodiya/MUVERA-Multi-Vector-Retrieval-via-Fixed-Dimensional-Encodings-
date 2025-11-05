@@ -1,0 +1,10 @@
+{
+    "query": "What two legal procedures did the Commission initiate regarding the Pekao/BPH case?",
+    "response": [
+        "doc_10500.txt",
+        "doc_16948.txt",
+        "doc_3880.txt",
+        "doc_8051.txt",
+        "doc_20105.txt"
+    ]
+}

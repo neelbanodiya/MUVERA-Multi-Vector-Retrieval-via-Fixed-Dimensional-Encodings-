@@ -1,0 +1,10 @@
+{
+    "query": "Which novels are specifically mentioned as early versions of works by Jane Austen?",
+    "response": [
+        "doc_2320.txt",
+        "doc_2321.txt",
+        "doc_2317.txt",
+        "doc_2322.txt",
+        "doc_2334.txt"
+    ]
+}

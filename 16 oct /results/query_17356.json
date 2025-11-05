@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided information, what was the approximate number of American soldiers involved in the attack on York in 1813?",
+    "response": [
+        "doc_10419.txt",
+        "doc_10052.txt",
+        "doc_10049.txt",
+        "doc_10053.txt",
+        "doc_10414.txt"
+    ]
+}

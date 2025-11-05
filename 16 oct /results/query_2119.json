@@ -1,0 +1,10 @@
+{
+    "query": "How much has the European Union committed to the International Fund for Ireland since 1989?",
+    "response": [
+        "doc_1255.txt",
+        "doc_17605.txt",
+        "doc_17551.txt",
+        "doc_23674.txt",
+        "doc_22712.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what is one of the lines from Emily Dickinson\u2019s poetry?",
+    "response": [
+        "doc_5509.txt",
+        "doc_5513.txt",
+        "doc_5516.txt",
+        "doc_5514.txt",
+        "doc_16749.txt"
+    ]
+}

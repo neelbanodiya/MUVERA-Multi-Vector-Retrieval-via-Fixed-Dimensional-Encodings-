@@ -1,0 +1,10 @@
+{
+    "query": "What nightclub was Sergeant Sergio Sanchez visiting when he was shot?",
+    "response": [
+        "doc_6759.txt",
+        "doc_4583.txt",
+        "doc_21173.txt",
+        "doc_18155.txt",
+        "doc_9017.txt"
+    ]
+}

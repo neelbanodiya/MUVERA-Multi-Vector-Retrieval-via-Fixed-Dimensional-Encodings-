@@ -1,0 +1,10 @@
+{
+    "query": "According to one document, *P. knowlesi* was found in Bonobono?",
+    "response": [
+        "doc_5563.txt",
+        "doc_5562.txt",
+        "doc_3870.txt",
+        "doc_12227.txt",
+        "doc_9183.txt"
+    ]
+}

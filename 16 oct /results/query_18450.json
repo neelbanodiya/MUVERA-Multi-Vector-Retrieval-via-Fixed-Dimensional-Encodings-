@@ -1,0 +1,10 @@
+{
+    "query": "What is the state motto of North Carolina?",
+    "response": [
+        "doc_10699.txt",
+        "doc_8784.txt",
+        "doc_10703.txt",
+        "doc_10702.txt",
+        "doc_2257.txt"
+    ]
+}

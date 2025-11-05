@@ -1,0 +1,10 @@
+{
+    "query": "What is a key difference between CT scans and MRI scans, according to the text?",
+    "response": [
+        "doc_17452.txt",
+        "doc_17447.txt",
+        "doc_17464.txt",
+        "doc_17446.txt",
+        "doc_4323.txt"
+    ]
+}

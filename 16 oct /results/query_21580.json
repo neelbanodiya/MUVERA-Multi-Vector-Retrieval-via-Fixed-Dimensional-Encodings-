@@ -1,0 +1,10 @@
+{
+    "query": "When did Ralph Houk resign as manager of the Yankees?",
+    "response": [
+        "doc_12432.txt",
+        "doc_12438.txt",
+        "doc_12439.txt",
+        "doc_11228.txt",
+        "doc_12433.txt"
+    ]
+}

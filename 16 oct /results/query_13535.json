@@ -1,0 +1,10 @@
+{
+    "query": "What materials were used to imitate a French bobbin lace, as referenced in one of the linked documents?",
+    "response": [
+        "doc_12597.txt",
+        "doc_19708.txt",
+        "doc_19205.txt",
+        "doc_10191.txt",
+        "doc_2950.txt"
+    ]
+}

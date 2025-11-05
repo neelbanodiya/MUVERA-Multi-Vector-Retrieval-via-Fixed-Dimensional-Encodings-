@@ -1,0 +1,10 @@
+{
+    "query": "What job did Donald Young hold involving a tugboat and barge operation?",
+    "response": [
+        "doc_23670.txt",
+        "doc_3190.txt",
+        "doc_3239.txt",
+        "doc_3240.txt",
+        "doc_2420.txt"
+    ]
+}

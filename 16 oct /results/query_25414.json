@@ -1,0 +1,10 @@
+{
+    "query": "What types of art are featured at The Cloisters?",
+    "response": [
+        "doc_20382.txt",
+        "doc_14728.txt",
+        "doc_20384.txt",
+        "doc_20379.txt",
+        "doc_20383.txt"
+    ]
+}

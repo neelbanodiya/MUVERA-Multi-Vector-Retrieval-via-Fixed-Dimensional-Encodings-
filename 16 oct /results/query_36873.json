@@ -1,0 +1,10 @@
+{
+    "query": "In what year was *The Big Sleep* first published as a novel?",
+    "response": [
+        "doc_21538.txt",
+        "doc_21534.txt",
+        "doc_21535.txt",
+        "doc_21530.txt",
+        "doc_21529.txt"
+    ]
+}

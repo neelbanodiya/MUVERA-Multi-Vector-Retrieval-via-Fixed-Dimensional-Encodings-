@@ -1,0 +1,10 @@
+{
+    "query": "How many contracts related to Eurojus legal correspondents have the Commission already signed?",
+    "response": [
+        "doc_9301.txt",
+        "doc_466.txt",
+        "doc_11102.txt",
+        "doc_2740.txt",
+        "doc_2254.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the book that details the lives of Roger Williamson, Tony Brise, and Tom Pryce?",
+    "response": [
+        "doc_9401.txt",
+        "doc_18378.txt",
+        "doc_8516.txt",
+        "doc_20538.txt",
+        "doc_17755.txt"
+    ]
+}

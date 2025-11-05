@@ -1,0 +1,10 @@
+{
+    "query": "Which hotels are located near the Basilica de la Macarena in Seville?",
+    "response": [
+        "doc_17951.txt",
+        "doc_17949.txt",
+        "doc_17950.txt",
+        "doc_17953.txt",
+        "doc_17948.txt"
+    ]
+}

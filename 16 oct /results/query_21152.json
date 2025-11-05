@@ -1,0 +1,10 @@
+{
+    "query": "What action might the Commission take if a deadline isn't met?",
+    "response": [
+        "doc_13368.txt",
+        "doc_19066.txt",
+        "doc_13228.txt",
+        "doc_13303.txt",
+        "doc_13355.txt"
+    ]
+}

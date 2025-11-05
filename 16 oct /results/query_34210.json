@@ -1,0 +1,10 @@
+{
+    "query": "What legal-themed film was released in 1997 featuring John Grisham?",
+    "response": [
+        "doc_19881.txt",
+        "doc_19886.txt",
+        "doc_19877.txt",
+        "doc_16218.txt",
+        "doc_22830.txt"
+    ]
+}

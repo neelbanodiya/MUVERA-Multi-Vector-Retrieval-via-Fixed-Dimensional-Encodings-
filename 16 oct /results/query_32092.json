@@ -1,0 +1,10 @@
+{
+    "query": "What color is the third jersey of the Belgium national soccer team?",
+    "response": [
+        "doc_16876.txt",
+        "doc_18704.txt",
+        "doc_16875.txt",
+        "doc_18708.txt",
+        "doc_16877.txt"
+    ]
+}

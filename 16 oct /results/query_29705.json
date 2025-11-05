@@ -1,0 +1,10 @@
+{
+    "query": "For how long are agreements with the Czech Republic, Bulgaria, and Romania expected to last?",
+    "response": [
+        "doc_17263.txt",
+        "doc_17262.txt",
+        "doc_4658.txt",
+        "doc_17343.txt",
+        "doc_1271.txt"
+    ]
+}

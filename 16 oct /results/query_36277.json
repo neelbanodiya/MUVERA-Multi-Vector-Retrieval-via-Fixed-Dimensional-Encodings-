@@ -1,0 +1,10 @@
+{
+    "query": "Which human rights organization in Morocco is supported by the Commission?",
+    "response": [
+        "doc_21150.txt",
+        "doc_21151.txt",
+        "doc_4235.txt",
+        "doc_19590.txt",
+        "doc_15263.txt"
+    ]
+}

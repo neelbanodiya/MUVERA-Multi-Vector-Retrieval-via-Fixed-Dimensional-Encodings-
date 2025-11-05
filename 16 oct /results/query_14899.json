@@ -1,0 +1,10 @@
+{
+    "query": "What was stored in the Schatzkammer of the Habsburgs?",
+    "response": [
+        "doc_8640.txt",
+        "doc_8649.txt",
+        "doc_8648.txt",
+        "doc_8641.txt",
+        "doc_8647.txt"
+    ]
+}

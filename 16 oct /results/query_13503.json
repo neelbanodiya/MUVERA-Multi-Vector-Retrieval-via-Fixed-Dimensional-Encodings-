@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, who was J.M. Barrie\u2019s favorite actor?",
+    "response": [
+        "doc_11916.txt",
+        "doc_4463.txt",
+        "doc_623.txt",
+        "doc_20131.txt",
+        "doc_20419.txt"
+    ]
+}

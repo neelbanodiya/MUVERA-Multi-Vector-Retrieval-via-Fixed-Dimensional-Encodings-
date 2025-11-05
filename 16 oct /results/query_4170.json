@@ -1,0 +1,10 @@
+{
+    "query": "What was the amount spent on renovations at Two Trees\u2019 50 West 23rd Street?",
+    "response": [
+        "doc_16565.txt",
+        "doc_16630.txt",
+        "doc_669.txt",
+        "doc_3656.txt",
+        "doc_18420.txt"
+    ]
+}

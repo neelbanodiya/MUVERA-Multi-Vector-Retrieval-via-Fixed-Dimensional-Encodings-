@@ -1,0 +1,10 @@
+{
+    "query": "What is the year of the movie \"Kony 2012\"?",
+    "response": [
+        "doc_1893.txt",
+        "doc_6879.txt",
+        "doc_7546.txt",
+        "doc_8894.txt",
+        "doc_18373.txt"
+    ]
+}

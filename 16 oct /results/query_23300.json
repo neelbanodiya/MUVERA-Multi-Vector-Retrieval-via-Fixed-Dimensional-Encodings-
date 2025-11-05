@@ -1,0 +1,10 @@
+{
+    "query": "What was the Battle of Derna, and when did it occur?",
+    "response": [
+        "doc_1483.txt",
+        "doc_193.txt",
+        "doc_207.txt",
+        "doc_19974.txt",
+        "doc_192.txt"
+    ]
+}

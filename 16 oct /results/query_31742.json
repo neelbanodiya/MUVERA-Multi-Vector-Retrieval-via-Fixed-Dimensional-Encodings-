@@ -1,0 +1,10 @@
+{
+    "query": "In what city is the \u201cSampan\u201d newspaper based?",
+    "response": [
+        "doc_18509.txt",
+        "doc_18510.txt",
+        "doc_22773.txt",
+        "doc_20650.txt",
+        "doc_23497.txt"
+    ]
+}

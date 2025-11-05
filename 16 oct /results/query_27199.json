@@ -1,0 +1,10 @@
+{
+    "query": "According to the Disaster Management Center, what was the prevailing wind condition before Tropical Cyclone Roanu made landfall?",
+    "response": [
+        "doc_15800.txt",
+        "doc_15795.txt",
+        "doc_22949.txt",
+        "doc_22950.txt",
+        "doc_1282.txt"
+    ]
+}

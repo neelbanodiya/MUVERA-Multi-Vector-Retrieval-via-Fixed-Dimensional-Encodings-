@@ -1,0 +1,10 @@
+{
+    "query": "In what year did John Barrymore steal a totem pole from an Alaskan village?",
+    "response": [
+        "doc_23195.txt",
+        "doc_670.txt",
+        "doc_4975.txt",
+        "doc_15767.txt",
+        "doc_16255.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which television series, besides NYPD Blue, did Dennis Franz star in and receive critical acclaim for?",
+    "response": [
+        "doc_5602.txt",
+        "doc_5606.txt",
+        "doc_5596.txt",
+        "doc_5601.txt",
+        "doc_5604.txt"
+    ]
+}

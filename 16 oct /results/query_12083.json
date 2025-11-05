@@ -1,0 +1,10 @@
+{
+    "query": "According to the NRA, what prompted the founding of the organization?",
+    "response": [
+        "doc_8679.txt",
+        "doc_19128.txt",
+        "doc_6833.txt",
+        "doc_3215.txt",
+        "doc_17998.txt"
+    ]
+}

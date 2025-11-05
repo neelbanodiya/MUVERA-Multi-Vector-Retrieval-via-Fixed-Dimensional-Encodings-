@@ -1,0 +1,10 @@
+{
+    "query": "Who painted the work \u201cFrench artist Jules Laure (1806-1861) painted this work in 1837\u201d?",
+    "response": [
+        "doc_4284.txt",
+        "doc_4278.txt",
+        "doc_15475.txt",
+        "doc_21509.txt",
+        "doc_22070.txt"
+    ]
+}

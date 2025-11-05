@@ -1,0 +1,10 @@
+{
+    "query": "How many times did Pierce Brosnan portray James Bond according to the provided information?",
+    "response": [
+        "doc_23809.txt",
+        "doc_23804.txt",
+        "doc_23805.txt",
+        "doc_17073.txt",
+        "doc_9795.txt"
+    ]
+}

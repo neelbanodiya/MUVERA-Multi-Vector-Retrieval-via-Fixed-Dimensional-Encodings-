@@ -1,0 +1,10 @@
+{
+    "query": "What musical productions are mentioned in the provided text, specifically referencing a setting in Anatevka?",
+    "response": [
+        "doc_323.txt",
+        "doc_5252.txt",
+        "doc_5278.txt",
+        "doc_3971.txt",
+        "doc_20896.txt"
+    ]
+}

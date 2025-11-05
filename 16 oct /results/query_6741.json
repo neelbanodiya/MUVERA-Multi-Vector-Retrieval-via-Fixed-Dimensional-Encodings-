@@ -1,0 +1,10 @@
+{
+    "query": "Who is credited with adapting *Rosemary's Baby* into a screenplay?",
+    "response": [
+        "doc_3863.txt",
+        "doc_12639.txt",
+        "doc_9792.txt",
+        "doc_1812.txt",
+        "doc_3866.txt"
+    ]
+}

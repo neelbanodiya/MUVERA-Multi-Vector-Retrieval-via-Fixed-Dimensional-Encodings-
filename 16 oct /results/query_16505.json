@@ -1,0 +1,10 @@
+{
+    "query": "What was the total budget allocated for a special programme for the northern part of Cyprus?",
+    "response": [
+        "doc_9589.txt",
+        "doc_5076.txt",
+        "doc_22192.txt",
+        "doc_17569.txt",
+        "doc_9493.txt"
+    ]
+}

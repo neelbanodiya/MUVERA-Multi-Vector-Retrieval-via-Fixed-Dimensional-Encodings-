@@ -1,0 +1,10 @@
+{
+    "query": "Whom did they meet in the US administration?",
+    "response": [
+        "doc_8028.txt",
+        "doc_15729.txt",
+        "doc_12518.txt",
+        "doc_10906.txt",
+        "doc_8032.txt"
+    ]
+}

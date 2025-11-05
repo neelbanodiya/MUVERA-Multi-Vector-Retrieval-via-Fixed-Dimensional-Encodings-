@@ -1,0 +1,10 @@
+{
+    "query": "What words contain the sequence \u201cCole\u201d?",
+    "response": [
+        "doc_9046.txt",
+        "doc_12379.txt",
+        "doc_2883.txt",
+        "doc_9049.txt",
+        "doc_9043.txt"
+    ]
+}

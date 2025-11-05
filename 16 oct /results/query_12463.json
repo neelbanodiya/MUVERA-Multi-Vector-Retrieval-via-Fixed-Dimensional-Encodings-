@@ -1,0 +1,10 @@
+{
+    "query": "What steps had Angola taken regarding transparency, according to the text?",
+    "response": [
+        "doc_16483.txt",
+        "doc_19121.txt",
+        "doc_9472.txt",
+        "doc_2026.txt",
+        "doc_5219.txt"
+    ]
+}

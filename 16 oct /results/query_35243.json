@@ -1,0 +1,10 @@
+{
+    "query": "Which sub-genre of fiction does the chapter on \u201cCrime Fiction\u201d explore, citing *Oliver Twist* as an example?",
+    "response": [
+        "doc_10388.txt",
+        "doc_14547.txt",
+        "doc_20495.txt",
+        "doc_21755.txt",
+        "doc_12597.txt"
+    ]
+}

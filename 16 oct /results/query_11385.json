@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the first public school in America that was founded in Boston?",
+    "response": [
+        "doc_6607.txt",
+        "doc_6609.txt",
+        "doc_6612.txt",
+        "doc_6608.txt",
+        "doc_6613.txt"
+    ]
+}

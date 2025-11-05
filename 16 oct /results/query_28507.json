@@ -1,0 +1,10 @@
+{
+    "query": "Who replaced Paul Wellstone on the Minnesota Senate ballot in 2002?",
+    "response": [
+        "doc_16610.txt",
+        "doc_16620.txt",
+        "doc_16615.txt",
+        "doc_16612.txt",
+        "doc_16611.txt"
+    ]
+}

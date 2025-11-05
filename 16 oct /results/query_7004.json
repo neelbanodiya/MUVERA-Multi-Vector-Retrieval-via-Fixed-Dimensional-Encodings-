@@ -1,0 +1,10 @@
+{
+    "query": "How can the Commission improve the quality and completeness of data used for the Scoreboard, as highlighted in the passage?",
+    "response": [
+        "doc_4011.txt",
+        "doc_14945.txt",
+        "doc_22936.txt",
+        "doc_14944.txt",
+        "doc_4013.txt"
+    ]
+}

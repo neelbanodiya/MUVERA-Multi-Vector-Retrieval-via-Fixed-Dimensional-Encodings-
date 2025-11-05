@@ -1,0 +1,10 @@
+{
+    "query": "What types of events are held in Wagga Wagga, according to one of the linked articles?",
+    "response": [
+        "doc_17233.txt",
+        "doc_4482.txt",
+        "doc_12308.txt",
+        "doc_15353.txt",
+        "doc_18075.txt"
+    ]
+}

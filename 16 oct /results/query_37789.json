@@ -1,0 +1,10 @@
+{
+    "query": "Which international agreements are referenced in relation to the Black Sea?",
+    "response": [
+        "doc_22158.txt",
+        "doc_22159.txt",
+        "doc_22161.txt",
+        "doc_15948.txt",
+        "doc_8385.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to one article, how much revenue did taxes on pulque provide to the Spanish Crown?",
+    "response": [
+        "doc_10217.txt",
+        "doc_10372.txt",
+        "doc_1010.txt",
+        "doc_4336.txt",
+        "doc_18212.txt"
+    ]
+}

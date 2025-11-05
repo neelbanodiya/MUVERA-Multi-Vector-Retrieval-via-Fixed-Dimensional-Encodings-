@@ -1,0 +1,10 @@
+{
+    "query": "What types of expenses are covered by the appropriation for \u201cinsurance not specifically provided for in another Item\u201d?",
+    "response": [
+        "doc_22218.txt",
+        "doc_22214.txt",
+        "doc_22211.txt",
+        "doc_4502.txt",
+        "doc_14544.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the maximum wind speed associated with Hurricane Matthew, as reported in several sources?",
+    "response": [
+        "doc_4932.txt",
+        "doc_15795.txt",
+        "doc_5015.txt",
+        "doc_22949.txt",
+        "doc_14023.txt"
+    ]
+}

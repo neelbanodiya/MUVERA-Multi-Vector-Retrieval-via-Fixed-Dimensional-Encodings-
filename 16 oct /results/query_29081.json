@@ -1,0 +1,10 @@
+{
+    "query": "According to the Environment Committee, what should be displayed on a label for vodka produced from ingredients other than cereals, potatoes, or molasses?",
+    "response": [
+        "doc_16947.txt",
+        "doc_17269.txt",
+        "doc_17268.txt",
+        "doc_5627.txt",
+        "doc_21563.txt"
+    ]
+}

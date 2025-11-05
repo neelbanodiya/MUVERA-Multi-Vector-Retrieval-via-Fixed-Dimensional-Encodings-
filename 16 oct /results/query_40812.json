@@ -1,0 +1,10 @@
+{
+    "query": "What languages are Urdu and Hindi related to, and what is their common ancestor?",
+    "response": [
+        "doc_23861.txt",
+        "doc_23849.txt",
+        "doc_23855.txt",
+        "doc_23858.txt",
+        "doc_23853.txt"
+    ]
+}

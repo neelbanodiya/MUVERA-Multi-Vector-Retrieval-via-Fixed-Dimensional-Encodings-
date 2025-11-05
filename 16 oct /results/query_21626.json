@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, who created the statue in the Altar to Liberty at Green-Wood Cemetery?",
+    "response": [
+        "doc_22811.txt",
+        "doc_2603.txt",
+        "doc_23694.txt",
+        "doc_5422.txt",
+        "doc_9303.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, what was the outcome of the referendum held on April 1, 1979 in Iran?",
+    "response": [
+        "doc_9574.txt",
+        "doc_9575.txt",
+        "doc_9572.txt",
+        "doc_9580.txt",
+        "doc_9579.txt"
+    ]
+}

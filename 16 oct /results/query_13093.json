@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cThe Curse of the Cat People\u201d released?",
+    "response": [
+        "doc_1231.txt",
+        "doc_7652.txt",
+        "doc_1229.txt",
+        "doc_8179.txt",
+        "doc_17031.txt"
+    ]
+}

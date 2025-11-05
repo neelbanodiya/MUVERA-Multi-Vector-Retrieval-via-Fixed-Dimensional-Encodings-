@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Patti Lupone star in a Broadway revival of a musical?",
+    "response": [
+        "doc_22626.txt",
+        "doc_22622.txt",
+        "doc_17921.txt",
+        "doc_9826.txt",
+        "doc_17923.txt"
+    ]
+}

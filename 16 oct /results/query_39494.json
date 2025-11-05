@@ -1,0 +1,10 @@
+{
+    "query": "Which six pilot countries were involved in discussions related to the EU\u2019s response to situations of fragility?",
+    "response": [
+        "doc_23113.txt",
+        "doc_23112.txt",
+        "doc_15493.txt",
+        "doc_6374.txt",
+        "doc_4751.txt"
+    ]
+}

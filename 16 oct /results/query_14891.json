@@ -1,0 +1,10 @@
+{
+    "query": "What area does the Hofburg Imperial Palace cover?",
+    "response": [
+        "doc_8633.txt",
+        "doc_8634.txt",
+        "doc_8637.txt",
+        "doc_8646.txt",
+        "doc_8642.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What are the standard ingredients in a Caesar salad?",
+    "response": [
+        "doc_9713.txt",
+        "doc_9723.txt",
+        "doc_9712.txt",
+        "doc_9729.txt",
+        "doc_9720.txt"
+    ]
+}

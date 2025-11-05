@@ -1,0 +1,10 @@
+{
+    "query": "What award did Jon Stephen Cleary receive from the Sydney Daily Mirror?",
+    "response": [
+        "doc_1011.txt",
+        "doc_18244.txt",
+        "doc_14424.txt",
+        "doc_10556.txt",
+        "doc_2264.txt"
+    ]
+}

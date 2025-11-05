@@ -1,0 +1,10 @@
+{
+    "query": "What type of procedure did the Commission use to refer the case?",
+    "response": [
+        "doc_20818.txt",
+        "doc_20844.txt",
+        "doc_20819.txt",
+        "doc_23613.txt",
+        "doc_20748.txt"
+    ]
+}

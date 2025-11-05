@@ -1,0 +1,10 @@
+{
+    "query": "What is Parliament requesting regarding the Framework Agreement between the Commission and the European Parliament?",
+    "response": [
+        "doc_19804.txt",
+        "doc_13231.txt",
+        "doc_8385.txt",
+        "doc_13346.txt",
+        "doc_13372.txt"
+    ]
+}

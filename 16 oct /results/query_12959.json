@@ -1,0 +1,10 @@
+{
+    "query": "What film directed by Francis Ford Coppola is mentioned in the provided links?",
+    "response": [
+        "doc_2231.txt",
+        "doc_7766.txt",
+        "doc_5156.txt",
+        "doc_15484.txt",
+        "doc_14685.txt"
+    ]
+}

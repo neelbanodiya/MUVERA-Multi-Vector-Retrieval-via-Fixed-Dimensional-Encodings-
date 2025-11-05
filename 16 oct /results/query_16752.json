@@ -1,0 +1,10 @@
+{
+    "query": "Who directed the original 1976 French film, \u201cPardon Mon Affaire,\u201d which \u201cThe Woman in Red\u201d is based on?",
+    "response": [
+        "doc_9705.txt",
+        "doc_18753.txt",
+        "doc_4587.txt",
+        "doc_21487.txt",
+        "doc_18761.txt"
+    ]
+}

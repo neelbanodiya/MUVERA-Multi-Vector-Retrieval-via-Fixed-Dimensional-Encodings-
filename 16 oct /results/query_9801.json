@@ -1,0 +1,10 @@
+{
+    "query": "Which countries are currently outside the Common rules and minimum standards for the return of illegal immigrants within the EU?",
+    "response": [
+        "doc_5652.txt",
+        "doc_3793.txt",
+        "doc_2740.txt",
+        "doc_12153.txt",
+        "doc_5074.txt"
+    ]
+}

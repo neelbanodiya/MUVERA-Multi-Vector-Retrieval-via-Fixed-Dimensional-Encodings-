@@ -1,0 +1,10 @@
+{
+    "query": "Who took over the Versace name after Gianni Versace?",
+    "response": [
+        "doc_6730.txt",
+        "doc_2636.txt",
+        "doc_23598.txt",
+        "doc_4274.txt",
+        "doc_16127.txt"
+    ]
+}

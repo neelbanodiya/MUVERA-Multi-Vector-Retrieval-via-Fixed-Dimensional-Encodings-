@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary religious affiliation of the majority of African slaves in the Indian region mentioned in one of the provided links?",
+    "response": [
+        "doc_6834.txt",
+        "doc_6833.txt",
+        "doc_11060.txt",
+        "doc_8785.txt",
+        "doc_1298.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the proposed increase in the EU budget, expressed in EUR?",
+    "response": [
+        "doc_22187.txt",
+        "doc_8795.txt",
+        "doc_17565.txt",
+        "doc_17566.txt",
+        "doc_15081.txt"
+    ]
+}

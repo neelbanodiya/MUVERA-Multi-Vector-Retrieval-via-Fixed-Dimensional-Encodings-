@@ -1,0 +1,10 @@
+{
+    "query": "What type of accommodation is mentioned in relation to short-term rentals in New Orleans?",
+    "response": [
+        "doc_6850.txt",
+        "doc_6847.txt",
+        "doc_23406.txt",
+        "doc_23405.txt",
+        "doc_6846.txt"
+    ]
+}

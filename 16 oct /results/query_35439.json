@@ -1,0 +1,10 @@
+{
+    "query": "Which company chartered the tanker \u2018Probo Koala\u2019?",
+    "response": [
+        "doc_9779.txt",
+        "doc_20648.txt",
+        "doc_10818.txt",
+        "doc_12225.txt",
+        "doc_4413.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what century did blue and white Chinese porcelain first become popular in China?",
+    "response": [
+        "doc_15835.txt",
+        "doc_15834.txt",
+        "doc_15838.txt",
+        "doc_15833.txt",
+        "doc_15843.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Chris Mole become the Member of Parliament for Ipswich?",
+    "response": [
+        "doc_9771.txt",
+        "doc_21070.txt",
+        "doc_9772.txt",
+        "doc_1019.txt",
+        "doc_1768.txt"
+    ]
+}

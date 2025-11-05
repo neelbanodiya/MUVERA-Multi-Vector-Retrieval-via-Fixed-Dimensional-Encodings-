@@ -1,0 +1,10 @@
+{
+    "query": "What was Gordie Howe's record regarding scoring goals during his NHL career?",
+    "response": [
+        "doc_15537.txt",
+        "doc_1997.txt",
+        "doc_12779.txt",
+        "doc_1995.txt",
+        "doc_1999.txt"
+    ]
+}

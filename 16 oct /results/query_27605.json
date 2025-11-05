@@ -1,0 +1,10 @@
+{
+    "query": "What happened in April 2001 involving a U.S. plane and a Chinese fighter jet?",
+    "response": [
+        "doc_16037.txt",
+        "doc_16036.txt",
+        "doc_16038.txt",
+        "doc_16042.txt",
+        "doc_16857.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What country is Montserrat a part of, according to the scientific ranking data?",
+    "response": [
+        "doc_3666.txt",
+        "doc_3667.txt",
+        "doc_4336.txt",
+        "doc_23535.txt",
+        "doc_23533.txt"
+    ]
+}

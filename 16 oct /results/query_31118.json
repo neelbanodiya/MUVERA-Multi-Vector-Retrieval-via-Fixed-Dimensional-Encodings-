@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the trail that links five states and passes through Glacier National Park?",
+    "response": [
+        "doc_18139.txt",
+        "doc_18129.txt",
+        "doc_18128.txt",
+        "doc_18131.txt",
+        "doc_18141.txt"
+    ]
+}

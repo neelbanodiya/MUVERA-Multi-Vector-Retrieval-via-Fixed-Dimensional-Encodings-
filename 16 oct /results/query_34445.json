@@ -1,0 +1,10 @@
+{
+    "query": "What treaty was the report on the perspectives for developing civil dialogue under the Treaty of Lisbon based on?",
+    "response": [
+        "doc_20030.txt",
+        "doc_21816.txt",
+        "doc_15026.txt",
+        "doc_18308.txt",
+        "doc_21916.txt"
+    ]
+}

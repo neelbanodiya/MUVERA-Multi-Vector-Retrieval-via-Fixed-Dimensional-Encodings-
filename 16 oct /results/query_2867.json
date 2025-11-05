@@ -1,0 +1,10 @@
+{
+    "query": "Where was Daniel Boone buried before 1845?",
+    "response": [
+        "doc_1744.txt",
+        "doc_1745.txt",
+        "doc_1743.txt",
+        "doc_1751.txt",
+        "doc_1746.txt"
+    ]
+}

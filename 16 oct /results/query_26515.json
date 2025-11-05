@@ -1,0 +1,10 @@
+{
+    "query": "Who was Henry Wadsworth Longfellow associated with?",
+    "response": [
+        "doc_7630.txt",
+        "doc_1445.txt",
+        "doc_1454.txt",
+        "doc_1449.txt",
+        "doc_1452.txt"
+    ]
+}

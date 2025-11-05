@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the article about the Stanford Court Hotel?",
+    "response": [
+        "doc_3976.txt",
+        "doc_21936.txt",
+        "doc_3381.txt",
+        "doc_16355.txt",
+        "doc_14728.txt"
+    ]
+}

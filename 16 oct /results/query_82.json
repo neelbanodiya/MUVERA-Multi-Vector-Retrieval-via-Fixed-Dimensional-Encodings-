@@ -1,0 +1,10 @@
+{
+    "query": "During what conflict did George Washington serve as aide-de-camp to General Braddock?",
+    "response": [
+        "doc_42.txt",
+        "doc_4020.txt",
+        "doc_40.txt",
+        "doc_7051.txt",
+        "doc_4017.txt"
+    ]
+}

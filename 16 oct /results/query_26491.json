@@ -1,0 +1,10 @@
+{
+    "query": "Which TV show featured Carrie Brownstein as Dr. Sklodowska and Michael Gray as Billy Batson?",
+    "response": [
+        "doc_15402.txt",
+        "doc_15398.txt",
+        "doc_15399.txt",
+        "doc_15401.txt",
+        "doc_15400.txt"
+    ]
+}

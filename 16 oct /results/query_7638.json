@@ -1,0 +1,10 @@
+{
+    "query": "What DC Comics character does the story focus on?",
+    "response": [
+        "doc_1979.txt",
+        "doc_22774.txt",
+        "doc_2898.txt",
+        "doc_15895.txt",
+        "doc_20608.txt"
+    ]
+}

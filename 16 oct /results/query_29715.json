@@ -1,0 +1,10 @@
+{
+    "query": "What specific recommendation does the draft resolution make regarding tuition fees for pupils at European Schools?",
+    "response": [
+        "doc_17267.txt",
+        "doc_21824.txt",
+        "doc_21825.txt",
+        "doc_22192.txt",
+        "doc_17268.txt"
+    ]
+}

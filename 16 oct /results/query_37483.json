@@ -1,0 +1,10 @@
+{
+    "query": "For what century were Orientalism terms used by Western scholars and artists?",
+    "response": [
+        "doc_15834.txt",
+        "doc_20384.txt",
+        "doc_15836.txt",
+        "doc_20392.txt",
+        "doc_5584.txt"
+    ]
+}

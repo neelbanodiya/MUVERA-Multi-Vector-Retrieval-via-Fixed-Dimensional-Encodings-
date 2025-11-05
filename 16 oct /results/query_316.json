@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what proportion of EU-25 gross electricity generation comes from nuclear sources?",
+    "response": [
+        "doc_174.txt",
+        "doc_175.txt",
+        "doc_19176.txt",
+        "doc_12677.txt",
+        "doc_7948.txt"
+    ]
+}

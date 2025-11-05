@@ -1,0 +1,10 @@
+{
+    "query": "What types of information does the Compass include regarding mental health initiatives?",
+    "response": [
+        "doc_6942.txt",
+        "doc_6941.txt",
+        "doc_4012.txt",
+        "doc_9752.txt",
+        "doc_6292.txt"
+    ]
+}

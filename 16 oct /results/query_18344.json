@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of Leon Uris\u2019s bestselling novel that caused *Catch-22* to be renamed?",
+    "response": [
+        "doc_10615.txt",
+        "doc_10616.txt",
+        "doc_10621.txt",
+        "doc_10623.txt",
+        "doc_10614.txt"
+    ]
+}

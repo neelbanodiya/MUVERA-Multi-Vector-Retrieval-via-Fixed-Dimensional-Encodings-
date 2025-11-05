@@ -1,0 +1,10 @@
+{
+    "query": "What specific Commission Decision was launched to conduct a survey on the prevalence of MRSA in breeding pigs?",
+    "response": [
+        "doc_16157.txt",
+        "doc_7872.txt",
+        "doc_13929.txt",
+        "doc_22932.txt",
+        "doc_3241.txt"
+    ]
+}

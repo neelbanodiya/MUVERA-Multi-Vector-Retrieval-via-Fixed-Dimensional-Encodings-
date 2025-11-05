@@ -1,0 +1,10 @@
+{
+    "query": "When did Betty Ford open her first drug-treatment center?",
+    "response": [
+        "doc_435.txt",
+        "doc_444.txt",
+        "doc_434.txt",
+        "doc_438.txt",
+        "doc_440.txt"
+    ]
+}

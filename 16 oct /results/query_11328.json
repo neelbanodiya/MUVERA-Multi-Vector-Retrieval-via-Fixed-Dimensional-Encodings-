@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the dog featured in Harlan Ellison\u2019s *A Boy and His Dog*?",
+    "response": [
+        "doc_20281.txt",
+        "doc_15149.txt",
+        "doc_15762.txt",
+        "doc_15265.txt",
+        "doc_20530.txt"
+    ]
+}

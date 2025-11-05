@@ -1,0 +1,10 @@
+{
+    "query": "Who did Kerouac base the character Dean Moriarty on?",
+    "response": [
+        "doc_9236.txt",
+        "doc_9245.txt",
+        "doc_9234.txt",
+        "doc_9244.txt",
+        "doc_9228.txt"
+    ]
+}

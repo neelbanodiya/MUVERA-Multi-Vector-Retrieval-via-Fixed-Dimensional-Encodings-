@@ -1,0 +1,10 @@
+{
+    "query": "What architectural style is referenced in relation to buildings along the Hudson River?",
+    "response": [
+        "doc_22542.txt",
+        "doc_3380.txt",
+        "doc_4176.txt",
+        "doc_22543.txt",
+        "doc_13724.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What competition determined the winner of the 1904 German football championship?",
+    "response": [
+        "doc_6527.txt",
+        "doc_6528.txt",
+        "doc_6529.txt",
+        "doc_24228.txt",
+        "doc_10378.txt"
+    ]
+}

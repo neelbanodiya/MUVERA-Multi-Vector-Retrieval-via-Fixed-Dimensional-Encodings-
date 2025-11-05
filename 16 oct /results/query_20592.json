@@ -1,0 +1,10 @@
+{
+    "query": "What types of models did Isaac Newton build as a child?",
+    "response": [
+        "doc_11876.txt",
+        "doc_11875.txt",
+        "doc_11877.txt",
+        "doc_11884.txt",
+        "doc_11880.txt"
+    ]
+}

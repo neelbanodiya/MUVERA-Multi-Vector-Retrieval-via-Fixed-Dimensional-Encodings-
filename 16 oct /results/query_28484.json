@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission\u2019s proposed solution to address these challenges?",
+    "response": [
+        "doc_1217.txt",
+        "doc_17468.txt",
+        "doc_2125.txt",
+        "doc_10910.txt",
+        "doc_5541.txt"
+    ]
+}

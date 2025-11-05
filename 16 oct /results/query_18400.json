@@ -1,0 +1,10 @@
+{
+    "query": "When was Blackjack Pizza founded, and by whom?",
+    "response": [
+        "doc_19473.txt",
+        "doc_10668.txt",
+        "doc_10669.txt",
+        "doc_14305.txt",
+        "doc_12645.txt"
+    ]
+}

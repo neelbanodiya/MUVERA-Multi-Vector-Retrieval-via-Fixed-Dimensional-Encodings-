@@ -1,0 +1,10 @@
+{
+    "query": "How old was James Stephenson on his Oscar win?",
+    "response": [
+        "doc_4911.txt",
+        "doc_4925.txt",
+        "doc_19564.txt",
+        "doc_4926.txt",
+        "doc_23285.txt"
+    ]
+}

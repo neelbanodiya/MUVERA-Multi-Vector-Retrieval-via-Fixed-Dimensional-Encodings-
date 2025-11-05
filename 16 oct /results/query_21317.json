@@ -1,0 +1,10 @@
+{
+    "query": "What are the only known poisonous lizards in North America?",
+    "response": [
+        "doc_12300.txt",
+        "doc_12296.txt",
+        "doc_12295.txt",
+        "doc_12294.txt",
+        "doc_12298.txt"
+    ]
+}

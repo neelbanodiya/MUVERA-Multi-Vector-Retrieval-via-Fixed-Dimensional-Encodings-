@@ -1,0 +1,10 @@
+{
+    "query": "Which U.S. President frequently stayed at the Waldorf Astoria?",
+    "response": [
+        "doc_566.txt",
+        "doc_564.txt",
+        "doc_567.txt",
+        "doc_12519.txt",
+        "doc_575.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What position did Dick Armey hold in the House of Representatives?",
+    "response": [
+        "doc_1921.txt",
+        "doc_1925.txt",
+        "doc_1923.txt",
+        "doc_1932.txt",
+        "doc_1928.txt"
+    ]
+}

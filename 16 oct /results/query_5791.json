@@ -1,0 +1,10 @@
+{
+    "query": "What temperature ranges were found during the C2 column measurements?",
+    "response": [
+        "doc_23538.txt",
+        "doc_23537.txt",
+        "doc_3877.txt",
+        "doc_23524.txt",
+        "doc_2950.txt"
+    ]
+}

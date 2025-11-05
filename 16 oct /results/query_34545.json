@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary goal of the resource-conservation policy within the Community, as described in the explanatory statement?",
+    "response": [
+        "doc_20094.txt",
+        "doc_20095.txt",
+        "doc_20093.txt",
+        "doc_5522.txt",
+        "doc_22191.txt"
+    ]
+}

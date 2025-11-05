@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Sarah Hughes win the 2001 World Figure Skating Championships?",
+    "response": [
+        "doc_15507.txt",
+        "doc_10682.txt",
+        "doc_24158.txt",
+        "doc_15519.txt",
+        "doc_15522.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which city in French Polynesia is known for its sugar mill?",
+    "response": [
+        "doc_4679.txt",
+        "doc_4686.txt",
+        "doc_4680.txt",
+        "doc_4687.txt",
+        "doc_4682.txt"
+    ]
+}

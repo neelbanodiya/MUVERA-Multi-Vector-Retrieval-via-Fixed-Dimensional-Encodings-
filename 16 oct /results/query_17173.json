@@ -1,0 +1,10 @@
+{
+    "query": "What did Cato do according to the text regarding Dante\u2019s journey?",
+    "response": [
+        "doc_6051.txt",
+        "doc_21870.txt",
+        "doc_18451.txt",
+        "doc_18198.txt",
+        "doc_11514.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which government agency ultimately blocked the Staples-Office Depot merger?",
+    "response": [
+        "doc_10338.txt",
+        "doc_10345.txt",
+        "doc_10341.txt",
+        "doc_10346.txt",
+        "doc_10347.txt"
+    ]
+}

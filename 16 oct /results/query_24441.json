@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of one of Salieri\u2019s early comic operas?",
+    "response": [
+        "doc_14189.txt",
+        "doc_15391.txt",
+        "doc_14188.txt",
+        "doc_14182.txt",
+        "doc_14187.txt"
+    ]
+}

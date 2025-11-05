@@ -1,0 +1,10 @@
+{
+    "query": "What types of pockets are found on Carhartt work pants?",
+    "response": [
+        "doc_1108.txt",
+        "doc_1090.txt",
+        "doc_1099.txt",
+        "doc_1106.txt",
+        "doc_1094.txt"
+    ]
+}

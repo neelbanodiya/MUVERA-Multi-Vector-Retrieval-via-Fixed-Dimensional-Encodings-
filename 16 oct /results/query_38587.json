@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Mandy Patinkin win a Tony Award for his performance in *Evita*?",
+    "response": [
+        "doc_22627.txt",
+        "doc_22622.txt",
+        "doc_22623.txt",
+        "doc_22630.txt",
+        "doc_22625.txt"
+    ]
+}

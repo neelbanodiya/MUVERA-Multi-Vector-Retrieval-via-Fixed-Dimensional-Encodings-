@@ -1,0 +1,10 @@
+{
+    "query": "What musical element is described as \u201copen, parallel fifths\u201d in a choral piece by Ruth Elaine Schram?",
+    "response": [
+        "doc_323.txt",
+        "doc_332.txt",
+        "doc_19612.txt",
+        "doc_7783.txt",
+        "doc_21526.txt"
+    ]
+}

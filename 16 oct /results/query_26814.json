@@ -1,0 +1,10 @@
+{
+    "query": "Which coach led the 1981 and 1994 Nebraska Cornhuskers football teams?",
+    "response": [
+        "doc_15563.txt",
+        "doc_15564.txt",
+        "doc_15565.txt",
+        "doc_24232.txt",
+        "doc_74.txt"
+    ]
+}

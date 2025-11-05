@@ -1,0 +1,10 @@
+{
+    "query": "What is mentioned as being used in \u201clegal units\u201d in Germany?",
+    "response": [
+        "doc_18095.txt",
+        "doc_13570.txt",
+        "doc_12500.txt",
+        "doc_17168.txt",
+        "doc_1782.txt"
+    ]
+}

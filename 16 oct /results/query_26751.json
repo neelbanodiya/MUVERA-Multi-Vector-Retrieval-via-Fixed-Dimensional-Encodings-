@@ -1,0 +1,10 @@
+{
+    "query": "What positions did Luc Robitaille and Eric Lindros play in the NHL?",
+    "response": [
+        "doc_15538.txt",
+        "doc_15540.txt",
+        "doc_15536.txt",
+        "doc_15537.txt",
+        "doc_15543.txt"
+    ]
+}

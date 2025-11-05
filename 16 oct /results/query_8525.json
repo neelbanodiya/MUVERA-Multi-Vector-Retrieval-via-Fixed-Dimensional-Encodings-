@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Tori Kelly nominated for Best New Artist at the Grammy Awards?",
+    "response": [
+        "doc_2263.txt",
+        "doc_17912.txt",
+        "doc_12359.txt",
+        "doc_12258.txt",
+        "doc_17095.txt"
+    ]
+}

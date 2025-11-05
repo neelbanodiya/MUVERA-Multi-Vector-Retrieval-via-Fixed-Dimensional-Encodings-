@@ -1,0 +1,10 @@
+{
+    "query": "Which director is credited with making the 1946 film *The Big Sleep*?",
+    "response": [
+        "doc_21529.txt",
+        "doc_21534.txt",
+        "doc_21532.txt",
+        "doc_21533.txt",
+        "doc_21536.txt"
+    ]
+}

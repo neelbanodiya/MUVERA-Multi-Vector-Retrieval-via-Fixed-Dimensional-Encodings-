@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of a Queensland engineer who was involved in major civil engineering works for Townsville?",
+    "response": [
+        "doc_1764.txt",
+        "doc_1775.txt",
+        "doc_1778.txt",
+        "doc_1776.txt",
+        "doc_1768.txt"
+    ]
+}

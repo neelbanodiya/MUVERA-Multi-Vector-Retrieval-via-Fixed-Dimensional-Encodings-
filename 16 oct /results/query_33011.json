@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the airport established by Glenn Martin?",
+    "response": [
+        "doc_4958.txt",
+        "doc_19227.txt",
+        "doc_11493.txt",
+        "doc_2993.txt",
+        "doc_2986.txt"
+    ]
+}

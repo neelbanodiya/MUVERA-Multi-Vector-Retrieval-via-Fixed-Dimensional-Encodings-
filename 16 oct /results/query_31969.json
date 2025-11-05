@@ -1,0 +1,10 @@
+{
+    "query": "What dates are explicitly mentioned in the provided text regarding UMS concert programs?",
+    "response": [
+        "doc_18621.txt",
+        "doc_18622.txt",
+        "doc_19668.txt",
+        "doc_22032.txt",
+        "doc_14551.txt"
+    ]
+}

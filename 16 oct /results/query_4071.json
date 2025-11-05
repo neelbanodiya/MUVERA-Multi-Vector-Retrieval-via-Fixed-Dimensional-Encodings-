@@ -1,0 +1,10 @@
+{
+    "query": "What song cycle did Edward Elgar write for Dame Clara Butt?",
+    "response": [
+        "doc_2374.txt",
+        "doc_2373.txt",
+        "doc_2375.txt",
+        "doc_2377.txt",
+        "doc_2376.txt"
+    ]
+}

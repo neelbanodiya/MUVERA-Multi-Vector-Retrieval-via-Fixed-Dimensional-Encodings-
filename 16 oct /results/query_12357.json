@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what type of drama is Gilmore Girls described as?",
+    "response": [
+        "doc_7179.txt",
+        "doc_7181.txt",
+        "doc_23867.txt",
+        "doc_323.txt",
+        "doc_15304.txt"
+    ]
+}

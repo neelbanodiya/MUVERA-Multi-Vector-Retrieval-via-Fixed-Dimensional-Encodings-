@@ -1,0 +1,10 @@
+{
+    "query": "According to one source, approximately what percentage of Japanese cities have fewer than 50,000 people?",
+    "response": [
+        "doc_5074.txt",
+        "doc_5075.txt",
+        "doc_1736.txt",
+        "doc_1735.txt",
+        "doc_541.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Chinese Xiangqi Association based?",
+    "response": [
+        "doc_16758.txt",
+        "doc_20402.txt",
+        "doc_18510.txt",
+        "doc_4543.txt",
+        "doc_20059.txt"
+    ]
+}

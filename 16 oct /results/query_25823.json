@@ -1,0 +1,10 @@
+{
+    "query": "In 1998, what television show did Carolyn return to after making *DEVIL TIMES FIVE*?",
+    "response": [
+        "doc_15013.txt",
+        "doc_730.txt",
+        "doc_5054.txt",
+        "doc_3738.txt",
+        "doc_6879.txt"
+    ]
+}

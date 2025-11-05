@@ -1,0 +1,10 @@
+{
+    "query": "How old was George Gershwin when he died?",
+    "response": [
+        "doc_3840.txt",
+        "doc_3841.txt",
+        "doc_8192.txt",
+        "doc_3838.txt",
+        "doc_3837.txt"
+    ]
+}

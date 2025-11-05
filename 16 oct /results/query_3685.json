@@ -1,0 +1,10 @@
+{
+    "query": "What was Vincent Palmer known for during the 1990s?",
+    "response": [
+        "doc_2172.txt",
+        "doc_5372.txt",
+        "doc_3077.txt",
+        "doc_17118.txt",
+        "doc_24256.txt"
+    ]
+}

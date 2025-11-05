@@ -1,0 +1,10 @@
+{
+    "query": "Which two films, featuring W.C. Fields and Mae West, were shown as a double feature at the New Beverly Cinema?",
+    "response": [
+        "doc_14387.txt",
+        "doc_14392.txt",
+        "doc_14396.txt",
+        "doc_14393.txt",
+        "doc_14388.txt"
+    ]
+}

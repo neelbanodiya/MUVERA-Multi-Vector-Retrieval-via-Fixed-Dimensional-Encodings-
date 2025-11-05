@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what aesthetic trend was revitalized by Saint-Gaudens and Daniel Chester French?",
+    "response": [
+        "doc_3548.txt",
+        "doc_17272.txt",
+        "doc_628.txt",
+        "doc_11780.txt",
+        "doc_20265.txt"
+    ]
+}

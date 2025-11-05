@@ -1,0 +1,10 @@
+{
+    "query": "What aid has been given to Ethiopia and Eritrea?",
+    "response": [
+        "doc_13128.txt",
+        "doc_16564.txt",
+        "doc_4941.txt",
+        "doc_10124.txt",
+        "doc_4065.txt"
+    ]
+}

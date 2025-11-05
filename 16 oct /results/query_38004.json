@@ -1,0 +1,10 @@
+{
+    "query": "In 2014, how many arrests did the Jackson Police Department make?",
+    "response": [
+        "doc_9672.txt",
+        "doc_22286.txt",
+        "doc_1059.txt",
+        "doc_3961.txt",
+        "doc_21306.txt"
+    ]
+}

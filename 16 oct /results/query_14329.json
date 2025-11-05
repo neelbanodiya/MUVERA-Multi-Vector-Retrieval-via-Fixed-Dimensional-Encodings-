@@ -1,0 +1,10 @@
+{
+    "query": "Who was influenced by Bob Dylan, according to the text?",
+    "response": [
+        "doc_7878.txt",
+        "doc_20128.txt",
+        "doc_1986.txt",
+        "doc_20025.txt",
+        "doc_20309.txt"
+    ]
+}

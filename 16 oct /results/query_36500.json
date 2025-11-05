@@ -1,0 +1,10 @@
+{
+    "query": "What Roman god was Mercury named after?",
+    "response": [
+        "doc_21286.txt",
+        "doc_21285.txt",
+        "doc_21293.txt",
+        "doc_21287.txt",
+        "doc_21299.txt"
+    ]
+}

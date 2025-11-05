@@ -1,0 +1,10 @@
+{
+    "query": "What is an abstract defined as in the Merriam-Webster dictionary?",
+    "response": [
+        "doc_4855.txt",
+        "doc_9039.txt",
+        "doc_12738.txt",
+        "doc_23176.txt",
+        "doc_4400.txt"
+    ]
+}

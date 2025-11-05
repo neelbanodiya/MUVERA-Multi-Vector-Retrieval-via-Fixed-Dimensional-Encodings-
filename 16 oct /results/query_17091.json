@@ -1,0 +1,10 @@
+{
+    "query": "Which Disney films followed \u201cMake Mine Music\u201d and \u201cFun and Fancy Free\u201d?",
+    "response": [
+        "doc_15303.txt",
+        "doc_9892.txt",
+        "doc_15304.txt",
+        "doc_1580.txt",
+        "doc_15903.txt"
+    ]
+}

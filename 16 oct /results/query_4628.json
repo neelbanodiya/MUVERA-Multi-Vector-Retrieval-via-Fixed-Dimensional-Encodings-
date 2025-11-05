@@ -1,0 +1,10 @@
+{
+    "query": "In what sport did George Patton participate in the 1912 Olympics?",
+    "response": [
+        "doc_2681.txt",
+        "doc_15506.txt",
+        "doc_15516.txt",
+        "doc_15514.txt",
+        "doc_15521.txt"
+    ]
+}

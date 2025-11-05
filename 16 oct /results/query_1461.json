@@ -1,0 +1,10 @@
+{
+    "query": "What is the Black Mamba\u2019s scientific name?",
+    "response": [
+        "doc_1389.txt",
+        "doc_2676.txt",
+        "doc_17773.txt",
+        "doc_19032.txt",
+        "doc_2950.txt"
+    ]
+}

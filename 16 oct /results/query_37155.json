@@ -1,0 +1,10 @@
+{
+    "query": "What event led to Helmut Schmidt becoming Chancellor of West Germany?",
+    "response": [
+        "doc_21736.txt",
+        "doc_21735.txt",
+        "doc_21730.txt",
+        "doc_21741.txt",
+        "doc_21732.txt"
+    ]
+}

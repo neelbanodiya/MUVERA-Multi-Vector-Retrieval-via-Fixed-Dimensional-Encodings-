@@ -1,0 +1,10 @@
+{
+    "query": "What role did Chattanooga play in the development of the region, as described in the Tennessee Encyclopedia entry?",
+    "response": [
+        "doc_16577.txt",
+        "doc_10525.txt",
+        "doc_7521.txt",
+        "doc_3828.txt",
+        "doc_17393.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "For how many years did Pete Rose deny the allegations against him?",
+    "response": [
+        "doc_10958.txt",
+        "doc_10961.txt",
+        "doc_10957.txt",
+        "doc_23698.txt",
+        "doc_23697.txt"
+    ]
+}

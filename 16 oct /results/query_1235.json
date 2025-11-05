@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what is Jack Frost\u2019s role in relation to weather?",
+    "response": [
+        "doc_703.txt",
+        "doc_709.txt",
+        "doc_11939.txt",
+        "doc_11916.txt",
+        "doc_10665.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who did Sir Walter Scott praise Emma as being a good novel?",
+    "response": [
+        "doc_7976.txt",
+        "doc_7980.txt",
+        "doc_7977.txt",
+        "doc_7975.txt",
+        "doc_385.txt"
+    ]
+}

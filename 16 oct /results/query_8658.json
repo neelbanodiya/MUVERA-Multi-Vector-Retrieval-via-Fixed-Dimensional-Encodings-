@@ -1,0 +1,10 @@
+{
+    "query": "What are the four humors identified in ancient Greek medicine?",
+    "response": [
+        "doc_5003.txt",
+        "doc_5002.txt",
+        "doc_5004.txt",
+        "doc_4999.txt",
+        "doc_5000.txt"
+    ]
+}

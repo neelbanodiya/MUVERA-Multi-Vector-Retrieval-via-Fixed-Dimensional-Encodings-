@@ -1,0 +1,10 @@
+{
+    "query": "Which international conference established the Millennium Development Goals (MDGs)?",
+    "response": [
+        "doc_18514.txt",
+        "doc_2485.txt",
+        "doc_15948.txt",
+        "doc_8379.txt",
+        "doc_4628.txt"
+    ]
+}

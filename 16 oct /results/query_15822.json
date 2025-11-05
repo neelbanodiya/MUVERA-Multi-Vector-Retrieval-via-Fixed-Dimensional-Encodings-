@@ -1,0 +1,10 @@
+{
+    "query": "Which European Directives does the Commission believe may be infringed by the situation described in the passage, and what measures does the Commission intend to take regarding safety?",
+    "response": [
+        "doc_9162.txt",
+        "doc_20298.txt",
+        "doc_8051.txt",
+        "doc_15493.txt",
+        "doc_9671.txt"
+    ]
+}

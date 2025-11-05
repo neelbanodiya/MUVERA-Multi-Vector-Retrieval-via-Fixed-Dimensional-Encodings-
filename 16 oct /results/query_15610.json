@@ -1,0 +1,10 @@
+{
+    "query": "What is the Latin root of the unit name \u201cScoville\u201d?",
+    "response": [
+        "doc_12753.txt",
+        "doc_1484.txt",
+        "doc_18728.txt",
+        "doc_23598.txt",
+        "doc_4322.txt"
+    ]
+}

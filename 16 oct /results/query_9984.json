@@ -1,0 +1,10 @@
+{
+    "query": "Who was Amelia Earhart married to in 1931?",
+    "response": [
+        "doc_5782.txt",
+        "doc_5788.txt",
+        "doc_5790.txt",
+        "doc_5777.txt",
+        "doc_5783.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who played James Bond in *Tomorrow Never Dies*?",
+    "response": [
+        "doc_17067.txt",
+        "doc_17073.txt",
+        "doc_17068.txt",
+        "doc_17070.txt",
+        "doc_23809.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "For what role did Henry Fonda receive a Golden Globe and an Emmy Award in 1981?",
+    "response": [
+        "doc_20924.txt",
+        "doc_20929.txt",
+        "doc_15278.txt",
+        "doc_23278.txt",
+        "doc_23290.txt"
+    ]
+}

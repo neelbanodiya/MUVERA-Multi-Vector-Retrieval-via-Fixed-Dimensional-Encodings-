@@ -1,0 +1,10 @@
+{
+    "query": "What was the first patrol boat from Washington to enter the Caribbean?",
+    "response": [
+        "doc_16327.txt",
+        "doc_5456.txt",
+        "doc_23971.txt",
+        "doc_21260.txt",
+        "doc_5457.txt"
+    ]
+}

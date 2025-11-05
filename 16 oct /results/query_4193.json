@@ -1,0 +1,10 @@
+{
+    "query": "How long did the longest professional baseball game between the Red Sox and Rochester Red Wings last?",
+    "response": [
+        "doc_2441.txt",
+        "doc_2439.txt",
+        "doc_2440.txt",
+        "doc_2452.txt",
+        "doc_2438.txt"
+    ]
+}

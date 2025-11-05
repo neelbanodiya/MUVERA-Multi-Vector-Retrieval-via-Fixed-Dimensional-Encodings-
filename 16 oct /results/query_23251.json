@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Britain experience an airship tragedy?",
+    "response": [
+        "doc_21971.txt",
+        "doc_5702.txt",
+        "doc_18157.txt",
+        "doc_2504.txt",
+        "doc_9755.txt"
+    ]
+}

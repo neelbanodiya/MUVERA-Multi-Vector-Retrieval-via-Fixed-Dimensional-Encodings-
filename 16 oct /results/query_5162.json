@@ -1,0 +1,10 @@
+{
+    "query": "What are the potential reasons a requested authority might refuse to provide information under Article 6?",
+    "response": [
+        "doc_3016.txt",
+        "doc_3017.txt",
+        "doc_3011.txt",
+        "doc_3010.txt",
+        "doc_3012.txt"
+    ]
+}

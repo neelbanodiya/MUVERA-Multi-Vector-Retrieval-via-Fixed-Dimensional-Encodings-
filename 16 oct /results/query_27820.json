@@ -1,0 +1,10 @@
+{
+    "query": "Which actor won the Silver Star for best film actor in 1949, according to one of the linked articles?",
+    "response": [
+        "doc_16171.txt",
+        "doc_23277.txt",
+        "doc_23289.txt",
+        "doc_4909.txt",
+        "doc_23283.txt"
+    ]
+}

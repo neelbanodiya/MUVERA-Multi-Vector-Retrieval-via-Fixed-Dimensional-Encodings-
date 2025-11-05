@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the police officer who stepped down from the Palatine Police Department after the events described in one of the Google Books excerpts?",
+    "response": [
+        "doc_555.txt",
+        "doc_4583.txt",
+        "doc_10288.txt",
+        "doc_8051.txt",
+        "doc_22072.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who will be taking home the award this year in the NBA?",
+    "response": [
+        "doc_5579.txt",
+        "doc_6720.txt",
+        "doc_16710.txt",
+        "doc_8087.txt",
+        "doc_4909.txt"
+    ]
+}

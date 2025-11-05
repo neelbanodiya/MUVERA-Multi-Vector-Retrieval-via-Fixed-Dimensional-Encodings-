@@ -1,0 +1,10 @@
+{
+    "query": "Who invented Chinese Checkers?",
+    "response": [
+        "doc_12423.txt",
+        "doc_12427.txt",
+        "doc_12429.txt",
+        "doc_12428.txt",
+        "doc_12430.txt"
+    ]
+}

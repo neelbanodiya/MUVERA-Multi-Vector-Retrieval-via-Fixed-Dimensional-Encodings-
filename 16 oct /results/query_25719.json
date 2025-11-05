@@ -1,0 +1,10 @@
+{
+    "query": "In what town did Ronald Reagan spend his childhood?",
+    "response": [
+        "doc_3565.txt",
+        "doc_3568.txt",
+        "doc_14914.txt",
+        "doc_14916.txt",
+        "doc_3570.txt"
+    ]
+}

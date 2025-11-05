@@ -1,0 +1,10 @@
+{
+    "query": "Which member of Fleetwood Mac had a Top 10 solo hit in 1981 with the song \u201cTrouble\u201d?",
+    "response": [
+        "doc_3471.txt",
+        "doc_3474.txt",
+        "doc_3472.txt",
+        "doc_3470.txt",
+        "doc_3479.txt"
+    ]
+}

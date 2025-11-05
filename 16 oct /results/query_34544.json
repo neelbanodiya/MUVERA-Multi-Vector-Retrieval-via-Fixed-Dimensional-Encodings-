@@ -1,0 +1,10 @@
+{
+    "query": "What specific examples of emergency decisions highlight a failure in the European Union\u2019s current fishery resource management measures?",
+    "response": [
+        "doc_20093.txt",
+        "doc_4493.txt",
+        "doc_20099.txt",
+        "doc_9026.txt",
+        "doc_8585.txt"
+    ]
+}

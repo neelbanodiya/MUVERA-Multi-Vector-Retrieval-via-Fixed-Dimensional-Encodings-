@@ -1,0 +1,10 @@
+{
+    "query": "What was the duration of the Nasdaq trading halt?",
+    "response": [
+        "doc_20843.txt",
+        "doc_20796.txt",
+        "doc_23654.txt",
+        "doc_9058.txt",
+        "doc_23635.txt"
+    ]
+}

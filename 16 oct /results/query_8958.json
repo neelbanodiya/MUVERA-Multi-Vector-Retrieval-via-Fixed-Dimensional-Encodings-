@@ -1,0 +1,10 @@
+{
+    "query": "What was the annual sunshine amount in Alberta?",
+    "response": [
+        "doc_5166.txt",
+        "doc_3407.txt",
+        "doc_11488.txt",
+        "doc_8679.txt",
+        "doc_22214.txt"
+    ]
+}

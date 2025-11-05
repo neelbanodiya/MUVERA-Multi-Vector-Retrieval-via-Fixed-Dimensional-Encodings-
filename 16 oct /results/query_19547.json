@@ -1,0 +1,10 @@
+{
+    "query": "How many daughters does Mr. and Mrs. Bennet have?",
+    "response": [
+        "doc_11295.txt",
+        "doc_11296.txt",
+        "doc_11297.txt",
+        "doc_11294.txt",
+        "doc_11298.txt"
+    ]
+}

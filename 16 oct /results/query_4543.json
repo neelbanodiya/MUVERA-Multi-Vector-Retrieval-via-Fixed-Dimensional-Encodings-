@@ -1,0 +1,10 @@
+{
+    "query": "In what city is Manila located as the capital of the new Spanish colony?",
+    "response": [
+        "doc_2623.txt",
+        "doc_2630.txt",
+        "doc_16681.txt",
+        "doc_38.txt",
+        "doc_1010.txt"
+    ]
+}

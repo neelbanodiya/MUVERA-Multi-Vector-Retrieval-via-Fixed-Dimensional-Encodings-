@@ -1,0 +1,10 @@
+{
+    "query": "How long was Robinson Crusoe marooned in solitude before a similar account appeared?",
+    "response": [
+        "doc_18445.txt",
+        "doc_18456.txt",
+        "doc_18454.txt",
+        "doc_18462.txt",
+        "doc_18452.txt"
+    ]
+}

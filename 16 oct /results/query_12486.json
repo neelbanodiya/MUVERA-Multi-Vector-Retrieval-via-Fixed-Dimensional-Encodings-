@@ -1,0 +1,10 @@
+{
+    "query": "Which provinces does the Pearl River Basin drain within China?",
+    "response": [
+        "doc_7263.txt",
+        "doc_3153.txt",
+        "doc_22543.txt",
+        "doc_11639.txt",
+        "doc_7262.txt"
+    ]
+}

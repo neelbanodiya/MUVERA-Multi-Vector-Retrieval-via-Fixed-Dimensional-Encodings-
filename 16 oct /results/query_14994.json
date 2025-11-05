@@ -1,0 +1,10 @@
+{
+    "query": "Who is Ivar Ekeland and what is he known for?",
+    "response": [
+        "doc_12718.txt",
+        "doc_1785.txt",
+        "doc_5500.txt",
+        "doc_10403.txt",
+        "doc_349.txt"
+    ]
+}

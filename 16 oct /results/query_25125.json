@@ -1,0 +1,10 @@
+{
+    "query": "Why did the NFL decide to stop using Roman numerals for the Super Bowl logo?",
+    "response": [
+        "doc_14588.txt",
+        "doc_14590.txt",
+        "doc_14597.txt",
+        "doc_14583.txt",
+        "doc_14585.txt"
+    ]
+}

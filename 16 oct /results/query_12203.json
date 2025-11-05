@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what is Shinto often considered to be?",
+    "response": [
+        "doc_7135.txt",
+        "doc_792.txt",
+        "doc_7130.txt",
+        "doc_23860.txt",
+        "doc_12136.txt"
+    ]
+}

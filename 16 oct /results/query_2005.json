@@ -1,0 +1,10 @@
+{
+    "query": "What organization drew up the sustainability impact assessment (SIA) for the Euro-Mediterranean Free Trade Area?",
+    "response": [
+        "doc_2485.txt",
+        "doc_1211.txt",
+        "doc_1215.txt",
+        "doc_19591.txt",
+        "doc_19523.txt"
+    ]
+}

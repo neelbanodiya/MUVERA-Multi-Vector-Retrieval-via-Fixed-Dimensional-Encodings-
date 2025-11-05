@@ -1,0 +1,10 @@
+{
+    "query": "Since what year has Tennessee consistently had at least one representative on the U.S. track and field team?",
+    "response": [
+        "doc_9160.txt",
+        "doc_6724.txt",
+        "doc_12569.txt",
+        "doc_24246.txt",
+        "doc_24235.txt"
+    ]
+}

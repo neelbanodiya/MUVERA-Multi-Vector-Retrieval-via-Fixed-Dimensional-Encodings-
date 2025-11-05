@@ -1,0 +1,10 @@
+{
+    "query": "What role does Figaro the Cat play in the story of *Pinocchio*?",
+    "response": [
+        "doc_20622.txt",
+        "doc_20614.txt",
+        "doc_20619.txt",
+        "doc_20611.txt",
+        "doc_20618.txt"
+    ]
+}

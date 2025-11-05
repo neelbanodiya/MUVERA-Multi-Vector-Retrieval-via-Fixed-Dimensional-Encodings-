@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the death of the Duchess Blanche occur?",
+    "response": [
+        "doc_431.txt",
+        "doc_12640.txt",
+        "doc_12641.txt",
+        "doc_13876.txt",
+        "doc_22472.txt"
+    ]
+}

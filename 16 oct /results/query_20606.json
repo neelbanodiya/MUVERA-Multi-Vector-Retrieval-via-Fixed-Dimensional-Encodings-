@@ -1,0 +1,10 @@
+{
+    "query": "By what age did Richard Feynman master differential and integral calculus?",
+    "response": [
+        "doc_11883.txt",
+        "doc_11884.txt",
+        "doc_16939.txt",
+        "doc_623.txt",
+        "doc_21595.txt"
+    ]
+}

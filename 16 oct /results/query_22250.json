@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Fugs add an unusual accomplishment to their resume?",
+    "response": [
+        "doc_1501.txt",
+        "doc_21972.txt",
+        "doc_12664.txt",
+        "doc_14383.txt",
+        "doc_19130.txt"
+    ]
+}

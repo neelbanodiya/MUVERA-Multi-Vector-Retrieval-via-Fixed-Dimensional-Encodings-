@@ -1,0 +1,10 @@
+{
+    "query": "Which library houses many of Stephen King\u2019s unpublished works?",
+    "response": [
+        "doc_19141.txt",
+        "doc_19142.txt",
+        "doc_3711.txt",
+        "doc_3712.txt",
+        "doc_3713.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In which film did Mel Gibson first portray the character Max?",
+    "response": [
+        "doc_16093.txt",
+        "doc_16096.txt",
+        "doc_16099.txt",
+        "doc_22118.txt",
+        "doc_22117.txt"
+    ]
+}

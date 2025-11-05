@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what elements primarily compose the Earth\u2019s core?",
+    "response": [
+        "doc_12284.txt",
+        "doc_12279.txt",
+        "doc_12280.txt",
+        "doc_12277.txt",
+        "doc_16169.txt"
+    ]
+}

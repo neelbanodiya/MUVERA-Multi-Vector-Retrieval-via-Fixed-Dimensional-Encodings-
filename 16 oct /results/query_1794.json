@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Louis Sullivan die?",
+    "response": [
+        "doc_21067.txt",
+        "doc_7721.txt",
+        "doc_10859.txt",
+        "doc_20220.txt",
+        "doc_6108.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of mail was sent into Paris in large metal balls?",
+    "response": [
+        "doc_11376.txt",
+        "doc_23178.txt",
+        "doc_10236.txt",
+        "doc_5728.txt",
+        "doc_14620.txt"
+    ]
+}

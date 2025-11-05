@@ -1,0 +1,10 @@
+{
+    "query": "Which actor starred in *Yentl*?",
+    "response": [
+        "doc_16653.txt",
+        "doc_23994.txt",
+        "doc_18755.txt",
+        "doc_13618.txt",
+        "doc_2963.txt"
+    ]
+}

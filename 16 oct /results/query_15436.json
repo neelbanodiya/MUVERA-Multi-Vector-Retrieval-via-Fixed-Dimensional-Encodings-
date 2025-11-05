@@ -1,0 +1,10 @@
+{
+    "query": "How many people were arrested under the Alien and Sedition Acts?",
+    "response": [
+        "doc_8937.txt",
+        "doc_8938.txt",
+        "doc_8939.txt",
+        "doc_16825.txt",
+        "doc_19041.txt"
+    ]
+}

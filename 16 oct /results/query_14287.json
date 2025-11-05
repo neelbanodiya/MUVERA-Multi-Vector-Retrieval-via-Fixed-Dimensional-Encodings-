@@ -1,0 +1,10 @@
+{
+    "query": "What is Minnesota\u2019s ranking as a northernmost U.S. state?",
+    "response": [
+        "doc_9692.txt",
+        "doc_7000.txt",
+        "doc_3882.txt",
+        "doc_8447.txt",
+        "doc_23463.txt"
+    ]
+}

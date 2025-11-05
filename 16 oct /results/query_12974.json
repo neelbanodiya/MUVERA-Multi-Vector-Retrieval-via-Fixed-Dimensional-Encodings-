@@ -1,0 +1,10 @@
+{
+    "query": "Which artist's 1987 collection, \"Bad,\" produced a song that charted on the U.S. Hot 100?",
+    "response": [
+        "doc_14725.txt",
+        "doc_6689.txt",
+        "doc_13736.txt",
+        "doc_15322.txt",
+        "doc_6690.txt"
+    ]
+}

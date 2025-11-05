@@ -1,0 +1,10 @@
+{
+    "query": "Which actors have portrayed the character of Damon Dark in the series?",
+    "response": [
+        "doc_12720.txt",
+        "doc_12719.txt",
+        "doc_2850.txt",
+        "doc_784.txt",
+        "doc_2229.txt"
+    ]
+}

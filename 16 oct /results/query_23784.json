@@ -1,0 +1,10 @@
+{
+    "query": "Where was Beethoven\u2019s late Ninth Symphony completed, and in what year?",
+    "response": [
+        "doc_14550.txt",
+        "doc_14556.txt",
+        "doc_14557.txt",
+        "doc_14553.txt",
+        "doc_14551.txt"
+    ]
+}

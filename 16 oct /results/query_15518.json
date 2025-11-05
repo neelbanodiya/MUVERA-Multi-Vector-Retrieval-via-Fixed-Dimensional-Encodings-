@@ -1,0 +1,10 @@
+{
+    "query": "When did Charles Manson and his family arrive in Los Angeles?",
+    "response": [
+        "doc_9003.txt",
+        "doc_8998.txt",
+        "doc_8999.txt",
+        "doc_9004.txt",
+        "doc_9011.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "\u201cThe Late Shift\u201d depicted these 2 real-life hosts jockeying for the late-night crown?",
+    "response": [
+        "doc_12267.txt",
+        "doc_18860.txt",
+        "doc_20132.txt",
+        "doc_23131.txt",
+        "doc_12650.txt"
+    ]
+}

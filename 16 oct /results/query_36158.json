@@ -1,0 +1,10 @@
+{
+    "query": "Which American author is best known for writing the autobiographical short stories that formed the basis of *My Sister Eileen*?",
+    "response": [
+        "doc_630.txt",
+        "doc_21086.txt",
+        "doc_641.txt",
+        "doc_18976.txt",
+        "doc_2331.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of Cecil B. DeMille\u2019s first feature film?",
+    "response": [
+        "doc_22830.txt",
+        "doc_22834.txt",
+        "doc_22832.txt",
+        "doc_22833.txt",
+        "doc_22831.txt"
+    ]
+}

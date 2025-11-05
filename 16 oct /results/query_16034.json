@@ -1,0 +1,10 @@
+{
+    "query": "Which region of Australia accounts for almost half of the nation\u2019s wheat production?",
+    "response": [
+        "doc_9281.txt",
+        "doc_9278.txt",
+        "doc_9277.txt",
+        "doc_9286.txt",
+        "doc_9283.txt"
+    ]
+}

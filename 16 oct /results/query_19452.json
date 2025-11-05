@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the stadium where Tulane University\u2019s football team played before the Superdome opened?",
+    "response": [
+        "doc_11271.txt",
+        "doc_11259.txt",
+        "doc_11255.txt",
+        "doc_11263.txt",
+        "doc_11256.txt"
+    ]
+}

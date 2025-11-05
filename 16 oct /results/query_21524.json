@@ -1,0 +1,10 @@
+{
+    "query": "What was *The Intruder* based on?",
+    "response": [
+        "doc_4138.txt",
+        "doc_2231.txt",
+        "doc_20311.txt",
+        "doc_12761.txt",
+        "doc_17715.txt"
+    ]
+}

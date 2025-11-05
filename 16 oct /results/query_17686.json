@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is represented by the three dots on a Domino\u2019s pizza box?",
+    "response": [
+        "doc_10227.txt",
+        "doc_10228.txt",
+        "doc_10236.txt",
+        "doc_10235.txt",
+        "doc_10238.txt"
+    ]
+}

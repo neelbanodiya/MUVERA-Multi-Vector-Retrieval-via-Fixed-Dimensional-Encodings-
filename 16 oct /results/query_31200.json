@@ -1,0 +1,10 @@
+{
+    "query": "What herbs make up the remedy Sancho?",
+    "response": [
+        "doc_16764.txt",
+        "doc_18185.txt",
+        "doc_8755.txt",
+        "doc_16763.txt",
+        "doc_16760.txt"
+    ]
+}

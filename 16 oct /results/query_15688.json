@@ -1,0 +1,10 @@
+{
+    "query": "Which university defeated Harvard in an eight-oared race in 1852?",
+    "response": [
+        "doc_17035.txt",
+        "doc_19122.txt",
+        "doc_4515.txt",
+        "doc_9159.txt",
+        "doc_20081.txt"
+    ]
+}

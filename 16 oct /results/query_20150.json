@@ -1,0 +1,10 @@
+{
+    "query": "What is the location of Corregidor Island in relation to Manila Bay?",
+    "response": [
+        "doc_11634.txt",
+        "doc_11630.txt",
+        "doc_11629.txt",
+        "doc_11631.txt",
+        "doc_11638.txt"
+    ]
+}

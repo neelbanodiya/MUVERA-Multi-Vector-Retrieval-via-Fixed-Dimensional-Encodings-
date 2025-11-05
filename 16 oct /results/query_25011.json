@@ -1,0 +1,10 @@
+{
+    "query": "What was Samson\u2019s hair dedicated to?",
+    "response": [
+        "doc_14531.txt",
+        "doc_14538.txt",
+        "doc_14534.txt",
+        "doc_14524.txt",
+        "doc_14533.txt"
+    ]
+}

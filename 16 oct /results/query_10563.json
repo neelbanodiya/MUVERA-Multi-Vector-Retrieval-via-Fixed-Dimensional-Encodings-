@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what action did descendants of John Wilkes Booth agree to?",
+    "response": [
+        "doc_6111.txt",
+        "doc_15209.txt",
+        "doc_14375.txt",
+        "doc_19090.txt",
+        "doc_12640.txt"
+    ]
+}

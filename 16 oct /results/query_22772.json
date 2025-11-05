@@ -1,0 +1,10 @@
+{
+    "query": "During which historical event was Richard a central Christian commander?",
+    "response": [
+        "doc_460.txt",
+        "doc_464.txt",
+        "doc_11246.txt",
+        "doc_462.txt",
+        "doc_11244.txt"
+    ]
+}

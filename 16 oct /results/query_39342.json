@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Pink Triangle Park located?",
+    "response": [
+        "doc_2879.txt",
+        "doc_9327.txt",
+        "doc_3380.txt",
+        "doc_4174.txt",
+        "doc_15477.txt"
+    ]
+}

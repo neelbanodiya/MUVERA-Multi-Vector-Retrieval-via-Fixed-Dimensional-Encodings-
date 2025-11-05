@@ -1,0 +1,10 @@
+{
+    "query": "For which event did Cody Miller win a bronze medal at the 2016 Summer Olympics?",
+    "response": [
+        "doc_22768.txt",
+        "doc_13765.txt",
+        "doc_13775.txt",
+        "doc_10682.txt",
+        "doc_20188.txt"
+    ]
+}

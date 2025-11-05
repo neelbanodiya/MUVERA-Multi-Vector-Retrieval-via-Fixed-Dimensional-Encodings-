@@ -1,0 +1,10 @@
+{
+    "query": "In what year did *Evita* first receive Tony Awards for Best Musical, Best Score, and Best Book?",
+    "response": [
+        "doc_22622.txt",
+        "doc_17912.txt",
+        "doc_22625.txt",
+        "doc_22623.txt",
+        "doc_22627.txt"
+    ]
+}

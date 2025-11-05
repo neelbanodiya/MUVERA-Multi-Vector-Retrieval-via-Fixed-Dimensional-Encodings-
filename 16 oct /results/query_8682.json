@@ -1,0 +1,10 @@
+{
+    "query": "What is the Federal Home Loan Mortgage Corporation (FHLMC) also known as?",
+    "response": [
+        "doc_5020.txt",
+        "doc_5022.txt",
+        "doc_5016.txt",
+        "doc_5011.txt",
+        "doc_5017.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Why was Francis criticized?",
+    "response": [
+        "doc_19776.txt",
+        "doc_14827.txt",
+        "doc_8423.txt",
+        "doc_21383.txt",
+        "doc_6947.txt"
+    ]
+}

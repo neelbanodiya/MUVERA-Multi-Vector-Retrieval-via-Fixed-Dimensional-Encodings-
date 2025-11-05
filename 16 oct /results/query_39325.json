@@ -1,0 +1,10 @@
+{
+    "query": "Has the Council shown any interest in this case?",
+    "response": [
+        "doc_1321.txt",
+        "doc_17266.txt",
+        "doc_22233.txt",
+        "doc_5572.txt",
+        "doc_22064.txt"
+    ]
+}

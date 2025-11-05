@@ -1,0 +1,10 @@
+{
+    "query": "Does the passage mention whether the European Commission is considering imposing sanctions on financial institutions?",
+    "response": [
+        "doc_18127.txt",
+        "doc_18303.txt",
+        "doc_15034.txt",
+        "doc_3247.txt",
+        "doc_21441.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which regions of Portugal are mentioned as having developed tourism?",
+    "response": [
+        "doc_1001.txt",
+        "doc_12615.txt",
+        "doc_1003.txt",
+        "doc_8124.txt",
+        "doc_1002.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which television show featured Vonda Shepard as a regular cast member from seasons 1-5?",
+    "response": [
+        "doc_15025.txt",
+        "doc_5054.txt",
+        "doc_17110.txt",
+        "doc_18873.txt",
+        "doc_5210.txt"
+    ]
+}

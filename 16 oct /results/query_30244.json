@@ -1,0 +1,10 @@
+{
+    "query": "What international agreements does the EU play a leading role in, as highlighted in the passage?",
+    "response": [
+        "doc_17588.txt",
+        "doc_17505.txt",
+        "doc_17361.txt",
+        "doc_5890.txt",
+        "doc_5889.txt"
+    ]
+}

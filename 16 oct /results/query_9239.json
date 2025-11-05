@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of Alfred Hitchcock\u2019s film that is also a murder weapon?",
+    "response": [
+        "doc_5324.txt",
+        "doc_5323.txt",
+        "doc_5326.txt",
+        "doc_5332.txt",
+        "doc_5325.txt"
+    ]
+}

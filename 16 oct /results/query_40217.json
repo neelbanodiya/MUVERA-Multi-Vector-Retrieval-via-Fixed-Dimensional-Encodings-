@@ -1,0 +1,10 @@
+{
+    "query": "What is the highest peak in the Maladeta Massif?",
+    "response": [
+        "doc_23529.txt",
+        "doc_23528.txt",
+        "doc_23524.txt",
+        "doc_23533.txt",
+        "doc_23534.txt"
+    ]
+}

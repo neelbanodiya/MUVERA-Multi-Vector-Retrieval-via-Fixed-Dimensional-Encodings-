@@ -1,0 +1,10 @@
+{
+    "query": "What role did Cheng Ho play in Chinese maritime activity?",
+    "response": [
+        "doc_19232.txt",
+        "doc_19233.txt",
+        "doc_15773.txt",
+        "doc_22803.txt",
+        "doc_9855.txt"
+    ]
+}

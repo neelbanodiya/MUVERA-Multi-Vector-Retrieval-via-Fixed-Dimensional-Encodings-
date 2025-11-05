@@ -1,0 +1,10 @@
+{
+    "query": "What was John Snow investigating in relation to water contamination?",
+    "response": [
+        "doc_2177.txt",
+        "doc_2026.txt",
+        "doc_10818.txt",
+        "doc_649.txt",
+        "doc_6371.txt"
+    ]
+}

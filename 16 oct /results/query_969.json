@@ -1,0 +1,10 @@
+{
+    "query": "In which region of the world is the country Mongol Uls located?",
+    "response": [
+        "doc_542.txt",
+        "doc_4336.txt",
+        "doc_8840.txt",
+        "doc_8841.txt",
+        "doc_8838.txt"
+    ]
+}

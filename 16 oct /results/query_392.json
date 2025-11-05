@@ -1,0 +1,10 @@
+{
+    "query": "While a student at Oxford, which film did Hugh Grant try out for?",
+    "response": [
+        "doc_580.txt",
+        "doc_208.txt",
+        "doc_216.txt",
+        "doc_217.txt",
+        "doc_11495.txt"
+    ]
+}

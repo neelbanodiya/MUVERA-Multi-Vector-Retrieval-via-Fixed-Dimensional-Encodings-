@@ -1,0 +1,10 @@
+{
+    "query": "What event occurred the same night that Vincent van Gogh threatened Gauguin with a razor?",
+    "response": [
+        "doc_22069.txt",
+        "doc_22070.txt",
+        "doc_22072.txt",
+        "doc_22073.txt",
+        "doc_22068.txt"
+    ]
+}

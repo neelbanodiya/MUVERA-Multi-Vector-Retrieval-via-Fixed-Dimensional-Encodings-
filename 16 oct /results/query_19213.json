@@ -1,0 +1,10 @@
+{
+    "query": "What band did Roger Daltrey and Pete Townshend initially gain recognition with?",
+    "response": [
+        "doc_11127.txt",
+        "doc_3128.txt",
+        "doc_5897.txt",
+        "doc_22805.txt",
+        "doc_22803.txt"
+    ]
+}

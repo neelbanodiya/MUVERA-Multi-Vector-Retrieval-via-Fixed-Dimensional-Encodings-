@@ -1,0 +1,10 @@
+{
+    "query": "Where will President Poettering be traveling to on Saturday?",
+    "response": [
+        "doc_16241.txt",
+        "doc_15735.txt",
+        "doc_16240.txt",
+        "doc_10131.txt",
+        "doc_15726.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the movie that inspired the nickname \u201cScarface,\u201d and what era does it depict?",
+    "response": [
+        "doc_1580.txt",
+        "doc_19671.txt",
+        "doc_19272.txt",
+        "doc_6660.txt",
+        "doc_22575.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What types of media are listed as having releases associated with Eclipse Records?",
+    "response": [
+        "doc_9871.txt",
+        "doc_12713.txt",
+        "doc_15311.txt",
+        "doc_18244.txt",
+        "doc_15431.txt"
+    ]
+}

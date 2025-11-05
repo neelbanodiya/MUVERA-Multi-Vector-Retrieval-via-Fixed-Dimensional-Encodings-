@@ -1,0 +1,10 @@
+{
+    "query": "On which voyage did Columbus reach the American mainland, specifically in Venezuela?",
+    "response": [
+        "doc_5027.txt",
+        "doc_5026.txt",
+        "doc_5025.txt",
+        "doc_5024.txt",
+        "doc_5030.txt"
+    ]
+}

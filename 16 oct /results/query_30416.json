@@ -1,0 +1,10 @@
+{
+    "query": "When did Prince play shows at the Mellon Arena?",
+    "response": [
+        "doc_15320.txt",
+        "doc_15319.txt",
+        "doc_9385.txt",
+        "doc_15277.txt",
+        "doc_5867.txt"
+    ]
+}

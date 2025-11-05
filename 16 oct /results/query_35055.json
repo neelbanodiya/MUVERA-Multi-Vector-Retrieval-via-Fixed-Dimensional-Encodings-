@@ -1,0 +1,10 @@
+{
+    "query": "Which Nickelodeon-branded mobile subscription service, launched in 2015, featured shows like *Blue*, *Franklin*, and *Little Bear*?",
+    "response": [
+        "doc_20440.txt",
+        "doc_20437.txt",
+        "doc_20444.txt",
+        "doc_20442.txt",
+        "doc_20438.txt"
+    ]
+}

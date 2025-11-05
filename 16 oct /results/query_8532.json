@@ -1,0 +1,10 @@
+{
+    "query": "Through which specific funds has European financial aid been paid to Ethiopia (e.g., European Development Fund, general budget, Directorate-General for Humanitarian Aid, Instrument for Stability)?",
+    "response": [
+        "doc_19245.txt",
+        "doc_4941.txt",
+        "doc_13872.txt",
+        "doc_7760.txt",
+        "doc_18520.txt"
+    ]
+}

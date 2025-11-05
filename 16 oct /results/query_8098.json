@@ -1,0 +1,10 @@
+{
+    "query": "Which Polynesian islands are specifically mentioned as being part of French Polynesia?",
+    "response": [
+        "doc_4679.txt",
+        "doc_4680.txt",
+        "doc_9610.txt",
+        "doc_9621.txt",
+        "doc_9609.txt"
+    ]
+}

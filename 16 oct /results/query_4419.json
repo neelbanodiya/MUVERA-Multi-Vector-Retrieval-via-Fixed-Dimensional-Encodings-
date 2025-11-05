@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was the weather like in Lincoln, Nebraska on Christmas Eve/Christmas Day in 1941?",
+    "response": [
+        "doc_2567.txt",
+        "doc_2565.txt",
+        "doc_2563.txt",
+        "doc_6205.txt",
+        "doc_7402.txt"
+    ]
+}

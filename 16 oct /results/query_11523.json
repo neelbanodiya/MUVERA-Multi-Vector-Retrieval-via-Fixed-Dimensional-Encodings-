@@ -1,0 +1,10 @@
+{
+    "query": "What does Mrs. Elton remind Jane of, referencing a specific quote from *Emma*?",
+    "response": [
+        "doc_6704.txt",
+        "doc_645.txt",
+        "doc_637.txt",
+        "doc_632.txt",
+        "doc_3533.txt"
+    ]
+}

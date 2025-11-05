@@ -1,0 +1,10 @@
+{
+    "query": "When is the press conference by the EP\u2019s Delegation for Relations with Israel scheduled to take place?",
+    "response": [
+        "doc_8032.txt",
+        "doc_8029.txt",
+        "doc_8031.txt",
+        "doc_8030.txt",
+        "doc_8028.txt"
+    ]
+}

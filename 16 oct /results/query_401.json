@@ -1,0 +1,10 @@
+{
+    "query": "On what date did Cary Grant die?",
+    "response": [
+        "doc_2047.txt",
+        "doc_20256.txt",
+        "doc_7923.txt",
+        "doc_21067.txt",
+        "doc_3699.txt"
+    ]
+}

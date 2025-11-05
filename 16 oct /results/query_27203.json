@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what geographical features influenced navigation in the Pacific Northwest?",
+    "response": [
+        "doc_1389.txt",
+        "doc_3407.txt",
+        "doc_14034.txt",
+        "doc_4336.txt",
+        "doc_8845.txt"
+    ]
+}

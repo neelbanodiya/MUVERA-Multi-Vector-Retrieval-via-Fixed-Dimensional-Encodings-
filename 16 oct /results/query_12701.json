@@ -1,0 +1,10 @@
+{
+    "query": "What was Bethlehem Steel, and when was it founded?",
+    "response": [
+        "doc_7406.txt",
+        "doc_7399.txt",
+        "doc_7400.txt",
+        "doc_7404.txt",
+        "doc_7398.txt"
+    ]
+}

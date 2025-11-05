@@ -1,0 +1,10 @@
+{
+    "query": "For which university did Eli Manning play college football?",
+    "response": [
+        "doc_9159.txt",
+        "doc_1220.txt",
+        "doc_3576.txt",
+        "doc_6725.txt",
+        "doc_74.txt"
+    ]
+}

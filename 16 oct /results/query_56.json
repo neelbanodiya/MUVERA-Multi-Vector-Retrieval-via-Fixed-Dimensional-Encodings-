@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 26 of the Venezuelan Constitution, what is the responsibility of the President of Venezuela regarding the judiciary?",
+    "response": [
+        "doc_34.txt",
+        "doc_32.txt",
+        "doc_33.txt",
+        "doc_35.txt",
+        "doc_5219.txt"
+    ]
+}

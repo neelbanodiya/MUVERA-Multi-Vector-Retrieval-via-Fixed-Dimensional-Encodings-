@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what promise did the Lord make to Abraham?",
+    "response": [
+        "doc_8097.txt",
+        "doc_1249.txt",
+        "doc_8109.txt",
+        "doc_8096.txt",
+        "doc_7526.txt"
+    ]
+}

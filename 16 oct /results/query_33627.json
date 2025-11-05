@@ -1,0 +1,10 @@
+{
+    "query": "What range of financial and environmental costs were observed for managing food and kitchen waste in the Netherlands, per household?",
+    "response": [
+        "doc_19591.txt",
+        "doc_20347.txt",
+        "doc_14302.txt",
+        "doc_24019.txt",
+        "doc_10453.txt"
+    ]
+}

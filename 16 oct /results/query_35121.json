@@ -1,0 +1,10 @@
+{
+    "query": "What does the word \u201ckomast\u201d originally mean according to the Ancient Greek etymology provided?",
+    "response": [
+        "doc_792.txt",
+        "doc_12128.txt",
+        "doc_5419.txt",
+        "doc_4323.txt",
+        "doc_5420.txt"
+    ]
+}

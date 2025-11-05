@@ -1,0 +1,10 @@
+{
+    "query": "Approximately where did the Greene\u2013Jones War take place?",
+    "response": [
+        "doc_284.txt",
+        "doc_191.txt",
+        "doc_4066.txt",
+        "doc_18155.txt",
+        "doc_8113.txt"
+    ]
+}

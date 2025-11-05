@@ -1,0 +1,10 @@
+{
+    "query": "What event was commemorated by a stamp issued on the centenary of Australia\u2019s federation in 1901?",
+    "response": [
+        "doc_653.txt",
+        "doc_23027.txt",
+        "doc_9416.txt",
+        "doc_20875.txt",
+        "doc_12182.txt"
+    ]
+}

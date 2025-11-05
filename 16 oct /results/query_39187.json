@@ -1,0 +1,10 @@
+{
+    "query": "Which waterway connects the Arabian Gulf to the Gulf of Oman and ultimately to the Arabian Sea?",
+    "response": [
+        "doc_22940.txt",
+        "doc_22943.txt",
+        "doc_22949.txt",
+        "doc_22945.txt",
+        "doc_22938.txt"
+    ]
+}

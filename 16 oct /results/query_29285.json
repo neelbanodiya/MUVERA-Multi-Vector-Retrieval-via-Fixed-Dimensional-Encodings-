@@ -1,0 +1,10 @@
+{
+    "query": "What Manfred Mann hit record was titled \u201cThe Mighty Quinn\u201d?",
+    "response": [
+        "doc_5278.txt",
+        "doc_8008.txt",
+        "doc_12339.txt",
+        "doc_23434.txt",
+        "doc_4605.txt"
+    ]
+}

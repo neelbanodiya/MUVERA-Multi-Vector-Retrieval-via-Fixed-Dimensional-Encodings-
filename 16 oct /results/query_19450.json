@@ -1,0 +1,10 @@
+{
+    "query": "What event occurred in 1975 that led to the Sugar Bowl moving to the Louisiana Superdome?",
+    "response": [
+        "doc_11259.txt",
+        "doc_11264.txt",
+        "doc_11255.txt",
+        "doc_11256.txt",
+        "doc_11268.txt"
+    ]
+}

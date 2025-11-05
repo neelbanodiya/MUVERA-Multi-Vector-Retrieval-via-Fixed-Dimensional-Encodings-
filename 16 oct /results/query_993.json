@@ -1,0 +1,10 @@
+{
+    "query": "What was the commander of 5th Stryker Brigade\u2019s record regarding soldier casualties in Afghanistan, as described in one of the linked articles?",
+    "response": [
+        "doc_561.txt",
+        "doc_207.txt",
+        "doc_1483.txt",
+        "doc_554.txt",
+        "doc_2982.txt"
+    ]
+}

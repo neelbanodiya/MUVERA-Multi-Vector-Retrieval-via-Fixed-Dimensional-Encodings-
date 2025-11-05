@@ -1,0 +1,10 @@
+{
+    "query": "What was a key message Pope Francis conveyed to the U.S. bishops during his meeting with President Obama?",
+    "response": [
+        "doc_16232.txt",
+        "doc_16239.txt",
+        "doc_16251.txt",
+        "doc_16242.txt",
+        "doc_16238.txt"
+    ]
+}

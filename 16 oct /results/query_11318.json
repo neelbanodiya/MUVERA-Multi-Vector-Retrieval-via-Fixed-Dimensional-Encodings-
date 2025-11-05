@@ -1,0 +1,10 @@
+{
+    "query": "What happened in South Molton Street?",
+    "response": [
+        "doc_4181.txt",
+        "doc_3380.txt",
+        "doc_3656.txt",
+        "doc_19972.txt",
+        "doc_10696.txt"
+    ]
+}

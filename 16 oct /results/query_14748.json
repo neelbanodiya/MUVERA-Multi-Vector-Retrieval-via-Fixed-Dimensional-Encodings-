@@ -1,0 +1,10 @@
+{
+    "query": "How many miles is the Kalalau trail if you want to do a day hike?",
+    "response": [
+        "doc_8537.txt",
+        "doc_18549.txt",
+        "doc_8248.txt",
+        "doc_13695.txt",
+        "doc_3668.txt"
+    ]
+}

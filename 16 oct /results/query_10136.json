@@ -1,0 +1,10 @@
+{
+    "query": "What was the Little League World Series scheduled to begin around?",
+    "response": [
+        "doc_13010.txt",
+        "doc_10292.txt",
+        "doc_10293.txt",
+        "doc_15159.txt",
+        "doc_10245.txt"
+    ]
+}

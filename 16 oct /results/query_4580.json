@@ -1,0 +1,10 @@
+{
+    "query": "What was George Washington\u2019s role during his first term?",
+    "response": [
+        "doc_2650.txt",
+        "doc_41.txt",
+        "doc_4023.txt",
+        "doc_4016.txt",
+        "doc_21251.txt"
+    ]
+}

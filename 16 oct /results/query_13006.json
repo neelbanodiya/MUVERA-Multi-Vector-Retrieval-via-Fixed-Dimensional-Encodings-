@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is a characteristic that Michael Jackson possessed?",
+    "response": [
+        "doc_22459.txt",
+        "doc_7532.txt",
+        "doc_21383.txt",
+        "doc_15668.txt",
+        "doc_8423.txt"
+    ]
+}

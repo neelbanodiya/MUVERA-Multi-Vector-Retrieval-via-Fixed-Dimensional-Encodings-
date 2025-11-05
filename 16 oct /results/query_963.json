@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate population ratio of Muslims to Christians in Nigeria?",
+    "response": [
+        "doc_2315.txt",
+        "doc_10933.txt",
+        "doc_12142.txt",
+        "doc_537.txt",
+        "doc_538.txt"
+    ]
+}

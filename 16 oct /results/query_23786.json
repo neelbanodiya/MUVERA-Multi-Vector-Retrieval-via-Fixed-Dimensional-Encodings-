@@ -1,0 +1,10 @@
+{
+    "query": "Which opera composer is featured in the Lucerne Festival Orchestra\u2019s performance of \u201cLa Mer\u201d?",
+    "response": [
+        "doc_13795.txt",
+        "doc_13794.txt",
+        "doc_13797.txt",
+        "doc_13801.txt",
+        "doc_13792.txt"
+    ]
+}

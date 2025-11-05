@@ -1,0 +1,10 @@
+{
+    "query": "Where is Boulevard Pomare located?",
+    "response": [
+        "doc_15475.txt",
+        "doc_21353.txt",
+        "doc_23872.txt",
+        "doc_23365.txt",
+        "doc_18212.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was Rob Gronkowski's year of breakout?",
+    "response": [
+        "doc_13638.txt",
+        "doc_22621.txt",
+        "doc_15318.txt",
+        "doc_13098.txt",
+        "doc_1810.txt"
+    ]
+}

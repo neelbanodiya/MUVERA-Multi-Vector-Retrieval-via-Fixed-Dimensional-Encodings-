@@ -1,0 +1,10 @@
+{
+    "query": "What musical instrument did Charles Wheatstone invent before the Stereoscope?",
+    "response": [
+        "doc_12771.txt",
+        "doc_12774.txt",
+        "doc_12773.txt",
+        "doc_12772.txt",
+        "doc_12770.txt"
+    ]
+}

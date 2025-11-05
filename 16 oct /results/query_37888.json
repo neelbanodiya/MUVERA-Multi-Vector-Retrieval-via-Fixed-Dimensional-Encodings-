@@ -1,0 +1,10 @@
+{
+    "query": "What specific organizations does the European Parliament pay affiliation fees to, as listed in the passage?",
+    "response": [
+        "doc_15493.txt",
+        "doc_5379.txt",
+        "doc_2027.txt",
+        "doc_3443.txt",
+        "doc_19523.txt"
+    ]
+}

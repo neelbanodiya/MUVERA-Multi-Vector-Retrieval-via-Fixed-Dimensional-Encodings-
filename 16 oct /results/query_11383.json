@@ -1,0 +1,10 @@
+{
+    "query": "When was the first public school in British America established in Boston?",
+    "response": [
+        "doc_6611.txt",
+        "doc_6609.txt",
+        "doc_6612.txt",
+        "doc_6614.txt",
+        "doc_6607.txt"
+    ]
+}

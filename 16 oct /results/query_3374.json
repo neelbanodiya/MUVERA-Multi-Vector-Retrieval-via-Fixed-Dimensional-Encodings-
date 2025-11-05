@@ -1,0 +1,10 @@
+{
+    "query": "When was the Wings' biggest period in the Stanley Cup Final since April 26, 1966?",
+    "response": [
+        "doc_1901.txt",
+        "doc_16985.txt",
+        "doc_16990.txt",
+        "doc_1900.txt",
+        "doc_16988.txt"
+    ]
+}

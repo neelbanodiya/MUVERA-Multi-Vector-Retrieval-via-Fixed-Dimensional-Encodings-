@@ -1,0 +1,10 @@
+{
+    "query": "What sauces are commonly served with Greek dishes, according to the provided links?",
+    "response": [
+        "doc_15786.txt",
+        "doc_15785.txt",
+        "doc_15779.txt",
+        "doc_15780.txt",
+        "doc_15787.txt"
+    ]
+}

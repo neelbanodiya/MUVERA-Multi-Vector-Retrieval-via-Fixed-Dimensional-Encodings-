@@ -1,0 +1,10 @@
+{
+    "query": "According to Freud, what is the primary function of the id?",
+    "response": [
+        "doc_20510.txt",
+        "doc_20502.txt",
+        "doc_20500.txt",
+        "doc_20509.txt",
+        "doc_20501.txt"
+    ]
+}

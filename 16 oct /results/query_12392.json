@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, which groups did the Slavs play a crucial role in balancing the power between?",
+    "response": [
+        "doc_23359.txt",
+        "doc_17370.txt",
+        "doc_14844.txt",
+        "doc_21379.txt",
+        "doc_3423.txt"
+    ]
+}

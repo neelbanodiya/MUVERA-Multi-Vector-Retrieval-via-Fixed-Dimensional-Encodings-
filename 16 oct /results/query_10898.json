@@ -1,0 +1,10 @@
+{
+    "query": "What is Christina Rossetti best known for, and when was her collection of poems, *Goblin Market*, first published?",
+    "response": [
+        "doc_6302.txt",
+        "doc_6309.txt",
+        "doc_6307.txt",
+        "doc_6303.txt",
+        "doc_6306.txt"
+    ]
+}

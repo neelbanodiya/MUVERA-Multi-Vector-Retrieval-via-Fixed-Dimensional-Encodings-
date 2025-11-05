@@ -1,0 +1,10 @@
+{
+    "query": "What is the total amount of expenditure related to Article 13 05 01?",
+    "response": [
+        "doc_22217.txt",
+        "doc_22220.txt",
+        "doc_22212.txt",
+        "doc_22214.txt",
+        "doc_3249.txt"
+    ]
+}

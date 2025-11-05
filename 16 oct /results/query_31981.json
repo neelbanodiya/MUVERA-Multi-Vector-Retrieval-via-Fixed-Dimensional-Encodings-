@@ -1,0 +1,10 @@
+{
+    "query": "What are the names of the three Taylor boys featured in the passage?",
+    "response": [
+        "doc_20633.txt",
+        "doc_4463.txt",
+        "doc_9438.txt",
+        "doc_20015.txt",
+        "doc_21379.txt"
+    ]
+}

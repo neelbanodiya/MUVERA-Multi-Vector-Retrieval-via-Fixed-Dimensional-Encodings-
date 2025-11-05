@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the state park located near the summit of Mt. San Jacinto?",
+    "response": [
+        "doc_9327.txt",
+        "doc_18552.txt",
+        "doc_18154.txt",
+        "doc_18535.txt",
+        "doc_13848.txt"
+    ]
+}

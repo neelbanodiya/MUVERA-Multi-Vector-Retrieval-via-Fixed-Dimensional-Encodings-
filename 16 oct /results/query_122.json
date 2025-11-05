@@ -1,0 +1,10 @@
+{
+    "query": "What financial year is this European Parliament decision concerning?",
+    "response": [
+        "doc_9136.txt",
+        "doc_9134.txt",
+        "doc_7809.txt",
+        "doc_9103.txt",
+        "doc_9139.txt"
+    ]
+}

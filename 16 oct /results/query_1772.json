@@ -1,0 +1,10 @@
+{
+    "query": "In what region of Spain is Catalonia located?",
+    "response": [
+        "doc_1001.txt",
+        "doc_1002.txt",
+        "doc_1005.txt",
+        "doc_1007.txt",
+        "doc_1009.txt"
+    ]
+}

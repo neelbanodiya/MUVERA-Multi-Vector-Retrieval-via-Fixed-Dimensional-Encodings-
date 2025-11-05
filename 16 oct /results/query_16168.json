@@ -1,0 +1,10 @@
+{
+    "query": "What specific complaints were received regarding Spanish legislation concerning the denomination of yoghurt?",
+    "response": [
+        "doc_9361.txt",
+        "doc_5494.txt",
+        "doc_8051.txt",
+        "doc_14460.txt",
+        "doc_4734.txt"
+    ]
+}

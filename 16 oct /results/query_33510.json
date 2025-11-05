@@ -1,0 +1,10 @@
+{
+    "query": "What specific types of rules does the passage urge third countries to remove to benefit European companies?",
+    "response": [
+        "doc_12882.txt",
+        "doc_19531.txt",
+        "doc_21703.txt",
+        "doc_2492.txt",
+        "doc_9896.txt"
+    ]
+}

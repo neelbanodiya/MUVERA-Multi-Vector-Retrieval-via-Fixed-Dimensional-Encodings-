@@ -1,0 +1,10 @@
+{
+    "query": "What route was assigned to Old Buckingham Road after US 60 was moved?",
+    "response": [
+        "doc_24078.txt",
+        "doc_24077.txt",
+        "doc_10696.txt",
+        "doc_21710.txt",
+        "doc_3205.txt"
+    ]
+}

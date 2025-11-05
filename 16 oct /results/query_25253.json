@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what was D.H. Lawrence intimately familiar with regarding the region where he lived?",
+    "response": [
+        "doc_14656.txt",
+        "doc_15209.txt",
+        "doc_20257.txt",
+        "doc_14860.txt",
+        "doc_19369.txt"
+    ]
+}

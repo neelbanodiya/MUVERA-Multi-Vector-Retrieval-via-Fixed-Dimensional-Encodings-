@@ -1,0 +1,10 @@
+{
+    "query": "What difficulties did Leola experience in her work?",
+    "response": [
+        "doc_15396.txt",
+        "doc_21612.txt",
+        "doc_22739.txt",
+        "doc_10449.txt",
+        "doc_3588.txt"
+    ]
+}

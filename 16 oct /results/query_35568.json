@@ -1,0 +1,10 @@
+{
+    "query": "What was Lord Chesterfield known for, according to the Everipedia entry?",
+    "response": [
+        "doc_12239.txt",
+        "doc_16009.txt",
+        "doc_20409.txt",
+        "doc_4939.txt",
+        "doc_5323.txt"
+    ]
+}

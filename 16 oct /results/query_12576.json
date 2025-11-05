@@ -1,0 +1,10 @@
+{
+    "query": "In what year was William Rufus succeeded as King of England?",
+    "response": [
+        "doc_7323.txt",
+        "doc_7324.txt",
+        "doc_7336.txt",
+        "doc_7338.txt",
+        "doc_7325.txt"
+    ]
+}

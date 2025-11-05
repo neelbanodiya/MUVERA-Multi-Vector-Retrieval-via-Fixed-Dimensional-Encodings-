@@ -1,0 +1,10 @@
+{
+    "query": "What type of report is the European Commission planning to release?",
+    "response": [
+        "doc_20824.txt",
+        "doc_13389.txt",
+        "doc_20831.txt",
+        "doc_20837.txt",
+        "doc_16161.txt"
+    ]
+}

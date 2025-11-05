@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what does the Tax Court always do?",
+    "response": [
+        "doc_15989.txt",
+        "doc_3432.txt",
+        "doc_2840.txt",
+        "doc_3447.txt",
+        "doc_3443.txt"
+    ]
+}

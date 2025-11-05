@@ -1,0 +1,10 @@
+{
+    "query": "What was the initial purpose of the magazine *Kandahr*?",
+    "response": [
+        "doc_12708.txt",
+        "doc_4496.txt",
+        "doc_21756.txt",
+        "doc_9029.txt",
+        "doc_4131.txt"
+    ]
+}

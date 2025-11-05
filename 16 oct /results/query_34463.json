@@ -1,0 +1,10 @@
+{
+    "query": "When was \u201cJeremy\u201d recorded live?",
+    "response": [
+        "doc_8467.txt",
+        "doc_16312.txt",
+        "doc_16313.txt",
+        "doc_725.txt",
+        "doc_8468.txt"
+    ]
+}

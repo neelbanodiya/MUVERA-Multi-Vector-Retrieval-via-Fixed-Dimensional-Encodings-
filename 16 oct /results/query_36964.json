@@ -1,0 +1,10 @@
+{
+    "query": "Which NHL team did Marc-Andr\u00e9 Fleury play for when he won three Stanley Cup championships?",
+    "response": [
+        "doc_2615.txt",
+        "doc_21625.txt",
+        "doc_2000.txt",
+        "doc_15538.txt",
+        "doc_21628.txt"
+    ]
+}

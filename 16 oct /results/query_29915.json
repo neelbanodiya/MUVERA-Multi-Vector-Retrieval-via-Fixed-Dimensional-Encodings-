@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of European Union citizens, as indicated by the Eurobarometer survey, favour increased integration within the Union?",
+    "response": [
+        "doc_17381.txt",
+        "doc_17382.txt",
+        "doc_20033.txt",
+        "doc_17351.txt",
+        "doc_17395.txt"
+    ]
+}

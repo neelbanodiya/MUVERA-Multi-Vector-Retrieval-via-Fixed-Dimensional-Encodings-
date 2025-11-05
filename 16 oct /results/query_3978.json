@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what did Jane Austen remark about an artist\u2019s work?",
+    "response": [
+        "doc_20409.txt",
+        "doc_17763.txt",
+        "doc_7975.txt",
+        "doc_2318.txt",
+        "doc_19952.txt"
+    ]
+}

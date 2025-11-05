@@ -1,0 +1,10 @@
+{
+    "query": "Before James K. Polk took office, what action did President John Tyler take regarding Texas?",
+    "response": [
+        "doc_3751.txt",
+        "doc_3752.txt",
+        "doc_3756.txt",
+        "doc_3757.txt",
+        "doc_3762.txt"
+    ]
+}

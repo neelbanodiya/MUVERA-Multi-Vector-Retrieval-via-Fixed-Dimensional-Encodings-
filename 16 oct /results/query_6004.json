@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Mistick Krewe of Comus organized?",
+    "response": [
+        "doc_3511.txt",
+        "doc_3510.txt",
+        "doc_3508.txt",
+        "doc_3513.txt",
+        "doc_3505.txt"
+    ]
+}

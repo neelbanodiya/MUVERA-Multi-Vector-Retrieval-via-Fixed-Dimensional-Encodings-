@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of a concert featuring a tribute to John Williams?",
+    "response": [
+        "doc_1969.txt",
+        "doc_19668.txt",
+        "doc_14561.txt",
+        "doc_8467.txt",
+        "doc_9871.txt"
+    ]
+}

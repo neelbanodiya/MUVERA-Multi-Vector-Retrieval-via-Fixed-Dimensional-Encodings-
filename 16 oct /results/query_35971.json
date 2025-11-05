@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the book frequently associated with Mao Zedong during this period?",
+    "response": [
+        "doc_20982.txt",
+        "doc_20983.txt",
+        "doc_20998.txt",
+        "doc_20992.txt",
+        "doc_20986.txt"
+    ]
+}

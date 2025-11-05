@@ -1,0 +1,10 @@
+{
+    "query": "In what novel does Lucius Apuleius describe a visitation by Isis?",
+    "response": [
+        "doc_12550.txt",
+        "doc_12551.txt",
+        "doc_12561.txt",
+        "doc_12555.txt",
+        "doc_12553.txt"
+    ]
+}

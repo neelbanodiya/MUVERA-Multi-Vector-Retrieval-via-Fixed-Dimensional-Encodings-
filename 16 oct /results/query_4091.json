@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what has been difficult for Jason Bonham and James McCartney?",
+    "response": [
+        "doc_2392.txt",
+        "doc_20131.txt",
+        "doc_10936.txt",
+        "doc_12337.txt",
+        "doc_11916.txt"
+    ]
+}

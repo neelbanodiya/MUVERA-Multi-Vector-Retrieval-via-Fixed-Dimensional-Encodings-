@@ -1,0 +1,10 @@
+{
+    "query": "Which organizations have the European Union communicated with regarding the situation in Darfur?",
+    "response": [
+        "doc_6750.txt",
+        "doc_17822.txt",
+        "doc_22965.txt",
+        "doc_14581.txt",
+        "doc_5572.txt"
+    ]
+}

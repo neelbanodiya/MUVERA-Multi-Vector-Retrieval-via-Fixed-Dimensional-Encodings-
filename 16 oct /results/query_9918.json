@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Michael Dirda receive the Edgar Allan Poe Award?",
+    "response": [
+        "doc_5759.txt",
+        "doc_5758.txt",
+        "doc_5762.txt",
+        "doc_5769.txt",
+        "doc_5771.txt"
+    ]
+}

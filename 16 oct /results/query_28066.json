@@ -1,0 +1,10 @@
+{
+    "query": "Where is Brasilia located in relation to Sao Paulo?",
+    "response": [
+        "doc_38.txt",
+        "doc_20161.txt",
+        "doc_16293.txt",
+        "doc_16284.txt",
+        "doc_15479.txt"
+    ]
+}

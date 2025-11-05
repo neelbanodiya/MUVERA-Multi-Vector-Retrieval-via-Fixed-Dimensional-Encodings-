@@ -1,0 +1,10 @@
+{
+    "query": "What was the location of the headquarters of the military in Vienna before World War I?",
+    "response": [
+        "doc_8633.txt",
+        "doc_23516.txt",
+        "doc_8640.txt",
+        "doc_4756.txt",
+        "doc_8645.txt"
+    ]
+}

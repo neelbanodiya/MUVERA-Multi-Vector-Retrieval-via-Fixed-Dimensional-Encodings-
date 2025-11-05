@@ -1,0 +1,10 @@
+{
+    "query": "What year did Cher win the Academy Award for Best Actress for her role in *Moonstruck*?",
+    "response": [
+        "doc_21157.txt",
+        "doc_23507.txt",
+        "doc_23508.txt",
+        "doc_12637.txt",
+        "doc_4643.txt"
+    ]
+}

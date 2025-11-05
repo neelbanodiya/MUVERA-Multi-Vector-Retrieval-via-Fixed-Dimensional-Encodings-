@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what influence did the Greeks have on mathematics in Persia (or Islamic) cultures?",
+    "response": [
+        "doc_16945.txt",
+        "doc_16940.txt",
+        "doc_16941.txt",
+        "doc_16939.txt",
+        "doc_16938.txt"
+    ]
+}

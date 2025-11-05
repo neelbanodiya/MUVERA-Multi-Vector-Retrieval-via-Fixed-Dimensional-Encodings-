@@ -1,0 +1,10 @@
+{
+    "query": "Where was Helen Keller born?",
+    "response": [
+        "doc_8211.txt",
+        "doc_8214.txt",
+        "doc_8209.txt",
+        "doc_8376.txt",
+        "doc_21108.txt"
+    ]
+}

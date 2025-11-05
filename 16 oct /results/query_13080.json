@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, which mount is associated with the ring of Solomon?",
+    "response": [
+        "doc_7643.txt",
+        "doc_23678.txt",
+        "doc_7640.txt",
+        "doc_23688.txt",
+        "doc_23681.txt"
+    ]
+}

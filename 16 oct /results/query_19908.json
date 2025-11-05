@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Jean Chr\u00e9tien appointed Minister of Justice and Attorney General?",
+    "response": [
+        "doc_21249.txt",
+        "doc_11484.txt",
+        "doc_11483.txt",
+        "doc_11480.txt",
+        "doc_11473.txt"
+    ]
+}

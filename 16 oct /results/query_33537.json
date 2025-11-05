@@ -1,0 +1,10 @@
+{
+    "query": "What was Alice\u2019s relationship to Jack Rathbun?",
+    "response": [
+        "doc_14824.txt",
+        "doc_10287.txt",
+        "doc_1847.txt",
+        "doc_20139.txt",
+        "doc_7944.txt"
+    ]
+}

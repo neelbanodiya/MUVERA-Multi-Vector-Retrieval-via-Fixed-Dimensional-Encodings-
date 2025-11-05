@@ -1,0 +1,10 @@
+{
+    "query": "Who played the drunken minor-league washout coach in \"The Bad News Bears\"?",
+    "response": [
+        "doc_3772.txt",
+        "doc_3781.txt",
+        "doc_12734.txt",
+        "doc_11861.txt",
+        "doc_19690.txt"
+    ]
+}

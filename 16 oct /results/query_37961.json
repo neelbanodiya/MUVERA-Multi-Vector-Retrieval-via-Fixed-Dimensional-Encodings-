@@ -1,0 +1,10 @@
+{
+    "query": "Which title of work is attributed to Sir Thomas Malory and mentions King Edward IV?",
+    "response": [
+        "doc_22245.txt",
+        "doc_22246.txt",
+        "doc_22247.txt",
+        "doc_22250.txt",
+        "doc_22249.txt"
+    ]
+}

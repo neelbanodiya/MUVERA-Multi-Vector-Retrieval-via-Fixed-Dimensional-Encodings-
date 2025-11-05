@@ -1,0 +1,10 @@
+{
+    "query": "What university does Ann Taylor currently teach at?",
+    "response": [
+        "doc_8990.txt",
+        "doc_18509.txt",
+        "doc_19138.txt",
+        "doc_348.txt",
+        "doc_20603.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to Mr. Dalli, does the Commission believe the World Health Organization\u2019s recommendations violate the World Trade Organization agreement?",
+    "response": [
+        "doc_10175.txt",
+        "doc_393.txt",
+        "doc_13153.txt",
+        "doc_18127.txt",
+        "doc_19034.txt"
+    ]
+}

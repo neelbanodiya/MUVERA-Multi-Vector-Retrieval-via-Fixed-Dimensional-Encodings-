@@ -1,0 +1,10 @@
+{
+    "query": "Which articles of the Charter of Fundamental Rights of the European Union address equality before the law and non-discrimination?",
+    "response": [
+        "doc_7319.txt",
+        "doc_5182.txt",
+        "doc_6669.txt",
+        "doc_9743.txt",
+        "doc_13153.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What does the word \u201cCorona\u201d mean in Spanish?",
+    "response": [
+        "doc_10209.txt",
+        "doc_23168.txt",
+        "doc_20162.txt",
+        "doc_21180.txt",
+        "doc_18728.txt"
+    ]
+}

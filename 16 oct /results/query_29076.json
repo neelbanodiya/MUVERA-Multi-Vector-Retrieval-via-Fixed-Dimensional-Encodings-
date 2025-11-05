@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote \u201cThe Elements,\u201d a book associated with geometry?",
+    "response": [
+        "doc_4326.txt",
+        "doc_16939.txt",
+        "doc_19952.txt",
+        "doc_3561.txt",
+        "doc_6298.txt"
+    ]
+}

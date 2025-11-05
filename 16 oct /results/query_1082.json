@@ -1,0 +1,10 @@
+{
+    "query": "What has a pair of Soviet cosmonauts accomplished in space?",
+    "response": [
+        "doc_603.txt",
+        "doc_615.txt",
+        "doc_612.txt",
+        "doc_607.txt",
+        "doc_600.txt"
+    ]
+}

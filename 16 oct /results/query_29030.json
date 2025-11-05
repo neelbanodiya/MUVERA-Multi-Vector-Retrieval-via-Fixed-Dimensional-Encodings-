@@ -1,0 +1,10 @@
+{
+    "query": "In what city were scenes from \u201cA Sense of Freedom\u201d filmed due to difficulties obtaining access to a Scottish prison?",
+    "response": [
+        "doc_21440.txt",
+        "doc_5686.txt",
+        "doc_20305.txt",
+        "doc_18246.txt",
+        "doc_7345.txt"
+    ]
+}

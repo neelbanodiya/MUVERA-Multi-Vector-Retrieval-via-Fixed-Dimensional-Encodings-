@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission required to do with the annual report on the application of this Regulation?",
+    "response": [
+        "doc_20824.txt",
+        "doc_20767.txt",
+        "doc_13358.txt",
+        "doc_13236.txt",
+        "doc_13206.txt"
+    ]
+}

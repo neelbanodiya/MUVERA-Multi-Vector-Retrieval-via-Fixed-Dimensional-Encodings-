@@ -1,0 +1,10 @@
+{
+    "query": "Besides breakfast, what other Southern dishes include grits?",
+    "response": [
+        "doc_8924.txt",
+        "doc_8927.txt",
+        "doc_8926.txt",
+        "doc_8913.txt",
+        "doc_8919.txt"
+    ]
+}

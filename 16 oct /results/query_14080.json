@@ -1,0 +1,10 @@
+{
+    "query": "Besides Philip Glass, who began an opera inspired by \u201cThe Fall of the House of Usher\u201d?",
+    "response": [
+        "doc_8163.txt",
+        "doc_8165.txt",
+        "doc_8166.txt",
+        "doc_8172.txt",
+        "doc_8162.txt"
+    ]
+}

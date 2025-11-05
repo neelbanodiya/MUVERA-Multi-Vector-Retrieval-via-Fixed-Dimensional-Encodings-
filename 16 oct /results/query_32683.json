@@ -1,0 +1,10 @@
+{
+    "query": "In what years did Venus and Serena Williams win four consecutive Grand Slam doubles titles?",
+    "response": [
+        "doc_6287.txt",
+        "doc_19047.txt",
+        "doc_19048.txt",
+        "doc_1232.txt",
+        "doc_6289.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When did William of Normandy become William I, King of England?",
+    "response": [
+        "doc_7330.txt",
+        "doc_7337.txt",
+        "doc_7338.txt",
+        "doc_7336.txt",
+        "doc_7329.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What role does Jiminy Cricket play in the story of *Pinocchio*?",
+    "response": [
+        "doc_20611.txt",
+        "doc_20613.txt",
+        "doc_20610.txt",
+        "doc_20614.txt",
+        "doc_20622.txt"
+    ]
+}

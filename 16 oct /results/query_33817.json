@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the title of the movie Dirty Harry is a part of?",
+    "response": [
+        "doc_19687.txt",
+        "doc_19688.txt",
+        "doc_19686.txt",
+        "doc_19692.txt",
+        "doc_18844.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the significance of the Battle of Edessa mentioned in one of the linked documents?",
+    "response": [
+        "doc_9311.txt",
+        "doc_207.txt",
+        "doc_6340.txt",
+        "doc_5685.txt",
+        "doc_15916.txt"
+    ]
+}

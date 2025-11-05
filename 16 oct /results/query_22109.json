@@ -1,0 +1,10 @@
+{
+    "query": "Approximately what percentage of the aircraft engaged in the Battle of Britain were Hawker Hurricanes?",
+    "response": [
+        "doc_12762.txt",
+        "doc_12767.txt",
+        "doc_12763.txt",
+        "doc_12769.txt",
+        "doc_12766.txt"
+    ]
+}

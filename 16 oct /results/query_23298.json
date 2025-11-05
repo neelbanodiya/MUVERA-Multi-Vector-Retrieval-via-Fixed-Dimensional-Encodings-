@@ -1,0 +1,10 @@
+{
+    "query": "In what year and at what location did the U.S. Marines participate in a significant battle that led to the capture of Mexico City?",
+    "response": [
+        "doc_207.txt",
+        "doc_4015.txt",
+        "doc_3759.txt",
+        "doc_4307.txt",
+        "doc_10412.txt"
+    ]
+}

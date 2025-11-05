@@ -1,0 +1,10 @@
+{
+    "query": "What geological processes, as described in the documents, contributed to the formation of heavier elements within the Earth?",
+    "response": [
+        "doc_12283.txt",
+        "doc_12276.txt",
+        "doc_12280.txt",
+        "doc_12287.txt",
+        "doc_12278.txt"
+    ]
+}

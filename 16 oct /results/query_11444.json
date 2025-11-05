@@ -1,0 +1,10 @@
+{
+    "query": "Which private equity firm invested in LenderLive, and where is LenderLive based?",
+    "response": [
+        "doc_22524.txt",
+        "doc_24103.txt",
+        "doc_18307.txt",
+        "doc_5010.txt",
+        "doc_14844.txt"
+    ]
+}

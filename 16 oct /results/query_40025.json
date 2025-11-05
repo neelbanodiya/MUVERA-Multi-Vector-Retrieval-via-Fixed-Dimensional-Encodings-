@@ -1,0 +1,10 @@
+{
+    "query": "What year was the film *Dear John* released theatrically in North America?",
+    "response": [
+        "doc_23434.txt",
+        "doc_23433.txt",
+        "doc_1231.txt",
+        "doc_23435.txt",
+        "doc_21378.txt"
+    ]
+}

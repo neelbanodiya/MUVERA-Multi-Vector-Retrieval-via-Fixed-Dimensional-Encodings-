@@ -1,0 +1,10 @@
+{
+    "query": "Through which strait does the Persian Gulf connect to the Gulf of Oman and the Arabian Sea?",
+    "response": [
+        "doc_22940.txt",
+        "doc_22945.txt",
+        "doc_22947.txt",
+        "doc_22943.txt",
+        "doc_22938.txt"
+    ]
+}

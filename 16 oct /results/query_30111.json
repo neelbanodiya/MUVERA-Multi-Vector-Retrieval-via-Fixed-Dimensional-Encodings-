@@ -1,0 +1,10 @@
+{
+    "query": "What specific cuts are the Council proposing to the appropriations for this action, and what are the amounts?",
+    "response": [
+        "doc_15132.txt",
+        "doc_9103.txt",
+        "doc_13234.txt",
+        "doc_16744.txt",
+        "doc_5727.txt"
+    ]
+}

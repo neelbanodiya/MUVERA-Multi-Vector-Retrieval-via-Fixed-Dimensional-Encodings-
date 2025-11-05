@@ -1,0 +1,10 @@
+{
+    "query": "In 2000, what was the approximate number of families with children under 18 in Omaha?",
+    "response": [
+        "doc_5221.txt",
+        "doc_4508.txt",
+        "doc_7359.txt",
+        "doc_23215.txt",
+        "doc_14055.txt"
+    ]
+}

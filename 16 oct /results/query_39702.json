@@ -1,0 +1,10 @@
+{
+    "query": "From what location can Fort Sumter be viewed, and what other landmarks are visible from that point?",
+    "response": [
+        "doc_4302.txt",
+        "doc_4338.txt",
+        "doc_1389.txt",
+        "doc_18535.txt",
+        "doc_8685.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was banned and condemned by the Index decree of 1616, related to Galileo\u2019s work?",
+    "response": [
+        "doc_16522.txt",
+        "doc_16509.txt",
+        "doc_16510.txt",
+        "doc_16505.txt",
+        "doc_16517.txt"
+    ]
+}

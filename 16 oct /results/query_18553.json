@@ -1,0 +1,10 @@
+{
+    "query": "When did World War II officially begin, according to the provided text?",
+    "response": [
+        "doc_10770.txt",
+        "doc_10769.txt",
+        "doc_10773.txt",
+        "doc_15917.txt",
+        "doc_10776.txt"
+    ]
+}

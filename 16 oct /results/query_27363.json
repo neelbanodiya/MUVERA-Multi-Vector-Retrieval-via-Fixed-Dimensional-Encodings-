@@ -1,0 +1,10 @@
+{
+    "query": "What was the duration of the Battle of Stalingrad?",
+    "response": [
+        "doc_15908.txt",
+        "doc_15916.txt",
+        "doc_15911.txt",
+        "doc_15912.txt",
+        "doc_15909.txt"
+    ]
+}

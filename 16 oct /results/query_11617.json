@@ -1,0 +1,10 @@
+{
+    "query": "Which committee was responsible for drafting the European Parliament\u2019s legislative resolution?",
+    "response": [
+        "doc_16817.txt",
+        "doc_13217.txt",
+        "doc_13346.txt",
+        "doc_13286.txt",
+        "doc_21805.txt"
+    ]
+}

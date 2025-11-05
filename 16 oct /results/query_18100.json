@@ -1,0 +1,10 @@
+{
+    "query": "What nationality was Gian Carlo Menotti?",
+    "response": [
+        "doc_15474.txt",
+        "doc_10468.txt",
+        "doc_10454.txt",
+        "doc_9190.txt",
+        "doc_8676.txt"
+    ]
+}

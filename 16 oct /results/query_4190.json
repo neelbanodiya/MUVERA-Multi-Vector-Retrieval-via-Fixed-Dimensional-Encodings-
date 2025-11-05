@@ -1,0 +1,10 @@
+{
+    "query": "How many times had Tiger Woods won at a specific location prior to the 2013 season?",
+    "response": [
+        "doc_19634.txt",
+        "doc_19640.txt",
+        "doc_3290.txt",
+        "doc_19626.txt",
+        "doc_19629.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who was the 1996 Winston Cup champion?",
+    "response": [
+        "doc_9084.txt",
+        "doc_9098.txt",
+        "doc_9083.txt",
+        "doc_14520.txt",
+        "doc_7232.txt"
+    ]
+}

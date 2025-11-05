@@ -1,0 +1,10 @@
+{
+    "query": "What specific warning is given regarding keyboard patterns in the zxcvbn JavaScript file?",
+    "response": [
+        "doc_16308.txt",
+        "doc_21614.txt",
+        "doc_24103.txt",
+        "doc_20213.txt",
+        "doc_23861.txt"
+    ]
+}

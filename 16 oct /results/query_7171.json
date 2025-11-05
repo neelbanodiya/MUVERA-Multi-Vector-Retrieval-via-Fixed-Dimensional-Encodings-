@@ -1,0 +1,10 @@
+{
+    "query": "Which court does Parliament utilize if it brings an action against the Council?",
+    "response": [
+        "doc_4145.txt",
+        "doc_18477.txt",
+        "doc_13265.txt",
+        "doc_13197.txt",
+        "doc_13213.txt"
+    ]
+}

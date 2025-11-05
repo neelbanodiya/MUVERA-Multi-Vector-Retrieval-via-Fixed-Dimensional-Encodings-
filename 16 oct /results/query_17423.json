@@ -1,0 +1,10 @@
+{
+    "query": "Which topic involved an exchange of views with Louis Michel, Commissioner for development and humanitarian aid?",
+    "response": [
+        "doc_10079.txt",
+        "doc_17442.txt",
+        "doc_8113.txt",
+        "doc_2823.txt",
+        "doc_9472.txt"
+    ]
+}

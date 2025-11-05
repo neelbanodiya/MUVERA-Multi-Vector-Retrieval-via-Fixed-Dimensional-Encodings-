@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is a \u201cBare Poles\u201d sailing vessel?",
+    "response": [
+        "doc_6995.txt",
+        "doc_15791.txt",
+        "doc_15288.txt",
+        "doc_23170.txt",
+        "doc_12598.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which articles of the EC Treaty were considered in relation to this legislative resolution?",
+    "response": [
+        "doc_4525.txt",
+        "doc_15419.txt",
+        "doc_10048.txt",
+        "doc_22513.txt",
+        "doc_5948.txt"
+    ]
+}

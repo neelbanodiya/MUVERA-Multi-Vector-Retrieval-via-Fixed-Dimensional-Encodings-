@@ -1,0 +1,10 @@
+{
+    "query": "What altitude does ADS-B transponder provide coverage for?",
+    "response": [
+        "doc_10842.txt",
+        "doc_12549.txt",
+        "doc_15387.txt",
+        "doc_5830.txt",
+        "doc_6174.txt"
+    ]
+}

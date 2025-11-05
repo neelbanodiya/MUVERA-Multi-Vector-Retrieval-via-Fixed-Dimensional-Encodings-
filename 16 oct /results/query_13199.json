@@ -1,0 +1,10 @@
+{
+    "query": "In what year did John King Cheyney come to Tarpon Springs?",
+    "response": [
+        "doc_7735.txt",
+        "doc_981.txt",
+        "doc_19478.txt",
+        "doc_24010.txt",
+        "doc_676.txt"
+    ]
+}

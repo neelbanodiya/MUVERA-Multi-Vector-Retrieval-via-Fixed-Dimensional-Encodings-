@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Kojiki (Records of Ancient Matters) compiled?",
+    "response": [
+        "doc_7134.txt",
+        "doc_7132.txt",
+        "doc_7144.txt",
+        "doc_7129.txt",
+        "doc_7135.txt"
+    ]
+}

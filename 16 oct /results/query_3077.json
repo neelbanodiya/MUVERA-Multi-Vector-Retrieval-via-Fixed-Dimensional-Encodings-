@@ -1,0 +1,10 @@
+{
+    "query": "What anniversary is Rosenborg celebrating, and on what date?",
+    "response": [
+        "doc_105.txt",
+        "doc_1882.txt",
+        "doc_107.txt",
+        "doc_99.txt",
+        "doc_13530.txt"
+    ]
+}

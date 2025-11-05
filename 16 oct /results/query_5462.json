@@ -1,0 +1,10 @@
+{
+    "query": "What cricket debut did Qadeer Ahmed make, and against which team?",
+    "response": [
+        "doc_23851.txt",
+        "doc_3188.txt",
+        "doc_15164.txt",
+        "doc_22481.txt",
+        "doc_23858.txt"
+    ]
+}

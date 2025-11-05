@@ -1,0 +1,10 @@
+{
+    "query": "Who did Jay Leno mention missed a gate on his way home from Torino?",
+    "response": [
+        "doc_11616.txt",
+        "doc_6252.txt",
+        "doc_16335.txt",
+        "doc_22441.txt",
+        "doc_13690.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What natural event was impacting the country from the Bay of Bengal late Friday?",
+    "response": [
+        "doc_15952.txt",
+        "doc_15955.txt",
+        "doc_15953.txt",
+        "doc_18993.txt",
+        "doc_18994.txt"
+    ]
+}

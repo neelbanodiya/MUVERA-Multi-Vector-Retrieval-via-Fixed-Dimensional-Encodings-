@@ -1,0 +1,10 @@
+{
+    "query": "Who gave the Golden Gate Bridge its name?",
+    "response": [
+        "doc_19672.txt",
+        "doc_19671.txt",
+        "doc_19674.txt",
+        "doc_16685.txt",
+        "doc_5187.txt"
+    ]
+}

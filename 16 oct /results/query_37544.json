@@ -1,0 +1,10 @@
+{
+    "query": "Where was the original Tiffany & Young store located?",
+    "response": [
+        "doc_2180.txt",
+        "doc_9777.txt",
+        "doc_21992.txt",
+        "doc_21993.txt",
+        "doc_9778.txt"
+    ]
+}

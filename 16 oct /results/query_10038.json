@@ -1,0 +1,10 @@
+{
+    "query": "What band was John Humphrey a drummer for before joining Seether?",
+    "response": [
+        "doc_5820.txt",
+        "doc_5897.txt",
+        "doc_12714.txt",
+        "doc_720.txt",
+        "doc_16276.txt"
+    ]
+}

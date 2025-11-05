@@ -1,0 +1,10 @@
+{
+    "query": "What year was the \u201cAlien Wars (Ed Hunt, 1977)\u201d science-fiction title released?",
+    "response": [
+        "doc_8321.txt",
+        "doc_21447.txt",
+        "doc_2925.txt",
+        "doc_21444.txt",
+        "doc_4987.txt"
+    ]
+}

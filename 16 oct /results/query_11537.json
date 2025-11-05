@@ -1,0 +1,10 @@
+{
+    "query": "What is the record that Blatt achieved as an NBA coach during the game?",
+    "response": [
+        "doc_20204.txt",
+        "doc_8502.txt",
+        "doc_7515.txt",
+        "doc_9158.txt",
+        "doc_6717.txt"
+    ]
+}

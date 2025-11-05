@@ -1,0 +1,10 @@
+{
+    "query": "Can you identify any towns within the Black Forest that are specifically recognized as spa resorts?",
+    "response": [
+        "doc_6187.txt",
+        "doc_6192.txt",
+        "doc_3656.txt",
+        "doc_22341.txt",
+        "doc_5754.txt"
+    ]
+}

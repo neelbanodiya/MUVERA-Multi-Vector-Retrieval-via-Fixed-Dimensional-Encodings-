@@ -1,0 +1,10 @@
+{
+    "query": "What UN Security Council resolution does the passage highlight the importance of implementing, and what does it specifically call for regarding Syria?",
+    "response": [
+        "doc_4752.txt",
+        "doc_2066.txt",
+        "doc_18589.txt",
+        "doc_15263.txt",
+        "doc_17385.txt"
+    ]
+}

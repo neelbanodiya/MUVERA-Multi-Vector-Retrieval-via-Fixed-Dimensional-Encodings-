@@ -1,0 +1,10 @@
+{
+    "query": "According to the Daily Mail article, what is one trend observed regarding social media usage?",
+    "response": [
+        "doc_21412.txt",
+        "doc_5221.txt",
+        "doc_11951.txt",
+        "doc_5555.txt",
+        "doc_5407.txt"
+    ]
+}

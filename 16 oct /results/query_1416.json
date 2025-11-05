@@ -1,0 +1,10 @@
+{
+    "query": "What system is used for Japanese romanization?",
+    "response": [
+        "doc_5394.txt",
+        "doc_22959.txt",
+        "doc_12379.txt",
+        "doc_792.txt",
+        "doc_12128.txt"
+    ]
+}

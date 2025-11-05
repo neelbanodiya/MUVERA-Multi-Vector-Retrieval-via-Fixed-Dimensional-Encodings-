@@ -1,0 +1,10 @@
+{
+    "query": "What is the historical origin of the name \"Pillars of Hercules\"?",
+    "response": [
+        "doc_8682.txt",
+        "doc_8685.txt",
+        "doc_8684.txt",
+        "doc_8683.txt",
+        "doc_5428.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was Emma Hamilton known for, according to the passage?",
+    "response": [
+        "doc_20408.txt",
+        "doc_3550.txt",
+        "doc_16749.txt",
+        "doc_14547.txt",
+        "doc_23544.txt"
+    ]
+}

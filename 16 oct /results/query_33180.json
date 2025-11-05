@@ -1,0 +1,10 @@
+{
+    "query": "Who was the first woman appointed to the Senate, although her service was brief?",
+    "response": [
+        "doc_19313.txt",
+        "doc_19312.txt",
+        "doc_19322.txt",
+        "doc_19316.txt",
+        "doc_19319.txt"
+    ]
+}

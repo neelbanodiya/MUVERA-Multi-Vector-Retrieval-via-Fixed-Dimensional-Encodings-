@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what stage element did The Who utilize to enhance their performances?",
+    "response": [
+        "doc_15319.txt",
+        "doc_20488.txt",
+        "doc_14187.txt",
+        "doc_23546.txt",
+        "doc_5694.txt"
+    ]
+}

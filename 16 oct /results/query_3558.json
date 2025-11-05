@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was McCarthy accused of during the 1950s?",
+    "response": [
+        "doc_2101.txt",
+        "doc_2088.txt",
+        "doc_2092.txt",
+        "doc_2096.txt",
+        "doc_2094.txt"
+    ]
+}

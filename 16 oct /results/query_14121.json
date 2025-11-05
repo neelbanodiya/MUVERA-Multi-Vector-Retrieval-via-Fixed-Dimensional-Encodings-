@@ -1,0 +1,10 @@
+{
+    "query": "Which film, directed by Garth Davis, features Dev Patel and Rooney Mara, and is based on a book about a young boy\u2019s journey home?",
+    "response": [
+        "doc_8693.txt",
+        "doc_14684.txt",
+        "doc_4874.txt",
+        "doc_20567.txt",
+        "doc_2231.txt"
+    ]
+}

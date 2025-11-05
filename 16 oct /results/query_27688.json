@@ -1,0 +1,10 @@
+{
+    "query": "What was the original title of *Mad Max 2: The Road Warrior*?",
+    "response": [
+        "doc_16102.txt",
+        "doc_16093.txt",
+        "doc_3201.txt",
+        "doc_1231.txt",
+        "doc_1560.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What events occurred in China surrounding June 1989?",
+    "response": [
+        "doc_1043.txt",
+        "doc_10972.txt",
+        "doc_10984.txt",
+        "doc_10981.txt",
+        "doc_1046.txt"
+    ]
+}

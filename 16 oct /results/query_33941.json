@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary activity associated with Hanukkah?",
+    "response": [
+        "doc_19760.txt",
+        "doc_19774.txt",
+        "doc_19761.txt",
+        "doc_19768.txt",
+        "doc_19765.txt"
+    ]
+}

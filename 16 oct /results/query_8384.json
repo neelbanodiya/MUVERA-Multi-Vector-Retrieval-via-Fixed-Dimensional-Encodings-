@@ -1,0 +1,10 @@
+{
+    "query": "What role does the government play in disaster relief, specifically referencing Hurricane Katrina?",
+    "response": [
+        "doc_4548.txt",
+        "doc_17565.txt",
+        "doc_3599.txt",
+        "doc_9151.txt",
+        "doc_23668.txt"
+    ]
+}

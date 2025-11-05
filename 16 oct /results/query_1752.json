@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate cost of a 12-month subscription to \"Military Medical Business\" in 1939?",
+    "response": [
+        "doc_999.txt",
+        "doc_21972.txt",
+        "doc_4164.txt",
+        "doc_12027.txt",
+        "doc_7560.txt"
+    ]
+}

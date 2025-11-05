@@ -1,0 +1,10 @@
+{
+    "query": "Where was Buddy Ebsen, who played Jed Clampett, born and raised?",
+    "response": [
+        "doc_17186.txt",
+        "doc_17187.txt",
+        "doc_17184.txt",
+        "doc_18954.txt",
+        "doc_18822.txt"
+    ]
+}

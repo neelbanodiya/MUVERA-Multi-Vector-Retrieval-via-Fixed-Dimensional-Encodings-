@@ -1,0 +1,10 @@
+{
+    "query": "What does \u201cGate of Heavenly Peace\u201d translate to in Chinese?",
+    "response": [
+        "doc_1042.txt",
+        "doc_1050.txt",
+        "doc_1049.txt",
+        "doc_1054.txt",
+        "doc_1053.txt"
+    ]
+}

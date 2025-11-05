@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was a key characteristic of Larry Flynt\u2019s marriage to Althea?",
+    "response": [
+        "doc_17029.txt",
+        "doc_17024.txt",
+        "doc_17031.txt",
+        "doc_17023.txt",
+        "doc_17021.txt"
+    ]
+}

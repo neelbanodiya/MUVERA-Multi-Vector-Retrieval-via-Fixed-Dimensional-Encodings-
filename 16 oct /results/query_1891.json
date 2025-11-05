@@ -1,0 +1,10 @@
+{
+    "query": "What kind of party was held in Kingston, NY?",
+    "response": [
+        "doc_7298.txt",
+        "doc_12177.txt",
+        "doc_15358.txt",
+        "doc_6835.txt",
+        "doc_20875.txt"
+    ]
+}

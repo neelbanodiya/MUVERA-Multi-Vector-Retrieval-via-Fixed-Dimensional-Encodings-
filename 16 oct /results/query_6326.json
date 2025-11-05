@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is a popular day trip option from Barcelona involving a mountain excursion and a monastery?",
+    "response": [
+        "doc_3667.txt",
+        "doc_19445.txt",
+        "doc_3668.txt",
+        "doc_1009.txt",
+        "doc_1006.txt"
+    ]
+}

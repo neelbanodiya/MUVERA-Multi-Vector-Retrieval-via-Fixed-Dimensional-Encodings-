@@ -1,0 +1,10 @@
+{
+    "query": "What is the current status of Qaddafi forces in Libya?",
+    "response": [
+        "doc_6491.txt",
+        "doc_19590.txt",
+        "doc_13132.txt",
+        "doc_1603.txt",
+        "doc_6489.txt"
+    ]
+}

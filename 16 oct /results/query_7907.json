@@ -1,0 +1,10 @@
+{
+    "query": "What year did Nixon become newly elected?",
+    "response": [
+        "doc_15078.txt",
+        "doc_3807.txt",
+        "doc_16473.txt",
+        "doc_16805.txt",
+        "doc_2475.txt"
+    ]
+}

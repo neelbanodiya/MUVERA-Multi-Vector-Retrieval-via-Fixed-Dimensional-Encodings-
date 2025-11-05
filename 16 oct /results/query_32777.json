@@ -1,0 +1,10 @@
+{
+    "query": "Which individuals are associated with the Mayors' Institute on City Design, as listed in the National Endowment for the Arts document?",
+    "response": [
+        "doc_19270.txt",
+        "doc_3050.txt",
+        "doc_2108.txt",
+        "doc_15562.txt",
+        "doc_1635.txt"
+    ]
+}

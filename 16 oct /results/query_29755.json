@@ -1,0 +1,10 @@
+{
+    "query": "When did Monroe become Governor of Virginia?",
+    "response": [
+        "doc_10063.txt",
+        "doc_10065.txt",
+        "doc_17284.txt",
+        "doc_17283.txt",
+        "doc_10068.txt"
+    ]
+}

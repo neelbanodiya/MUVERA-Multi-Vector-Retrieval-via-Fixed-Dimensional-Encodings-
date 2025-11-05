@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what happened to the UMass football team\u2019s 25-game winning streak?",
+    "response": [
+        "doc_24235.txt",
+        "doc_11269.txt",
+        "doc_24248.txt",
+        "doc_20069.txt",
+        "doc_8503.txt"
+    ]
+}

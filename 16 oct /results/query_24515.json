@@ -1,0 +1,10 @@
+{
+    "query": "What legislative resolution is being considered by the European Parliament regarding cross-border police cooperation?",
+    "response": [
+        "doc_14344.txt",
+        "doc_14253.txt",
+        "doc_14343.txt",
+        "doc_21798.txt",
+        "doc_7294.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote \u201cMy Little Town,\u201d and on which of his solo albums did it later appear?",
+    "response": [
+        "doc_13852.txt",
+        "doc_19777.txt",
+        "doc_12571.txt",
+        "doc_5598.txt",
+        "doc_17758.txt"
+    ]
+}

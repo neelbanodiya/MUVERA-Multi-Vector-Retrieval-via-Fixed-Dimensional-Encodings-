@@ -1,0 +1,10 @@
+{
+    "query": "Will the Commission state the proportion of GDP of each Member State traded with euro and non-euro EU Member States in each year for the last five years?",
+    "response": [
+        "doc_15648.txt",
+        "doc_2718.txt",
+        "doc_2254.txt",
+        "doc_12029.txt",
+        "doc_20404.txt"
+    ]
+}

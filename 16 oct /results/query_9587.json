@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate percentage of successful projects presented by local authorities in the first call for proposals under the European Water Fund?",
+    "response": [
+        "doc_5522.txt",
+        "doc_1363.txt",
+        "doc_14366.txt",
+        "doc_22987.txt",
+        "doc_15137.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which literary critic coined the term \"School of Resentment\"?",
+    "response": [
+        "doc_22535.txt",
+        "doc_20268.txt",
+        "doc_5323.txt",
+        "doc_12350.txt",
+        "doc_9433.txt"
+    ]
+}

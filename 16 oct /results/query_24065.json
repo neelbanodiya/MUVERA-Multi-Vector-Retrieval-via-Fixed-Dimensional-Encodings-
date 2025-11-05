@@ -1,0 +1,10 @@
+{
+    "query": "In ancient Egypt, who was a god associated with Horus?",
+    "response": [
+        "doc_13954.txt",
+        "doc_1301.txt",
+        "doc_12562.txt",
+        "doc_12567.txt",
+        "doc_13953.txt"
+    ]
+}

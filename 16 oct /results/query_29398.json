@@ -1,0 +1,10 @@
+{
+    "query": "According to Mother Jones, who led the \u201cGroundswell\u201d group, and where did it initially meet?",
+    "response": [
+        "doc_1450.txt",
+        "doc_2177.txt",
+        "doc_11032.txt",
+        "doc_19749.txt",
+        "doc_2603.txt"
+    ]
+}

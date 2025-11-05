@@ -1,0 +1,10 @@
+{
+    "query": "What event did the swimmer compete in at the 1984 Summer Olympics?",
+    "response": [
+        "doc_22767.txt",
+        "doc_19243.txt",
+        "doc_8678.txt",
+        "doc_22769.txt",
+        "doc_8677.txt"
+    ]
+}

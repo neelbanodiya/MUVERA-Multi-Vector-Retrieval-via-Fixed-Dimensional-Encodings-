@@ -1,0 +1,10 @@
+{
+    "query": "What astrological sign was Dick Cheney born under, according to the provided text?",
+    "response": [
+        "doc_23874.txt",
+        "doc_2560.txt",
+        "doc_2561.txt",
+        "doc_2567.txt",
+        "doc_517.txt"
+    ]
+}

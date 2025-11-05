@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 3, what specific information is included in each annex detailing the accounts to be compiled?",
+    "response": [
+        "doc_6170.txt",
+        "doc_2838.txt",
+        "doc_12491.txt",
+        "doc_12489.txt",
+        "doc_16405.txt"
+    ]
+}

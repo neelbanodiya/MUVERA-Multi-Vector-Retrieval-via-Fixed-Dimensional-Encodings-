@@ -1,0 +1,10 @@
+{
+    "query": "Which syndicate distributes Mark Parisi\u2019s \u201cOff the Mark\u201d comic panel daily?",
+    "response": [
+        "doc_18583.txt",
+        "doc_5402.txt",
+        "doc_21368.txt",
+        "doc_19456.txt",
+        "doc_7825.txt"
+    ]
+}

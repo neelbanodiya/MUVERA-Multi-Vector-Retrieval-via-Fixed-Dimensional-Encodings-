@@ -1,0 +1,10 @@
+{
+    "query": "In what state was the play \u201cAnasazi: The Ancient Ones\u201d presented?",
+    "response": [
+        "doc_18491.txt",
+        "doc_13798.txt",
+        "doc_13957.txt",
+        "doc_23543.txt",
+        "doc_1297.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many colonies did the Phoenicians establish in North Africa?",
+    "response": [
+        "doc_8351.txt",
+        "doc_8352.txt",
+        "doc_8349.txt",
+        "doc_8345.txt",
+        "doc_8347.txt"
+    ]
+}

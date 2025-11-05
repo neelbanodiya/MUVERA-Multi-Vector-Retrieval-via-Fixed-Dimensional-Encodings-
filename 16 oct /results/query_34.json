@@ -1,0 +1,10 @@
+{
+    "query": "What company was Richard Scrushy associated with?",
+    "response": [
+        "doc_14642.txt",
+        "doc_13726.txt",
+        "doc_14641.txt",
+        "doc_17690.txt",
+        "doc_1716.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the date of the REGI meeting where these documents were voted on?",
+    "response": [
+        "doc_9695.txt",
+        "doc_24064.txt",
+        "doc_21016.txt",
+        "doc_4529.txt",
+        "doc_22187.txt"
+    ]
+}

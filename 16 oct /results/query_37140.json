@@ -1,0 +1,10 @@
+{
+    "query": "What did Brandt do after stepping down as Chancellor in 1974?",
+    "response": [
+        "doc_21738.txt",
+        "doc_21730.txt",
+        "doc_21729.txt",
+        "doc_21731.txt",
+        "doc_21733.txt"
+    ]
+}

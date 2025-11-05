@@ -1,0 +1,10 @@
+{
+    "query": "Which country is the world\u2019s largest copper producer, and which mine within that country is located in the Atacama Desert?",
+    "response": [
+        "doc_5150.txt",
+        "doc_5146.txt",
+        "doc_5154.txt",
+        "doc_5148.txt",
+        "doc_5143.txt"
+    ]
+}

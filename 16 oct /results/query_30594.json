@@ -1,0 +1,10 @@
+{
+    "query": "Which neighboring republics are mentioned as potential destinations for Chechen refugees?",
+    "response": [
+        "doc_17781.txt",
+        "doc_17782.txt",
+        "doc_17783.txt",
+        "doc_7265.txt",
+        "doc_4627.txt"
+    ]
+}

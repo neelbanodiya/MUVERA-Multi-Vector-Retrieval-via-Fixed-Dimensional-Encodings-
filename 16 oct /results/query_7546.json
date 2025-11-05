@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the MPAA film number 2754, as listed in the provided text?",
+    "response": [
+        "doc_23511.txt",
+        "doc_3534.txt",
+        "doc_18219.txt",
+        "doc_21157.txt",
+        "doc_15484.txt"
+    ]
+}

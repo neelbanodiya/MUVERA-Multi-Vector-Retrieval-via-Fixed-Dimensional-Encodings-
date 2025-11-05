@@ -1,0 +1,10 @@
+{
+    "query": "What event led to a police raid at Spahn Ranch in 1973?",
+    "response": [
+        "doc_16252.txt",
+        "doc_9016.txt",
+        "doc_9014.txt",
+        "doc_19268.txt",
+        "doc_9001.txt"
+    ]
+}

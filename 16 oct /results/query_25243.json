@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the links, what city was formerly known as Saigon?",
+    "response": [
+        "doc_1051.txt",
+        "doc_67.txt",
+        "doc_70.txt",
+        "doc_1053.txt",
+        "doc_21161.txt"
+    ]
+}

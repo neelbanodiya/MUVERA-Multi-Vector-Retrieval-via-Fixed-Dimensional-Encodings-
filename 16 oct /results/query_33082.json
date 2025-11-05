@@ -1,0 +1,10 @@
+{
+    "query": "Which director is modeled on John Huston in a film from the 1980s?",
+    "response": [
+        "doc_15484.txt",
+        "doc_1230.txt",
+        "doc_400.txt",
+        "doc_16095.txt",
+        "doc_2679.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which international agreements are Syria a party to, relevant to the concerns raised in this resolution?",
+    "response": [
+        "doc_15257.txt",
+        "doc_9920.txt",
+        "doc_15264.txt",
+        "doc_15260.txt",
+        "doc_15263.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Sinatra made his 1st record in July 1939 as a vocalist for this trumpeter\u2019s band.",
+    "response": [
+        "doc_9453.txt",
+        "doc_9469.txt",
+        "doc_9457.txt",
+        "doc_9454.txt",
+        "doc_9467.txt"
+    ]
+}

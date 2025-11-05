@@ -1,0 +1,10 @@
+{
+    "query": "What is the European Food Safety Authority (EFSA) tasked with doing regarding the data collected from the MRSA survey?",
+    "response": [
+        "doc_12679.txt",
+        "doc_16439.txt",
+        "doc_7100.txt",
+        "doc_9058.txt",
+        "doc_12680.txt"
+    ]
+}

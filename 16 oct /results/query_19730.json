@@ -1,0 +1,10 @@
+{
+    "query": "Besides humans, in what animal does the bacteria Bordetella bronchiseptica, related to Bordetella pertussis, cause respiratory disease?",
+    "response": [
+        "doc_11385.txt",
+        "doc_11384.txt",
+        "doc_11387.txt",
+        "doc_11391.txt",
+        "doc_11392.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What specific topics are being debated by MEPs this week in Brussels?",
+    "response": [
+        "doc_15389.txt",
+        "doc_5870.txt",
+        "doc_8028.txt",
+        "doc_2292.txt",
+        "doc_17375.txt"
+    ]
+}

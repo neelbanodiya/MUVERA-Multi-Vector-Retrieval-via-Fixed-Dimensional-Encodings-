@@ -1,0 +1,10 @@
+{
+    "query": "What geographical feature is referenced as \u201cBloody Lane\u201d at the Antietam battlefield?",
+    "response": [
+        "doc_193.txt",
+        "doc_203.txt",
+        "doc_199.txt",
+        "doc_201.txt",
+        "doc_195.txt"
+    ]
+}

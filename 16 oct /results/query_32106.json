@@ -1,0 +1,10 @@
+{
+    "query": "For what team did Daisuke Matsuzaka play in Nippon Professional Baseball (NPB)?",
+    "response": [
+        "doc_18715.txt",
+        "doc_18714.txt",
+        "doc_23052.txt",
+        "doc_15514.txt",
+        "doc_2615.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What are some other German surnames mentioned in the text that relate to occupations?",
+    "response": [
+        "doc_8296.txt",
+        "doc_8297.txt",
+        "doc_12501.txt",
+        "doc_3441.txt",
+        "doc_3440.txt"
+    ]
+}

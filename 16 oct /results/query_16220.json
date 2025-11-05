@@ -1,0 +1,10 @@
+{
+    "query": "What document was submitted to the summit by the Commission regarding Latin America?",
+    "response": [
+        "doc_9397.txt",
+        "doc_3075.txt",
+        "doc_5393.txt",
+        "doc_19523.txt",
+        "doc_16992.txt"
+    ]
+}

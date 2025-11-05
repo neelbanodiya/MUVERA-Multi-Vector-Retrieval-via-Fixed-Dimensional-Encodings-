@@ -1,0 +1,10 @@
+{
+    "query": "How many wives did King Henry VIII have?",
+    "response": [
+        "doc_23554.txt",
+        "doc_23555.txt",
+        "doc_23547.txt",
+        "doc_23548.txt",
+        "doc_23551.txt"
+    ]
+}

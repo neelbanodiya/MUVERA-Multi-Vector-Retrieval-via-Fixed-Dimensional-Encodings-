@@ -1,0 +1,10 @@
+{
+    "query": "When was much of *Superman II* filmed?",
+    "response": [
+        "doc_582.txt",
+        "doc_14779.txt",
+        "doc_4991.txt",
+        "doc_7770.txt",
+        "doc_9891.txt"
+    ]
+}

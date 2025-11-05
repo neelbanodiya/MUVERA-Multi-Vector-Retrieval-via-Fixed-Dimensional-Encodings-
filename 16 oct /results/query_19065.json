@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, who provided much of the information preserved about Greek architectural orders?",
+    "response": [
+        "doc_11048.txt",
+        "doc_11117.txt",
+        "doc_22658.txt",
+        "doc_7648.txt",
+        "doc_16485.txt"
+    ]
+}

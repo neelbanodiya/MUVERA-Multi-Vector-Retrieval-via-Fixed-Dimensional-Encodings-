@@ -1,0 +1,10 @@
+{
+    "query": "What is \u201ctripes la mode de Caen,\u201d and where is it popular?",
+    "response": [
+        "doc_17951.txt",
+        "doc_23171.txt",
+        "doc_1005.txt",
+        "doc_17811.txt",
+        "doc_3668.txt"
+    ]
+}

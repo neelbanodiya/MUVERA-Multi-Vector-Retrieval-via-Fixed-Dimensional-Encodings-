@@ -1,0 +1,10 @@
+{
+    "query": "What types of businesses are featured on the OpenTable website?",
+    "response": [
+        "doc_23502.txt",
+        "doc_22042.txt",
+        "doc_8233.txt",
+        "doc_8043.txt",
+        "doc_22355.txt"
+    ]
+}

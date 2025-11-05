@@ -1,0 +1,10 @@
+{
+    "query": "Which agreements are referenced as being between the European Communities and their Member States, and Tunisia, Israel, Morocco, Jordan, Egypt, Lebanon, and Algeria?",
+    "response": [
+        "doc_2484.txt",
+        "doc_1211.txt",
+        "doc_13920.txt",
+        "doc_21466.txt",
+        "doc_1210.txt"
+    ]
+}

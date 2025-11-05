@@ -1,0 +1,10 @@
+{
+    "query": "Who was Francis Hughes?",
+    "response": [
+        "doc_9771.txt",
+        "doc_7878.txt",
+        "doc_5609.txt",
+        "doc_19682.txt",
+        "doc_19680.txt"
+    ]
+}

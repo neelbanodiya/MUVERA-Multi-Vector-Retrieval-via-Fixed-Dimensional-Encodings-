@@ -1,0 +1,10 @@
+{
+    "query": "What year did Grauman\u2019s Chinese Theatre open?",
+    "response": [
+        "doc_9370.txt",
+        "doc_20958.txt",
+        "doc_10560.txt",
+        "doc_7878.txt",
+        "doc_16987.txt"
+    ]
+}

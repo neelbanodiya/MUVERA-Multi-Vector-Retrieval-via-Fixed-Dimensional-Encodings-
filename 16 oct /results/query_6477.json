@@ -1,0 +1,10 @@
+{
+    "query": "What NBC series featured the recurring character Dr. Jules Bedford?",
+    "response": [
+        "doc_7877.txt",
+        "doc_5596.txt",
+        "doc_12613.txt",
+        "doc_6752.txt",
+        "doc_4713.txt"
+    ]
+}

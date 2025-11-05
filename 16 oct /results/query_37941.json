@@ -1,0 +1,10 @@
+{
+    "query": "During whose reign was Sir Thomas Malory a \u201cknight-prisoner\u201d?",
+    "response": [
+        "doc_22246.txt",
+        "doc_22247.txt",
+        "doc_22249.txt",
+        "doc_22250.txt",
+        "doc_22259.txt"
+    ]
+}

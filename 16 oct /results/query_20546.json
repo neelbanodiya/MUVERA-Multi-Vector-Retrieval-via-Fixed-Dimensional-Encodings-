@@ -1,0 +1,10 @@
+{
+    "query": "What specific documents from the Albanian Central State Archive in Tirana were referenced?",
+    "response": [
+        "doc_12937.txt",
+        "doc_8131.txt",
+        "doc_7355.txt",
+        "doc_22410.txt",
+        "doc_19043.txt"
+    ]
+}

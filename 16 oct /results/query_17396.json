@@ -1,0 +1,10 @@
+{
+    "query": "What was Patrick Henry\u2019s profession, as indicated by the provided texts?",
+    "response": [
+        "doc_337.txt",
+        "doc_342.txt",
+        "doc_338.txt",
+        "doc_19952.txt",
+        "doc_7648.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the 1995 Nebraska Cornhuskers' average margin of victory?",
+    "response": [
+        "doc_15564.txt",
+        "doc_15563.txt",
+        "doc_15565.txt",
+        "doc_24232.txt",
+        "doc_24235.txt"
+    ]
+}

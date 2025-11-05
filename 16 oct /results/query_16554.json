@@ -1,0 +1,10 @@
+{
+    "query": "What geological process is still occurring due to the collision of plates involving the Japanese islands and the Aleutian Islands?",
+    "response": [
+        "doc_9613.txt",
+        "doc_9619.txt",
+        "doc_9297.txt",
+        "doc_9296.txt",
+        "doc_9621.txt"
+    ]
+}

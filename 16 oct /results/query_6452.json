@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the town that someone \u201cout there\u201d lives in, according to Stephen King?",
+    "response": [
+        "doc_3725.txt",
+        "doc_18486.txt",
+        "doc_6091.txt",
+        "doc_17884.txt",
+        "doc_9226.txt"
+    ]
+}

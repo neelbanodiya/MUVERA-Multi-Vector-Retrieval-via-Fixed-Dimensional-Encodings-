@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Eleanor Parker portray Connie Rossi?",
+    "response": [
+        "doc_745.txt",
+        "doc_7071.txt",
+        "doc_22744.txt",
+        "doc_4646.txt",
+        "doc_4648.txt"
+    ]
+}

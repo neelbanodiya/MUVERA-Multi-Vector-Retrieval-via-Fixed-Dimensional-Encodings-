@@ -1,0 +1,10 @@
+{
+    "query": "What role did Bob Hope play in the 1955 film *The Seven Little Foys*?",
+    "response": [
+        "doc_18856.txt",
+        "doc_18855.txt",
+        "doc_18857.txt",
+        "doc_18862.txt",
+        "doc_18866.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What amount of investment did the Austrian company Delta Projektconsult GmbH make in Romania?",
+    "response": [
+        "doc_4660.txt",
+        "doc_1143.txt",
+        "doc_16658.txt",
+        "doc_13897.txt",
+        "doc_24177.txt"
+    ]
+}

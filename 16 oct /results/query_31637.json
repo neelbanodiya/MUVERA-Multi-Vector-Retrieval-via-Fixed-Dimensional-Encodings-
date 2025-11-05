@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which racial or ethnic groups are featured in some of the literary works discussed (e.g., colonists, Algerians)?",
+    "response": [
+        "doc_14822.txt",
+        "doc_21599.txt",
+        "doc_14082.txt",
+        "doc_7415.txt",
+        "doc_23252.txt"
+    ]
+}

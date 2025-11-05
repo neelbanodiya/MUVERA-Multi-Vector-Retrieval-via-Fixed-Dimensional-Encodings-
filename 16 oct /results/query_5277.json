@@ -1,0 +1,10 @@
+{
+    "query": "Which club did Kim Min-hai transfer to after joining SV Darmstadt 98?",
+    "response": [
+        "doc_3072.txt",
+        "doc_3073.txt",
+        "doc_1883.txt",
+        "doc_16054.txt",
+        "doc_2602.txt"
+    ]
+}

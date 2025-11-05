@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cThe Lord of the Rings: The Two Towers\u201d released on DVD?",
+    "response": [
+        "doc_4437.txt",
+        "doc_4436.txt",
+        "doc_4433.txt",
+        "doc_4432.txt",
+        "doc_4435.txt"
+    ]
+}

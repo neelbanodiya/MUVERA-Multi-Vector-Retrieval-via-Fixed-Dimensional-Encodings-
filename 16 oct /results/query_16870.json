@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Sears open at Towne West Square, and how long after the mall\u2019s initial opening was this?",
+    "response": [
+        "doc_9777.txt",
+        "doc_9775.txt",
+        "doc_2179.txt",
+        "doc_18369.txt",
+        "doc_2180.txt"
+    ]
+}

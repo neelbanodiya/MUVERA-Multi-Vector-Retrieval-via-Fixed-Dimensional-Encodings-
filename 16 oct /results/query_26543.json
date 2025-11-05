@@ -1,0 +1,10 @@
+{
+    "query": "According to D Magazine, who were the two members who spoke the longest?",
+    "response": [
+        "doc_15771.txt",
+        "doc_337.txt",
+        "doc_7607.txt",
+        "doc_14534.txt",
+        "doc_23701.txt"
+    ]
+}

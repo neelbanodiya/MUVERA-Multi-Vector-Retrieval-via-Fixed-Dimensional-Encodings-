@@ -1,0 +1,10 @@
+{
+    "query": "Who was the first GOP majority leader in 40 years, according to the provided sources?",
+    "response": [
+        "doc_9773.txt",
+        "doc_16809.txt",
+        "doc_4775.txt",
+        "doc_5965.txt",
+        "doc_3071.txt"
+    ]
+}

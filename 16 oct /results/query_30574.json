@@ -1,0 +1,10 @@
+{
+    "query": "How many works of nonfiction prose did Daniel Defoe produce, according to the passage?",
+    "response": [
+        "doc_17759.txt",
+        "doc_17769.txt",
+        "doc_17755.txt",
+        "doc_17770.txt",
+        "doc_17763.txt"
+    ]
+}

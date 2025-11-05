@@ -1,0 +1,10 @@
+{
+    "query": "What specific information must be included in the record required for used EEE shipments?",
+    "response": [
+        "doc_18040.txt",
+        "doc_18050.txt",
+        "doc_18002.txt",
+        "doc_18047.txt",
+        "doc_18003.txt"
+    ]
+}

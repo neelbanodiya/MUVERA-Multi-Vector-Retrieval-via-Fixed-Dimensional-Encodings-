@@ -1,0 +1,10 @@
+{
+    "query": "What claim does the Book of Mormon make about its origin and relationship to the Bible?",
+    "response": [
+        "doc_5042.txt",
+        "doc_5043.txt",
+        "doc_5034.txt",
+        "doc_5033.txt",
+        "doc_5040.txt"
+    ]
+}

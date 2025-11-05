@@ -1,0 +1,10 @@
+{
+    "query": "According to the Wikipedia article, what type of beer is England particularly known for?",
+    "response": [
+        "doc_14777.txt",
+        "doc_2212.txt",
+        "doc_2213.txt",
+        "doc_11718.txt",
+        "doc_6096.txt"
+    ]
+}

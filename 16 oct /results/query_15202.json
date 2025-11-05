@@ -1,0 +1,10 @@
+{
+    "query": "What style of American Hollywood comedy was reportedly no longer present in *The Crucible* and *Teahouse of the August Moon*?",
+    "response": [
+        "doc_8811.txt",
+        "doc_2152.txt",
+        "doc_21211.txt",
+        "doc_1580.txt",
+        "doc_19272.txt"
+    ]
+}

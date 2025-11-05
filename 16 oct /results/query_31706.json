@@ -1,0 +1,10 @@
+{
+    "query": "Who was the last king of the 11th Dynasty of Egypt?",
+    "response": [
+        "doc_9760.txt",
+        "doc_9762.txt",
+        "doc_9761.txt",
+        "doc_18490.txt",
+        "doc_9759.txt"
+    ]
+}

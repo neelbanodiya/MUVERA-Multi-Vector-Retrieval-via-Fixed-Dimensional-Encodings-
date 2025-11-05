@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is being debated by scholars at the Vatican regarding the veil of St. Veronica?",
+    "response": [
+        "doc_9306.txt",
+        "doc_9303.txt",
+        "doc_9316.txt",
+        "doc_9302.txt",
+        "doc_9310.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which political group did Georgios Toussas claim the criminal proceedings against him were politically motivated from?",
+    "response": [
+        "doc_20104.txt",
+        "doc_13011.txt",
+        "doc_9995.txt",
+        "doc_11983.txt",
+        "doc_6492.txt"
+    ]
+}

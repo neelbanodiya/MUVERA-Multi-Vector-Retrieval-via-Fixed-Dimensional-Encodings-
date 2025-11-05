@@ -1,0 +1,10 @@
+{
+    "query": "What method is the Commission using to achieve its goal of compensating air passengers?",
+    "response": [
+        "doc_7005.txt",
+        "doc_6994.txt",
+        "doc_1269.txt",
+        "doc_12320.txt",
+        "doc_7016.txt"
+    ]
+}

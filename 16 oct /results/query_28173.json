@@ -1,0 +1,10 @@
+{
+    "query": "When was Pope Gregory XIII\u2019s revised calendar issued?",
+    "response": [
+        "doc_16353.txt",
+        "doc_16355.txt",
+        "doc_16358.txt",
+        "doc_16354.txt",
+        "doc_16359.txt"
+    ]
+}

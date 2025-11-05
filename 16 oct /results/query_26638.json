@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what does Griffith call Abraham Lincoln?",
+    "response": [
+        "doc_14075.txt",
+        "doc_14081.txt",
+        "doc_14072.txt",
+        "doc_5295.txt",
+        "doc_14076.txt"
+    ]
+}

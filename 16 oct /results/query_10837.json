@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is a custom observed in Paris regarding greetings?",
+    "response": [
+        "doc_6251.txt",
+        "doc_5857.txt",
+        "doc_1087.txt",
+        "doc_21607.txt",
+        "doc_1533.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which saints are mentioned in relation to mercy and apostles Peter, Paul, and John?",
+    "response": [
+        "doc_20634.txt",
+        "doc_13954.txt",
+        "doc_12842.txt",
+        "doc_5044.txt",
+        "doc_5043.txt"
+    ]
+}

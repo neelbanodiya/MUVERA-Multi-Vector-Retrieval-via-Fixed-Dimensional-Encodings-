@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of the book published by Penguin in 1982?",
+    "response": [
+        "doc_15555.txt",
+        "doc_19984.txt",
+        "doc_15276.txt",
+        "doc_15547.txt",
+        "doc_7862.txt"
+    ]
+}

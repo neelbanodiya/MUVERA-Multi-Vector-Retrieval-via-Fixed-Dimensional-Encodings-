@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Kingston established as the capital of Jamaica?",
+    "response": [
+        "doc_19464.txt",
+        "doc_19476.txt",
+        "doc_19475.txt",
+        "doc_19465.txt",
+        "doc_19477.txt"
+    ]
+}

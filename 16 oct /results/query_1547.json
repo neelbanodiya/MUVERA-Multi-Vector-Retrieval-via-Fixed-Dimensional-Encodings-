@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate daily tonnage of supplies flown into Berlin during the Berlin Airlift?",
+    "response": [
+        "doc_874.txt",
+        "doc_875.txt",
+        "doc_881.txt",
+        "doc_876.txt",
+        "doc_870.txt"
+    ]
+}

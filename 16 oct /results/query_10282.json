@@ -1,0 +1,10 @@
+{
+    "query": "What is the current political alignment of the House of Representatives, as indicated by the title \"GOP retains grip on House\"?",
+    "response": [
+        "doc_1922.txt",
+        "doc_1926.txt",
+        "doc_14365.txt",
+        "doc_9398.txt",
+        "doc_19804.txt"
+    ]
+}

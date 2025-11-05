@@ -1,0 +1,10 @@
+{
+    "query": "When did Jenny Lind arrive in New York City?",
+    "response": [
+        "doc_22077.txt",
+        "doc_22078.txt",
+        "doc_22080.txt",
+        "doc_22085.txt",
+        "doc_22082.txt"
+    ]
+}

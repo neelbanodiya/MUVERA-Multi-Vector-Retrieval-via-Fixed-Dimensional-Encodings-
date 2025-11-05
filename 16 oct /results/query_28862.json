@@ -1,0 +1,10 @@
+{
+    "query": "Besides The Mirage, what other Las Vegas properties were associated with Steve Wynn and/or involved in their development, as mentioned in the passages?",
+    "response": [
+        "doc_16831.txt",
+        "doc_16827.txt",
+        "doc_16826.txt",
+        "doc_16836.txt",
+        "doc_16828.txt"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "query": "In Japan, where was the Mitsubishi Lancer sold?",
+    "response": [
+        "doc_24117.txt",
+        "doc_24118.txt",
+        "doc_24116.txt"
+    ]
+}

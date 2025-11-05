@@ -1,0 +1,10 @@
+{
+    "query": "Is the Commission investigating the issue of price fixing on e-books?",
+    "response": [
+        "doc_9625.txt",
+        "doc_3701.txt",
+        "doc_5541.txt",
+        "doc_10406.txt",
+        "doc_11363.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many National Book Award nominations has Diane Johnson received?",
+    "response": [
+        "doc_22573.txt",
+        "doc_5760.txt",
+        "doc_24145.txt",
+        "doc_22574.txt",
+        "doc_5758.txt"
+    ]
+}

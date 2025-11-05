@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate area of Armenia\u2019s agricultural land?",
+    "response": [
+        "doc_4929.txt",
+        "doc_3275.txt",
+        "doc_3268.txt",
+        "doc_7431.txt",
+        "doc_3267.txt"
+    ]
+}

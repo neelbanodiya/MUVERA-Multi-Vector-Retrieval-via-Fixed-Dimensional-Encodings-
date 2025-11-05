@@ -1,0 +1,10 @@
+{
+    "query": "Which hotel is located near the pool and Starbucks in Willemstad, according to one of the TripAdvisor reviews?",
+    "response": [
+        "doc_16905.txt",
+        "doc_5461.txt",
+        "doc_22180.txt",
+        "doc_1795.txt",
+        "doc_6599.txt"
+    ]
+}

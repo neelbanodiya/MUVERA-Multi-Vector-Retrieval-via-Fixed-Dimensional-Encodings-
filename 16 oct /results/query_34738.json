@@ -1,0 +1,10 @@
+{
+    "query": "When did the Taiwan High Speed Rail line open?",
+    "response": [
+        "doc_20223.txt",
+        "doc_20224.txt",
+        "doc_20225.txt",
+        "doc_9624.txt",
+        "doc_22764.txt"
+    ]
+}

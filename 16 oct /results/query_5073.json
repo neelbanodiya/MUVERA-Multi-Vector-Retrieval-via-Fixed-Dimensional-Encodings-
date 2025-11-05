@@ -1,0 +1,10 @@
+{
+    "query": "According to the Ranger Handbook, what is the purpose of passing a \u201cmark\u201d in the Marine Corps?",
+    "response": [
+        "doc_13429.txt",
+        "doc_21153.txt",
+        "doc_4496.txt",
+        "doc_17372.txt",
+        "doc_21020.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the national forest located within Michigan\u2019s Upper Peninsula?",
+    "response": [
+        "doc_18420.txt",
+        "doc_9327.txt",
+        "doc_18421.txt",
+        "doc_18425.txt",
+        "doc_18154.txt"
+    ]
+}

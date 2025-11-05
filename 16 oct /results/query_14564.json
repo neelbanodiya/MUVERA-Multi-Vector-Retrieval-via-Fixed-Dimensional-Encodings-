@@ -1,0 +1,10 @@
+{
+    "query": "How much aid did Israel receive from the United States in 2013?",
+    "response": [
+        "doc_2049.txt",
+        "doc_4065.txt",
+        "doc_16748.txt",
+        "doc_9584.txt",
+        "doc_3083.txt"
+    ]
+}

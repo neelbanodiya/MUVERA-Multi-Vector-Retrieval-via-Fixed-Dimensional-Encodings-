@@ -1,0 +1,10 @@
+{
+    "query": "On which Caribbean island was Napoleon\u2019s Empress Josephine born?",
+    "response": [
+        "doc_8368.txt",
+        "doc_8370.txt",
+        "doc_8372.txt",
+        "doc_8376.txt",
+        "doc_8371.txt"
+    ]
+}

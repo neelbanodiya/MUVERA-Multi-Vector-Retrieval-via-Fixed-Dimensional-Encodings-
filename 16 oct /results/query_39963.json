@@ -1,0 +1,10 @@
+{
+    "query": "Which American novelist is credited with helping to publish \u201cA Confederacy of Dunces\u201d?",
+    "response": [
+        "doc_1450.txt",
+        "doc_17758.txt",
+        "doc_20553.txt",
+        "doc_11915.txt",
+        "doc_11916.txt"
+    ]
+}

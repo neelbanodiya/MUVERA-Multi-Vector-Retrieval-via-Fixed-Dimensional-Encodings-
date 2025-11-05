@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is the approximate length and width of the town referred to in the Mississippi River cruise description?",
+    "response": [
+        "doc_8247.txt",
+        "doc_7442.txt",
+        "doc_3267.txt",
+        "doc_22575.txt",
+        "doc_19671.txt"
+    ]
+}

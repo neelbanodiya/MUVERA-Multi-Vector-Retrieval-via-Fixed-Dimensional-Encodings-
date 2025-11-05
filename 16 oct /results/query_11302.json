@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of a book containing some of Robert Frost\u2019s best work, as mentioned in the provided links?",
+    "response": [
+        "doc_6548.txt",
+        "doc_22261.txt",
+        "doc_19420.txt",
+        "doc_17758.txt",
+        "doc_19952.txt"
+    ]
+}

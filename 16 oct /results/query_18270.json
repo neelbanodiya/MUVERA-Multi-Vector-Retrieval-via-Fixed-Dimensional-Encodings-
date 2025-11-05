@@ -1,0 +1,10 @@
+{
+    "query": "Who coached Sugar Ray Leonard during his rematch against Roberto Duran?",
+    "response": [
+        "doc_10587.txt",
+        "doc_10581.txt",
+        "doc_10580.txt",
+        "doc_10573.txt",
+        "doc_76.txt"
+    ]
+}

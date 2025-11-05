@@ -1,0 +1,10 @@
+{
+    "query": "What significant invention occurred in 1959 that benefited car exporters like Sweden?",
+    "response": [
+        "doc_23476.txt",
+        "doc_23478.txt",
+        "doc_23481.txt",
+        "doc_23484.txt",
+        "doc_23475.txt"
+    ]
+}

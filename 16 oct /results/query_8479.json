@@ -1,0 +1,10 @@
+{
+    "query": "For what award did Citizen Kane win, and who shared the award?",
+    "response": [
+        "doc_4925.txt",
+        "doc_4924.txt",
+        "doc_4911.txt",
+        "doc_4912.txt",
+        "doc_4914.txt"
+    ]
+}

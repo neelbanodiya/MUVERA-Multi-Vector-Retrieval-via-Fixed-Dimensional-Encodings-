@@ -1,0 +1,10 @@
+{
+    "query": "What band did Crispian Mills previously perform with?",
+    "response": [
+        "doc_1786.txt",
+        "doc_3076.txt",
+        "doc_720.txt",
+        "doc_1784.txt",
+        "doc_19669.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "From which region did Viking raiders originate, and to which countries did they travel?",
+    "response": [
+        "doc_15797.txt",
+        "doc_7205.txt",
+        "doc_7208.txt",
+        "doc_6499.txt",
+        "doc_6501.txt"
+    ]
+}

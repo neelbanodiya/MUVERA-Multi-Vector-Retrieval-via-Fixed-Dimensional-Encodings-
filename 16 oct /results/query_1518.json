@@ -1,0 +1,10 @@
+{
+    "query": "What specific EU treaty articles are relevant to the Commission\u2019s concern about Deutsche Telekom\u2019s potential actions?",
+    "response": [
+        "doc_24177.txt",
+        "doc_9671.txt",
+        "doc_15493.txt",
+        "doc_13321.txt",
+        "doc_21003.txt"
+    ]
+}

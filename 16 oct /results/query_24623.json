@@ -1,0 +1,9 @@
+{
+    "query": "When and by whom was Buenos Aires first founded?",
+    "response": [
+        "doc_14305.txt",
+        "doc_14307.txt",
+        "doc_14306.txt",
+        "doc_14308.txt"
+    ]
+}

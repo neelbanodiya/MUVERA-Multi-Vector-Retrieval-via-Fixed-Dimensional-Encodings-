@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Patton during a discussion in 1912?",
+    "response": [
+        "doc_17190.txt",
+        "doc_2177.txt",
+        "doc_14863.txt",
+        "doc_7939.txt",
+        "doc_1395.txt"
+    ]
+}

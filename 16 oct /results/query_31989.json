@@ -1,0 +1,10 @@
+{
+    "query": "When did *Home Improvement* originally air on ABC?",
+    "response": [
+        "doc_23435.txt",
+        "doc_6604.txt",
+        "doc_17887.txt",
+        "doc_3700.txt",
+        "doc_19703.txt"
+    ]
+}

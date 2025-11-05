@@ -1,0 +1,10 @@
+{
+    "query": "What political party nominated James B. Weaver as its presidential candidate in 1892?",
+    "response": [
+        "doc_23150.txt",
+        "doc_23153.txt",
+        "doc_23157.txt",
+        "doc_23151.txt",
+        "doc_23155.txt"
+    ]
+}

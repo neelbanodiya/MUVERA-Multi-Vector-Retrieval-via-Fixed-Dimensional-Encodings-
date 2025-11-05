@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, how many animals did Noah take on the ark, specifically referencing the \u201ctwo by two\u201d concept?",
+    "response": [
+        "doc_7436.txt",
+        "doc_7435.txt",
+        "doc_7438.txt",
+        "doc_7439.txt",
+        "doc_7445.txt"
+    ]
+}

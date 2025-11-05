@@ -1,0 +1,10 @@
+{
+    "query": "How many seats does the Louisiana Superdome have?",
+    "response": [
+        "doc_11257.txt",
+        "doc_11270.txt",
+        "doc_11262.txt",
+        "doc_11259.txt",
+        "doc_23030.txt"
+    ]
+}

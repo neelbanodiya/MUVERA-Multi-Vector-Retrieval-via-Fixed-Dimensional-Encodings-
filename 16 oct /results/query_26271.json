@@ -1,0 +1,10 @@
+{
+    "query": "What actions did the Arab League take against Syria in November 2011?",
+    "response": [
+        "doc_15256.txt",
+        "doc_15257.txt",
+        "doc_15260.txt",
+        "doc_15263.txt",
+        "doc_15258.txt"
+    ]
+}

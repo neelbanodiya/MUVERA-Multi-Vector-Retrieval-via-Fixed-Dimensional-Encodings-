@@ -1,0 +1,10 @@
+{
+    "query": "What hotels are located in the Nob Hill area of San Francisco?",
+    "response": [
+        "doc_17805.txt",
+        "doc_17817.txt",
+        "doc_17818.txt",
+        "doc_17808.txt",
+        "doc_17815.txt"
+    ]
+}

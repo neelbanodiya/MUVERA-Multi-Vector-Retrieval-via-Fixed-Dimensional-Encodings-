@@ -1,0 +1,10 @@
+{
+    "query": "In 1994, what action did the House of Representatives successfully pass concerning term limits?",
+    "response": [
+        "doc_5967.txt",
+        "doc_17491.txt",
+        "doc_18300.txt",
+        "doc_17541.txt",
+        "doc_22700.txt"
+    ]
+}

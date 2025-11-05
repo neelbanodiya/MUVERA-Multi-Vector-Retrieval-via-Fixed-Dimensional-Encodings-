@@ -1,0 +1,10 @@
+{
+    "query": "What is the stated reason for al Qaeda\u2019s increased strength according to the Reuters article?",
+    "response": [
+        "doc_9925.txt",
+        "doc_15041.txt",
+        "doc_21170.txt",
+        "doc_19046.txt",
+        "doc_22922.txt"
+    ]
+}

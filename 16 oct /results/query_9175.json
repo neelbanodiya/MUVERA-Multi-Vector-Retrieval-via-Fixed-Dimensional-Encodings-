@@ -1,0 +1,10 @@
+{
+    "query": "What specific report is the Council urging the Commission to submit to the European Parliament, the Council, the Social Protection Committee, and the Employment Committee?",
+    "response": [
+        "doc_5288.txt",
+        "doc_20825.txt",
+        "doc_19523.txt",
+        "doc_16894.txt",
+        "doc_10941.txt"
+    ]
+}

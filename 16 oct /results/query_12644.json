@@ -1,0 +1,10 @@
+{
+    "query": "What historical site is located near the Salzkammergut?",
+    "response": [
+        "doc_24255.txt",
+        "doc_6193.txt",
+        "doc_3658.txt",
+        "doc_8650.txt",
+        "doc_8434.txt"
+    ]
+}

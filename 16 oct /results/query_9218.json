@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate percentage of Oxford University\u2019s income derived from public funds, according to one of the linked articles?",
+    "response": [
+        "doc_19708.txt",
+        "doc_5310.txt",
+        "doc_21936.txt",
+        "doc_14712.txt",
+        "doc_11297.txt"
+    ]
+}

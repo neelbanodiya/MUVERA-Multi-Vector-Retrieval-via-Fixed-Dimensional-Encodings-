@@ -1,0 +1,10 @@
+{
+    "query": "What directive was the initial complaint regarding the Cantabria-Meseta motorway based on?",
+    "response": [
+        "doc_5494.txt",
+        "doc_9186.txt",
+        "doc_9671.txt",
+        "doc_12802.txt",
+        "doc_23127.txt"
+    ]
+}

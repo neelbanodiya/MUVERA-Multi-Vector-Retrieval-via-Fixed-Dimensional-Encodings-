@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what potential consequence could result if the Staples and Office Depot merger is blocked?",
+    "response": [
+        "doc_10340.txt",
+        "doc_10346.txt",
+        "doc_10341.txt",
+        "doc_10345.txt",
+        "doc_10347.txt"
+    ]
+}

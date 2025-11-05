@@ -1,0 +1,10 @@
+{
+    "query": "Besides Antigua, what other island is part of the nation of Antigua and Barbuda?",
+    "response": [
+        "doc_4413.txt",
+        "doc_4412.txt",
+        "doc_4422.txt",
+        "doc_4411.txt",
+        "doc_4416.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Has the Commission ever intended to propose a reduction in business travel?",
+    "response": [
+        "doc_21499.txt",
+        "doc_7005.txt",
+        "doc_21083.txt",
+        "doc_6984.txt",
+        "doc_12099.txt"
+    ]
+}

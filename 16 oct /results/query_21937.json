@@ -1,0 +1,9 @@
+{
+    "query": "When did Frito-Lay become a subsidiary of The Pepsi-Cola Company?",
+    "response": [
+        "doc_12646.txt",
+        "doc_12645.txt",
+        "doc_10527.txt",
+        "doc_21496.txt"
+    ]
+}

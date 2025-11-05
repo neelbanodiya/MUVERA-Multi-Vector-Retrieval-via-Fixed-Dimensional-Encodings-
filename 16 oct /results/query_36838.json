@@ -1,0 +1,10 @@
+{
+    "query": "Who did Hans Holbein paint portraits of for King Henry VIII?",
+    "response": [
+        "doc_21501.txt",
+        "doc_21503.txt",
+        "doc_21509.txt",
+        "doc_21502.txt",
+        "doc_21500.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What geographical locations are mentioned in the text (besides Hawaii)?",
+    "response": [
+        "doc_1390.txt",
+        "doc_12392.txt",
+        "doc_22365.txt",
+        "doc_4336.txt",
+        "doc_10210.txt"
+    ]
+}

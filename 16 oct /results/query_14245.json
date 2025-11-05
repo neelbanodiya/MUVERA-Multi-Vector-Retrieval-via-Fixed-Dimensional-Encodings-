@@ -1,0 +1,10 @@
+{
+    "query": "Which authors are specifically referenced in the provided links (e.g., Sophocles, Aeschylus)?",
+    "response": [
+        "doc_8272.txt",
+        "doc_8267.txt",
+        "doc_17758.txt",
+        "doc_8266.txt",
+        "doc_20265.txt"
+    ]
+}

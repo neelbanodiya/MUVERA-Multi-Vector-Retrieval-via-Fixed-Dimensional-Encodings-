@@ -1,0 +1,10 @@
+{
+    "query": "For which award did Jennifer Phang\u2019s film \u201cAdvantageous\u201d receive recognition at the 2015 Sundance Film Festival?",
+    "response": [
+        "doc_2263.txt",
+        "doc_19281.txt",
+        "doc_4918.txt",
+        "doc_23292.txt",
+        "doc_4926.txt"
+    ]
+}

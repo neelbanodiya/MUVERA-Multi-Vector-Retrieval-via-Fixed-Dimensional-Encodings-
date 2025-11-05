@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the hotel located outside Redhills Hotel, Durham?",
+    "response": [
+        "doc_17816.txt",
+        "doc_4261.txt",
+        "doc_4057.txt",
+        "doc_1614.txt",
+        "doc_7400.txt"
+    ]
+}

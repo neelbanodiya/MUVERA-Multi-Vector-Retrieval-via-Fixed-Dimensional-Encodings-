@@ -1,0 +1,10 @@
+{
+    "query": "How many of the composer\u2019s theological books were related to Luther or the reformer?",
+    "response": [
+        "doc_18407.txt",
+        "doc_18413.txt",
+        "doc_18405.txt",
+        "doc_5050.txt",
+        "doc_18415.txt"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "query": "In what years was the Circuit Zandvoort designated as a European Grand Prix?",
+    "response": [
+        "doc_18377.txt",
+        "doc_18378.txt",
+        "doc_5658.txt",
+        "doc_18379.txt"
+    ]
+}

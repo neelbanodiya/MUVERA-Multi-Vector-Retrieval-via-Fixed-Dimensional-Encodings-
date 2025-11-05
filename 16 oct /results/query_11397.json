@@ -1,0 +1,10 @@
+{
+    "query": "What year was the oldest public high school in the US established?",
+    "response": [
+        "doc_6612.txt",
+        "doc_6614.txt",
+        "doc_6608.txt",
+        "doc_6613.txt",
+        "doc_6615.txt"
+    ]
+}

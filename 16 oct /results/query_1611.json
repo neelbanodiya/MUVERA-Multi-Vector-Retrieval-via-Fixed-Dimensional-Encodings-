@@ -1,0 +1,10 @@
+{
+    "query": "What specific songs are mentioned as standouts in the \"Cat Funk\" set?",
+    "response": [
+        "doc_13104.txt",
+        "doc_15431.txt",
+        "doc_9804.txt",
+        "doc_5278.txt",
+        "doc_17794.txt"
+    ]
+}

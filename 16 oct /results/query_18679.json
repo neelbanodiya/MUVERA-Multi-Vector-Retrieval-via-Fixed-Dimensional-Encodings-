@@ -1,0 +1,10 @@
+{
+    "query": "What are some of the upgrades found in the BMW M4 compared to the standard BMW 4-Series?",
+    "response": [
+        "doc_10861.txt",
+        "doc_10860.txt",
+        "doc_17163.txt",
+        "doc_17157.txt",
+        "doc_17155.txt"
+    ]
+}

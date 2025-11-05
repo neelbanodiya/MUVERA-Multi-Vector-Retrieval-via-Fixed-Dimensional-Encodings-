@@ -1,0 +1,10 @@
+{
+    "query": "What action did Admiral Sir David Beatty take?",
+    "response": [
+        "doc_9626.txt",
+        "doc_9627.txt",
+        "doc_2064.txt",
+        "doc_9628.txt",
+        "doc_9640.txt"
+    ]
+}

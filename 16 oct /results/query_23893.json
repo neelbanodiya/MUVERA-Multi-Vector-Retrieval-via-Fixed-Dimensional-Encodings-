@@ -1,0 +1,10 @@
+{
+    "query": "What event cast a cloud on summer fun in the United States in the early 1950s?",
+    "response": [
+        "doc_23310.txt",
+        "doc_2156.txt",
+        "doc_9810.txt",
+        "doc_3352.txt",
+        "doc_13613.txt"
+    ]
+}

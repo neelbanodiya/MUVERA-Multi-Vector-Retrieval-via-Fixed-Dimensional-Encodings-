@@ -1,0 +1,10 @@
+{
+    "query": "What event takes place annually in Sturgis, South Dakota?",
+    "response": [
+        "doc_22713.txt",
+        "doc_11305.txt",
+        "doc_12729.txt",
+        "doc_6836.txt",
+        "doc_12177.txt"
+    ]
+}

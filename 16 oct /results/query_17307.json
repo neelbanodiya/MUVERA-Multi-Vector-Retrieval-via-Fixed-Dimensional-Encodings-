@@ -1,0 +1,10 @@
+{
+    "query": "According to the document, what is explicitly prohibited regarding the discussion of Islamic terrorist acts?",
+    "response": [
+        "doc_10031.txt",
+        "doc_15138.txt",
+        "doc_1277.txt",
+        "doc_22580.txt",
+        "doc_4131.txt"
+    ]
+}

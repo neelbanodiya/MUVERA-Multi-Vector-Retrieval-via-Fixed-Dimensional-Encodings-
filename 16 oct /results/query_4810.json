@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the recording style created by Phil Spector, as described in the passages?",
+    "response": [
+        "doc_5371.txt",
+        "doc_15305.txt",
+        "doc_3128.txt",
+        "doc_2231.txt",
+        "doc_24145.txt"
+    ]
+}

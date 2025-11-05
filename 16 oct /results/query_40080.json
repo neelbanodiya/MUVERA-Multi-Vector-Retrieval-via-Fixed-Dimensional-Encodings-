@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the album *Superstition* by Siouxsie and the Banshees released?",
+    "response": [
+        "doc_8467.txt",
+        "doc_23466.txt",
+        "doc_12570.txt",
+        "doc_8468.txt",
+        "doc_22673.txt"
+    ]
+}

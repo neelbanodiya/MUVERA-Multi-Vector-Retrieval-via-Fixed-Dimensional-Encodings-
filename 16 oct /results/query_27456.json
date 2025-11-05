@@ -1,0 +1,10 @@
+{
+    "query": "Did the EFSA conduct any studies related to the potential link between pesticides and child leukaemia?",
+    "response": [
+        "doc_15951.txt",
+        "doc_7099.txt",
+        "doc_3215.txt",
+        "doc_12493.txt",
+        "doc_12494.txt"
+    ]
+}

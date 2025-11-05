@@ -1,0 +1,10 @@
+{
+    "query": "What caused high rates of diabetes among the Havasupai people?",
+    "response": [
+        "doc_23893.txt",
+        "doc_1549.txt",
+        "doc_2596.txt",
+        "doc_2087.txt",
+        "doc_18064.txt"
+    ]
+}

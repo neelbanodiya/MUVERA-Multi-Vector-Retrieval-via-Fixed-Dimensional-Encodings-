@@ -1,0 +1,10 @@
+{
+    "query": "According to UN estimates, how many people were left without shelter or livelihood due to the eviction campaign?",
+    "response": [
+        "doc_13720.txt",
+        "doc_8112.txt",
+        "doc_15257.txt",
+        "doc_4548.txt",
+        "doc_6834.txt"
+    ]
+}

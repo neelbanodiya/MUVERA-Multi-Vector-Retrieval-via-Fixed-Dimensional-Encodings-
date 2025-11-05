@@ -1,0 +1,10 @@
+{
+    "query": "In what city did the \u201cFrugal Gourmet\u201d television show originate?",
+    "response": [
+        "doc_7821.txt",
+        "doc_7820.txt",
+        "doc_7817.txt",
+        "doc_7819.txt",
+        "doc_7826.txt"
+    ]
+}

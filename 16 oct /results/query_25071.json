@@ -1,0 +1,10 @@
+{
+    "query": "Which King of Prussia was a recipient of a dedication from a composer?",
+    "response": [
+        "doc_14556.txt",
+        "doc_14551.txt",
+        "doc_14559.txt",
+        "doc_14562.txt",
+        "doc_14550.txt"
+    ]
+}

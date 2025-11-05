@@ -1,0 +1,10 @@
+{
+    "query": "According to the Court of Auditors, what percentage of appropriations were carried over for the financial year 2008?",
+    "response": [
+        "doc_19131.txt",
+        "doc_9152.txt",
+        "doc_7812.txt",
+        "doc_19130.txt",
+        "doc_9136.txt"
+    ]
+}

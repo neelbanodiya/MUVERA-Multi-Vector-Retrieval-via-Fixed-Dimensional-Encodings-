@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what event is the speaker referring to when discussing \u201cSuper Tuesday\u201d?",
+    "response": [
+        "doc_12761.txt",
+        "doc_5727.txt",
+        "doc_13270.txt",
+        "doc_17914.txt",
+        "doc_3828.txt"
+    ]
+}

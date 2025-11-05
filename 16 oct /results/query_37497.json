@@ -1,0 +1,10 @@
+{
+    "query": "What was the intended vocation listed for a man in the 1940s Harvard yearbook?",
+    "response": [
+        "doc_21972.txt",
+        "doc_21973.txt",
+        "doc_5987.txt",
+        "doc_14486.txt",
+        "doc_14029.txt"
+    ]
+}

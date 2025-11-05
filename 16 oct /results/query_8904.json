@@ -1,0 +1,10 @@
+{
+    "query": "How far north of Santiago is the Chuquicamata mine located?",
+    "response": [
+        "doc_5147.txt",
+        "doc_5145.txt",
+        "doc_5143.txt",
+        "doc_5140.txt",
+        "doc_5142.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What phrase was used by Thomas Jefferson and others expressing the desire for free worship?",
+    "response": [
+        "doc_23875.txt",
+        "doc_9445.txt",
+        "doc_336.txt",
+        "doc_6327.txt",
+        "doc_6318.txt"
+    ]
+}

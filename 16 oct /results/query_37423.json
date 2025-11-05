@@ -1,0 +1,10 @@
+{
+    "query": "What was John Philip Sousa\u2019s role before forming his own band?",
+    "response": [
+        "doc_21906.txt",
+        "doc_21912.txt",
+        "doc_21907.txt",
+        "doc_21908.txt",
+        "doc_21913.txt"
+    ]
+}

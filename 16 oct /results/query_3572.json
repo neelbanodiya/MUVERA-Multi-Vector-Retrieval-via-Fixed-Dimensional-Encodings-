@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Oakland Bay Bridge completed?",
+    "response": [
+        "doc_23400.txt",
+        "doc_19971.txt",
+        "doc_5187.txt",
+        "doc_21710.txt",
+        "doc_5188.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what films did Willem Dafoe portray the characters Thomas Beckett and Max Schreck?",
+    "response": [
+        "doc_16925.txt",
+        "doc_18482.txt",
+        "doc_1968.txt",
+        "doc_22122.txt",
+        "doc_22118.txt"
+    ]
+}

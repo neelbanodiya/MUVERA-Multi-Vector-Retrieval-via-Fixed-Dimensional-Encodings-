@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cPeyton Place\u201d released?",
+    "response": [
+        "doc_735.txt",
+        "doc_23795.txt",
+        "doc_8389.txt",
+        "doc_11487.txt",
+        "doc_9892.txt"
+    ]
+}

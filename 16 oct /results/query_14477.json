@@ -1,0 +1,10 @@
+{
+    "query": "When and where was Josephine Bonaparte, Napoleon\u2019s wife and empress, born?",
+    "response": [
+        "doc_8366.txt",
+        "doc_8365.txt",
+        "doc_8370.txt",
+        "doc_8372.txt",
+        "doc_8371.txt"
+    ]
+}

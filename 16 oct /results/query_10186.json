@@ -1,0 +1,10 @@
+{
+    "query": "Who is Morales?",
+    "response": [
+        "doc_13656.txt",
+        "doc_18386.txt",
+        "doc_17114.txt",
+        "doc_14426.txt",
+        "doc_5499.txt"
+    ]
+}

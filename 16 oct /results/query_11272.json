@@ -1,0 +1,10 @@
+{
+    "query": "What year did FC Bayern Munich win the 1932 German football championship?",
+    "response": [
+        "doc_6527.txt",
+        "doc_6528.txt",
+        "doc_6529.txt",
+        "doc_3072.txt",
+        "doc_3073.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What action does the Commission suggest the Honourable Member take regarding a research request?",
+    "response": [
+        "doc_16706.txt",
+        "doc_11439.txt",
+        "doc_13209.txt",
+        "doc_11329.txt",
+        "doc_22438.txt"
+    ]
+}

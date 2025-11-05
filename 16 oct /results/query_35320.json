@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Jill St. John marry Robert Wagner?",
+    "response": [
+        "doc_11245.txt",
+        "doc_1395.txt",
+        "doc_11240.txt",
+        "doc_10551.txt",
+        "doc_11248.txt"
+    ]
+}

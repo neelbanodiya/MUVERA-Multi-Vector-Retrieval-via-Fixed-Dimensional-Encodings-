@@ -1,0 +1,10 @@
+{
+    "query": "Which country took control of the Presidio from Spain?",
+    "response": [
+        "doc_23756.txt",
+        "doc_10372.txt",
+        "doc_8785.txt",
+        "doc_10375.txt",
+        "doc_3127.txt"
+    ]
+}

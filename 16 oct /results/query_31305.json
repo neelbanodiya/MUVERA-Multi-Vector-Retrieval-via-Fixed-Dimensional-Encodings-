@@ -1,0 +1,10 @@
+{
+    "query": "What event is specifically mentioned as leading to neo-Nazi skinhead activity in California?",
+    "response": [
+        "doc_23163.txt",
+        "doc_23032.txt",
+        "doc_23158.txt",
+        "doc_23357.txt",
+        "doc_9673.txt"
+    ]
+}

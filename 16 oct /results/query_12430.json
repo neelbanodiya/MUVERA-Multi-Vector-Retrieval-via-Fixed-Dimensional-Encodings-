@@ -1,0 +1,10 @@
+{
+    "query": "Who did Gene Tunney defeat to win the heavyweight title in 1926?",
+    "response": [
+        "doc_7220.txt",
+        "doc_7232.txt",
+        "doc_7226.txt",
+        "doc_7231.txt",
+        "doc_7230.txt"
+    ]
+}

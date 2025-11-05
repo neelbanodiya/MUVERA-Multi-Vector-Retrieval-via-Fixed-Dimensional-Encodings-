@@ -1,0 +1,10 @@
+{
+    "query": "When was the Bible translated, according to the provided text?",
+    "response": [
+        "doc_1225.txt",
+        "doc_1224.txt",
+        "doc_1227.txt",
+        "doc_20643.txt",
+        "doc_18617.txt"
+    ]
+}

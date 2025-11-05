@@ -1,0 +1,10 @@
+{
+    "query": "When did \u201cCar Talk\u201d win a Peabody Award?",
+    "response": [
+        "doc_16990.txt",
+        "doc_18242.txt",
+        "doc_18243.txt",
+        "doc_11495.txt",
+        "doc_22462.txt"
+    ]
+}

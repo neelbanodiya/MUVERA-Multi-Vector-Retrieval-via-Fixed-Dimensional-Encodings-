@@ -1,0 +1,10 @@
+{
+    "query": "Who was inducted into the Rock and Roll Hall of Fame in 1989?",
+    "response": [
+        "doc_2788.txt",
+        "doc_2787.txt",
+        "doc_2784.txt",
+        "doc_2782.txt",
+        "doc_2783.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the articles, how many men and women were working in America at the time of the \u201cIt\u2019s Morning Again in America\u201d campaign?",
+    "response": [
+        "doc_15177.txt",
+        "doc_7707.txt",
+        "doc_15171.txt",
+        "doc_7577.txt",
+        "doc_2185.txt"
+    ]
+}

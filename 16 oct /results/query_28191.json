@@ -1,0 +1,10 @@
+{
+    "query": "What type of sports team are the L.A. Kiss and Portland Thunder associated with?",
+    "response": [
+        "doc_10507.txt",
+        "doc_8052.txt",
+        "doc_1221.txt",
+        "doc_24237.txt",
+        "doc_16796.txt"
+    ]
+}

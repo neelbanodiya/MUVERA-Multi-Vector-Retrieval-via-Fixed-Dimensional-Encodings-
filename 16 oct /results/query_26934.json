@@ -1,0 +1,10 @@
+{
+    "query": "Who choreographed the ballet *Apollo*, and in what year was it created?",
+    "response": [
+        "doc_3971.txt",
+        "doc_15658.txt",
+        "doc_15650.txt",
+        "doc_15661.txt",
+        "doc_15649.txt"
+    ]
+}

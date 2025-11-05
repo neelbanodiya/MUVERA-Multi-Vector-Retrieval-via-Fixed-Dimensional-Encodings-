@@ -1,0 +1,10 @@
+{
+    "query": "What documents are the Commission required to provide to Parliament?",
+    "response": [
+        "doc_13372.txt",
+        "doc_13220.txt",
+        "doc_13356.txt",
+        "doc_13258.txt",
+        "doc_13355.txt"
+    ]
+}

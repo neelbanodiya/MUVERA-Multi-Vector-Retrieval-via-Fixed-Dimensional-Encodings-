@@ -1,0 +1,10 @@
+{
+    "query": "According to Merriam-Webster, what does \u201cTinseltown\u201d define?",
+    "response": [
+        "doc_4453.txt",
+        "doc_4456.txt",
+        "doc_4457.txt",
+        "doc_21917.txt",
+        "doc_5413.txt"
+    ]
+}

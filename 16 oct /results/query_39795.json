@@ -1,0 +1,10 @@
+{
+    "query": "When did John Wayne receive his Best Actor Oscar?",
+    "response": [
+        "doc_23277.txt",
+        "doc_23278.txt",
+        "doc_23281.txt",
+        "doc_23284.txt",
+        "doc_23279.txt"
+    ]
+}

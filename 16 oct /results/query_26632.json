@@ -1,0 +1,10 @@
+{
+    "query": "Who played Abraham Lincoln in the film?",
+    "response": [
+        "doc_15485.txt",
+        "doc_15484.txt",
+        "doc_16653.txt",
+        "doc_10901.txt",
+        "doc_16925.txt"
+    ]
+}

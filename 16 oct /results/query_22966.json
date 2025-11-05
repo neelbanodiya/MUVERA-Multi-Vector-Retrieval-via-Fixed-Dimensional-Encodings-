@@ -1,0 +1,10 @@
+{
+    "query": "In what order are votes taken when multiple amendments to the Council\u2019s position have been tabled?",
+    "response": [
+        "doc_13265.txt",
+        "doc_13212.txt",
+        "doc_13213.txt",
+        "doc_13268.txt",
+        "doc_13284.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what neighborhood of New York City is the movie \u201cTwo Lovers\u201d set?",
+    "response": [
+        "doc_19680.txt",
+        "doc_19681.txt",
+        "doc_2678.txt",
+        "doc_1323.txt",
+        "doc_1811.txt"
+    ]
+}

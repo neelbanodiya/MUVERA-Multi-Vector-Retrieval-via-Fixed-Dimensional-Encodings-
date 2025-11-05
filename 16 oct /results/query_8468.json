@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, in what year did Orson Welles win the Oscar for Best Original Screenplay for *Citizen Kane*?",
+    "response": [
+        "doc_4912.txt",
+        "doc_4916.txt",
+        "doc_4911.txt",
+        "doc_4927.txt",
+        "doc_4928.txt"
+    ]
+}

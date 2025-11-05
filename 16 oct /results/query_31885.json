@@ -1,0 +1,10 @@
+{
+    "query": "What country was Arnold Schwarzenegger born in?",
+    "response": [
+        "doc_18584.txt",
+        "doc_18587.txt",
+        "doc_18585.txt",
+        "doc_22788.txt",
+        "doc_22779.txt"
+    ]
+}

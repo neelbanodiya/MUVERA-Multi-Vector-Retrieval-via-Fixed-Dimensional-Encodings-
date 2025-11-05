@@ -1,0 +1,10 @@
+{
+    "query": "What action led to General Douglas MacArthur being relieved of his command?",
+    "response": [
+        "doc_18388.txt",
+        "doc_18390.txt",
+        "doc_18389.txt",
+        "doc_18394.txt",
+        "doc_18395.txt"
+    ]
+}

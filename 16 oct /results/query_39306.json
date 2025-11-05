@@ -1,0 +1,10 @@
+{
+    "query": "Which country replaced Great Britain as the dominant global economic power in the 18th century, according to one of the linked sources?",
+    "response": [
+        "doc_23004.txt",
+        "doc_18086.txt",
+        "doc_7520.txt",
+        "doc_7217.txt",
+        "doc_23011.txt"
+    ]
+}

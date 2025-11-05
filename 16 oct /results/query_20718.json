@@ -1,0 +1,10 @@
+{
+    "query": "Which group did Marianne Thyssen represent during the debate?",
+    "response": [
+        "doc_20524.txt",
+        "doc_11964.txt",
+        "doc_11970.txt",
+        "doc_11969.txt",
+        "doc_11818.txt"
+    ]
+}

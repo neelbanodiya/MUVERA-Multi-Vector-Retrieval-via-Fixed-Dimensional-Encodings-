@@ -1,0 +1,10 @@
+{
+    "query": "What method of execution was used for Giles Corey?",
+    "response": [
+        "doc_9997.txt",
+        "doc_18926.txt",
+        "doc_8575.txt",
+        "doc_18923.txt",
+        "doc_20108.txt"
+    ]
+}

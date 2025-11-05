@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the company that publishes the DJSI?",
+    "response": [
+        "doc_1150.txt",
+        "doc_5492.txt",
+        "doc_3834.txt",
+        "doc_5490.txt",
+        "doc_2558.txt"
+    ]
+}

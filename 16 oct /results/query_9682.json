@@ -1,0 +1,10 @@
+{
+    "query": "What were some of the awards \u201cHill Street Blues\u201d received?",
+    "response": [
+        "doc_2264.txt",
+        "doc_5593.txt",
+        "doc_5600.txt",
+        "doc_23609.txt",
+        "doc_5598.txt"
+    ]
+}

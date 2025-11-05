@@ -1,0 +1,10 @@
+{
+    "query": "What type of dwelling is described as charming in Macau?",
+    "response": [
+        "doc_4679.txt",
+        "doc_4680.txt",
+        "doc_4681.txt",
+        "doc_11635.txt",
+        "doc_16909.txt"
+    ]
+}

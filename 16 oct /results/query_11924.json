@@ -1,0 +1,10 @@
+{
+    "query": "Does the London Metal Exchange, located in the EU, have data to corroborate the allegations of price manipulation?",
+    "response": [
+        "doc_6940.txt",
+        "doc_14302.txt",
+        "doc_2254.txt",
+        "doc_21441.txt",
+        "doc_13366.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which horror film features both Giovanni Ribisi and Lance Henriksen?",
+    "response": [
+        "doc_13854.txt",
+        "doc_1229.txt",
+        "doc_14684.txt",
+        "doc_8693.txt",
+        "doc_21902.txt"
+    ]
+}

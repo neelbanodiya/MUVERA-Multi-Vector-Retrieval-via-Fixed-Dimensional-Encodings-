@@ -1,0 +1,10 @@
+{
+    "query": "According to the Zuckerman Museum exhibit, what animals are people often sympathetic with, and why?",
+    "response": [
+        "doc_4829.txt",
+        "doc_15762.txt",
+        "doc_9350.txt",
+        "doc_7448.txt",
+        "doc_7438.txt"
+    ]
+}

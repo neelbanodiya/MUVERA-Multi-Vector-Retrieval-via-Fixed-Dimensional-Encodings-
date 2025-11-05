@@ -1,0 +1,10 @@
+{
+    "query": "What kind of music did Stevenson deliver?",
+    "response": [
+        "doc_19136.txt",
+        "doc_22803.txt",
+        "doc_3129.txt",
+        "doc_14563.txt",
+        "doc_9701.txt"
+    ]
+}

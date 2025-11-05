@@ -1,0 +1,10 @@
+{
+    "query": "How does the Officer of the Deck (OOD) signal to a boat at night, as described in one of the linked documents?",
+    "response": [
+        "doc_9446.txt",
+        "doc_12078.txt",
+        "doc_15791.txt",
+        "doc_1849.txt",
+        "doc_23969.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the symbolic act Gandhi performed during the 1930 march to the sea?",
+    "response": [
+        "doc_1403.txt",
+        "doc_1413.txt",
+        "doc_1416.txt",
+        "doc_1418.txt",
+        "doc_1405.txt"
+    ]
+}

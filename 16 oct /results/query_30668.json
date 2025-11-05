@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what kind of author is Michael Crichton typically associated with?",
+    "response": [
+        "doc_14077.txt",
+        "doc_17763.txt",
+        "doc_11703.txt",
+        "doc_14083.txt",
+        "doc_14075.txt"
+    ]
+}

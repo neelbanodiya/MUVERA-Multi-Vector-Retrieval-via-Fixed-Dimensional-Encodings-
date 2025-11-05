@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the title of Earl of Cottenham created?",
+    "response": [
+        "doc_16125.txt",
+        "doc_12644.txt",
+        "doc_12641.txt",
+        "doc_16128.txt",
+        "doc_12642.txt"
+    ]
+}

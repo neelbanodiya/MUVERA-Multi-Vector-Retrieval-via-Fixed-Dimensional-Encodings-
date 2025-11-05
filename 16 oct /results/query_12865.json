@@ -1,0 +1,10 @@
+{
+    "query": "What was Charles\u2019s role in the military?",
+    "response": [
+        "doc_2420.txt",
+        "doc_23599.txt",
+        "doc_4656.txt",
+        "doc_20608.txt",
+        "doc_1825.txt"
+    ]
+}

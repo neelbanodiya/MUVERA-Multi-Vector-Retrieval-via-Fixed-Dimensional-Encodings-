@@ -1,0 +1,10 @@
+{
+    "query": "What year was the Prudential Tower completed?",
+    "response": [
+        "doc_3382.txt",
+        "doc_10088.txt",
+        "doc_2.txt",
+        "doc_19971.txt",
+        "doc_3381.txt"
+    ]
+}

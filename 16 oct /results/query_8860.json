@@ -1,0 +1,10 @@
+{
+    "query": "What word completes the line, \u201cAmerica! America! God shed His grace on thee, And crown thy good with _____\u201d?",
+    "response": [
+        "doc_5120.txt",
+        "doc_5118.txt",
+        "doc_5116.txt",
+        "doc_5119.txt",
+        "doc_5117.txt"
+    ]
+}

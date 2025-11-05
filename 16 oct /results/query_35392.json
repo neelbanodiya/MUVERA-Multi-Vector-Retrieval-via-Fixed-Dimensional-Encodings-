@@ -1,0 +1,10 @@
+{
+    "query": "Lampwick, Figaro & Stromboli are all characters in this Disney film.",
+    "response": [
+        "doc_20621.txt",
+        "doc_20618.txt",
+        "doc_20619.txt",
+        "doc_20614.txt",
+        "doc_20617.txt"
+    ]
+}

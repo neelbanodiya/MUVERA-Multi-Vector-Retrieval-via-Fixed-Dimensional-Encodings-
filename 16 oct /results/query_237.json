@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what slogan is associated with Friedrich Engels and Karl Marx?",
+    "response": [
+        "doc_116.txt",
+        "doc_121.txt",
+        "doc_117.txt",
+        "doc_109.txt",
+        "doc_112.txt"
+    ]
+}

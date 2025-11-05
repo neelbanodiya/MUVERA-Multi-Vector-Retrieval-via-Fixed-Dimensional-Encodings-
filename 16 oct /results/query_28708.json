@@ -1,0 +1,10 @@
+{
+    "query": "What type of trade agreements might make European farmers eligible for EGF assistance?",
+    "response": [
+        "doc_16727.txt",
+        "doc_10888.txt",
+        "doc_3006.txt",
+        "doc_4030.txt",
+        "doc_10889.txt"
+    ]
+}

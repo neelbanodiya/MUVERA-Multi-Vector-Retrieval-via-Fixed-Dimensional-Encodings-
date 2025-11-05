@@ -1,0 +1,10 @@
+{
+    "query": "What historical monuments are found within the Parque Central (Central Park)?",
+    "response": [
+        "doc_14511.txt",
+        "doc_14512.txt",
+        "doc_11488.txt",
+        "doc_14728.txt",
+        "doc_19706.txt"
+    ]
+}

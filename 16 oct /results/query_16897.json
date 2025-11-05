@@ -1,0 +1,10 @@
+{
+    "query": "What is the official James Bond film series that \u201cGoldfinger\u201d is a part of?",
+    "response": [
+        "doc_9789.txt",
+        "doc_9786.txt",
+        "doc_9793.txt",
+        "doc_9788.txt",
+        "doc_9792.txt"
+    ]
+}

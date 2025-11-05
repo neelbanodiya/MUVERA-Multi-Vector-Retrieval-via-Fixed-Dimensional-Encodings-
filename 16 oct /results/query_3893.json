@@ -1,0 +1,10 @@
+{
+    "query": "Where will MEPs be attending the UN climate change conference?",
+    "response": [
+        "doc_8032.txt",
+        "doc_8031.txt",
+        "doc_10905.txt",
+        "doc_1719.txt",
+        "doc_8029.txt"
+    ]
+}

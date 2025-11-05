@@ -1,0 +1,10 @@
+{
+    "query": "What is the EU\u2019s stance regarding anti-terrorist measures?",
+    "response": [
+        "doc_21026.txt",
+        "doc_22580.txt",
+        "doc_15133.txt",
+        "doc_15493.txt",
+        "doc_22581.txt"
+    ]
+}

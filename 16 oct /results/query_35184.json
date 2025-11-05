@@ -1,0 +1,10 @@
+{
+    "query": "Who was the President-in-Office of the Council during the discussion?",
+    "response": [
+        "doc_6406.txt",
+        "doc_13316.txt",
+        "doc_13397.txt",
+        "doc_13353.txt",
+        "doc_22620.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the artist who illustrated *Goblin Market*?",
+    "response": [
+        "doc_6298.txt",
+        "doc_6296.txt",
+        "doc_6312.txt",
+        "doc_6311.txt",
+        "doc_6299.txt"
+    ]
+}

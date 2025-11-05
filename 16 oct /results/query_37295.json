@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject of the Council Framework Decision that was annulled?",
+    "response": [
+        "doc_18001.txt",
+        "doc_13212.txt",
+        "doc_19823.txt",
+        "doc_132.txt",
+        "doc_13265.txt"
+    ]
+}

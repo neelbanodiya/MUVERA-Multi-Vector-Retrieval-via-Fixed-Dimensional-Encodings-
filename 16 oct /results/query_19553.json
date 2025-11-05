@@ -1,0 +1,10 @@
+{
+    "query": "What is the University at Buffalo\u2019s position within the State University of New York system?",
+    "response": [
+        "doc_11304.txt",
+        "doc_11305.txt",
+        "doc_134.txt",
+        "doc_22509.txt",
+        "doc_12230.txt"
+    ]
+}

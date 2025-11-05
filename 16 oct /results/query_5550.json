@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the film for which Jane Campion received the Palm d\u2019Or in 1993?",
+    "response": [
+        "doc_13690.txt",
+        "doc_14778.txt",
+        "doc_7768.txt",
+        "doc_21211.txt",
+        "doc_14779.txt"
+    ]
+}

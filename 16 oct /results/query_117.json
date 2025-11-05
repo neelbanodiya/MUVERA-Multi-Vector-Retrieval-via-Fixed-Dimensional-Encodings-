@@ -1,0 +1,10 @@
+{
+    "query": "What role did Alexander Hamilton play in Washington\u2019s cabinet?",
+    "response": [
+        "doc_41.txt",
+        "doc_40.txt",
+        "doc_21254.txt",
+        "doc_2420.txt",
+        "doc_1020.txt"
+    ]
+}

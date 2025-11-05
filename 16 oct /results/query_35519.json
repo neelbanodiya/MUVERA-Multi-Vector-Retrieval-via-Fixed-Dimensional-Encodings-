@@ -1,0 +1,10 @@
+{
+    "query": "What events occurred in November 1980 regarding the U.S. presidential election?",
+    "response": [
+        "doc_2476.txt",
+        "doc_2475.txt",
+        "doc_3807.txt",
+        "doc_600.txt",
+        "doc_2477.txt"
+    ]
+}

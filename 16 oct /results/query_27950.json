@@ -1,0 +1,10 @@
+{
+    "query": "What did John say about the White House?",
+    "response": [
+        "doc_18470.txt",
+        "doc_23703.txt",
+        "doc_15772.txt",
+        "doc_15771.txt",
+        "doc_23705.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When will Pope Francis visit New York City?",
+    "response": [
+        "doc_16240.txt",
+        "doc_16241.txt",
+        "doc_16234.txt",
+        "doc_16237.txt",
+        "doc_16236.txt"
+    ]
+}

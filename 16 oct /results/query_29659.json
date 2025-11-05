@@ -1,0 +1,10 @@
+{
+    "query": "On what date will the Commission and the Council make statements regarding the Prestige Oil Tanker disaster?",
+    "response": [
+        "doc_1273.txt",
+        "doc_5519.txt",
+        "doc_2030.txt",
+        "doc_1174.txt",
+        "doc_3212.txt"
+    ]
+}

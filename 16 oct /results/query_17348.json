@@ -1,0 +1,10 @@
+{
+    "query": "What specific examples of EU funds being used to renovate bullrings are cited in the passage?",
+    "response": [
+        "doc_10047.txt",
+        "doc_22217.txt",
+        "doc_10828.txt",
+        "doc_17576.txt",
+        "doc_3254.txt"
+    ]
+}

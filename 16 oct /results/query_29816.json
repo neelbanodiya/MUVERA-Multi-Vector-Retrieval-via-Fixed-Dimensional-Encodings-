@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided information, what year was the Bank of America Plaza in Atlanta completed?",
+    "response": [
+        "doc_17314.txt",
+        "doc_17313.txt",
+        "doc_17316.txt",
+        "doc_17315.txt",
+        "doc_17317.txt"
+    ]
+}

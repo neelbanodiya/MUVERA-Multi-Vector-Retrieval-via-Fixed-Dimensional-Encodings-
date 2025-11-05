@@ -1,0 +1,10 @@
+{
+    "query": "Where is the St. Marys Falls Canal located?",
+    "response": [
+        "doc_1633.txt",
+        "doc_1647.txt",
+        "doc_1638.txt",
+        "doc_1641.txt",
+        "doc_1639.txt"
+    ]
+}

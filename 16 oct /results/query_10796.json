@@ -1,0 +1,10 @@
+{
+    "query": "Which company, led by Don Wetzel, was responsible for creating the first ATM in the U.S.?",
+    "response": [
+        "doc_6238.txt",
+        "doc_6227.txt",
+        "doc_6240.txt",
+        "doc_6233.txt",
+        "doc_6224.txt"
+    ]
+}

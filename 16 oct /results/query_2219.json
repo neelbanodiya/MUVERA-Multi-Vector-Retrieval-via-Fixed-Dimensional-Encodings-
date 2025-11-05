@@ -1,0 +1,10 @@
+{
+    "query": "What action is the Rotterdam City Council taking regarding the \u201cStichting Jeruzalem\u201d office?",
+    "response": [
+        "doc_1314.txt",
+        "doc_19590.txt",
+        "doc_22168.txt",
+        "doc_10247.txt",
+        "doc_17472.txt"
+    ]
+}

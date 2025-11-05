@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of the British population believed religion does more in 2006?",
+    "response": [
+        "doc_12133.txt",
+        "doc_5220.txt",
+        "doc_537.txt",
+        "doc_4831.txt",
+        "doc_12142.txt"
+    ]
+}

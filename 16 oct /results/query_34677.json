@@ -1,0 +1,10 @@
+{
+    "query": "How many MVP awards were given to players?",
+    "response": [
+        "doc_21157.txt",
+        "doc_20158.txt",
+        "doc_17912.txt",
+        "doc_5390.txt",
+        "doc_17914.txt"
+    ]
+}

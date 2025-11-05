@@ -1,0 +1,10 @@
+{
+    "query": "What is the connection between the United States and Israel, as highlighted by the referenced sources?",
+    "response": [
+        "doc_1213.txt",
+        "doc_2065.txt",
+        "doc_22947.txt",
+        "doc_21017.txt",
+        "doc_1211.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote the screenplay for *Brokeback Mountain*?",
+    "response": [
+        "doc_1812.txt",
+        "doc_10969.txt",
+        "doc_12639.txt",
+        "doc_8067.txt",
+        "doc_12412.txt"
+    ]
+}

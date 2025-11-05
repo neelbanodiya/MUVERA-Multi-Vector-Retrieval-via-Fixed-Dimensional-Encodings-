@@ -1,0 +1,10 @@
+{
+    "query": "Which team won the World Series in 2010, according to the provided link?",
+    "response": [
+        "doc_22499.txt",
+        "doc_22500.txt",
+        "doc_6195.txt",
+        "doc_22501.txt",
+        "doc_3575.txt"
+    ]
+}

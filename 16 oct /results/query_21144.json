@@ -1,0 +1,10 @@
+{
+    "query": "What cookbook is frequently cited as a \u201cBible\u201d for chefs by many great chefs?",
+    "response": [
+        "doc_12208.txt",
+        "doc_10427.txt",
+        "doc_9984.txt",
+        "doc_18266.txt",
+        "doc_17176.txt"
+    ]
+}

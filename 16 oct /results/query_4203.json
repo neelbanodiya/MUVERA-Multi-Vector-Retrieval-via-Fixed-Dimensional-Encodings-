@@ -1,0 +1,10 @@
+{
+    "query": "When is the next meeting scheduled to take place in Strasbourg?",
+    "response": [
+        "doc_2292.txt",
+        "doc_7836.txt",
+        "doc_2051.txt",
+        "doc_14820.txt",
+        "doc_13539.txt"
+    ]
+}

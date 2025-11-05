@@ -1,0 +1,10 @@
+{
+    "query": "What animals live at Roy\u2019s Secret Garden and Dolphin Habitat?",
+    "response": [
+        "doc_6028.txt",
+        "doc_6039.txt",
+        "doc_6043.txt",
+        "doc_6034.txt",
+        "doc_6030.txt"
+    ]
+}

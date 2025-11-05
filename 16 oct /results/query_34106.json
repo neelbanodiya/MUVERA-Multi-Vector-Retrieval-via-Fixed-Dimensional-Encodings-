@@ -1,0 +1,10 @@
+{
+    "query": "What was the task assigned to Thomas Jefferson regarding the Declaration of Independence?",
+    "response": [
+        "doc_19850.txt",
+        "doc_19845.txt",
+        "doc_13203.txt",
+        "doc_13278.txt",
+        "doc_13202.txt"
+    ]
+}

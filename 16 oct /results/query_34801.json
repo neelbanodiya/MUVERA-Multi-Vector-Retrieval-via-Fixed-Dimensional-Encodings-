@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was Jackie Robinson\u2019s profession?",
+    "response": [
+        "doc_17763.txt",
+        "doc_12840.txt",
+        "doc_3935.txt",
+        "doc_348.txt",
+        "doc_5444.txt"
+    ]
+}

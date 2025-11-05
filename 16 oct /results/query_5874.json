@@ -1,0 +1,10 @@
+{
+    "query": "How did the establishment of NORAD contribute to defending North America from potential air attacks?",
+    "response": [
+        "doc_3408.txt",
+        "doc_3405.txt",
+        "doc_3403.txt",
+        "doc_3409.txt",
+        "doc_3412.txt"
+    ]
+}

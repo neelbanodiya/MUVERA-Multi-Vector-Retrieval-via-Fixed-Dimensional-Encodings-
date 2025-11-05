@@ -1,0 +1,10 @@
+{
+    "query": "Who was Senator Joseph McCarthy, and what role did he play in the events described in the provided links?",
+    "response": [
+        "doc_2088.txt",
+        "doc_2093.txt",
+        "doc_2101.txt",
+        "doc_2097.txt",
+        "doc_2092.txt"
+    ]
+}

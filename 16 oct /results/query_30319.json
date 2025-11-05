@@ -1,0 +1,10 @@
+{
+    "query": "According to the resolution, what increases in funding are proposed for Eurojust, and why?",
+    "response": [
+        "doc_17627.txt",
+        "doc_17623.txt",
+        "doc_8795.txt",
+        "doc_17511.txt",
+        "doc_17612.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which country shares a border with Italy that Menton is near?",
+    "response": [
+        "doc_14209.txt",
+        "doc_14208.txt",
+        "doc_14201.txt",
+        "doc_14205.txt",
+        "doc_9295.txt"
+    ]
+}

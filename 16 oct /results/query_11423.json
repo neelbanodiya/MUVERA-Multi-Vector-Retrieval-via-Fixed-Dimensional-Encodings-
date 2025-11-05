@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many different bird species have been observed on the Space Coast?",
+    "response": [
+        "doc_6634.txt",
+        "doc_21333.txt",
+        "doc_6642.txt",
+        "doc_1381.txt",
+        "doc_2949.txt"
+    ]
+}

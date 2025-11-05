@@ -1,0 +1,10 @@
+{
+    "query": "What has the cost of the EULEX mission to date?",
+    "response": [
+        "doc_19647.txt",
+        "doc_18657.txt",
+        "doc_5625.txt",
+        "doc_8877.txt",
+        "doc_17264.txt"
+    ]
+}

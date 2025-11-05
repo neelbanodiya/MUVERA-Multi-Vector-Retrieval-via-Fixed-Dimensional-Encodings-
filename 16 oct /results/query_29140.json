@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of a novel by Benito Lynch mentioned in the provided texts?",
+    "response": [
+        "doc_16971.txt",
+        "doc_16975.txt",
+        "doc_9231.txt",
+        "doc_642.txt",
+        "doc_22261.txt"
+    ]
+}

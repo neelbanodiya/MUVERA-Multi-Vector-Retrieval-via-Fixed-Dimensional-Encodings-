@@ -1,0 +1,10 @@
+{
+    "query": "In what time period did Dickens publish *Master Humphrey\u2019s Clock*?",
+    "response": [
+        "doc_11910.txt",
+        "doc_11909.txt",
+        "doc_11915.txt",
+        "doc_11911.txt",
+        "doc_11914.txt"
+    ]
+}

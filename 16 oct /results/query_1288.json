@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Barbara Rush appear in \u201cThe Young Philadelphians\u201d?",
+    "response": [
+        "doc_738.txt",
+        "doc_737.txt",
+        "doc_17186.txt",
+        "doc_501.txt",
+        "doc_11625.txt"
+    ]
+}

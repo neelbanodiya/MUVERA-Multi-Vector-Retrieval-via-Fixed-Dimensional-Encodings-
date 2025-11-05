@@ -1,0 +1,10 @@
+{
+    "query": "In what year did J.M. Coetzee first win the Booker Prize?",
+    "response": [
+        "doc_22572.txt",
+        "doc_22571.txt",
+        "doc_22570.txt",
+        "doc_22577.txt",
+        "doc_22568.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what television show did Academy Award nominee George Segal appear, alongside Julia Benjamin?",
+    "response": [
+        "doc_1485.txt",
+        "doc_1486.txt",
+        "doc_1492.txt",
+        "doc_1491.txt",
+        "doc_4464.txt"
+    ]
+}

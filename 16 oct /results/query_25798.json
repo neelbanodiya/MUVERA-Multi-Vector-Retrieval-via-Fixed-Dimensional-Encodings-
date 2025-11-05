@@ -1,0 +1,10 @@
+{
+    "query": "What type of writing system is commonly used in modern Middle Eastern writing?",
+    "response": [
+        "doc_12379.txt",
+        "doc_18679.txt",
+        "doc_8262.txt",
+        "doc_21236.txt",
+        "doc_22102.txt"
+    ]
+}

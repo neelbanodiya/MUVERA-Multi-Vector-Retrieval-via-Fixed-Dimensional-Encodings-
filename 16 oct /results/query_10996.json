@@ -1,0 +1,10 @@
+{
+    "query": "What data did VOSA examine to reach its conclusions regarding the Renault Clio Mark II vehicles?",
+    "response": [
+        "doc_6371.txt",
+        "doc_6372.txt",
+        "doc_9406.txt",
+        "doc_24117.txt",
+        "doc_9404.txt"
+    ]
+}

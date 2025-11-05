@@ -1,0 +1,10 @@
+{
+    "query": "What year did General Patton graduate from the United States Military Academy at West Point?",
+    "response": [
+        "doc_14752.txt",
+        "doc_14750.txt",
+        "doc_14754.txt",
+        "doc_14755.txt",
+        "doc_14756.txt"
+    ]
+}

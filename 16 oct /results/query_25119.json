@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between the Roman numerals 'V' and 'IV' as described in the passage?",
+    "response": [
+        "doc_14582.txt",
+        "doc_14587.txt",
+        "doc_14590.txt",
+        "doc_14584.txt",
+        "doc_14599.txt"
+    ]
+}

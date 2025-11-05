@@ -1,0 +1,10 @@
+{
+    "query": "In what geographical area is the legal principle discussed in this passage primarily relevant (e.g., Latin America)?",
+    "response": [
+        "doc_19823.txt",
+        "doc_21017.txt",
+        "doc_7289.txt",
+        "doc_17368.txt",
+        "doc_4338.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the Bank of America Plaza's ranking as the 26th tallest building in the world?",
+    "response": [
+        "doc_17317.txt",
+        "doc_17313.txt",
+        "doc_17314.txt",
+        "doc_17315.txt",
+        "doc_17318.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Disney Dream launched?",
+    "response": [
+        "doc_9891.txt",
+        "doc_21079.txt",
+        "doc_3700.txt",
+        "doc_9892.txt",
+        "doc_22673.txt"
+    ]
+}

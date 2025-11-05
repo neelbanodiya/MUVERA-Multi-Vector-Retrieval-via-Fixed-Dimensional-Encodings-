@@ -1,0 +1,10 @@
+{
+    "query": "Which woman traveled to Bethlehem with Naomi?",
+    "response": [
+        "doc_9133.txt",
+        "doc_21722.txt",
+        "doc_8090.txt",
+        "doc_10677.txt",
+        "doc_9125.txt"
+    ]
+}

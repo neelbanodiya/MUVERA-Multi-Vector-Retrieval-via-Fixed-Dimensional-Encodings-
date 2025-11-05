@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of the book E.G. Waterhouse wrote with the author?",
+    "response": [
+        "doc_19952.txt",
+        "doc_14656.txt",
+        "doc_4655.txt",
+        "doc_14665.txt",
+        "doc_17755.txt"
+    ]
+}

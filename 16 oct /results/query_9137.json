@@ -1,0 +1,10 @@
+{
+    "query": "What type of event is referenced as a \"Potluck\" in one of the tapes?",
+    "response": [
+        "doc_12581.txt",
+        "doc_12761.txt",
+        "doc_18844.txt",
+        "doc_8400.txt",
+        "doc_19854.txt"
+    ]
+}

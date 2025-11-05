@@ -1,0 +1,10 @@
+{
+    "query": "Where was Hans Holbein the Younger born, and who taught him his artistic skills?",
+    "response": [
+        "doc_21504.txt",
+        "doc_21500.txt",
+        "doc_21501.txt",
+        "doc_21506.txt",
+        "doc_21512.txt"
+    ]
+}

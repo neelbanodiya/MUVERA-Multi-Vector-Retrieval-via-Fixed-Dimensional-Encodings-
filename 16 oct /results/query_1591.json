@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the mountain overlooking the Rogue River Valley, and when was it officially named?",
+    "response": [
+        "doc_23532.txt",
+        "doc_3329.txt",
+        "doc_4335.txt",
+        "doc_18154.txt",
+        "doc_16254.txt"
+    ]
+}

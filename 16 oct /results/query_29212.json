@@ -1,0 +1,10 @@
+{
+    "query": "Which dog breeds are included within the \u201cSporting Group\u201d according to the American Kennel Club?",
+    "response": [
+        "doc_17015.txt",
+        "doc_17013.txt",
+        "doc_17019.txt",
+        "doc_7381.txt",
+        "doc_16796.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What band did Billy Corgan form before The Smashing Pumpkins?",
+    "response": [
+        "doc_12714.txt",
+        "doc_24147.txt",
+        "doc_1786.txt",
+        "doc_20314.txt",
+        "doc_8695.txt"
+    ]
+}

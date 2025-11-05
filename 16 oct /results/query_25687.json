@@ -1,0 +1,10 @@
+{
+    "query": "What nationality were the three EU citizens who were murdered in Pakistan?",
+    "response": [
+        "doc_13130.txt",
+        "doc_14895.txt",
+        "doc_14003.txt",
+        "doc_1180.txt",
+        "doc_22972.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What types of animals do the Gila Monster and Mexican Beaded Lizard prey upon?",
+    "response": [
+        "doc_12300.txt",
+        "doc_12296.txt",
+        "doc_12294.txt",
+        "doc_12297.txt",
+        "doc_12303.txt"
+    ]
+}

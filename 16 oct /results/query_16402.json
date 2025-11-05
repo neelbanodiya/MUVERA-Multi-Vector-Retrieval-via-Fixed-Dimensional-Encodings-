@@ -1,0 +1,10 @@
+{
+    "query": "Several links reference a \"Big Bad Wolf.\" What is a common narrative associated with this figure?",
+    "response": [
+        "doc_9520.txt",
+        "doc_19215.txt",
+        "doc_410.txt",
+        "doc_13075.txt",
+        "doc_23722.txt"
+    ]
+}

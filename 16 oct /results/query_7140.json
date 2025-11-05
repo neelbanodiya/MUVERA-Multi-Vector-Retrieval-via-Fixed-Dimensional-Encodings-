@@ -1,0 +1,10 @@
+{
+    "query": "What year were people surveyed who were born in Denmark in 1905?",
+    "response": [
+        "doc_1856.txt",
+        "doc_3603.txt",
+        "doc_9898.txt",
+        "doc_23595.txt",
+        "doc_3974.txt"
+    ]
+}

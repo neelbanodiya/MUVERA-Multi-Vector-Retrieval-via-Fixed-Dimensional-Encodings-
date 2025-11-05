@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the nightclub Johnny Depp co-starred in?",
+    "response": [
+        "doc_2190.txt",
+        "doc_2193.txt",
+        "doc_2194.txt",
+        "doc_2195.txt",
+        "doc_2191.txt"
+    ]
+}

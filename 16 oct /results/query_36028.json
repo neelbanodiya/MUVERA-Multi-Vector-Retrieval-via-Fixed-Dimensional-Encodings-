@@ -1,0 +1,10 @@
+{
+    "query": "What amendment does the Committee on Legal Affairs and the Internal Market propose to address racist or xenophobic motivation?",
+    "response": [
+        "doc_21002.txt",
+        "doc_21017.txt",
+        "doc_21015.txt",
+        "doc_21014.txt",
+        "doc_15037.txt"
+    ]
+}

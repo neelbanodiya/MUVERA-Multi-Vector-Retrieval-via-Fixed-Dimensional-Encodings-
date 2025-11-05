@@ -1,0 +1,10 @@
+{
+    "query": "Besides Utica, what other Phoenician colony is mentioned in the provided text?",
+    "response": [
+        "doc_8345.txt",
+        "doc_8356.txt",
+        "doc_8359.txt",
+        "doc_8351.txt",
+        "doc_8360.txt"
+    ]
+}

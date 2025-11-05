@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, where did battles during the Revolutionary War frequently take place?",
+    "response": [
+        "doc_198.txt",
+        "doc_4066.txt",
+        "doc_192.txt",
+        "doc_10410.txt",
+        "doc_206.txt"
+    ]
+}

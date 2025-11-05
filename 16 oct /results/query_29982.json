@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what was the context surrounding the use of the phrase \"Senator, you're no Jack Kennedy\"?",
+    "response": [
+        "doc_17410.txt",
+        "doc_17418.txt",
+        "doc_18320.txt",
+        "doc_3640.txt",
+        "doc_22914.txt"
+    ]
+}

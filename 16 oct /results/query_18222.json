@@ -1,0 +1,10 @@
+{
+    "query": "What sportscaster currently hosts the interview show \u201cStudio 42\u201d?",
+    "response": [
+        "doc_20606.txt",
+        "doc_10554.txt",
+        "doc_10557.txt",
+        "doc_14681.txt",
+        "doc_20608.txt"
+    ]
+}

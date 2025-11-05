@@ -1,0 +1,10 @@
+{
+    "query": "What action has the Italian Competition Authority recently taken?",
+    "response": [
+        "doc_16680.txt",
+        "doc_16814.txt",
+        "doc_4865.txt",
+        "doc_13820.txt",
+        "doc_3832.txt"
+    ]
+}

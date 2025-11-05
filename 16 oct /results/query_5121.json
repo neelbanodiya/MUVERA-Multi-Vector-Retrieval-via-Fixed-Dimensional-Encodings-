@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of the donation the UW received from the Gates Foundation?",
+    "response": [
+        "doc_24058.txt",
+        "doc_2992.txt",
+        "doc_24041.txt",
+        "doc_22022.txt",
+        "doc_24023.txt"
+    ]
+}

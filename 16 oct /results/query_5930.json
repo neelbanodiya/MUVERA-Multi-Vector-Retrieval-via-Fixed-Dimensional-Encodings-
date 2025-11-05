@@ -1,0 +1,10 @@
+{
+    "query": "Which Fleetwood Mac album achieved unqualified commercial success in the 1980s?",
+    "response": [
+        "doc_10070.txt",
+        "doc_3471.txt",
+        "doc_3472.txt",
+        "doc_3476.txt",
+        "doc_3478.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In 1904 Winston Churchill left this political party & joined the liberals?",
+    "response": [
+        "doc_15073.txt",
+        "doc_15075.txt",
+        "doc_15071.txt",
+        "doc_15076.txt",
+        "doc_15072.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is a common way Brazilians consume beets?",
+    "response": [
+        "doc_19056.txt",
+        "doc_16545.txt",
+        "doc_21576.txt",
+        "doc_8913.txt",
+        "doc_8659.txt"
+    ]
+}

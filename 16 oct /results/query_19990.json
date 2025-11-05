@@ -1,0 +1,10 @@
+{
+    "query": "When are internal combustion engine cars expected to be banned in Germany?",
+    "response": [
+        "doc_11533.txt",
+        "doc_17168.txt",
+        "doc_5455.txt",
+        "doc_17244.txt",
+        "doc_18713.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the first civilian leader of South Korea?",
+    "response": [
+        "doc_12342.txt",
+        "doc_17970.txt",
+        "doc_18388.txt",
+        "doc_12343.txt",
+        "doc_12344.txt"
+    ]
+}

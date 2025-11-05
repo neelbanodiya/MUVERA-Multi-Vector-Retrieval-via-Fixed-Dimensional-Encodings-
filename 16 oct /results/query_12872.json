@@ -1,0 +1,10 @@
+{
+    "query": "According to the \"Ojibwa\" article, what geographical areas were ceded to the United States?",
+    "response": [
+        "doc_23888.txt",
+        "doc_15359.txt",
+        "doc_15356.txt",
+        "doc_15361.txt",
+        "doc_15354.txt"
+    ]
+}

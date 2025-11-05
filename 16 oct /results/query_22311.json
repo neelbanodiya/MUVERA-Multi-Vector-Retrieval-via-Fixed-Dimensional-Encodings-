@@ -1,0 +1,10 @@
+{
+    "query": "What reported incident is occurring in Anderson, Central Valley?",
+    "response": [
+        "doc_8159.txt",
+        "doc_22676.txt",
+        "doc_20843.txt",
+        "doc_11740.txt",
+        "doc_19834.txt"
+    ]
+}

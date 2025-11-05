@@ -1,0 +1,10 @@
+{
+    "query": "What ballroom dance became popular in Austria and France during the mid-19th century, and which composer included a quotation from it in their piano piece, Op. 14?",
+    "response": [
+        "doc_5856.txt",
+        "doc_5853.txt",
+        "doc_5855.txt",
+        "doc_5865.txt",
+        "doc_5861.txt"
+    ]
+}

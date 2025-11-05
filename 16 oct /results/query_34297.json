@@ -1,0 +1,10 @@
+{
+    "query": "Who died as a result of Magician Emery Thane's actions?",
+    "response": [
+        "doc_16728.txt",
+        "doc_14576.txt",
+        "doc_20569.txt",
+        "doc_9551.txt",
+        "doc_14189.txt"
+    ]
+}

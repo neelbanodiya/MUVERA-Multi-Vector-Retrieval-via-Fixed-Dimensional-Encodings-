@@ -1,0 +1,10 @@
+{
+    "query": "What state is the official drink of Maryland, and what is its name?",
+    "response": [
+        "doc_13596.txt",
+        "doc_1352.txt",
+        "doc_8785.txt",
+        "doc_11115.txt",
+        "doc_12260.txt"
+    ]
+}

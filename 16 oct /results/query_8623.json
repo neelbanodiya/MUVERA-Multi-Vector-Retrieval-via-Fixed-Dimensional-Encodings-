@@ -1,0 +1,10 @@
+{
+    "query": "What films were released before *The Terminator* (1984)?",
+    "response": [
+        "doc_4987.txt",
+        "doc_4991.txt",
+        "doc_4995.txt",
+        "doc_4994.txt",
+        "doc_4992.txt"
+    ]
+}

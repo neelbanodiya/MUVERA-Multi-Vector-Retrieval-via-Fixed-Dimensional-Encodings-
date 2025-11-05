@@ -1,0 +1,10 @@
+{
+    "query": "What year did Lee Strasberg become director of the Actors Studio in New York City?",
+    "response": [
+        "doc_7986.txt",
+        "doc_7985.txt",
+        "doc_7987.txt",
+        "doc_7991.txt",
+        "doc_7989.txt"
+    ]
+}

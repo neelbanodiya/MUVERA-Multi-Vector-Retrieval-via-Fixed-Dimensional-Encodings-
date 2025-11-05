@@ -1,0 +1,10 @@
+{
+    "query": "How much funding was approved in 2009 for the \u2018EXACT\u2019 regional cooperation program?",
+    "response": [
+        "doc_3836.txt",
+        "doc_14969.txt",
+        "doc_17522.txt",
+        "doc_8465.txt",
+        "doc_22712.txt"
+    ]
+}

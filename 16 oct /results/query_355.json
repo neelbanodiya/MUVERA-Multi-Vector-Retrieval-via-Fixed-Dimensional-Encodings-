@@ -1,0 +1,10 @@
+{
+    "query": "When was the Battle of Antietam (or Sharpsburg) fought?",
+    "response": [
+        "doc_193.txt",
+        "doc_190.txt",
+        "doc_192.txt",
+        "doc_194.txt",
+        "doc_197.txt"
+    ]
+}

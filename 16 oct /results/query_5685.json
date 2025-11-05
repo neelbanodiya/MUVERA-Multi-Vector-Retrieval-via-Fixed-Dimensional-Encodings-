@@ -1,0 +1,10 @@
+{
+    "query": "When was the play *The Seagull* written?",
+    "response": [
+        "doc_3307.txt",
+        "doc_1812.txt",
+        "doc_2374.txt",
+        "doc_20958.txt",
+        "doc_20959.txt"
+    ]
+}

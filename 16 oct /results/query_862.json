@@ -1,0 +1,10 @@
+{
+    "query": "Which political prisoner was released by the Kazak authorities?",
+    "response": [
+        "doc_2260.txt",
+        "doc_8911.txt",
+        "doc_3210.txt",
+        "doc_8773.txt",
+        "doc_8770.txt"
+    ]
+}

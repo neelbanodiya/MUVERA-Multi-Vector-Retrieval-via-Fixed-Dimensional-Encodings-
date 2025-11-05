@@ -1,0 +1,10 @@
+{
+    "query": "What nationality was the artist who painted the most famous image of Henry VIII, Hans Holbein?",
+    "response": [
+        "doc_21507.txt",
+        "doc_21509.txt",
+        "doc_21500.txt",
+        "doc_21514.txt",
+        "doc_21501.txt"
+    ]
+}

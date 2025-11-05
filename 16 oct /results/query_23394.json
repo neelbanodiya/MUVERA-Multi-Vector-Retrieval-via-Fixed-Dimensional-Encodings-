@@ -1,0 +1,10 @@
+{
+    "query": "What is one of the roles someone held at KCRW?",
+    "response": [
+        "doc_13334.txt",
+        "doc_2420.txt",
+        "doc_13283.txt",
+        "doc_13324.txt",
+        "doc_12094.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where did President Obama meet with King Salman?",
+    "response": [
+        "doc_15735.txt",
+        "doc_15719.txt",
+        "doc_15729.txt",
+        "doc_15736.txt",
+        "doc_15726.txt"
+    ]
+}

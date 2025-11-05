@@ -1,0 +1,10 @@
+{
+    "query": "What type of establishment is described as \u201cCheers\u201d?",
+    "response": [
+        "doc_6623.txt",
+        "doc_19461.txt",
+        "doc_23185.txt",
+        "doc_19463.txt",
+        "doc_21020.txt"
+    ]
+}

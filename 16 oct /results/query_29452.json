@@ -1,0 +1,10 @@
+{
+    "query": "What is the significance of the phrase \u201cHan shot first\u201d?",
+    "response": [
+        "doc_17132.txt",
+        "doc_17131.txt",
+        "doc_18923.txt",
+        "doc_3.txt",
+        "doc_18930.txt"
+    ]
+}

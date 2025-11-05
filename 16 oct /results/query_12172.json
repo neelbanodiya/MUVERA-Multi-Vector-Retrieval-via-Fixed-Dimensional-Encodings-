@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what action led to Claudius becoming king?",
+    "response": [
+        "doc_7332.txt",
+        "doc_7323.txt",
+        "doc_7110.txt",
+        "doc_7331.txt",
+        "doc_14526.txt"
+    ]
+}

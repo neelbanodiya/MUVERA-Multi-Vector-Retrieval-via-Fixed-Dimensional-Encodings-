@@ -1,0 +1,10 @@
+{
+    "query": "What is the connection between David Letterman and the astrological sign Leo?",
+    "response": [
+        "doc_20311.txt",
+        "doc_7642.txt",
+        "doc_18432.txt",
+        "doc_7643.txt",
+        "doc_1681.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the article from KFVS, how many people gathered at the site of the former Twin Towers on September 11, 2015?",
+    "response": [
+        "doc_16261.txt",
+        "doc_4620.txt",
+        "doc_11267.txt",
+        "doc_107.txt",
+        "doc_5038.txt"
+    ]
+}

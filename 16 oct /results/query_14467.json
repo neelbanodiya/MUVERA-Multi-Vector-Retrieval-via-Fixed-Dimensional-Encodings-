@@ -1,0 +1,10 @@
+{
+    "query": "During which war did Britain capture the island of Martinique?",
+    "response": [
+        "doc_9109.txt",
+        "doc_10052.txt",
+        "doc_9106.txt",
+        "doc_8377.txt",
+        "doc_6622.txt"
+    ]
+}

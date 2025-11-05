@@ -1,0 +1,10 @@
+{
+    "query": "According to the 2016 census, what was the population of Fort Wayne, Indiana?",
+    "response": [
+        "doc_15881.txt",
+        "doc_21463.txt",
+        "doc_23216.txt",
+        "doc_11464.txt",
+        "doc_2258.txt"
+    ]
+}

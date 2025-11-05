@@ -1,0 +1,10 @@
+{
+    "query": "First name shared by Charles Lindbergh\u2019s mother & Longfellow\u2019s Acadian heroine",
+    "response": [
+        "doc_15410.txt",
+        "doc_15416.txt",
+        "doc_15417.txt",
+        "doc_15409.txt",
+        "doc_15414.txt"
+    ]
+}

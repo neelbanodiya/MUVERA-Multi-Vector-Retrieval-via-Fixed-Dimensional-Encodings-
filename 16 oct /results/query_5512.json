@@ -1,0 +1,10 @@
+{
+    "query": "How many times has a woman won the Palme d'Or at the Cannes Film Festival throughout its history?",
+    "response": [
+        "doc_3229.txt",
+        "doc_3226.txt",
+        "doc_3233.txt",
+        "doc_3219.txt",
+        "doc_3222.txt"
+    ]
+}

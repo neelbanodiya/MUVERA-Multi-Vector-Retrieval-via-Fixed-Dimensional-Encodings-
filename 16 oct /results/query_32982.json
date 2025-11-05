@@ -1,0 +1,10 @@
+{
+    "query": "What is the central theme of the \u201cSam & Ralph\u201d project described in the biography of Wile E. Coyote?",
+    "response": [
+        "doc_19205.txt",
+        "doc_19212.txt",
+        "doc_18447.txt",
+        "doc_21371.txt",
+        "doc_9894.txt"
+    ]
+}

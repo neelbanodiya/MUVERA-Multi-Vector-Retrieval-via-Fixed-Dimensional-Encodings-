@@ -1,0 +1,10 @@
+{
+    "query": "What kind of dwelling was built on the Illinois River?",
+    "response": [
+        "doc_7510.txt",
+        "doc_14623.txt",
+        "doc_16253.txt",
+        "doc_9940.txt",
+        "doc_7345.txt"
+    ]
+}

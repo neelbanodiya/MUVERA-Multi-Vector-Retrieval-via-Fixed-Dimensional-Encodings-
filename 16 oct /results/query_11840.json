@@ -1,0 +1,10 @@
+{
+    "query": "When were San Francisco\u2019s cable car lines first constructed?",
+    "response": [
+        "doc_6886.txt",
+        "doc_23261.txt",
+        "doc_6891.txt",
+        "doc_6894.txt",
+        "doc_6890.txt"
+    ]
+}

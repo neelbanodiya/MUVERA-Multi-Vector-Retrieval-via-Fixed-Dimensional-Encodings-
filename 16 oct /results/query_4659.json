@@ -1,0 +1,10 @@
+{
+    "query": "What caused a shortage of supplies that affected Patton\u2019s ability to send medals?",
+    "response": [
+        "doc_555.txt",
+        "doc_12501.txt",
+        "doc_16919.txt",
+        "doc_16885.txt",
+        "doc_23877.txt"
+    ]
+}

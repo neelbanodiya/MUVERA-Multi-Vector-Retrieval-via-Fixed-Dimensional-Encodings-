@@ -1,0 +1,10 @@
+{
+    "query": "According to Josephus, where did Moses go to receive the Ten Commandments?",
+    "response": [
+        "doc_7919.txt",
+        "doc_7918.txt",
+        "doc_23678.txt",
+        "doc_7920.txt",
+        "doc_7912.txt"
+    ]
+}

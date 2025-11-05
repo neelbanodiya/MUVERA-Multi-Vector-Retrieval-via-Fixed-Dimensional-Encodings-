@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the movie referenced in the quote, \"Welcome to Sherwood, my lady!\"?",
+    "response": [
+        "doc_21245.txt",
+        "doc_18758.txt",
+        "doc_18755.txt",
+        "doc_14236.txt",
+        "doc_1811.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How does the addition of a personal pronoun affect a Latin sentence?",
+    "response": [
+        "doc_20878.txt",
+        "doc_20876.txt",
+        "doc_20889.txt",
+        "doc_20883.txt",
+        "doc_9049.txt"
+    ]
+}

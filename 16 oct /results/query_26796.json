@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the trilogy that *The Two Towers* is a part of?",
+    "response": [
+        "doc_15551.txt",
+        "doc_15552.txt",
+        "doc_16260.txt",
+        "doc_18245.txt",
+        "doc_13737.txt"
+    ]
+}

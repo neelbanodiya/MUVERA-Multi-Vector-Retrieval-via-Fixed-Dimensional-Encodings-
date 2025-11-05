@@ -1,0 +1,10 @@
+{
+    "query": "What was George Washington\u2019s role in the events surrounding Fort Presque Isle?",
+    "response": [
+        "doc_4016.txt",
+        "doc_4020.txt",
+        "doc_4014.txt",
+        "doc_4015.txt",
+        "doc_4017.txt"
+    ]
+}

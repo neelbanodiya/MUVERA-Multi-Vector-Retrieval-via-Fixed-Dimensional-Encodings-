@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject matter of the painting \u201cThe Garden of Earthly Delights\u201d?",
+    "response": [
+        "doc_4551.txt",
+        "doc_4552.txt",
+        "doc_4560.txt",
+        "doc_4569.txt",
+        "doc_4566.txt"
+    ]
+}

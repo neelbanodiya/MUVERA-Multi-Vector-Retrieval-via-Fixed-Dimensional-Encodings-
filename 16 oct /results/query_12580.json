@@ -1,0 +1,10 @@
+{
+    "query": "What year was William the Conqueror crowned king of England?",
+    "response": [
+        "doc_7325.txt",
+        "doc_7331.txt",
+        "doc_7326.txt",
+        "doc_7337.txt",
+        "doc_7321.txt"
+    ]
+}

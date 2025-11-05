@@ -1,0 +1,10 @@
+{
+    "query": "How many tracks did the studio Stefan Marti worked in have?",
+    "response": [
+        "doc_12043.txt",
+        "doc_20314.txt",
+        "doc_8468.txt",
+        "doc_12713.txt",
+        "doc_5445.txt"
+    ]
+}

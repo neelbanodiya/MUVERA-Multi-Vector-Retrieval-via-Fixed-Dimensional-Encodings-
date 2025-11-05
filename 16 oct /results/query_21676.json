@@ -1,0 +1,10 @@
+{
+    "query": "What is the purpose of official controls on pesticide residues carried out by Member States, as described in the text?",
+    "response": [
+        "doc_12492.txt",
+        "doc_12494.txt",
+        "doc_12491.txt",
+        "doc_12473.txt",
+        "doc_16656.txt"
+    ]
+}

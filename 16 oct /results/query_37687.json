@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked articles, what percentage of children in Africa and South Asia are girls?",
+    "response": [
+        "doc_8789.txt",
+        "doc_3271.txt",
+        "doc_3279.txt",
+        "doc_541.txt",
+        "doc_3268.txt"
+    ]
+}

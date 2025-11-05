@@ -1,0 +1,10 @@
+{
+    "query": "Who was included in the band that accompanied Woody Allen on his 1996 European tour?",
+    "response": [
+        "doc_8712.txt",
+        "doc_8710.txt",
+        "doc_8713.txt",
+        "doc_8714.txt",
+        "doc_8711.txt"
+    ]
+}

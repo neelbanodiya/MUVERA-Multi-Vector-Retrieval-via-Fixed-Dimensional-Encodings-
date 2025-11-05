@@ -1,0 +1,10 @@
+{
+    "query": "In what television show did Vonda Shepard appear as a regular, playing a role related to music?",
+    "response": [
+        "doc_3700.txt",
+        "doc_18965.txt",
+        "doc_19019.txt",
+        "doc_8655.txt",
+        "doc_1623.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the Oklahoma Baptist University catalog, what records does OBU need to maintain regarding students?",
+    "response": [
+        "doc_22508.txt",
+        "doc_22510.txt",
+        "doc_22509.txt",
+        "doc_8871.txt",
+        "doc_2854.txt"
+    ]
+}

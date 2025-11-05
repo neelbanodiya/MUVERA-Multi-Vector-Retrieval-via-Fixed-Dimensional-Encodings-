@@ -1,0 +1,10 @@
+{
+    "query": "How can teams play Pictionary?",
+    "response": [
+        "doc_20171.txt",
+        "doc_1861.txt",
+        "doc_20170.txt",
+        "doc_8627.txt",
+        "doc_1862.txt"
+    ]
+}

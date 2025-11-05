@@ -1,0 +1,10 @@
+{
+    "query": "Which island is described as having the charm of a small village in the south of France?",
+    "response": [
+        "doc_8373.txt",
+        "doc_8375.txt",
+        "doc_8374.txt",
+        "doc_8372.txt",
+        "doc_8369.txt"
+    ]
+}

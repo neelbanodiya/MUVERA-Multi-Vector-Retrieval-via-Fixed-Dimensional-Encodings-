@@ -1,0 +1,10 @@
+{
+    "query": "According to several sources, including Rotten Tomatoes, *West Side Story* won how many Academy Awards?",
+    "response": [
+        "doc_8895.txt",
+        "doc_8897.txt",
+        "doc_23286.txt",
+        "doc_10737.txt",
+        "doc_22111.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary job of the actor Massimo Troisi\u2019s character, Mario, in the film *Il Postino*?",
+    "response": [
+        "doc_17705.txt",
+        "doc_17712.txt",
+        "doc_17700.txt",
+        "doc_17704.txt",
+        "doc_5868.txt"
+    ]
+}

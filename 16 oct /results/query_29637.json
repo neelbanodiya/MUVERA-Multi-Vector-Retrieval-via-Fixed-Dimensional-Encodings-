@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what historical event is associated with the first train being hauled between Sydney and Parramatta?",
+    "response": [
+        "doc_11009.txt",
+        "doc_20126.txt",
+        "doc_20875.txt",
+        "doc_23027.txt",
+        "doc_10525.txt"
+    ]
+}

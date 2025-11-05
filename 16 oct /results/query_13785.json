@@ -1,0 +1,10 @@
+{
+    "query": "Which bands were performing at Avalon in August 1966, alongside Bo Diddley?",
+    "response": [
+        "doc_3257.txt",
+        "doc_15319.txt",
+        "doc_20000.txt",
+        "doc_19668.txt",
+        "doc_8812.txt"
+    ]
+}

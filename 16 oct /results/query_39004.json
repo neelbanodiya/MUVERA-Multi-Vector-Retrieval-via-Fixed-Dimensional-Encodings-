@@ -1,0 +1,10 @@
+{
+    "query": "Where was the first feature-length film, \u201cThe Squaw Man,\u201d shot?",
+    "response": [
+        "doc_22831.txt",
+        "doc_22834.txt",
+        "doc_22833.txt",
+        "doc_22832.txt",
+        "doc_22837.txt"
+    ]
+}

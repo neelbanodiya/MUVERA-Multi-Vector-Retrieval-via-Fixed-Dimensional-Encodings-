@@ -1,0 +1,10 @@
+{
+    "query": "According to the Wikipedia article on the History of Astrology, who was given horoscopic astrology early on?",
+    "response": [
+        "doc_19860.txt",
+        "doc_17753.txt",
+        "doc_7648.txt",
+        "doc_1684.txt",
+        "doc_1296.txt"
+    ]
+}

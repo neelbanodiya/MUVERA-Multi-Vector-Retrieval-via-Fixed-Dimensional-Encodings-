@@ -1,0 +1,10 @@
+{
+    "query": "What geographical feature is Beowawe situated near, giving it its name?",
+    "response": [
+        "doc_1389.txt",
+        "doc_22541.txt",
+        "doc_22342.txt",
+        "doc_1654.txt",
+        "doc_10935.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate length of the Pyrenees mountain range?",
+    "response": [
+        "doc_23524.txt",
+        "doc_23526.txt",
+        "doc_23525.txt",
+        "doc_23532.txt",
+        "doc_23528.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the article, how long does the refugee screening process in the US typically last?",
+    "response": [
+        "doc_18700.txt",
+        "doc_18699.txt",
+        "doc_2740.txt",
+        "doc_15728.txt",
+        "doc_2876.txt"
+    ]
+}

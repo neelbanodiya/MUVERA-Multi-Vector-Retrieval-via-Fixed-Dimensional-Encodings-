@@ -1,0 +1,10 @@
+{
+    "query": "What was the duration of the battle for Iwo Jima?",
+    "response": [
+        "doc_1483.txt",
+        "doc_15912.txt",
+        "doc_194.txt",
+        "doc_207.txt",
+        "doc_15916.txt"
+    ]
+}

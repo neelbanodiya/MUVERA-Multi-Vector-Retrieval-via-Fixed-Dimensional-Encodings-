@@ -1,0 +1,10 @@
+{
+    "query": "What event occurred in England several years before the Second Empire, involving a country house?",
+    "response": [
+        "doc_9106.txt",
+        "doc_9107.txt",
+        "doc_7217.txt",
+        "doc_7520.txt",
+        "doc_23552.txt"
+    ]
+}

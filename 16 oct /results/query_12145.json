@@ -1,0 +1,10 @@
+{
+    "query": "What job is given to Ophelia\u2019s father?",
+    "response": [
+        "doc_13334.txt",
+        "doc_7104.txt",
+        "doc_16126.txt",
+        "doc_17265.txt",
+        "doc_1235.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What medals did Stafford win?",
+    "response": [
+        "doc_17049.txt",
+        "doc_10682.txt",
+        "doc_22767.txt",
+        "doc_8677.txt",
+        "doc_6528.txt"
+    ]
+}

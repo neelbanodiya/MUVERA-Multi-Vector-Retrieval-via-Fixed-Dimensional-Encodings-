@@ -1,0 +1,10 @@
+{
+    "query": "When was a complaint submitted to the Commission regarding the \u2018tax shield\u2019 legislation?",
+    "response": [
+        "doc_23210.txt",
+        "doc_17404.txt",
+        "doc_16885.txt",
+        "doc_3922.txt",
+        "doc_8295.txt"
+    ]
+}

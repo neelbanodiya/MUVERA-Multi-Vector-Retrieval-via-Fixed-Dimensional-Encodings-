@@ -1,0 +1,10 @@
+{
+    "query": "How do transformers help with voltage differences between the U.S. and Europe?",
+    "response": [
+        "doc_5983.txt",
+        "doc_11598.txt",
+        "doc_20404.txt",
+        "doc_11592.txt",
+        "doc_21623.txt"
+    ]
+}

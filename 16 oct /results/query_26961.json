@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what was Noah doing when Ham witnessed the event?",
+    "response": [
+        "doc_15669.txt",
+        "doc_15675.txt",
+        "doc_15679.txt",
+        "doc_15674.txt",
+        "doc_15670.txt"
+    ]
+}

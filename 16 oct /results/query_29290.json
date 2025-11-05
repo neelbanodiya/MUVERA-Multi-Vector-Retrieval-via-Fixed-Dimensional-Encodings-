@@ -1,0 +1,10 @@
+{
+    "query": "What is the third-largest city in the state of Kansas?",
+    "response": [
+        "doc_17057.txt",
+        "doc_17060.txt",
+        "doc_17058.txt",
+        "doc_15882.txt",
+        "doc_21465.txt"
+    ]
+}

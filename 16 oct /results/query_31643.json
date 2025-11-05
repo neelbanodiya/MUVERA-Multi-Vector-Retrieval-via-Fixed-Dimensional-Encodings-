@@ -1,0 +1,10 @@
+{
+    "query": "How long did Robinson Crusoe live in a state of solitude?",
+    "response": [
+        "doc_18445.txt",
+        "doc_18462.txt",
+        "doc_18461.txt",
+        "doc_18447.txt",
+        "doc_18456.txt"
+    ]
+}

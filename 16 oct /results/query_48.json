@@ -1,0 +1,10 @@
+{
+    "query": "How many side platforms are located at the Convention Place station?",
+    "response": [
+        "doc_28.txt",
+        "doc_29.txt",
+        "doc_10667.txt",
+        "doc_20225.txt",
+        "doc_10696.txt"
+    ]
+}

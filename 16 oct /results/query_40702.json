@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Pierce Brosnan appear in the film *Die Another Day*?",
+    "response": [
+        "doc_23810.txt",
+        "doc_23802.txt",
+        "doc_23809.txt",
+        "doc_23797.txt",
+        "doc_23806.txt"
+    ]
+}

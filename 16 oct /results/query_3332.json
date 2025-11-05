@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Mario Lemieux selected by the Pittsburgh Penguins in the NHL draft?",
+    "response": [
+        "doc_1991.txt",
+        "doc_1990.txt",
+        "doc_1992.txt",
+        "doc_1993.txt",
+        "doc_2002.txt"
+    ]
+}

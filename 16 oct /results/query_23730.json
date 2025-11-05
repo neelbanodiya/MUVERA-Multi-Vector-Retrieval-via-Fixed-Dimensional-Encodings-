@@ -1,0 +1,10 @@
+{
+    "query": "What sport did David excel in at UBC?",
+    "response": [
+        "doc_13775.txt",
+        "doc_74.txt",
+        "doc_8720.txt",
+        "doc_22767.txt",
+        "doc_15511.txt"
+    ]
+}

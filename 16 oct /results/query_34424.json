@@ -1,0 +1,10 @@
+{
+    "query": "What roles do Livesey and Jim Hawkins have on the Hispaniola?",
+    "response": [
+        "doc_20021.txt",
+        "doc_20023.txt",
+        "doc_20013.txt",
+        "doc_20006.txt",
+        "doc_20007.txt"
+    ]
+}

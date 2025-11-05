@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is a key reason for the perceived failure of the CFP (Common Fisheries Policy)?",
+    "response": [
+        "doc_20093.txt",
+        "doc_20094.txt",
+        "doc_12069.txt",
+        "doc_4494.txt",
+        "doc_11330.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of show is \u201cGilmore Girls\u201d (e.g., drama, comedy)?",
+    "response": [
+        "doc_7179.txt",
+        "doc_7196.txt",
+        "doc_3741.txt",
+        "doc_7182.txt",
+        "doc_7181.txt"
+    ]
+}

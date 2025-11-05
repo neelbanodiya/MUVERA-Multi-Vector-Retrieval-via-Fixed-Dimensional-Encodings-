@@ -1,0 +1,10 @@
+{
+    "query": "How long did Gray spend on the river?",
+    "response": [
+        "doc_726.txt",
+        "doc_16326.txt",
+        "doc_4656.txt",
+        "doc_3071.txt",
+        "doc_22496.txt"
+    ]
+}

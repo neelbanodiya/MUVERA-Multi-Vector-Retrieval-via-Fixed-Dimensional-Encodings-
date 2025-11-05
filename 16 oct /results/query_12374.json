@@ -1,0 +1,10 @@
+{
+    "query": "What happened between the Krum and Franks?",
+    "response": [
+        "doc_4061.txt",
+        "doc_7207.txt",
+        "doc_16466.txt",
+        "doc_397.txt",
+        "doc_14526.txt"
+    ]
+}

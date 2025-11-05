@@ -1,0 +1,10 @@
+{
+    "query": "Where does Fairfax matriculate to the university?",
+    "response": [
+        "doc_9023.txt",
+        "doc_19359.txt",
+        "doc_9024.txt",
+        "doc_134.txt",
+        "doc_18385.txt"
+    ]
+}

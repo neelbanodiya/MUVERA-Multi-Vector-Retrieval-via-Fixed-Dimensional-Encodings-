@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the book by Grandma Moses featured in the \"Art set to music\" link?",
+    "response": [
+        "doc_8168.txt",
+        "doc_20896.txt",
+        "doc_1295.txt",
+        "doc_5278.txt",
+        "doc_17176.txt"
+    ]
+}

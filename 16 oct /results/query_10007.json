@@ -1,0 +1,10 @@
+{
+    "query": "What do \u201cTah\u201d and \u201cdig\u201d mean in Persian/Farsi, according to the passage about Tah-Dig?",
+    "response": [
+        "doc_792.txt",
+        "doc_23846.txt",
+        "doc_9446.txt",
+        "doc_1297.txt",
+        "doc_5420.txt"
+    ]
+}

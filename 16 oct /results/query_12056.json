@@ -1,0 +1,10 @@
+{
+    "query": "What was Robert E. Lee\u2019s role in Virginia, as described in one of the provided sources?",
+    "response": [
+        "doc_10062.txt",
+        "doc_18662.txt",
+        "doc_7058.txt",
+        "doc_17288.txt",
+        "doc_10064.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Richard travel to Ireland?",
+    "response": [
+        "doc_11251.txt",
+        "doc_11246.txt",
+        "doc_11243.txt",
+        "doc_11253.txt",
+        "doc_11248.txt"
+    ]
+}

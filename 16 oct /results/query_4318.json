@@ -1,0 +1,10 @@
+{
+    "query": "What play by Tennessee Williams features a character named Sebastian Venable who does not appear on stage?",
+    "response": [
+        "doc_2511.txt",
+        "doc_2502.txt",
+        "doc_2506.txt",
+        "doc_2505.txt",
+        "doc_20130.txt"
+    ]
+}

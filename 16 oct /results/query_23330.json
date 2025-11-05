@@ -1,0 +1,10 @@
+{
+    "query": "What musical pieces were commonly sung during the American Civil War, as referenced in the provided sources?",
+    "response": [
+        "doc_20896.txt",
+        "doc_205.txt",
+        "doc_21963.txt",
+        "doc_207.txt",
+        "doc_906.txt"
+    ]
+}

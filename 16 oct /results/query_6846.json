@@ -1,0 +1,10 @@
+{
+    "query": "What e-book did Stephen King publish that was cracked?",
+    "response": [
+        "doc_19142.txt",
+        "doc_19140.txt",
+        "doc_3923.txt",
+        "doc_3924.txt",
+        "doc_11486.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Central American country has the lowest population density?",
+    "response": [
+        "doc_539.txt",
+        "doc_534.txt",
+        "doc_538.txt",
+        "doc_536.txt",
+        "doc_537.txt"
+    ]
+}

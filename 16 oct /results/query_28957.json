@@ -1,0 +1,10 @@
+{
+    "query": "What is the purpose of the \u201ccitizens\u2019 initiative\u201d introduced by the Treaty of Lisbon, and which institutions are involved in its procedures?",
+    "response": [
+        "doc_20031.txt",
+        "doc_17928.txt",
+        "doc_23226.txt",
+        "doc_16886.txt",
+        "doc_586.txt"
+    ]
+}

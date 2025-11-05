@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is the US trying to achieve with spectrum management?",
+    "response": [
+        "doc_12941.txt",
+        "doc_22189.txt",
+        "doc_3702.txt",
+        "doc_20102.txt",
+        "doc_21807.txt"
+    ]
+}

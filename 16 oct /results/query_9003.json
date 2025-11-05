@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Philip II die, and what event was he attending when he was killed?",
+    "response": [
+        "doc_5192.txt",
+        "doc_5198.txt",
+        "doc_5200.txt",
+        "doc_5194.txt",
+        "doc_5191.txt"
+    ]
+}

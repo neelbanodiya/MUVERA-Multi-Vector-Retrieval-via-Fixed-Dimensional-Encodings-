@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate length of Egypt\u2019s coastline bordering the Mediterranean Sea?",
+    "response": [
+        "doc_3268.txt",
+        "doc_3267.txt",
+        "doc_3269.txt",
+        "doc_7258.txt",
+        "doc_3274.txt"
+    ]
+}

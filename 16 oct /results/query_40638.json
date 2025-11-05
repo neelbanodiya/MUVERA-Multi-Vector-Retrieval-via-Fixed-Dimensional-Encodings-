@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the stray dog featured in the novel *Old Yeller*?",
+    "response": [
+        "doc_23775.txt",
+        "doc_23765.txt",
+        "doc_23777.txt",
+        "doc_19597.txt",
+        "doc_2338.txt"
+    ]
+}

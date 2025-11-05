@@ -1,0 +1,10 @@
+{
+    "query": "Where are the Toyota Research Institute (TRI) and Stanford Artificial Intelligence Laboratory (SAIL) located?",
+    "response": [
+        "doc_4806.txt",
+        "doc_4807.txt",
+        "doc_4804.txt",
+        "doc_4803.txt",
+        "doc_4808.txt"
+    ]
+}

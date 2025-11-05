@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of participants in the Youth in Action programme expressed a preference for it to continue as an independent action?",
+    "response": [
+        "doc_19161.txt",
+        "doc_14365.txt",
+        "doc_20036.txt",
+        "doc_4541.txt",
+        "doc_10525.txt"
+    ]
+}

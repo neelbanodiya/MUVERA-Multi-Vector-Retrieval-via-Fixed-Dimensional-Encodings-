@@ -1,0 +1,10 @@
+{
+    "query": "What is the focus of the upcoming EU-US Summit to be held in Slovenia?",
+    "response": [
+        "doc_19902.txt",
+        "doc_19901.txt",
+        "doc_15131.txt",
+        "doc_16787.txt",
+        "doc_5890.txt"
+    ]
+}

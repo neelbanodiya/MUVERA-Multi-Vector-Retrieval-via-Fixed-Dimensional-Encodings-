@@ -1,0 +1,10 @@
+{
+    "query": "Which supermarket chains were part of A&P\u2019s operations, according to the provided text?",
+    "response": [
+        "doc_3630.txt",
+        "doc_3627.txt",
+        "doc_2837.txt",
+        "doc_8912.txt",
+        "doc_3628.txt"
+    ]
+}

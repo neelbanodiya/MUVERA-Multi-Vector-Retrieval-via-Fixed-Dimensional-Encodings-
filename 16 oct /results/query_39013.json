@@ -1,0 +1,10 @@
+{
+    "query": "When was the first feature film shot in Hollywood?",
+    "response": [
+        "doc_22834.txt",
+        "doc_22835.txt",
+        "doc_22831.txt",
+        "doc_22837.txt",
+        "doc_22836.txt"
+    ]
+}

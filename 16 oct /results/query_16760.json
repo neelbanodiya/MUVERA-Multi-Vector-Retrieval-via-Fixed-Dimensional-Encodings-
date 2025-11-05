@@ -1,0 +1,10 @@
+{
+    "query": "Which French comedy did the Hollywood remake of \u201cPardon Mon Affaire\u201d adapt?",
+    "response": [
+        "doc_9706.txt",
+        "doc_9707.txt",
+        "doc_9705.txt",
+        "doc_9708.txt",
+        "doc_9711.txt"
+    ]
+}

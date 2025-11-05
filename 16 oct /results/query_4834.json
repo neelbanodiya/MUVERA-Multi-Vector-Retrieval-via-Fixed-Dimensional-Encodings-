@@ -1,0 +1,10 @@
+{
+    "query": "Which artist was inducted into the Rock and Roll Hall of Fame due to their work with Phil Spector\u2019s \u201cWall of Sound\u201d?",
+    "response": [
+        "doc_2788.txt",
+        "doc_2784.txt",
+        "doc_2783.txt",
+        "doc_2790.txt",
+        "doc_2791.txt"
+    ]
+}

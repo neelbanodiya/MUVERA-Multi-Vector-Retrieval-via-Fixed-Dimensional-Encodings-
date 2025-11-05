@@ -1,0 +1,10 @@
+{
+    "query": "Who defeated Jess Willard to win the Heavyweight boxing title?",
+    "response": [
+        "doc_7222.txt",
+        "doc_7226.txt",
+        "doc_7224.txt",
+        "doc_7223.txt",
+        "doc_7232.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Santa Fe Trail Association publish a document related to the Santa Fe Trail?",
+    "response": [
+        "doc_13089.txt",
+        "doc_21972.txt",
+        "doc_6897.txt",
+        "doc_5038.txt",
+        "doc_13963.txt"
+    ]
+}

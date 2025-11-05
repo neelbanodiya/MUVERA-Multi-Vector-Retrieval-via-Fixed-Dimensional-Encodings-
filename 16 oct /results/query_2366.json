@@ -1,0 +1,10 @@
+{
+    "query": "How many miles did Gandhi march as part of the Salt March?",
+    "response": [
+        "doc_1409.txt",
+        "doc_1405.txt",
+        "doc_1408.txt",
+        "doc_1403.txt",
+        "doc_1416.txt"
+    ]
+}

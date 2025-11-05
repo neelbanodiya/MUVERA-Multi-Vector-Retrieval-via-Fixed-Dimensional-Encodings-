@@ -1,0 +1,10 @@
+{
+    "query": "When did Gale Gordon join *The Lucy Show*?",
+    "response": [
+        "doc_10350.txt",
+        "doc_10352.txt",
+        "doc_10363.txt",
+        "doc_10349.txt",
+        "doc_10362.txt"
+    ]
+}

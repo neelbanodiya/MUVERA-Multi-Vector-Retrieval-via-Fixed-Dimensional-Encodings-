@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what distinctive feature did Medusa possess that differentiated her from her Gorgon sisters?",
+    "response": [
+        "doc_23033.txt",
+        "doc_23039.txt",
+        "doc_23034.txt",
+        "doc_23037.txt",
+        "doc_23036.txt"
+    ]
+}

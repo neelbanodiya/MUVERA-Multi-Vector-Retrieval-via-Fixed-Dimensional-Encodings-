@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, when were the mosaics at Mount Sinai created?",
+    "response": [
+        "doc_23689.txt",
+        "doc_23694.txt",
+        "doc_23690.txt",
+        "doc_18616.txt",
+        "doc_23682.txt"
+    ]
+}

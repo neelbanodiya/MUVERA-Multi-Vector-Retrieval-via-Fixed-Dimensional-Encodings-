@@ -1,0 +1,10 @@
+{
+    "query": "What is the location of the Painted Desert in relation to the Petrified Forest National Park?",
+    "response": [
+        "doc_9325.txt",
+        "doc_9324.txt",
+        "doc_9328.txt",
+        "doc_9327.txt",
+        "doc_9339.txt"
+    ]
+}

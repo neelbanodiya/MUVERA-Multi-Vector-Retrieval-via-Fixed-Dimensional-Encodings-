@@ -1,0 +1,10 @@
+{
+    "query": "How many consecutive terms did Peter Courtney serve as Senate?",
+    "response": [
+        "doc_16621.txt",
+        "doc_12834.txt",
+        "doc_19315.txt",
+        "doc_12836.txt",
+        "doc_9117.txt"
+    ]
+}

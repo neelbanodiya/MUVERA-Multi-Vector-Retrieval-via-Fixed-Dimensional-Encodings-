@@ -1,0 +1,10 @@
+{
+    "query": "When did the attempt to assassinate President Reagan occur?",
+    "response": [
+        "doc_6110.txt",
+        "doc_20670.txt",
+        "doc_20688.txt",
+        "doc_20672.txt",
+        "doc_20673.txt"
+    ]
+}

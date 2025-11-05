@@ -1,0 +1,10 @@
+{
+    "query": "Besides \u201cEat Pray Love,\u201d in which other film did Lidia Biondi appear alongside Julia Roberts?",
+    "response": [
+        "doc_20567.txt",
+        "doc_12202.txt",
+        "doc_19273.txt",
+        "doc_20412.txt",
+        "doc_16730.txt"
+    ]
+}

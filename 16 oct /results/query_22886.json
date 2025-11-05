@@ -1,0 +1,10 @@
+{
+    "query": "Which institution is responsible for determining the allocation of seats in the Chamber?",
+    "response": [
+        "doc_13192.txt",
+        "doc_16894.txt",
+        "doc_10839.txt",
+        "doc_24042.txt",
+        "doc_15281.txt"
+    ]
+}

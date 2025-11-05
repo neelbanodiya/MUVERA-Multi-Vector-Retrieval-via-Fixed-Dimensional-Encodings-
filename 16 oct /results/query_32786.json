@@ -1,0 +1,10 @@
+{
+    "query": "What award did the Alka-Seltzer commercial, \u201cI can\u2019t believe I ate the whole thing,\u201d receive in 1972?",
+    "response": [
+        "doc_19107.txt",
+        "doc_19110.txt",
+        "doc_19109.txt",
+        "doc_19108.txt",
+        "doc_19112.txt"
+    ]
+}

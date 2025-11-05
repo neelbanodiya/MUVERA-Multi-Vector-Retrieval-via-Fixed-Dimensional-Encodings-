@@ -1,0 +1,10 @@
+{
+    "query": "What films did James Cameron direct before *Terminator 2: Judgment Day*?",
+    "response": [
+        "doc_4994.txt",
+        "doc_4988.txt",
+        "doc_4989.txt",
+        "doc_4987.txt",
+        "doc_4984.txt"
+    ]
+}

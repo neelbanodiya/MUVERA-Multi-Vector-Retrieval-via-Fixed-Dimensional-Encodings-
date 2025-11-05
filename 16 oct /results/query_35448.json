@@ -1,0 +1,10 @@
+{
+    "query": "What was the length of the New York City newspaper strike in 1962?",
+    "response": [
+        "doc_23497.txt",
+        "doc_22773.txt",
+        "doc_18339.txt",
+        "doc_18509.txt",
+        "doc_7408.txt"
+    ]
+}

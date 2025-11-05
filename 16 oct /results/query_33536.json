@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Alice Roosevelt Longworth?",
+    "response": [
+        "doc_19538.txt",
+        "doc_12671.txt",
+        "doc_19536.txt",
+        "doc_19545.txt",
+        "doc_12675.txt"
+    ]
+}

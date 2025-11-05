@@ -1,0 +1,10 @@
+{
+    "query": "What action did the European Parliament take in 1988 regarding the destruction of cultural heritage in the occupied part of Cyprus?",
+    "response": [
+        "doc_12449.txt",
+        "doc_1277.txt",
+        "doc_19590.txt",
+        "doc_3914.txt",
+        "doc_5571.txt"
+    ]
+}

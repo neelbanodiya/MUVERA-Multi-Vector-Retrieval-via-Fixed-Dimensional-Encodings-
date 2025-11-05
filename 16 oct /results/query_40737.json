@@ -1,0 +1,10 @@
+{
+    "query": "Besides the Concert House, what other German landmark is mentioned near the Cathedral?",
+    "response": [
+        "doc_23820.txt",
+        "doc_8643.txt",
+        "doc_23819.txt",
+        "doc_23825.txt",
+        "doc_23815.txt"
+    ]
+}

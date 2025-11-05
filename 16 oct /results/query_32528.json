@@ -1,0 +1,10 @@
+{
+    "query": "Where did Washington Irving spend the last years of his life?",
+    "response": [
+        "doc_18976.txt",
+        "doc_16326.txt",
+        "doc_3567.txt",
+        "doc_20257.txt",
+        "doc_8998.txt"
+    ]
+}

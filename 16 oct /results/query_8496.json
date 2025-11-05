@@ -1,0 +1,10 @@
+{
+    "query": "For what award did Welles share an Oscar, and in what year did the film receive it?",
+    "response": [
+        "doc_4923.txt",
+        "doc_4925.txt",
+        "doc_4918.txt",
+        "doc_4911.txt",
+        "doc_4912.txt"
+    ]
+}

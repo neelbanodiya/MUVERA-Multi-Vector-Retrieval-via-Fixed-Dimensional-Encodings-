@@ -1,0 +1,10 @@
+{
+    "query": "When was the EU-Russia Summit held in Rostov-on-Don, and what documents were produced as a result of that summit?",
+    "response": [
+        "doc_16787.txt",
+        "doc_18357.txt",
+        "doc_5888.txt",
+        "doc_18365.txt",
+        "doc_1272.txt"
+    ]
+}

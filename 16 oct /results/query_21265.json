@@ -1,0 +1,10 @@
+{
+    "query": "Which actor played James Earl Jones in *I've Got a Secret*?",
+    "response": [
+        "doc_18873.txt",
+        "doc_19282.txt",
+        "doc_20159.txt",
+        "doc_1485.txt",
+        "doc_19563.txt"
+    ]
+}

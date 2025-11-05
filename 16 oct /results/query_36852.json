@@ -1,0 +1,10 @@
+{
+    "query": "What specific piece by Chopin, featuring a \"Grand rondeau de concert,\" is mentioned, and what is its opus number?",
+    "response": [
+        "doc_21519.txt",
+        "doc_20491.txt",
+        "doc_14559.txt",
+        "doc_7664.txt",
+        "doc_9662.txt"
+    ]
+}

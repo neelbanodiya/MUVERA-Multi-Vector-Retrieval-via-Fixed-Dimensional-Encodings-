@@ -1,0 +1,10 @@
+{
+    "query": "In what city was the Horner/John Dagored record label based?",
+    "response": [
+        "doc_4745.txt",
+        "doc_23030.txt",
+        "doc_23297.txt",
+        "doc_3889.txt",
+        "doc_8008.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What issue related to the subsoil of Barcelona led to the Zona Franca Metro Line No 9 being stuck underground for a year, as highlighted in the passage?",
+    "response": [
+        "doc_9595.txt",
+        "doc_19707.txt",
+        "doc_19706.txt",
+        "doc_5501.txt",
+        "doc_16260.txt"
+    ]
+}

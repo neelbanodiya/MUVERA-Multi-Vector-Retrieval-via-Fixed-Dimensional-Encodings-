@@ -1,0 +1,10 @@
+{
+    "query": "What is \u201cHeart of Darkness\u201d described as?",
+    "response": [
+        "doc_11997.txt",
+        "doc_2142.txt",
+        "doc_2130.txt",
+        "doc_7788.txt",
+        "doc_14772.txt"
+    ]
+}

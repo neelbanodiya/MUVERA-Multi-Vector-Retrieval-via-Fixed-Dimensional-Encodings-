@@ -1,0 +1,10 @@
+{
+    "query": "Besides jazz fusion, what other genres did John Abercrombie\u2019s musical work explore?",
+    "response": [
+        "doc_19136.txt",
+        "doc_3913.txt",
+        "doc_16349.txt",
+        "doc_19462.txt",
+        "doc_19018.txt"
+    ]
+}

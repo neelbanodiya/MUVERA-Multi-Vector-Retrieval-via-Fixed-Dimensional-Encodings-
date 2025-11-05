@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how long ago was life on Earth in a \u201ctail-spin\u201d according to one of the linked articles?",
+    "response": [
+        "doc_16913.txt",
+        "doc_16914.txt",
+        "doc_14066.txt",
+        "doc_20413.txt",
+        "doc_7448.txt"
+    ]
+}

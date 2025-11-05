@@ -1,0 +1,10 @@
+{
+    "query": "What is the location of the Schlosshotel Roemischer Kaiser in relation to Vienna\u2019s first district?",
+    "response": [
+        "doc_22179.txt",
+        "doc_22183.txt",
+        "doc_8638.txt",
+        "doc_22180.txt",
+        "doc_8639.txt"
+    ]
+}

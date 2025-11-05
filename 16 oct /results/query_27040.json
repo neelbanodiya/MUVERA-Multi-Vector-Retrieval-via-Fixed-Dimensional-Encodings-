@@ -1,0 +1,10 @@
+{
+    "query": "What types of writing did Carson produce (e.g., plays, essays)?",
+    "response": [
+        "doc_14658.txt",
+        "doc_16146.txt",
+        "doc_22535.txt",
+        "doc_22536.txt",
+        "doc_12355.txt"
+    ]
+}

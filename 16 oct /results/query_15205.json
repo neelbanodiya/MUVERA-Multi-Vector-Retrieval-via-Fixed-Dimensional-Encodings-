@@ -1,0 +1,10 @@
+{
+    "query": "During what historical period were scripts for entertainment created for the U.S. Army, as referenced in the provided texts?",
+    "response": [
+        "doc_207.txt",
+        "doc_21978.txt",
+        "doc_1580.txt",
+        "doc_20896.txt",
+        "doc_19422.txt"
+    ]
+}

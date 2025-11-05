@@ -1,0 +1,10 @@
+{
+    "query": "Which record label did Katy Perry sign with in April 2007?",
+    "response": [
+        "doc_8122.txt",
+        "doc_4938.txt",
+        "doc_12045.txt",
+        "doc_4735.txt",
+        "doc_10070.txt"
+    ]
+}

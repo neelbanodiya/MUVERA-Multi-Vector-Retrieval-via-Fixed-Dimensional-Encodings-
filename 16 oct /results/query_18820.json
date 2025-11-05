@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what was Francis Ford Coppola\u2019s first feature film?",
+    "response": [
+        "doc_22834.txt",
+        "doc_22830.txt",
+        "doc_22832.txt",
+        "doc_22835.txt",
+        "doc_22833.txt"
+    ]
+}

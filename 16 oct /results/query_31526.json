@@ -1,0 +1,10 @@
+{
+    "query": "In what century was the hymn \u201cA Mighty Fortress Is Our God\u201d written?",
+    "response": [
+        "doc_18404.txt",
+        "doc_18411.txt",
+        "doc_18403.txt",
+        "doc_18406.txt",
+        "doc_18413.txt"
+    ]
+}

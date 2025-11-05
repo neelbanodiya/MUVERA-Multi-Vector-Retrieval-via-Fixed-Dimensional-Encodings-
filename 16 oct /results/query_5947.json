@@ -1,0 +1,10 @@
+{
+    "query": "Which Fleetwood Mac album produced hits like \u201cRed Rover\u201d and \u201cPeacekeeper\u201d?",
+    "response": [
+        "doc_3479.txt",
+        "doc_3478.txt",
+        "doc_10070.txt",
+        "doc_3476.txt",
+        "doc_16702.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many films did Ronald Reagan appear in during his career?",
+    "response": [
+        "doc_20671.txt",
+        "doc_19558.txt",
+        "doc_3563.txt",
+        "doc_19559.txt",
+        "doc_7514.txt"
+    ]
+}

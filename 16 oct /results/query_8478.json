@@ -1,0 +1,10 @@
+{
+    "query": "What film did Welles make, and with whom did he share the writing?",
+    "response": [
+        "doc_7765.txt",
+        "doc_7768.txt",
+        "doc_5296.txt",
+        "doc_5297.txt",
+        "doc_7767.txt"
+    ]
+}

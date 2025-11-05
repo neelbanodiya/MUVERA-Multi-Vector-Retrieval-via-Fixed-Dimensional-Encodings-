@@ -1,0 +1,10 @@
+{
+    "query": "What committee is responsible for the report titled \"European Pollutant Release and Transfer Register\"?",
+    "response": [
+        "doc_6012.txt",
+        "doc_6011.txt",
+        "doc_1677.txt",
+        "doc_16161.txt",
+        "doc_19591.txt"
+    ]
+}

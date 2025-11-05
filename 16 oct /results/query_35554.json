@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred near Southport?",
+    "response": [
+        "doc_11329.txt",
+        "doc_23357.txt",
+        "doc_20875.txt",
+        "doc_23796.txt",
+        "doc_13344.txt"
+    ]
+}

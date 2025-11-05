@@ -1,0 +1,10 @@
+{
+    "query": "What\u2019s the booth number for European Flavors at PMA Fresh Summit?",
+    "response": [
+        "doc_4114.txt",
+        "doc_1507.txt",
+        "doc_23923.txt",
+        "doc_14315.txt",
+        "doc_6652.txt"
+    ]
+}

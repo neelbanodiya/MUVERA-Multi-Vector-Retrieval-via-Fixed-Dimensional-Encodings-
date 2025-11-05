@@ -1,0 +1,10 @@
+{
+    "query": "Which EU Member State government has not reported to the Commission regarding ozone-depleting substances?",
+    "response": [
+        "doc_19073.txt",
+        "doc_16709.txt",
+        "doc_19061.txt",
+        "doc_10520.txt",
+        "doc_10175.txt"
+    ]
+}

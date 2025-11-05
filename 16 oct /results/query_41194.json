@@ -1,0 +1,8 @@
+{
+    "query": "When did sales of the Mitsubishi Colt Galant GTO begin?",
+    "response": [
+        "doc_24116.txt",
+        "doc_24117.txt",
+        "doc_24118.txt"
+    ]
+}

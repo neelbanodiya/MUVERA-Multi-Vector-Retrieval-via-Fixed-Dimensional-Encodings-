@@ -1,0 +1,10 @@
+{
+    "query": "Which cathedral was used for the coronation of King Richard the Lionheart?",
+    "response": [
+        "doc_462.txt",
+        "doc_5414.txt",
+        "doc_18499.txt",
+        "doc_4960.txt",
+        "doc_14407.txt"
+    ]
+}

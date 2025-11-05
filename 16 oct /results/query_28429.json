@@ -1,0 +1,10 @@
+{
+    "query": "The only clique Lex finds rad is the click of this portable radiation detector.",
+    "response": [
+        "doc_16567.txt",
+        "doc_16568.txt",
+        "doc_16078.txt",
+        "doc_16077.txt",
+        "doc_1300.txt"
+    ]
+}

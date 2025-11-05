@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was one of the challenges faced by George Steinbrenner?",
+    "response": [
+        "doc_17271.txt",
+        "doc_19423.txt",
+        "doc_20131.txt",
+        "doc_11916.txt",
+        "doc_4656.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the Wikipedia article on Margaret Sanger, what was Sadie Sachs possibly?",
+    "response": [
+        "doc_5673.txt",
+        "doc_4648.txt",
+        "doc_746.txt",
+        "doc_7881.txt",
+        "doc_17179.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In 1940, who was the president of the mathematics conference held in Cambridge?",
+    "response": [
+        "doc_21062.txt",
+        "doc_21941.txt",
+        "doc_21061.txt",
+        "doc_21060.txt",
+        "doc_21065.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Grace Kelly make her film debut in \u201cFourteen Hours\u201d?",
+    "response": [
+        "doc_4587.txt",
+        "doc_4595.txt",
+        "doc_18826.txt",
+        "doc_18828.txt",
+        "doc_18824.txt"
+    ]
+}

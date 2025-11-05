@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was the significance of Zheng He\u2019s voyages?",
+    "response": [
+        "doc_19233.txt",
+        "doc_19234.txt",
+        "doc_19232.txt",
+        "doc_19239.txt",
+        "doc_9856.txt"
+    ]
+}

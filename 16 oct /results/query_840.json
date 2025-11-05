@@ -1,0 +1,10 @@
+{
+    "query": "What is Kramer\u2019s relationship to Jerry Seinfeld (as described in the passage)?",
+    "response": [
+        "doc_479.txt",
+        "doc_4465.txt",
+        "doc_478.txt",
+        "doc_480.txt",
+        "doc_22894.txt"
+    ]
+}

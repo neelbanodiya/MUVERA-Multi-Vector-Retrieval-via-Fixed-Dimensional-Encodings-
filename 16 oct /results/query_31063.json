@@ -1,0 +1,10 @@
+{
+    "query": "Since the permanent position was created, how much money has been spent on the Office of the President of the European Council for public relations activities?",
+    "response": [
+        "doc_18114.txt",
+        "doc_16992.txt",
+        "doc_23239.txt",
+        "doc_23264.txt",
+        "doc_22364.txt"
+    ]
+}

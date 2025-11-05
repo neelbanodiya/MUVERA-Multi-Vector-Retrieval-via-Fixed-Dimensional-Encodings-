@@ -1,0 +1,10 @@
+{
+    "query": "When does the European Parliament aim to reach political agreement on the new Financial Perspective?",
+    "response": [
+        "doc_15140.txt",
+        "doc_15130.txt",
+        "doc_10655.txt",
+        "doc_1272.txt",
+        "doc_17343.txt"
+    ]
+}

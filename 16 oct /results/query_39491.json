@@ -1,0 +1,10 @@
+{
+    "query": "What specific UN resolutions related to gender and sexual violence are acknowledged within this context?",
+    "response": [
+        "doc_14579.txt",
+        "doc_19351.txt",
+        "doc_23110.txt",
+        "doc_12629.txt",
+        "doc_14580.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which country is FN Herstal located in?",
+    "response": [
+        "doc_8238.txt",
+        "doc_3882.txt",
+        "doc_20161.txt",
+        "doc_12062.txt",
+        "doc_15478.txt"
+    ]
+}

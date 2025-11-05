@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the European Union\u2019s responsibility regarding dangerous goods transport?",
+    "response": [
+        "doc_13658.txt",
+        "doc_2718.txt",
+        "doc_2719.txt",
+        "doc_24071.txt",
+        "doc_13149.txt"
+    ]
+}

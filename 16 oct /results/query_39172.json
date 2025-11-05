@@ -1,0 +1,10 @@
+{
+    "query": "Which author wrote the fantasy novel \"Blue Moon Rising\"?",
+    "response": [
+        "doc_22935.txt",
+        "doc_22934.txt",
+        "doc_9402.txt",
+        "doc_17130.txt",
+        "doc_3924.txt"
+    ]
+}

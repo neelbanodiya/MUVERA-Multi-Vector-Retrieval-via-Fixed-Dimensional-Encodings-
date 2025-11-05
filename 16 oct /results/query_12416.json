@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Gene Tunney defeat Jack Dempsey to become the world heavyweight champion?",
+    "response": [
+        "doc_7232.txt",
+        "doc_7220.txt",
+        "doc_7223.txt",
+        "doc_7237.txt",
+        "doc_7227.txt"
+    ]
+}

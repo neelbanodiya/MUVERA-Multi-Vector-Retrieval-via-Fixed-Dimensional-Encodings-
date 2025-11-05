@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Phil Nilsen born, and in which town in Greater Manchester was he born?",
+    "response": [
+        "doc_11022.txt",
+        "doc_11023.txt",
+        "doc_3819.txt",
+        "doc_18456.txt",
+        "doc_7122.txt"
+    ]
+}

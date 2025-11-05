@@ -1,0 +1,10 @@
+{
+    "query": "In what month and year did an event involving Joseph Papp, Helen Hayes, and the Royal Shakespeare Company take place?",
+    "response": [
+        "doc_7877.txt",
+        "doc_17914.txt",
+        "doc_7875.txt",
+        "doc_20412.txt",
+        "doc_17912.txt"
+    ]
+}

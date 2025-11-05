@@ -1,0 +1,10 @@
+{
+    "query": "In what types of art was gold used extensively, particularly during the Medieval period?",
+    "response": [
+        "doc_10779.txt",
+        "doc_10780.txt",
+        "doc_10781.txt",
+        "doc_10782.txt",
+        "doc_20220.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what specific measures are included in the Recovery Plan to ensure sustainable exploitation of the tuna stock?",
+    "response": [
+        "doc_18006.txt",
+        "doc_9026.txt",
+        "doc_18007.txt",
+        "doc_5317.txt",
+        "doc_8585.txt"
+    ]
+}

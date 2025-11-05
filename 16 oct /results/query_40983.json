@@ -1,0 +1,10 @@
+{
+    "query": "How is popcorn typically popped in America?",
+    "response": [
+        "doc_23978.txt",
+        "doc_23985.txt",
+        "doc_23986.txt",
+        "doc_23977.txt",
+        "doc_23982.txt"
+    ]
+}

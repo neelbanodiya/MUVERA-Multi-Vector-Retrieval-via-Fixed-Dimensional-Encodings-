@@ -1,0 +1,10 @@
+{
+    "query": "Which appropriation covers the cost of language and IT courses for Members of the European Parliament?",
+    "response": [
+        "doc_22205.txt",
+        "doc_22206.txt",
+        "doc_22192.txt",
+        "doc_22221.txt",
+        "doc_1678.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What fairy tales is the musical \u201cInto the Woods\u201d based on?",
+    "response": [
+        "doc_22312.txt",
+        "doc_22308.txt",
+        "doc_22316.txt",
+        "doc_22309.txt",
+        "doc_22307.txt"
+    ]
+}

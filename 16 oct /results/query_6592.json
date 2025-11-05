@@ -1,0 +1,10 @@
+{
+    "query": "Who plays Morris Buttermaker in *The Bad News Bears*?",
+    "response": [
+        "doc_3778.txt",
+        "doc_3771.txt",
+        "doc_3783.txt",
+        "doc_3781.txt",
+        "doc_3777.txt"
+    ]
+}

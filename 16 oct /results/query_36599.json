@@ -1,0 +1,10 @@
+{
+    "query": "Which early television show featured a young actor who later played Superman?",
+    "response": [
+        "doc_21361.txt",
+        "doc_21372.txt",
+        "doc_21359.txt",
+        "doc_21364.txt",
+        "doc_497.txt"
+    ]
+}

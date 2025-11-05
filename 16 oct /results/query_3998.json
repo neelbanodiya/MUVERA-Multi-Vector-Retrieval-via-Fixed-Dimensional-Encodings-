@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which film adaptation of *Pride and Prejudice* is a favorite of the author who wrote the blog post about *Sense and Sensibility*?",
+    "response": [
+        "doc_2333.txt",
+        "doc_2330.txt",
+        "doc_2331.txt",
+        "doc_2324.txt",
+        "doc_2329.txt"
+    ]
+}

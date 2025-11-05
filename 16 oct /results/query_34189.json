@@ -1,0 +1,10 @@
+{
+    "query": "Which actor starred as Rudy Baylor in the movie adaptation of \u201cThe Rainmaker\u201d?",
+    "response": [
+        "doc_4871.txt",
+        "doc_17169.txt",
+        "doc_16925.txt",
+        "doc_4192.txt",
+        "doc_18484.txt"
+    ]
+}

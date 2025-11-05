@@ -1,0 +1,10 @@
+{
+    "query": "What color was changed on the M&M's candy in 1954?",
+    "response": [
+        "doc_12190.txt",
+        "doc_12198.txt",
+        "doc_12196.txt",
+        "doc_12191.txt",
+        "doc_12189.txt"
+    ]
+}

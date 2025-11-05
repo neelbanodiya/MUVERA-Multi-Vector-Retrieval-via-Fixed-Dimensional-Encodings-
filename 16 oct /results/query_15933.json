@@ -1,0 +1,10 @@
+{
+    "query": "What was the year Jack Kerouac published *On the Road*?",
+    "response": [
+        "doc_9236.txt",
+        "doc_9247.txt",
+        "doc_9234.txt",
+        "doc_9229.txt",
+        "doc_9235.txt"
+    ]
+}

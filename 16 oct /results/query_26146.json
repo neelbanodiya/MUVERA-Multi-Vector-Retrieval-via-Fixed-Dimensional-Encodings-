@@ -1,0 +1,10 @@
+{
+    "query": "What township did James Hadley and Eli Hadley survey?",
+    "response": [
+        "doc_21029.txt",
+        "doc_6114.txt",
+        "doc_4523.txt",
+        "doc_23796.txt",
+        "doc_14375.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What song, featuring Kamosi, was part of the \u201cPump Up The Jam\u201d album?",
+    "response": [
+        "doc_1421.txt",
+        "doc_1425.txt",
+        "doc_14724.txt",
+        "doc_19922.txt",
+        "doc_14726.txt"
+    ]
+}

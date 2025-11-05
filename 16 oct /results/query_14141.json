@@ -1,0 +1,10 @@
+{
+    "query": "How old was Carter when he performed his last tour?",
+    "response": [
+        "doc_8193.txt",
+        "doc_1961.txt",
+        "doc_22627.txt",
+        "doc_8192.txt",
+        "doc_9453.txt"
+    ]
+}

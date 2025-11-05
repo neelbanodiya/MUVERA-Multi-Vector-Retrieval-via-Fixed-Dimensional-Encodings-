@@ -1,0 +1,10 @@
+{
+    "query": "Which artist influenced Vincent van Gogh, as indicated by one of the linked resources?",
+    "response": [
+        "doc_22071.txt",
+        "doc_22074.txt",
+        "doc_22070.txt",
+        "doc_22069.txt",
+        "doc_22075.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is Barcelona\u2019s role within Spain (e.g., capital of a region)?",
+    "response": [
+        "doc_1001.txt",
+        "doc_1010.txt",
+        "doc_1009.txt",
+        "doc_1005.txt",
+        "doc_10031.txt"
+    ]
+}

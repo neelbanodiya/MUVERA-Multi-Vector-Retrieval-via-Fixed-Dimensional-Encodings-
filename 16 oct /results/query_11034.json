@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Kenny Rogers perform in \u201cThe Gambler\u2019s Last Deal\u201d?",
+    "response": [
+        "doc_6389.txt",
+        "doc_18858.txt",
+        "doc_18939.txt",
+        "doc_19029.txt",
+        "doc_3475.txt"
+    ]
+}

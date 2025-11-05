@@ -1,0 +1,10 @@
+{
+    "query": "In what city did Kennedy give his famous speech, and where did it take place?",
+    "response": [
+        "doc_3331.txt",
+        "doc_345.txt",
+        "doc_3335.txt",
+        "doc_3332.txt",
+        "doc_3333.txt"
+    ]
+}

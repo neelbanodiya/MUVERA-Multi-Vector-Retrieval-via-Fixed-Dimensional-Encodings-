@@ -1,0 +1,10 @@
+{
+    "query": "What event in California in 1848 led to prospectors traveling through Oregon?",
+    "response": [
+        "doc_3327.txt",
+        "doc_3324.txt",
+        "doc_3325.txt",
+        "doc_3329.txt",
+        "doc_16256.txt"
+    ]
+}

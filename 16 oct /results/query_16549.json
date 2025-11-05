@@ -1,0 +1,10 @@
+{
+    "query": "What geological formations resulted from biodiversity that evolved from the Aleutians to New Zealand?",
+    "response": [
+        "doc_8610.txt",
+        "doc_9611.txt",
+        "doc_9612.txt",
+        "doc_22342.txt",
+        "doc_8622.txt"
+    ]
+}

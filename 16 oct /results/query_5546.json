@@ -1,0 +1,10 @@
+{
+    "query": "What prestigious award did Jane Campion receive at the 1993 Cannes Film Festival for the film *The Piano*?",
+    "response": [
+        "doc_3219.txt",
+        "doc_3232.txt",
+        "doc_3217.txt",
+        "doc_3220.txt",
+        "doc_3226.txt"
+    ]
+}

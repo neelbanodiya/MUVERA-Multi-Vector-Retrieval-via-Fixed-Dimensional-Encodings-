@@ -1,0 +1,10 @@
+{
+    "query": "Which song\u2019s opening guitar riff was inspired by The Kinks, according to one source?",
+    "response": [
+        "doc_1982.txt",
+        "doc_1021.txt",
+        "doc_13104.txt",
+        "doc_22131.txt",
+        "doc_12338.txt"
+    ]
+}

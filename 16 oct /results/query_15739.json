@@ -1,0 +1,10 @@
+{
+    "query": "What was Senator Susan Ryan's initial role in the Labor Cabinet?",
+    "response": [
+        "doc_9123.txt",
+        "doc_9124.txt",
+        "doc_3084.txt",
+        "doc_9772.txt",
+        "doc_9771.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What kind of performance did the Brandywine Bulldog Band give at halftime?",
+    "response": [
+        "doc_7660.txt",
+        "doc_16780.txt",
+        "doc_3257.txt",
+        "doc_12713.txt",
+        "doc_22803.txt"
+    ]
+}

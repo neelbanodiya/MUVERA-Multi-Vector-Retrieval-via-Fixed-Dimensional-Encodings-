@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the Billboard magazine publication from November 12, 1983?",
+    "response": [
+        "doc_19189.txt",
+        "doc_12338.txt",
+        "doc_19458.txt",
+        "doc_4165.txt",
+        "doc_23571.txt"
+    ]
+}

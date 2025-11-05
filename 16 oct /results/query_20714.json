@@ -1,0 +1,10 @@
+{
+    "query": "What is the expected completion date for the renovation of facilities at the Prilep, Stip, and Idrizovo prisons, and what is the purpose of this renovation?",
+    "response": [
+        "doc_11961.txt",
+        "doc_10453.txt",
+        "doc_23686.txt",
+        "doc_12897.txt",
+        "doc_15299.txt"
+    ]
+}

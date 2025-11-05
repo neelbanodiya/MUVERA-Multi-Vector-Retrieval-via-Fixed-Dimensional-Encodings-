@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the current design of the U.S. flag chosen, after Hawaii gained statehood?",
+    "response": [
+        "doc_21647.txt",
+        "doc_21649.txt",
+        "doc_21644.txt",
+        "doc_21641.txt",
+        "doc_21646.txt"
+    ]
+}

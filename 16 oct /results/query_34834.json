@@ -1,0 +1,10 @@
+{
+    "query": "What activity did the author take time to do while driving from Toledo?",
+    "response": [
+        "doc_9245.txt",
+        "doc_9232.txt",
+        "doc_9233.txt",
+        "doc_14661.txt",
+        "doc_16971.txt"
+    ]
+}

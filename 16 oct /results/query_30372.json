@@ -1,0 +1,10 @@
+{
+    "query": "What type of boat does the New Jersey State Police utilize for responding to calls on various waterways?",
+    "response": [
+        "doc_17674.txt",
+        "doc_17673.txt",
+        "doc_17671.txt",
+        "doc_17663.txt",
+        "doc_10288.txt"
+    ]
+}

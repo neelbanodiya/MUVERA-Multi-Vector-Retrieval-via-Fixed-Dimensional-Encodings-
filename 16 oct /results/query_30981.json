@@ -1,0 +1,10 @@
+{
+    "query": "How much oxygen is typically administered to COPD patients, and what is the purpose of this treatment according to one of the linked articles?",
+    "response": [
+        "doc_12050.txt",
+        "doc_18006.txt",
+        "doc_16565.txt",
+        "doc_24053.txt",
+        "doc_10288.txt"
+    ]
+}

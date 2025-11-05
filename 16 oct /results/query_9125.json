@@ -1,0 +1,10 @@
+{
+    "query": "What materials were traditionally used for the strings of Chinese stringed instruments, such as silk and bamboo?",
+    "response": [
+        "doc_5242.txt",
+        "doc_5246.txt",
+        "doc_5251.txt",
+        "doc_5247.txt",
+        "doc_5256.txt"
+    ]
+}

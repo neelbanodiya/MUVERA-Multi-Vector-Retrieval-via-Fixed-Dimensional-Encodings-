@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the subject of Jonathan Keates\u2019s biography about Diane Johnson?",
+    "response": [
+        "doc_19913.txt",
+        "doc_19912.txt",
+        "doc_9183.txt",
+        "doc_2177.txt",
+        "doc_14662.txt"
+    ]
+}

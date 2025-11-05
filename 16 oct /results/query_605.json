@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of Henry Moore\u2019s sculpture mentioned in the passage?",
+    "response": [
+        "doc_20420.txt",
+        "doc_353.txt",
+        "doc_352.txt",
+        "doc_21507.txt",
+        "doc_20410.txt"
+    ]
+}

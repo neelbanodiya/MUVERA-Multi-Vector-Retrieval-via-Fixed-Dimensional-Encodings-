@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what title was Lucius Apuleius describing when he referred to the Egyptian goddess Isis?",
+    "response": [
+        "doc_12556.txt",
+        "doc_12561.txt",
+        "doc_12557.txt",
+        "doc_12562.txt",
+        "doc_12551.txt"
+    ]
+}

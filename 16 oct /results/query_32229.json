@@ -1,0 +1,10 @@
+{
+    "query": "What group attempted to blow up a Goodyear blimp over the Super Bowl in 1977?",
+    "response": [
+        "doc_6195.txt",
+        "doc_18773.txt",
+        "doc_18781.txt",
+        "doc_18780.txt",
+        "doc_18777.txt"
+    ]
+}

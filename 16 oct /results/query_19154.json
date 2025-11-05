@@ -1,0 +1,10 @@
+{
+    "query": "What are the four likely priorities of the French Presidency of the EU?",
+    "response": [
+        "doc_8665.txt",
+        "doc_2292.txt",
+        "doc_12378.txt",
+        "doc_8670.txt",
+        "doc_8666.txt"
+    ]
+}

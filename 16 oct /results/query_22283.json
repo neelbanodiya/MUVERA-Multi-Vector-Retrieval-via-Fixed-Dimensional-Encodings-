@@ -1,0 +1,10 @@
+{
+    "query": "Who served as a law clerk to Justice Robert H. Jackson?",
+    "response": [
+        "doc_12830.txt",
+        "doc_12831.txt",
+        "doc_12833.txt",
+        "doc_12835.txt",
+        "doc_12834.txt"
+    ]
+}

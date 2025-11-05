@@ -1,0 +1,10 @@
+{
+    "query": "What events are associated with the city of Naples, as described in the linked articles?",
+    "response": [
+        "doc_5420.txt",
+        "doc_14308.txt",
+        "doc_5425.txt",
+        "doc_8357.txt",
+        "doc_5413.txt"
+    ]
+}

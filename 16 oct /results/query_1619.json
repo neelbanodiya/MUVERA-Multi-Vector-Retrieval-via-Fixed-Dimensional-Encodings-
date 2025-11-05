@@ -1,0 +1,10 @@
+{
+    "query": "What song did Bowie record that was named after Andy Warhol?",
+    "response": [
+        "doc_12570.txt",
+        "doc_912.txt",
+        "doc_23434.txt",
+        "doc_21967.txt",
+        "doc_12571.txt"
+    ]
+}

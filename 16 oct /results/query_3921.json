@@ -1,0 +1,10 @@
+{
+    "query": "What was Marco Polo\u2019s father\u2019s profession?",
+    "response": [
+        "doc_2301.txt",
+        "doc_2298.txt",
+        "doc_2296.txt",
+        "doc_10761.txt",
+        "doc_15475.txt"
+    ]
+}

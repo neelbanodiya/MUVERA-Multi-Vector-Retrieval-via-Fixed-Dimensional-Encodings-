@@ -1,0 +1,10 @@
+{
+    "query": "In what conference did the Nebraska men's basketball team compete?",
+    "response": [
+        "doc_19122.txt",
+        "doc_19124.txt",
+        "doc_19123.txt",
+        "doc_24240.txt",
+        "doc_24251.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "On what dates did Wiley Post and Harold Gatty complete their flight around the world?",
+    "response": [
+        "doc_1326.txt",
+        "doc_1327.txt",
+        "doc_1339.txt",
+        "doc_1325.txt",
+        "doc_1328.txt"
+    ]
+}

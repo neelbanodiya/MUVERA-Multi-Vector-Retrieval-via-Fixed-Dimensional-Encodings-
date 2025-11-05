@@ -1,0 +1,10 @@
+{
+    "query": "What information did the Commission receive from the Spanish authorities regarding compliance with Council Directive 92/43/EEC?",
+    "response": [
+        "doc_21852.txt",
+        "doc_5494.txt",
+        "doc_22385.txt",
+        "doc_9186.txt",
+        "doc_23127.txt"
+    ]
+}

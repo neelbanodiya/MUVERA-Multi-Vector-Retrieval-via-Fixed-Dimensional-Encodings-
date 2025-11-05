@@ -1,0 +1,10 @@
+{
+    "query": "Which characters are explicitly linked to Ophelia in the provided snippets?",
+    "response": [
+        "doc_20127.txt",
+        "doc_14007.txt",
+        "doc_8263.txt",
+        "doc_22244.txt",
+        "doc_9230.txt"
+    ]
+}

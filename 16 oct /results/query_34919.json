@@ -1,0 +1,10 @@
+{
+    "query": "What name did Houston change its city to?",
+    "response": [
+        "doc_20374.txt",
+        "doc_7301.txt",
+        "doc_2716.txt",
+        "doc_21353.txt",
+        "doc_2179.txt"
+    ]
+}

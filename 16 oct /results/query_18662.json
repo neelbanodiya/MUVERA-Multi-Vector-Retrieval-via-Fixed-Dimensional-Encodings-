@@ -1,0 +1,10 @@
+{
+    "query": "According to one critic, what is the reason for their call for the cancellation of the SLS program?",
+    "response": [
+        "doc_8935.txt",
+        "doc_7005.txt",
+        "doc_16745.txt",
+        "doc_6991.txt",
+        "doc_7002.txt"
+    ]
+}

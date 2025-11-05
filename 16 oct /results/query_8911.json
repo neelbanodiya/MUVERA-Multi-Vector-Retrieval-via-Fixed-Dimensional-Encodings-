@@ -1,0 +1,10 @@
+{
+    "query": "Where are the majority of Chile\u2019s copper and gold deposits located?",
+    "response": [
+        "doc_5151.txt",
+        "doc_5141.txt",
+        "doc_5146.txt",
+        "doc_5145.txt",
+        "doc_5144.txt"
+    ]
+}

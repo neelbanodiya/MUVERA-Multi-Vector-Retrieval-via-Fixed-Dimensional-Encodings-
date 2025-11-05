@@ -1,0 +1,10 @@
+{
+    "query": "In which country were trading stations and trade routes located within Africa?",
+    "response": [
+        "doc_10158.txt",
+        "doc_8786.txt",
+        "doc_10160.txt",
+        "doc_8791.txt",
+        "doc_3281.txt"
+    ]
+}

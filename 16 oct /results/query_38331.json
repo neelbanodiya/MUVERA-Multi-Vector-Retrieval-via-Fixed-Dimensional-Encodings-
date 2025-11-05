@@ -1,0 +1,10 @@
+{
+    "query": "What would happen if a flight fails and British Airways pulls out of a deal?",
+    "response": [
+        "doc_22420.txt",
+        "doc_22483.txt",
+        "doc_6991.txt",
+        "doc_7004.txt",
+        "doc_7003.txt"
+    ]
+}

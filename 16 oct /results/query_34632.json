@@ -1,0 +1,10 @@
+{
+    "query": "According to the International Crisis Group, what steps should be taken to address the illegal exploitation of natural resources in the DRC?",
+    "response": [
+        "doc_8116.txt",
+        "doc_7717.txt",
+        "doc_20154.txt",
+        "doc_12632.txt",
+        "doc_9472.txt"
+    ]
+}

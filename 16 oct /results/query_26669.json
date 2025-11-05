@@ -1,0 +1,9 @@
+{
+    "query": "Who was convicted of the murder of Olof Palme?",
+    "response": [
+        "doc_15494.txt",
+        "doc_15501.txt",
+        "doc_15500.txt",
+        "doc_15496.txt"
+    ]
+}

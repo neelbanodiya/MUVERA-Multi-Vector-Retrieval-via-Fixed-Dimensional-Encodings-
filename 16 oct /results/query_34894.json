@@ -1,0 +1,10 @@
+{
+    "query": "What year was the Lucille Fletcher story introduced?",
+    "response": [
+        "doc_21086.txt",
+        "doc_8370.txt",
+        "doc_20550.txt",
+        "doc_19982.txt",
+        "doc_14393.txt"
+    ]
+}

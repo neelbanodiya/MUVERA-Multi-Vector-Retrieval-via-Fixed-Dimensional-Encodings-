@@ -1,0 +1,10 @@
+{
+    "query": "Who took over as leader of the Liberal party and prime minister according to the passage?",
+    "response": [
+        "doc_4767.txt",
+        "doc_9773.txt",
+        "doc_3084.txt",
+        "doc_16126.txt",
+        "doc_22067.txt"
+    ]
+}

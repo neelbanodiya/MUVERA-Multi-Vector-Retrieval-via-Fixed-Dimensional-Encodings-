@@ -1,0 +1,10 @@
+{
+    "query": "When did the Savings and Loan Crisis primarily occur (decade)?",
+    "response": [
+        "doc_19513.txt",
+        "doc_19516.txt",
+        "doc_22186.txt",
+        "doc_22187.txt",
+        "doc_23017.txt"
+    ]
+}

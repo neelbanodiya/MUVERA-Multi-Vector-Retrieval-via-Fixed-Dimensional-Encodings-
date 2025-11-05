@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, why was the RMS Britannic being considered a \u201cpoor\u201d ship by the White Star Line?",
+    "response": [
+        "doc_21096.txt",
+        "doc_21100.txt",
+        "doc_21112.txt",
+        "doc_21101.txt",
+        "doc_21104.txt"
+    ]
+}

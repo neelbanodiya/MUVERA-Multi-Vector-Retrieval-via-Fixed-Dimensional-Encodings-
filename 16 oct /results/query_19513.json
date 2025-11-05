@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the articles, what is a key element of Seattle\u2019s defensive success?",
+    "response": [
+        "doc_24127.txt",
+        "doc_22913.txt",
+        "doc_1781.txt",
+        "doc_6452.txt",
+        "doc_9927.txt"
+    ]
+}

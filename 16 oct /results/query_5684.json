@@ -1,0 +1,10 @@
+{
+    "query": "What is Jack Nicklaus\u2019s total number of major championship wins?",
+    "response": [
+        "doc_3286.txt",
+        "doc_3287.txt",
+        "doc_3291.txt",
+        "doc_3302.txt",
+        "doc_3288.txt"
+    ]
+}

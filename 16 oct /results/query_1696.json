@@ -1,0 +1,10 @@
+{
+    "query": "What year was the state of Georgia founded?",
+    "response": [
+        "doc_969.txt",
+        "doc_970.txt",
+        "doc_973.txt",
+        "doc_13605.txt",
+        "doc_13595.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many miles is Virginia from Pimlico Race Course?",
+    "response": [
+        "doc_8535.txt",
+        "doc_8547.txt",
+        "doc_9085.txt",
+        "doc_4931.txt",
+        "doc_14210.txt"
+    ]
+}

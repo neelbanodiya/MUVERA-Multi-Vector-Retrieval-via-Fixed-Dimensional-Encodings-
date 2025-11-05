@@ -1,0 +1,10 @@
+{
+    "query": "For which film did Jamie Foxx win an Academy Award for Best Actor?",
+    "response": [
+        "doc_20159.txt",
+        "doc_23280.txt",
+        "doc_23283.txt",
+        "doc_23277.txt",
+        "doc_17132.txt"
+    ]
+}

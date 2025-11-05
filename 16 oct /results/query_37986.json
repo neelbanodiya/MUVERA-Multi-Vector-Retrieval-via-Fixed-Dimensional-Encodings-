@@ -1,0 +1,10 @@
+{
+    "query": "According to the \u201cBCHPA EIA Assessment (2006)\u201d document, how does a paraglider pilot control the glider\u2019s speed?",
+    "response": [
+        "doc_22266.txt",
+        "doc_22265.txt",
+        "doc_14516.txt",
+        "doc_10841.txt",
+        "doc_22272.txt"
+    ]
+}

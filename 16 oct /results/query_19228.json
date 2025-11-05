@@ -1,0 +1,10 @@
+{
+    "query": "What year was the film *The Crow* released?",
+    "response": [
+        "doc_1231.txt",
+        "doc_15277.txt",
+        "doc_14780.txt",
+        "doc_9891.txt",
+        "doc_12612.txt"
+    ]
+}

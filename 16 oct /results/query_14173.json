@@ -1,0 +1,10 @@
+{
+    "query": "Where did the play *The Miracle Worker* take place, and when did it typically occur?",
+    "response": [
+        "doc_17914.txt",
+        "doc_13443.txt",
+        "doc_20492.txt",
+        "doc_23543.txt",
+        "doc_5363.txt"
+    ]
+}

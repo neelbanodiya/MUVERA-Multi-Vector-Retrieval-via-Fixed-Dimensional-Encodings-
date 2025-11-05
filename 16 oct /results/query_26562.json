@@ -1,0 +1,10 @@
+{
+    "query": "What ice cream shop inspired the name of the \u201cBig Gay Ice Cream\u201d establishment?",
+    "response": [
+        "doc_12190.txt",
+        "doc_12200.txt",
+        "doc_1319.txt",
+        "doc_12196.txt",
+        "doc_23152.txt"
+    ]
+}

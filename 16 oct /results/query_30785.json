@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Brooke Shields debut on Broadway?",
+    "response": [
+        "doc_17921.txt",
+        "doc_17918.txt",
+        "doc_17919.txt",
+        "doc_17923.txt",
+        "doc_17922.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what aspects of anti-terrorism policies should the Commission\u2019s evaluation include?",
+    "response": [
+        "doc_8051.txt",
+        "doc_5232.txt",
+        "doc_11798.txt",
+        "doc_5899.txt",
+        "doc_5182.txt"
+    ]
+}

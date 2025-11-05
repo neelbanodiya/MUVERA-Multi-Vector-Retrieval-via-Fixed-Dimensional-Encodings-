@@ -1,0 +1,10 @@
+{
+    "query": "What was Louise Slaughter\u2019s position within the U.S. House of Representatives?",
+    "response": [
+        "doc_19312.txt",
+        "doc_19314.txt",
+        "doc_1929.txt",
+        "doc_19325.txt",
+        "doc_1920.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Preston, Lancashire granted city status?",
+    "response": [
+        "doc_21028.txt",
+        "doc_10884.txt",
+        "doc_11021.txt",
+        "doc_21027.txt",
+        "doc_23796.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What types of podcasts are listed in the Internet Archive\u2019s audio collection?",
+    "response": [
+        "doc_12392.txt",
+        "doc_10104.txt",
+        "doc_3996.txt",
+        "doc_14412.txt",
+        "doc_5794.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of Laertes\u2019s father?",
+    "response": [
+        "doc_7101.txt",
+        "doc_7107.txt",
+        "doc_7110.txt",
+        "doc_7115.txt",
+        "doc_7102.txt"
+    ]
+}

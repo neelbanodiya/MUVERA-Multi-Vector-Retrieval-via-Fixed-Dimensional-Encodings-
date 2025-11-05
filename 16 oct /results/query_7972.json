@@ -1,0 +1,10 @@
+{
+    "query": "Which organizations issued appeals regarding increased international support for refugees from Iraq?",
+    "response": [
+        "doc_4628.txt",
+        "doc_4627.txt",
+        "doc_4625.txt",
+        "doc_4626.txt",
+        "doc_5073.txt"
+    ]
+}

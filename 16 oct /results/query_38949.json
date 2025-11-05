@@ -1,0 +1,10 @@
+{
+    "query": "Which album featured collaborations between Rog\u00e9rio Skylab and Leandra \u201cVoz del Fuego\u201d Lambert?",
+    "response": [
+        "doc_5278.txt",
+        "doc_128.txt",
+        "doc_12408.txt",
+        "doc_12713.txt",
+        "doc_15649.txt"
+    ]
+}

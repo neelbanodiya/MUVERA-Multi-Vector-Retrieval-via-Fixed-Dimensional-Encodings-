@@ -1,0 +1,10 @@
+{
+    "query": "What is the artist formerly known as Prince associated with, and what kind of work did a particular individual do related to that association?",
+    "response": [
+        "doc_15886.txt",
+        "doc_506.txt",
+        "doc_4939.txt",
+        "doc_1844.txt",
+        "doc_7648.txt"
+    ]
+}

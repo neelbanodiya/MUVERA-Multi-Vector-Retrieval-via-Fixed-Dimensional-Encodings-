@@ -1,0 +1,10 @@
+{
+    "query": "Which actor portrayed Philip Roth characters in \u201cGoodbye\u201d and ran for president in 1986?",
+    "response": [
+        "doc_11752.txt",
+        "doc_18482.txt",
+        "doc_23288.txt",
+        "doc_16989.txt",
+        "doc_18591.txt"
+    ]
+}

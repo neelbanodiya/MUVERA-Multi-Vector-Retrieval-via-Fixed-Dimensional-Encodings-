@@ -1,0 +1,10 @@
+{
+    "query": "What types of works did Jackson use examples from to illustrate his points?",
+    "response": [
+        "doc_8272.txt",
+        "doc_21236.txt",
+        "doc_9450.txt",
+        "doc_951.txt",
+        "doc_3820.txt"
+    ]
+}

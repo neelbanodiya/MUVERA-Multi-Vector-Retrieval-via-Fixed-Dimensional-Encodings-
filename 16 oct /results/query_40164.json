@@ -1,0 +1,10 @@
+{
+    "query": "What occupation does Loretta Castorini, played by Cher, have?",
+    "response": [
+        "doc_4648.txt",
+        "doc_4641.txt",
+        "doc_23507.txt",
+        "doc_23513.txt",
+        "doc_4647.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In which story did Edgar Allan Poe include a crash-course on code breaking?",
+    "response": [
+        "doc_14007.txt",
+        "doc_14019.txt",
+        "doc_8173.txt",
+        "doc_4148.txt",
+        "doc_4151.txt"
+    ]
+}

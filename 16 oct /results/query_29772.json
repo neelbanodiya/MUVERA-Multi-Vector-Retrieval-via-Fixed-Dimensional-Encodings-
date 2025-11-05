@@ -1,0 +1,10 @@
+{
+    "query": "What was John Smith\u2019s occupation for 23 years?",
+    "response": [
+        "doc_19035.txt",
+        "doc_9771.txt",
+        "doc_7628.txt",
+        "doc_19681.txt",
+        "doc_16326.txt"
+    ]
+}

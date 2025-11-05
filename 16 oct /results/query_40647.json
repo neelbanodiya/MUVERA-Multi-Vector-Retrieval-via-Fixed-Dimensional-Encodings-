@@ -1,0 +1,10 @@
+{
+    "query": "What is \u201cKegel\u201d in the context of the game described?",
+    "response": [
+        "doc_23784.txt",
+        "doc_3885.txt",
+        "doc_3.txt",
+        "doc_20631.txt",
+        "doc_5250.txt"
+    ]
+}

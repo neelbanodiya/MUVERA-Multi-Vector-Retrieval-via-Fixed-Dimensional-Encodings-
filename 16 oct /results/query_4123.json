@@ -1,0 +1,10 @@
+{
+    "query": "Besides Robert Plant and John Paul Jones, who else joined the quartet that formed from Led Zeppelin?",
+    "response": [
+        "doc_2402.txt",
+        "doc_2407.txt",
+        "doc_2393.txt",
+        "doc_12337.txt",
+        "doc_2391.txt"
+    ]
+}

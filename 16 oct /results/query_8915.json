@@ -1,0 +1,10 @@
+{
+    "query": "In which desert is the Centinela mine located?",
+    "response": [
+        "doc_5142.txt",
+        "doc_5153.txt",
+        "doc_5146.txt",
+        "doc_5143.txt",
+        "doc_5150.txt"
+    ]
+}

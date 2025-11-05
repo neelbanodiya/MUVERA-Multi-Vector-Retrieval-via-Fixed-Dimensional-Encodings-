@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of the Xerox seminar mentioned in the passage?",
+    "response": [
+        "doc_21972.txt",
+        "doc_10078.txt",
+        "doc_20747.txt",
+        "doc_20504.txt",
+        "doc_7878.txt"
+    ]
+}

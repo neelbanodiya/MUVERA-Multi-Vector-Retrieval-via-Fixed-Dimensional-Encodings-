@@ -1,0 +1,10 @@
+{
+    "query": "What resolutions did the European Parliament adopt regarding the interception of bank transfer data in 2006 and 2007?",
+    "response": [
+        "doc_14344.txt",
+        "doc_22223.txt",
+        "doc_3423.txt",
+        "doc_14343.txt",
+        "doc_17998.txt"
+    ]
+}

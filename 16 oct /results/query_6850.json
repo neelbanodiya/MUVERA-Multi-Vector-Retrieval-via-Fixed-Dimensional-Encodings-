@@ -1,0 +1,10 @@
+{
+    "query": "What year was \u201cRiding the Bullet,\u201d Stephen King\u2019s tale, released?",
+    "response": [
+        "doc_3923.txt",
+        "doc_3926.txt",
+        "doc_3924.txt",
+        "doc_4240.txt",
+        "doc_19141.txt"
+    ]
+}

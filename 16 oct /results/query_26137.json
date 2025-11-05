@@ -1,0 +1,10 @@
+{
+    "query": "What ingredients are used in a traditional Peruvian pisco sour?",
+    "response": [
+        "doc_15190.txt",
+        "doc_16760.txt",
+        "doc_23456.txt",
+        "doc_21691.txt",
+        "doc_8752.txt"
+    ]
+}

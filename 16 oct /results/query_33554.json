@@ -1,0 +1,10 @@
+{
+    "query": "What is the connection between Zachary Taylor and Franklin D. Roosevelt?",
+    "response": [
+        "doc_18395.txt",
+        "doc_12831.txt",
+        "doc_12833.txt",
+        "doc_851.txt",
+        "doc_4812.txt"
+    ]
+}

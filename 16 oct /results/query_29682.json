@@ -1,0 +1,10 @@
+{
+    "query": "According to the report, what is the Council\u2019s stance regarding the proposed directive on asbestos exposure?",
+    "response": [
+        "doc_17253.txt",
+        "doc_2030.txt",
+        "doc_16161.txt",
+        "doc_13146.txt",
+        "doc_393.txt"
+    ]
+}

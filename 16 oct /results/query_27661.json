@@ -1,0 +1,10 @@
+{
+    "query": "When was the original *Mad Max* film released?",
+    "response": [
+        "doc_16093.txt",
+        "doc_1231.txt",
+        "doc_16095.txt",
+        "doc_16100.txt",
+        "doc_9891.txt"
+    ]
+}

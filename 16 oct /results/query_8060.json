@@ -1,0 +1,10 @@
+{
+    "query": "What action is the passage calling for regarding the Treaty setting up the International Criminal Court?",
+    "response": [
+        "doc_10908.txt",
+        "doc_13250.txt",
+        "doc_4063.txt",
+        "doc_7295.txt",
+        "doc_15034.txt"
+    ]
+}

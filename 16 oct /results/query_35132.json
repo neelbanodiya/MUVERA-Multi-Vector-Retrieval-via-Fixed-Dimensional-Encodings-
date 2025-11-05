@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was a key characteristic of the Renaissance period?",
+    "response": [
+        "doc_23694.txt",
+        "doc_4692.txt",
+        "doc_5587.txt",
+        "doc_20491.txt",
+        "doc_11048.txt"
+    ]
+}

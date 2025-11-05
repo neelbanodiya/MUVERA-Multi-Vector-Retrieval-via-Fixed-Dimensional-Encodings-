@@ -1,0 +1,10 @@
+{
+    "query": "In the March 19, 2003 article about Notre Dame, how many points did freshman Jacqueline Batteast score?",
+    "response": [
+        "doc_18568.txt",
+        "doc_6717.txt",
+        "doc_20068.txt",
+        "doc_20070.txt",
+        "doc_20067.txt"
+    ]
+}

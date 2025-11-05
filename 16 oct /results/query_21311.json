@@ -1,0 +1,10 @@
+{
+    "query": "Which municipalities have *not* received funding through the Civitas Initiative?",
+    "response": [
+        "doc_3660.txt",
+        "doc_8187.txt",
+        "doc_12293.txt",
+        "doc_18153.txt",
+        "doc_477.txt"
+    ]
+}

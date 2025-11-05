@@ -1,0 +1,10 @@
+{
+    "query": "What was John Wilkes Booth\u2019s approximate movement within Ford\u2019s Theater on April 14, 1865?",
+    "response": [
+        "doc_7921.txt",
+        "doc_7929.txt",
+        "doc_7938.txt",
+        "doc_7925.txt",
+        "doc_7931.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which brand released a limited-edition red lipstick called \u201cRiri Woo\u201d in 2013?",
+    "response": [
+        "doc_10805.txt",
+        "doc_10804.txt",
+        "doc_10815.txt",
+        "doc_10809.txt",
+        "doc_10810.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Besides *Wayne's World*, on what other television series did Tia Carrere appear, specifically mentioning a role from 1985 or 1987?",
+    "response": [
+        "doc_7777.txt",
+        "doc_10358.txt",
+        "doc_5596.txt",
+        "doc_3739.txt",
+        "doc_22117.txt"
+    ]
+}

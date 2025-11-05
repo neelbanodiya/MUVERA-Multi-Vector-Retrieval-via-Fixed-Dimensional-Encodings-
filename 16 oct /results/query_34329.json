@@ -1,0 +1,10 @@
+{
+    "query": "Could the Commission provide calculations by way of an example for an average small farm (family-run farm)/medium-sized agricultural holding in Denmark, Finland, Sweden, Germany, Austria, France, Italy, Great Britain, and Spain?",
+    "response": [
+        "doc_15492.txt",
+        "doc_19973.txt",
+        "doc_17236.txt",
+        "doc_5634.txt",
+        "doc_14095.txt"
+    ]
+}

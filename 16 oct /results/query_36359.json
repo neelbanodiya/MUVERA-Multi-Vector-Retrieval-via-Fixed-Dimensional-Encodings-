@@ -1,0 +1,10 @@
+{
+    "query": "What is being replicated at the Virginia exhibit, referencing the famous Sioux City corn palace?",
+    "response": [
+        "doc_21210.txt",
+        "doc_21213.txt",
+        "doc_21211.txt",
+        "doc_22790.txt",
+        "doc_18488.txt"
+    ]
+}

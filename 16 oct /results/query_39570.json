@@ -1,0 +1,10 @@
+{
+    "query": "How is the word \u201cmanche\u201d defined in French, according to the text?",
+    "response": [
+        "doc_23173.txt",
+        "doc_21917.txt",
+        "doc_23169.txt",
+        "doc_23170.txt",
+        "doc_23171.txt"
+    ]
+}

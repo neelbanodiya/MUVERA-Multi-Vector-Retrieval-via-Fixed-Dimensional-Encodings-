@@ -1,0 +1,10 @@
+{
+    "query": "Which year was the song \u201cFirestarter\u201d released by The Prodigy?",
+    "response": [
+        "doc_17732.txt",
+        "doc_17719.txt",
+        "doc_17724.txt",
+        "doc_17725.txt",
+        "doc_17722.txt"
+    ]
+}

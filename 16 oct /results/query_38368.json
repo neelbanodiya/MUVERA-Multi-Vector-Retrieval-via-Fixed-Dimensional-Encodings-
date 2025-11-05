@@ -1,0 +1,10 @@
+{
+    "query": "What was the deadliest aircraft accident involving an A320 family aircraft at the time of the event described in the passage?",
+    "response": [
+        "doc_22504.txt",
+        "doc_16839.txt",
+        "doc_22505.txt",
+        "doc_2044.txt",
+        "doc_11365.txt"
+    ]
+}

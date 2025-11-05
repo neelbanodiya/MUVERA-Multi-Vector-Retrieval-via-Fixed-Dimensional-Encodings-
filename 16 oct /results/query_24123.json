@@ -1,0 +1,10 @@
+{
+    "query": "How did Edgar Allan Poe demonstrate his skills in cryptography, as evidenced by the texts referenced?",
+    "response": [
+        "doc_14011.txt",
+        "doc_14004.txt",
+        "doc_14006.txt",
+        "doc_14010.txt",
+        "doc_14014.txt"
+    ]
+}

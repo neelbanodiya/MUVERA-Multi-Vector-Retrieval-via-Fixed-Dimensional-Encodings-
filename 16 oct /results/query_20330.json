@@ -1,0 +1,10 @@
+{
+    "query": "What crime was Rodney Ambrosius charged with, according to the Newcastle Herald article?",
+    "response": [
+        "doc_16654.txt",
+        "doc_242.txt",
+        "doc_8577.txt",
+        "doc_821.txt",
+        "doc_19456.txt"
+    ]
+}

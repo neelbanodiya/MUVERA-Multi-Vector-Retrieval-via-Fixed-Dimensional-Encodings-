@@ -1,0 +1,10 @@
+{
+    "query": "At what age did Tammi Terrell begin her recording career?",
+    "response": [
+        "doc_1961.txt",
+        "doc_4604.txt",
+        "doc_20292.txt",
+        "doc_9181.txt",
+        "doc_12043.txt"
+    ]
+}

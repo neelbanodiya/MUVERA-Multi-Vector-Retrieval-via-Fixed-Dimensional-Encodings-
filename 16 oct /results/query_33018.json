@@ -1,0 +1,10 @@
+{
+    "query": "Which company was headed by E. Gross, and what activities were conducted there?",
+    "response": [
+        "doc_2030.txt",
+        "doc_2026.txt",
+        "doc_2835.txt",
+        "doc_7016.txt",
+        "doc_13328.txt"
+    ]
+}

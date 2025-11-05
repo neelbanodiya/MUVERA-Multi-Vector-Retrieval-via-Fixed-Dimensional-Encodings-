@@ -1,0 +1,10 @@
+{
+    "query": "What significant natural disasters occurred in Bangladesh in 2004?",
+    "response": [
+        "doc_15953.txt",
+        "doc_19793.txt",
+        "doc_15952.txt",
+        "doc_19792.txt",
+        "doc_4548.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what musical was adapted from Ettore Scola\u2019s film *Passione d\u2019amore*?",
+    "response": [
+        "doc_15391.txt",
+        "doc_247.txt",
+        "doc_244.txt",
+        "doc_245.txt",
+        "doc_249.txt"
+    ]
+}

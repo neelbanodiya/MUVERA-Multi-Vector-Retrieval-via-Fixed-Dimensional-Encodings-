@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject of the email sent by Gerald Cohen on June 7, 1999?",
+    "response": [
+        "doc_7604.txt",
+        "doc_1856.txt",
+        "doc_16475.txt",
+        "doc_1527.txt",
+        "doc_22480.txt"
+    ]
+}

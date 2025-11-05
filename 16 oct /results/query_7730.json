@@ -1,0 +1,10 @@
+{
+    "query": "In which South American countries is the Andean condor found?",
+    "response": [
+        "doc_4483.txt",
+        "doc_4484.txt",
+        "doc_8846.txt",
+        "doc_8837.txt",
+        "doc_8843.txt"
+    ]
+}

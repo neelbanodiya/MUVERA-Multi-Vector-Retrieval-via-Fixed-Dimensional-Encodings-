@@ -1,0 +1,10 @@
+{
+    "query": "Which film earned the composer a Golden Globe award and two Grammy awards?",
+    "response": [
+        "doc_17912.txt",
+        "doc_7455.txt",
+        "doc_7456.txt",
+        "doc_4918.txt",
+        "doc_2263.txt"
+    ]
+}

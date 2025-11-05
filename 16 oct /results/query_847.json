@@ -1,0 +1,10 @@
+{
+    "query": "Who hosted an episode of Saturday Night Live in May 2006?",
+    "response": [
+        "doc_484.txt",
+        "doc_18242.txt",
+        "doc_12733.txt",
+        "doc_17913.txt",
+        "doc_9515.txt"
+    ]
+}

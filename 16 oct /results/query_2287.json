@@ -1,0 +1,10 @@
+{
+    "query": "What is the state mammal of Kansas?",
+    "response": [
+        "doc_1349.txt",
+        "doc_1348.txt",
+        "doc_1346.txt",
+        "doc_12305.txt",
+        "doc_16550.txt"
+    ]
+}

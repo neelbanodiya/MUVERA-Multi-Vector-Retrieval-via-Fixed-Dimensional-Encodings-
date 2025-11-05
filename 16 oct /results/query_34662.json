@@ -1,0 +1,10 @@
+{
+    "query": "What specific act was performed before a person was killed in the Wal-Mart parking lot?",
+    "response": [
+        "doc_15592.txt",
+        "doc_20173.txt",
+        "doc_8681.txt",
+        "doc_15590.txt",
+        "doc_18914.txt"
+    ]
+}

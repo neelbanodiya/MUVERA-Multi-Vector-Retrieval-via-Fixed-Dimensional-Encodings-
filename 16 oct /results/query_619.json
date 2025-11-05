@@ -1,0 +1,10 @@
+{
+    "query": "Which baseball team did Pudge Rodriguez play for in the 1970s?",
+    "response": [
+        "doc_360.txt",
+        "doc_363.txt",
+        "doc_361.txt",
+        "doc_359.txt",
+        "doc_362.txt"
+    ]
+}

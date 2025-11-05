@@ -1,0 +1,10 @@
+{
+    "query": "What was Charles Frohman\u2019s role in Oscar Wilde\u2019s play?",
+    "response": [
+        "doc_16925.txt",
+        "doc_18954.txt",
+        "doc_1485.txt",
+        "doc_4874.txt",
+        "doc_15278.txt"
+    ]
+}

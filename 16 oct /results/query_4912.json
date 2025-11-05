@@ -1,0 +1,10 @@
+{
+    "query": "According to the 2015 Global Go To Think Tank Index Report, what was the James A. Baker III Institute for Public Policy\u2019s ranking among top think tanks in the United States?",
+    "response": [
+        "doc_2853.txt",
+        "doc_22236.txt",
+        "doc_8075.txt",
+        "doc_22602.txt",
+        "doc_18075.txt"
+    ]
+}

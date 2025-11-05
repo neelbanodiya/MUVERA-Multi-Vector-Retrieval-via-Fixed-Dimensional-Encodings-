@@ -1,0 +1,10 @@
+{
+    "query": "What type of agreement is described in the San Joaquin Audubon Society\u2019s Facebook post?",
+    "response": [
+        "doc_19336.txt",
+        "doc_2740.txt",
+        "doc_5034.txt",
+        "doc_7648.txt",
+        "doc_17880.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "If the municipality of Turin received funding, did the Commission assess whether it was used correctly and within the proper timeframe?",
+    "response": [
+        "doc_22506.txt",
+        "doc_8187.txt",
+        "doc_9897.txt",
+        "doc_23844.txt",
+        "doc_23594.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "From which language group does the Antambahoaka dialect of Malagasy derive?",
+    "response": [
+        "doc_20059.txt",
+        "doc_15373.txt",
+        "doc_23846.txt",
+        "doc_15381.txt",
+        "doc_23847.txt"
+    ]
+}

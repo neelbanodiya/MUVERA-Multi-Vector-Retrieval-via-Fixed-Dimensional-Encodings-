@@ -1,0 +1,10 @@
+{
+    "query": "What technique did Phil Spector develop, and for which group was it famously used?",
+    "response": [
+        "doc_2790.txt",
+        "doc_5371.txt",
+        "doc_5372.txt",
+        "doc_2791.txt",
+        "doc_10106.txt"
+    ]
+}

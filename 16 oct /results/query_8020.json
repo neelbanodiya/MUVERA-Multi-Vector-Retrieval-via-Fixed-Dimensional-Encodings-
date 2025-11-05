@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of the sitcom in which Bea Arthur portrayed Dorothy Zbornak?",
+    "response": [
+        "doc_4647.txt",
+        "doc_4643.txt",
+        "doc_4648.txt",
+        "doc_4642.txt",
+        "doc_4650.txt"
+    ]
+}

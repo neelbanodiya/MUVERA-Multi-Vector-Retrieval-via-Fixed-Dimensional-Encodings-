@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what specific security measures were in place during the Battle of the Bulge?",
+    "response": [
+        "doc_207.txt",
+        "doc_16485.txt",
+        "doc_16169.txt",
+        "doc_23523.txt",
+        "doc_8115.txt"
+    ]
+}

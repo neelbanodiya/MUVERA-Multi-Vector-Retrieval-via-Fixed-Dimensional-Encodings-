@@ -1,0 +1,10 @@
+{
+    "query": "According to the report, by approximately what percentage can armed conflict shrink an African nation\u2019s economy?",
+    "response": [
+        "doc_23111.txt",
+        "doc_1853.txt",
+        "doc_23112.txt",
+        "doc_1852.txt",
+        "doc_9472.txt"
+    ]
+}

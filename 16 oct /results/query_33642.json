@@ -1,0 +1,10 @@
+{
+    "query": "What was the intention behind the original Star Trek episode referenced?",
+    "response": [
+        "doc_19604.txt",
+        "doc_12761.txt",
+        "doc_2231.txt",
+        "doc_18753.txt",
+        "doc_18761.txt"
+    ]
+}

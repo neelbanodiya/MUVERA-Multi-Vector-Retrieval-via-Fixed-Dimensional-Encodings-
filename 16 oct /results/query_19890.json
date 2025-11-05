@@ -1,0 +1,10 @@
+{
+    "query": "Which Canadian political figure\u2019s state funeral was to be held at Dame Basilica?",
+    "response": [
+        "doc_19157.txt",
+        "doc_397.txt",
+        "doc_5765.txt",
+        "doc_21251.txt",
+        "doc_5727.txt"
+    ]
+}

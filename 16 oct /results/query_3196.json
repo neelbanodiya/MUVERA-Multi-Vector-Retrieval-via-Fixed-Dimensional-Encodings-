@@ -1,0 +1,10 @@
+{
+    "query": "Who was Dick Armey\u2019s role before becoming a GOP congressmen?",
+    "response": [
+        "doc_1925.txt",
+        "doc_1933.txt",
+        "doc_1923.txt",
+        "doc_1926.txt",
+        "doc_1922.txt"
+    ]
+}

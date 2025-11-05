@@ -1,0 +1,10 @@
+{
+    "query": "Which committee was responsible for reviewing the draft general budget of the European Union for 2006, specifically concerning the \"aid for trade\" budget line?",
+    "response": [
+        "doc_8155.txt",
+        "doc_17572.txt",
+        "doc_17626.txt",
+        "doc_17565.txt",
+        "doc_17585.txt"
+    ]
+}

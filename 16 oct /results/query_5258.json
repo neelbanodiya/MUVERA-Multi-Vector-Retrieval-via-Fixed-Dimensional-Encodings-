@@ -1,0 +1,10 @@
+{
+    "query": "How many students are reportedly still detained in Iran following the Ashura demonstrations?",
+    "response": [
+        "doc_6490.txt",
+        "doc_3064.txt",
+        "doc_19041.txt",
+        "doc_3063.txt",
+        "doc_995.txt"
+    ]
+}

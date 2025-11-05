@@ -1,0 +1,10 @@
+{
+    "query": "Who scored the goal that is considered a pivotal moment in the 1980 U.S. Olympic hockey team\u2019s victory?",
+    "response": [
+        "doc_11348.txt",
+        "doc_11350.txt",
+        "doc_11349.txt",
+        "doc_11342.txt",
+        "doc_11354.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who was awarded the Sakharov Prize for 2010?",
+    "response": [
+        "doc_16710.txt",
+        "doc_13826.txt",
+        "doc_13827.txt",
+        "doc_12312.txt",
+        "doc_16711.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What kind of skills were Patton capable of sending soldiers with?",
+    "response": [
+        "doc_3167.txt",
+        "doc_20134.txt",
+        "doc_1838.txt",
+        "doc_24108.txt",
+        "doc_1848.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many Super Bowl titles did the 49ers have in 2015?",
+    "response": [
+        "doc_6206.txt",
+        "doc_18338.txt",
+        "doc_3576.txt",
+        "doc_11266.txt",
+        "doc_3575.txt"
+    ]
+}

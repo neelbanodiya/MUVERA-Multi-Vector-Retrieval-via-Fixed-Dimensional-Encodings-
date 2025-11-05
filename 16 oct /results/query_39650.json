@@ -1,0 +1,10 @@
+{
+    "query": "What was the percentage increase in container traffic in the Baltic Sea area between 2003 and 2004?",
+    "response": [
+        "doc_23219.txt",
+        "doc_15948.txt",
+        "doc_23408.txt",
+        "doc_870.txt",
+        "doc_18380.txt"
+    ]
+}

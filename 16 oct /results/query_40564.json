@@ -1,0 +1,10 @@
+{
+    "query": "How many MEPs voted in favour of Jules Maaten\u2019s report on the euro\u2019s popularity deficit?",
+    "response": [
+        "doc_4575.txt",
+        "doc_2254.txt",
+        "doc_5560.txt",
+        "doc_16658.txt",
+        "doc_17469.txt"
+    ]
+}

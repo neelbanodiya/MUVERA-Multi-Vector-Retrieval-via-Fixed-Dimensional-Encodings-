@@ -1,0 +1,10 @@
+{
+    "query": "According to one link, what is the status of same-sex marriage in Mexico?",
+    "response": [
+        "doc_21187.txt",
+        "doc_21186.txt",
+        "doc_10216.txt",
+        "doc_9156.txt",
+        "doc_2740.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What film features Walter Matthau as Coach Buttermaker?",
+    "response": [
+        "doc_18098.txt",
+        "doc_3771.txt",
+        "doc_4871.txt",
+        "doc_18097.txt",
+        "doc_18100.txt"
+    ]
+}

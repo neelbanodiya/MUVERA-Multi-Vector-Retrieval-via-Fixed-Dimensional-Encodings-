@@ -1,0 +1,10 @@
+{
+    "query": "What film inspired the musical *Passion*?",
+    "response": [
+        "doc_247.txt",
+        "doc_243.txt",
+        "doc_13451.txt",
+        "doc_14570.txt",
+        "doc_246.txt"
+    ]
+}

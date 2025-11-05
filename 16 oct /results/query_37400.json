@@ -1,0 +1,10 @@
+{
+    "query": "When did John Philip Sousa\u2019s last performance with the Marine Band occur?",
+    "response": [
+        "doc_21906.txt",
+        "doc_21907.txt",
+        "doc_21912.txt",
+        "doc_21909.txt",
+        "doc_21913.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What retail chains offered a $50 Toys R Us gift card deal in conjunction with Pathmark and A&P?",
+    "response": [
+        "doc_3630.txt",
+        "doc_3631.txt",
+        "doc_3626.txt",
+        "doc_3628.txt",
+        "doc_3629.txt"
+    ]
+}

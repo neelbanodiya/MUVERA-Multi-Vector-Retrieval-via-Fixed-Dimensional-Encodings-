@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \"Acoustic Dance Party\" released?",
+    "response": [
+        "doc_22673.txt",
+        "doc_10864.txt",
+        "doc_10937.txt",
+        "doc_9807.txt",
+        "doc_12258.txt"
+    ]
+}

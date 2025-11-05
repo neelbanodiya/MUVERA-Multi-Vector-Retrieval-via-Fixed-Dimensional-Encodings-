@@ -1,0 +1,10 @@
+{
+    "query": "What is the European Court of Justice\u2019s established stance on taxation of similar goods?",
+    "response": [
+        "doc_9670.txt",
+        "doc_1216.txt",
+        "doc_3880.txt",
+        "doc_18359.txt",
+        "doc_12956.txt"
+    ]
+}

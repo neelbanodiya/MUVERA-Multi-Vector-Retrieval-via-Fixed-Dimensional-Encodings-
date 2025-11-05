@@ -1,0 +1,10 @@
+{
+    "query": "What was Charlotte, North Carolina's estimated population in 2016?",
+    "response": [
+        "doc_15882.txt",
+        "doc_2257.txt",
+        "doc_2259.txt",
+        "doc_3186.txt",
+        "doc_15881.txt"
+    ]
+}

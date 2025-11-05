@@ -1,0 +1,10 @@
+{
+    "query": "What is the Palme d'Or made of?",
+    "response": [
+        "doc_7259.txt",
+        "doc_8748.txt",
+        "doc_3050.txt",
+        "doc_6327.txt",
+        "doc_10082.txt"
+    ]
+}

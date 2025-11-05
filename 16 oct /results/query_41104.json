@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary objective of the Association Agreement between the EU and Jordan?",
+    "response": [
+        "doc_24071.txt",
+        "doc_24073.txt",
+        "doc_15139.txt",
+        "doc_17208.txt",
+        "doc_9920.txt"
+    ]
+}

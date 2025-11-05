@@ -1,0 +1,10 @@
+{
+    "query": "What is the estimated amount of assigned revenue for the European Parliament\u2019s sports centre in Brussels and Strasbourg?",
+    "response": [
+        "doc_22207.txt",
+        "doc_22206.txt",
+        "doc_10839.txt",
+        "doc_22212.txt",
+        "doc_16894.txt"
+    ]
+}

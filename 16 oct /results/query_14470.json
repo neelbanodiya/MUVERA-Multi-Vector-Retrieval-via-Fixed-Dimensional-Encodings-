@@ -1,0 +1,10 @@
+{
+    "query": "On which Caribbean island was Josephine born, and what was her father\u2019s profession?",
+    "response": [
+        "doc_8368.txt",
+        "doc_8370.txt",
+        "doc_8371.txt",
+        "doc_8372.txt",
+        "doc_8367.txt"
+    ]
+}

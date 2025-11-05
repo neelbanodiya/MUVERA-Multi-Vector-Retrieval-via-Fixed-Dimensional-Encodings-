@@ -1,0 +1,10 @@
+{
+    "query": "What country is Jan Andersson from?",
+    "response": [
+        "doc_22808.txt",
+        "doc_23595.txt",
+        "doc_3882.txt",
+        "doc_6289.txt",
+        "doc_24159.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the outcome of the discussions between the EC and the US regarding potential sanctions?",
+    "response": [
+        "doc_14180.txt",
+        "doc_9113.txt",
+        "doc_12804.txt",
+        "doc_1212.txt",
+        "doc_2065.txt"
+    ]
+}

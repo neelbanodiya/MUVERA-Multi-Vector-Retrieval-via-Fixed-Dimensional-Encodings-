@@ -1,0 +1,10 @@
+{
+    "query": "Who killed Doyle Hargraves, and how?",
+    "response": [
+        "doc_9998.txt",
+        "doc_9675.txt",
+        "doc_1395.txt",
+        "doc_9997.txt",
+        "doc_15496.txt"
+    ]
+}

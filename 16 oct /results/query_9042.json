@@ -1,0 +1,10 @@
+{
+    "query": "Which actors appeared in the episode \u201cAir Force One\u201d?",
+    "response": [
+        "doc_15115.txt",
+        "doc_4462.txt",
+        "doc_6367.txt",
+        "doc_21902.txt",
+        "doc_1969.txt"
+    ]
+}

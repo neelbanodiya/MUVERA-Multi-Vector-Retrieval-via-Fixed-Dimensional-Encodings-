@@ -1,0 +1,10 @@
+{
+    "query": "What was Patrick Jake O\u2019Rourke\u2019s reputation according to the *Wall Street Journal*?",
+    "response": [
+        "doc_1725.txt",
+        "doc_5444.txt",
+        "doc_23808.txt",
+        "doc_12227.txt",
+        "doc_2955.txt"
+    ]
+}

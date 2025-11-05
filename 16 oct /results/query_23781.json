@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Gioacchino Rossini\u2019s \u201cStabat Mater\u201d premiered?",
+    "response": [
+        "doc_15391.txt",
+        "doc_13801.txt",
+        "doc_13802.txt",
+        "doc_13798.txt",
+        "doc_21967.txt"
+    ]
+}

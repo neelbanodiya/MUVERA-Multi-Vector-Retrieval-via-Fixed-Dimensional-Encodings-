@@ -1,0 +1,10 @@
+{
+    "query": "What evidence did the prosecution allegedly suppress in Elmer Pratt\u2019s 1972 trial?",
+    "response": [
+        "doc_19261.txt",
+        "doc_19265.txt",
+        "doc_19268.txt",
+        "doc_22239.txt",
+        "doc_16845.txt"
+    ]
+}

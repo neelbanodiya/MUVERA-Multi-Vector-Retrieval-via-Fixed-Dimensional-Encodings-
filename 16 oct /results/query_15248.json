@@ -1,0 +1,10 @@
+{
+    "query": "What type of land is primarily found in Argentinian Patagonia according to the map?",
+    "response": [
+        "doc_8842.txt",
+        "doc_8843.txt",
+        "doc_8850.txt",
+        "doc_8840.txt",
+        "doc_8836.txt"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "query": "What is the Coptic Museum located in?",
+    "response": [
+        "doc_8504.txt",
+        "doc_8507.txt",
+        "doc_8505.txt"
+    ]
+}

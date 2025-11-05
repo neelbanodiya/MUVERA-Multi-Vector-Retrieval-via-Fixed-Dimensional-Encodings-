@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, which volume of the *Encyclopdie* was edited by Denis Diderot?",
+    "response": [
+        "doc_20263.txt",
+        "doc_20268.txt",
+        "doc_20265.txt",
+        "doc_20270.txt",
+        "doc_20271.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Besides Shakespeare, which author\u2019s novel popularized the phrase \u201cNow is the winter of our discontent\u201d?",
+    "response": [
+        "doc_19419.txt",
+        "doc_19428.txt",
+        "doc_19431.txt",
+        "doc_19420.txt",
+        "doc_20547.txt"
+    ]
+}

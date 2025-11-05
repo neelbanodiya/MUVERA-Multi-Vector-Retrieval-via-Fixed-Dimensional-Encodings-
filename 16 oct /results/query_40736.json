@@ -1,0 +1,10 @@
+{
+    "query": "Besides the Reichstag, what other museum is located near the Cathedral in Berlin?",
+    "response": [
+        "doc_8643.txt",
+        "doc_23819.txt",
+        "doc_8645.txt",
+        "doc_8646.txt",
+        "doc_8647.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the TripAdvisor links, what types of attractions are found in Milan, Italy?",
+    "response": [
+        "doc_20244.txt",
+        "doc_20245.txt",
+        "doc_20237.txt",
+        "doc_20235.txt",
+        "doc_20239.txt"
+    ]
+}

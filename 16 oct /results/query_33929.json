@@ -1,0 +1,10 @@
+{
+    "query": "What event did Hanukkah commemorate, specifically involving a military victory and the rededication of the Temple?",
+    "response": [
+        "doc_19756.txt",
+        "doc_19770.txt",
+        "doc_19773.txt",
+        "doc_19761.txt",
+        "doc_19771.txt"
+    ]
+}

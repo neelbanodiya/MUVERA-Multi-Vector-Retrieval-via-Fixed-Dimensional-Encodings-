@@ -1,0 +1,10 @@
+{
+    "query": "How many days were included in the original list of Seven Wonders of the World?",
+    "response": [
+        "doc_13713.txt",
+        "doc_13701.txt",
+        "doc_13705.txt",
+        "doc_13706.txt",
+        "doc_13707.txt"
+    ]
+}

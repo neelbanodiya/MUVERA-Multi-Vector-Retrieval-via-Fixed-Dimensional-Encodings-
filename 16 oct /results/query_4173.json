@@ -1,0 +1,10 @@
+{
+    "query": "What band is Little Steven Van Zandt associated with?",
+    "response": [
+        "doc_3076.txt",
+        "doc_22804.txt",
+        "doc_3911.txt",
+        "doc_12339.txt",
+        "doc_720.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the stock performance of Wells Fargo after the market closed on October 19, 2016, according to CNBC?",
+    "response": [
+        "doc_3681.txt",
+        "doc_3678.txt",
+        "doc_3679.txt",
+        "doc_23586.txt",
+        "doc_3675.txt"
+    ]
+}

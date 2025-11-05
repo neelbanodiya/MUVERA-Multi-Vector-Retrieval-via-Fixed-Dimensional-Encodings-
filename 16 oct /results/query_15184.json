@@ -1,0 +1,10 @@
+{
+    "query": "What type of comedy is \u201cThe Curious Savage,\u201d and when was it produced?",
+    "response": [
+        "doc_6919.txt",
+        "doc_11951.txt",
+        "doc_9001.txt",
+        "doc_5902.txt",
+        "doc_14257.txt"
+    ]
+}

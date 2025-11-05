@@ -1,0 +1,10 @@
+{
+    "query": "What was Celeste\u2019s condition when she awoke?",
+    "response": [
+        "doc_32.txt",
+        "doc_10297.txt",
+        "doc_13912.txt",
+        "doc_16050.txt",
+        "doc_5503.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What principle was inserted into the agreement due to Mr. Deprez\u2019s insistence?",
+    "response": [
+        "doc_23718.txt",
+        "doc_18002.txt",
+        "doc_18001.txt",
+        "doc_18903.txt",
+        "doc_2841.txt"
+    ]
+}

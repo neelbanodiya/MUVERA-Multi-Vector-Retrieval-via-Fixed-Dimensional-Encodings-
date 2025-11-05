@@ -1,0 +1,10 @@
+{
+    "query": "In what classic film did W.C. Fields and Mae West co-star together?",
+    "response": [
+        "doc_14389.txt",
+        "doc_14387.txt",
+        "doc_14390.txt",
+        "doc_14396.txt",
+        "doc_14394.txt"
+    ]
+}

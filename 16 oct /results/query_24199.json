@@ -1,0 +1,10 @@
+{
+    "query": "What river is the Oahe Dam located on?",
+    "response": [
+        "doc_14034.txt",
+        "doc_14040.txt",
+        "doc_14051.txt",
+        "doc_14046.txt",
+        "doc_14037.txt"
+    ]
+}

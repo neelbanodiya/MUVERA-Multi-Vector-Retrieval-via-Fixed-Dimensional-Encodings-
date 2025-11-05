@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the town of Stratford settled?",
+    "response": [
+        "doc_12931.txt",
+        "doc_15208.txt",
+        "doc_3206.txt",
+        "doc_15201.txt",
+        "doc_13599.txt"
+    ]
+}

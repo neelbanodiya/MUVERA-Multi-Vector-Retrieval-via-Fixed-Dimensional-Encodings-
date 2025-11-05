@@ -1,0 +1,10 @@
+{
+    "query": "When was the first team to go unbeaten through the Olympic tournament since the NHL era?",
+    "response": [
+        "doc_15506.txt",
+        "doc_15508.txt",
+        "doc_15509.txt",
+        "doc_15507.txt",
+        "doc_15521.txt"
+    ]
+}

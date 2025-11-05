@@ -1,0 +1,10 @@
+{
+    "query": "When was York captured and burned by American forces during the War of 1812?",
+    "response": [
+        "doc_10049.txt",
+        "doc_10053.txt",
+        "doc_10052.txt",
+        "doc_10056.txt",
+        "doc_10050.txt"
+    ]
+}

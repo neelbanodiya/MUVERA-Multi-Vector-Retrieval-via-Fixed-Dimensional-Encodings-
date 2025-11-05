@@ -1,0 +1,10 @@
+{
+    "query": "What was the Fair Deal focused on?",
+    "response": [
+        "doc_9269.txt",
+        "doc_9943.txt",
+        "doc_7951.txt",
+        "doc_4031.txt",
+        "doc_8380.txt"
+    ]
+}

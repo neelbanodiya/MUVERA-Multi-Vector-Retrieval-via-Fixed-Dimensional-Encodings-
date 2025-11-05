@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary goal of the agreement between WTO member states dated 30 August 2005?",
+    "response": [
+        "doc_15026.txt",
+        "doc_23108.txt",
+        "doc_9135.txt",
+        "doc_9140.txt",
+        "doc_9137.txt"
+    ]
+}

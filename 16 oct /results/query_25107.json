@@ -1,0 +1,10 @@
+{
+    "query": "What was the source of the title for *The Other Side of the Underneath*, and who directed that film?",
+    "response": [
+        "doc_19272.txt",
+        "doc_1580.txt",
+        "doc_15903.txt",
+        "doc_8710.txt",
+        "doc_18934.txt"
+    ]
+}

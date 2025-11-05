@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what challenges are farmers in the western San Joaquin Valley currently facing regarding water supply?",
+    "response": [
+        "doc_3146.txt",
+        "doc_3152.txt",
+        "doc_3151.txt",
+        "doc_3153.txt",
+        "doc_3144.txt"
+    ]
+}

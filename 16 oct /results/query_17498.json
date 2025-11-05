@@ -1,0 +1,10 @@
+{
+    "query": "What is mentioned as a challenge facing Tunisia, specifically related to infrastructure?",
+    "response": [
+        "doc_10129.txt",
+        "doc_18350.txt",
+        "doc_3589.txt",
+        "doc_20808.txt",
+        "doc_4660.txt"
+    ]
+}

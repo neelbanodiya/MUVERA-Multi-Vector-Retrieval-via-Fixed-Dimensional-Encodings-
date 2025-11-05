@@ -1,0 +1,10 @@
+{
+    "query": "Besides being Queen of Jordan, what other roles has Queen Noor held, as mentioned in multiple articles?",
+    "response": [
+        "doc_14058.txt",
+        "doc_14056.txt",
+        "doc_14059.txt",
+        "doc_9558.txt",
+        "doc_12560.txt"
+    ]
+}

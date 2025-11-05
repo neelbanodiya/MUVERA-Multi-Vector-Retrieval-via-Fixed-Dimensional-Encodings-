@@ -1,0 +1,10 @@
+{
+    "query": "What specific issue led to China banning imports of Belgian chocolate?",
+    "response": [
+        "doc_5455.txt",
+        "doc_13820.txt",
+        "doc_13821.txt",
+        "doc_2704.txt",
+        "doc_5447.txt"
+    ]
+}

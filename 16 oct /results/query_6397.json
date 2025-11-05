@@ -1,0 +1,10 @@
+{
+    "query": "What legal procedure will the Commission follow to address the issue raised in this case?",
+    "response": [
+        "doc_16441.txt",
+        "doc_22064.txt",
+        "doc_13209.txt",
+        "doc_20818.txt",
+        "doc_19459.txt"
+    ]
+}

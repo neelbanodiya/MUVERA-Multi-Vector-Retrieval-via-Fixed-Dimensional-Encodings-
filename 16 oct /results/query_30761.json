@@ -1,0 +1,10 @@
+{
+    "query": "When were the 68th Tony Awards held?",
+    "response": [
+        "doc_17914.txt",
+        "doc_16985.txt",
+        "doc_17912.txt",
+        "doc_2263.txt",
+        "doc_17913.txt"
+    ]
+}

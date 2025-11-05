@@ -1,0 +1,10 @@
+{
+    "query": "What were the primary demands of the demonstrators who gathered in Beijing in 1989?",
+    "response": [
+        "doc_10987.txt",
+        "doc_10975.txt",
+        "doc_10971.txt",
+        "doc_10978.txt",
+        "doc_10981.txt"
+    ]
+}

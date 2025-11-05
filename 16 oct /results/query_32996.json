@@ -1,0 +1,10 @@
+{
+    "query": "The passage mentions Wile E. Coyote. What role does he play in the description of the world?",
+    "response": [
+        "doc_19205.txt",
+        "doc_19208.txt",
+        "doc_19213.txt",
+        "doc_19217.txt",
+        "doc_19211.txt"
+    ]
+}

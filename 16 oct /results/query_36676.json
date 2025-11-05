@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the pasta plant started by Uncle Tom?",
+    "response": [
+        "doc_9712.txt",
+        "doc_14361.txt",
+        "doc_10669.txt",
+        "doc_10204.txt",
+        "doc_17203.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the final score of the 2009 FA Community Shield match?",
+    "response": [
+        "doc_24229.txt",
+        "doc_1883.txt",
+        "doc_19175.txt",
+        "doc_24227.txt",
+        "doc_10378.txt"
+    ]
+}

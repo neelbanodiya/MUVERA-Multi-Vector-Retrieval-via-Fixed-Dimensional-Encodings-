@@ -1,0 +1,10 @@
+{
+    "query": "What words are listed in the \u201cBaldwin.words\u201d file snippet?",
+    "response": [
+        "doc_3533.txt",
+        "doc_14412.txt",
+        "doc_5849.txt",
+        "doc_12620.txt",
+        "doc_10095.txt"
+    ]
+}

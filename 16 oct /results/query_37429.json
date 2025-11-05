@@ -1,0 +1,10 @@
+{
+    "query": "What is the French word for mushroom?",
+    "response": [
+        "doc_21924.txt",
+        "doc_21919.txt",
+        "doc_21917.txt",
+        "doc_21922.txt",
+        "doc_21926.txt"
+    ]
+}

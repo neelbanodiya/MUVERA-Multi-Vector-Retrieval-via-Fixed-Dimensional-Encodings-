@@ -1,0 +1,10 @@
+{
+    "query": "Who is Carl Richard Lepsius, and what did he do?",
+    "response": [
+        "doc_11218.txt",
+        "doc_19665.txt",
+        "doc_16592.txt",
+        "doc_10450.txt",
+        "doc_5609.txt"
+    ]
+}

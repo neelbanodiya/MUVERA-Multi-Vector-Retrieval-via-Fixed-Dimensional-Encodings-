@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was a key characteristic of Pollock\u2019s painting process regarding the source of the paint?",
+    "response": [
+        "doc_9066.txt",
+        "doc_9069.txt",
+        "doc_9061.txt",
+        "doc_9065.txt",
+        "doc_9063.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year did the first West Coast chapter of the organization mentioned in the passage form in Los Angeles, California?",
+    "response": [
+        "doc_23158.txt",
+        "doc_4686.txt",
+        "doc_6897.txt",
+        "doc_15794.txt",
+        "doc_10507.txt"
+    ]
+}

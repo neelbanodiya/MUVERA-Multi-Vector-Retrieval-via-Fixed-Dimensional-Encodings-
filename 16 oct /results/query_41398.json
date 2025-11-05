@@ -1,0 +1,10 @@
+{
+    "query": "How many NCAA Women's Volleyball championships has the Nebraska women's volleyball team won?",
+    "response": [
+        "doc_24251.txt",
+        "doc_24250.txt",
+        "doc_24240.txt",
+        "doc_24238.txt",
+        "doc_24252.txt"
+    ]
+}

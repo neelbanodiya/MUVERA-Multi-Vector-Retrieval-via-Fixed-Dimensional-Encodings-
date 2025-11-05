@@ -1,0 +1,10 @@
+{
+    "query": "How many states were required to ratify the United States Constitution?",
+    "response": [
+        "doc_17342.txt",
+        "doc_4206.txt",
+        "doc_4202.txt",
+        "doc_4203.txt",
+        "doc_17351.txt"
+    ]
+}

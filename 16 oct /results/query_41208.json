@@ -1,0 +1,9 @@
+{
+    "query": "Which team won the 1989 NBA Expansion Draft and received the first selection?",
+    "response": [
+        "doc_24140.txt",
+        "doc_24143.txt",
+        "doc_24141.txt",
+        "doc_24142.txt"
+    ]
+}

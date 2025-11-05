@@ -1,0 +1,10 @@
+{
+    "query": "What is the ballet \u201cApollo\u201d composed between 1927 and 1928?",
+    "response": [
+        "doc_15658.txt",
+        "doc_15659.txt",
+        "doc_15653.txt",
+        "doc_15661.txt",
+        "doc_15663.txt"
+    ]
+}

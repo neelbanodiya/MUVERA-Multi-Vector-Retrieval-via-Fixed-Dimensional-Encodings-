@@ -1,0 +1,10 @@
+{
+    "query": "What is the origin of the figure of Santa Claus?",
+    "response": [
+        "doc_11442.txt",
+        "doc_11459.txt",
+        "doc_9929.txt",
+        "doc_3874.txt",
+        "doc_3876.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Is the Commission willing to abandon excluding conflicting opinions from debates?",
+    "response": [
+        "doc_1322.txt",
+        "doc_1321.txt",
+        "doc_8672.txt",
+        "doc_15684.txt",
+        "doc_19804.txt"
+    ]
+}

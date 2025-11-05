@@ -1,0 +1,10 @@
+{
+    "query": "What is the highest expenditure recorded for \u201cFinancial support for projects of common interest in the trans-European transport network\u201d?",
+    "response": [
+        "doc_17603.txt",
+        "doc_17602.txt",
+        "doc_22219.txt",
+        "doc_10797.txt",
+        "doc_10793.txt"
+    ]
+}

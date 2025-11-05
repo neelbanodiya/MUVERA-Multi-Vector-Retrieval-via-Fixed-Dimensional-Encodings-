@@ -1,0 +1,10 @@
+{
+    "query": "On what date were the Live Aid concerts held in London and Philadelphia?",
+    "response": [
+        "doc_12015.txt",
+        "doc_12009.txt",
+        "doc_12020.txt",
+        "doc_12026.txt",
+        "doc_12008.txt"
+    ]
+}

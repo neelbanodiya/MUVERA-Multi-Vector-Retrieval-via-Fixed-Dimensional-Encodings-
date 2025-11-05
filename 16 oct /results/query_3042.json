@@ -1,0 +1,10 @@
+{
+    "query": "What qualities were deemed appropriate in King Arthur\u2019s knights?",
+    "response": [
+        "doc_1841.txt",
+        "doc_1851.txt",
+        "doc_1843.txt",
+        "doc_1842.txt",
+        "doc_1835.txt"
+    ]
+}

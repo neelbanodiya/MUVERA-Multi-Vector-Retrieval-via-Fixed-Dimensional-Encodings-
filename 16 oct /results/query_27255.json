@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cMain Street\u201d published?",
+    "response": [
+        "doc_15831.txt",
+        "doc_15828.txt",
+        "doc_15832.txt",
+        "doc_15829.txt",
+        "doc_8336.txt"
+    ]
+}

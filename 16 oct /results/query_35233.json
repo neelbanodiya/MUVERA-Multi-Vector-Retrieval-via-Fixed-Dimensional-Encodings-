@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what characteristic did Charles Dickens\u2019 novels often have?",
+    "response": [
+        "doc_20556.txt",
+        "doc_20555.txt",
+        "doc_20542.txt",
+        "doc_20133.txt",
+        "doc_11914.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate temperature range in Libya during the day and at night?",
+    "response": [
+        "doc_3283.txt",
+        "doc_3268.txt",
+        "doc_23077.txt",
+        "doc_10128.txt",
+        "doc_22689.txt"
+    ]
+}

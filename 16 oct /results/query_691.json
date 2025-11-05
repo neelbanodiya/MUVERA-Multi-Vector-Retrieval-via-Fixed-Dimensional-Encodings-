@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of Hugh's Chicken Run campaign?",
+    "response": [
+        "doc_3889.txt",
+        "doc_2867.txt",
+        "doc_12708.txt",
+        "doc_17144.txt",
+        "doc_18111.txt"
+    ]
+}

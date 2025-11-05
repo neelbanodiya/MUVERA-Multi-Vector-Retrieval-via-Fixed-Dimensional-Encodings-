@@ -1,0 +1,10 @@
+{
+    "query": "What is \u201cChinese restaurant syndrome\u201d?",
+    "response": [
+        "doc_7258.txt",
+        "doc_5480.txt",
+        "doc_5482.txt",
+        "doc_14470.txt",
+        "doc_23417.txt"
+    ]
+}

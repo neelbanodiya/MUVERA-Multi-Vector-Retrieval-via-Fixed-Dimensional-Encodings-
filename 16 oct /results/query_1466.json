@@ -1,0 +1,10 @@
+{
+    "query": "What are some of the snakes considered dangerous in Africa?",
+    "response": [
+        "doc_832.txt",
+        "doc_833.txt",
+        "doc_830.txt",
+        "doc_834.txt",
+        "doc_835.txt"
+    ]
+}

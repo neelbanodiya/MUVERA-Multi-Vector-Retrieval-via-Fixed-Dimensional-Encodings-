@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the first known parade for Mardi Gras take place?",
+    "response": [
+        "doc_3514.txt",
+        "doc_3513.txt",
+        "doc_3502.txt",
+        "doc_3510.txt",
+        "doc_3509.txt"
+    ]
+}

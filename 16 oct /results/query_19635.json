@@ -1,0 +1,10 @@
+{
+    "query": "What was the outcome of the game where Mike Eruzione scored a goal against the Soviets?",
+    "response": [
+        "doc_11345.txt",
+        "doc_11338.txt",
+        "doc_11352.txt",
+        "doc_11351.txt",
+        "doc_11340.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where was Grant\u2019s headquarters located?",
+    "response": [
+        "doc_20716.txt",
+        "doc_16252.txt",
+        "doc_16591.txt",
+        "doc_18370.txt",
+        "doc_19969.txt"
+    ]
+}

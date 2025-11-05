@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Turkish troops occupy Belgrade?",
+    "response": [
+        "doc_16880.txt",
+        "doc_15924.txt",
+        "doc_15908.txt",
+        "doc_15923.txt",
+        "doc_15919.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What types of events are regularly held in Springfield, Illinois?",
+    "response": [
+        "doc_12164.txt",
+        "doc_4818.txt",
+        "doc_12165.txt",
+        "doc_4819.txt",
+        "doc_12177.txt"
+    ]
+}

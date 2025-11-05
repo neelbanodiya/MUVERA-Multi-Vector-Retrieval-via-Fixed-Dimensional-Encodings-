@@ -1,0 +1,10 @@
+{
+    "query": "What is a synonym for India, as mentioned in the passage?",
+    "response": [
+        "doc_18318.txt",
+        "doc_3638.txt",
+        "doc_17081.txt",
+        "doc_5420.txt",
+        "doc_23851.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When is the next Committee meeting scheduled?",
+    "response": [
+        "doc_21038.txt",
+        "doc_2292.txt",
+        "doc_23027.txt",
+        "doc_20669.txt",
+        "doc_9695.txt"
+    ]
+}

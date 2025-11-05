@@ -1,0 +1,10 @@
+{
+    "query": "What tissues were sent to Basel, Switzerland for analysis?",
+    "response": [
+        "doc_10839.txt",
+        "doc_12680.txt",
+        "doc_18095.txt",
+        "doc_6118.txt",
+        "doc_9673.txt"
+    ]
+}

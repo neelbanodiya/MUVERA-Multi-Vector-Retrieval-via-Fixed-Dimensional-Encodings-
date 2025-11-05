@@ -1,0 +1,10 @@
+{
+    "query": "What unusual behavior did drivers exhibit while driving in Italy, as described in the article about driving in Italy?",
+    "response": [
+        "doc_15100.txt",
+        "doc_6893.txt",
+        "doc_21041.txt",
+        "doc_21040.txt",
+        "doc_6252.txt"
+    ]
+}

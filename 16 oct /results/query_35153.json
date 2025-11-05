@@ -1,0 +1,10 @@
+{
+    "query": "According to Freud, what is the primary driving force of the id?",
+    "response": [
+        "doc_20502.txt",
+        "doc_20500.txt",
+        "doc_20512.txt",
+        "doc_20501.txt",
+        "doc_20508.txt"
+    ]
+}

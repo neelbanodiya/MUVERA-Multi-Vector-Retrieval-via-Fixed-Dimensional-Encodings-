@@ -1,0 +1,10 @@
+{
+    "query": "How many tutus were worn by the Seasons in the ballet?",
+    "response": [
+        "doc_6020.txt",
+        "doc_6021.txt",
+        "doc_6018.txt",
+        "doc_6016.txt",
+        "doc_13438.txt"
+    ]
+}

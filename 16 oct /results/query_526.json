@@ -1,0 +1,10 @@
+{
+    "query": "What does the title \u201cCavalleria rusticana\u201d mean in English?",
+    "response": [
+        "doc_324.txt",
+        "doc_320.txt",
+        "doc_335.txt",
+        "doc_334.txt",
+        "doc_333.txt"
+    ]
+}

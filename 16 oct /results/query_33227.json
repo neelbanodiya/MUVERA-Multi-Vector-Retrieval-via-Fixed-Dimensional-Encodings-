@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was a previous government program in California related to wildlife?",
+    "response": [
+        "doc_16477.txt",
+        "doc_21852.txt",
+        "doc_2726.txt",
+        "doc_15858.txt",
+        "doc_10377.txt"
+    ]
+}

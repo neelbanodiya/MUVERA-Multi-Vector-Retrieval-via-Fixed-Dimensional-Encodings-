@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Buenos Aires founded?",
+    "response": [
+        "doc_14305.txt",
+        "doc_14307.txt",
+        "doc_14306.txt",
+        "doc_14308.txt",
+        "doc_16681.txt"
+    ]
+}

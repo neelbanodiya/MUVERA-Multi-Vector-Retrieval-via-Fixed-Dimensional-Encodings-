@@ -1,0 +1,10 @@
+{
+    "query": "Which author dedicated Pendennis to whom, and what was the context of this dedication related to the Garrick Club?",
+    "response": [
+        "doc_20128.txt",
+        "doc_1453.txt",
+        "doc_17758.txt",
+        "doc_17764.txt",
+        "doc_2892.txt"
+    ]
+}

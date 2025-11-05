@@ -1,0 +1,10 @@
+{
+    "query": "What was the original purpose of the work that Pergolesi created?",
+    "response": [
+        "doc_15391.txt",
+        "doc_20509.txt",
+        "doc_627.txt",
+        "doc_11783.txt",
+        "doc_9940.txt"
+    ]
+}

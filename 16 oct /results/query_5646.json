@@ -1,0 +1,10 @@
+{
+    "query": "What specific action is the European Parliament suggesting the Council should consider regarding countries that don\u2019t cooperate with border control?",
+    "response": [
+        "doc_3285.txt",
+        "doc_12932.txt",
+        "doc_17370.txt",
+        "doc_13160.txt",
+        "doc_5130.txt"
+    ]
+}

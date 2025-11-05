@@ -1,0 +1,10 @@
+{
+    "query": "In what decade was \u201cElmer Gantry\u201d by Sinclair Lewis published?",
+    "response": [
+        "doc_8519.txt",
+        "doc_8516.txt",
+        "doc_8520.txt",
+        "doc_8517.txt",
+        "doc_8518.txt"
+    ]
+}

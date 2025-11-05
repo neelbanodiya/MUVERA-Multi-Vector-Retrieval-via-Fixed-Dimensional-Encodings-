@@ -1,0 +1,10 @@
+{
+    "query": "What is the ISBN of the publication \u201cFrance\u201d?",
+    "response": [
+        "doc_20435.txt",
+        "doc_5493.txt",
+        "doc_6450.txt",
+        "doc_1270.txt",
+        "doc_3578.txt"
+    ]
+}

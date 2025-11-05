@@ -1,0 +1,10 @@
+{
+    "query": "What was unique about the shape of the table where the knights of the Round Table sat?",
+    "response": [
+        "doc_1833.txt",
+        "doc_1834.txt",
+        "doc_10500.txt",
+        "doc_5084.txt",
+        "doc_5085.txt"
+    ]
+}

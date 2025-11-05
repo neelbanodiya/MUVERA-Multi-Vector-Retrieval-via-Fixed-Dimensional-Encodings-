@@ -1,0 +1,10 @@
+{
+    "query": "How many number-one country singles did Kenny Rogers achieve?",
+    "response": [
+        "doc_6389.txt",
+        "doc_6388.txt",
+        "doc_13922.txt",
+        "doc_13924.txt",
+        "doc_13923.txt"
+    ]
+}

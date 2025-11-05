@@ -1,0 +1,10 @@
+{
+    "query": "Which family is mentioned as having many famous Hollywood actors, including Drew Barrymore and John Barrymore?",
+    "response": [
+        "doc_23198.txt",
+        "doc_23194.txt",
+        "doc_23200.txt",
+        "doc_23196.txt",
+        "doc_23199.txt"
+    ]
+}

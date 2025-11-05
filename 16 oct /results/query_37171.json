@@ -1,0 +1,10 @@
+{
+    "query": "What event led to Willy Brandt\u2019s resignation?",
+    "response": [
+        "doc_21732.txt",
+        "doc_21730.txt",
+        "doc_21733.txt",
+        "doc_21737.txt",
+        "doc_21729.txt"
+    ]
+}

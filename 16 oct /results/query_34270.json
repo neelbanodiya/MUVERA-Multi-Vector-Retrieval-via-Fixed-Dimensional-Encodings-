@@ -1,0 +1,10 @@
+{
+    "query": "Which album marked DJ Drama\u2019s first entry onto the Hot 100, and what was its peak position?",
+    "response": [
+        "doc_11674.txt",
+        "doc_12338.txt",
+        "doc_3723.txt",
+        "doc_4606.txt",
+        "doc_8696.txt"
+    ]
+}

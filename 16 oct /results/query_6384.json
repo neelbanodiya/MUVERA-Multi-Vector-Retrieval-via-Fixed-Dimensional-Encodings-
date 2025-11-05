@@ -1,0 +1,10 @@
+{
+    "query": "In what state is the fictional town of Gravity Falls located?",
+    "response": [
+        "doc_2882.txt",
+        "doc_18553.txt",
+        "doc_23215.txt",
+        "doc_22541.txt",
+        "doc_17060.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the capital city of Hell in John Milton\u2019s *Paradise Lost*?",
+    "response": [
+        "doc_18245.txt",
+        "doc_18246.txt",
+        "doc_21755.txt",
+        "doc_21756.txt",
+        "doc_5413.txt"
+    ]
+}

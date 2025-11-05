@@ -1,0 +1,10 @@
+{
+    "query": "How many first-round draft picks did the Kings receive when they traded Wayne Gretzky?",
+    "response": [
+        "doc_24141.txt",
+        "doc_5390.txt",
+        "doc_24140.txt",
+        "doc_1999.txt",
+        "doc_21628.txt"
+    ]
+}

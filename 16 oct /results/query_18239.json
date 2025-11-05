@@ -1,0 +1,10 @@
+{
+    "query": "What does \u201cGreen\u201d refer to in the context of the supply chain?",
+    "response": [
+        "doc_10566.txt",
+        "doc_10565.txt",
+        "doc_10564.txt",
+        "doc_2842.txt",
+        "doc_2836.txt"
+    ]
+}

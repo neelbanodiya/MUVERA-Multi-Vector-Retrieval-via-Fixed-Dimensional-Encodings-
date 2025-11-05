@@ -1,0 +1,10 @@
+{
+    "query": "In what year did he fight in West Virginia?",
+    "response": [
+        "doc_19975.txt",
+        "doc_4066.txt",
+        "doc_16056.txt",
+        "doc_7924.txt",
+        "doc_6109.txt"
+    ]
+}

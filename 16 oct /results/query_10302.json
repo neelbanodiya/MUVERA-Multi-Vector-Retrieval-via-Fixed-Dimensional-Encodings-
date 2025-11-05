@@ -1,0 +1,10 @@
+{
+    "query": "What was Marvin Mandel\u2019s role in the Fifth District in 1962?",
+    "response": [
+        "doc_19268.txt",
+        "doc_5965.txt",
+        "doc_4273.txt",
+        "doc_4522.txt",
+        "doc_2176.txt"
+    ]
+}

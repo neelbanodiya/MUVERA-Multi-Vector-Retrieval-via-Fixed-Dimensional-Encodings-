@@ -1,0 +1,10 @@
+{
+    "query": "What is Lisa Miller\u2019s primary area of research and what institution did she found?",
+    "response": [
+        "doc_18582.txt",
+        "doc_10448.txt",
+        "doc_4806.txt",
+        "doc_4808.txt",
+        "doc_4804.txt"
+    ]
+}

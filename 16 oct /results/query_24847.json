@@ -1,0 +1,10 @@
+{
+    "query": "According to the resolution, what are some of the potential negative consequences of implementing the Tobin tax?",
+    "response": [
+        "doc_14446.txt",
+        "doc_5560.txt",
+        "doc_6223.txt",
+        "doc_1565.txt",
+        "doc_5962.txt"
+    ]
+}

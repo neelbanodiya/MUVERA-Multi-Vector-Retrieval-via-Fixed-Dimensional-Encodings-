@@ -1,0 +1,10 @@
+{
+    "query": "Who hired the prostitute in the movie *Pretty Woman*?",
+    "response": [
+        "doc_22840.txt",
+        "doc_22842.txt",
+        "doc_22843.txt",
+        "doc_22839.txt",
+        "doc_22855.txt"
+    ]
+}

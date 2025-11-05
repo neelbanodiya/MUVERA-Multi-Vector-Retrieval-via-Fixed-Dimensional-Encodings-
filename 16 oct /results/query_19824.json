@@ -1,0 +1,10 @@
+{
+    "query": "What is the historical connection between Sinterklaas and Santa Claus?",
+    "response": [
+        "doc_11452.txt",
+        "doc_11442.txt",
+        "doc_11444.txt",
+        "doc_11459.txt",
+        "doc_11445.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What position did Dzhokhar Dudayev hold?",
+    "response": [
+        "doc_17968.txt",
+        "doc_17970.txt",
+        "doc_17965.txt",
+        "doc_17971.txt",
+        "doc_17972.txt"
+    ]
+}

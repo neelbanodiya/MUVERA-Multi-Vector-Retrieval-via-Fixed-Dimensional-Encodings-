@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the television series that Steven Bochco and David Milch collaborated on before *NYPD Blue*?",
+    "response": [
+        "doc_5601.txt",
+        "doc_5597.txt",
+        "doc_5605.txt",
+        "doc_5602.txt",
+        "doc_5594.txt"
+    ]
+}

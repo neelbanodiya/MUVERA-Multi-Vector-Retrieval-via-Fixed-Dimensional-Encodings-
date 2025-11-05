@@ -1,0 +1,10 @@
+{
+    "query": "Which edition of \u201cDinosaur Park\u201d featured a dinosaur cover?",
+    "response": [
+        "doc_8692.txt",
+        "doc_10292.txt",
+        "doc_23740.txt",
+        "doc_9873.txt",
+        "doc_15553.txt"
+    ]
+}

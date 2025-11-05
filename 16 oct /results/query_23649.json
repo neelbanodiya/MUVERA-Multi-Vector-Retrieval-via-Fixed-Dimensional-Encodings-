@@ -1,0 +1,10 @@
+{
+    "query": "What subjects did Darwin study at school, as mentioned in one of the provided links?",
+    "response": [
+        "doc_13717.txt",
+        "doc_20352.txt",
+        "doc_19205.txt",
+        "doc_21979.txt",
+        "doc_21632.txt"
+    ]
+}

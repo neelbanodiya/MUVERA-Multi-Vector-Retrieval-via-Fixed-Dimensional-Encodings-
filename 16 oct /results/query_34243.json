@@ -1,0 +1,10 @@
+{
+    "query": "What awards did *Le Divorce* receive?",
+    "response": [
+        "doc_2264.txt",
+        "doc_2265.txt",
+        "doc_4458.txt",
+        "doc_22014.txt",
+        "doc_11667.txt"
+    ]
+}

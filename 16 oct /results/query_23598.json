@@ -1,0 +1,10 @@
+{
+    "query": "According to the Archdruid Report, what kind of magic is not the same as using a Love Potion No. 9?",
+    "response": [
+        "doc_9207.txt",
+        "doc_7648.txt",
+        "doc_1310.txt",
+        "doc_1495.txt",
+        "doc_13557.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was Hank Aaron's annual salary during his three-year contract with the Atlanta Braves, signed on February 29, 1972?",
+    "response": [
+        "doc_23045.txt",
+        "doc_23046.txt",
+        "doc_23047.txt",
+        "doc_23050.txt",
+        "doc_23048.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Besides Antigua and Barbuda, what other Caribbean island territories are mentioned in the text?",
+    "response": [
+        "doc_4425.txt",
+        "doc_4423.txt",
+        "doc_4424.txt",
+        "doc_4416.txt",
+        "doc_4414.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which countries, alongside Egypt, were jointly involved in a statement regarding developments in Libya in August 2014?",
+    "response": [
+        "doc_22688.txt",
+        "doc_22694.txt",
+        "doc_23403.txt",
+        "doc_22693.txt",
+        "doc_22696.txt"
+    ]
+}

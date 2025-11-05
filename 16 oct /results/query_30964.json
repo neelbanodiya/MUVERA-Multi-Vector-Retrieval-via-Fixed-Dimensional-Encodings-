@@ -1,0 +1,10 @@
+{
+    "query": "Under what circumstances do points 1(a), 1(b), and 3 not apply regarding EEE shipments?",
+    "response": [
+        "doc_18048.txt",
+        "doc_6997.txt",
+        "doc_18050.txt",
+        "doc_18010.txt",
+        "doc_17895.txt"
+    ]
+}

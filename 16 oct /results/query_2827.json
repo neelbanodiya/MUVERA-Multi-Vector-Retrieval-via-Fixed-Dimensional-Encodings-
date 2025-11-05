@@ -1,0 +1,10 @@
+{
+    "query": "What is recommended to do with the clock face on a Brighton jewelry item?",
+    "response": [
+        "doc_10644.txt",
+        "doc_3049.txt",
+        "doc_1713.txt",
+        "doc_1712.txt",
+        "doc_3050.txt"
+    ]
+}

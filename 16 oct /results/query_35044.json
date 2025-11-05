@@ -1,0 +1,10 @@
+{
+    "query": "When did the animated series *Franklin and Friends* premiere on Nickelodeon?",
+    "response": [
+        "doc_20436.txt",
+        "doc_20437.txt",
+        "doc_20439.txt",
+        "doc_20438.txt",
+        "doc_8275.txt"
+    ]
+}

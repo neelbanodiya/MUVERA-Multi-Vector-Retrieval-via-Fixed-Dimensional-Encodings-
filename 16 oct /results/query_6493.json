@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Danny Thomas appear in the NBC sitcom, The Practice?",
+    "response": [
+        "doc_3738.txt",
+        "doc_3744.txt",
+        "doc_3743.txt",
+        "doc_3739.txt",
+        "doc_3745.txt"
+    ]
+}

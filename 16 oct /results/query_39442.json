@@ -1,0 +1,10 @@
+{
+    "query": "What is the estimated amount of military aid being requested for Israel?",
+    "response": [
+        "doc_5135.txt",
+        "doc_5822.txt",
+        "doc_3250.txt",
+        "doc_22217.txt",
+        "doc_14347.txt"
+    ]
+}

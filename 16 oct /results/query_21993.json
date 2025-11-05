@@ -1,0 +1,10 @@
+{
+    "query": "What two documents will the Commission consider when determining future actions related to food labelling and nutrition information?",
+    "response": [
+        "doc_12680.txt",
+        "doc_9361.txt",
+        "doc_12681.txt",
+        "doc_3075.txt",
+        "doc_8239.txt"
+    ]
+}

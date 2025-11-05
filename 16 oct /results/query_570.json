@@ -1,0 +1,10 @@
+{
+    "query": "On what date did Patrick Henry deliver the speech that included the famous phrase \"Give me liberty or give me death\"?",
+    "response": [
+        "doc_338.txt",
+        "doc_339.txt",
+        "doc_340.txt",
+        "doc_345.txt",
+        "doc_336.txt"
+    ]
+}

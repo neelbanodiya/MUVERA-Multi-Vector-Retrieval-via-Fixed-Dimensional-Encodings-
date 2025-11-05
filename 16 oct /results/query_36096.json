@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Isaac Newton become president of the Royal Society?",
+    "response": [
+        "doc_21061.txt",
+        "doc_21062.txt",
+        "doc_21072.txt",
+        "doc_21060.txt",
+        "doc_21066.txt"
+    ]
+}

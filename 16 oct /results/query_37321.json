@@ -1,0 +1,10 @@
+{
+    "query": "Which breeds are closely related to the German longhaired pointer?",
+    "response": [
+        "doc_21848.txt",
+        "doc_21851.txt",
+        "doc_17015.txt",
+        "doc_17013.txt",
+        "doc_23726.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year was *The Birth of a Nation* released?",
+    "response": [
+        "doc_15488.txt",
+        "doc_15480.txt",
+        "doc_15487.txt",
+        "doc_15481.txt",
+        "doc_15485.txt"
+    ]
+}

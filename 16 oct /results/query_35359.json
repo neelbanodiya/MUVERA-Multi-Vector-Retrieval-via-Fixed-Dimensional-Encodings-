@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided information, what is a notable characteristic of *Pinocchio* (1940) compared to other Disney animated features?",
+    "response": [
+        "doc_20611.txt",
+        "doc_20618.txt",
+        "doc_20625.txt",
+        "doc_20610.txt",
+        "doc_20621.txt"
+    ]
+}

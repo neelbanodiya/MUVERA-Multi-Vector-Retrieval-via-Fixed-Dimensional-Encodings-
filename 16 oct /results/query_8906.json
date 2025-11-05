@@ -1,0 +1,10 @@
+{
+    "query": "In which desert is the Chuquicamata mine situated, and what are its dimensions?",
+    "response": [
+        "doc_5142.txt",
+        "doc_5152.txt",
+        "doc_5151.txt",
+        "doc_5153.txt",
+        "doc_5143.txt"
+    ]
+}

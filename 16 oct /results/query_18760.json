@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate land area of Alaska compared to the conterminous United States?",
+    "response": [
+        "doc_18155.txt",
+        "doc_9608.txt",
+        "doc_9619.txt",
+        "doc_18420.txt",
+        "doc_1654.txt"
+    ]
+}

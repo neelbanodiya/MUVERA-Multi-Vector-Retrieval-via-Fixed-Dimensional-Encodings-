@@ -1,0 +1,10 @@
+{
+    "query": "Which island is associated with Sappho and a lesbian circle of women?",
+    "response": [
+        "doc_20468.txt",
+        "doc_20480.txt",
+        "doc_20482.txt",
+        "doc_20484.txt",
+        "doc_9610.txt"
+    ]
+}

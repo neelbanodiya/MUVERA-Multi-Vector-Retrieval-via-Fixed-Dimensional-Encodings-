@@ -1,0 +1,10 @@
+{
+    "query": "Who has access to the electronic database maintained by the Commission?",
+    "response": [
+        "doc_3013.txt",
+        "doc_17078.txt",
+        "doc_3015.txt",
+        "doc_13366.txt",
+        "doc_16597.txt"
+    ]
+}

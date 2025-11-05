@@ -1,0 +1,10 @@
+{
+    "query": "Who played Connie Corleone in *The Godfather* and was initially not Coppola\u2019s first choice for the role?",
+    "response": [
+        "doc_10922.txt",
+        "doc_10923.txt",
+        "doc_10924.txt",
+        "doc_10926.txt",
+        "doc_10928.txt"
+    ]
+}

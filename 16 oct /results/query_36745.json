@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the temporary file associated with a damaged PowerPoint 2007 presentation?",
+    "response": [
+        "doc_21471.txt",
+        "doc_21472.txt",
+        "doc_21470.txt",
+        "doc_21475.txt",
+        "doc_21469.txt"
+    ]
+}

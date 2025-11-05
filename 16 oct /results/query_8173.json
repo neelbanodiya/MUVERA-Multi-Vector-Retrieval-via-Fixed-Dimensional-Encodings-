@@ -1,0 +1,10 @@
+{
+    "query": "Name at least three authors whose works are listed as being related to the Vietnam War.",
+    "response": [
+        "doc_6679.txt",
+        "doc_17758.txt",
+        "doc_6674.txt",
+        "doc_6673.txt",
+        "doc_6677.txt"
+    ]
+}

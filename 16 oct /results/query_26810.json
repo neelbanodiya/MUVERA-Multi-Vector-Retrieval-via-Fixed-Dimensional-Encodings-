@@ -1,0 +1,10 @@
+{
+    "query": "What did adults vote \u201cThe Lord of the Rings\u201d trilogy as in a major British poll?",
+    "response": [
+        "doc_15552.txt",
+        "doc_15553.txt",
+        "doc_1678.txt",
+        "doc_14824.txt",
+        "doc_5119.txt"
+    ]
+}

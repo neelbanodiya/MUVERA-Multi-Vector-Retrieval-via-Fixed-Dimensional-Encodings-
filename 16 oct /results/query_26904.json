@@ -1,0 +1,10 @@
+{
+    "query": "What is the state where the address for \u201cSPANISH LAKE, MO.\u201d is located?",
+    "response": [
+        "doc_3320.txt",
+        "doc_1653.txt",
+        "doc_4686.txt",
+        "doc_22543.txt",
+        "doc_23872.txt"
+    ]
+}

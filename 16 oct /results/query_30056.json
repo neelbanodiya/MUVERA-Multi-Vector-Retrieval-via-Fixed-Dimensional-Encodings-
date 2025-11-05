@@ -1,0 +1,10 @@
+{
+    "query": "What action is Parliament requesting the Commission to undertake regarding the use of EC funds?",
+    "response": [
+        "doc_5235.txt",
+        "doc_17472.txt",
+        "doc_16161.txt",
+        "doc_133.txt",
+        "doc_24176.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "For what award did John Patrick receive recognition for \u201cTeahouse of the August Moon\u201d?",
+    "response": [
+        "doc_8796.txt",
+        "doc_22012.txt",
+        "doc_1011.txt",
+        "doc_2264.txt",
+        "doc_21262.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what event is happening in Washington, D.C.?",
+    "response": [
+        "doc_6836.txt",
+        "doc_22587.txt",
+        "doc_17954.txt",
+        "doc_23357.txt",
+        "doc_12830.txt"
+    ]
+}

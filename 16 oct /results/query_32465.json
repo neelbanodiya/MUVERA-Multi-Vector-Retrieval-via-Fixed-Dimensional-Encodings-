@@ -1,0 +1,10 @@
+{
+    "query": "Who played Alexander in the film Alexander?",
+    "response": [
+        "doc_18940.txt",
+        "doc_13535.txt",
+        "doc_15485.txt",
+        "doc_15484.txt",
+        "doc_16653.txt"
+    ]
+}

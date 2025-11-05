@@ -1,0 +1,10 @@
+{
+    "query": "Which sitcom did Bea Arthur play the character Maude Findlay on, and in what years?",
+    "response": [
+        "doc_4648.txt",
+        "doc_4642.txt",
+        "doc_4649.txt",
+        "doc_4650.txt",
+        "doc_4643.txt"
+    ]
+}

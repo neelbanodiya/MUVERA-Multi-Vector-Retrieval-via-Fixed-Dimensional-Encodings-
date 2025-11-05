@@ -1,0 +1,10 @@
+{
+    "query": "What was Dickens\u2019s motivation for writing *Oliver Twist*?",
+    "response": [
+        "doc_20551.txt",
+        "doc_20541.txt",
+        "doc_20549.txt",
+        "doc_20556.txt",
+        "doc_20552.txt"
+    ]
+}

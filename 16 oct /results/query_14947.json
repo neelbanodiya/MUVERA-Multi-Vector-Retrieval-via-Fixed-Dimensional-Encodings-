@@ -1,0 +1,10 @@
+{
+    "query": "How many gold medals did Luigi Gnocchi win in a single edition of the Mediterranean Games?",
+    "response": [
+        "doc_13769.txt",
+        "doc_15512.txt",
+        "doc_23698.txt",
+        "doc_10759.txt",
+        "doc_10762.txt"
+    ]
+}

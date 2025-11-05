@@ -1,0 +1,10 @@
+{
+    "query": "What county in Ireland was Pierce Brosnan born in?",
+    "response": [
+        "doc_23798.txt",
+        "doc_23810.txt",
+        "doc_23799.txt",
+        "doc_23800.txt",
+        "doc_23804.txt"
+    ]
+}

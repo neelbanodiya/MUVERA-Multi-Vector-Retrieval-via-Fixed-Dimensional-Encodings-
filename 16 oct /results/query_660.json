@@ -1,0 +1,10 @@
+{
+    "query": "What is the Great Glen primarily known for, and where is it located?",
+    "response": [
+        "doc_1389.txt",
+        "doc_13724.txt",
+        "doc_22341.txt",
+        "doc_8684.txt",
+        "doc_21704.txt"
+    ]
+}

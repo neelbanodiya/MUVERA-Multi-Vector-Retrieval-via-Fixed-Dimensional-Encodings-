@@ -1,0 +1,10 @@
+{
+    "query": "What was Rudolf Nureyev\u2019s birth location?",
+    "response": [
+        "doc_9904.txt",
+        "doc_9898.txt",
+        "doc_9900.txt",
+        "doc_9905.txt",
+        "doc_9901.txt"
+    ]
+}

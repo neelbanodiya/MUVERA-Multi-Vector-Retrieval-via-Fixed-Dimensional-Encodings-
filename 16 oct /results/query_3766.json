@@ -1,0 +1,10 @@
+{
+    "query": "What does the USGS publication describe about the properties of certain sandstone beds?",
+    "response": [
+        "doc_4222.txt",
+        "doc_10500.txt",
+        "doc_22998.txt",
+        "doc_21019.txt",
+        "doc_13364.txt"
+    ]
+}

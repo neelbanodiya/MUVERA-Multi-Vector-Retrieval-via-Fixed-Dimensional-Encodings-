@@ -1,0 +1,10 @@
+{
+    "query": "What did Pizza Hut announce on Monday?",
+    "response": [
+        "doc_10234.txt",
+        "doc_2292.txt",
+        "doc_10229.txt",
+        "doc_10236.txt",
+        "doc_10235.txt"
+    ]
+}

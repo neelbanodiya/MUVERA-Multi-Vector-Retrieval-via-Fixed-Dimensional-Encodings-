@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, approximately when did Sappho live?",
+    "response": [
+        "doc_20466.txt",
+        "doc_20470.txt",
+        "doc_20467.txt",
+        "doc_20474.txt",
+        "doc_9930.txt"
+    ]
+}

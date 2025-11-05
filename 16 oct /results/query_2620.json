@@ -1,0 +1,10 @@
+{
+    "query": "What movie features Jim Lovell and Walter Cronkite?",
+    "response": [
+        "doc_1578.txt",
+        "doc_5158.txt",
+        "doc_7652.txt",
+        "doc_2850.txt",
+        "doc_14388.txt"
+    ]
+}

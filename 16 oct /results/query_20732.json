@@ -1,0 +1,10 @@
+{
+    "query": "On what date were the minutes of the vote recorded for the negotiation of the EU-Central America Association Agreement?",
+    "response": [
+        "doc_11972.txt",
+        "doc_17393.txt",
+        "doc_21466.txt",
+        "doc_17259.txt",
+        "doc_17392.txt"
+    ]
+}

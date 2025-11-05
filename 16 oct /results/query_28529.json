@@ -1,0 +1,10 @@
+{
+    "query": "What happened in Minnesota in November 2002?",
+    "response": [
+        "doc_15077.txt",
+        "doc_8280.txt",
+        "doc_15078.txt",
+        "doc_5704.txt",
+        "doc_15998.txt"
+    ]
+}

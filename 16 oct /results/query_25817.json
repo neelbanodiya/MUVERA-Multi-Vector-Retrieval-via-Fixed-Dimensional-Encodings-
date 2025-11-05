@@ -1,0 +1,10 @@
+{
+    "query": "When did *The Voice* begin providing opportunities for upcoming artists?",
+    "response": [
+        "doc_15008.txt",
+        "doc_129.txt",
+        "doc_8696.txt",
+        "doc_9470.txt",
+        "doc_7660.txt"
+    ]
+}

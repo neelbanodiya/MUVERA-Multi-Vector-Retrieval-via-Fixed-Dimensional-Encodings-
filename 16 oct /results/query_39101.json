@@ -1,0 +1,10 @@
+{
+    "query": "Besides \u201cThe Mindy Project,\u201d on which television shows did Jeremy Bronson work as a producer and writer?",
+    "response": [
+        "doc_3721.txt",
+        "doc_12639.txt",
+        "doc_13076.txt",
+        "doc_12638.txt",
+        "doc_6074.txt"
+    ]
+}

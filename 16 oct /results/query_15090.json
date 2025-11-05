@@ -1,0 +1,10 @@
+{
+    "query": "What ingredients are mentioned in the recipe for Georgian food that are stirred into the pot just before serving?",
+    "response": [
+        "doc_14997.txt",
+        "doc_23458.txt",
+        "doc_21689.txt",
+        "doc_19447.txt",
+        "doc_5794.txt"
+    ]
+}

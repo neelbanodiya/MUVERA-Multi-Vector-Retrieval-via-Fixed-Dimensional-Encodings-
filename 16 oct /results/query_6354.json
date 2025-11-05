@@ -1,0 +1,10 @@
+{
+    "query": "What company did Mattel pay $3 for in 2014?",
+    "response": [
+        "doc_3678.txt",
+        "doc_3673.txt",
+        "doc_18725.txt",
+        "doc_3675.txt",
+        "doc_11925.txt"
+    ]
+}

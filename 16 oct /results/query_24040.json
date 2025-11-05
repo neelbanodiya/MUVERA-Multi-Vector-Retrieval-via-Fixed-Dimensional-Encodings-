@@ -1,0 +1,10 @@
+{
+    "query": "What was the score in the Yankees series mentioned in the passage?",
+    "response": [
+        "doc_19175.txt",
+        "doc_12442.txt",
+        "doc_12761.txt",
+        "doc_20311.txt",
+        "doc_15565.txt"
+    ]
+}

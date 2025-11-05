@@ -1,0 +1,10 @@
+{
+    "query": "How are grits traditionally served in the American South?",
+    "response": [
+        "doc_8924.txt",
+        "doc_8919.txt",
+        "doc_8912.txt",
+        "doc_8913.txt",
+        "doc_8914.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Is *The Fellowship of the Ring* considered a trilogy, or a single novel?",
+    "response": [
+        "doc_15558.txt",
+        "doc_14546.txt",
+        "doc_2422.txt",
+        "doc_15551.txt",
+        "doc_20486.txt"
+    ]
+}

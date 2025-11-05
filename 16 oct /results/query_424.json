@@ -1,0 +1,10 @@
+{
+    "query": "Is the Commission aware of the situation in the Penamoa shanty town?",
+    "response": [
+        "doc_240.txt",
+        "doc_22167.txt",
+        "doc_16708.txt",
+        "doc_9472.txt",
+        "doc_14220.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which EU bodies does the Committee on the Environment, Public Health and Food Safety maintain relations with?",
+    "response": [
+        "doc_13308.txt",
+        "doc_14295.txt",
+        "doc_17588.txt",
+        "doc_24019.txt",
+        "doc_14294.txt"
+    ]
+}

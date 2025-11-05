@@ -1,0 +1,10 @@
+{
+    "query": "What specific action did President Kharzai take regarding elections in Afghanistan?",
+    "response": [
+        "doc_15140.txt",
+        "doc_8770.txt",
+        "doc_22718.txt",
+        "doc_4103.txt",
+        "doc_15249.txt"
+    ]
+}

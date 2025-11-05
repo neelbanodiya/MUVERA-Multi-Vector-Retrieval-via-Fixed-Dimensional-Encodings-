@@ -1,0 +1,10 @@
+{
+    "query": "What was Linda Davis's highest chart position as a solo artist?",
+    "response": [
+        "doc_9183.txt",
+        "doc_12046.txt",
+        "doc_20560.txt",
+        "doc_20435.txt",
+        "doc_11674.txt"
+    ]
+}

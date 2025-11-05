@@ -1,0 +1,10 @@
+{
+    "query": "Which city is Summit Avenue described as the \u201cbest preserved example of the Victorian monumental residential boulevard\u201d?",
+    "response": [
+        "doc_21400.txt",
+        "doc_8640.txt",
+        "doc_3381.txt",
+        "doc_20382.txt",
+        "doc_9595.txt"
+    ]
+}

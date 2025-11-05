@@ -1,0 +1,10 @@
+{
+    "query": "What specific EU bodies received a 2008 budget discharge, and which one was held back?",
+    "response": [
+        "doc_23212.txt",
+        "doc_23213.txt",
+        "doc_23214.txt",
+        "doc_17533.txt",
+        "doc_7812.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "With whose assistance did the Count Almaviva marry Rosina?",
+    "response": [
+        "doc_7943.txt",
+        "doc_7944.txt",
+        "doc_7942.txt",
+        "doc_7940.txt",
+        "doc_7945.txt"
+    ]
+}

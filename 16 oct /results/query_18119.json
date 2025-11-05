@@ -1,0 +1,9 @@
+{
+    "query": "What family does *Balsamorhiza incana* belong to?",
+    "response": [
+        "doc_10498.txt",
+        "doc_10499.txt",
+        "doc_15145.txt",
+        "doc_20055.txt"
+    ]
+}

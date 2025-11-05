@@ -1,0 +1,10 @@
+{
+    "query": "Who was King Minos\u2019s son?",
+    "response": [
+        "doc_18209.txt",
+        "doc_18193.txt",
+        "doc_10140.txt",
+        "doc_1243.txt",
+        "doc_9763.txt"
+    ]
+}

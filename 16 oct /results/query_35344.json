@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is the difference between \u201cKingdom Now\u201d and \u201cThe Bible teaches \u2018Kingdom Come\u2019\u201d?",
+    "response": [
+        "doc_5033.txt",
+        "doc_5050.txt",
+        "doc_14711.txt",
+        "doc_10995.txt",
+        "doc_5035.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what month did the individual begin working at GE\u2019s nuclear fuel center?",
+    "response": [
+        "doc_12344.txt",
+        "doc_17692.txt",
+        "doc_2067.txt",
+        "doc_23136.txt",
+        "doc_6530.txt"
+    ]
+}

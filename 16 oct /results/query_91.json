@@ -1,0 +1,10 @@
+{
+    "query": "During which years did George Washington serve as President?",
+    "response": [
+        "doc_40.txt",
+        "doc_47.txt",
+        "doc_45.txt",
+        "doc_46.txt",
+        "doc_57.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which city in Baden-W\u00fcrttemberg is described as a \u201cworld-reknowned spa town\u201d?",
+    "response": [
+        "doc_6190.txt",
+        "doc_6192.txt",
+        "doc_6188.txt",
+        "doc_6193.txt",
+        "doc_6189.txt"
+    ]
+}

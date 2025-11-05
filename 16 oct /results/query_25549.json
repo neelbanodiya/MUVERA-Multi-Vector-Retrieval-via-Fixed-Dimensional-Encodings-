@@ -1,0 +1,10 @@
+{
+    "query": "In 2009, what improvements were made to Faurot Field at Memorial Stadium?",
+    "response": [
+        "doc_15814.txt",
+        "doc_14816.txt",
+        "doc_8502.txt",
+        "doc_8501.txt",
+        "doc_15807.txt"
+    ]
+}

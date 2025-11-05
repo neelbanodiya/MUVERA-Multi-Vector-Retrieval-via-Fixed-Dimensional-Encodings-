@@ -1,0 +1,10 @@
+{
+    "query": "What specific change occurred to the \u201cpartners\u201d list on the BEPA website between October 15th and the date of the question?",
+    "response": [
+        "doc_15775.txt",
+        "doc_8295.txt",
+        "doc_18785.txt",
+        "doc_11475.txt",
+        "doc_12670.txt"
+    ]
+}

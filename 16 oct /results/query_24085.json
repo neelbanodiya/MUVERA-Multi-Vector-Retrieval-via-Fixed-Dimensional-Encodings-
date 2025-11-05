@@ -1,0 +1,10 @@
+{
+    "query": "According to the San Diego History Center article, what was Hugo de Vries\u2019s initial interest?",
+    "response": [
+        "doc_19677.txt",
+        "doc_19676.txt",
+        "doc_12233.txt",
+        "doc_9001.txt",
+        "doc_628.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many kilometers long is the distance from north to south within India?",
+    "response": [
+        "doc_23851.txt",
+        "doc_18994.txt",
+        "doc_15963.txt",
+        "doc_23853.txt",
+        "doc_23855.txt"
+    ]
+}

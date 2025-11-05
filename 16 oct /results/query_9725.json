@@ -1,0 +1,10 @@
+{
+    "query": "When was the European Parliament's climate change package adopted?",
+    "response": [
+        "doc_14343.txt",
+        "doc_22298.txt",
+        "doc_17516.txt",
+        "doc_4599.txt",
+        "doc_20690.txt"
+    ]
+}

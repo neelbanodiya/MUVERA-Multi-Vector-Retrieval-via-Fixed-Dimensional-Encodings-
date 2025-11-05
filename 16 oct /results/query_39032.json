@@ -1,0 +1,10 @@
+{
+    "query": "In *Pretty Woman*, who starred as a wealthy and successful businessman?",
+    "response": [
+        "doc_22856.txt",
+        "doc_22843.txt",
+        "doc_22840.txt",
+        "doc_22842.txt",
+        "doc_22839.txt"
+    ]
+}

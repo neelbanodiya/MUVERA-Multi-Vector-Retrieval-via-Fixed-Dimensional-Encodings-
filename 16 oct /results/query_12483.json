@@ -1,0 +1,10 @@
+{
+    "query": "What is the length of the span for the Ems powerline crossing?",
+    "response": [
+        "doc_5187.txt",
+        "doc_7263.txt",
+        "doc_5186.txt",
+        "doc_7264.txt",
+        "doc_12749.txt"
+    ]
+}

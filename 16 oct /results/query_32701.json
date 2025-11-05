@@ -1,0 +1,10 @@
+{
+    "query": "When did \u201cBeasts of Prey\u201d premiere and who wrote it?",
+    "response": [
+        "doc_1812.txt",
+        "doc_9400.txt",
+        "doc_20958.txt",
+        "doc_7765.txt",
+        "doc_7768.txt"
+    ]
+}

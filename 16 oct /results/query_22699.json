@@ -1,0 +1,10 @@
+{
+    "query": "Which museum in New York City focuses specifically on Latin American and Caribbean artists?",
+    "response": [
+        "doc_13050.txt",
+        "doc_13051.txt",
+        "doc_13059.txt",
+        "doc_13052.txt",
+        "doc_13055.txt"
+    ]
+}

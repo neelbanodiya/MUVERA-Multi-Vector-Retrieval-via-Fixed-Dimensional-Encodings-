@@ -1,0 +1,10 @@
+{
+    "query": "Which king was responsible for the conquest of Avars by Charlemagne?",
+    "response": [
+        "doc_7210.txt",
+        "doc_7217.txt",
+        "doc_7337.txt",
+        "doc_7215.txt",
+        "doc_11239.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where does the Alcatraz tour begin?",
+    "response": [
+        "doc_17815.txt",
+        "doc_17806.txt",
+        "doc_98.txt",
+        "doc_2623.txt",
+        "doc_10132.txt"
+    ]
+}

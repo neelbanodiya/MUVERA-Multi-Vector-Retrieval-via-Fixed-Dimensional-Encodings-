@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what specific constitutional principle is limiting Congress\u2019s use of Article III courts?",
+    "response": [
+        "doc_18001.txt",
+        "doc_18903.txt",
+        "doc_11004.txt",
+        "doc_3435.txt",
+        "doc_20819.txt"
+    ]
+}

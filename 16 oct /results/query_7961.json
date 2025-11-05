@@ -1,0 +1,10 @@
+{
+    "query": "Which institutions, specifically located in Kansas, are mentioned as having invested money with Productions Plus?",
+    "response": [
+        "doc_18347.txt",
+        "doc_2726.txt",
+        "doc_12645.txt",
+        "doc_17061.txt",
+        "doc_18089.txt"
+    ]
+}

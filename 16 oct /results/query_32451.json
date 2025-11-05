@@ -1,0 +1,10 @@
+{
+    "query": "What was Oliver Wendell Douglas\u2019s profession before becoming a farmer in *Green Acres*?",
+    "response": [
+        "doc_15203.txt",
+        "doc_17285.txt",
+        "doc_15201.txt",
+        "doc_20552.txt",
+        "doc_767.txt"
+    ]
+}

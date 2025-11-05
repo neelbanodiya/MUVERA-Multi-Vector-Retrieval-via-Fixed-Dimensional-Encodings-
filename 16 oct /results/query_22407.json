@@ -1,0 +1,10 @@
+{
+    "query": "According to the National Venture Capital Association, what was the percentage increase in venture capital investment between the first half of this year and the previous period?",
+    "response": [
+        "doc_5560.txt",
+        "doc_21439.txt",
+        "doc_18304.txt",
+        "doc_14946.txt",
+        "doc_12703.txt"
+    ]
+}

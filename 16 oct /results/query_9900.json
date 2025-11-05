@@ -1,0 +1,10 @@
+{
+    "query": "If she had used the botanical name for this flower, Janet Fitch would have written \u201cWhite Nerium\u201d.",
+    "response": [
+        "doc_23598.txt",
+        "doc_5752.txt",
+        "doc_14371.txt",
+        "doc_20130.txt",
+        "doc_724.txt"
+    ]
+}

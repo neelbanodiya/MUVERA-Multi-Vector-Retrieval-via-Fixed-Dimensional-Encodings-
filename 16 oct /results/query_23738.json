@@ -1,0 +1,10 @@
+{
+    "query": "When did the television series \u201cFather Dowling Mysteries\u201d air?",
+    "response": [
+        "doc_13782.txt",
+        "doc_13781.txt",
+        "doc_12271.txt",
+        "doc_12270.txt",
+        "doc_3739.txt"
+    ]
+}

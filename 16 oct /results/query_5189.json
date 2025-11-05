@@ -1,0 +1,10 @@
+{
+    "query": "According to Truman Capote, what was Nelle Harper Lee intending to write after the style of *In Cold Blood*?",
+    "response": [
+        "doc_3043.txt",
+        "doc_3023.txt",
+        "doc_3037.txt",
+        "doc_3039.txt",
+        "doc_3031.txt"
+    ]
+}

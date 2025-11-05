@@ -1,0 +1,10 @@
+{
+    "query": "When did the speaker first become a huge fan of Joan Jett?",
+    "response": [
+        "doc_22553.txt",
+        "doc_736.txt",
+        "doc_18812.txt",
+        "doc_20480.txt",
+        "doc_12218.txt"
+    ]
+}

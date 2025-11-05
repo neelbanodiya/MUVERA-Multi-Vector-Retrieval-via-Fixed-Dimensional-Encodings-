@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote in response to a note from William Barclay Squire, referencing a visit to London in 1847?",
+    "response": [
+        "doc_1452.txt",
+        "doc_11915.txt",
+        "doc_1450.txt",
+        "doc_1448.txt",
+        "doc_1445.txt"
+    ]
+}

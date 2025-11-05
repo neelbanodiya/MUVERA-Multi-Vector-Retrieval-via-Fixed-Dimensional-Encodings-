@@ -1,0 +1,10 @@
+{
+    "query": "How has the U.S. Census classified people into racial groups since its origin in 1790?",
+    "response": [
+        "doc_12884.txt",
+        "doc_12883.txt",
+        "doc_12892.txt",
+        "doc_4509.txt",
+        "doc_2707.txt"
+    ]
+}

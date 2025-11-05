@@ -1,0 +1,10 @@
+{
+    "query": "What famous line is spoken by Harry Callahan in *Dirty Harry*, and who delivered it?",
+    "response": [
+        "doc_19687.txt",
+        "doc_19690.txt",
+        "doc_19686.txt",
+        "doc_9991.txt",
+        "doc_19689.txt"
+    ]
+}

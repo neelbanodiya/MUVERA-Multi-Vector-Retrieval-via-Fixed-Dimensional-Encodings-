@@ -1,0 +1,10 @@
+{
+    "query": "When did the Commission publish a Green Paper concerning the convergence of telecommunications, media, and information technology?",
+    "response": [
+        "doc_21124.txt",
+        "doc_15325.txt",
+        "doc_21119.txt",
+        "doc_2826.txt",
+        "doc_14719.txt"
+    ]
+}

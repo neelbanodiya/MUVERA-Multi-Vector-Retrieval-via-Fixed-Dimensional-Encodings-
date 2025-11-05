@@ -1,0 +1,10 @@
+{
+    "query": "What type of events are held at the Empire State Plaza\u2019s landmark performing arts center?",
+    "response": [
+        "doc_22425.txt",
+        "doc_12177.txt",
+        "doc_22433.txt",
+        "doc_22428.txt",
+        "doc_22426.txt"
+    ]
+}

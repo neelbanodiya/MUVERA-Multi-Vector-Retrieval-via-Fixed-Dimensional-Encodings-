@@ -1,0 +1,10 @@
+{
+    "query": "What anniversary celebration is Beckett hosting on April 22nd?",
+    "response": [
+        "doc_12187.txt",
+        "doc_12174.txt",
+        "doc_18157.txt",
+        "doc_17914.txt",
+        "doc_15249.txt"
+    ]
+}

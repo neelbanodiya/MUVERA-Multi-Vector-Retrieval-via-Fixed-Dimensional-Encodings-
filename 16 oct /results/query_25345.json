@@ -1,0 +1,10 @@
+{
+    "query": "What language was used in the original Domesday Book?",
+    "response": [
+        "doc_14707.txt",
+        "doc_14711.txt",
+        "doc_14712.txt",
+        "doc_23850.txt",
+        "doc_23851.txt"
+    ]
+}

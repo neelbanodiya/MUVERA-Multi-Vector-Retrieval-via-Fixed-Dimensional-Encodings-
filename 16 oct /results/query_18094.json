@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Gian Carlo Menotti's opera, \"Amahl and the Night Visitors,\" first performed?",
+    "response": [
+        "doc_10454.txt",
+        "doc_10458.txt",
+        "doc_10466.txt",
+        "doc_10465.txt",
+        "doc_10461.txt"
+    ]
+}

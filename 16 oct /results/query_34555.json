@@ -1,0 +1,10 @@
+{
+    "query": "What legal documents were referenced in the European Parliament\u2019s decision regarding Olivier Dupuis\u2019s immunity request?",
+    "response": [
+        "doc_20104.txt",
+        "doc_20103.txt",
+        "doc_20105.txt",
+        "doc_20107.txt",
+        "doc_7848.txt"
+    ]
+}

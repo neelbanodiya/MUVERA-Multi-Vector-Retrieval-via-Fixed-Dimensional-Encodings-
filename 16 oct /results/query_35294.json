@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, what is a key characteristic attributed to Ma Joad?",
+    "response": [
+        "doc_14537.txt",
+        "doc_14534.txt",
+        "doc_8100.txt",
+        "doc_14524.txt",
+        "doc_7532.txt"
+    ]
+}

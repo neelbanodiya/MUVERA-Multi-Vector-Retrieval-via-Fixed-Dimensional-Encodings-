@@ -1,0 +1,10 @@
+{
+    "query": "What type of text was popularized by Aldus, resembling the twentieth-century octavo size?",
+    "response": [
+        "doc_16517.txt",
+        "doc_8258.txt",
+        "doc_3691.txt",
+        "doc_18583.txt",
+        "doc_5050.txt"
+    ]
+}

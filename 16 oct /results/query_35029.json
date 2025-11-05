@@ -1,0 +1,10 @@
+{
+    "query": "How many composers of the 20th century are associated with the work \u201cThe Fountains of Rome\u201d?",
+    "response": [
+        "doc_20425.txt",
+        "doc_20427.txt",
+        "doc_20429.txt",
+        "doc_20430.txt",
+        "doc_20428.txt"
+    ]
+}

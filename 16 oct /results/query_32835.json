@@ -1,0 +1,10 @@
+{
+    "query": "How many of the recommendations made by the Internal Audit Service have been implemented since 2006?",
+    "response": [
+        "doc_19132.txt",
+        "doc_19133.txt",
+        "doc_63.txt",
+        "doc_64.txt",
+        "doc_21334.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where is the seat of the Supervisory Authority located?",
+    "response": [
+        "doc_12417.txt",
+        "doc_16894.txt",
+        "doc_3008.txt",
+        "doc_19222.txt",
+        "doc_12495.txt"
+    ]
+}

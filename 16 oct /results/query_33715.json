@@ -1,0 +1,10 @@
+{
+    "query": "Who became the U.S. Amateur Champion in 1996?",
+    "response": [
+        "doc_19633.txt",
+        "doc_19625.txt",
+        "doc_19627.txt",
+        "doc_19629.txt",
+        "doc_19635.txt"
+    ]
+}

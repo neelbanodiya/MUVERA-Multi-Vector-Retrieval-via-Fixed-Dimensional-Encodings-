@@ -1,0 +1,10 @@
+{
+    "query": "What genres of guitar classes are offered by the organization mentioned in the June 5, 2014 Daily Inter Lake article?",
+    "response": [
+        "doc_18888.txt",
+        "doc_20896.txt",
+        "doc_403.txt",
+        "doc_8867.txt",
+        "doc_15309.txt"
+    ]
+}

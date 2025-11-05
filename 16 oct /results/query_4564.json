@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, which two grandfathers did Harry S. Truman\u2019s solution aim to honor?",
+    "response": [
+        "doc_2638.txt",
+        "doc_2643.txt",
+        "doc_2647.txt",
+        "doc_2639.txt",
+        "doc_2637.txt"
+    ]
+}

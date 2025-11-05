@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the Minnesota State Fair section?",
+    "response": [
+        "doc_22540.txt",
+        "doc_22539.txt",
+        "doc_397.txt",
+        "doc_23086.txt",
+        "doc_12463.txt"
+    ]
+}

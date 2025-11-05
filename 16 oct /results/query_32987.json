@@ -1,0 +1,10 @@
+{
+    "query": "What image was used to begin and end the animated short \u201cCoyote Falls\u201d?",
+    "response": [
+        "doc_19212.txt",
+        "doc_19205.txt",
+        "doc_9893.txt",
+        "doc_9894.txt",
+        "doc_13089.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Pearson achieve 1,866 sales and 1,997 sales?",
+    "response": [
+        "doc_12044.txt",
+        "doc_19885.txt",
+        "doc_12046.txt",
+        "doc_22231.txt",
+        "doc_4605.txt"
+    ]
+}

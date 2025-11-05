@@ -1,0 +1,10 @@
+{
+    "query": "For what place in Ireland is the poetic form known as a limerick?",
+    "response": [
+        "doc_6538.txt",
+        "doc_6540.txt",
+        "doc_6539.txt",
+        "doc_6541.txt",
+        "doc_6545.txt"
+    ]
+}

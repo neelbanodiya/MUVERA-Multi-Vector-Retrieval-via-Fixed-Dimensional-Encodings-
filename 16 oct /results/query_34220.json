@@ -1,0 +1,10 @@
+{
+    "query": "What action is being called for regarding the visa regime for EU citizens applying for entry visas to the US?",
+    "response": [
+        "doc_3092.txt",
+        "doc_16790.txt",
+        "doc_19900.txt",
+        "doc_6654.txt",
+        "doc_18362.txt"
+    ]
+}

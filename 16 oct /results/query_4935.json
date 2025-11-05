@@ -1,0 +1,10 @@
+{
+    "query": "Besides Kentucky Lake, what other park is Kenlake State Resort Park associated with, and what organization originally established it?",
+    "response": [
+        "doc_2879.txt",
+        "doc_2881.txt",
+        "doc_2882.txt",
+        "doc_20939.txt",
+        "doc_23894.txt"
+    ]
+}

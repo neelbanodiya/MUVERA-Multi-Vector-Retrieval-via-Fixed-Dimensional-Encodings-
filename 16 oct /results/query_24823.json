@@ -1,0 +1,10 @@
+{
+    "query": "What accommodations at Universal Orlando Resort include Braille room numbers?",
+    "response": [
+        "doc_14429.txt",
+        "doc_16906.txt",
+        "doc_16907.txt",
+        "doc_17806.txt",
+        "doc_14430.txt"
+    ]
+}

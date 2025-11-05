@@ -1,0 +1,10 @@
+{
+    "query": "What is being sold at the ICA?",
+    "response": [
+        "doc_23585.txt",
+        "doc_23583.txt",
+        "doc_23582.txt",
+        "doc_20933.txt",
+        "doc_20932.txt"
+    ]
+}

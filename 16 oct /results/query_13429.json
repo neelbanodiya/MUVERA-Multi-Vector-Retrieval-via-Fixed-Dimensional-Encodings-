@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, who purchased an electric guitar upon hearing T-Bone Walker?",
+    "response": [
+        "doc_1986.txt",
+        "doc_10194.txt",
+        "doc_20539.txt",
+        "doc_10103.txt",
+        "doc_12338.txt"
+    ]
+}

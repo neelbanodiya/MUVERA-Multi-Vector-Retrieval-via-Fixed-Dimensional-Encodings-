@@ -1,0 +1,10 @@
+{
+    "query": "In the \u201cBand of Brothers\u201d recap, what action does Captain Sobel take that is viewed negatively?",
+    "response": [
+        "doc_16735.txt",
+        "doc_14531.txt",
+        "doc_22120.txt",
+        "doc_18463.txt",
+        "doc_1580.txt"
+    ]
+}

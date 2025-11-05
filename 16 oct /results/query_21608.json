@@ -1,0 +1,10 @@
+{
+    "query": "Where was Daniel Chester French's studio located?",
+    "response": [
+        "doc_22787.txt",
+        "doc_3913.txt",
+        "doc_452.txt",
+        "doc_10127.txt",
+        "doc_16168.txt"
+    ]
+}

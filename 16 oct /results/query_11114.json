@@ -1,0 +1,10 @@
+{
+    "query": "What is the origin of the terms \"Tall,\" \"Grande,\" and \"Venti\" at Starbucks, as suggested by the linked resources?",
+    "response": [
+        "doc_6426.txt",
+        "doc_10427.txt",
+        "doc_17428.txt",
+        "doc_17433.txt",
+        "doc_9043.txt"
+    ]
+}

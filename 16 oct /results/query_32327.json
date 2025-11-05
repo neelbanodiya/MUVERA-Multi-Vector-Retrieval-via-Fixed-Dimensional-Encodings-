@@ -1,0 +1,10 @@
+{
+    "query": "Which book served as the basis for the television show featuring Bill Cosby?",
+    "response": [
+        "doc_22330.txt",
+        "doc_18839.txt",
+        "doc_17176.txt",
+        "doc_19141.txt",
+        "doc_5594.txt"
+    ]
+}

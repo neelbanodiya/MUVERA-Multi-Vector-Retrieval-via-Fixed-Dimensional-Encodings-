@@ -1,0 +1,10 @@
+{
+    "query": "In what chapter of Judges does the story of Samson killing a lion with his bare hands appear?",
+    "response": [
+        "doc_8907.txt",
+        "doc_8903.txt",
+        "doc_8901.txt",
+        "doc_8902.txt",
+        "doc_8908.txt"
+    ]
+}

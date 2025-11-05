@@ -1,0 +1,10 @@
+{
+    "query": "What company produces headphones, speakers, and HDMI cables, and where is there a job opportunity in Park City, Utah?",
+    "response": [
+        "doc_2500.txt",
+        "doc_20230.txt",
+        "doc_17060.txt",
+        "doc_4456.txt",
+        "doc_8912.txt"
+    ]
+}

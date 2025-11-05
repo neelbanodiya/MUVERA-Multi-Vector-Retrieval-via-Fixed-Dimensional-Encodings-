@@ -1,0 +1,10 @@
+{
+    "query": "What is the minimum length of the legal guarantee provided to consumers buying defective products according to Directive 1999/44/EC?",
+    "response": [
+        "doc_16599.txt",
+        "doc_22866.txt",
+        "doc_2847.txt",
+        "doc_2846.txt",
+        "doc_18014.txt"
+    ]
+}

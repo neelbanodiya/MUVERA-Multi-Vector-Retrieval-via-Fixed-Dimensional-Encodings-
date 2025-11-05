@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, are national reform measures subject to social impact assessments by the Commission, and if not, why?",
+    "response": [
+        "doc_18745.txt",
+        "doc_14769.txt",
+        "doc_19856.txt",
+        "doc_5494.txt",
+        "doc_21334.txt"
+    ]
+}

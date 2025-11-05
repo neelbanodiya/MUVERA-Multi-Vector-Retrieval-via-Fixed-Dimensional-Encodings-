@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was the initial monetary standard of the United States in 1784?",
+    "response": [
+        "doc_19853.txt",
+        "doc_19845.txt",
+        "doc_2706.txt",
+        "doc_342.txt",
+        "doc_22811.txt"
+    ]
+}

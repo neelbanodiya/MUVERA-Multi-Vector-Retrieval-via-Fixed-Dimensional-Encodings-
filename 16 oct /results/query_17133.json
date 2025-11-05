@@ -1,0 +1,10 @@
+{
+    "query": "When was the first stop-motion animated film about Cheburashka made?",
+    "response": [
+        "doc_9909.txt",
+        "doc_9891.txt",
+        "doc_22835.txt",
+        "doc_9892.txt",
+        "doc_14779.txt"
+    ]
+}

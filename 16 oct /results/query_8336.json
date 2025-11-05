@@ -1,0 +1,10 @@
+{
+    "query": "What happened to William McKinley?",
+    "response": [
+        "doc_4816.txt",
+        "doc_4812.txt",
+        "doc_12844.txt",
+        "doc_7939.txt",
+        "doc_8005.txt"
+    ]
+}

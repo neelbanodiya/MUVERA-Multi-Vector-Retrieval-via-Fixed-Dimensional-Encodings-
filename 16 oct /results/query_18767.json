@@ -1,0 +1,10 @@
+{
+    "query": "What river is mentioned in connection with the Chena and Yukon rivers?",
+    "response": [
+        "doc_9960.txt",
+        "doc_4335.txt",
+        "doc_16151.txt",
+        "doc_1646.txt",
+        "doc_77.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Treaty articles does the European Parliament have regard to in relation to this recommendation?",
+    "response": [
+        "doc_13233.txt",
+        "doc_24018.txt",
+        "doc_23612.txt",
+        "doc_8132.txt",
+        "doc_21804.txt"
+    ]
+}

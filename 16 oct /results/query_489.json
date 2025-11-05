@@ -1,0 +1,10 @@
+{
+    "query": "What event led to the death of Lucy in the passage?",
+    "response": [
+        "doc_9125.txt",
+        "doc_10296.txt",
+        "doc_11731.txt",
+        "doc_6142.txt",
+        "doc_309.txt"
+    ]
+}

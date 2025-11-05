@@ -1,0 +1,10 @@
+{
+    "query": "What album features the band Quilt, as mentioned in the \"Best New Indie Rock Album Releases\" article?",
+    "response": [
+        "doc_9788.txt",
+        "doc_15019.txt",
+        "doc_1422.txt",
+        "doc_20896.txt",
+        "doc_14550.txt"
+    ]
+}

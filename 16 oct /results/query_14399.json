@@ -1,0 +1,10 @@
+{
+    "query": "Which city did Carthage originate from, and approximately when was it founded?",
+    "response": [
+        "doc_8349.txt",
+        "doc_8343.txt",
+        "doc_8348.txt",
+        "doc_8350.txt",
+        "doc_8360.txt"
+    ]
+}

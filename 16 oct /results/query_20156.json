@@ -1,0 +1,10 @@
+{
+    "query": "Where is the island of Corregidor located?",
+    "response": [
+        "doc_11634.txt",
+        "doc_11631.txt",
+        "doc_11629.txt",
+        "doc_11633.txt",
+        "doc_11638.txt"
+    ]
+}

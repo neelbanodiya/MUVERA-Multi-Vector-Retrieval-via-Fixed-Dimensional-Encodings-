@@ -1,0 +1,10 @@
+{
+    "query": "According to Patrick Henry, what is more valuable than life or peace?",
+    "response": [
+        "doc_339.txt",
+        "doc_336.txt",
+        "doc_338.txt",
+        "doc_337.txt",
+        "doc_346.txt"
+    ]
+}

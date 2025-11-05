@@ -1,0 +1,10 @@
+{
+    "query": "What three groups of countries reached an agreement at the UN climate conference in Durban?",
+    "response": [
+        "doc_15879.txt",
+        "doc_19916.txt",
+        "doc_10525.txt",
+        "doc_8113.txt",
+        "doc_15139.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In 1948, what amount of supplies was airlifted into West Berlin?",
+    "response": [
+        "doc_871.txt",
+        "doc_876.txt",
+        "doc_881.txt",
+        "doc_869.txt",
+        "doc_870.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many Erasmus students were participating in the program during the 1997/98 academic year?",
+    "response": [
+        "doc_5381.txt",
+        "doc_5382.txt",
+        "doc_17488.txt",
+        "doc_10311.txt",
+        "doc_6976.txt"
+    ]
+}

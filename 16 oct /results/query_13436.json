@@ -1,0 +1,10 @@
+{
+    "query": "Where did the speaker first hear Dizzy Gillespie and Charlie Parker?",
+    "response": [
+        "doc_19157.txt",
+        "doc_16143.txt",
+        "doc_20482.txt",
+        "doc_22803.txt",
+        "doc_1527.txt"
+    ]
+}

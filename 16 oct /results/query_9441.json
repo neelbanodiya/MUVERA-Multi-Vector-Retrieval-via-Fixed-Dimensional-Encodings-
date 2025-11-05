@@ -1,0 +1,10 @@
+{
+    "query": "What is the subject matter of the report authored by Bill Miller, identified as A5-0116/2004?",
+    "response": [
+        "doc_19127.txt",
+        "doc_13814.txt",
+        "doc_6840.txt",
+        "doc_6344.txt",
+        "doc_14054.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is Wonder Woman\u2019s design described as?",
+    "response": [
+        "doc_1074.txt",
+        "doc_1084.txt",
+        "doc_1076.txt",
+        "doc_1075.txt",
+        "doc_24145.txt"
+    ]
+}

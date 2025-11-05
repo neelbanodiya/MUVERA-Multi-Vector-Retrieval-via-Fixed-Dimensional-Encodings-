@@ -1,0 +1,10 @@
+{
+    "query": "What did the Secretary-General of the Council/High Representative of the European Union state about the announcement?",
+    "response": [
+        "doc_6425.txt",
+        "doc_20514.txt",
+        "doc_20513.txt",
+        "doc_18365.txt",
+        "doc_20519.txt"
+    ]
+}

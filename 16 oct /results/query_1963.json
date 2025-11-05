@@ -1,0 +1,10 @@
+{
+    "query": "When was the Buddha born, according to legend?",
+    "response": [
+        "doc_1192.txt",
+        "doc_1193.txt",
+        "doc_1198.txt",
+        "doc_1201.txt",
+        "doc_1203.txt"
+    ]
+}

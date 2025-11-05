@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided articles, who is the co-founder and publisher of Rolling Stone magazine?",
+    "response": [
+        "doc_9978.txt",
+        "doc_16329.txt",
+        "doc_10830.txt",
+        "doc_3936.txt",
+        "doc_16525.txt"
+    ]
+}

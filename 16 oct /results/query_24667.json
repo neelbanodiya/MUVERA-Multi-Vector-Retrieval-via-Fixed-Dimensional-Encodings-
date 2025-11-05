@@ -1,0 +1,10 @@
+{
+    "query": "When were units 1 and 2 of the Kozloduy Nuclear Power Plant (KNPP) closed down?",
+    "response": [
+        "doc_2269.txt",
+        "doc_14334.txt",
+        "doc_10453.txt",
+        "doc_3587.txt",
+        "doc_2271.txt"
+    ]
+}

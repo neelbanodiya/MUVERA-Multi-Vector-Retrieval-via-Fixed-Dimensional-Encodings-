@@ -1,0 +1,10 @@
+{
+    "query": "Who commissioned Daphnis and Chloe?",
+    "response": [
+        "doc_6410.txt",
+        "doc_14189.txt",
+        "doc_23469.txt",
+        "doc_23039.txt",
+        "doc_15609.txt"
+    ]
+}

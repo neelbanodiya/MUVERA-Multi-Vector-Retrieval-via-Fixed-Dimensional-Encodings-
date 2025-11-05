@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what drove Venus?",
+    "response": [
+        "doc_23544.txt",
+        "doc_22068.txt",
+        "doc_14522.txt",
+        "doc_9551.txt",
+        "doc_5687.txt"
+    ]
+}

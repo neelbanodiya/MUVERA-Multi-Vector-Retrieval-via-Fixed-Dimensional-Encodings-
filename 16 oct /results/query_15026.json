@@ -1,0 +1,10 @@
+{
+    "query": "What type of music did Woody Allen perform during his 1996 European concert tour?",
+    "response": [
+        "doc_8710.txt",
+        "doc_8712.txt",
+        "doc_8713.txt",
+        "doc_8709.txt",
+        "doc_8711.txt"
+    ]
+}

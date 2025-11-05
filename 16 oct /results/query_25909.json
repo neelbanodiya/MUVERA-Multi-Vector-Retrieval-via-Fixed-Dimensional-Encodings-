@@ -1,0 +1,10 @@
+{
+    "query": "What instructions did David Bowie\u2019s manager give the next day at the concert?",
+    "response": [
+        "doc_15067.txt",
+        "doc_11461.txt",
+        "doc_5898.txt",
+        "doc_15319.txt",
+        "doc_11228.txt"
+    ]
+}

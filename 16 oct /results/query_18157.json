@@ -1,0 +1,10 @@
+{
+    "query": "How did Bank of America previously assist in the sale of a basketball team, specifically the Los Angeles Clippers?",
+    "response": [
+        "doc_10515.txt",
+        "doc_8060.txt",
+        "doc_10509.txt",
+        "doc_8054.txt",
+        "doc_10519.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the first book Jane Austen to be published?",
+    "response": [
+        "doc_2317.txt",
+        "doc_2326.txt",
+        "doc_2319.txt",
+        "doc_2329.txt",
+        "doc_2320.txt"
+    ]
+}

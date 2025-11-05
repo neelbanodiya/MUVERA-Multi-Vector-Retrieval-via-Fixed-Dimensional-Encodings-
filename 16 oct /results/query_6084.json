@@ -1,0 +1,10 @@
+{
+    "query": "What type of institution was Hamilton College before its merger with Kirkland College?",
+    "response": [
+        "doc_18577.txt",
+        "doc_2854.txt",
+        "doc_4741.txt",
+        "doc_13874.txt",
+        "doc_17123.txt"
+    ]
+}

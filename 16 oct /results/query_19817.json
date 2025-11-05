@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is the origin of the figure Zwarte Piet (Black Pete)?",
+    "response": [
+        "doc_20311.txt",
+        "doc_13075.txt",
+        "doc_6044.txt",
+        "doc_16033.txt",
+        "doc_2336.txt"
+    ]
+}

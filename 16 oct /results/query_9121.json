@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what instrument does Yo-Yo Ma play that is related to the Silk Road Ensemble?",
+    "response": [
+        "doc_5244.txt",
+        "doc_5250.txt",
+        "doc_5249.txt",
+        "doc_5253.txt",
+        "doc_4452.txt"
+    ]
+}

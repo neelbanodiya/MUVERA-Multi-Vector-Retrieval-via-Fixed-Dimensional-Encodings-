@@ -1,0 +1,10 @@
+{
+    "query": "What band performed \u201cMr. Brightside\u201d at Jeremy and Kate Richens\u2019 wedding?",
+    "response": [
+        "doc_20050.txt",
+        "doc_3263.txt",
+        "doc_3262.txt",
+        "doc_7877.txt",
+        "doc_8832.txt"
+    ]
+}

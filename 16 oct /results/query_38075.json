@@ -1,0 +1,10 @@
+{
+    "query": "Which musical won four Tony Awards, including best musical, according to the provided text?",
+    "response": [
+        "doc_17912.txt",
+        "doc_17914.txt",
+        "doc_22622.txt",
+        "doc_9831.txt",
+        "doc_12359.txt"
+    ]
+}

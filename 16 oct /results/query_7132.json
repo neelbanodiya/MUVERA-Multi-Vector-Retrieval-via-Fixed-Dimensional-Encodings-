@@ -1,0 +1,10 @@
+{
+    "query": "Who are some notable figures mentioned in the text (e.g., Oprah Winfrey, President Obama)?",
+    "response": [
+        "doc_4480.txt",
+        "doc_10138.txt",
+        "doc_7975.txt",
+        "doc_10136.txt",
+        "doc_21336.txt"
+    ]
+}

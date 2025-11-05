@@ -1,0 +1,10 @@
+{
+    "query": "Where were Boone and his wife relocated from?",
+    "response": [
+        "doc_1743.txt",
+        "doc_1742.txt",
+        "doc_1757.txt",
+        "doc_1752.txt",
+        "doc_1744.txt"
+    ]
+}

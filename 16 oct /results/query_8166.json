@@ -1,0 +1,10 @@
+{
+    "query": "What is unique about the \u201cApplesoft\u201d version of the software compared to the first version?",
+    "response": [
+        "doc_4728.txt",
+        "doc_12665.txt",
+        "doc_1508.txt",
+        "doc_23452.txt",
+        "doc_4606.txt"
+    ]
+}

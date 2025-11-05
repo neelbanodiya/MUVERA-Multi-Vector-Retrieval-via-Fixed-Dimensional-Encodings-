@@ -1,0 +1,10 @@
+{
+    "query": "What seminary did Cardinal George attend before leaving the city?",
+    "response": [
+        "doc_15624.txt",
+        "doc_15623.txt",
+        "doc_23317.txt",
+        "doc_21440.txt",
+        "doc_10673.txt"
+    ]
+}

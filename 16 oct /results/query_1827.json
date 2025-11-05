@@ -1,0 +1,10 @@
+{
+    "query": "Which groups were represented by speakers during the debate on the future of the sheep/lamb and goat sector in Europe?",
+    "response": [
+        "doc_1027.txt",
+        "doc_1038.txt",
+        "doc_23244.txt",
+        "doc_5303.txt",
+        "doc_10500.txt"
+    ]
+}

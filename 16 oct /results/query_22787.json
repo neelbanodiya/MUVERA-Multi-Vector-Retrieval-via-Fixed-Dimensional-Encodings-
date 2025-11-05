@@ -1,0 +1,10 @@
+{
+    "query": "Where have some EU vessels relocated their fishing activities?",
+    "response": [
+        "doc_13108.txt",
+        "doc_13109.txt",
+        "doc_12100.txt",
+        "doc_12077.txt",
+        "doc_12101.txt"
+    ]
+}

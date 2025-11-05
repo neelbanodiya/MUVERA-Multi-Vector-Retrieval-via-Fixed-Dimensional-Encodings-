@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary purpose of a Bangalore torpedo?",
+    "response": [
+        "doc_1481.txt",
+        "doc_20095.txt",
+        "doc_12135.txt",
+        "doc_17576.txt",
+        "doc_18921.txt"
+    ]
+}

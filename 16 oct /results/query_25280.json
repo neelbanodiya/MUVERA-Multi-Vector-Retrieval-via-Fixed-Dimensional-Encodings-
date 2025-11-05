@@ -1,0 +1,10 @@
+{
+    "query": "What is Chevy Chase\u2019s full birth name?",
+    "response": [
+        "doc_11835.txt",
+        "doc_12235.txt",
+        "doc_11825.txt",
+        "doc_11823.txt",
+        "doc_2636.txt"
+    ]
+}

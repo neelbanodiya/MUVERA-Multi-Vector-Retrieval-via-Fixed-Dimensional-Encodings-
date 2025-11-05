@@ -1,0 +1,10 @@
+{
+    "query": "What was taken into battle by the Philistines?",
+    "response": [
+        "doc_1813.txt",
+        "doc_1820.txt",
+        "doc_1818.txt",
+        "doc_1814.txt",
+        "doc_1817.txt"
+    ]
+}

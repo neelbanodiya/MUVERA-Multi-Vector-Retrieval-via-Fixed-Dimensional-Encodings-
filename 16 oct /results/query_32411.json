@@ -1,0 +1,10 @@
+{
+    "query": "Which bodies must be informed when the Commission intends to take action under this Regulation?",
+    "response": [
+        "doc_18905.txt",
+        "doc_19805.txt",
+        "doc_9144.txt",
+        "doc_3012.txt",
+        "doc_13361.txt"
+    ]
+}

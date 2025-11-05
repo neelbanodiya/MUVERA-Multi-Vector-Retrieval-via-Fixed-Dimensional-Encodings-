@@ -1,0 +1,10 @@
+{
+    "query": "Who are the two main characters involved in the adventures described in *On the Road*, as mentioned across the linked resources?",
+    "response": [
+        "doc_9232.txt",
+        "doc_17754.txt",
+        "doc_9231.txt",
+        "doc_9242.txt",
+        "doc_9228.txt"
+    ]
+}

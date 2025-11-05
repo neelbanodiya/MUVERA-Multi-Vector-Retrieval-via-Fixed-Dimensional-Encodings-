@@ -1,0 +1,10 @@
+{
+    "query": "What negative consequence is attributed to President Obama\u2019s speeches, as described in one of the linked articles?",
+    "response": [
+        "doc_337.txt",
+        "doc_16733.txt",
+        "doc_6785.txt",
+        "doc_7527.txt",
+        "doc_15670.txt"
+    ]
+}

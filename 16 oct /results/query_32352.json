@@ -1,0 +1,10 @@
+{
+    "query": "What was Bob Hope\u2019s profession, according to the passage?",
+    "response": [
+        "doc_12840.txt",
+        "doc_12734.txt",
+        "doc_12833.txt",
+        "doc_2955.txt",
+        "doc_4476.txt"
+    ]
+}

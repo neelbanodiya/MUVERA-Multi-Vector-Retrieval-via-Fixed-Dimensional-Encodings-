@@ -1,0 +1,10 @@
+{
+    "query": "What color was the team nicknamed \u201cBig Red\u201d?",
+    "response": [
+        "doc_6776.txt",
+        "doc_22639.txt",
+        "doc_6782.txt",
+        "doc_6777.txt",
+        "doc_16875.txt"
+    ]
+}

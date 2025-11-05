@@ -1,0 +1,10 @@
+{
+    "query": "What were the results of the in vitro studies conducted in REFLEX laboratories?",
+    "response": [
+        "doc_16706.txt",
+        "doc_9779.txt",
+        "doc_18227.txt",
+        "doc_18050.txt",
+        "doc_6186.txt"
+    ]
+}

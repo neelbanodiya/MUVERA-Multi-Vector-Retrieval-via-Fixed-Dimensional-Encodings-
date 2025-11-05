@@ -1,0 +1,10 @@
+{
+    "query": "What production featured flappers and a Model T?",
+    "response": [
+        "doc_5445.txt",
+        "doc_24107.txt",
+        "doc_22837.txt",
+        "doc_17152.txt",
+        "doc_6660.txt"
+    ]
+}

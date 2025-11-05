@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Adams receive a \u201cbreak\u201d?",
+    "response": [
+        "doc_10056.txt",
+        "doc_21061.txt",
+        "doc_21071.txt",
+        "doc_1395.txt",
+        "doc_19975.txt"
+    ]
+}

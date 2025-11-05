@@ -1,0 +1,10 @@
+{
+    "query": "Name at least two songs by Gloria Gaynor that are mentioned across the provided links.",
+    "response": [
+        "doc_901.txt",
+        "doc_916.txt",
+        "doc_905.txt",
+        "doc_912.txt",
+        "doc_911.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of novel is \u201cThe Big Sleep\u201d by Raymond Chandler?",
+    "response": [
+        "doc_21530.txt",
+        "doc_21534.txt",
+        "doc_21529.txt",
+        "doc_21531.txt",
+        "doc_21535.txt"
+    ]
+}

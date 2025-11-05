@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what song did Nokomis teach?",
+    "response": [
+        "doc_22492.txt",
+        "doc_22491.txt",
+        "doc_11939.txt",
+        "doc_20293.txt",
+        "doc_9988.txt"
+    ]
+}

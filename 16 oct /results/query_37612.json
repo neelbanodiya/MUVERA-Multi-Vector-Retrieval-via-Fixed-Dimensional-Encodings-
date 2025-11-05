@@ -1,0 +1,10 @@
+{
+    "query": "In what year was George Foreman stripped of his WBA title?",
+    "response": [
+        "doc_22045.txt",
+        "doc_7222.txt",
+        "doc_7236.txt",
+        "doc_7234.txt",
+        "doc_7229.txt"
+    ]
+}

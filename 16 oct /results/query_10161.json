@@ -1,0 +1,10 @@
+{
+    "query": "What actions does the passage call for regarding reports of fraud and intimidation following the Duma elections?",
+    "response": [
+        "doc_4157.txt",
+        "doc_5893.txt",
+        "doc_9144.txt",
+        "doc_22235.txt",
+        "doc_16791.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, what did Hillary Clinton state about children\u2019s role in society?",
+    "response": [
+        "doc_3586.txt",
+        "doc_14055.txt",
+        "doc_22141.txt",
+        "doc_18270.txt",
+        "doc_21998.txt"
+    ]
+}

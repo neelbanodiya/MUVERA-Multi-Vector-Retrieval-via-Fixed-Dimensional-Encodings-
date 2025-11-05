@@ -1,0 +1,10 @@
+{
+    "query": "What film did Reese Witherspoon produce, featuring Elle Woods?",
+    "response": [
+        "doc_7740.txt",
+        "doc_7739.txt",
+        "doc_5156.txt",
+        "doc_1229.txt",
+        "doc_12412.txt"
+    ]
+}

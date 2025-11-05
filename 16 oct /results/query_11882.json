@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what was the attitude prevalent during the 19th century in the United States regarding expansion?",
+    "response": [
+        "doc_18086.txt",
+        "doc_18085.txt",
+        "doc_13607.txt",
+        "doc_23012.txt",
+        "doc_2525.txt"
+    ]
+}

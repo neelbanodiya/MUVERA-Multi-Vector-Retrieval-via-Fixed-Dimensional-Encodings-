@@ -1,0 +1,10 @@
+{
+    "query": "When was the 14th Dalai Lama proclaimed the rebirth of the thirteenth Dalai Lama?",
+    "response": [
+        "doc_22702.txt",
+        "doc_22703.txt",
+        "doc_22711.txt",
+        "doc_22704.txt",
+        "doc_22705.txt"
+    ]
+}

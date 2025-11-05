@@ -1,0 +1,10 @@
+{
+    "query": "How does the tone of \u201cCoyote Steals the Blanket\u201d compare to a Roadrunner cartoon, according to one of the linked articles?",
+    "response": [
+        "doc_19205.txt",
+        "doc_19212.txt",
+        "doc_19208.txt",
+        "doc_19206.txt",
+        "doc_19215.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What specific regulation does Article 185 of Regulation (EC, Euratom) No 1605/2002 relate to?",
+    "response": [
+        "doc_61.txt",
+        "doc_7811.txt",
+        "doc_19130.txt",
+        "doc_19129.txt",
+        "doc_22186.txt"
+    ]
+}

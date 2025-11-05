@@ -1,0 +1,10 @@
+{
+    "query": "What is the distance between Easter Island and Chile?",
+    "response": [
+        "doc_14191.txt",
+        "doc_14210.txt",
+        "doc_5154.txt",
+        "doc_2241.txt",
+        "doc_15479.txt"
+    ]
+}

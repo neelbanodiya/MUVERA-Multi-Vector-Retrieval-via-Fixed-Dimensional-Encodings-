@@ -1,0 +1,10 @@
+{
+    "query": "What does the passage state is interesting \u201cnot only because it foreshadows _The Light Fantastic_\u201d?",
+    "response": [
+        "doc_9596.txt",
+        "doc_9595.txt",
+        "doc_19142.txt",
+        "doc_15890.txt",
+        "doc_11029.txt"
+    ]
+}

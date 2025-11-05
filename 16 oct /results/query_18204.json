@@ -1,0 +1,10 @@
+{
+    "query": "In what year was T.J. Merz born?",
+    "response": [
+        "doc_9898.txt",
+        "doc_21626.txt",
+        "doc_1725.txt",
+        "doc_16032.txt",
+        "doc_8371.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to multiple sources, including Robert Christgau and Johnny Ramone, what was the critical reception of the album *Road to Ruin*?",
+    "response": [
+        "doc_16701.txt",
+        "doc_24155.txt",
+        "doc_19995.txt",
+        "doc_12338.txt",
+        "doc_20897.txt"
+    ]
+}

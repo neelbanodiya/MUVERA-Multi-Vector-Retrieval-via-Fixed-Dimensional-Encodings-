@@ -1,0 +1,10 @@
+{
+    "query": "Who played Cassie in the recent revival of \u201cA Chorus Line\u201d on Broadway?",
+    "response": [
+        "doc_17108.txt",
+        "doc_13448.txt",
+        "doc_1490.txt",
+        "doc_10268.txt",
+        "doc_1971.txt"
+    ]
+}

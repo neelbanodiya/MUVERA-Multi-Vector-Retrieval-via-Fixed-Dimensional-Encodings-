@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what industry did Bandai originate from?",
+    "response": [
+        "doc_10935.txt",
+        "doc_11047.txt",
+        "doc_10076.txt",
+        "doc_400.txt",
+        "doc_15766.txt"
+    ]
+}

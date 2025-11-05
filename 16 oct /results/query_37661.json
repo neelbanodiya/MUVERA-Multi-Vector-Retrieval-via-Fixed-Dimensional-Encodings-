@@ -1,0 +1,10 @@
+{
+    "query": "Who was responsible for promoting U.S. tours for Jenny Lind in 1850?",
+    "response": [
+        "doc_22078.txt",
+        "doc_22080.txt",
+        "doc_22081.txt",
+        "doc_22082.txt",
+        "doc_22083.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the total amount of EU funding that down producers have received from the EU budget during the last five years (2004-08)?",
+    "response": [
+        "doc_1363.txt",
+        "doc_19702.txt",
+        "doc_12811.txt",
+        "doc_17540.txt",
+        "doc_7717.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which mountain is the second-highest peak in the Lower 48 United States?",
+    "response": [
+        "doc_18534.txt",
+        "doc_18552.txt",
+        "doc_18543.txt",
+        "doc_18550.txt",
+        "doc_18537.txt"
+    ]
+}

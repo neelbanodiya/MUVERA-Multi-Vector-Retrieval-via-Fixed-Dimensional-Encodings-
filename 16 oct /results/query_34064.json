@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 14, what grounds can an action relate to in the executing state?",
+    "response": [
+        "doc_19828.txt",
+        "doc_12098.txt",
+        "doc_21008.txt",
+        "doc_21023.txt",
+        "doc_21020.txt"
+    ]
+}

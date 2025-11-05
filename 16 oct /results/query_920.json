@@ -1,0 +1,10 @@
+{
+    "query": "Where was George Washington Carver born?",
+    "response": [
+        "doc_518.txt",
+        "doc_520.txt",
+        "doc_519.txt",
+        "doc_521.txt",
+        "doc_517.txt"
+    ]
+}

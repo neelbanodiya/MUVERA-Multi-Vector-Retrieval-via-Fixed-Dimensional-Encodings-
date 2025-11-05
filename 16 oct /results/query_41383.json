@@ -1,0 +1,10 @@
+{
+    "query": "What is the total number of teams across the four divisions of NCAA College Football, as mentioned in one of the articles?",
+    "response": [
+        "doc_6829.txt",
+        "doc_11257.txt",
+        "doc_11256.txt",
+        "doc_22641.txt",
+        "doc_11267.txt"
+    ]
+}

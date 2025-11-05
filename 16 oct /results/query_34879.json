@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what are some of the concerns the Commission has about the reception conditions in detention centers in Greece?",
+    "response": [
+        "doc_20320.txt",
+        "doc_11216.txt",
+        "doc_11117.txt",
+        "doc_3828.txt",
+        "doc_10500.txt"
+    ]
+}

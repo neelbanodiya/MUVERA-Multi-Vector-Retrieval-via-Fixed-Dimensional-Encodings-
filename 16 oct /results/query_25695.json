@@ -1,0 +1,10 @@
+{
+    "query": "In what state is LID: COF located?",
+    "response": [
+        "doc_4958.txt",
+        "doc_11493.txt",
+        "doc_16252.txt",
+        "doc_20161.txt",
+        "doc_19221.txt"
+    ]
+}

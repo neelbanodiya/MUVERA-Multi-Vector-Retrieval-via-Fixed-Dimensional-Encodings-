@@ -1,0 +1,10 @@
+{
+    "query": "What event led to George Washington\u2019s surrender at Fort Necessity?",
+    "response": [
+        "doc_4015.txt",
+        "doc_4016.txt",
+        "doc_4014.txt",
+        "doc_4020.txt",
+        "doc_4311.txt"
+    ]
+}

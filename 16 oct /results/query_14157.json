@@ -1,0 +1,10 @@
+{
+    "query": "Where is \u201cThe Miracle Worker\u201d drama performed each summer?",
+    "response": [
+        "doc_8217.txt",
+        "doc_13808.txt",
+        "doc_13798.txt",
+        "doc_8899.txt",
+        "doc_249.txt"
+    ]
+}

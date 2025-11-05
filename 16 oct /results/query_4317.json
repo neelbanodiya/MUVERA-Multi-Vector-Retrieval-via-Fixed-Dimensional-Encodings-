@@ -1,0 +1,10 @@
+{
+    "query": "Where is \u201cSuddenly, Last Summer\u201d being performed according to the Gambit New Orleans article?",
+    "response": [
+        "doc_7574.txt",
+        "doc_11270.txt",
+        "doc_22587.txt",
+        "doc_99.txt",
+        "doc_98.txt"
+    ]
+}

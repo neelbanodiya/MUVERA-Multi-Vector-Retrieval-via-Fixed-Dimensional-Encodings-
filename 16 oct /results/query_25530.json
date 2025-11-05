@@ -1,0 +1,10 @@
+{
+    "query": "What was the earnings ratio for female physicians compared to male physicians in the U.S.?",
+    "response": [
+        "doc_14795.txt",
+        "doc_14796.txt",
+        "doc_9118.txt",
+        "doc_14803.txt",
+        "doc_9117.txt"
+    ]
+}

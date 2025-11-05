@@ -1,0 +1,10 @@
+{
+    "query": "What types of wood are mentioned in the passage (e.g., Willow, White Ash, Sugar Maple)?",
+    "response": [
+        "doc_4222.txt",
+        "doc_4232.txt",
+        "doc_4226.txt",
+        "doc_4233.txt",
+        "doc_4227.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year was *The Godfather* released?",
+    "response": [
+        "doc_1229.txt",
+        "doc_1231.txt",
+        "doc_21311.txt",
+        "doc_10930.txt",
+        "doc_1560.txt"
+    ]
+}

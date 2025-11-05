@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the war that has begun in \u201cThe Lord of the Rings\u201d series?",
+    "response": [
+        "doc_4432.txt",
+        "doc_4431.txt",
+        "doc_207.txt",
+        "doc_15553.txt",
+        "doc_17954.txt"
+    ]
+}

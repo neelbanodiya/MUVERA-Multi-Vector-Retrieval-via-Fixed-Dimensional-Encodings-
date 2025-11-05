@@ -1,0 +1,10 @@
+{
+    "query": "What was a notable activity occurring in Mexico during the timeframe of the provided documents, as referenced in the \u201cMessagforum\u201d excerpt?",
+    "response": [
+        "doc_10216.txt",
+        "doc_21183.txt",
+        "doc_8113.txt",
+        "doc_7346.txt",
+        "doc_8357.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What role did George Walton previously hold before becoming the governor of the state?",
+    "response": [
+        "doc_10062.txt",
+        "doc_18607.txt",
+        "doc_10068.txt",
+        "doc_10065.txt",
+        "doc_10897.txt"
+    ]
+}

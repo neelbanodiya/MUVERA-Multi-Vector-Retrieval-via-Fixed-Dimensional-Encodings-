@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is a potential consequence of not getting enough Vitamin C?",
+    "response": [
+        "doc_2837.txt",
+        "doc_16415.txt",
+        "doc_24024.txt",
+        "doc_16889.txt",
+        "doc_23357.txt"
+    ]
+}

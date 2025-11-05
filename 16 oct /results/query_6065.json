@@ -1,0 +1,10 @@
+{
+    "query": "What technologies are available to the Commission in order to hold videoconferences?",
+    "response": [
+        "doc_3536.txt",
+        "doc_3427.txt",
+        "doc_6223.txt",
+        "doc_22333.txt",
+        "doc_13340.txt"
+    ]
+}

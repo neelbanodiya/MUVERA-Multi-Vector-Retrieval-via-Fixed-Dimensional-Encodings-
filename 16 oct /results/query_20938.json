@@ -1,0 +1,10 @@
+{
+    "query": "What areas of the Philippines are associated with travel warnings due to kidnapping and terrorist threats, particularly concerning the Sulu Sea region?",
+    "response": [
+        "doc_12062.txt",
+        "doc_12058.txt",
+        "doc_12060.txt",
+        "doc_12057.txt",
+        "doc_12063.txt"
+    ]
+}

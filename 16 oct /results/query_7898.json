@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Evelyn have her debut role in a film?",
+    "response": [
+        "doc_16923.txt",
+        "doc_4587.txt",
+        "doc_20960.txt",
+        "doc_13823.txt",
+        "doc_4641.txt"
+    ]
+}

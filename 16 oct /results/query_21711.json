@@ -1,0 +1,10 @@
+{
+    "query": "What does the Old Norse word \u201cvindauga\u201d mean?",
+    "response": [
+        "doc_12511.txt",
+        "doc_12509.txt",
+        "doc_9214.txt",
+        "doc_6080.txt",
+        "doc_9341.txt"
+    ]
+}

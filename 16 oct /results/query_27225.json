@@ -1,0 +1,10 @@
+{
+    "query": "Was the Commission aware that such a declaration was made?",
+    "response": [
+        "doc_1321.txt",
+        "doc_15817.txt",
+        "doc_16654.txt",
+        "doc_4502.txt",
+        "doc_17974.txt"
+    ]
+}

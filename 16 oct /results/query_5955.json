@@ -1,0 +1,10 @@
+{
+    "query": "What film is associated with the song \"Ferry Cross the Mersey\"?",
+    "response": [
+        "doc_3482.txt",
+        "doc_3483.txt",
+        "doc_3485.txt",
+        "doc_3489.txt",
+        "doc_3492.txt"
+    ]
+}

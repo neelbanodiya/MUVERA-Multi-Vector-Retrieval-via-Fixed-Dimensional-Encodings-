@@ -1,0 +1,10 @@
+{
+    "query": "Which Italian luxury brand specializes in shoes and leather goods for both men and women?",
+    "response": [
+        "doc_20931.txt",
+        "doc_20932.txt",
+        "doc_20933.txt",
+        "doc_10192.txt",
+        "doc_10137.txt"
+    ]
+}

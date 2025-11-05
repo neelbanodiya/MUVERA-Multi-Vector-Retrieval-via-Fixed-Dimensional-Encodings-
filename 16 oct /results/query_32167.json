@@ -1,0 +1,10 @@
+{
+    "query": "What is the final line of the film Casablanca, and who is credited with coming up with it?",
+    "response": [
+        "doc_18749.txt",
+        "doc_18753.txt",
+        "doc_18755.txt",
+        "doc_18762.txt",
+        "doc_18756.txt"
+    ]
+}

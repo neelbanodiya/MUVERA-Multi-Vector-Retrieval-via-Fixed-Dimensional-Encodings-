@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred in 1937 involving Amelia Earhart and her navigator?",
+    "response": [
+        "doc_5784.txt",
+        "doc_5789.txt",
+        "doc_5778.txt",
+        "doc_5785.txt",
+        "doc_5775.txt"
+    ]
+}

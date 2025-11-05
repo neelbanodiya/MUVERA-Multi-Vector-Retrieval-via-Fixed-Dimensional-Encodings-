@@ -1,0 +1,10 @@
+{
+    "query": "Is the Omni Parker House Hotel pet-friendly?",
+    "response": [
+        "doc_1612.txt",
+        "doc_1611.txt",
+        "doc_1614.txt",
+        "doc_1609.txt",
+        "doc_1610.txt"
+    ]
+}

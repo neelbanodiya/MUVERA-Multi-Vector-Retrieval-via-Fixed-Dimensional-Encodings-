@@ -1,0 +1,10 @@
+{
+    "query": "For how much was the question about the Arizona city worth?",
+    "response": [
+        "doc_22305.txt",
+        "doc_4059.txt",
+        "doc_1010.txt",
+        "doc_18911.txt",
+        "doc_3060.txt"
+    ]
+}

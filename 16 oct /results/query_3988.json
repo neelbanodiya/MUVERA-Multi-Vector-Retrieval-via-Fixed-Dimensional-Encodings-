@@ -1,0 +1,10 @@
+{
+    "query": "At what age did Jane Austen begin writing her first novel?",
+    "response": [
+        "doc_2319.txt",
+        "doc_2317.txt",
+        "doc_2326.txt",
+        "doc_2321.txt",
+        "doc_2322.txt"
+    ]
+}

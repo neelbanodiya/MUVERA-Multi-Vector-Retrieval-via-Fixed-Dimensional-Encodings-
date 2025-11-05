@@ -1,0 +1,10 @@
+{
+    "query": "At what age did Claudio Abbado make his debut as a conductor?",
+    "response": [
+        "doc_14182.txt",
+        "doc_14183.txt",
+        "doc_4447.txt",
+        "doc_14552.txt",
+        "doc_3838.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "For what award did Sheena Easton receive in 1985, related to her work on the song \u201cWe\u2019ve Got Tonight\u201d?",
+    "response": [
+        "doc_6384.txt",
+        "doc_6391.txt",
+        "doc_6392.txt",
+        "doc_6383.txt",
+        "doc_6382.txt"
+    ]
+}

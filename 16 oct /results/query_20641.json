@@ -1,0 +1,10 @@
+{
+    "query": "In what publication was Dickens\u2019s novel \u201cHard Times\u201d initially serialized?",
+    "response": [
+        "doc_11910.txt",
+        "doc_11911.txt",
+        "doc_11914.txt",
+        "doc_11909.txt",
+        "doc_11915.txt"
+    ]
+}

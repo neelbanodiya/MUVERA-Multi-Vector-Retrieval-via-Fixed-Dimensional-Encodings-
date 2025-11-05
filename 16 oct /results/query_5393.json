@@ -1,0 +1,10 @@
+{
+    "query": "From which two rivers does the Sacramento River flow before reaching the SacramentoSan Joaquin River Delta?",
+    "response": [
+        "doc_3143.txt",
+        "doc_3145.txt",
+        "doc_3147.txt",
+        "doc_3148.txt",
+        "doc_3153.txt"
+    ]
+}

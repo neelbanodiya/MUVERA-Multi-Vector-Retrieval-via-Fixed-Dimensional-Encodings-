@@ -1,0 +1,10 @@
+{
+    "query": "Which Canadian actor is primarily known for his role as Marty McFly?",
+    "response": [
+        "doc_10903.txt",
+        "doc_24097.txt",
+        "doc_4822.txt",
+        "doc_21899.txt",
+        "doc_4475.txt"
+    ]
+}

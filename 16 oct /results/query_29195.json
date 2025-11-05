@@ -1,0 +1,10 @@
+{
+    "query": "What report did the Commission recently publish regarding the European automobile industry?",
+    "response": [
+        "doc_16996.txt",
+        "doc_21797.txt",
+        "doc_16405.txt",
+        "doc_11221.txt",
+        "doc_9134.txt"
+    ]
+}

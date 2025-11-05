@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what play features a scene in Act 5, Scene 4 involving William Shakespeare\u2019s *Richard III*?",
+    "response": [
+        "doc_19420.txt",
+        "doc_19425.txt",
+        "doc_19424.txt",
+        "doc_19422.txt",
+        "doc_19430.txt"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "query": "How did the New York Jets finish the 2015 season?",
+    "response": [
+        "doc_2700.txt",
+        "doc_2702.txt",
+        "doc_2703.txt",
+        "doc_2701.txt"
+    ]
+}

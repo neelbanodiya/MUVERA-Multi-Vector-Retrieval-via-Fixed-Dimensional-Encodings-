@@ -1,0 +1,10 @@
+{
+    "query": "Where is the headquarters for the Wetland Management District located, and how far is it from Bismarck, North Dakota?",
+    "response": [
+        "doc_16252.txt",
+        "doc_16253.txt",
+        "doc_18370.txt",
+        "doc_1655.txt",
+        "doc_9608.txt"
+    ]
+}

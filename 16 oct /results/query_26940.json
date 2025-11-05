@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the ballet Apollo choreographed by George Balanchine?",
+    "response": [
+        "doc_15660.txt",
+        "doc_15658.txt",
+        "doc_15656.txt",
+        "doc_15661.txt",
+        "doc_15651.txt"
+    ]
+}

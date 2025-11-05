@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, where were Daniel and Rebecca Boone originally buried, and when were their remains moved?",
+    "response": [
+        "doc_1746.txt",
+        "doc_1745.txt",
+        "doc_1743.txt",
+        "doc_1751.txt",
+        "doc_1744.txt"
+    ]
+}

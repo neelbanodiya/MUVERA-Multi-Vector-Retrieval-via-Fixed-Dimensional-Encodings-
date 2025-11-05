@@ -1,0 +1,10 @@
+{
+    "query": "What did Arthur do to Mordred?",
+    "response": [
+        "doc_22071.txt",
+        "doc_1843.txt",
+        "doc_22072.txt",
+        "doc_1847.txt",
+        "doc_14526.txt"
+    ]
+}

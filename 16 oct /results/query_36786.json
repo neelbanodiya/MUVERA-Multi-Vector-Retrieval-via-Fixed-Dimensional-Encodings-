@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Kohlberg Kravis Roberts & Co. acquire RJR Nabisco Inc.?",
+    "response": [
+        "doc_21493.txt",
+        "doc_21496.txt",
+        "doc_21497.txt",
+        "doc_21494.txt",
+        "doc_21495.txt"
+    ]
+}

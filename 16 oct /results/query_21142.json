@@ -1,0 +1,10 @@
+{
+    "query": "According to Martha Stewart, what should you do with leftover champagne after a party?",
+    "response": [
+        "doc_12202.txt",
+        "doc_12222.txt",
+        "doc_12211.txt",
+        "doc_12215.txt",
+        "doc_19413.txt"
+    ]
+}

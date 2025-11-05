@@ -1,0 +1,9 @@
+{
+    "query": "What record did the Jets break with their six consecutive wins on the road?",
+    "response": [
+        "doc_2702.txt",
+        "doc_2703.txt",
+        "doc_2701.txt",
+        "doc_2700.txt"
+    ]
+}

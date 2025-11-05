@@ -1,0 +1,10 @@
+{
+    "query": "Which actor starred as \u201cPainless Potter\u201d in \u201cThe Paleface\u201d?",
+    "response": [
+        "doc_18484.txt",
+        "doc_15399.txt",
+        "doc_781.txt",
+        "doc_18482.txt",
+        "doc_18483.txt"
+    ]
+}

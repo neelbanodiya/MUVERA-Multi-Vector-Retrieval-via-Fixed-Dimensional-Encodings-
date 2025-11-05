@@ -1,0 +1,10 @@
+{
+    "query": "How much does a long load, such as skis, reduce the seating capacity of the XC70?",
+    "response": [
+        "doc_14949.txt",
+        "doc_8245.txt",
+        "doc_7003.txt",
+        "doc_14955.txt",
+        "doc_7005.txt"
+    ]
+}

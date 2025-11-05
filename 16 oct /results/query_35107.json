@@ -1,0 +1,10 @@
+{
+    "query": "Where was Sappho born, and what is the origin of the word \u201clesbian\u201d?",
+    "response": [
+        "doc_17901.txt",
+        "doc_5543.txt",
+        "doc_1678.txt",
+        "doc_10191.txt",
+        "doc_13869.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the Coca-Cola Bottling Company of Cape Cod originally responsible for bottling?",
+    "response": [
+        "doc_22168.txt",
+        "doc_2557.txt",
+        "doc_12645.txt",
+        "doc_3697.txt",
+        "doc_21441.txt"
+    ]
+}

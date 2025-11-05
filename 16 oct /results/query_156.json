@@ -1,0 +1,10 @@
+{
+    "query": "Who succeeded Mike Cavan as the head football coach at SMU, and what was his tenure with the team?",
+    "response": [
+        "doc_75.txt",
+        "doc_74.txt",
+        "doc_76.txt",
+        "doc_5437.txt",
+        "doc_5438.txt"
+    ]
+}

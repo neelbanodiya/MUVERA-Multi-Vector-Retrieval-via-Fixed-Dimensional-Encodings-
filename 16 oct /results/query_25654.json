@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was the purpose of Smith\u2019s 1624 historical work?",
+    "response": [
+        "doc_14862.txt",
+        "doc_20220.txt",
+        "doc_14859.txt",
+        "doc_953.txt",
+        "doc_17763.txt"
+    ]
+}

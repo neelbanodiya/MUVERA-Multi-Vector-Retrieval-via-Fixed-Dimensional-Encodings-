@@ -1,0 +1,10 @@
+{
+    "query": "In what year were the two comedies featuring Mae West and W.C. Fields filmed?",
+    "response": [
+        "doc_14394.txt",
+        "doc_14388.txt",
+        "doc_14392.txt",
+        "doc_14387.txt",
+        "doc_14396.txt"
+    ]
+}

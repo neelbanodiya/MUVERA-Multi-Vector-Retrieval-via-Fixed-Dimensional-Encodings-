@@ -1,0 +1,10 @@
+{
+    "query": "Which organization produced *Tomorrow Never Dies*?",
+    "response": [
+        "doc_17076.txt",
+        "doc_17070.txt",
+        "doc_17075.txt",
+        "doc_17067.txt",
+        "doc_17069.txt"
+    ]
+}

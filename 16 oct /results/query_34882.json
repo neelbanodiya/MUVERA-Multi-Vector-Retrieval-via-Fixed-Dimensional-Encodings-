@@ -1,0 +1,10 @@
+{
+    "query": "What year is mentioned in the quote from *The Lord of the Rings: The Fellowship of the Ring*?",
+    "response": [
+        "doc_20322.txt",
+        "doc_15553.txt",
+        "doc_20526.txt",
+        "doc_21236.txt",
+        "doc_2478.txt"
+    ]
+}

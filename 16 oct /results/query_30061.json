@@ -1,0 +1,10 @@
+{
+    "query": "What is the total amount allocated to the Lisbon Strategy in the PDB 2006?",
+    "response": [
+        "doc_17480.txt",
+        "doc_17479.txt",
+        "doc_17590.txt",
+        "doc_17490.txt",
+        "doc_17541.txt"
+    ]
+}

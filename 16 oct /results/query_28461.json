@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was a significant use of materials from the Tennessee Valley Railroad Museum in Cleveland, Tenn.?",
+    "response": [
+        "doc_16586.txt",
+        "doc_16577.txt",
+        "doc_16580.txt",
+        "doc_16582.txt",
+        "doc_16588.txt"
+    ]
+}

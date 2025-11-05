@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, how did Emily Dickinson choose to spend her Sabbath?",
+    "response": [
+        "doc_5505.txt",
+        "doc_5514.txt",
+        "doc_5507.txt",
+        "doc_5512.txt",
+        "doc_5511.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was the film \u201cArjun Reddy\u201d released?",
+    "response": [
+        "doc_10447.txt",
+        "doc_10966.txt",
+        "doc_4747.txt",
+        "doc_597.txt",
+        "doc_17141.txt"
+    ]
+}

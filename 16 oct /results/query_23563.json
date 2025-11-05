@@ -1,0 +1,10 @@
+{
+    "query": "In what city was T.S. Eliot born?",
+    "response": [
+        "doc_13663.txt",
+        "doc_3817.txt",
+        "doc_21108.txt",
+        "doc_11917.txt",
+        "doc_14748.txt"
+    ]
+}

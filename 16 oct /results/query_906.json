@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what astronomical event significantly impacted the war between the Medes and Lydians?",
+    "response": [
+        "doc_507.txt",
+        "doc_508.txt",
+        "doc_509.txt",
+        "doc_514.txt",
+        "doc_506.txt"
+    ]
+}

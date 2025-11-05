@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate size of the American buffalo compared to other animals?",
+    "response": [
+        "doc_23386.txt",
+        "doc_23382.txt",
+        "doc_23387.txt",
+        "doc_23380.txt",
+        "doc_23391.txt"
+    ]
+}

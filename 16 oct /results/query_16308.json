@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Frank Sinatra make his first appearance with the Harry James band?",
+    "response": [
+        "doc_9453.txt",
+        "doc_9466.txt",
+        "doc_9462.txt",
+        "doc_9455.txt",
+        "doc_9463.txt"
+    ]
+}

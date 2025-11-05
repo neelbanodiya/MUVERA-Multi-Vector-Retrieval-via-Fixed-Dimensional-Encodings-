@@ -1,0 +1,10 @@
+{
+    "query": "John Keats wrote an ode on dejection, and what allegorical personifications are featured within that poem?",
+    "response": [
+        "doc_21315.txt",
+        "doc_21326.txt",
+        "doc_21317.txt",
+        "doc_20536.txt",
+        "doc_10752.txt"
+    ]
+}

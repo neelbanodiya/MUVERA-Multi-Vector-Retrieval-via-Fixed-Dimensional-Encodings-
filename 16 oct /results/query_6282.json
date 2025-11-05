@@ -1,0 +1,10 @@
+{
+    "query": "What does the passage suggest about the Native Americans described in the diary?",
+    "response": [
+        "doc_15351.txt",
+        "doc_15362.txt",
+        "doc_661.txt",
+        "doc_15364.txt",
+        "doc_23896.txt"
+    ]
+}

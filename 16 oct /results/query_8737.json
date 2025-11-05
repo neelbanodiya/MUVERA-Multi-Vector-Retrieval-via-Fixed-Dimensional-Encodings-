@@ -1,0 +1,10 @@
+{
+    "query": "The passage mentions a belief about God\u2019s nature. What is the concern expressed regarding people who \u201creally love God\u201d and not understanding His true nature?",
+    "response": [
+        "doc_5041.txt",
+        "doc_5040.txt",
+        "doc_1530.txt",
+        "doc_2154.txt",
+        "doc_9446.txt"
+    ]
+}

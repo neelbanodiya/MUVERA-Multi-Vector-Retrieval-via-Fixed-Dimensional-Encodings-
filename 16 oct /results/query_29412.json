@@ -1,0 +1,10 @@
+{
+    "query": "What television competition show featured guest judges like Amber Riley, Lulu, Ashley Roberts, and Peter Kay?",
+    "response": [
+        "doc_17119.txt",
+        "doc_5207.txt",
+        "doc_17117.txt",
+        "doc_5212.txt",
+        "doc_5206.txt"
+    ]
+}

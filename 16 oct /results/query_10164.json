@@ -1,0 +1,10 @@
+{
+    "query": "What specific actions did the European Commission take to address the tight sugar supply situation?",
+    "response": [
+        "doc_5895.txt",
+        "doc_4706.txt",
+        "doc_5519.txt",
+        "doc_16162.txt",
+        "doc_19531.txt"
+    ]
+}

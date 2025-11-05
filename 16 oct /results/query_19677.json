@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission\u2019s primary goal regarding football matches with a European dimension?",
+    "response": [
+        "doc_12757.txt",
+        "doc_11364.txt",
+        "doc_24206.txt",
+        "doc_4624.txt",
+        "doc_21825.txt"
+    ]
+}

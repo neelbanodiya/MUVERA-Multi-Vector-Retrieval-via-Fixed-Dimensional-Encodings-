@@ -1,0 +1,10 @@
+{
+    "query": "Which directives are listed in Annex I as covered by Article 3(a)?",
+    "response": [
+        "doc_3020.txt",
+        "doc_3008.txt",
+        "doc_5494.txt",
+        "doc_11798.txt",
+        "doc_24034.txt"
+    ]
+}

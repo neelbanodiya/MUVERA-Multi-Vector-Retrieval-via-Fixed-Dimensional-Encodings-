@@ -1,0 +1,10 @@
+{
+    "query": "What was the original name of the area that is now New York, and to which modern town was it originally applied?",
+    "response": [
+        "doc_6607.txt",
+        "doc_2180.txt",
+        "doc_2709.txt",
+        "doc_3204.txt",
+        "doc_2708.txt"
+    ]
+}

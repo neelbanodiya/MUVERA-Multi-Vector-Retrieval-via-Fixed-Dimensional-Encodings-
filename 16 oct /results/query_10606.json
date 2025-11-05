@@ -1,0 +1,10 @@
+{
+    "query": "According to one source, what was Jean-Claude Duvalier referred to as during a specific period in the 1980s?",
+    "response": [
+        "doc_6138.txt",
+        "doc_6131.txt",
+        "doc_6132.txt",
+        "doc_6137.txt",
+        "doc_6130.txt"
+    ]
+}

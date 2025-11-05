@@ -1,0 +1,10 @@
+{
+    "query": "Besides toys, what other types of products does Bandai create, according to the provided links?",
+    "response": [
+        "doc_6148.txt",
+        "doc_9529.txt",
+        "doc_11779.txt",
+        "doc_6162.txt",
+        "doc_11562.txt"
+    ]
+}

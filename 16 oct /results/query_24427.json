@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Antonio Salieri compose his first opera, La vestale?",
+    "response": [
+        "doc_15391.txt",
+        "doc_14182.txt",
+        "doc_14183.txt",
+        "doc_14188.txt",
+        "doc_15392.txt"
+    ]
+}

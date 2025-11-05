@@ -1,0 +1,10 @@
+{
+    "query": "When did the Bill regarding seat belts become law?",
+    "response": [
+        "doc_23478.txt",
+        "doc_23477.txt",
+        "doc_11205.txt",
+        "doc_20872.txt",
+        "doc_22699.txt"
+    ]
+}

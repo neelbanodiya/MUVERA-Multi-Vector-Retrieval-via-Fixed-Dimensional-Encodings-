@@ -1,0 +1,10 @@
+{
+    "query": "Who was Louis-Napoleon Bonaparte\u2019s uncle?",
+    "response": [
+        "doc_10140.txt",
+        "doc_10148.txt",
+        "doc_10142.txt",
+        "doc_10150.txt",
+        "doc_10143.txt"
+    ]
+}

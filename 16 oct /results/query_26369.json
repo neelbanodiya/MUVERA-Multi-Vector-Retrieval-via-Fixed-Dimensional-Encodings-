@@ -1,0 +1,10 @@
+{
+    "query": "Who was named by the St Louis District Council (1918)?",
+    "response": [
+        "doc_1764.txt",
+        "doc_19971.txt",
+        "doc_3834.txt",
+        "doc_2176.txt",
+        "doc_15337.txt"
+    ]
+}

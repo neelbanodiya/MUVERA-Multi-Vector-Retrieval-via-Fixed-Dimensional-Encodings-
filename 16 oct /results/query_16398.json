@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what role does Mark Ruffalo play in a recent film?",
+    "response": [
+        "doc_16957.txt",
+        "doc_18484.txt",
+        "doc_19565.txt",
+        "doc_6074.txt",
+        "doc_18482.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of establishment is Hangar B located at the Chatham airport?",
+    "response": [
+        "doc_4959.txt",
+        "doc_4958.txt",
+        "doc_11493.txt",
+        "doc_11492.txt",
+        "doc_9961.txt"
+    ]
+}

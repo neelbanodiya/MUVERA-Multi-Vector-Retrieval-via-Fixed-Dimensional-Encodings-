@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the first book featuring Ged, as mentioned in the passage?",
+    "response": [
+        "doc_14989.txt",
+        "doc_9035.txt",
+        "doc_20548.txt",
+        "doc_22261.txt",
+        "doc_16517.txt"
+    ]
+}

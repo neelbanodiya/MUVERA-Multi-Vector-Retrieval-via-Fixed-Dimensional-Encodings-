@@ -1,0 +1,9 @@
+{
+    "query": "What name was Dewey Boulevard previously known by?",
+    "response": [
+        "doc_2618.txt",
+        "doc_2620.txt",
+        "doc_2619.txt",
+        "doc_2623.txt"
+    ]
+}

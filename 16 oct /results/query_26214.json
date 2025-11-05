@@ -1,0 +1,10 @@
+{
+    "query": "Which countries are listed as being part of the Human Development Report 2014?",
+    "response": [
+        "doc_22688.txt",
+        "doc_7865.txt",
+        "doc_9397.txt",
+        "doc_541.txt",
+        "doc_3270.txt"
+    ]
+}

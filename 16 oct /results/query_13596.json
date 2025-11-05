@@ -1,0 +1,10 @@
+{
+    "query": "Who was visiting the Union camp at Sharpsburg, Maryland when General John A. McClernand was there?",
+    "response": [
+        "doc_7929.txt",
+        "doc_190.txt",
+        "doc_202.txt",
+        "doc_22448.txt",
+        "doc_20728.txt"
+    ]
+}

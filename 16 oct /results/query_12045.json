@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of Betty Edwards\u2019s influential book?",
+    "response": [
+        "doc_15276.txt",
+        "doc_724.txt",
+        "doc_23545.txt",
+        "doc_750.txt",
+        "doc_725.txt"
+    ]
+}

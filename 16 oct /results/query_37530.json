@@ -1,0 +1,10 @@
+{
+    "query": "What kind of story does the book tell about life during the Dust Bowl?",
+    "response": [
+        "doc_21985.txt",
+        "doc_21982.txt",
+        "doc_21990.txt",
+        "doc_21989.txt",
+        "doc_21981.txt"
+    ]
+}

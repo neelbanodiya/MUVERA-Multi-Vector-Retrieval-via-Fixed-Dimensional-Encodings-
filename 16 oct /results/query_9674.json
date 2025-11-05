@@ -1,0 +1,10 @@
+{
+    "query": "Who were the co-creators of *Hill Street Blues*?",
+    "response": [
+        "doc_5598.txt",
+        "doc_5600.txt",
+        "doc_5594.txt",
+        "doc_5596.txt",
+        "doc_5597.txt"
+    ]
+}

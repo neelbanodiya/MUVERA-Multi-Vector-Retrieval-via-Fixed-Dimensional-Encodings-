@@ -1,0 +1,10 @@
+{
+    "query": "Who composed an opera based on Edgar Allan Poe\u2019s \u201cThe Fall of the House of Usher\u201d?",
+    "response": [
+        "doc_8163.txt",
+        "doc_8172.txt",
+        "doc_8162.txt",
+        "doc_8170.txt",
+        "doc_8171.txt"
+    ]
+}

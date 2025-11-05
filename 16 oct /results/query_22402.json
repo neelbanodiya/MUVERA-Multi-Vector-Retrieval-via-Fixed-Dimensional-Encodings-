@@ -1,0 +1,10 @@
+{
+    "query": "What is the proposed change to the EUR 6,500 child tax deduction ceiling, and who is responsible for this proposed change?",
+    "response": [
+        "doc_21824.txt",
+        "doc_22212.txt",
+        "doc_8795.txt",
+        "doc_22214.txt",
+        "doc_5560.txt"
+    ]
+}

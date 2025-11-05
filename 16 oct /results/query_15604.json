@@ -1,0 +1,10 @@
+{
+    "query": "Where did Jack Broome escape to?",
+    "response": [
+        "doc_7305.txt",
+        "doc_6844.txt",
+        "doc_6112.txt",
+        "doc_1898.txt",
+        "doc_9486.txt"
+    ]
+}

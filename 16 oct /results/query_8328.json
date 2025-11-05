@@ -1,0 +1,10 @@
+{
+    "query": "What two United Nations Security Council resolutions are cited as being relevant to finding a solution to the Israeli-Palestinian conflict?",
+    "response": [
+        "doc_4809.txt",
+        "doc_15139.txt",
+        "doc_5822.txt",
+        "doc_1987.txt",
+        "doc_4752.txt"
+    ]
+}

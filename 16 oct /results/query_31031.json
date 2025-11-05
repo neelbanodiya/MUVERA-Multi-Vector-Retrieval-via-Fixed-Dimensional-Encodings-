@@ -1,0 +1,10 @@
+{
+    "query": "Who played the role of Matthau\u2019s father in the film *Hanging Up*?",
+    "response": [
+        "doc_18098.txt",
+        "doc_18099.txt",
+        "doc_18105.txt",
+        "doc_18104.txt",
+        "doc_18109.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year was Todd Woodbridge born, and where was he raised?",
+    "response": [
+        "doc_5104.txt",
+        "doc_452.txt",
+        "doc_16331.txt",
+        "doc_7818.txt",
+        "doc_10956.txt"
+    ]
+}

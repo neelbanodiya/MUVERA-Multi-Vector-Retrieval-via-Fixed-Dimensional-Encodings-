@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many flights were made as part of the Berlin Airlift?",
+    "response": [
+        "doc_875.txt",
+        "doc_887.txt",
+        "doc_883.txt",
+        "doc_871.txt",
+        "doc_869.txt"
+    ]
+}

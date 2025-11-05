@@ -1,0 +1,10 @@
+{
+    "query": "Who was Marie de Medici, and what was her relationship to Catherine de' Medici?",
+    "response": [
+        "doc_23745.txt",
+        "doc_23754.txt",
+        "doc_23746.txt",
+        "doc_23757.txt",
+        "doc_23747.txt"
+    ]
+}

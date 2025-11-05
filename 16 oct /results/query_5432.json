@@ -1,0 +1,10 @@
+{
+    "query": "What is the connection between the Sacramento and San Joaquin Rivers and the San Francisco Bay?",
+    "response": [
+        "doc_3143.txt",
+        "doc_3146.txt",
+        "doc_3147.txt",
+        "doc_3148.txt",
+        "doc_3153.txt"
+    ]
+}

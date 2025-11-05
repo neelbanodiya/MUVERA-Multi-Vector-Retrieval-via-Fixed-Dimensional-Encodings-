@@ -1,0 +1,10 @@
+{
+    "query": "How can you travel from Lisbon to Lisbon using the river?",
+    "response": [
+        "doc_17646.txt",
+        "doc_17639.txt",
+        "doc_17647.txt",
+        "doc_17642.txt",
+        "doc_17640.txt"
+    ]
+}

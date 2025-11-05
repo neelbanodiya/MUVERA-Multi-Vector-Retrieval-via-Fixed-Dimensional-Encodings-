@@ -1,0 +1,10 @@
+{
+    "query": "What musical influences did Panther Burns draw upon?",
+    "response": [
+        "doc_18912.txt",
+        "doc_18913.txt",
+        "doc_16349.txt",
+        "doc_10076.txt",
+        "doc_10075.txt"
+    ]
+}

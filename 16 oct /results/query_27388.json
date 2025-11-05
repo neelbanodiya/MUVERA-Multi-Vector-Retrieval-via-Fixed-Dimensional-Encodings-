@@ -1,0 +1,10 @@
+{
+    "query": "Which countries were part of the British Empire during World War II?",
+    "response": [
+        "doc_10774.txt",
+        "doc_10775.txt",
+        "doc_15921.txt",
+        "doc_15913.txt",
+        "doc_13901.txt"
+    ]
+}

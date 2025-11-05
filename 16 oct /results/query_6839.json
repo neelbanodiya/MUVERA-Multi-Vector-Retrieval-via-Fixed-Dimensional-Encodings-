@@ -1,0 +1,10 @@
+{
+    "query": "When was *Riding the Bullet* first available as an e-book?",
+    "response": [
+        "doc_3923.txt",
+        "doc_3925.txt",
+        "doc_3924.txt",
+        "doc_19982.txt",
+        "doc_7862.txt"
+    ]
+}

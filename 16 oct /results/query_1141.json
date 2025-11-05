@@ -1,0 +1,10 @@
+{
+    "query": "What does the final line of \u201cJane Eyre\u201d state, as referenced in one of the linked articles?",
+    "response": [
+        "doc_644.txt",
+        "doc_643.txt",
+        "doc_632.txt",
+        "doc_633.txt",
+        "doc_635.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Prussia rashly take up arms against Napoleon?",
+    "response": [
+        "doc_5350.txt",
+        "doc_10145.txt",
+        "doc_19665.txt",
+        "doc_14559.txt",
+        "doc_14561.txt"
+    ]
+}

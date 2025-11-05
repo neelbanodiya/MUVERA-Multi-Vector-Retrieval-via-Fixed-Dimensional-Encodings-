@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what specific event was planned by the Black September terrorist group?",
+    "response": [
+        "doc_23357.txt",
+        "doc_397.txt",
+        "doc_19768.txt",
+        "doc_6668.txt",
+        "doc_107.txt"
+    ]
+}

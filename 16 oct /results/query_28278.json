@@ -1,0 +1,10 @@
+{
+    "query": "Which country\u2019s flag includes the St. George\u2019s Cross alongside the St. Andrew\u2019s flag?",
+    "response": [
+        "doc_2542.txt",
+        "doc_16456.txt",
+        "doc_16460.txt",
+        "doc_16448.txt",
+        "doc_8509.txt"
+    ]
+}

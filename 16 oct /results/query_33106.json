@@ -1,0 +1,10 @@
+{
+    "query": "What was the nickname of Elmer Pratt?",
+    "response": [
+        "doc_11219.txt",
+        "doc_12244.txt",
+        "doc_12233.txt",
+        "doc_12235.txt",
+        "doc_4480.txt"
+    ]
+}

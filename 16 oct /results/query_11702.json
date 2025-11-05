@@ -1,0 +1,10 @@
+{
+    "query": "What flower did the courtesan Camille consistently wear, according to Alexandre Dumas\u2019s novel *La Dame aux Cam\u00e9lias*?",
+    "response": [
+        "doc_6808.txt",
+        "doc_6811.txt",
+        "doc_6810.txt",
+        "doc_2151.txt",
+        "doc_13106.txt"
+    ]
+}

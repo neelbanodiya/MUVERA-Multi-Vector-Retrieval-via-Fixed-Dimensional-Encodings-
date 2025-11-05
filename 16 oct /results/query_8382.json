@@ -1,0 +1,10 @@
+{
+    "query": "If Hillary Clinton had to step down, who was another possible choice to replace her, as mentioned in the Heavy.com article?",
+    "response": [
+        "doc_12949.txt",
+        "doc_19598.txt",
+        "doc_18166.txt",
+        "doc_9489.txt",
+        "doc_16025.txt"
+    ]
+}

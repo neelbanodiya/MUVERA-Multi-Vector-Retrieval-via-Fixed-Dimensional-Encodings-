@@ -1,0 +1,10 @@
+{
+    "query": "What characteristic do many New World monkeys possess that aids in their locomotion?",
+    "response": [
+        "doc_21582.txt",
+        "doc_21588.txt",
+        "doc_21592.txt",
+        "doc_21581.txt",
+        "doc_21577.txt"
+    ]
+}

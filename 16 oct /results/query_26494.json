@@ -1,0 +1,10 @@
+{
+    "query": "How many times did Billy Batson flip houses, according to one person mentioned in the article?",
+    "response": [
+        "doc_7448.txt",
+        "doc_7449.txt",
+        "doc_23777.txt",
+        "doc_7435.txt",
+        "doc_23698.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the \"Excelso\" grading term in Colombia?",
+    "response": [
+        "doc_23956.txt",
+        "doc_23962.txt",
+        "doc_23961.txt",
+        "doc_20399.txt",
+        "doc_19118.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who founded the Cohen crime family, and when did it originate?",
+    "response": [
+        "doc_4275.txt",
+        "doc_4273.txt",
+        "doc_8681.txt",
+        "doc_9014.txt",
+        "doc_11984.txt"
+    ]
+}

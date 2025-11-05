@@ -1,0 +1,10 @@
+{
+    "query": "Who issued a statement condemning the acts of mass rapes in the DRC in August 2010?",
+    "response": [
+        "doc_14579.txt",
+        "doc_14580.txt",
+        "doc_10939.txt",
+        "doc_12631.txt",
+        "doc_8113.txt"
+    ]
+}

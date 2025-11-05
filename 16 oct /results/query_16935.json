@@ -1,0 +1,10 @@
+{
+    "query": "How many Tony Awards did *A Chorus Line* win?",
+    "response": [
+        "doc_9829.txt",
+        "doc_9823.txt",
+        "doc_9825.txt",
+        "doc_9831.txt",
+        "doc_9819.txt"
+    ]
+}

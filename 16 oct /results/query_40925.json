@@ -1,0 +1,10 @@
+{
+    "query": "Who is the Iranian-born American designer associated with the perfume?",
+    "response": [
+        "doc_23937.txt",
+        "doc_6729.txt",
+        "doc_22777.txt",
+        "doc_14612.txt",
+        "doc_452.txt"
+    ]
+}

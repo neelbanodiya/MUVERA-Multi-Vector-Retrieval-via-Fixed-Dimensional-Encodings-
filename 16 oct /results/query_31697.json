@@ -1,0 +1,10 @@
+{
+    "query": "What type of roles was Joe Pesci known for playing, as indicated by the links?",
+    "response": [
+        "doc_18479.txt",
+        "doc_18482.txt",
+        "doc_18484.txt",
+        "doc_18483.txt",
+        "doc_17045.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year was the \u201c1979 RSO Stage Production Inc.\u201d stamp found on the ticket keychain?",
+    "response": [
+        "doc_22625.txt",
+        "doc_15021.txt",
+        "doc_17914.txt",
+        "doc_10268.txt",
+        "doc_6042.txt"
+    ]
+}

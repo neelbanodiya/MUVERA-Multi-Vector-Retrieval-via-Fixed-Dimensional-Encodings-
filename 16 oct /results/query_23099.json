@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission\u2019s obligation concerning amendments to legislative proposals adopted by Parliament, as outlined in the text?",
+    "response": [
+        "doc_13206.txt",
+        "doc_13295.txt",
+        "doc_13355.txt",
+        "doc_13197.txt",
+        "doc_13372.txt"
+    ]
+}

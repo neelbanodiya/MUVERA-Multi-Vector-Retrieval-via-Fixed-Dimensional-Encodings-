@@ -1,0 +1,10 @@
+{
+    "query": "What three items are part of the \u201cSouthern trifecta\u201d mentioned?",
+    "response": [
+        "doc_2950.txt",
+        "doc_6335.txt",
+        "doc_10249.txt",
+        "doc_16779.txt",
+        "doc_12686.txt"
+    ]
+}

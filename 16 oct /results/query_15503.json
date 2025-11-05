@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Hart finally graduate from the television series \u201cThe Paper Chase\u201d?",
+    "response": [
+        "doc_8980.txt",
+        "doc_8993.txt",
+        "doc_6604.txt",
+        "doc_10553.txt",
+        "doc_6752.txt"
+    ]
+}

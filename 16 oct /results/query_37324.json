@@ -1,0 +1,10 @@
+{
+    "query": "What is the approved budget for the project described in the sign at Serra do Courel?",
+    "response": [
+        "doc_21852.txt",
+        "doc_132.txt",
+        "doc_12802.txt",
+        "doc_6008.txt",
+        "doc_9671.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what city and state was Dick Cheney born?",
+    "response": [
+        "doc_2562.txt",
+        "doc_2560.txt",
+        "doc_2561.txt",
+        "doc_2564.txt",
+        "doc_2563.txt"
+    ]
+}

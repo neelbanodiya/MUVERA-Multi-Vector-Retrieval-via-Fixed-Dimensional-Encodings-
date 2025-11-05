@@ -1,0 +1,10 @@
+{
+    "query": "What is the location of the New York State Capitol\u2019s Visitor Center, and which plaza does it reside within?",
+    "response": [
+        "doc_22431.txt",
+        "doc_22425.txt",
+        "doc_22432.txt",
+        "doc_22423.txt",
+        "doc_22434.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What event does the Louisville Bats host that involves dogs?",
+    "response": [
+        "doc_13009.txt",
+        "doc_7381.txt",
+        "doc_17677.txt",
+        "doc_19243.txt",
+        "doc_19392.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the television series \u201cAmerican Horror Story\u201d first broadcast?",
+    "response": [
+        "doc_6683.txt",
+        "doc_6603.txt",
+        "doc_6604.txt",
+        "doc_19703.txt",
+        "doc_5355.txt"
+    ]
+}

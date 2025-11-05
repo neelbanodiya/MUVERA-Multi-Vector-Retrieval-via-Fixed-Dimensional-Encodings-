@@ -1,0 +1,10 @@
+{
+    "query": "What position did Bill serve during his Congressional service?",
+    "response": [
+        "doc_12840.txt",
+        "doc_18368.txt",
+        "doc_19683.txt",
+        "doc_19875.txt",
+        "doc_20141.txt"
+    ]
+}

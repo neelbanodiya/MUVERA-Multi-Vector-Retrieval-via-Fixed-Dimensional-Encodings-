@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what did Jerry Garcia say about the Grateful Dead\u2019s success?",
+    "response": [
+        "doc_24108.txt",
+        "doc_15767.txt",
+        "doc_13626.txt",
+        "doc_22441.txt",
+        "doc_10963.txt"
+    ]
+}

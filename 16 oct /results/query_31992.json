@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, when did *Home Improvement* originally premiere?",
+    "response": [
+        "doc_17887.txt",
+        "doc_3700.txt",
+        "doc_10268.txt",
+        "doc_3699.txt",
+        "doc_16047.txt"
+    ]
+}

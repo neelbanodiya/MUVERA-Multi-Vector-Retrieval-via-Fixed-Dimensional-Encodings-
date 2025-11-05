@@ -1,0 +1,10 @@
+{
+    "query": "What is the Guinness World Record for the largest public fountains complex?",
+    "response": [
+        "doc_12723.txt",
+        "doc_2668.txt",
+        "doc_23073.txt",
+        "doc_14176.txt",
+        "doc_14166.txt"
+    ]
+}

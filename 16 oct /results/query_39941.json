@@ -1,0 +1,10 @@
+{
+    "query": "How large were the groups of Asian water buffalo mentioned in one of the documents?",
+    "response": [
+        "doc_13075.txt",
+        "doc_16913.txt",
+        "doc_7435.txt",
+        "doc_10157.txt",
+        "doc_6834.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What musical did Sharon Lawrence appear in, described as \u201cBroadway\u2019s Best in Los Angeles\u201d?",
+    "response": [
+        "doc_17093.txt",
+        "doc_17923.txt",
+        "doc_8899.txt",
+        "doc_7753.txt",
+        "doc_17097.txt"
+    ]
+}

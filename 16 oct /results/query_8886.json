@@ -1,0 +1,10 @@
+{
+    "query": "When was the annual report of the European Court of Auditors concerning the financial year 2000 adopted?",
+    "response": [
+        "doc_19127.txt",
+        "doc_19129.txt",
+        "doc_5134.txt",
+        "doc_12147.txt",
+        "doc_9136.txt"
+    ]
+}

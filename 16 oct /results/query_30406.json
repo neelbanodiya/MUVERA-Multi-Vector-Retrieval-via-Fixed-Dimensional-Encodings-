@@ -1,0 +1,10 @@
+{
+    "query": "What was the Mellon Institute of Industrial Research founded in?",
+    "response": [
+        "doc_9024.txt",
+        "doc_18222.txt",
+        "doc_4804.txt",
+        "doc_135.txt",
+        "doc_4805.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of the U.S. population was predicted to be 65 years or older by 2030, according to the CDC report?",
+    "response": [
+        "doc_3095.txt",
+        "doc_5222.txt",
+        "doc_15632.txt",
+        "doc_14139.txt",
+        "doc_22711.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Does Shepard support racism?",
+    "response": [
+        "doc_1478.txt",
+        "doc_1477.txt",
+        "doc_15263.txt",
+        "doc_5375.txt",
+        "doc_20931.txt"
+    ]
+}

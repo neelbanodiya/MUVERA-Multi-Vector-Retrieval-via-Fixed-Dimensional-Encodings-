@@ -1,0 +1,10 @@
+{
+    "query": "What was the Hofburg Palace formerly used as before becoming the imperial residence?",
+    "response": [
+        "doc_8634.txt",
+        "doc_8636.txt",
+        "doc_8643.txt",
+        "doc_8633.txt",
+        "doc_8648.txt"
+    ]
+}

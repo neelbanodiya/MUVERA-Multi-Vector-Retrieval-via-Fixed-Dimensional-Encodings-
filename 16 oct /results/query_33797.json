@@ -1,0 +1,10 @@
+{
+    "query": "Who gave Fremont his name?",
+    "response": [
+        "doc_14072.txt",
+        "doc_19675.txt",
+        "doc_11822.txt",
+        "doc_21704.txt",
+        "doc_15616.txt"
+    ]
+}

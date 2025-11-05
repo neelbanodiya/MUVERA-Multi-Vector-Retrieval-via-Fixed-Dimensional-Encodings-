@@ -1,0 +1,10 @@
+{
+    "query": "In what year did York become the capital of Upper Canada?",
+    "response": [
+        "doc_10050.txt",
+        "doc_10049.txt",
+        "doc_10051.txt",
+        "doc_2716.txt",
+        "doc_10052.txt"
+    ]
+}

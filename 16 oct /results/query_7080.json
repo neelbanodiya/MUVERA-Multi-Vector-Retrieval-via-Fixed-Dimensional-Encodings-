@@ -1,0 +1,10 @@
+{
+    "query": "What items were sold along with the Capri villa?",
+    "response": [
+        "doc_11548.txt",
+        "doc_14667.txt",
+        "doc_21608.txt",
+        "doc_8818.txt",
+        "doc_9316.txt"
+    ]
+}

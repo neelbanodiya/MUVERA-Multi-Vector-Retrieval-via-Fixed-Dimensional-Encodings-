@@ -1,0 +1,10 @@
+{
+    "query": "What was the name John Smith gave to a particular region?",
+    "response": [
+        "doc_1764.txt",
+        "doc_21704.txt",
+        "doc_14863.txt",
+        "doc_851.txt",
+        "doc_12830.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How long has the legend of the Loch Ness Monster been around?",
+    "response": [
+        "doc_370.txt",
+        "doc_376.txt",
+        "doc_371.txt",
+        "doc_369.txt",
+        "doc_372.txt"
+    ]
+}

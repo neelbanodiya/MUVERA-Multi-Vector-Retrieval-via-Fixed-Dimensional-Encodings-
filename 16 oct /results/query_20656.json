@@ -1,0 +1,10 @@
+{
+    "query": "In what magazine did Dickens publish \u201cBarnaby Rudge\u201d?",
+    "response": [
+        "doc_11915.txt",
+        "doc_11914.txt",
+        "doc_11910.txt",
+        "doc_11911.txt",
+        "doc_8336.txt"
+    ]
+}

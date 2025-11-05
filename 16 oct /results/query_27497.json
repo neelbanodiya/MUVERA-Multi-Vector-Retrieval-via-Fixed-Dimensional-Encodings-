@@ -1,0 +1,10 @@
+{
+    "query": "According to the New York State Unified Court System, what is the definition of an \u201cAffidavit\u201d?",
+    "response": [
+        "doc_15978.txt",
+        "doc_15981.txt",
+        "doc_15984.txt",
+        "doc_15994.txt",
+        "doc_15990.txt"
+    ]
+}

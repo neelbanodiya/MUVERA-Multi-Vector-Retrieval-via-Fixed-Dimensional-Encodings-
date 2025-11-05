@@ -1,0 +1,10 @@
+{
+    "query": "Who was speaker of the House during Newt Gingrich\u2019s time in office?",
+    "response": [
+        "doc_5970.txt",
+        "doc_5966.txt",
+        "doc_5972.txt",
+        "doc_1925.txt",
+        "doc_5965.txt"
+    ]
+}

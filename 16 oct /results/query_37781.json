@@ -1,0 +1,10 @@
+{
+    "query": "What was the full Mongolian name of Kublai Khan?",
+    "response": [
+        "doc_12344.txt",
+        "doc_12343.txt",
+        "doc_22153.txt",
+        "doc_22154.txt",
+        "doc_4793.txt"
+    ]
+}

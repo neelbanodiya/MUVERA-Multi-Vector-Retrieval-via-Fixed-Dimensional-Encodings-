@@ -1,0 +1,10 @@
+{
+    "query": "What is Pam\u2019s preference regarding milk consumption?",
+    "response": [
+        "doc_1322.txt",
+        "doc_5503.txt",
+        "doc_22225.txt",
+        "doc_15598.txt",
+        "doc_1321.txt"
+    ]
+}

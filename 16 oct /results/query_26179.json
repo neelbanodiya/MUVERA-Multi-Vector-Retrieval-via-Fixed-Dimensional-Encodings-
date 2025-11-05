@@ -1,0 +1,10 @@
+{
+    "query": "Which cities and provinces are listed as tourist destinations in Vietnam, including Can Tho and Dong Thap?",
+    "response": [
+        "doc_15218.txt",
+        "doc_66.txt",
+        "doc_15217.txt",
+        "doc_15212.txt",
+        "doc_10432.txt"
+    ]
+}

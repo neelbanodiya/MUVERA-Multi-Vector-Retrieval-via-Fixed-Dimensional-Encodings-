@@ -1,0 +1,10 @@
+{
+    "query": "Besides the Alka-Seltzer commercial, what other achievement was Bruce Jenner recognized for in 1980?",
+    "response": [
+        "doc_19110.txt",
+        "doc_19108.txt",
+        "doc_19109.txt",
+        "doc_6336.txt",
+        "doc_11551.txt"
+    ]
+}

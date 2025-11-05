@@ -1,0 +1,10 @@
+{
+    "query": "Which European countries experienced higher growth rates than the eurozone average?",
+    "response": [
+        "doc_19526.txt",
+        "doc_22796.txt",
+        "doc_10081.txt",
+        "doc_3654.txt",
+        "doc_19525.txt"
+    ]
+}

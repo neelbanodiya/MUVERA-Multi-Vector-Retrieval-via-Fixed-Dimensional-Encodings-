@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Emerson\u2019s essay \u201cSelf-Reliance\u201d originally written?",
+    "response": [
+        "doc_12350.txt",
+        "doc_12353.txt",
+        "doc_12354.txt",
+        "doc_12352.txt",
+        "doc_12351.txt"
+    ]
+}

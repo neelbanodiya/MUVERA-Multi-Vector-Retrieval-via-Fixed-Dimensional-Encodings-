@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was Daniel Defoe\u2019s role in the creation of *Robinson Crusoe*?",
+    "response": [
+        "doc_18451.txt",
+        "doc_18444.txt",
+        "doc_18449.txt",
+        "doc_18445.txt",
+        "doc_17755.txt"
+    ]
+}

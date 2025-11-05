@@ -1,0 +1,10 @@
+{
+    "query": "Which committee was tasked with reviewing the draft Council framework decision?",
+    "response": [
+        "doc_13217.txt",
+        "doc_13212.txt",
+        "doc_13219.txt",
+        "doc_13197.txt",
+        "doc_20825.txt"
+    ]
+}

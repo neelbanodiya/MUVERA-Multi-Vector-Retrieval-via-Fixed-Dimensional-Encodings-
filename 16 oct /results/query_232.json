@@ -1,0 +1,10 @@
+{
+    "query": "What slogan, associated with Karl Marx and Friedrich Engels, was used to mobilize workers?",
+    "response": [
+        "doc_116.txt",
+        "doc_112.txt",
+        "doc_115.txt",
+        "doc_117.txt",
+        "doc_125.txt"
+    ]
+}

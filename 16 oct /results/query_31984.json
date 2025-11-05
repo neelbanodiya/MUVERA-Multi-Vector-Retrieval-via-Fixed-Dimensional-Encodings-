@@ -1,0 +1,10 @@
+{
+    "query": "Which actor played the character Brad on \u201cHome Improvement\u201d?",
+    "response": [
+        "doc_18627.txt",
+        "doc_18629.txt",
+        "doc_18632.txt",
+        "doc_18634.txt",
+        "doc_19014.txt"
+    ]
+}

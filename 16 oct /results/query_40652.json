@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of particle emissions for the entire region are attributed to motorway traffic in North and South Tyrol?",
+    "response": [
+        "doc_23787.txt",
+        "doc_8361.txt",
+        "doc_390.txt",
+        "doc_17168.txt",
+        "doc_13570.txt"
+    ]
+}

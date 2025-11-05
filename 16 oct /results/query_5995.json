@@ -1,0 +1,10 @@
+{
+    "query": "What items do riders on Mardi Gras parade floats typically toss to the crowds?",
+    "response": [
+        "doc_3497.txt",
+        "doc_3509.txt",
+        "doc_3514.txt",
+        "doc_3510.txt",
+        "doc_3499.txt"
+    ]
+}

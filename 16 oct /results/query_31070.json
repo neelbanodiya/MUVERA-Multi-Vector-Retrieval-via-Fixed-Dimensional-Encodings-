@@ -1,0 +1,10 @@
+{
+    "query": "Since what year have annual EU-China summits been held?",
+    "response": [
+        "doc_18117.txt",
+        "doc_16787.txt",
+        "doc_18116.txt",
+        "doc_805.txt",
+        "doc_12895.txt"
+    ]
+}

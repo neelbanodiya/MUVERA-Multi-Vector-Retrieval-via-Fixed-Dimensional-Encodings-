@@ -1,0 +1,10 @@
+{
+    "query": "How many central government departments existed at the time of Union in 1910?",
+    "response": [
+        "doc_21268.txt",
+        "doc_7521.txt",
+        "doc_21273.txt",
+        "doc_21274.txt",
+        "doc_21280.txt"
+    ]
+}

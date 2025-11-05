@@ -1,0 +1,10 @@
+{
+    "query": "What has been described as \u201cirresponsible lending\u201d by European banks?",
+    "response": [
+        "doc_24177.txt",
+        "doc_22521.txt",
+        "doc_14842.txt",
+        "doc_23126.txt",
+        "doc_24184.txt"
+    ]
+}

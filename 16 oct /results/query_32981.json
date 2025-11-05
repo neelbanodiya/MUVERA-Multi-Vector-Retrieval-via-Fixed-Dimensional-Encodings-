@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what characteristics are associated with the character Wile E. Coyote?",
+    "response": [
+        "doc_19205.txt",
+        "doc_19211.txt",
+        "doc_19217.txt",
+        "doc_19207.txt",
+        "doc_19213.txt"
+    ]
+}

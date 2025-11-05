@@ -1,0 +1,10 @@
+{
+    "query": "What song did Peter, Paul & Mary release in 1963 that was about cheering yourself up?",
+    "response": [
+        "doc_19995.txt",
+        "doc_19994.txt",
+        "doc_16034.txt",
+        "doc_11427.txt",
+        "doc_19992.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary purpose of Article 6 of the Habitats Directive?",
+    "response": [
+        "doc_17999.txt",
+        "doc_19648.txt",
+        "doc_17121.txt",
+        "doc_10425.txt",
+        "doc_2831.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what state and county is the city of Logan, Ohio located?",
+    "response": [
+        "doc_17127.txt",
+        "doc_2179.txt",
+        "doc_15881.txt",
+        "doc_23215.txt",
+        "doc_17128.txt"
+    ]
+}

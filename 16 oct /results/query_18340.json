@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of Leon Uris\u2019s novel that prompted a change in the title of *Catch-22*?",
+    "response": [
+        "doc_10615.txt",
+        "doc_10616.txt",
+        "doc_10623.txt",
+        "doc_10614.txt",
+        "doc_22244.txt"
+    ]
+}

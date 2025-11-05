@@ -1,0 +1,10 @@
+{
+    "query": "What film series is Logan Lerman known for playing the title role in?",
+    "response": [
+        "doc_24188.txt",
+        "doc_784.txt",
+        "doc_10903.txt",
+        "doc_15278.txt",
+        "doc_11495.txt"
+    ]
+}

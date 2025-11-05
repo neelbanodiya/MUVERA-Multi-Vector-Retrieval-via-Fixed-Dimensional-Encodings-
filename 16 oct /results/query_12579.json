@@ -1,0 +1,10 @@
+{
+    "query": "Who succeeded King William I as King of England?",
+    "response": [
+        "doc_7323.txt",
+        "doc_7336.txt",
+        "doc_7329.txt",
+        "doc_7333.txt",
+        "doc_7331.txt"
+    ]
+}

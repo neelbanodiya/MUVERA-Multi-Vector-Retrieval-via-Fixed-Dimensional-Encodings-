@@ -1,0 +1,10 @@
+{
+    "query": "According to one passage, what does Odie's favorite dish involve?",
+    "response": [
+        "doc_12202.txt",
+        "doc_6359.txt",
+        "doc_22131.txt",
+        "doc_9714.txt",
+        "doc_9720.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What television show featured William Shatner as Denny Crane?",
+    "response": [
+        "doc_15116.txt",
+        "doc_15111.txt",
+        "doc_15113.txt",
+        "doc_15119.txt",
+        "doc_15110.txt"
+    ]
+}

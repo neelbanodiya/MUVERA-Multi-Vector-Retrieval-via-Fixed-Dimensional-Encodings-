@@ -1,0 +1,10 @@
+{
+    "query": "How many auditions were held for the role of Gavin?",
+    "response": [
+        "doc_2264.txt",
+        "doc_781.txt",
+        "doc_21391.txt",
+        "doc_17119.txt",
+        "doc_17912.txt"
+    ]
+}

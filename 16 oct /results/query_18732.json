@@ -1,0 +1,10 @@
+{
+    "query": "Which actor portrayed Diana\u2019s rival, Artemis, in the Deluxe Edition of *Wonder Woman*?",
+    "response": [
+        "doc_4644.txt",
+        "doc_19273.txt",
+        "doc_4648.txt",
+        "doc_2528.txt",
+        "doc_23040.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what recurring theme is present in many science fiction films after \u201cBrazil\u201d?",
+    "response": [
+        "doc_10030.txt",
+        "doc_16517.txt",
+        "doc_2113.txt",
+        "doc_11488.txt",
+        "doc_1580.txt"
+    ]
+}

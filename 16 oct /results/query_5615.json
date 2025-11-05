@@ -1,0 +1,10 @@
+{
+    "query": "Of the 5 African countries that border the Mediterranean, which is the largest in area?",
+    "response": [
+        "doc_3268.txt",
+        "doc_3269.txt",
+        "doc_3267.txt",
+        "doc_3279.txt",
+        "doc_3280.txt"
+    ]
+}

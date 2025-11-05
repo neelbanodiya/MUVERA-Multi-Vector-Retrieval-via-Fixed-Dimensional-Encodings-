@@ -1,0 +1,10 @@
+{
+    "query": "What titles are associated with the Egyptian goddess Isis?",
+    "response": [
+        "doc_12561.txt",
+        "doc_12558.txt",
+        "doc_12559.txt",
+        "doc_12556.txt",
+        "doc_12566.txt"
+    ]
+}

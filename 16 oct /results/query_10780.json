@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Chemical Bank install the first ATM in the U.S.?",
+    "response": [
+        "doc_6227.txt",
+        "doc_6233.txt",
+        "doc_6224.txt",
+        "doc_6238.txt",
+        "doc_6229.txt"
+    ]
+}

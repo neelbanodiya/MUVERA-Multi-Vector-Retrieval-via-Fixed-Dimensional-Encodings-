@@ -1,0 +1,10 @@
+{
+    "query": "Where did Raven and Chelsea work to earn money for a ski trip?",
+    "response": [
+        "doc_7943.txt",
+        "doc_11866.txt",
+        "doc_13104.txt",
+        "doc_6081.txt",
+        "doc_7940.txt"
+    ]
+}

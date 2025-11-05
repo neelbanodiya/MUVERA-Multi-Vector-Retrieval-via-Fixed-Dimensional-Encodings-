@@ -1,0 +1,10 @@
+{
+    "query": "What historical event occurred in Paris in 1919, involving the \u201cBig Four nations\u201d?",
+    "response": [
+        "doc_1627.txt",
+        "doc_23521.txt",
+        "doc_512.txt",
+        "doc_10145.txt",
+        "doc_397.txt"
+    ]
+}

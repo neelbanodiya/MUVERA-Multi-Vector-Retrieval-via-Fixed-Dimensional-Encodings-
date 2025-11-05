@@ -1,0 +1,10 @@
+{
+    "query": "What film is mentioned as an example of American cinema depicting terrorist efforts?",
+    "response": [
+        "doc_7767.txt",
+        "doc_18760.txt",
+        "doc_18758.txt",
+        "doc_18748.txt",
+        "doc_18773.txt"
+    ]
+}

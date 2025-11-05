@@ -1,0 +1,10 @@
+{
+    "query": "What does the Annoying Orange do in the series?",
+    "response": [
+        "doc_12721.txt",
+        "doc_12720.txt",
+        "doc_18098.txt",
+        "doc_12583.txt",
+        "doc_9411.txt"
+    ]
+}

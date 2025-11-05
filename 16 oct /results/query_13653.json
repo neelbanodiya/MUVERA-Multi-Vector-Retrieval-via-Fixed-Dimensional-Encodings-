@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Bennington Battle Monument completed?",
+    "response": [
+        "doc_7952.txt",
+        "doc_16261.txt",
+        "doc_7957.txt",
+        "doc_7961.txt",
+        "doc_7953.txt"
+    ]
+}

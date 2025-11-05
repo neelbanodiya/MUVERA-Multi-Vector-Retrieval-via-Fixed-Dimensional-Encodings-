@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of the bell in the Old North Church?",
+    "response": [
+        "doc_22811.txt",
+        "doc_22821.txt",
+        "doc_19974.txt",
+        "doc_22816.txt",
+        "doc_23318.txt"
+    ]
+}

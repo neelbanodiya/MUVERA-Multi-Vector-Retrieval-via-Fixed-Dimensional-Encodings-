@@ -1,0 +1,10 @@
+{
+    "query": "How much of the planet is represented by the \u201cCET\u201d area, as mentioned in the \u201cAustralian silliness and July temperature records\u201d article?",
+    "response": [
+        "doc_19270.txt",
+        "doc_3828.txt",
+        "doc_10335.txt",
+        "doc_16567.txt",
+        "doc_10815.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Can the Commission confirm the above information?",
+    "response": [
+        "doc_17465.txt",
+        "doc_16524.txt",
+        "doc_12485.txt",
+        "doc_15281.txt",
+        "doc_8155.txt"
+    ]
+}

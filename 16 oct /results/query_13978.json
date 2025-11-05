@@ -1,0 +1,10 @@
+{
+    "query": "Which countries are being called upon to cooperate with the DRC army to address the FDLR presence?",
+    "response": [
+        "doc_8116.txt",
+        "doc_24069.txt",
+        "doc_8115.txt",
+        "doc_8114.txt",
+        "doc_8119.txt"
+    ]
+}

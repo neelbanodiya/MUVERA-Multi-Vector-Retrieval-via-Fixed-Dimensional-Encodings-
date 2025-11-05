@@ -1,0 +1,10 @@
+{
+    "query": "On what date did Lithuania commemorate \"Bloody Sunday\"?",
+    "response": [
+        "doc_15249.txt",
+        "doc_105.txt",
+        "doc_108.txt",
+        "doc_13527.txt",
+        "doc_100.txt"
+    ]
+}

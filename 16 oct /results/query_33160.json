@@ -1,0 +1,10 @@
+{
+    "query": "What did Wile E. Coyote introduce himself with?",
+    "response": [
+        "doc_19211.txt",
+        "doc_19217.txt",
+        "doc_19208.txt",
+        "doc_19205.txt",
+        "doc_19213.txt"
+    ]
+}

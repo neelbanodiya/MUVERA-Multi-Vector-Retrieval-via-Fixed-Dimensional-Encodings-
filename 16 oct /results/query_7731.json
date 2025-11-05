@@ -1,0 +1,10 @@
+{
+    "query": "What color are the head and neck of the Andean condor?",
+    "response": [
+        "doc_4483.txt",
+        "doc_4484.txt",
+        "doc_837.txt",
+        "doc_13154.txt",
+        "doc_839.txt"
+    ]
+}

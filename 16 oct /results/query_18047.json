@@ -1,0 +1,10 @@
+{
+    "query": "Who directed the film \u201cArjun Reddy\u201d?",
+    "response": [
+        "doc_10446.txt",
+        "doc_10447.txt",
+        "doc_599.txt",
+        "doc_597.txt",
+        "doc_2964.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the description of the Naboo residents?",
+    "response": [
+        "doc_10933.txt",
+        "doc_10934.txt",
+        "doc_5304.txt",
+        "doc_10935.txt",
+        "doc_5562.txt"
+    ]
+}

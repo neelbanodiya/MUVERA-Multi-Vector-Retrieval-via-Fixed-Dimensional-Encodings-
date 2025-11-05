@@ -1,0 +1,10 @@
+{
+    "query": "Which museum in South Dakota holds the Guinness World Record for the largest teddy bear collection?",
+    "response": [
+        "doc_8507.txt",
+        "doc_8506.txt",
+        "doc_12729.txt",
+        "doc_12727.txt",
+        "doc_7960.txt"
+    ]
+}

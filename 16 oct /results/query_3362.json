@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Mario Lemieux\u2019s NHL debut take place?",
+    "response": [
+        "doc_1992.txt",
+        "doc_1990.txt",
+        "doc_1991.txt",
+        "doc_1996.txt",
+        "doc_2002.txt"
+    ]
+}

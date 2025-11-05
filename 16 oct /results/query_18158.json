@@ -1,0 +1,10 @@
+{
+    "query": "What is the Los Angeles Lakers' home city?",
+    "response": [
+        "doc_10511.txt",
+        "doc_8056.txt",
+        "doc_10512.txt",
+        "doc_8057.txt",
+        "doc_10507.txt"
+    ]
+}

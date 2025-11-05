@@ -1,0 +1,10 @@
+{
+    "query": "What type of film process was used for the western, Flaming Star, starring Elvis Presley?",
+    "response": [
+        "doc_14685.txt",
+        "doc_14258.txt",
+        "doc_8897.txt",
+        "doc_14257.txt",
+        "doc_18773.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the snippets, what was the Pope\u2019s attitude towards his friend and client who readmittingly taught the heliocentric theory?",
+    "response": [
+        "doc_16512.txt",
+        "doc_16511.txt",
+        "doc_16517.txt",
+        "doc_16519.txt",
+        "doc_16506.txt"
+    ]
+}

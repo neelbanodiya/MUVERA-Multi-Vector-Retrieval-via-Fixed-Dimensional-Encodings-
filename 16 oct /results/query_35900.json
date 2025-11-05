@@ -1,0 +1,10 @@
+{
+    "query": "Which actress received a Golden Globe for her performance in \u201cPennies From Heaven\u201d?",
+    "response": [
+        "doc_20925.txt",
+        "doc_20926.txt",
+        "doc_2263.txt",
+        "doc_4643.txt",
+        "doc_4644.txt"
+    ]
+}

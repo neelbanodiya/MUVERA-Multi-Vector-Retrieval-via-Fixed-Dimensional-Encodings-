@@ -1,0 +1,10 @@
+{
+    "query": "In what region of Greece is the village of Ekkara located?",
+    "response": [
+        "doc_16152.txt",
+        "doc_16629.txt",
+        "doc_7259.txt",
+        "doc_7260.txt",
+        "doc_8687.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was a key reason for Henry VIII seeking a divorce?",
+    "response": [
+        "doc_23551.txt",
+        "doc_23553.txt",
+        "doc_23547.txt",
+        "doc_23550.txt",
+        "doc_23556.txt"
+    ]
+}

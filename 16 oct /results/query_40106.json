@@ -1,0 +1,10 @@
+{
+    "query": "When did Volvo first introduce seat belts as standard equipment?",
+    "response": [
+        "doc_23480.txt",
+        "doc_23477.txt",
+        "doc_23481.txt",
+        "doc_23492.txt",
+        "doc_23475.txt"
+    ]
+}

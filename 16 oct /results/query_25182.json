@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the river that flows through Brussels?",
+    "response": [
+        "doc_77.txt",
+        "doc_14616.txt",
+        "doc_14621.txt",
+        "doc_14619.txt",
+        "doc_14617.txt"
+    ]
+}

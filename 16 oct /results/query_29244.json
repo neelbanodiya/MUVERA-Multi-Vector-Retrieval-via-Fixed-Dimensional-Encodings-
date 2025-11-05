@@ -1,0 +1,10 @@
+{
+    "query": "Who played Althea Leasure in *The People vs. Larry Flynt*?",
+    "response": [
+        "doc_17029.txt",
+        "doc_17027.txt",
+        "doc_17021.txt",
+        "doc_17028.txt",
+        "doc_17026.txt"
+    ]
+}

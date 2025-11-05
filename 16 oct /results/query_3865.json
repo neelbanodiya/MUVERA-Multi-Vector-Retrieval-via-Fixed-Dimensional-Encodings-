@@ -1,0 +1,10 @@
+{
+    "query": "How many volcanic cones make up Mount Kilimanjaro?",
+    "response": [
+        "doc_2273.txt",
+        "doc_2277.txt",
+        "doc_2274.txt",
+        "doc_2281.txt",
+        "doc_2278.txt"
+    ]
+}

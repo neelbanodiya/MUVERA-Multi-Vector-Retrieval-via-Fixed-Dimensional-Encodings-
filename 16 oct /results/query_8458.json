@@ -1,0 +1,10 @@
+{
+    "query": "What awards did Herman J. Mankiewicz share with Orson Welles for the film *Citizen Kane*?",
+    "response": [
+        "doc_4912.txt",
+        "doc_4914.txt",
+        "doc_4924.txt",
+        "doc_4910.txt",
+        "doc_4926.txt"
+    ]
+}

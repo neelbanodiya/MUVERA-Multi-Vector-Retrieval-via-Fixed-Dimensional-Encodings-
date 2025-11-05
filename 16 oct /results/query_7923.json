@@ -1,0 +1,10 @@
+{
+    "query": "Which international agreement is the Netherlands a contracting party to, relevant to the conservation of migratory water birds?",
+    "response": [
+        "doc_21380.txt",
+        "doc_4601.txt",
+        "doc_4602.txt",
+        "doc_20092.txt",
+        "doc_989.txt"
+    ]
+}

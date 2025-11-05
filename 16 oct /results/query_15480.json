@@ -1,0 +1,10 @@
+{
+    "query": "What colors were used in the Stroop test, according to the provided text?",
+    "response": [
+        "doc_5119.txt",
+        "doc_2950.txt",
+        "doc_792.txt",
+        "doc_11674.txt",
+        "doc_23152.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which television shows featured Jerry Mathers?",
+    "response": [
+        "doc_5207.txt",
+        "doc_18861.txt",
+        "doc_733.txt",
+        "doc_5202.txt",
+        "doc_3744.txt"
+    ]
+}

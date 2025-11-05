@@ -1,0 +1,10 @@
+{
+    "query": "What is the religious significance of All Hallows Eve, and how does it relate to All Saints\u2019 Day?",
+    "response": [
+        "doc_100.txt",
+        "doc_93.txt",
+        "doc_98.txt",
+        "doc_107.txt",
+        "doc_95.txt"
+    ]
+}

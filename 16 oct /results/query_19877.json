@@ -1,0 +1,10 @@
+{
+    "query": "What item did Trudeau habitually wear in his lapel during his announcement?",
+    "response": [
+        "doc_11467.txt",
+        "doc_11469.txt",
+        "doc_11468.txt",
+        "doc_21255.txt",
+        "doc_15426.txt"
+    ]
+}

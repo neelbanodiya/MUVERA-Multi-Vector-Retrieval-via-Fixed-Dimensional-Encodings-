@@ -1,0 +1,10 @@
+{
+    "query": "What is Jack doing at the beginning of the passage?",
+    "response": [
+        "doc_18748.txt",
+        "doc_23558.txt",
+        "doc_21379.txt",
+        "doc_638.txt",
+        "doc_13334.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What did Patrick Henry ask the \u201cgentlemen, sir,\u201d regarding a \u201cmartial array\u201d?",
+    "response": [
+        "doc_340.txt",
+        "doc_341.txt",
+        "doc_342.txt",
+        "doc_338.txt",
+        "doc_336.txt"
+    ]
+}

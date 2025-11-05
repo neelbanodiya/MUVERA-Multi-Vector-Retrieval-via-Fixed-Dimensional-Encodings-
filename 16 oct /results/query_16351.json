@@ -1,0 +1,10 @@
+{
+    "query": "What ceremony was taking place in Bavaria on the same day as Liszt\u2019s birthday?",
+    "response": [
+        "doc_14561.txt",
+        "doc_14550.txt",
+        "doc_10194.txt",
+        "doc_14562.txt",
+        "doc_8642.txt"
+    ]
+}

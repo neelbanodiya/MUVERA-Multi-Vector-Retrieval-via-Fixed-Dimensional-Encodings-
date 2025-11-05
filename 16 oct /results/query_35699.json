@@ -1,0 +1,10 @@
+{
+    "query": "What agreements, besides the Interim Agreement and SAA, are referenced in relation to the adoption procedures outlined in the text?",
+    "response": [
+        "doc_13384.txt",
+        "doc_20751.txt",
+        "doc_20752.txt",
+        "doc_13372.txt",
+        "doc_17364.txt"
+    ]
+}

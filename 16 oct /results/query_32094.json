@@ -1,0 +1,10 @@
+{
+    "query": "What colors are prominently featured in the Ethiopian tricolor flag?",
+    "response": [
+        "doc_18702.txt",
+        "doc_18703.txt",
+        "doc_18710.txt",
+        "doc_18704.txt",
+        "doc_18706.txt"
+    ]
+}

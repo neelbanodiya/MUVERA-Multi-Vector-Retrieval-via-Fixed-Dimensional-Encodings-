@@ -1,0 +1,10 @@
+{
+    "query": "What specific area of research should not be a task for the Agency, according to the justification provided?",
+    "response": [
+        "doc_23626.txt",
+        "doc_23627.txt",
+        "doc_8135.txt",
+        "doc_23617.txt",
+        "doc_23644.txt"
+    ]
+}

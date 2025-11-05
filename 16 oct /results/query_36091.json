@@ -1,0 +1,10 @@
+{
+    "query": "What was the headline from Ephemeris on March 29, 2007?",
+    "response": [
+        "doc_19854.txt",
+        "doc_16146.txt",
+        "doc_21368.txt",
+        "doc_9515.txt",
+        "doc_1328.txt"
+    ]
+}

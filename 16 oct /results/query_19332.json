@@ -1,0 +1,10 @@
+{
+    "query": "What is the Wadsworth Atheneum?",
+    "response": [
+        "doc_11197.txt",
+        "doc_11202.txt",
+        "doc_11201.txt",
+        "doc_11203.txt",
+        "doc_11199.txt"
+    ]
+}

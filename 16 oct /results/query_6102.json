@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the Samuel Barber orchestral work mentioned in the Conspirare article?",
+    "response": [
+        "doc_14550.txt",
+        "doc_16780.txt",
+        "doc_12713.txt",
+        "doc_5252.txt",
+        "doc_3840.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what country did Anton Chekhov spend a significant portion of his life, and what was a notable event occurring in that country during that time?",
+    "response": [
+        "doc_3307.txt",
+        "doc_3306.txt",
+        "doc_3305.txt",
+        "doc_22461.txt",
+        "doc_13833.txt"
+    ]
+}

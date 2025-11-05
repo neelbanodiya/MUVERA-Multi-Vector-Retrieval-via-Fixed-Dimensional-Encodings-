@@ -1,0 +1,10 @@
+{
+    "query": "With whom did Jim McGuinn meet in Los Angeles?",
+    "response": [
+        "doc_9003.txt",
+        "doc_12518.txt",
+        "doc_10861.txt",
+        "doc_22804.txt",
+        "doc_18850.txt"
+    ]
+}

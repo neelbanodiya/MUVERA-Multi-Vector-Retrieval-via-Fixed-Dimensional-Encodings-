@@ -1,0 +1,10 @@
+{
+    "query": "How many countries have won a medal at every Winter Olympic Games?",
+    "response": [
+        "doc_15512.txt",
+        "doc_15521.txt",
+        "doc_24158.txt",
+        "doc_15516.txt",
+        "doc_15509.txt"
+    ]
+}

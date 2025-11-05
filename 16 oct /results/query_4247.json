@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Donald Trump inaugurated as the 45th President of the United States?",
+    "response": [
+        "doc_2475.txt",
+        "doc_7305.txt",
+        "doc_10670.txt",
+        "doc_3807.txt",
+        "doc_3569.txt"
+    ]
+}

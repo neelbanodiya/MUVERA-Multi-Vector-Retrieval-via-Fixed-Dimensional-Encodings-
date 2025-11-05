@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Chuquicamata copper mine located?",
+    "response": [
+        "doc_5142.txt",
+        "doc_5147.txt",
+        "doc_5144.txt",
+        "doc_5153.txt",
+        "doc_5143.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What report is Eva Joly presenting?",
+    "response": [
+        "doc_19290.txt",
+        "doc_2050.txt",
+        "doc_1144.txt",
+        "doc_20753.txt",
+        "doc_20751.txt"
+    ]
+}

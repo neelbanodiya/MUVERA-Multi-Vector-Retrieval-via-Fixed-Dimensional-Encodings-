@@ -1,0 +1,10 @@
+{
+    "query": "What type of geological feature was Mount Mazama before its eruption?",
+    "response": [
+        "doc_3323.txt",
+        "doc_2281.txt",
+        "doc_2273.txt",
+        "doc_2274.txt",
+        "doc_8622.txt"
+    ]
+}

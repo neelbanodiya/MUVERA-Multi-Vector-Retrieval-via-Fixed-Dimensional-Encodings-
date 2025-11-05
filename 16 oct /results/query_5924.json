@@ -1,0 +1,10 @@
+{
+    "query": "What classes of animals are included within the class Amphibia?",
+    "response": [
+        "doc_3460.txt",
+        "doc_3453.txt",
+        "doc_3466.txt",
+        "doc_3456.txt",
+        "doc_3467.txt"
+    ]
+}

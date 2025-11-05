@@ -1,0 +1,10 @@
+{
+    "query": "What is the land area of Antigua and Barbuda?",
+    "response": [
+        "doc_4419.txt",
+        "doc_4410.txt",
+        "doc_4418.txt",
+        "doc_4411.txt",
+        "doc_4425.txt"
+    ]
+}

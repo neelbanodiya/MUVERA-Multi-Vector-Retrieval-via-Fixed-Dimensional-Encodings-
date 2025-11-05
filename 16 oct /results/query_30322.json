@@ -1,0 +1,10 @@
+{
+    "query": "What treaty was agreed upon by the Brussels Intergovernmental Conference in June 2004 and signed in Rome in October 2004?",
+    "response": [
+        "doc_23109.txt",
+        "doc_13159.txt",
+        "doc_15130.txt",
+        "doc_15139.txt",
+        "doc_22579.txt"
+    ]
+}

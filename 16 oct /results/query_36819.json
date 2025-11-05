@@ -1,0 +1,10 @@
+{
+    "query": "Who painted portraits of Henry VIII?",
+    "response": [
+        "doc_21509.txt",
+        "doc_21512.txt",
+        "doc_21501.txt",
+        "doc_21518.txt",
+        "doc_21514.txt"
+    ]
+}

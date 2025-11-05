@@ -1,0 +1,10 @@
+{
+    "query": "According to the Wikipedia article, what is one example of a film listed that begins with the letter \u201cM\u201d?",
+    "response": [
+        "doc_11143.txt",
+        "doc_2888.txt",
+        "doc_1580.txt",
+        "doc_5323.txt",
+        "doc_11150.txt"
+    ]
+}

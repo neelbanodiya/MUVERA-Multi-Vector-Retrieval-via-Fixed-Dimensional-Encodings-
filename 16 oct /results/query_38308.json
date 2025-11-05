@@ -1,0 +1,10 @@
+{
+    "query": "Who was the father of James Hepburn, Earl of Bothwell, according to the passage?",
+    "response": [
+        "doc_22472.txt",
+        "doc_22467.txt",
+        "doc_22468.txt",
+        "doc_22469.txt",
+        "doc_22470.txt"
+    ]
+}

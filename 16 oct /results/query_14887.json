@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary collection of the museum located within the Hofburg Imperial Palace?",
+    "response": [
+        "doc_8633.txt",
+        "doc_8643.txt",
+        "doc_8636.txt",
+        "doc_8650.txt",
+        "doc_8644.txt"
+    ]
+}

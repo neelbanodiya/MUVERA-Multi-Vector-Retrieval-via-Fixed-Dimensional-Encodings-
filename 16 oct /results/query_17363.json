@@ -1,0 +1,10 @@
+{
+    "query": "What city, now known as Toronto, was captured by American forces on April 27, 1813?",
+    "response": [
+        "doc_10052.txt",
+        "doc_10049.txt",
+        "doc_10053.txt",
+        "doc_10050.txt",
+        "doc_10056.txt"
+    ]
+}

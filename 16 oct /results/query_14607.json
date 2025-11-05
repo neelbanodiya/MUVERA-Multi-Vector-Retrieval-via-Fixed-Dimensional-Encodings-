@@ -1,0 +1,10 @@
+{
+    "query": "Which city in Scotland is the third largest, and what is it known for?",
+    "response": [
+        "doc_8441.txt",
+        "doc_16450.txt",
+        "doc_3883.txt",
+        "doc_21401.txt",
+        "doc_14426.txt"
+    ]
+}

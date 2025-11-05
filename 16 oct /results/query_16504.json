@@ -1,0 +1,10 @@
+{
+    "query": "Which six ports did the Commission request the Irish authorities to transmit waste plans for?",
+    "response": [
+        "doc_9588.txt",
+        "doc_8585.txt",
+        "doc_23127.txt",
+        "doc_3496.txt",
+        "doc_4870.txt"
+    ]
+}

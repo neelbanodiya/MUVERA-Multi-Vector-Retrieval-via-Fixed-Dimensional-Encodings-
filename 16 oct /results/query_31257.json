@@ -1,0 +1,10 @@
+{
+    "query": "According to one source, what type of medium did James call a \u201cwhite crow\u201d?",
+    "response": [
+        "doc_3820.txt",
+        "doc_589.txt",
+        "doc_20129.txt",
+        "doc_8596.txt",
+        "doc_17338.txt"
+    ]
+}

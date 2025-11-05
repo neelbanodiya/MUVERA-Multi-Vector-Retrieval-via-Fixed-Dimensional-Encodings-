@@ -1,0 +1,10 @@
+{
+    "query": "What was the cause of death for Dr. Chris Barnard\u2019s brother, Abraham?",
+    "response": [
+        "doc_11088.txt",
+        "doc_16337.txt",
+        "doc_17979.txt",
+        "doc_12227.txt",
+        "doc_6111.txt"
+    ]
+}

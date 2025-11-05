@@ -1,0 +1,10 @@
+{
+    "query": "What is described as creating a Miami-like atmosphere in St. Armands?",
+    "response": [
+        "doc_5464.txt",
+        "doc_22783.txt",
+        "doc_15297.txt",
+        "doc_22782.txt",
+        "doc_14505.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Is Thor associated with any other major god, and if so, which one?",
+    "response": [
+        "doc_6090.txt",
+        "doc_6078.txt",
+        "doc_21293.txt",
+        "doc_21294.txt",
+        "doc_11521.txt"
+    ]
+}

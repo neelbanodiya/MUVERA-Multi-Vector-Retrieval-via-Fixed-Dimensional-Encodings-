@@ -1,0 +1,10 @@
+{
+    "query": "What was the record at Maine football in 2016?",
+    "response": [
+        "doc_13774.txt",
+        "doc_13775.txt",
+        "doc_8502.txt",
+        "doc_1901.txt",
+        "doc_1880.txt"
+    ]
+}

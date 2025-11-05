@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the U.S. Representative whose seat is being vacated?",
+    "response": [
+        "doc_22869.txt",
+        "doc_1926.txt",
+        "doc_1920.txt",
+        "doc_1923.txt",
+        "doc_5965.txt"
+    ]
+}

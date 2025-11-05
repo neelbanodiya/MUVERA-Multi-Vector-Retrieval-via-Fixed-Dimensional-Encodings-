@@ -1,0 +1,10 @@
+{
+    "query": "What specific budgetary measures is the committee demanding to ensure full utilization of the EU farm budget?",
+    "response": [
+        "doc_8155.txt",
+        "doc_23660.txt",
+        "doc_22334.txt",
+        "doc_13306.txt",
+        "doc_20347.txt"
+    ]
+}

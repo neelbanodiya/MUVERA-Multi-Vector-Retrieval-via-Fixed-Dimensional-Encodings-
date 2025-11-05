@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, in what country was Siddhartha Gautama born?",
+    "response": [
+        "doc_5711.txt",
+        "doc_1192.txt",
+        "doc_12973.txt",
+        "doc_1198.txt",
+        "doc_12972.txt"
+    ]
+}

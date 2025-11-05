@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what did Nelson say to Hardy regarding Lady Hamilton?",
+    "response": [
+        "doc_17980.txt",
+        "doc_17982.txt",
+        "doc_17986.txt",
+        "doc_17985.txt",
+        "doc_17987.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What job was Arthur Goldberg offered in exchange for giving up his Supreme Court seat?",
+    "response": [
+        "doc_18471.txt",
+        "doc_18464.txt",
+        "doc_18465.txt",
+        "doc_18467.txt",
+        "doc_18469.txt"
+    ]
+}

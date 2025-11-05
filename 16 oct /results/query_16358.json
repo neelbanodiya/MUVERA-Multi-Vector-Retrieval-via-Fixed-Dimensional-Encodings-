@@ -1,0 +1,10 @@
+{
+    "query": "When did Charlotte meet King Ludwig?",
+    "response": [
+        "doc_9486.txt",
+        "doc_9487.txt",
+        "doc_9476.txt",
+        "doc_9477.txt",
+        "doc_9475.txt"
+    ]
+}

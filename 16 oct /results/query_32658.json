@@ -1,0 +1,10 @@
+{
+    "query": "When did Smith graduate from the United States Military Academy?",
+    "response": [
+        "doc_14750.txt",
+        "doc_14754.txt",
+        "doc_19037.txt",
+        "doc_14752.txt",
+        "doc_14756.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of illness was being treated at Catteshall Manor?",
+    "response": [
+        "doc_3064.txt",
+        "doc_10999.txt",
+        "doc_10337.txt",
+        "doc_3091.txt",
+        "doc_1762.txt"
+    ]
+}

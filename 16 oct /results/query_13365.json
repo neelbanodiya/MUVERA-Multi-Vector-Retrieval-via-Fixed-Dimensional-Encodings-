@@ -1,0 +1,10 @@
+{
+    "query": "What television shows did Jeff Smith host?",
+    "response": [
+        "doc_7822.txt",
+        "doc_7823.txt",
+        "doc_7817.txt",
+        "doc_7826.txt",
+        "doc_7831.txt"
+    ]
+}

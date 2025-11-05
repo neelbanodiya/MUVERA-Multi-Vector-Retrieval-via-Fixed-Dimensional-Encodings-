@@ -1,0 +1,10 @@
+{
+    "query": "How many female directors have ever won the Palme d'Or at Cannes?",
+    "response": [
+        "doc_3229.txt",
+        "doc_3216.txt",
+        "doc_3233.txt",
+        "doc_3226.txt",
+        "doc_3227.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who was the Rapporteur for the report on the EU-Andean Community Association Agreement?",
+    "response": [
+        "doc_11972.txt",
+        "doc_17370.txt",
+        "doc_10289.txt",
+        "doc_9742.txt",
+        "doc_21466.txt"
+    ]
+}

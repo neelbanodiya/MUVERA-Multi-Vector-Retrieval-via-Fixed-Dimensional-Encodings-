@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is a common practice in the South Seas?",
+    "response": [
+        "doc_22161.txt",
+        "doc_12136.txt",
+        "doc_23090.txt",
+        "doc_19648.txt",
+        "doc_787.txt"
+    ]
+}

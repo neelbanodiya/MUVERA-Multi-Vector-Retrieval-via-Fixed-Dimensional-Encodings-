@@ -1,0 +1,10 @@
+{
+    "query": "Stephen Sondheim is credited with writing the music and lyrics for which musical?",
+    "response": [
+        "doc_244.txt",
+        "doc_248.txt",
+        "doc_249.txt",
+        "doc_245.txt",
+        "doc_246.txt"
+    ]
+}

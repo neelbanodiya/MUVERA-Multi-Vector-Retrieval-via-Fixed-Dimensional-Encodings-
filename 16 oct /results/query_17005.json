@@ -1,0 +1,10 @@
+{
+    "query": "What events led to the rise of the Ur dynasty?",
+    "response": [
+        "doc_20210.txt",
+        "doc_5343.txt",
+        "doc_510.txt",
+        "doc_9571.txt",
+        "doc_22397.txt"
+    ]
+}

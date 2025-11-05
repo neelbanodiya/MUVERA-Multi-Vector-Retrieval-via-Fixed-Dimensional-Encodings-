@@ -1,0 +1,10 @@
+{
+    "query": "What style of painting is exemplified by \u201cAutumn Rhythm: Number 30, 1950\u201d?",
+    "response": [
+        "doc_9063.txt",
+        "doc_9060.txt",
+        "doc_9069.txt",
+        "doc_9064.txt",
+        "doc_9068.txt"
+    ]
+}

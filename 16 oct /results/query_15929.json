@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided information, who is Dean Moriarty inspired by?",
+    "response": [
+        "doc_9244.txt",
+        "doc_14662.txt",
+        "doc_24254.txt",
+        "doc_4715.txt",
+        "doc_2177.txt"
+    ]
+}

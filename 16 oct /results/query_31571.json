@@ -1,0 +1,10 @@
+{
+    "query": "What industry is attracting more businesses to Michigan due to easier permit access?",
+    "response": [
+        "doc_16981.txt",
+        "doc_18425.txt",
+        "doc_22993.txt",
+        "doc_18120.txt",
+        "doc_4493.txt"
+    ]
+}

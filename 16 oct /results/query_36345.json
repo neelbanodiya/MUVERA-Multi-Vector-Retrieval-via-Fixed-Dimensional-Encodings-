@@ -1,0 +1,10 @@
+{
+    "query": "In what city were same-sex marriages first performed in Mexico?",
+    "response": [
+        "doc_21187.txt",
+        "doc_21186.txt",
+        "doc_4961.txt",
+        "doc_18154.txt",
+        "doc_6886.txt"
+    ]
+}

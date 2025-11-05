@@ -1,0 +1,10 @@
+{
+    "query": "What kind of musician was Jay Hawkins described as being marketed as?",
+    "response": [
+        "doc_19668.txt",
+        "doc_1785.txt",
+        "doc_18353.txt",
+        "doc_5180.txt",
+        "doc_3077.txt"
+    ]
+}

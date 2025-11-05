@@ -1,0 +1,10 @@
+{
+    "query": "In what language are the Torah and the holy books of Shinto written?",
+    "response": [
+        "doc_7135.txt",
+        "doc_7132.txt",
+        "doc_7136.txt",
+        "doc_7129.txt",
+        "doc_23850.txt"
+    ]
+}

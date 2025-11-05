@@ -1,0 +1,10 @@
+{
+    "query": "What is Canberra\u2019s population?",
+    "response": [
+        "doc_21465.txt",
+        "doc_16284.txt",
+        "doc_2259.txt",
+        "doc_8851.txt",
+        "doc_15880.txt"
+    ]
+}

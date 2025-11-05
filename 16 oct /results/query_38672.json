@@ -1,0 +1,10 @@
+{
+    "query": "What is visible from the Acropolis?",
+    "response": [
+        "doc_22657.txt",
+        "doc_18499.txt",
+        "doc_3874.txt",
+        "doc_3871.txt",
+        "doc_3878.txt"
+    ]
+}

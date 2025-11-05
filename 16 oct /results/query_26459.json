@@ -1,0 +1,10 @@
+{
+    "query": "What is the maximum percentage the European Investment Bank can charge in fees over a five-year period?",
+    "response": [
+        "doc_15388.txt",
+        "doc_22800.txt",
+        "doc_4034.txt",
+        "doc_22801.txt",
+        "doc_17252.txt"
+    ]
+}

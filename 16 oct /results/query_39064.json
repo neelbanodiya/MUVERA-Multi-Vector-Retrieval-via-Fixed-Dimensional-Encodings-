@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of 15-year-olds across Europe currently cannot read at an adequate level?",
+    "response": [
+        "doc_22858.txt",
+        "doc_19146.txt",
+        "doc_15899.txt",
+        "doc_4535.txt",
+        "doc_14470.txt"
+    ]
+}

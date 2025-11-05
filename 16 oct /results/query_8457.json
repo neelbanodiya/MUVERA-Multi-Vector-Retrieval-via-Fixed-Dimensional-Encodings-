@@ -1,0 +1,10 @@
+{
+    "query": "Which author is associated with the title \u201cNaked and the Dead\u201d?",
+    "response": [
+        "doc_1725.txt",
+        "doc_20571.txt",
+        "doc_17755.txt",
+        "doc_591.txt",
+        "doc_7862.txt"
+    ]
+}

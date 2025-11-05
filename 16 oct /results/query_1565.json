@@ -1,0 +1,10 @@
+{
+    "query": "How many tons of food and fuel were delivered during the Berlin Airlift?",
+    "response": [
+        "doc_875.txt",
+        "doc_870.txt",
+        "doc_871.txt",
+        "doc_886.txt",
+        "doc_873.txt"
+    ]
+}

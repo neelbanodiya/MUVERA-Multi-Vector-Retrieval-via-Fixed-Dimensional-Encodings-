@@ -1,0 +1,10 @@
+{
+    "query": "Which company licensed *Osomatsu-san* for distribution in North, Central, and South America?",
+    "response": [
+        "doc_17060.txt",
+        "doc_18687.txt",
+        "doc_12645.txt",
+        "doc_9777.txt",
+        "doc_17058.txt"
+    ]
+}

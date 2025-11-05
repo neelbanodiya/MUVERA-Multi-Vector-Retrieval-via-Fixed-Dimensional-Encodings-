@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, when did the *Gilmore Girls* television series originally air?",
+    "response": [
+        "doc_7181.txt",
+        "doc_9515.txt",
+        "doc_10268.txt",
+        "doc_19273.txt",
+        "doc_493.txt"
+    ]
+}

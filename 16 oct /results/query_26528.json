@@ -1,0 +1,10 @@
+{
+    "query": "What professions were represented in the Village People\u2019s music video?",
+    "response": [
+        "doc_15420.txt",
+        "doc_19272.txt",
+        "doc_17144.txt",
+        "doc_2526.txt",
+        "doc_18215.txt"
+    ]
+}

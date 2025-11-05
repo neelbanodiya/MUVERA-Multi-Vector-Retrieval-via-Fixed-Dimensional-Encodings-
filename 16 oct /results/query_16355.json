@@ -1,0 +1,10 @@
+{
+    "query": "In 1915, what happened to Flashman?",
+    "response": [
+        "doc_9486.txt",
+        "doc_15685.txt",
+        "doc_7628.txt",
+        "doc_9001.txt",
+        "doc_23766.txt"
+    ]
+}

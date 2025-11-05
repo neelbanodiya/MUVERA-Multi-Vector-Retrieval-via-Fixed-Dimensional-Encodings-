@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of the book Amelia Earhart authored?",
+    "response": [
+        "doc_6973.txt",
+        "doc_15276.txt",
+        "doc_724.txt",
+        "doc_19420.txt",
+        "doc_631.txt"
+    ]
+}

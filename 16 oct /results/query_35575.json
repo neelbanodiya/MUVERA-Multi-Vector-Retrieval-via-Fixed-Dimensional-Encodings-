@@ -1,0 +1,10 @@
+{
+    "query": "During what time period did a siege occur near Petersburg?",
+    "response": [
+        "doc_23267.txt",
+        "doc_20717.txt",
+        "doc_20725.txt",
+        "doc_4299.txt",
+        "doc_15908.txt"
+    ]
+}

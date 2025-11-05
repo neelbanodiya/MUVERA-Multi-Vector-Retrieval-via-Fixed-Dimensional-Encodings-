@@ -1,0 +1,10 @@
+{
+    "query": "What is the focus of the Pathfinder Advanced Class Guide discussed in the passage?",
+    "response": [
+        "doc_11150.txt",
+        "doc_7590.txt",
+        "doc_5378.txt",
+        "doc_17763.txt",
+        "doc_10658.txt"
+    ]
+}

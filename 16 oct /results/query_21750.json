@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was one of Franklin D. Roosevelt\u2019s actions during World War II?",
+    "response": [
+        "doc_12522.txt",
+        "doc_12534.txt",
+        "doc_12523.txt",
+        "doc_12520.txt",
+        "doc_15921.txt"
+    ]
+}

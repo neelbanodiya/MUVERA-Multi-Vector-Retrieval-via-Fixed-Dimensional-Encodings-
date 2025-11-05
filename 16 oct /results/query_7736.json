@@ -1,0 +1,10 @@
+{
+    "query": "What type of birds are mentioned as finding food in Florida\u2019s wild spaces?",
+    "response": [
+        "doc_6634.txt",
+        "doc_4491.txt",
+        "doc_849.txt",
+        "doc_848.txt",
+        "doc_13075.txt"
+    ]
+}

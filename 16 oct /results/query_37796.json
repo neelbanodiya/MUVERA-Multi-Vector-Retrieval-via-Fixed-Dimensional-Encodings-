@@ -1,0 +1,10 @@
+{
+    "query": "What specific actions does the European Parliament recommend for managing Black Sea fisheries?",
+    "response": [
+        "doc_22162.txt",
+        "doc_22165.txt",
+        "doc_22160.txt",
+        "doc_22164.txt",
+        "doc_22166.txt"
+    ]
+}

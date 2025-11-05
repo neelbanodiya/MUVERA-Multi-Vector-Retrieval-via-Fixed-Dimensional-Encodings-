@@ -1,0 +1,10 @@
+{
+    "query": "When was Boston, MA entered service?",
+    "response": [
+        "doc_12368.txt",
+        "doc_6608.txt",
+        "doc_4954.txt",
+        "doc_6607.txt",
+        "doc_16039.txt"
+    ]
+}

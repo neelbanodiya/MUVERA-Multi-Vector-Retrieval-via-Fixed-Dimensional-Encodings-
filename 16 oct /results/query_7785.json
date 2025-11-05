@@ -1,0 +1,10 @@
+{
+    "query": "In what year did John Quincy Adams serve as President of the United States?",
+    "response": [
+        "doc_10670.txt",
+        "doc_3567.txt",
+        "doc_3569.txt",
+        "doc_4523.txt",
+        "doc_11826.txt"
+    ]
+}

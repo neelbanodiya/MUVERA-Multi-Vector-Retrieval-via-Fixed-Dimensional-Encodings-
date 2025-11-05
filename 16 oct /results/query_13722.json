@@ -1,0 +1,10 @@
+{
+    "query": "At what age did Lee Strasberg enroll in the Clare Tree Major School of the Theater?",
+    "response": [
+        "doc_7987.txt",
+        "doc_7992.txt",
+        "doc_7993.txt",
+        "doc_10310.txt",
+        "doc_16937.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which international documents and treaties does the passage state Bahrain is a party to?",
+    "response": [
+        "doc_9920.txt",
+        "doc_6488.txt",
+        "doc_3063.txt",
+        "doc_15472.txt",
+        "doc_488.txt"
+    ]
+}

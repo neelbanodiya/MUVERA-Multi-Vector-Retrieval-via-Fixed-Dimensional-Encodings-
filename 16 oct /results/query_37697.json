@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the film *The Bostonians* released?",
+    "response": [
+        "doc_1231.txt",
+        "doc_15277.txt",
+        "doc_402.txt",
+        "doc_12613.txt",
+        "doc_14780.txt"
+    ]
+}

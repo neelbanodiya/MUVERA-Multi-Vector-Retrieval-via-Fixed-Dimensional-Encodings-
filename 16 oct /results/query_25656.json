@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which ancient Greek figure is associated with Aesop\u2019s Fables?",
+    "response": [
+        "doc_14864.txt",
+        "doc_10867.txt",
+        "doc_10866.txt",
+        "doc_14776.txt",
+        "doc_13954.txt"
+    ]
+}

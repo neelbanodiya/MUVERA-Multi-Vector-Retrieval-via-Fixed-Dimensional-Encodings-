@@ -1,0 +1,10 @@
+{
+    "query": "According to the Turkish newspaper Sabah, what specific areas of expertise does the new unit within the Turkish National Intelligence Agency (MIT) focus on?",
+    "response": [
+        "doc_1320.txt",
+        "doc_3702.txt",
+        "doc_6797.txt",
+        "doc_17465.txt",
+        "doc_8161.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Las Vegas hotels and casinos did Steve Wynn own, according to the text?",
+    "response": [
+        "doc_16831.txt",
+        "doc_16828.txt",
+        "doc_16826.txt",
+        "doc_16830.txt",
+        "doc_16827.txt"
+    ]
+}

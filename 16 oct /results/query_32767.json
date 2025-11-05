@@ -1,0 +1,10 @@
+{
+    "query": "What is Timothy Hutton\u2019s profession, according to the Wikipedia article about him?",
+    "response": [
+        "doc_22236.txt",
+        "doc_9785.txt",
+        "doc_3935.txt",
+        "doc_20608.txt",
+        "doc_3077.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How does Brazil rank in terms of land area compared to other countries?",
+    "response": [
+        "doc_23421.txt",
+        "doc_23425.txt",
+        "doc_23422.txt",
+        "doc_23420.txt",
+        "doc_23427.txt"
+    ]
+}

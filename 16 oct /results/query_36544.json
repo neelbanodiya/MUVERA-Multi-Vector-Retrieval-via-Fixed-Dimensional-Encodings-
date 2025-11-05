@@ -1,0 +1,10 @@
+{
+    "query": "What specific groups does the passage call on Member States to set national targets for?",
+    "response": [
+        "doc_21336.txt",
+        "doc_5287.txt",
+        "doc_22988.txt",
+        "doc_19459.txt",
+        "doc_14129.txt"
+    ]
+}

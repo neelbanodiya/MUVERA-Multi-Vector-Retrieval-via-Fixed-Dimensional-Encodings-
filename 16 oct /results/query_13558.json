@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what was Pharaoh\u2019s initial response to Moses\u2019s request for the Israelites to leave?",
+    "response": [
+        "doc_7914.txt",
+        "doc_7912.txt",
+        "doc_7920.txt",
+        "doc_7919.txt",
+        "doc_7913.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the new prince born to Queen Elizabeth?",
+    "response": [
+        "doc_9767.txt",
+        "doc_9761.txt",
+        "doc_9768.txt",
+        "doc_9758.txt",
+        "doc_7323.txt"
+    ]
+}

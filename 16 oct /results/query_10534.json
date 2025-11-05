@@ -1,0 +1,10 @@
+{
+    "query": "What is known about Odin\u2019s father, according to the text?",
+    "response": [
+        "doc_6081.txt",
+        "doc_6094.txt",
+        "doc_6085.txt",
+        "doc_6077.txt",
+        "doc_6082.txt"
+    ]
+}

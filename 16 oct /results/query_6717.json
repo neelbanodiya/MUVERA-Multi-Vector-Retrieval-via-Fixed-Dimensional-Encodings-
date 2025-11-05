@@ -1,0 +1,10 @@
+{
+    "query": "Which Super Bowl hero received a hometown parade in Vicksburg, Mississippi?",
+    "response": [
+        "doc_3856.txt",
+        "doc_3855.txt",
+        "doc_3857.txt",
+        "doc_3854.txt",
+        "doc_3853.txt"
+    ]
+}

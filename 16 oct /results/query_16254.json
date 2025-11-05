@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, who invented Trinitrotoluene (TNT)?",
+    "response": [
+        "doc_2608.txt",
+        "doc_13933.txt",
+        "doc_3969.txt",
+        "doc_6225.txt",
+        "doc_20569.txt"
+    ]
+}

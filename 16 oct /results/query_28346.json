@@ -1,0 +1,10 @@
+{
+    "query": "Is economic policy within the EU primarily focused on enhancing supply?",
+    "response": [
+        "doc_19525.txt",
+        "doc_24174.txt",
+        "doc_4750.txt",
+        "doc_19162.txt",
+        "doc_21426.txt"
+    ]
+}

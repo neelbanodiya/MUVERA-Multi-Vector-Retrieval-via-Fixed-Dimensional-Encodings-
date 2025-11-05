@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was the general reception of \u201cRocket to Russia\u201d?",
+    "response": [
+        "doc_16787.txt",
+        "doc_17968.txt",
+        "doc_18821.txt",
+        "doc_18380.txt",
+        "doc_15916.txt"
+    ]
+}

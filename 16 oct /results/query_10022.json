@@ -1,0 +1,10 @@
+{
+    "query": "What types of food and goods are mentioned as being available in Delhi?",
+    "response": [
+        "doc_21691.txt",
+        "doc_21689.txt",
+        "doc_1798.txt",
+        "doc_72.txt",
+        "doc_21700.txt"
+    ]
+}

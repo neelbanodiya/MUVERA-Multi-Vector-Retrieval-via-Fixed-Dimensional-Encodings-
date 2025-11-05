@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Phoenix Arms established?",
+    "response": [
+        "doc_19473.txt",
+        "doc_8236.txt",
+        "doc_4952.txt",
+        "doc_10884.txt",
+        "doc_4954.txt"
+    ]
+}

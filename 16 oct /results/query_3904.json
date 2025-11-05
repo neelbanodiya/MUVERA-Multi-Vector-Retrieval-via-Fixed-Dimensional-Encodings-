@@ -1,0 +1,10 @@
+{
+    "query": "What region did Marco Polo and his father and uncle travel overland to reach China?",
+    "response": [
+        "doc_2296.txt",
+        "doc_2312.txt",
+        "doc_2301.txt",
+        "doc_2302.txt",
+        "doc_2299.txt"
+    ]
+}

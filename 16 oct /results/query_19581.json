@@ -1,0 +1,10 @@
+{
+    "query": "What award did David Mitchell win in 2009, and for what performance?",
+    "response": [
+        "doc_24145.txt",
+        "doc_13633.txt",
+        "doc_129.txt",
+        "doc_130.txt",
+        "doc_12638.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which neighborhood in Manhattan is mentioned as being home to a leading Latino cultural institution?",
+    "response": [
+        "doc_13050.txt",
+        "doc_13055.txt",
+        "doc_13067.txt",
+        "doc_13060.txt",
+        "doc_13051.txt"
+    ]
+}

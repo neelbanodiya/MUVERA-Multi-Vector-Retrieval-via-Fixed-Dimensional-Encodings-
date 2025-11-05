@@ -1,0 +1,10 @@
+{
+    "query": "What did a Russian speaker likely say to indicate a woman was occupied or busy?",
+    "response": [
+        "doc_12951.txt",
+        "doc_12946.txt",
+        "doc_9213.txt",
+        "doc_9220.txt",
+        "doc_12948.txt"
+    ]
+}

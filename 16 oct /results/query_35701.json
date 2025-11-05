@@ -1,0 +1,10 @@
+{
+    "query": "According to Amendment 189, which article of Regulation (EU) No 182/2011 applies when referencing paragraph 2a?",
+    "response": [
+        "doc_20752.txt",
+        "doc_20848.txt",
+        "doc_20813.txt",
+        "doc_20750.txt",
+        "doc_20832.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Can you list at least five specific SIC rulings from the provided list?",
+    "response": [
+        "doc_2655.txt",
+        "doc_12156.txt",
+        "doc_14544.txt",
+        "doc_14134.txt",
+        "doc_21008.txt"
+    ]
+}

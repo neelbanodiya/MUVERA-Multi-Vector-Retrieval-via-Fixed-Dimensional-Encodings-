@@ -1,0 +1,10 @@
+{
+    "query": "What was the best-selling album in Indonesia, as achieved by Nike Ardilla?",
+    "response": [
+        "doc_12044.txt",
+        "doc_5370.txt",
+        "doc_21047.txt",
+        "doc_22689.txt",
+        "doc_24156.txt"
+    ]
+}

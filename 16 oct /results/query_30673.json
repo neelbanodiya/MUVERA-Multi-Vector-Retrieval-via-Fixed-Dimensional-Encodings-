@@ -1,0 +1,10 @@
+{
+    "query": "How far is the hiking path at Holmenkollen?",
+    "response": [
+        "doc_17852.txt",
+        "doc_23504.txt",
+        "doc_17853.txt",
+        "doc_17851.txt",
+        "doc_17854.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, who narrates *Treasure Island*?",
+    "response": [
+        "doc_20018.txt",
+        "doc_20011.txt",
+        "doc_20015.txt",
+        "doc_20021.txt",
+        "doc_20013.txt"
+    ]
+}

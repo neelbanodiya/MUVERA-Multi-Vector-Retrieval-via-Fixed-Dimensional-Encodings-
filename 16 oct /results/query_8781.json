@@ -1,0 +1,10 @@
+{
+    "query": "When is the event at the Fairbanks Ranch Clubhouse?",
+    "response": [
+        "doc_15437.txt",
+        "doc_12182.txt",
+        "doc_15159.txt",
+        "doc_22587.txt",
+        "doc_19447.txt"
+    ]
+}

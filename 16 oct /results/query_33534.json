@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked articles, what was a significant detail about Theodore Roosevelt\u2019s marriage?",
+    "response": [
+        "doc_19536.txt",
+        "doc_19551.txt",
+        "doc_19552.txt",
+        "doc_19537.txt",
+        "doc_19538.txt"
+    ]
+}

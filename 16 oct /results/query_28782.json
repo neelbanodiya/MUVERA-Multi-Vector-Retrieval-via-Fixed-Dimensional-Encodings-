@@ -1,0 +1,10 @@
+{
+    "query": "Where is Cheshire, England located in relation to Chester railway station?",
+    "response": [
+        "doc_16784.txt",
+        "doc_16785.txt",
+        "doc_22765.txt",
+        "doc_6115.txt",
+        "doc_6114.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is Michael Crawford\u2019s role in *Into The Woods*?",
+    "response": [
+        "doc_22321.txt",
+        "doc_1964.txt",
+        "doc_22315.txt",
+        "doc_22316.txt",
+        "doc_22746.txt"
+    ]
+}

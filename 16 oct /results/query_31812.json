@@ -1,0 +1,10 @@
+{
+    "query": "What is the elevation of Mount Elbert, the highest peak in Colorado?",
+    "response": [
+        "doc_18535.txt",
+        "doc_18552.txt",
+        "doc_18541.txt",
+        "doc_18534.txt",
+        "doc_18537.txt"
+    ]
+}

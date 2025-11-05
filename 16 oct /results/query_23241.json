@@ -1,0 +1,10 @@
+{
+    "query": "Which proposal outlines a plan for a European Parliament and Council directive establishing a Community monitoring, control and information system for maritime traffic?",
+    "response": [
+        "doc_13457.txt",
+        "doc_14343.txt",
+        "doc_10800.txt",
+        "doc_13149.txt",
+        "doc_8698.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the band doing in Tokyo?",
+    "response": [
+        "doc_20218.txt",
+        "doc_19460.txt",
+        "doc_10078.txt",
+        "doc_16349.txt",
+        "doc_16350.txt"
+    ]
+}

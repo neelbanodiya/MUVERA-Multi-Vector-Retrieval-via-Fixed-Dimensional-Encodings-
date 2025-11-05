@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is the meaning of \u201cA.F.\u201d in relation to the novel\u2019s setting?",
+    "response": [
+        "doc_8260.txt",
+        "doc_17344.txt",
+        "doc_9042.txt",
+        "doc_4400.txt",
+        "doc_2422.txt"
+    ]
+}

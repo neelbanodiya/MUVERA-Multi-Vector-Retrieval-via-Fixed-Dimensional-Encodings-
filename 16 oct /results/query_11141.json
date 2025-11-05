@@ -1,0 +1,10 @@
+{
+    "query": "What is the term Londoners use for the subway system?",
+    "response": [
+        "doc_19484.txt",
+        "doc_23031.txt",
+        "doc_21244.txt",
+        "doc_10657.txt",
+        "doc_12128.txt"
+    ]
+}

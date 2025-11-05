@@ -1,0 +1,10 @@
+{
+    "query": "What is the Brandenburg Gate considered a symbol of?",
+    "response": [
+        "doc_23818.txt",
+        "doc_23827.txt",
+        "doc_23814.txt",
+        "doc_23816.txt",
+        "doc_9297.txt"
+    ]
+}

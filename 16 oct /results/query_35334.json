@@ -1,0 +1,10 @@
+{
+    "query": "What was Jill Cypher known for creating?",
+    "response": [
+        "doc_17170.txt",
+        "doc_16749.txt",
+        "doc_8930.txt",
+        "doc_20480.txt",
+        "doc_20405.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What commercial did Jason Alexander appear in during the Super Bowl?",
+    "response": [
+        "doc_22894.txt",
+        "doc_22900.txt",
+        "doc_10808.txt",
+        "doc_14258.txt",
+        "doc_3047.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In which two countries is the region of Patagonia located?",
+    "response": [
+        "doc_8841.txt",
+        "doc_8838.txt",
+        "doc_8837.txt",
+        "doc_8842.txt",
+        "doc_8840.txt"
+    ]
+}

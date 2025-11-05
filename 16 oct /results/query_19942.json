@@ -1,0 +1,10 @@
+{
+    "query": "What weapons are Sikhs described as using, according to the passage?",
+    "response": [
+        "doc_8907.txt",
+        "doc_8901.txt",
+        "doc_8903.txt",
+        "doc_12966.txt",
+        "doc_12967.txt"
+    ]
+}

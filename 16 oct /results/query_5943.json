@@ -1,0 +1,10 @@
+{
+    "query": "Which Fleetwood Mac album produced four Top 40 singles in 1981?",
+    "response": [
+        "doc_3471.txt",
+        "doc_3473.txt",
+        "doc_3479.txt",
+        "doc_3478.txt",
+        "doc_3476.txt"
+    ]
+}

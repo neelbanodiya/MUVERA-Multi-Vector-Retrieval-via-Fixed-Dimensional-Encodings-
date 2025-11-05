@@ -1,0 +1,10 @@
+{
+    "query": "What Tony Award did the revival of *Wonderful Town* win in 2004?",
+    "response": [
+        "doc_17912.txt",
+        "doc_17918.txt",
+        "doc_17914.txt",
+        "doc_9831.txt",
+        "doc_1965.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What specific action is the passage calling for regarding Israeli military operations in Gaza?",
+    "response": [
+        "doc_5822.txt",
+        "doc_5823.txt",
+        "doc_4810.txt",
+        "doc_2065.txt",
+        "doc_2064.txt"
+    ]
+}

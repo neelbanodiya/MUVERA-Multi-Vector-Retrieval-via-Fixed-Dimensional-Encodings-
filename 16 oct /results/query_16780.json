@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what ingredients are traditionally used in a Caesar salad?",
+    "response": [
+        "doc_9713.txt",
+        "doc_9712.txt",
+        "doc_9720.txt",
+        "doc_9729.txt",
+        "doc_9714.txt"
+    ]
+}

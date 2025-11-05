@@ -1,0 +1,10 @@
+{
+    "query": "According to several sources, including Amnesty International\u2019s website, what specific issue did Amnesty International apologize to Iggy Pop for in 2014?",
+    "response": [
+        "doc_1431.txt",
+        "doc_1435.txt",
+        "doc_1437.txt",
+        "doc_1434.txt",
+        "doc_1429.txt"
+    ]
+}

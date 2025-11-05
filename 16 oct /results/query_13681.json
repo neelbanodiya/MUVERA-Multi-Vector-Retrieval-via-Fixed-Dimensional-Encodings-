@@ -1,0 +1,10 @@
+{
+    "query": "Which committee produced a report on the creation of the European Return Fund?",
+    "response": [
+        "doc_9136.txt",
+        "doc_9134.txt",
+        "doc_9139.txt",
+        "doc_3245.txt",
+        "doc_9137.txt"
+    ]
+}

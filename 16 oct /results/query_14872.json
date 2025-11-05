@@ -1,0 +1,10 @@
+{
+    "query": "What is the Hofburg Palace open daily from?",
+    "response": [
+        "doc_8642.txt",
+        "doc_8638.txt",
+        "doc_8643.txt",
+        "doc_8633.txt",
+        "doc_8648.txt"
+    ]
+}

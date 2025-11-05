@@ -1,0 +1,10 @@
+{
+    "query": "What action did the European Commission take in response to concerns about the introduction of body scanners at European airports?",
+    "response": [
+        "doc_173.txt",
+        "doc_5638.txt",
+        "doc_10520.txt",
+        "doc_15493.txt",
+        "doc_133.txt"
+    ]
+}

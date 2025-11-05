@@ -1,0 +1,10 @@
+{
+    "query": "What specific EU legislation regarding emissions should be covered by the European Common Aviation Area (ECAA) agreement?",
+    "response": [
+        "doc_23541.txt",
+        "doc_23542.txt",
+        "doc_5184.txt",
+        "doc_5449.txt",
+        "doc_11965.txt"
+    ]
+}

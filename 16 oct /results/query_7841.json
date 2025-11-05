@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, where can one find a picture of the Infanta in a blue dress?",
+    "response": [
+        "doc_8820.txt",
+        "doc_11047.txt",
+        "doc_11499.txt",
+        "doc_19454.txt",
+        "doc_21161.txt"
+    ]
+}

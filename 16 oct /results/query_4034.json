@@ -1,0 +1,10 @@
+{
+    "query": "Which baseball team had a plus-34 run differential, tied with the Royals, according to one of the articles?",
+    "response": [
+        "doc_16713.txt",
+        "doc_2807.txt",
+        "doc_12842.txt",
+        "doc_14904.txt",
+        "doc_260.txt"
+    ]
+}

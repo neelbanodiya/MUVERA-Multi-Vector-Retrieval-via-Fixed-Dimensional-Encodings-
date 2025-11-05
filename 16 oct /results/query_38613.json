@@ -1,0 +1,10 @@
+{
+    "query": "When did the Vikings receive the Purple People Eaters?",
+    "response": [
+        "doc_22632.txt",
+        "doc_22642.txt",
+        "doc_22636.txt",
+        "doc_22634.txt",
+        "doc_22640.txt"
+    ]
+}

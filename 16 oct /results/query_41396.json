@@ -1,0 +1,10 @@
+{
+    "query": "In what conference did the Cornhuskers participate?",
+    "response": [
+        "doc_1011.txt",
+        "doc_15564.txt",
+        "doc_19122.txt",
+        "doc_10525.txt",
+        "doc_19123.txt"
+    ]
+}

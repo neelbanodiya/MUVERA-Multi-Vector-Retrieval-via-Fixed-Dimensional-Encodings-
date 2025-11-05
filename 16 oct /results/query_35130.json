@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what does the Greek word \u201ckomos\u201d mean?",
+    "response": [
+        "doc_15373.txt",
+        "doc_15380.txt",
+        "doc_15371.txt",
+        "doc_12128.txt",
+        "doc_15378.txt"
+    ]
+}

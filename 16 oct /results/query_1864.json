@@ -1,0 +1,10 @@
+{
+    "query": "How does the description of a \u201cdirndl\u201d relate to the depiction of women\u2019s clothing in Dutch paintings?",
+    "response": [
+        "doc_1070.txt",
+        "doc_21616.txt",
+        "doc_1084.txt",
+        "doc_1076.txt",
+        "doc_1080.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, which aircraft type (Hurricane or Spitfire) destroyed more German aircraft in the early stages of the war?",
+    "response": [
+        "doc_12763.txt",
+        "doc_12762.txt",
+        "doc_12769.txt",
+        "doc_12764.txt",
+        "doc_12766.txt"
+    ]
+}

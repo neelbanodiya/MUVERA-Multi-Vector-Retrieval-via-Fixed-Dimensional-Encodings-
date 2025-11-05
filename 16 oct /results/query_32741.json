@@ -1,0 +1,10 @@
+{
+    "query": "How wide is Georgia?",
+    "response": [
+        "doc_17303.txt",
+        "doc_18562.txt",
+        "doc_18565.txt",
+        "doc_8535.txt",
+        "doc_18554.txt"
+    ]
+}

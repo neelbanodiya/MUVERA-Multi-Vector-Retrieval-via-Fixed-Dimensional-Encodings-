@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, when did Adelaide Crapsey establish the cinquain form?",
+    "response": [
+        "doc_16749.txt",
+        "doc_16757.txt",
+        "doc_16752.txt",
+        "doc_14707.txt",
+        "doc_628.txt"
+    ]
+}

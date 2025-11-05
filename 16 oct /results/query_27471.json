@@ -1,0 +1,10 @@
+{
+    "query": "What countries share a border with India?",
+    "response": [
+        "doc_23420.txt",
+        "doc_22969.txt",
+        "doc_23422.txt",
+        "doc_3268.txt",
+        "doc_8716.txt"
+    ]
+}

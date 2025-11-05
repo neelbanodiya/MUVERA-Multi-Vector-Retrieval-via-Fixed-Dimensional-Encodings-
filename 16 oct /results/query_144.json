@@ -1,0 +1,10 @@
+{
+    "query": "What was the capital city of Sparta?",
+    "response": [
+        "doc_5423.txt",
+        "doc_7260.txt",
+        "doc_13596.txt",
+        "doc_10127.txt",
+        "doc_19464.txt"
+    ]
+}

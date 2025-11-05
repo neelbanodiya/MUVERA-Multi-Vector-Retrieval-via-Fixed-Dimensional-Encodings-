@@ -1,0 +1,10 @@
+{
+    "query": "What was the outcome of the vote on the plan for managing the EU's borders, as detailed in the report?",
+    "response": [
+        "doc_15493.txt",
+        "doc_9742.txt",
+        "doc_1897.txt",
+        "doc_21466.txt",
+        "doc_4624.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the document, what actions did chickens exhibit in battery cages, leading to a ban in the European Union?",
+    "response": [
+        "doc_21351.txt",
+        "doc_19506.txt",
+        "doc_23244.txt",
+        "doc_17240.txt",
+        "doc_6944.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who did T.S. Eliot dedicate *The Waste Land* to?",
+    "response": [
+        "doc_13664.txt",
+        "doc_13671.txt",
+        "doc_7765.txt",
+        "doc_458.txt",
+        "doc_2177.txt"
+    ]
+}

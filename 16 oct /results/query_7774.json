@@ -1,0 +1,10 @@
+{
+    "query": "In what month did the New Port Richey Post report on Christmas Day?",
+    "response": [
+        "doc_18339.txt",
+        "doc_5212.txt",
+        "doc_18106.txt",
+        "doc_7408.txt",
+        "doc_97.txt"
+    ]
+}

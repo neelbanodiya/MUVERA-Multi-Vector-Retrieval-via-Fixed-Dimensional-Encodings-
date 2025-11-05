@@ -1,0 +1,10 @@
+{
+    "query": "When did Tokyo Disneyland open, and how was its opening received?",
+    "response": [
+        "doc_23217.txt",
+        "doc_10236.txt",
+        "doc_19244.txt",
+        "doc_11265.txt",
+        "doc_22861.txt"
+    ]
+}

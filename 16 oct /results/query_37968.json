@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, who excluded Sir Thomas Maleore/Malory from pardon?",
+    "response": [
+        "doc_22259.txt",
+        "doc_22245.txt",
+        "doc_22258.txt",
+        "doc_22257.txt",
+        "doc_22247.txt"
+    ]
+}

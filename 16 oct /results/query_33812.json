@@ -1,0 +1,10 @@
+{
+    "query": "What documents provide the EU\u2019s position on the 2011 flotilla aiming to reach Gaza?",
+    "response": [
+        "doc_19684.txt",
+        "doc_2903.txt",
+        "doc_22718.txt",
+        "doc_15817.txt",
+        "doc_15948.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What specific actions did Parliament recommend the Romanian government take regarding corruption?",
+    "response": [
+        "doc_3588.txt",
+        "doc_15249.txt",
+        "doc_4660.txt",
+        "doc_22239.txt",
+        "doc_3702.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How has the Berlin Olympic Stadium been reconstructed since 1990?",
+    "response": [
+        "doc_19243.txt",
+        "doc_3072.txt",
+        "doc_23820.txt",
+        "doc_23819.txt",
+        "doc_23821.txt"
+    ]
+}

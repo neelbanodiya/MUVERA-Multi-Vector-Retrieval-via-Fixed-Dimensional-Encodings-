@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, how were airmail routes initially handled by the U.S. Post Office?",
+    "response": [
+        "doc_11365.txt",
+        "doc_11366.txt",
+        "doc_11369.txt",
+        "doc_11380.txt",
+        "doc_11373.txt"
+    ]
+}

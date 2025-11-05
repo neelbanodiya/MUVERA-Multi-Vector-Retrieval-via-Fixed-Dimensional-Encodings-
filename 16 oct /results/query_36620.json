@@ -1,0 +1,10 @@
+{
+    "query": "What type of film was \u201cArsenic and Old Lace\u201d described as being?",
+    "response": [
+        "doc_21385.txt",
+        "doc_18749.txt",
+        "doc_90.txt",
+        "doc_323.txt",
+        "doc_7766.txt"
+    ]
+}

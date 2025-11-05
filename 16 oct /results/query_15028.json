@@ -1,0 +1,10 @@
+{
+    "query": "Who directed the documentary *Wild Man Blues*?",
+    "response": [
+        "doc_8709.txt",
+        "doc_8713.txt",
+        "doc_8710.txt",
+        "doc_8712.txt",
+        "doc_8714.txt"
+    ]
+}

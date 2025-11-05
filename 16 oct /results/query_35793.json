@@ -1,0 +1,10 @@
+{
+    "query": "What is the person planning to do after returning to Europe?",
+    "response": [
+        "doc_13334.txt",
+        "doc_19354.txt",
+        "doc_12006.txt",
+        "doc_7784.txt",
+        "doc_20448.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the electoral vote count for Wilson in 1912?",
+    "response": [
+        "doc_3807.txt",
+        "doc_13282.txt",
+        "doc_3808.txt",
+        "doc_23150.txt",
+        "doc_13270.txt"
+    ]
+}

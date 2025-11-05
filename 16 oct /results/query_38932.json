@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how far is Daytona Beach from Miami?",
+    "response": [
+        "doc_22792.txt",
+        "doc_14210.txt",
+        "doc_22790.txt",
+        "doc_4930.txt",
+        "doc_4932.txt"
+    ]
+}

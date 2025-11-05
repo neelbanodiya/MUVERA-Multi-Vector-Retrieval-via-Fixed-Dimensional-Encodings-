@@ -1,0 +1,10 @@
+{
+    "query": "According to Mary Kusler, what is her union\u2019s activity concerning the Flint water crisis?",
+    "response": [
+        "doc_10079.txt",
+        "doc_8316.txt",
+        "doc_23357.txt",
+        "doc_10834.txt",
+        "doc_5572.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What types of transportation are mentioned as options for traveling between Prague and other European cities?",
+    "response": [
+        "doc_12331.txt",
+        "doc_12333.txt",
+        "doc_12334.txt",
+        "doc_12335.txt",
+        "doc_12336.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the highest honor a Japanese citizen can receive?",
+    "response": [
+        "doc_22021.txt",
+        "doc_22010.txt",
+        "doc_22012.txt",
+        "doc_22013.txt",
+        "doc_22020.txt"
+    ]
+}

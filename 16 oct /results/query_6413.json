@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of Stephen King\u2019s production company, and what is it based on?",
+    "response": [
+        "doc_3710.txt",
+        "doc_22859.txt",
+        "doc_1560.txt",
+        "doc_20569.txt",
+        "doc_16350.txt"
+    ]
+}

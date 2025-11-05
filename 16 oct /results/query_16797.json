@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked resources, what was a reason Bill Haley and his band avoided flying?",
+    "response": [
+        "doc_10840.txt",
+        "doc_19055.txt",
+        "doc_3817.txt",
+        "doc_13989.txt",
+        "doc_2374.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is a notable characteristic of the Atacama Desert mentioned in the text?",
+    "response": [
+        "doc_1389.txt",
+        "doc_21785.txt",
+        "doc_23533.txt",
+        "doc_2277.txt",
+        "doc_5094.txt"
+    ]
+}

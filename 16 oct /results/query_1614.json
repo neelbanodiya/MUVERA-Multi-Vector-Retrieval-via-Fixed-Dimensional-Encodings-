@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which artists had songs reach number one on the charts (specifically, in the U.K. and U.S.)?",
+    "response": [
+        "doc_11674.txt",
+        "doc_5819.txt",
+        "doc_8008.txt",
+        "doc_14725.txt",
+        "doc_20896.txt"
+    ]
+}

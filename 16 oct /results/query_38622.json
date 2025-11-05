@@ -1,0 +1,10 @@
+{
+    "query": "What era did Deacon Jones play in?",
+    "response": [
+        "doc_20433.txt",
+        "doc_5391.txt",
+        "doc_22804.txt",
+        "doc_17171.txt",
+        "doc_15277.txt"
+    ]
+}

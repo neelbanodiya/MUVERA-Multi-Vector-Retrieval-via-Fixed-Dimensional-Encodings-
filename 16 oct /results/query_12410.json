@@ -1,0 +1,10 @@
+{
+    "query": "What empire was anointed \u201cHoly Roman Emperor\u201d by the Pope in 800?",
+    "response": [
+        "doc_18490.txt",
+        "doc_18489.txt",
+        "doc_23317.txt",
+        "doc_11649.txt",
+        "doc_18499.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the connection between the Loveland Frog and Point Pleasant, Ohio?",
+    "response": [
+        "doc_18420.txt",
+        "doc_8658.txt",
+        "doc_15265.txt",
+        "doc_8556.txt",
+        "doc_5091.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What happened to the residents of Los Angeles during the 20th anniversary of the riots?",
+    "response": [
+        "doc_18249.txt",
+        "doc_19041.txt",
+        "doc_6075.txt",
+        "doc_6759.txt",
+        "doc_397.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "To whom was Teresa Heinz Kerry giving a speech?",
+    "response": [
+        "doc_2034.txt",
+        "doc_2045.txt",
+        "doc_2036.txt",
+        "doc_345.txt",
+        "doc_16475.txt"
+    ]
+}

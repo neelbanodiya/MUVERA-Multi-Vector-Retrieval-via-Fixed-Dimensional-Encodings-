@@ -1,0 +1,10 @@
+{
+    "query": "When was *The Wall Street Journal* founded, and by whom?",
+    "response": [
+        "doc_19192.txt",
+        "doc_23494.txt",
+        "doc_20434.txt",
+        "doc_12351.txt",
+        "doc_23497.txt"
+    ]
+}

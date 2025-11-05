@@ -1,0 +1,10 @@
+{
+    "query": "According to the Wikipedia article on Thomas Magnum, what was Magnum\u2019s preferred alcoholic beverage?",
+    "response": [
+        "doc_22260.txt",
+        "doc_14185.txt",
+        "doc_14182.txt",
+        "doc_21507.txt",
+        "doc_14187.txt"
+    ]
+}

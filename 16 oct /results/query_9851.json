@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what is Krishna considered to be in Hinduism?",
+    "response": [
+        "doc_5709.txt",
+        "doc_5712.txt",
+        "doc_5713.txt",
+        "doc_5715.txt",
+        "doc_5710.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How far did Buxtehude travel to meet Dietrich Buxtehude?",
+    "response": [
+        "doc_22033.txt",
+        "doc_2158.txt",
+        "doc_1454.txt",
+        "doc_6507.txt",
+        "doc_6252.txt"
+    ]
+}

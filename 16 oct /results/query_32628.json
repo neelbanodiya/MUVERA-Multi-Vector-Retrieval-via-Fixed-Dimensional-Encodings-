@@ -1,0 +1,10 @@
+{
+    "query": "What musical instrument did Frank Robinson initially play before transitioning to baseball?",
+    "response": [
+        "doc_19018.txt",
+        "doc_9455.txt",
+        "doc_16774.txt",
+        "doc_2389.txt",
+        "doc_12773.txt"
+    ]
+}

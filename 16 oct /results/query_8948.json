@@ -1,0 +1,10 @@
+{
+    "query": "What was the first capital of the United States?",
+    "response": [
+        "doc_2708.txt",
+        "doc_5160.txt",
+        "doc_2713.txt",
+        "doc_2711.txt",
+        "doc_2715.txt"
+    ]
+}

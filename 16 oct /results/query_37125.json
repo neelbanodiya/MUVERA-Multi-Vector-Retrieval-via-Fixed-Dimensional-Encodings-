@@ -1,0 +1,10 @@
+{
+    "query": "Which organization sent David Livingstone to South Africa?",
+    "response": [
+        "doc_11963.txt",
+        "doc_1855.txt",
+        "doc_19183.txt",
+        "doc_17114.txt",
+        "doc_14581.txt"
+    ]
+}

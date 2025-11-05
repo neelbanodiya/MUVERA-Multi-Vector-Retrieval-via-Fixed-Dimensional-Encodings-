@@ -1,0 +1,10 @@
+{
+    "query": "What is located at 124 Liberty Street, directly across from Ground Zero?",
+    "response": [
+        "doc_3380.txt",
+        "doc_12736.txt",
+        "doc_28.txt",
+        "doc_16630.txt",
+        "doc_3381.txt"
+    ]
+}

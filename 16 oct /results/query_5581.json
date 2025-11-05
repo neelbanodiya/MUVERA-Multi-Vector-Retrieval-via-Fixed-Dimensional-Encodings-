@@ -1,0 +1,10 @@
+{
+    "query": "According to the European Statistics \"Wind in Power,\" what percentage of new installations were wind power installations in 2009?",
+    "response": [
+        "doc_3253.txt",
+        "doc_3254.txt",
+        "doc_181.txt",
+        "doc_180.txt",
+        "doc_22979.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "From what Old Norse word does the English word \u201cwindow\u201d derive?",
+    "response": [
+        "doc_12505.txt",
+        "doc_12507.txt",
+        "doc_12506.txt",
+        "doc_12513.txt",
+        "doc_20887.txt"
+    ]
+}

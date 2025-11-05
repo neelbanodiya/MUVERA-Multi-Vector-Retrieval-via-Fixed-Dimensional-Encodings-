@@ -1,0 +1,10 @@
+{
+    "query": "Besides acting, what other profession is Jamie Foxx known for?",
+    "response": [
+        "doc_15277.txt",
+        "doc_8996.txt",
+        "doc_4846.txt",
+        "doc_4476.txt",
+        "doc_1476.txt"
+    ]
+}

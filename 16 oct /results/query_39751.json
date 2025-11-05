@@ -1,0 +1,10 @@
+{
+    "query": "When did Boris Yeltsin launch the first Chechen war?",
+    "response": [
+        "doc_23265.txt",
+        "doc_23268.txt",
+        "doc_23267.txt",
+        "doc_23266.txt",
+        "doc_23270.txt"
+    ]
+}

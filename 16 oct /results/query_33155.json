@@ -1,0 +1,10 @@
+{
+    "query": "According to one source, what is a common request Logan, a tall teenager, receives?",
+    "response": [
+        "doc_14531.txt",
+        "doc_6342.txt",
+        "doc_8801.txt",
+        "doc_5444.txt",
+        "doc_13692.txt"
+    ]
+}

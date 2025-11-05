@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the canyon located in the Atacama region of Chile?",
+    "response": [
+        "doc_5147.txt",
+        "doc_5142.txt",
+        "doc_5148.txt",
+        "doc_5151.txt",
+        "doc_5149.txt"
+    ]
+}

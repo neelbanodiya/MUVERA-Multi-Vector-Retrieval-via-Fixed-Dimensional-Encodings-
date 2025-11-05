@@ -1,0 +1,10 @@
+{
+    "query": "What authorized Nanshan and Zafiro to carry coal and supplies?",
+    "response": [
+        "doc_13141.txt",
+        "doc_10795.txt",
+        "doc_22943.txt",
+        "doc_10405.txt",
+        "doc_6995.txt"
+    ]
+}

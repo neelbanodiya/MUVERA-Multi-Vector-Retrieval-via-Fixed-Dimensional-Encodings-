@@ -1,0 +1,10 @@
+{
+    "query": "What was Napoleon attempting to do?",
+    "response": [
+        "doc_13334.txt",
+        "doc_10139.txt",
+        "doc_7943.txt",
+        "doc_9548.txt",
+        "doc_2610.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What geographical feature is Scotland described as being \u201cin a nutshell\u201d?",
+    "response": [
+        "doc_8430.txt",
+        "doc_8432.txt",
+        "doc_8436.txt",
+        "doc_8429.txt",
+        "doc_378.txt"
+    ]
+}

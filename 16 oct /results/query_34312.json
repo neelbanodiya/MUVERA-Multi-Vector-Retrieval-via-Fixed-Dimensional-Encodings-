@@ -1,0 +1,10 @@
+{
+    "query": "What was the context of the person\u2019s first trip outside Italy?",
+    "response": [
+        "doc_967.txt",
+        "doc_21040.txt",
+        "doc_956.txt",
+        "doc_15045.txt",
+        "doc_14874.txt"
+    ]
+}

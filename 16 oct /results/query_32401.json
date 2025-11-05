@@ -1,0 +1,10 @@
+{
+    "query": "How many Medal of Honor recipients does the 503rd Infantry Regiment claim?",
+    "response": [
+        "doc_18900.txt",
+        "doc_4956.txt",
+        "doc_15819.txt",
+        "doc_18899.txt",
+        "doc_4955.txt"
+    ]
+}

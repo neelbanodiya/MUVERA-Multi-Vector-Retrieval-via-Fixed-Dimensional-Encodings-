@@ -1,0 +1,10 @@
+{
+    "query": "During which century did urbanizing take place in America, according to the provided text?",
+    "response": [
+        "doc_5584.txt",
+        "doc_22401.txt",
+        "doc_23152.txt",
+        "doc_22535.txt",
+        "doc_23680.txt"
+    ]
+}

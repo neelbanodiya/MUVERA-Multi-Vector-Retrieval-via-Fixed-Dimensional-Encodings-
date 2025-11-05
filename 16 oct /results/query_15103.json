@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the articles, what is a common snack in Barcelona, Spain?",
+    "response": [
+        "doc_1005.txt",
+        "doc_1004.txt",
+        "doc_1007.txt",
+        "doc_1010.txt",
+        "doc_1006.txt"
+    ]
+}

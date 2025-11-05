@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is Aurora\u2019s role in announcing the arrival of the sun?",
+    "response": [
+        "doc_14771.txt",
+        "doc_14770.txt",
+        "doc_14772.txt",
+        "doc_14776.txt",
+        "doc_7678.txt"
+    ]
+}

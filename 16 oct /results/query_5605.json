@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate area of the Mediterranean Sea in square kilometers?",
+    "response": [
+        "doc_3268.txt",
+        "doc_3267.txt",
+        "doc_22937.txt",
+        "doc_3269.txt",
+        "doc_22947.txt"
+    ]
+}

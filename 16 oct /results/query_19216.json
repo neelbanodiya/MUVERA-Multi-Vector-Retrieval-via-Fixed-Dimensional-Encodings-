@@ -1,0 +1,10 @@
+{
+    "query": "What legal reason prevented Jimmy Page from using the name Yardbirds?",
+    "response": [
+        "doc_8342.txt",
+        "doc_9223.txt",
+        "doc_10126.txt",
+        "doc_23766.txt",
+        "doc_15591.txt"
+    ]
+}

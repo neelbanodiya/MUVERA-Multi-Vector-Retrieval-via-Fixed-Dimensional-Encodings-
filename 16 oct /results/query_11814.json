@@ -1,0 +1,10 @@
+{
+    "query": "Who were the Pittsburgh Pirates celebrating their fifth World Series victory with?",
+    "response": [
+        "doc_18157.txt",
+        "doc_17062.txt",
+        "doc_11462.txt",
+        "doc_12442.txt",
+        "doc_15972.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who defeated Jack Dempsey for the World Heavyweight Boxing Championship, and when did this occur?",
+    "response": [
+        "doc_7233.txt",
+        "doc_7232.txt",
+        "doc_7227.txt",
+        "doc_7230.txt",
+        "doc_7229.txt"
+    ]
+}

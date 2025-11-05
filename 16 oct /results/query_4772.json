@@ -1,0 +1,10 @@
+{
+    "query": "Who succeeded Zachary Taylor as President, and how did he attain that position?",
+    "response": [
+        "doc_18469.txt",
+        "doc_16807.txt",
+        "doc_18606.txt",
+        "doc_7939.txt",
+        "doc_19160.txt"
+    ]
+}

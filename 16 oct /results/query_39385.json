@@ -1,0 +1,10 @@
+{
+    "query": "How many All-Star Games did Hank Aaron participate in?",
+    "response": [
+        "doc_11227.txt",
+        "doc_23051.txt",
+        "doc_18334.txt",
+        "doc_583.txt",
+        "doc_3295.txt"
+    ]
+}

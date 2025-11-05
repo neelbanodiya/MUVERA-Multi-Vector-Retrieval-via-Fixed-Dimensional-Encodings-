@@ -1,0 +1,9 @@
+{
+    "query": "Where did the 2010 and 2011 Oklahoma Sooners football teams play their home games?",
+    "response": [
+        "doc_11114.txt",
+        "doc_11115.txt",
+        "doc_11116.txt",
+        "doc_19124.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate length of the barrier at Niagara Falls?",
+    "response": [
+        "doc_5188.txt",
+        "doc_14904.txt",
+        "doc_12749.txt",
+        "doc_16875.txt",
+        "doc_14903.txt"
+    ]
+}

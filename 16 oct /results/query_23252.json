@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what fuel was used to power the Graf Zeppelin?",
+    "response": [
+        "doc_20696.txt",
+        "doc_8511.txt",
+        "doc_14550.txt",
+        "doc_14561.txt",
+        "doc_12766.txt"
+    ]
+}

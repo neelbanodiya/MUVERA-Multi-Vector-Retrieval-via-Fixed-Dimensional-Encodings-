@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is the approximate length of the fault line running north and south west of Indonesia?",
+    "response": [
+        "doc_10129.txt",
+        "doc_15952.txt",
+        "doc_4336.txt",
+        "doc_12986.txt",
+        "doc_4338.txt"
+    ]
+}

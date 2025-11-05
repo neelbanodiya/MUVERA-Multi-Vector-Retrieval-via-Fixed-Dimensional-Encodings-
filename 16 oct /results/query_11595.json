@@ -1,0 +1,10 @@
+{
+    "query": "Which Eastern European countries were granted permission to practice cabotage since May 2009?",
+    "response": [
+        "doc_6749.txt",
+        "doc_1211.txt",
+        "doc_1212.txt",
+        "doc_10247.txt",
+        "doc_11332.txt"
+    ]
+}

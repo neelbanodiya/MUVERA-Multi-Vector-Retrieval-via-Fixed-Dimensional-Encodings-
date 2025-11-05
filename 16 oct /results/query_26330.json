@@ -1,0 +1,10 @@
+{
+    "query": "What type of music is described as suitable for scenes involving investigating, stalking, or sneaking around, as referenced in the proudmusiclibrary.com editorial?",
+    "response": [
+        "doc_15303.txt",
+        "doc_15316.txt",
+        "doc_19435.txt",
+        "doc_15310.txt",
+        "doc_15304.txt"
+    ]
+}

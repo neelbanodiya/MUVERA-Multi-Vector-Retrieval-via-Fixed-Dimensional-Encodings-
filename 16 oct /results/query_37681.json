@@ -1,0 +1,10 @@
+{
+    "query": "Who was the agent for soprano Jenny Lind when she toured America?",
+    "response": [
+        "doc_22081.txt",
+        "doc_22083.txt",
+        "doc_22082.txt",
+        "doc_22078.txt",
+        "doc_22077.txt"
+    ]
+}

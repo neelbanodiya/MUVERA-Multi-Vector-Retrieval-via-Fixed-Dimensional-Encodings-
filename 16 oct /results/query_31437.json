@@ -1,0 +1,10 @@
+{
+    "query": "What action is the resolution urging Russia to take concerning the Transnistrian conflict?",
+    "response": [
+        "doc_18366.txt",
+        "doc_16793.txt",
+        "doc_4132.txt",
+        "doc_5892.txt",
+        "doc_4131.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What historical event is referenced in the play \u201cThe Teahouse of the August Moon\u201d?",
+    "response": [
+        "doc_8797.txt",
+        "doc_19770.txt",
+        "doc_13530.txt",
+        "doc_19392.txt",
+        "doc_505.txt"
+    ]
+}

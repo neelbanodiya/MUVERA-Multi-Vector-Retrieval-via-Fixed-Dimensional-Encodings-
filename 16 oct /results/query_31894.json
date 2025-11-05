@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Ronald Reagan play the role of Drake McHugh in *Kings Row*?",
+    "response": [
+        "doc_18591.txt",
+        "doc_18592.txt",
+        "doc_18599.txt",
+        "doc_18598.txt",
+        "doc_18595.txt"
+    ]
+}

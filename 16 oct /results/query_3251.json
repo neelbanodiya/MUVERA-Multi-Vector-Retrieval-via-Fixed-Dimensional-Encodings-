@@ -1,0 +1,10 @@
+{
+    "query": "What type of tool did John Henry primarily use to work?",
+    "response": [
+        "doc_1952.txt",
+        "doc_1959.txt",
+        "doc_1953.txt",
+        "doc_1944.txt",
+        "doc_1941.txt"
+    ]
+}

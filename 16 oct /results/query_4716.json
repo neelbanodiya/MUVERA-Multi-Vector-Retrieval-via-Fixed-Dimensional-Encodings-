@@ -1,0 +1,10 @@
+{
+    "query": "What is the Consumer Price Index (CPI) used for, as mentioned in the \u201cUnderstandingUSA\u201d document?",
+    "response": [
+        "doc_4012.txt",
+        "doc_7788.txt",
+        "doc_2259.txt",
+        "doc_12680.txt",
+        "doc_20749.txt"
+    ]
+}

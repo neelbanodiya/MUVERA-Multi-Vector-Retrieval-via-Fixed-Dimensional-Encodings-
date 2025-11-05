@@ -1,0 +1,10 @@
+{
+    "query": "What show does Jeff Smith find ideas for cooking from?",
+    "response": [
+        "doc_7831.txt",
+        "doc_7822.txt",
+        "doc_7818.txt",
+        "doc_7826.txt",
+        "doc_7827.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "To whom were many of Beethoven\u2019s compositions dedicated, including works like the Triple Concerto and Fifth Symphony?",
+    "response": [
+        "doc_14563.txt",
+        "doc_14559.txt",
+        "doc_14551.txt",
+        "doc_14564.txt",
+        "doc_14558.txt"
+    ]
+}

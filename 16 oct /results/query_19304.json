@@ -1,0 +1,10 @@
+{
+    "query": "Who collaborated with NSU on the development of a rotary engine prototype?",
+    "response": [
+        "doc_11528.txt",
+        "doc_11181.txt",
+        "doc_7878.txt",
+        "doc_19136.txt",
+        "doc_11787.txt"
+    ]
+}

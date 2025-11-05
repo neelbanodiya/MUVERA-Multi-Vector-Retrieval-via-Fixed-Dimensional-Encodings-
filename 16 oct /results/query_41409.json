@@ -1,0 +1,10 @@
+{
+    "query": "What film was based on Joe Gores\u2019 novel \u201cHammett\u201d?",
+    "response": [
+        "doc_24254.txt",
+        "doc_1812.txt",
+        "doc_5239.txt",
+        "doc_21901.txt",
+        "doc_17171.txt"
+    ]
+}

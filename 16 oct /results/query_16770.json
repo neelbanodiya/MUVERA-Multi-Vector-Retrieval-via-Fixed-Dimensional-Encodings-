@@ -1,0 +1,10 @@
+{
+    "query": "What was the initial name of the salad before it became known as the Caesar salad?",
+    "response": [
+        "doc_9712.txt",
+        "doc_9716.txt",
+        "doc_9717.txt",
+        "doc_9728.txt",
+        "doc_9720.txt"
+    ]
+}

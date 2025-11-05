@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what were the names of the pillars standing beside the Temple?",
+    "response": [
+        "doc_8682.txt",
+        "doc_16169.txt",
+        "doc_8686.txt",
+        "doc_1294.txt",
+        "doc_1297.txt"
+    ]
+}

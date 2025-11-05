@@ -1,0 +1,10 @@
+{
+    "query": "What did the Saxon Ministry of Science and the Fine Arts initially state regarding the legality of the ban?",
+    "response": [
+        "doc_1678.txt",
+        "doc_1679.txt",
+        "doc_17243.txt",
+        "doc_23718.txt",
+        "doc_20922.txt"
+    ]
+}

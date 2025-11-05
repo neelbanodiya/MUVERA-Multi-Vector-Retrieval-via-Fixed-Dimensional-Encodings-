@@ -1,0 +1,10 @@
+{
+    "query": "In 1930, what action did Gandhi lead his followers on a 200-mile march to accomplish?",
+    "response": [
+        "doc_1413.txt",
+        "doc_1414.txt",
+        "doc_1405.txt",
+        "doc_1403.txt",
+        "doc_1409.txt"
+    ]
+}

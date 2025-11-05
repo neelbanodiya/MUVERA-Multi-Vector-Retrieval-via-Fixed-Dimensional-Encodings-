@@ -1,0 +1,10 @@
+{
+    "query": "What cultural tradition survived the Spanish conquistadores?",
+    "response": [
+        "doc_10221.txt",
+        "doc_20261.txt",
+        "doc_16973.txt",
+        "doc_16977.txt",
+        "doc_6979.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "The passage mentions a ship named Gabran's Scots fleet. Who was the commander of this fleet?",
+    "response": [
+        "doc_12034.txt",
+        "doc_22001.txt",
+        "doc_9630.txt",
+        "doc_12039.txt",
+        "doc_1849.txt"
+    ]
+}

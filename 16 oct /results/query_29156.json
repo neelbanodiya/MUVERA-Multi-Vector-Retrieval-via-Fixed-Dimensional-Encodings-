@@ -1,0 +1,10 @@
+{
+    "query": "In what province of Argentina did Benito Lynch die?",
+    "response": [
+        "doc_9675.txt",
+        "doc_1919.txt",
+        "doc_16979.txt",
+        "doc_16977.txt",
+        "doc_24066.txt"
+    ]
+}

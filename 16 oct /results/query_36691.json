@@ -1,0 +1,10 @@
+{
+    "query": "What is the current import duty on bamboo furniture within the EU?",
+    "response": [
+        "doc_21428.txt",
+        "doc_17210.txt",
+        "doc_21426.txt",
+        "doc_7773.txt",
+        "doc_19646.txt"
+    ]
+}

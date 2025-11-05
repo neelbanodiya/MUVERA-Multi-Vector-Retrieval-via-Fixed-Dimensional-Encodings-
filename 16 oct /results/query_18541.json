@@ -1,0 +1,10 @@
+{
+    "query": "Who was Michelangelo\u2019s mentor, and where did he work for a time?",
+    "response": [
+        "doc_10762.txt",
+        "doc_10759.txt",
+        "doc_10761.txt",
+        "doc_10760.txt",
+        "doc_10765.txt"
+    ]
+}

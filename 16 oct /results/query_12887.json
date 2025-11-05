@@ -1,0 +1,10 @@
+{
+    "query": "During which period did John C. Calhoun play a significant role in American politics?",
+    "response": [
+        "doc_19683.txt",
+        "doc_7516.txt",
+        "doc_1019.txt",
+        "doc_2177.txt",
+        "doc_19874.txt"
+    ]
+}

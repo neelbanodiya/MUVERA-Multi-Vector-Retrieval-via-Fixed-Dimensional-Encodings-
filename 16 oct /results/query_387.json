@@ -1,0 +1,10 @@
+{
+    "query": "What is another name for the Battle of Antietam?",
+    "response": [
+        "doc_193.txt",
+        "doc_203.txt",
+        "doc_192.txt",
+        "doc_197.txt",
+        "doc_207.txt"
+    ]
+}

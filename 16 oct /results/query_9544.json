@@ -1,0 +1,10 @@
+{
+    "query": "In what country was Ivo Moring born, and what type of music did he initially work with before becoming a producer?",
+    "response": [
+        "doc_2740.txt",
+        "doc_21384.txt",
+        "doc_14188.txt",
+        "doc_10789.txt",
+        "doc_20612.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was a key element in preventing enemies from deciphering messages sent via the Enigma machine?",
+    "response": [
+        "doc_18800.txt",
+        "doc_18794.txt",
+        "doc_1116.txt",
+        "doc_4844.txt",
+        "doc_21017.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Chicago Blackhawks\u2019 player selected third overall in the NHL draft?",
+    "response": [
+        "doc_21628.txt",
+        "doc_2004.txt",
+        "doc_24141.txt",
+        "doc_1990.txt",
+        "doc_21945.txt"
+    ]
+}

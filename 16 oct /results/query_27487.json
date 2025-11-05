@@ -1,0 +1,10 @@
+{
+    "query": "Who did the International Challenge of Champions defeat?",
+    "response": [
+        "doc_10378.txt",
+        "doc_18657.txt",
+        "doc_14520.txt",
+        "doc_1883.txt",
+        "doc_20523.txt"
+    ]
+}

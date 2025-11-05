@@ -1,0 +1,10 @@
+{
+    "query": "Which famous film featured Drew Barrymore\u2019s grandfather, John Barrymore, and earned him the title \u201cThe Great Profile\u201d?",
+    "response": [
+        "doc_23196.txt",
+        "doc_23194.txt",
+        "doc_23195.txt",
+        "doc_23198.txt",
+        "doc_23199.txt"
+    ]
+}

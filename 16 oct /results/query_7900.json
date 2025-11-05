@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of Stephanie Smith\u2019s MFA?",
+    "response": [
+        "doc_12944.txt",
+        "doc_1182.txt",
+        "doc_18242.txt",
+        "doc_19035.txt",
+        "doc_5503.txt"
+    ]
+}

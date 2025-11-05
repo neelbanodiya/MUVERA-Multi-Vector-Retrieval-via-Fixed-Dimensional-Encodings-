@@ -1,0 +1,10 @@
+{
+    "query": "What is \u201cGerman\u201d referring to according to the passage?",
+    "response": [
+        "doc_12501.txt",
+        "doc_1074.txt",
+        "doc_1073.txt",
+        "doc_12503.txt",
+        "doc_18095.txt"
+    ]
+}

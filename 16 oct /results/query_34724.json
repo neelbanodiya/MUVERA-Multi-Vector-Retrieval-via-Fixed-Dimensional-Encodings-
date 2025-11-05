@@ -1,0 +1,10 @@
+{
+    "query": "Besides Cibo Matto, for which virtual band did Miho Hatori provide a voice?",
+    "response": [
+        "doc_20219.txt",
+        "doc_2928.txt",
+        "doc_9274.txt",
+        "doc_9518.txt",
+        "doc_2660.txt"
+    ]
+}

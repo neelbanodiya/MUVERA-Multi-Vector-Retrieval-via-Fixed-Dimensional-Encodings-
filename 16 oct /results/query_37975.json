@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate year of completion for \u201cMorte Darthur,\u201d as stated in the provided text?",
+    "response": [
+        "doc_22244.txt",
+        "doc_16565.txt",
+        "doc_5721.txt",
+        "doc_458.txt",
+        "doc_7648.txt"
+    ]
+}

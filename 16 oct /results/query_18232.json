@@ -1,0 +1,10 @@
+{
+    "query": "In what location is the Big Top Sydney located?",
+    "response": [
+        "doc_10558.txt",
+        "doc_8682.txt",
+        "doc_22342.txt",
+        "doc_16284.txt",
+        "doc_10559.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who is considered the \"Dean of Black American film,\" and what was his contribution to the industry?",
+    "response": [
+        "doc_400.txt",
+        "doc_402.txt",
+        "doc_5323.txt",
+        "doc_5773.txt",
+        "doc_7413.txt"
+    ]
+}

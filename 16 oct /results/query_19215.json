@@ -1,0 +1,10 @@
+{
+    "query": "Who transcribed the legendary songs of Led Zeppelin for guitar?",
+    "response": [
+        "doc_11122.txt",
+        "doc_11124.txt",
+        "doc_2374.txt",
+        "doc_2375.txt",
+        "doc_3838.txt"
+    ]
+}

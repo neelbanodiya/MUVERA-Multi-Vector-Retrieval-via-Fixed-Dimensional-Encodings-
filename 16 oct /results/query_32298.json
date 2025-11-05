@@ -1,0 +1,10 @@
+{
+    "query": "What was the first film starring James Stewart and Grace Kelly?",
+    "response": [
+        "doc_18827.txt",
+        "doc_18828.txt",
+        "doc_18825.txt",
+        "doc_18822.txt",
+        "doc_18824.txt"
+    ]
+}

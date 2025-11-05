@@ -1,0 +1,10 @@
+{
+    "query": "According to the Khartoum Monitor, what was the status of the fines imposed on the newspaper?",
+    "response": [
+        "doc_16466.txt",
+        "doc_12703.txt",
+        "doc_8746.txt",
+        "doc_5686.txt",
+        "doc_4235.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What event in Cullman, Alabama, did Missy Miles receive ribbons for?",
+    "response": [
+        "doc_8216.txt",
+        "doc_8217.txt",
+        "doc_14755.txt",
+        "doc_4506.txt",
+        "doc_4243.txt"
+    ]
+}

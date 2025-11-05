@@ -1,0 +1,10 @@
+{
+    "query": "What article of the EC Treaty is referenced in relation to this protocol?",
+    "response": [
+        "doc_13384.txt",
+        "doc_13385.txt",
+        "doc_21816.txt",
+        "doc_21814.txt",
+        "doc_12065.txt"
+    ]
+}

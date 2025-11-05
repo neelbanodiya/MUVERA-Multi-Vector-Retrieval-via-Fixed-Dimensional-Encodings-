@@ -1,0 +1,10 @@
+{
+    "query": "According to Forbes magazine, where is the area described in the passage ranked?",
+    "response": [
+        "doc_8840.txt",
+        "doc_16999.txt",
+        "doc_13918.txt",
+        "doc_4181.txt",
+        "doc_4319.txt"
+    ]
+}

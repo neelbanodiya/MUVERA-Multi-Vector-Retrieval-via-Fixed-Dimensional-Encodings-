@@ -1,0 +1,10 @@
+{
+    "query": "Since 1999, how many Nigerian states have implemented Sharia law?",
+    "response": [
+        "doc_2315.txt",
+        "doc_9157.txt",
+        "doc_4665.txt",
+        "doc_20649.txt",
+        "doc_2316.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate age of Moses when he spoke to Pharaoh according to Exodus 7:7?",
+    "response": [
+        "doc_7911.txt",
+        "doc_7917.txt",
+        "doc_7915.txt",
+        "doc_7913.txt",
+        "doc_18488.txt"
+    ]
+}

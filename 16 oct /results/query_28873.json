@@ -1,0 +1,10 @@
+{
+    "query": "Who developed the Mirage, Bellagio, and Treasure Island?",
+    "response": [
+        "doc_16831.txt",
+        "doc_16830.txt",
+        "doc_16835.txt",
+        "doc_16827.txt",
+        "doc_16833.txt"
+    ]
+}

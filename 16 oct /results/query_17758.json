@@ -1,0 +1,10 @@
+{
+    "query": "What did the European Parliament call for in its resolution of 4 April 2006?",
+    "response": [
+        "doc_17516.txt",
+        "doc_19523.txt",
+        "doc_15468.txt",
+        "doc_15469.txt",
+        "doc_22186.txt"
+    ]
+}

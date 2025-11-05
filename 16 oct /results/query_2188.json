@@ -1,0 +1,10 @@
+{
+    "query": "According to the texts, what two chief gods were associated with the Book of the Dead, and how were they linked to the deceased?",
+    "response": [
+        "doc_1302.txt",
+        "doc_1294.txt",
+        "doc_1301.txt",
+        "doc_1307.txt",
+        "doc_5416.txt"
+    ]
+}

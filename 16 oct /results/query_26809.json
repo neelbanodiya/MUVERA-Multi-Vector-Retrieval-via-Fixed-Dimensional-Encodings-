@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was the timeframe in which \u201cThe Lord of the Rings\u201d was primarily written?",
+    "response": [
+        "doc_15553.txt",
+        "doc_15552.txt",
+        "doc_13207.txt",
+        "doc_22403.txt",
+        "doc_8615.txt"
+    ]
+}

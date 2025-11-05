@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was TJ\u2019s previous home like?",
+    "response": [
+        "doc_9940.txt",
+        "doc_16168.txt",
+        "doc_17338.txt",
+        "doc_4044.txt",
+        "doc_3993.txt"
+    ]
+}

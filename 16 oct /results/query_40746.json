@@ -1,0 +1,10 @@
+{
+    "query": "Besides Berlin, what other European region is mentioned as a budget travel destination?",
+    "response": [
+        "doc_12333.txt",
+        "doc_22180.txt",
+        "doc_8361.txt",
+        "doc_12332.txt",
+        "doc_6190.txt"
+    ]
+}

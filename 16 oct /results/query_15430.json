@@ -1,0 +1,10 @@
+{
+    "query": "When was the \u2018Heraclitus II\u2019 programme announced?",
+    "response": [
+        "doc_8935.txt",
+        "doc_9110.txt",
+        "doc_10292.txt",
+        "doc_22283.txt",
+        "doc_17996.txt"
+    ]
+}

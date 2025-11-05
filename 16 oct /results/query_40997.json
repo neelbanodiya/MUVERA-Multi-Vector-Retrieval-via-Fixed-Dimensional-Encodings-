@@ -1,0 +1,10 @@
+{
+    "query": "Besides acting, what other role did Bruce Campbell have in the production of *Crimewave*?",
+    "response": [
+        "doc_16925.txt",
+        "doc_580.txt",
+        "doc_23994.txt",
+        "doc_18954.txt",
+        "doc_11196.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What did D\u2019Angelo do to avoid recognition during a period of isolation, as described in the GQ article?",
+    "response": [
+        "doc_7648.txt",
+        "doc_5727.txt",
+        "doc_3436.txt",
+        "doc_15771.txt",
+        "doc_2806.txt"
+    ]
+}

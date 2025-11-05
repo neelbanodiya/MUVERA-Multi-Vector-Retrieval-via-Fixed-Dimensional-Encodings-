@@ -1,0 +1,10 @@
+{
+    "query": "In what city was the St. Michael\u2019s Church featured in the \u201cFather Dowling Mysteries\u201d television show?",
+    "response": [
+        "doc_13782.txt",
+        "doc_4961.txt",
+        "doc_5418.txt",
+        "doc_15624.txt",
+        "doc_2542.txt"
+    ]
+}

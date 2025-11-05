@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the ship on which Jim Hawkins worked as a cabin boy?",
+    "response": [
+        "doc_20018.txt",
+        "doc_20021.txt",
+        "doc_20011.txt",
+        "doc_20016.txt",
+        "doc_20015.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What types of plants and trees are native to Bermuda?",
+    "response": [
+        "doc_6643.txt",
+        "doc_4228.txt",
+        "doc_4220.txt",
+        "doc_4226.txt",
+        "doc_22358.txt"
+    ]
+}

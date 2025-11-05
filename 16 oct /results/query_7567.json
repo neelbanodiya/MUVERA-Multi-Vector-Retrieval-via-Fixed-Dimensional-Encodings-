@@ -1,0 +1,10 @@
+{
+    "query": "What type of government does Antigua and Barbuda have, based on the provided information?",
+    "response": [
+        "doc_4417.txt",
+        "doc_4413.txt",
+        "doc_4419.txt",
+        "doc_4425.txt",
+        "doc_4410.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of Nancy Reagan\u2019s efforts according to one of the linked articles?",
+    "response": [
+        "doc_2385.txt",
+        "doc_2876.txt",
+        "doc_5697.txt",
+        "doc_9863.txt",
+        "doc_13877.txt"
+    ]
+}

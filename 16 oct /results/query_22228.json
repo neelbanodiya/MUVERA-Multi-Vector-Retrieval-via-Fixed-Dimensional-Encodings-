@@ -1,0 +1,10 @@
+{
+    "query": "Who was the first female professor at the University of Paris?",
+    "response": [
+        "doc_12820.txt",
+        "doc_348.txt",
+        "doc_10448.txt",
+        "doc_21262.txt",
+        "doc_7252.txt"
+    ]
+}

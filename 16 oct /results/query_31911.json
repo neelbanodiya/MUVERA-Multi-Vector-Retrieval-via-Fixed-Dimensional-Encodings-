@@ -1,0 +1,10 @@
+{
+    "query": "What line did Ronald Reagan famously deliver in the film *Kings Row*?",
+    "response": [
+        "doc_18595.txt",
+        "doc_18597.txt",
+        "doc_18598.txt",
+        "doc_18593.txt",
+        "doc_18600.txt"
+    ]
+}

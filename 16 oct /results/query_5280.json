@@ -1,0 +1,9 @@
+{
+    "query": "Who is the current manager of Darmstadt 98?",
+    "response": [
+        "doc_3072.txt",
+        "doc_1882.txt",
+        "doc_3073.txt",
+        "doc_18430.txt"
+    ]
+}

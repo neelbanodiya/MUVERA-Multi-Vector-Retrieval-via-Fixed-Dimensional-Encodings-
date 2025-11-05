@@ -1,0 +1,10 @@
+{
+    "query": "What was \u201cThe Foxy Merkins\u201d\u2019s budget status relative to other films at the Sundance Film Festival in 2014?",
+    "response": [
+        "doc_11151.txt",
+        "doc_6937.txt",
+        "doc_4635.txt",
+        "doc_18763.txt",
+        "doc_5885.txt"
+    ]
+}

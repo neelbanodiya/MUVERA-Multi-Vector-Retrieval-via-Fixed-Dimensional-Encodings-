@@ -1,0 +1,10 @@
+{
+    "query": "What types of work has Mark Hamill been involved in?",
+    "response": [
+        "doc_349.txt",
+        "doc_5492.txt",
+        "doc_9751.txt",
+        "doc_5371.txt",
+        "doc_19137.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "At what film festival did *The Seventh Seal* receive the Special Jury Prize?",
+    "response": [
+        "doc_7677.txt",
+        "doc_7689.txt",
+        "doc_7691.txt",
+        "doc_7687.txt",
+        "doc_7688.txt"
+    ]
+}

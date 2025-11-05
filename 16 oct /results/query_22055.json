@@ -1,0 +1,10 @@
+{
+    "query": "On what date did \u201cBart the Daredevil\u201d originally air on the Fox network?",
+    "response": [
+        "doc_12732.txt",
+        "doc_12733.txt",
+        "doc_19703.txt",
+        "doc_6683.txt",
+        "doc_6682.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What shopping center is located in Great Falls, Montana, and when did it originally open?",
+    "response": [
+        "doc_9777.txt",
+        "doc_9778.txt",
+        "doc_18369.txt",
+        "doc_2180.txt",
+        "doc_2.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was General Draper called to Europe for?",
+    "response": [
+        "doc_340.txt",
+        "doc_21253.txt",
+        "doc_15470.txt",
+        "doc_6986.txt",
+        "doc_13343.txt"
+    ]
+}

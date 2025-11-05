@@ -1,0 +1,10 @@
+{
+    "query": "Which organization presented the Silver Buffalo Award, and when was a Shrine received as a courtesy to Zurah Temple?",
+    "response": [
+        "doc_23877.txt",
+        "doc_11117.txt",
+        "doc_3992.txt",
+        "doc_7381.txt",
+        "doc_9303.txt"
+    ]
+}

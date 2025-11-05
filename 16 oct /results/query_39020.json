@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the first feature film made in a Hollywood studio?",
+    "response": [
+        "doc_22835.txt",
+        "doc_22834.txt",
+        "doc_22832.txt",
+        "doc_22833.txt",
+        "doc_22831.txt"
+    ]
+}

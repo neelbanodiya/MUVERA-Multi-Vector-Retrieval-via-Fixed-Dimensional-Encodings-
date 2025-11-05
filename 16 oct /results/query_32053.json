@@ -1,0 +1,10 @@
+{
+    "query": "The passage mentions the Soviets encouraged the declaration of independence in which two states?",
+    "response": [
+        "doc_19852.txt",
+        "doc_22969.txt",
+        "doc_3941.txt",
+        "doc_15132.txt",
+        "doc_24183.txt"
+    ]
+}

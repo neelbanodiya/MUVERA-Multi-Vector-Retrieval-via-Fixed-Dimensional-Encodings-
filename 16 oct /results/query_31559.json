@@ -1,0 +1,10 @@
+{
+    "query": "What types of natural features are found within the Ottawa National Forest?",
+    "response": [
+        "doc_18420.txt",
+        "doc_18421.txt",
+        "doc_18426.txt",
+        "doc_13075.txt",
+        "doc_16253.txt"
+    ]
+}

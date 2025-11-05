@@ -1,0 +1,10 @@
+{
+    "query": "Which artists had songs titled \u201cGirl I\u2019m Gonna Miss You\u201d listed in the provided data?",
+    "response": [
+        "doc_6766.txt",
+        "doc_6768.txt",
+        "doc_6775.txt",
+        "doc_6770.txt",
+        "doc_6772.txt"
+    ]
+}

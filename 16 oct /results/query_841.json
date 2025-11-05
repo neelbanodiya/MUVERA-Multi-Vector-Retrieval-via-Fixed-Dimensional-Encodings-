@@ -1,0 +1,10 @@
+{
+    "query": "What is Kramer\u2019s relationship to Jerry?",
+    "response": [
+        "doc_6073.txt",
+        "doc_14824.txt",
+        "doc_18659.txt",
+        "doc_2550.txt",
+        "doc_2062.txt"
+    ]
+}

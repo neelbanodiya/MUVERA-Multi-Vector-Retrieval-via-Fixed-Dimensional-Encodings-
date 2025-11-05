@@ -1,0 +1,10 @@
+{
+    "query": "What action did Van Gogh take towards Paul Gauguin, and what object did he threaten Gauguin with?",
+    "response": [
+        "doc_22071.txt",
+        "doc_22070.txt",
+        "doc_22075.txt",
+        "doc_22074.txt",
+        "doc_22069.txt"
+    ]
+}

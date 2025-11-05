@@ -1,0 +1,10 @@
+{
+    "query": "What group of Members of the European Parliament tabled the motion for a resolution replacing B6-0078/2007?",
+    "response": [
+        "doc_23223.txt",
+        "doc_5827.txt",
+        "doc_11789.txt",
+        "doc_20092.txt",
+        "doc_12569.txt"
+    ]
+}

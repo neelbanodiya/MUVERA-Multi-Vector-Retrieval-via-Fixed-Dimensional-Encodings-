@@ -1,0 +1,10 @@
+{
+    "query": "Who replaced Senator Wellstone in 2002?",
+    "response": [
+        "doc_16612.txt",
+        "doc_16611.txt",
+        "doc_16610.txt",
+        "doc_16618.txt",
+        "doc_16620.txt"
+    ]
+}

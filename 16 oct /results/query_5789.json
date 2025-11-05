@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the show where the Chill Grill is described as a \"home away from home\"?",
+    "response": [
+        "doc_9978.txt",
+        "doc_9985.txt",
+        "doc_2497.txt",
+        "doc_2218.txt",
+        "doc_15353.txt"
+    ]
+}

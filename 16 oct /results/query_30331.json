@@ -1,0 +1,10 @@
+{
+    "query": "Which film was the last released by American International Pictures?",
+    "response": [
+        "doc_1231.txt",
+        "doc_12870.txt",
+        "doc_14779.txt",
+        "doc_8066.txt",
+        "doc_4587.txt"
+    ]
+}

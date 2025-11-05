@@ -1,0 +1,10 @@
+{
+    "query": "Which film festival did \u201cThree Stories\u201d premiere at?",
+    "response": [
+        "doc_22713.txt",
+        "doc_3058.txt",
+        "doc_13852.txt",
+        "doc_5503.txt",
+        "doc_13947.txt"
+    ]
+}

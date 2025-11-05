@@ -1,0 +1,10 @@
+{
+    "query": "Approximately when did Sir Isaac Newton die, and what was his profession at the time of his death?",
+    "response": [
+        "doc_21060.txt",
+        "doc_21071.txt",
+        "doc_21072.txt",
+        "doc_21059.txt",
+        "doc_21074.txt"
+    ]
+}

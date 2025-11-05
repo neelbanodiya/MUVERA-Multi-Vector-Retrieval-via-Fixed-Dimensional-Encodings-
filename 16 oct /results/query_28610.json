@@ -1,0 +1,10 @@
+{
+    "query": "Which organization published the first description of Richter\u2019s scale in 1935?",
+    "response": [
+        "doc_16671.txt",
+        "doc_16672.txt",
+        "doc_16673.txt",
+        "doc_16678.txt",
+        "doc_16675.txt"
+    ]
+}

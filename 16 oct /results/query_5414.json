@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary source of California\u2019s precipitation that flows into the Sacramento-San Joaquin Delta?",
+    "response": [
+        "doc_3153.txt",
+        "doc_3148.txt",
+        "doc_3160.txt",
+        "doc_3158.txt",
+        "doc_3144.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate height of adult American bison?",
+    "response": [
+        "doc_2338.txt",
+        "doc_23382.txt",
+        "doc_23386.txt",
+        "doc_23391.txt",
+        "doc_23387.txt"
+    ]
+}

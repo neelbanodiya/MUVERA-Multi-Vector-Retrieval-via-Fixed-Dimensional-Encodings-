@@ -1,0 +1,10 @@
+{
+    "query": "What role did Winston Churchill play in British government in 1911?",
+    "response": [
+        "doc_15073.txt",
+        "doc_15071.txt",
+        "doc_9773.txt",
+        "doc_9772.txt",
+        "doc_16643.txt"
+    ]
+}

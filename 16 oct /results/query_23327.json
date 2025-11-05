@@ -1,0 +1,10 @@
+{
+    "query": "What event later celebrates the U.S. Marine Corps Hymn?",
+    "response": [
+        "doc_13490.txt",
+        "doc_13498.txt",
+        "doc_13492.txt",
+        "doc_205.txt",
+        "doc_13042.txt"
+    ]
+}

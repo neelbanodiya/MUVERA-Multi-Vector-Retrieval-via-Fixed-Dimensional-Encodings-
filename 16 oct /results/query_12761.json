@@ -1,0 +1,10 @@
+{
+    "query": "Which African leaders are specifically mentioned in the provided links as being involved in Pan-African movements (e.g., Kwame Nkrumah, Leopold Senghor)?",
+    "response": [
+        "doc_7415.txt",
+        "doc_7420.txt",
+        "doc_7429.txt",
+        "doc_7419.txt",
+        "doc_7423.txt"
+    ]
+}

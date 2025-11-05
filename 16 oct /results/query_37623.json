@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, when was the National Archives born?",
+    "response": [
+        "doc_7504.txt",
+        "doc_9862.txt",
+        "doc_1856.txt",
+        "doc_5166.txt",
+        "doc_16170.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what specific prohibitions are outlined within the Eighth Amendment regarding punishments?",
+    "response": [
+        "doc_11004.txt",
+        "doc_11005.txt",
+        "doc_10996.txt",
+        "doc_10992.txt",
+        "doc_11000.txt"
+    ]
+}

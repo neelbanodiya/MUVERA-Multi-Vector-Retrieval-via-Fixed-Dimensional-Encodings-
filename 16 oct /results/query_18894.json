@@ -1,0 +1,10 @@
+{
+    "query": "After the release of Pete Rose\u2019s book, where did he spend six years selling memorabilia?",
+    "response": [
+        "doc_10956.txt",
+        "doc_10958.txt",
+        "doc_726.txt",
+        "doc_3071.txt",
+        "doc_20409.txt"
+    ]
+}

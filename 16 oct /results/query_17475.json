@@ -1,0 +1,10 @@
+{
+    "query": "At what age was the individual taken to an AKC Obedience Class?",
+    "response": [
+        "doc_14055.txt",
+        "doc_22012.txt",
+        "doc_19666.txt",
+        "doc_22393.txt",
+        "doc_3240.txt"
+    ]
+}

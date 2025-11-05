@@ -1,0 +1,10 @@
+{
+    "query": "What type of ship was the RMS Titanic?",
+    "response": [
+        "doc_21098.txt",
+        "doc_21112.txt",
+        "doc_18157.txt",
+        "doc_21113.txt",
+        "doc_21096.txt"
+    ]
+}

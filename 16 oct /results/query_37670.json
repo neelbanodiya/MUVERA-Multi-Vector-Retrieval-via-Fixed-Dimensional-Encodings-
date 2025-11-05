@@ -1,0 +1,10 @@
+{
+    "query": "When did Jenny Lind sail to America to begin her tour?",
+    "response": [
+        "doc_22081.txt",
+        "doc_22080.txt",
+        "doc_22077.txt",
+        "doc_22083.txt",
+        "doc_22082.txt"
+    ]
+}

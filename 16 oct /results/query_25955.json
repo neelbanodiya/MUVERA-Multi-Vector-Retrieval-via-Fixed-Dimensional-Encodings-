@@ -1,0 +1,10 @@
+{
+    "query": "According to the article about the 1985 Porsche 911, what was the maximum speed achieved during its test?",
+    "response": [
+        "doc_9405.txt",
+        "doc_9406.txt",
+        "doc_15100.txt",
+        "doc_15099.txt",
+        "doc_24118.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was the S\u00e9minaire de Qu\u00e9bec founded?",
+    "response": [
+        "doc_135.txt",
+        "doc_136.txt",
+        "doc_9250.txt",
+        "doc_14305.txt",
+        "doc_19473.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Joan Jett achieve a number one hit?",
+    "response": [
+        "doc_22555.txt",
+        "doc_22564.txt",
+        "doc_22550.txt",
+        "doc_22551.txt",
+        "doc_22562.txt"
+    ]
+}

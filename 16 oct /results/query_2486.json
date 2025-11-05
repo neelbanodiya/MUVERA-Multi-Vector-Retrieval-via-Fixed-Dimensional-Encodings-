@@ -1,0 +1,10 @@
+{
+    "query": "What is \u201cSweet Mickey\u201d known for in Haiti?",
+    "response": [
+        "doc_12646.txt",
+        "doc_6137.txt",
+        "doc_20932.txt",
+        "doc_21556.txt",
+        "doc_16032.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what does the curly brace symbol denote in the Oz programming language?",
+    "response": [
+        "doc_792.txt",
+        "doc_8604.txt",
+        "doc_9043.txt",
+        "doc_23176.txt",
+        "doc_12394.txt"
+    ]
+}

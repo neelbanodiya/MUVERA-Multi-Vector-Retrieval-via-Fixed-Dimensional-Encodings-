@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what principles does the European Union base itself on?",
+    "response": [
+        "doc_16882.txt",
+        "doc_17393.txt",
+        "doc_7288.txt",
+        "doc_11793.txt",
+        "doc_24071.txt"
+    ]
+}

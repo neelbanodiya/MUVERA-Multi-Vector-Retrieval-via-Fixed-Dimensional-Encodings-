@@ -1,0 +1,10 @@
+{
+    "query": "What numbers are repeatedly associated with the state of Arizona?",
+    "response": [
+        "doc_4522.txt",
+        "doc_4729.txt",
+        "doc_3441.txt",
+        "doc_10210.txt",
+        "doc_13406.txt"
+    ]
+}

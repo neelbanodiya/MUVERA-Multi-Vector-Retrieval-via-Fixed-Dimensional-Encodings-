@@ -1,0 +1,10 @@
+{
+    "query": "Where did Lee elect to march?",
+    "response": [
+        "doc_7254.txt",
+        "doc_7256.txt",
+        "doc_6491.txt",
+        "doc_22700.txt",
+        "doc_2477.txt"
+    ]
+}

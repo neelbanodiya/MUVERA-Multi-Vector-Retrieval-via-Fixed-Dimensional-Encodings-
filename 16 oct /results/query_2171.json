@@ -1,0 +1,10 @@
+{
+    "query": "What is the Great Red Spot on Jupiter compared to a hurricane on Earth?",
+    "response": [
+        "doc_1280.txt",
+        "doc_1282.txt",
+        "doc_1287.txt",
+        "doc_1288.txt",
+        "doc_1290.txt"
+    ]
+}

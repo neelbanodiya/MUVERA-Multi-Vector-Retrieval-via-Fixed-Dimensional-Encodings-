@@ -1,0 +1,10 @@
+{
+    "query": "Who was Scott Wolf interested in, according to the passage?",
+    "response": [
+        "doc_19273.txt",
+        "doc_8173.txt",
+        "doc_15773.txt",
+        "doc_15762.txt",
+        "doc_20018.txt"
+    ]
+}

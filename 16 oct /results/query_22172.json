@@ -1,0 +1,10 @@
+{
+    "query": "Which state is associated with Walter Van Tilburg Clark as a writer?",
+    "response": [
+        "doc_12784.txt",
+        "doc_12792.txt",
+        "doc_12789.txt",
+        "doc_12783.txt",
+        "doc_12793.txt"
+    ]
+}

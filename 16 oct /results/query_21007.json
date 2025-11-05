@@ -1,0 +1,10 @@
+{
+    "query": "Which type of fishing vessels are subject to the regulations outlined in Article 15, paragraph 2, starting from July 2011?",
+    "response": [
+        "doc_12113.txt",
+        "doc_12076.txt",
+        "doc_12079.txt",
+        "doc_12078.txt",
+        "doc_12077.txt"
+    ]
+}

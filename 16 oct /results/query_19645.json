@@ -1,0 +1,10 @@
+{
+    "query": "What was the final score of the U.S. team\u2019s game against Finland?",
+    "response": [
+        "doc_11357.txt",
+        "doc_11356.txt",
+        "doc_11343.txt",
+        "doc_11349.txt",
+        "doc_11351.txt"
+    ]
+}

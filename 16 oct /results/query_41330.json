@@ -1,0 +1,10 @@
+{
+    "query": "What metal was given the Latin name by the Romans after they conquered Cyprus?",
+    "response": [
+        "doc_21297.txt",
+        "doc_9929.txt",
+        "doc_15265.txt",
+        "doc_8682.txt",
+        "doc_3874.txt"
+    ]
+}

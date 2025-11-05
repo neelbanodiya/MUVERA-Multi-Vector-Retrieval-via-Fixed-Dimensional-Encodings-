@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what did the Los Angeles Times call *The Painted Bird*?",
+    "response": [
+        "doc_18583.txt",
+        "doc_3059.txt",
+        "doc_20119.txt",
+        "doc_10095.txt",
+        "doc_21867.txt"
+    ]
+}

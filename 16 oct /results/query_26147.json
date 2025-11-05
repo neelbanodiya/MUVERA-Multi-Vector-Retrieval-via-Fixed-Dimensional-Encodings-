@@ -1,0 +1,10 @@
+{
+    "query": "Who founded the lyceum movement that reached Vandalia?",
+    "response": [
+        "doc_15192.txt",
+        "doc_18258.txt",
+        "doc_9929.txt",
+        "doc_512.txt",
+        "doc_8351.txt"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "query": "What was the original name of the 1000 km Zeltweg race?",
+    "response": [
+        "doc_12600.txt",
+        "doc_12599.txt",
+        "doc_12601.txt"
+    ]
+}

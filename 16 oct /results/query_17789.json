@@ -1,0 +1,10 @@
+{
+    "query": "How much of the Earth\u2019s fresh water is estimated to be contained within the Antarctic ice sheet?",
+    "response": [
+        "doc_10326.txt",
+        "doc_10325.txt",
+        "doc_10319.txt",
+        "doc_10323.txt",
+        "doc_10320.txt"
+    ]
+}

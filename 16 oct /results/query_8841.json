@@ -1,0 +1,10 @@
+{
+    "query": "What types of violations are mentioned as occurring in China and Latin America?",
+    "response": [
+        "doc_8789.txt",
+        "doc_7841.txt",
+        "doc_4626.txt",
+        "doc_15104.txt",
+        "doc_2590.txt"
+    ]
+}

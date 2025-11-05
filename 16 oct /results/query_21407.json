@@ -1,0 +1,10 @@
+{
+    "query": "Who directed the 1955 Japanese film \u201cPrincess Yang Kwei-Fei\u201d?",
+    "response": [
+        "doc_12347.txt",
+        "doc_3230.txt",
+        "doc_12346.txt",
+        "doc_23468.txt",
+        "doc_21356.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "The Pacific Ocean islands of Kanaga, Adak & Unimak are part of this state?",
+    "response": [
+        "doc_16230.txt",
+        "doc_16231.txt",
+        "doc_9619.txt",
+        "doc_9610.txt",
+        "doc_12057.txt"
+    ]
+}

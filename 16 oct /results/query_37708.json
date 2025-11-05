@@ -1,0 +1,10 @@
+{
+    "query": "How tall was Christopher Reeve?",
+    "response": [
+        "doc_19564.txt",
+        "doc_19297.txt",
+        "doc_19565.txt",
+        "doc_2338.txt",
+        "doc_4354.txt"
+    ]
+}

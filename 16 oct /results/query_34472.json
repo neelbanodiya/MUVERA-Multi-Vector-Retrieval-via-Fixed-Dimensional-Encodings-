@@ -1,0 +1,10 @@
+{
+    "query": "What song by Jeremy Camp is listed as being played at Highlands Church?",
+    "response": [
+        "doc_20050.txt",
+        "doc_14258.txt",
+        "doc_19139.txt",
+        "doc_21967.txt",
+        "doc_7783.txt"
+    ]
+}

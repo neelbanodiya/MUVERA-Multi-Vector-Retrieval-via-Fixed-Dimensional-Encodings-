@@ -1,0 +1,10 @@
+{
+    "query": "Which countries border the Mediterranean Sea and are most affected by migration?",
+    "response": [
+        "doc_3267.txt",
+        "doc_3275.txt",
+        "doc_3274.txt",
+        "doc_3278.txt",
+        "doc_3273.txt"
+    ]
+}

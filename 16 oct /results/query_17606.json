@@ -1,0 +1,10 @@
+{
+    "query": "What was a common theme found in Stephen Foster\u2019s songs?",
+    "response": [
+        "doc_10098.txt",
+        "doc_1021.txt",
+        "doc_704.txt",
+        "doc_9401.txt",
+        "doc_2346.txt"
+    ]
+}

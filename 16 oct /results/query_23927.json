@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was a mother\u2019s reaction to the riots in Baltimore?",
+    "response": [
+        "doc_6489.txt",
+        "doc_19854.txt",
+        "doc_22811.txt",
+        "doc_18494.txt",
+        "doc_8091.txt"
+    ]
+}

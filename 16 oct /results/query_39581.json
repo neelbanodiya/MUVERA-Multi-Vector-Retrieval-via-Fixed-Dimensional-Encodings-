@@ -1,0 +1,10 @@
+{
+    "query": "What part of a shirt does \u201cLa Manche\u201d refer to?",
+    "response": [
+        "doc_23167.txt",
+        "doc_23177.txt",
+        "doc_23168.txt",
+        "doc_23169.txt",
+        "doc_1086.txt"
+    ]
+}

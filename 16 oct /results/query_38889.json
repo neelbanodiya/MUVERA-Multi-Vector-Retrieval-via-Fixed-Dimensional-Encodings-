@@ -1,0 +1,10 @@
+{
+    "query": "How many hotels does First Hotels operate in Sweden?",
+    "response": [
+        "doc_22182.txt",
+        "doc_22183.txt",
+        "doc_22179.txt",
+        "doc_22771.txt",
+        "doc_22770.txt"
+    ]
+}

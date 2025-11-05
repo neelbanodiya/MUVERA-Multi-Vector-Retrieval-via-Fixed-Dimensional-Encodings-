@@ -1,0 +1,10 @@
+{
+    "query": "What event led Smith to write his version of history in 1624, potentially silencing any dissenters?",
+    "response": [
+        "doc_19951.txt",
+        "doc_14861.txt",
+        "doc_3821.txt",
+        "doc_20540.txt",
+        "doc_11910.txt"
+    ]
+}

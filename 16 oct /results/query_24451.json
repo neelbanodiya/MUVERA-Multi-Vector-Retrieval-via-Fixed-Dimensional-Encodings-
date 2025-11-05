@@ -1,0 +1,10 @@
+{
+    "query": "Where did the French move their forces after entering the war in 1915?",
+    "response": [
+        "doc_10052.txt",
+        "doc_19665.txt",
+        "doc_23520.txt",
+        "doc_17961.txt",
+        "doc_1627.txt"
+    ]
+}

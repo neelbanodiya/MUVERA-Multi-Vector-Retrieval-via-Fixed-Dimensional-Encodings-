@@ -1,0 +1,10 @@
+{
+    "query": "What event led to a declaration of war between the United States and Mexico, according to the provided sources?",
+    "response": [
+        "doc_17954.txt",
+        "doc_3759.txt",
+        "doc_12345.txt",
+        "doc_3758.txt",
+        "doc_20373.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cThe Grapes of Wrath\u201d published?",
+    "response": [
+        "doc_8728.txt",
+        "doc_20578.txt",
+        "doc_20574.txt",
+        "doc_1812.txt",
+        "doc_14261.txt"
+    ]
+}

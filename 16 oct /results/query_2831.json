@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, which organization voted Roy amongst the \u201850 Most influential People in Mobile Entertainment\u2019 globally?",
+    "response": [
+        "doc_1717.txt",
+        "doc_4463.txt",
+        "doc_5407.txt",
+        "doc_22900.txt",
+        "doc_8361.txt"
+    ]
+}

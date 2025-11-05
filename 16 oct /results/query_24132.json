@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what was Poe\u2019s inspiration for incorporating ciphers into his story \u201cThe Gold-Bug\u201d?",
+    "response": [
+        "doc_14004.txt",
+        "doc_14006.txt",
+        "doc_14008.txt",
+        "doc_14011.txt",
+        "doc_14007.txt"
+    ]
+}

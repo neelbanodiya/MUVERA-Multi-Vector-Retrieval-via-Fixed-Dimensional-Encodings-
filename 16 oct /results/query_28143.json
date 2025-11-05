@@ -1,0 +1,10 @@
+{
+    "query": "What did Jerry Jones state was the biggest difference between the Giants and the Cowboys?",
+    "response": [
+        "doc_16342.txt",
+        "doc_20935.txt",
+        "doc_16919.txt",
+        "doc_20937.txt",
+        "doc_12376.txt"
+    ]
+}

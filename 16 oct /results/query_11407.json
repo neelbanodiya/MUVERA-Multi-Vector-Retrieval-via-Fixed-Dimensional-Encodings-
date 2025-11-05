@@ -1,0 +1,10 @@
+{
+    "query": "How many European countries are represented by the REDIAL association?",
+    "response": [
+        "doc_8816.txt",
+        "doc_24030.txt",
+        "doc_11332.txt",
+        "doc_24112.txt",
+        "doc_4663.txt"
+    ]
+}

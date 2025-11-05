@@ -1,0 +1,10 @@
+{
+    "query": "In which sea are the islands of Palawan and Mindanao located?",
+    "response": [
+        "doc_12063.txt",
+        "doc_12059.txt",
+        "doc_12057.txt",
+        "doc_12064.txt",
+        "doc_12062.txt"
+    ]
+}

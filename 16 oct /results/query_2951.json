@@ -1,0 +1,10 @@
+{
+    "query": "What was the total amount of financial aid allocated to C\u00f4te d'Ivoire under European Development Funds between 2002 and 2007?",
+    "response": [
+        "doc_1363.txt",
+        "doc_10524.txt",
+        "doc_15947.txt",
+        "doc_4548.txt",
+        "doc_17568.txt"
+    ]
+}

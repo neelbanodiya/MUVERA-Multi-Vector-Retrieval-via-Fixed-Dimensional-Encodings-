@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate ratio of gold to silver in British coins before the Florin?",
+    "response": [
+        "doc_23922.txt",
+        "doc_24207.txt",
+        "doc_23923.txt",
+        "doc_4482.txt",
+        "doc_12745.txt"
+    ]
+}

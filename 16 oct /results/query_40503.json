@@ -1,0 +1,10 @@
+{
+    "query": "How old is Mount Sinai?",
+    "response": [
+        "doc_22627.txt",
+        "doc_22397.txt",
+        "doc_4961.txt",
+        "doc_9921.txt",
+        "doc_2532.txt"
+    ]
+}

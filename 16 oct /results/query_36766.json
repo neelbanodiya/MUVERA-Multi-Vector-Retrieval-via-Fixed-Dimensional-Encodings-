@@ -1,0 +1,10 @@
+{
+    "query": "Did Tom Selleck confirm a sequel to *Three Men and a Baby*?",
+    "response": [
+        "doc_21483.txt",
+        "doc_21482.txt",
+        "doc_21487.txt",
+        "doc_21486.txt",
+        "doc_21485.txt"
+    ]
+}

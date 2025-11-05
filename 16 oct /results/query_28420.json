@@ -1,0 +1,10 @@
+{
+    "query": "What color patch do the Treefrogs have on their hind legs?",
+    "response": [
+        "doc_13075.txt",
+        "doc_16548.txt",
+        "doc_6630.txt",
+        "doc_16553.txt",
+        "doc_6639.txt"
+    ]
+}

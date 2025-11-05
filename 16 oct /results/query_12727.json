@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the city of Bethlehem, Pennsylvania officially named?",
+    "response": [
+        "doc_7396.txt",
+        "doc_7404.txt",
+        "doc_7395.txt",
+        "doc_7400.txt",
+        "doc_7410.txt"
+    ]
+}

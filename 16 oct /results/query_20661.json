@@ -1,0 +1,10 @@
+{
+    "query": "When was the most recent Greater Manchester Marathon held?",
+    "response": [
+        "doc_11917.txt",
+        "doc_12599.txt",
+        "doc_12600.txt",
+        "doc_5658.txt",
+        "doc_1883.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What instrument did Jason Bonham play alongside other musicians during the festival, besides drums?",
+    "response": [
+        "doc_2402.txt",
+        "doc_2389.txt",
+        "doc_2391.txt",
+        "doc_16774.txt",
+        "doc_16782.txt"
+    ]
+}

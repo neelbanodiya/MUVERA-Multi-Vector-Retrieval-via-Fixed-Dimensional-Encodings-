@@ -1,0 +1,9 @@
+{
+    "query": "When did ValuJet Flight 592 crash into the Florida Everglades?",
+    "response": [
+        "doc_16838.txt",
+        "doc_16840.txt",
+        "doc_16839.txt",
+        "doc_16841.txt"
+    ]
+}

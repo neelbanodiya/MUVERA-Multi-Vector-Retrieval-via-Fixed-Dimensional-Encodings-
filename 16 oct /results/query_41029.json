@@ -1,0 +1,10 @@
+{
+    "query": "What type of business was LaDell involved in before moving to St. Louis, MO?",
+    "response": [
+        "doc_4515.txt",
+        "doc_1974.txt",
+        "doc_21168.txt",
+        "doc_3980.txt",
+        "doc_7655.txt"
+    ]
+}

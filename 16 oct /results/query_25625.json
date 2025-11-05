@@ -1,0 +1,10 @@
+{
+    "query": "When were the trains to Cochin Harbour Treminus Railway station stopped from Ernakulam Junction?",
+    "response": [
+        "doc_14851.txt",
+        "doc_14852.txt",
+        "doc_9624.txt",
+        "doc_17647.txt",
+        "doc_11629.txt"
+    ]
+}

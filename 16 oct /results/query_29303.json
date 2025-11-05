@@ -1,0 +1,10 @@
+{
+    "query": "Which driving school is located in Overland Park, Kansas, and what is its phone number?",
+    "response": [
+        "doc_17062.txt",
+        "doc_17057.txt",
+        "doc_4741.txt",
+        "doc_22508.txt",
+        "doc_5501.txt"
+    ]
+}

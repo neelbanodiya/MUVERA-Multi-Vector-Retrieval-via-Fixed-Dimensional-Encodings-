@@ -1,0 +1,8 @@
+{
+    "query": "In what conference were all of the Oklahoma State Cowboys football teams listed represented?",
+    "response": [
+        "doc_2010.txt",
+        "doc_2011.txt",
+        "doc_11114.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred in Berlin on June 26, 1963, involving President John F. Kennedy?",
+    "response": [
+        "doc_3336.txt",
+        "doc_3333.txt",
+        "doc_3334.txt",
+        "doc_3332.txt",
+        "doc_3331.txt"
+    ]
+}

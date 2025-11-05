@@ -1,0 +1,10 @@
+{
+    "query": "What recognition did Vanya Milanova receive in her native Bulgaria?",
+    "response": [
+        "doc_10450.txt",
+        "doc_4296.txt",
+        "doc_22807.txt",
+        "doc_4062.txt",
+        "doc_23753.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the overall cost of constructing the Peace Palace?",
+    "response": [
+        "doc_14407.txt",
+        "doc_19223.txt",
+        "doc_2668.txt",
+        "doc_19221.txt",
+        "doc_22192.txt"
+    ]
+}

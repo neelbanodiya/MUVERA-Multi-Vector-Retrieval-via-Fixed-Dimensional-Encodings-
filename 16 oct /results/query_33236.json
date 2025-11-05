@@ -1,0 +1,10 @@
+{
+    "query": "What action did the US Fish and Wildlife Service (FWS) take in 2011 regarding undercover operations?",
+    "response": [
+        "doc_19343.txt",
+        "doc_19241.txt",
+        "doc_9617.txt",
+        "doc_559.txt",
+        "doc_10500.txt"
+    ]
+}

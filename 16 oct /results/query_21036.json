@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what religious law is practiced in Saudi Arabia?",
+    "response": [
+        "doc_23679.txt",
+        "doc_488.txt",
+        "doc_5182.txt",
+        "doc_9923.txt",
+        "doc_12142.txt"
+    ]
+}

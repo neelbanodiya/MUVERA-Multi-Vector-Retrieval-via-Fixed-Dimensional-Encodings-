@@ -1,0 +1,10 @@
+{
+    "query": "How long did Tom Foley represent Washington's 5th congressional district?",
+    "response": [
+        "doc_5965.txt",
+        "doc_4523.txt",
+        "doc_5976.txt",
+        "doc_4522.txt",
+        "doc_5970.txt"
+    ]
+}

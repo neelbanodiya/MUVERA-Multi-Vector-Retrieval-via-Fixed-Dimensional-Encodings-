@@ -1,0 +1,10 @@
+{
+    "query": "What did Richard Byrd accomplish in 1926?",
+    "response": [
+        "doc_23965.txt",
+        "doc_23970.txt",
+        "doc_17278.txt",
+        "doc_4965.txt",
+        "doc_23968.txt"
+    ]
+}

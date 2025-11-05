@@ -1,0 +1,10 @@
+{
+    "query": "What is the largest country in South America by area and population?",
+    "response": [
+        "doc_534.txt",
+        "doc_23420.txt",
+        "doc_8840.txt",
+        "doc_23425.txt",
+        "doc_8839.txt"
+    ]
+}

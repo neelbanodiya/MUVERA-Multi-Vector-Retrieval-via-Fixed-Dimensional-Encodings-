@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate distance of the Taiwan High Speed Rail line?",
+    "response": [
+        "doc_20224.txt",
+        "doc_20223.txt",
+        "doc_20225.txt",
+        "doc_6314.txt",
+        "doc_9624.txt"
+    ]
+}

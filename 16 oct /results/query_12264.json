@@ -1,0 +1,9 @@
+{
+    "query": "Where did someone post a tweet referencing the phrase \u201cI\u2019m going to steal the Declaration of Independence\u201d?",
+    "response": [
+        "doc_7160.txt",
+        "doc_7157.txt",
+        "doc_7159.txt",
+        "doc_7161.txt"
+    ]
+}

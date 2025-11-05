@@ -1,0 +1,10 @@
+{
+    "query": "When did Hall leave the author?",
+    "response": [
+        "doc_4654.txt",
+        "doc_726.txt",
+        "doc_14859.txt",
+        "doc_11913.txt",
+        "doc_15830.txt"
+    ]
+}

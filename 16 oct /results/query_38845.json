@@ -1,0 +1,10 @@
+{
+    "query": "What award did Natalie Portman win for the film \u201cMisery\u201d?",
+    "response": [
+        "doc_22747.txt",
+        "doc_22748.txt",
+        "doc_23866.txt",
+        "doc_18242.txt",
+        "doc_4911.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the 2nd Bn., 16th Inf., suffer the first American casualties of the Vietnam War?",
+    "response": [
+        "doc_6484.txt",
+        "doc_18899.txt",
+        "doc_207.txt",
+        "doc_4015.txt",
+        "doc_15911.txt"
+    ]
+}

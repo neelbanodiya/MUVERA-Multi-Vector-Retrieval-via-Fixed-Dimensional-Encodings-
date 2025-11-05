@@ -1,0 +1,10 @@
+{
+    "query": "What event was the Conga dance initially introduced at, as described in one of the linked articles?",
+    "response": [
+        "doc_7656.txt",
+        "doc_102.txt",
+        "doc_6835.txt",
+        "doc_20311.txt",
+        "doc_13437.txt"
+    ]
+}

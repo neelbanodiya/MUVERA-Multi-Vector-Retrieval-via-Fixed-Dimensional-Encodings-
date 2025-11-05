@@ -1,0 +1,10 @@
+{
+    "query": "What does Goldline sell?",
+    "response": [
+        "doc_20932.txt",
+        "doc_23929.txt",
+        "doc_15875.txt",
+        "doc_15868.txt",
+        "doc_12645.txt"
+    ]
+}

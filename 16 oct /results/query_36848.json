@@ -1,0 +1,10 @@
+{
+    "query": "What period of music is Frederic Chopin primarily associated with, based on the information given?",
+    "response": [
+        "doc_21520.txt",
+        "doc_21519.txt",
+        "doc_21521.txt",
+        "doc_21523.txt",
+        "doc_21525.txt"
+    ]
+}

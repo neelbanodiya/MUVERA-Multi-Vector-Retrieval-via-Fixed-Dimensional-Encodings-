@@ -1,0 +1,10 @@
+{
+    "query": "What was the basis for the screenplay of the film \u201cCarol\u201d?",
+    "response": [
+        "doc_1812.txt",
+        "doc_14546.txt",
+        "doc_14685.txt",
+        "doc_14548.txt",
+        "doc_15277.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which television series was created and executive produced by Seth Green and Matthew Senreich?",
+    "response": [
+        "doc_4444.txt",
+        "doc_4445.txt",
+        "doc_19057.txt",
+        "doc_5597.txt",
+        "doc_19583.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what are some of the fairy tales that \u201cInto the Woods\u201d weaves together?",
+    "response": [
+        "doc_22312.txt",
+        "doc_6021.txt",
+        "doc_6548.txt",
+        "doc_2154.txt",
+        "doc_20495.txt"
+    ]
+}

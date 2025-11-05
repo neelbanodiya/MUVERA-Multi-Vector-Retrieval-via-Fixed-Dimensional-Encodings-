@@ -1,0 +1,10 @@
+{
+    "query": "What accomplishment did Lance achieve after battling life-threatening cancer?",
+    "response": [
+        "doc_19170.txt",
+        "doc_5392.txt",
+        "doc_15819.txt",
+        "doc_15820.txt",
+        "doc_12779.txt"
+    ]
+}

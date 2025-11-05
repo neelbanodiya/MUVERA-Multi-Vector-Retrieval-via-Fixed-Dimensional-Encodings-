@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what two directives does the Agency assist with regarding ship information and unlawful discharges?",
+    "response": [
+        "doc_23631.txt",
+        "doc_8146.txt",
+        "doc_23667.txt",
+        "doc_8141.txt",
+        "doc_15601.txt"
+    ]
+}

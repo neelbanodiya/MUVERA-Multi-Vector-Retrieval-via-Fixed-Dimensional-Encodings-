@@ -1,0 +1,10 @@
+{
+    "query": "At what age was Henry VIII crowned king?",
+    "response": [
+        "doc_458.txt",
+        "doc_7331.txt",
+        "doc_21501.txt",
+        "doc_7330.txt",
+        "doc_9762.txt"
+    ]
+}

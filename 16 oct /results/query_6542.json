@@ -1,0 +1,10 @@
+{
+    "query": "Who was Confederate General Stonewall Jackson?",
+    "response": [
+        "doc_7051.txt",
+        "doc_12830.txt",
+        "doc_7052.txt",
+        "doc_6481.txt",
+        "doc_19975.txt"
+    ]
+}

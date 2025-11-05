@@ -1,0 +1,10 @@
+{
+    "query": "What album is associated with Guns N' Roses and featured in the Coachella reunion?",
+    "response": [
+        "doc_680.txt",
+        "doc_682.txt",
+        "doc_12713.txt",
+        "doc_4455.txt",
+        "doc_4605.txt"
+    ]
+}

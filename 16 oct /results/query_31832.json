@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, how many food booths were at Brighton Middle School\u2019s annual carnival?",
+    "response": [
+        "doc_18560.txt",
+        "doc_14352.txt",
+        "doc_818.txt",
+        "doc_13530.txt",
+        "doc_8912.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When did Yuri Gagarin beat Shepard into space?",
+    "response": [
+        "doc_617.txt",
+        "doc_602.txt",
+        "doc_600.txt",
+        "doc_615.txt",
+        "doc_607.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of cheese is mentioned as being produced in Italy, and where does its milk come from, based on the provided text?",
+    "response": [
+        "doc_11946.txt",
+        "doc_11945.txt",
+        "doc_21927.txt",
+        "doc_23445.txt",
+        "doc_23452.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What foods were made by the speaker and John Thomson?",
+    "response": [
+        "doc_1908.txt",
+        "doc_7086.txt",
+        "doc_17424.txt",
+        "doc_14362.txt",
+        "doc_14076.txt"
+    ]
+}

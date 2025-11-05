@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what are the typical roles assigned to actors in Kathakali performances?",
+    "response": [
+        "doc_2524.txt",
+        "doc_2525.txt",
+        "doc_2516.txt",
+        "doc_2517.txt",
+        "doc_2526.txt"
+    ]
+}

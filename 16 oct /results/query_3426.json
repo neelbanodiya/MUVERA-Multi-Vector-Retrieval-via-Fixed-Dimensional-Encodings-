@@ -1,0 +1,10 @@
+{
+    "query": "What was John Heinz\u2019s connection to the Heinz ketchup fortune?",
+    "response": [
+        "doc_2041.txt",
+        "doc_2042.txt",
+        "doc_2032.txt",
+        "doc_2033.txt",
+        "doc_2047.txt"
+    ]
+}

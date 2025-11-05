@@ -1,0 +1,10 @@
+{
+    "query": "What was the salary of the individuals expected to travel the circuit to hear federal cases, as mentioned in the Daily Kos article?",
+    "response": [
+        "doc_10500.txt",
+        "doc_15988.txt",
+        "doc_3828.txt",
+        "doc_4482.txt",
+        "doc_13283.txt"
+    ]
+}

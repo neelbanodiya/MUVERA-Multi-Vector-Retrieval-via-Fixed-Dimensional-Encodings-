@@ -1,0 +1,10 @@
+{
+    "query": "From what Latin word is the Cretaceous Period named?",
+    "response": [
+        "doc_8605.txt",
+        "doc_8615.txt",
+        "doc_8606.txt",
+        "doc_8611.txt",
+        "doc_8619.txt"
+    ]
+}

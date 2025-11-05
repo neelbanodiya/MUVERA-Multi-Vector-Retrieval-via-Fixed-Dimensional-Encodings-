@@ -1,0 +1,10 @@
+{
+    "query": "What is the geographical range of Red-tailed hawks?",
+    "response": [
+        "doc_2676.txt",
+        "doc_10612.txt",
+        "doc_10611.txt",
+        "doc_19030.txt",
+        "doc_2951.txt"
+    ]
+}

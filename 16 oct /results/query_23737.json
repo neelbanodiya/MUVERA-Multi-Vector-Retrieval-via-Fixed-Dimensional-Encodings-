@@ -1,0 +1,10 @@
+{
+    "query": "Which offices are monitoring the situation in Hebron?",
+    "response": [
+        "doc_13780.txt",
+        "doc_2.txt",
+        "doc_7761.txt",
+        "doc_17302.txt",
+        "doc_16105.txt"
+    ]
+}

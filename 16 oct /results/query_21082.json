@@ -1,0 +1,10 @@
+{
+    "query": "What event is scheduled for August 05, 2017, in Springfield, IL?",
+    "response": [
+        "doc_12166.txt",
+        "doc_4820.txt",
+        "doc_12164.txt",
+        "doc_12165.txt",
+        "doc_4819.txt"
+    ]
+}

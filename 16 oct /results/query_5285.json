@@ -1,0 +1,10 @@
+{
+    "query": "What album did Frank J. Holmes contribute artwork for in 2013?",
+    "response": [
+        "doc_3076.txt",
+        "doc_7826.txt",
+        "doc_14412.txt",
+        "doc_7825.txt",
+        "doc_5298.txt"
+    ]
+}

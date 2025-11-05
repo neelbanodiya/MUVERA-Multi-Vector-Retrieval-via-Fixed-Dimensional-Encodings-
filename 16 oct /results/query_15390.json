@@ -1,0 +1,10 @@
+{
+    "query": "With what animal did Samson kill a lion using only his bare hands?",
+    "response": [
+        "doc_8907.txt",
+        "doc_8901.txt",
+        "doc_8905.txt",
+        "doc_8902.txt",
+        "doc_8908.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked articles, what did the Dalai Lama encounter with Thomas Merton involve?",
+    "response": [
+        "doc_22709.txt",
+        "doc_18126.txt",
+        "doc_22707.txt",
+        "doc_1011.txt",
+        "doc_16160.txt"
+    ]
+}

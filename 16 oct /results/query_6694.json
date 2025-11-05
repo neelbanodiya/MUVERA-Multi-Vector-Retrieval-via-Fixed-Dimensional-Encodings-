@@ -1,0 +1,10 @@
+{
+    "query": "What composer arranged Gershwin\u2019s \u201cPorgy And Bess\u201d?",
+    "response": [
+        "doc_3837.txt",
+        "doc_3838.txt",
+        "doc_3847.txt",
+        "doc_3839.txt",
+        "doc_3840.txt"
+    ]
+}

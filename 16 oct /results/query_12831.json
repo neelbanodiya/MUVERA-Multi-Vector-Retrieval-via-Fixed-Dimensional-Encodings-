@@ -1,0 +1,10 @@
+{
+    "query": "According to the \u201cCost of Unlawful Immigrants to the U.S. Taxpayers\u201d article, what types of programs receive significant funding from taxpayer dollars?",
+    "response": [
+        "doc_7460.txt",
+        "doc_7466.txt",
+        "doc_2740.txt",
+        "doc_23942.txt",
+        "doc_21433.txt"
+    ]
+}

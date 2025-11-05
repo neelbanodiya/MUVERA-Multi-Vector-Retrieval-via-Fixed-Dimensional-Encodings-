@@ -1,0 +1,10 @@
+{
+    "query": "What actions has the Venezuelan government taken against the democratic opposition?",
+    "response": [
+        "doc_34.txt",
+        "doc_15470.txt",
+        "doc_23377.txt",
+        "doc_8770.txt",
+        "doc_22239.txt"
+    ]
+}

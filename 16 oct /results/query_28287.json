@@ -1,0 +1,10 @@
+{
+    "query": "What shape was the cross on which St. Andrew was crucified?",
+    "response": [
+        "doc_16461.txt",
+        "doc_16458.txt",
+        "doc_16447.txt",
+        "doc_6929.txt",
+        "doc_5418.txt"
+    ]
+}

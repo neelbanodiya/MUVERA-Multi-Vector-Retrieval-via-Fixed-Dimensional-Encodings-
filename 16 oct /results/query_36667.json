@@ -1,0 +1,10 @@
+{
+    "query": "What is Nashville referred to as in one of the linked articles, and what is described as being present there?",
+    "response": [
+        "doc_16577.txt",
+        "doc_895.txt",
+        "doc_3381.txt",
+        "doc_13524.txt",
+        "doc_3840.txt"
+    ]
+}

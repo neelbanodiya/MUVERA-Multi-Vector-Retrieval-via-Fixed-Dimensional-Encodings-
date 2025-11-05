@@ -1,0 +1,10 @@
+{
+    "query": "What is Andre Rieu known for, according to the provided links?",
+    "response": [
+        "doc_6959.txt",
+        "doc_3689.txt",
+        "doc_3684.txt",
+        "doc_1848.txt",
+        "doc_1849.txt"
+    ]
+}

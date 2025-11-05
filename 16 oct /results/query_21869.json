@@ -1,0 +1,10 @@
+{
+    "query": "In what year did events related to a failed attack on a Turkish fleet occur?",
+    "response": [
+        "doc_17975.txt",
+        "doc_3914.txt",
+        "doc_22393.txt",
+        "doc_14203.txt",
+        "doc_20958.txt"
+    ]
+}

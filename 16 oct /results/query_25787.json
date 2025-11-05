@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of a fantasy book mentioned in the Wordly-Bird review?",
+    "response": [
+        "doc_3691.txt",
+        "doc_11146.txt",
+        "doc_15308.txt",
+        "doc_18583.txt",
+        "doc_5679.txt"
+    ]
+}

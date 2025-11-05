@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Ronald Reagan use the phrase \u201cIt\u2019s morning again in America\u201d during his re-election campaign?",
+    "response": [
+        "doc_15167.txt",
+        "doc_15168.txt",
+        "doc_15169.txt",
+        "doc_15172.txt",
+        "doc_15173.txt"
+    ]
+}

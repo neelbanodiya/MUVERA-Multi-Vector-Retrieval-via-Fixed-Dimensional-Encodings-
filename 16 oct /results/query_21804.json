@@ -1,0 +1,10 @@
+{
+    "query": "What role did the Egyptian goddess Maat play according to the provided text?",
+    "response": [
+        "doc_12557.txt",
+        "doc_12560.txt",
+        "doc_12558.txt",
+        "doc_12555.txt",
+        "doc_12561.txt"
+    ]
+}

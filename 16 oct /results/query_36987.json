@@ -1,0 +1,10 @@
+{
+    "query": "What event occurred on July 4, 1960, that marked Hawaii\u2019s statehood?",
+    "response": [
+        "doc_21646.txt",
+        "doc_21639.txt",
+        "doc_21635.txt",
+        "doc_6530.txt",
+        "doc_1856.txt"
+    ]
+}

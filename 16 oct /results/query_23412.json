@@ -1,0 +1,10 @@
+{
+    "query": "What evidence did Charles Darwin use to support his theory of evolution?",
+    "response": [
+        "doc_21383.txt",
+        "doc_21632.txt",
+        "doc_3445.txt",
+        "doc_967.txt",
+        "doc_12833.txt"
+    ]
+}

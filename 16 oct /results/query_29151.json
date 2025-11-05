@@ -1,0 +1,10 @@
+{
+    "query": "Name two individuals mentioned in the passage associated with Argentine literature.",
+    "response": [
+        "doc_18579.txt",
+        "doc_16977.txt",
+        "doc_16975.txt",
+        "doc_967.txt",
+        "doc_962.txt"
+    ]
+}

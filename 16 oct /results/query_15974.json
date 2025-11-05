@@ -1,0 +1,10 @@
+{
+    "query": "Which British Crown holds the legal system franchise by license?",
+    "response": [
+        "doc_9251.txt",
+        "doc_9675.txt",
+        "doc_4504.txt",
+        "doc_13368.txt",
+        "doc_21006.txt"
+    ]
+}

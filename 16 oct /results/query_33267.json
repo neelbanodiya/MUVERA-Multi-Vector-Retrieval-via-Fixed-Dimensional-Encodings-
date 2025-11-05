@@ -1,0 +1,10 @@
+{
+    "query": "What groups fought against American patriots during the American Revolution, according to the text?",
+    "response": [
+        "doc_17954.txt",
+        "doc_19361.txt",
+        "doc_10415.txt",
+        "doc_10417.txt",
+        "doc_17960.txt"
+    ]
+}

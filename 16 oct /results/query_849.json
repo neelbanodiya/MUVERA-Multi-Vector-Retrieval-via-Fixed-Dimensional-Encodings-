@@ -1,0 +1,10 @@
+{
+    "query": "What type of event was added to the festivities in Las Vegas in 2005?",
+    "response": [
+        "doc_13008.txt",
+        "doc_4570.txt",
+        "doc_17914.txt",
+        "doc_3509.txt",
+        "doc_103.txt"
+    ]
+}

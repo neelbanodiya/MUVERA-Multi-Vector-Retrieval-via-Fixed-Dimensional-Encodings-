@@ -1,0 +1,10 @@
+{
+    "query": "In which European city was Florence Nightingale born?",
+    "response": [
+        "doc_23748.txt",
+        "doc_23755.txt",
+        "doc_23750.txt",
+        "doc_8376.txt",
+        "doc_23753.txt"
+    ]
+}

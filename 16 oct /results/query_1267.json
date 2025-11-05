@@ -1,0 +1,10 @@
+{
+    "query": "What role did Andrea McArdle originate on Broadway?",
+    "response": [
+        "doc_726.txt",
+        "doc_17923.txt",
+        "doc_1966.txt",
+        "doc_17921.txt",
+        "doc_15242.txt"
+    ]
+}

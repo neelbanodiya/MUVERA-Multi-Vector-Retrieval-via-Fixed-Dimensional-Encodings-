@@ -1,0 +1,10 @@
+{
+    "query": "What action does the passage call for regarding the detainees at Guantanamo Bay?",
+    "response": [
+        "doc_1762.txt",
+        "doc_22395.txt",
+        "doc_19901.txt",
+        "doc_6492.txt",
+        "doc_6491.txt"
+    ]
+}

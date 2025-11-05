@@ -1,0 +1,10 @@
+{
+    "query": "What event led to Harold Wilson becoming Prime Minister in 1964?",
+    "response": [
+        "doc_4776.txt",
+        "doc_4785.txt",
+        "doc_4771.txt",
+        "doc_4777.txt",
+        "doc_4781.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the maximum value of a claim that can be handled under the European Small Claims Procedure?",
+    "response": [
+        "doc_3443.txt",
+        "doc_3439.txt",
+        "doc_3432.txt",
+        "doc_3447.txt",
+        "doc_3433.txt"
+    ]
+}

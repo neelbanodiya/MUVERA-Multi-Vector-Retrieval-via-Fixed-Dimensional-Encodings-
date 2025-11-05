@@ -1,0 +1,10 @@
+{
+    "query": "On what date did a political discussion occur between the Commission and the INTA committee?",
+    "response": [
+        "doc_22187.txt",
+        "doc_22186.txt",
+        "doc_16275.txt",
+        "doc_17393.txt",
+        "doc_17392.txt"
+    ]
+}

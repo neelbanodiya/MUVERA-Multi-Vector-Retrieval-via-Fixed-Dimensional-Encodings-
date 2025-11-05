@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is the role of Vitamin C in protecting cells from damage?",
+    "response": [
+        "doc_9502.txt",
+        "doc_9512.txt",
+        "doc_9506.txt",
+        "doc_6285.txt",
+        "doc_18266.txt"
+    ]
+}

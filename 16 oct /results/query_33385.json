@@ -1,0 +1,10 @@
+{
+    "query": "What holiday is specifically mentioned as having a \u201cBadniak\u201d ceremony?",
+    "response": [
+        "doc_94.txt",
+        "doc_19768.txt",
+        "doc_97.txt",
+        "doc_98.txt",
+        "doc_92.txt"
+    ]
+}

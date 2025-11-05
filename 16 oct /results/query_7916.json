@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 1 of the Protocol, how many seats will be added to the European Parliament?",
+    "response": [
+        "doc_15493.txt",
+        "doc_3440.txt",
+        "doc_13346.txt",
+        "doc_13322.txt",
+        "doc_21466.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of music was Big Brother and The Holding Company known for?",
+    "response": [
+        "doc_8012.txt",
+        "doc_8014.txt",
+        "doc_8011.txt",
+        "doc_15612.txt",
+        "doc_16350.txt"
+    ]
+}

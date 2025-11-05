@@ -1,0 +1,10 @@
+{
+    "query": "What phrase did President Nixon use in his November 3, 1969 speech to appeal to the public?",
+    "response": [
+        "doc_16469.txt",
+        "doc_16471.txt",
+        "doc_16476.txt",
+        "doc_16470.txt",
+        "doc_16475.txt"
+    ]
+}

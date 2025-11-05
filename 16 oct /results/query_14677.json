@@ -1,0 +1,10 @@
+{
+    "query": "Which actress played the character Rose DeWitt Bukater in *Titanic*?",
+    "response": [
+        "doc_8476.txt",
+        "doc_8488.txt",
+        "doc_8477.txt",
+        "doc_8480.txt",
+        "doc_8473.txt"
+    ]
+}

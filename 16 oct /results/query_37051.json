@@ -1,0 +1,10 @@
+{
+    "query": "During what time period did the CIA disseminate intelligence reports based on information from Soviet operatives?",
+    "response": [
+        "doc_21681.txt",
+        "doc_11982.txt",
+        "doc_22394.txt",
+        "doc_22393.txt",
+        "doc_22392.txt"
+    ]
+}

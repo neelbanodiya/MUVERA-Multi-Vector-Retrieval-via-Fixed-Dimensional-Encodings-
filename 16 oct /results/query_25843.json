@@ -1,0 +1,10 @@
+{
+    "query": "What international agreement, signed in Brussels in 1950, is referenced in relation to customs cooperation?",
+    "response": [
+        "doc_15026.txt",
+        "doc_5134.txt",
+        "doc_23109.txt",
+        "doc_7289.txt",
+        "doc_4063.txt"
+    ]
+}

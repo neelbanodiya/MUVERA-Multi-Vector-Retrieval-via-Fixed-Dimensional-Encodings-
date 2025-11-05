@@ -1,0 +1,10 @@
+{
+    "query": "To whom should a question about a contract with Scholz & Friends be directed?",
+    "response": [
+        "doc_1885.txt",
+        "doc_2231.txt",
+        "doc_23635.txt",
+        "doc_18303.txt",
+        "doc_3517.txt"
+    ]
+}

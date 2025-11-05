@@ -1,0 +1,10 @@
+{
+    "query": "Which university is associated with Lehigh University Press?",
+    "response": [
+        "doc_998.txt",
+        "doc_997.txt",
+        "doc_10715.txt",
+        "doc_134.txt",
+        "doc_9023.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What action did the European Parliament take with regard to the use of phthalates in toys and childcare articles?",
+    "response": [
+        "doc_23717.txt",
+        "doc_23718.txt",
+        "doc_17890.txt",
+        "doc_19582.txt",
+        "doc_133.txt"
+    ]
+}

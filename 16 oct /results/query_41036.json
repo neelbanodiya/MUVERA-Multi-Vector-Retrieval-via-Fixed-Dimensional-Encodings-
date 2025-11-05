@@ -1,0 +1,10 @@
+{
+    "query": "What type of procedure is specified for the legal basis proposed by the Commission?",
+    "response": [
+        "doc_23612.txt",
+        "doc_6295.txt",
+        "doc_13231.txt",
+        "doc_13361.txt",
+        "doc_24037.txt"
+    ]
+}

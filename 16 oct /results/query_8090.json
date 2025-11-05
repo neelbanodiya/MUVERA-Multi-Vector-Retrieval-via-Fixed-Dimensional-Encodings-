@@ -1,0 +1,10 @@
+{
+    "query": "What is the capital of French Polynesia, and what is its role in the country\u2019s economy?",
+    "response": [
+        "doc_4679.txt",
+        "doc_4685.txt",
+        "doc_4680.txt",
+        "doc_4682.txt",
+        "doc_4683.txt"
+    ]
+}

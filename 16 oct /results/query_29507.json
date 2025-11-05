@@ -1,0 +1,10 @@
+{
+    "query": "What body style did Chevrolet offer on the first generation Suburban?",
+    "response": [
+        "doc_17163.txt",
+        "doc_17155.txt",
+        "doc_17152.txt",
+        "doc_17164.txt",
+        "doc_17160.txt"
+    ]
+}

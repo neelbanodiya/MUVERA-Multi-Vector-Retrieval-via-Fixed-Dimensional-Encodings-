@@ -1,0 +1,10 @@
+{
+    "query": "What is mentioned in the text as a memorable line from the movie *Hannibal*?",
+    "response": [
+        "doc_18748.txt",
+        "doc_7762.txt",
+        "doc_19689.txt",
+        "doc_1580.txt",
+        "doc_18755.txt"
+    ]
+}

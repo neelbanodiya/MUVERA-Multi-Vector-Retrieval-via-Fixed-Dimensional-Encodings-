@@ -1,0 +1,10 @@
+{
+    "query": "According to \u201cThe Sunday Times,\u201d who is Dyas?",
+    "response": [
+        "doc_15142.txt",
+        "doc_2962.txt",
+        "doc_16592.txt",
+        "doc_6130.txt",
+        "doc_18431.txt"
+    ]
+}

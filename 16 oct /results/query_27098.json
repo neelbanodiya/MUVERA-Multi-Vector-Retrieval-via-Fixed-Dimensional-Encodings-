@@ -1,0 +1,10 @@
+{
+    "query": "Which Gulf rulers skipped the US summit?",
+    "response": [
+        "doc_9762.txt",
+        "doc_15732.txt",
+        "doc_8381.txt",
+        "doc_9760.txt",
+        "doc_15721.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who presided over Little Richard\u2019s wedding?",
+    "response": [
+        "doc_11245.txt",
+        "doc_431.txt",
+        "doc_3259.txt",
+        "doc_12640.txt",
+        "doc_6410.txt"
+    ]
+}

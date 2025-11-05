@@ -1,0 +1,10 @@
+{
+    "query": "In South Australia, is it legal to distill spirit for one\u2019s own consumption?",
+    "response": [
+        "doc_16948.txt",
+        "doc_5627.txt",
+        "doc_17892.txt",
+        "doc_5610.txt",
+        "doc_5611.txt"
+    ]
+}

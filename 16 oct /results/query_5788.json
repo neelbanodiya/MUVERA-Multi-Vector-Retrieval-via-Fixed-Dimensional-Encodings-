@@ -1,0 +1,10 @@
+{
+    "query": "What musical artists are associated with the Pygmies, according to one source?",
+    "response": [
+        "doc_15612.txt",
+        "doc_10075.txt",
+        "doc_12713.txt",
+        "doc_7664.txt",
+        "doc_10112.txt"
+    ]
+}

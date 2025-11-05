@@ -1,0 +1,10 @@
+{
+    "query": "What type of bivalves were affected by polymorpha in the St. Lawrence River?",
+    "response": [
+        "doc_13075.txt",
+        "doc_12122.txt",
+        "doc_18268.txt",
+        "doc_3464.txt",
+        "doc_2336.txt"
+    ]
+}

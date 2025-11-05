@@ -1,0 +1,10 @@
+{
+    "query": "What sounds are occasionally heard during a storm like Hurricane Matthew?",
+    "response": [
+        "doc_9518.txt",
+        "doc_18881.txt",
+        "doc_18245.txt",
+        "doc_8596.txt",
+        "doc_8008.txt"
+    ]
+}

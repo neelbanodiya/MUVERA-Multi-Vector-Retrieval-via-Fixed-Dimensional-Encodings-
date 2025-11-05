@@ -1,0 +1,10 @@
+{
+    "query": "Which players were inducted into the Hockey Hall of Fame in 2009?",
+    "response": [
+        "doc_15538.txt",
+        "doc_15535.txt",
+        "doc_15537.txt",
+        "doc_1999.txt",
+        "doc_2784.txt"
+    ]
+}

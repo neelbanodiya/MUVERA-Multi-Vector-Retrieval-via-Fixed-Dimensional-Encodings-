@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided information, what happened to The Chill Grill?",
+    "response": [
+        "doc_20875.txt",
+        "doc_4827.txt",
+        "doc_22064.txt",
+        "doc_17305.txt",
+        "doc_15807.txt"
+    ]
+}

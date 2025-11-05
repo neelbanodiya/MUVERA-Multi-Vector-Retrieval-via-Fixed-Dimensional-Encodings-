@@ -1,0 +1,10 @@
+{
+    "query": "Who freed Tommy Oliver from the stasis lock?",
+    "response": [
+        "doc_18941.txt",
+        "doc_4812.txt",
+        "doc_19261.txt",
+        "doc_8129.txt",
+        "doc_4275.txt"
+    ]
+}

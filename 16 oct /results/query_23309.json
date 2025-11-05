@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred in 1847 related to the Marines?",
+    "response": [
+        "doc_1349.txt",
+        "doc_17975.txt",
+        "doc_4954.txt",
+        "doc_16039.txt",
+        "doc_23464.txt"
+    ]
+}

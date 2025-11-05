@@ -1,0 +1,10 @@
+{
+    "query": "How old is the great, great grandmother from Seychelles?",
+    "response": [
+        "doc_14064.txt",
+        "doc_22303.txt",
+        "doc_1668.txt",
+        "doc_17905.txt",
+        "doc_22861.txt"
+    ]
+}

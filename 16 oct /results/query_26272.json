@@ -1,0 +1,10 @@
+{
+    "query": "How many Syrian refugees have sought refuge in Turkey since March 2011?",
+    "response": [
+        "doc_5074.txt",
+        "doc_4626.txt",
+        "doc_15261.txt",
+        "doc_15257.txt",
+        "doc_15260.txt"
+    ]
+}

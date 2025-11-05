@@ -1,0 +1,10 @@
+{
+    "query": "What award did Hanae Mori win?",
+    "response": [
+        "doc_10450.txt",
+        "doc_22023.txt",
+        "doc_22017.txt",
+        "doc_14822.txt",
+        "doc_22014.txt"
+    ]
+}

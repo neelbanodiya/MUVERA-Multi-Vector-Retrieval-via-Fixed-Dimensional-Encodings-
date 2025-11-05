@@ -1,0 +1,10 @@
+{
+    "query": "Which country won the gold medal in the women\u2019s slalom finals at the Sochi 2014 Winter Olympic Games?",
+    "response": [
+        "doc_15513.txt",
+        "doc_15515.txt",
+        "doc_15514.txt",
+        "doc_15511.txt",
+        "doc_15522.txt"
+    ]
+}

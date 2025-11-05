@@ -1,0 +1,10 @@
+{
+    "query": "According to the Chicago PD\u2019s Black Site investigation, what methods were used to resolve disputes beyond the formal legal system?",
+    "response": [
+        "doc_7951.txt",
+        "doc_1915.txt",
+        "doc_10306.txt",
+        "doc_12633.txt",
+        "doc_9029.txt"
+    ]
+}

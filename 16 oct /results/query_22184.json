@@ -1,0 +1,10 @@
+{
+    "query": "What types of books were included in the Armed Services Editions?",
+    "response": [
+        "doc_15558.txt",
+        "doc_9031.txt",
+        "doc_15550.txt",
+        "doc_4654.txt",
+        "doc_10630.txt"
+    ]
+}

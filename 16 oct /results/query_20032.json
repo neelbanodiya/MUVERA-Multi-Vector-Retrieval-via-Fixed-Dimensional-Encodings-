@@ -1,0 +1,10 @@
+{
+    "query": "What type of artist was Xavier Roberts when he created the Cabbage Patch Kids?",
+    "response": [
+        "doc_11552.txt",
+        "doc_11546.txt",
+        "doc_11553.txt",
+        "doc_11554.txt",
+        "doc_11556.txt"
+    ]
+}

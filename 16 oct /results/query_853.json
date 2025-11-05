@@ -1,0 +1,10 @@
+{
+    "query": "Which actor played more characters on *Dark Shadows* than any other actor?",
+    "response": [
+        "doc_18825.txt",
+        "doc_17778.txt",
+        "doc_23286.txt",
+        "doc_4462.txt",
+        "doc_4873.txt"
+    ]
+}

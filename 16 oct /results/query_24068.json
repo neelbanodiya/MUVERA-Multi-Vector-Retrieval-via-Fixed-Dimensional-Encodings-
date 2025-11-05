@@ -1,0 +1,10 @@
+{
+    "query": "Who was one of Egypt\u2019s greatest Kings mentioned in the passage?",
+    "response": [
+        "doc_1252.txt",
+        "doc_3689.txt",
+        "doc_506.txt",
+        "doc_505.txt",
+        "doc_9760.txt"
+    ]
+}

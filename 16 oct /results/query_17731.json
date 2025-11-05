@@ -1,0 +1,10 @@
+{
+    "query": "What system is now back up and running for Denver residents regarding parking tickets?",
+    "response": [
+        "doc_10286.txt",
+        "doc_11120.txt",
+        "doc_15583.txt",
+        "doc_9776.txt",
+        "doc_1887.txt"
+    ]
+}

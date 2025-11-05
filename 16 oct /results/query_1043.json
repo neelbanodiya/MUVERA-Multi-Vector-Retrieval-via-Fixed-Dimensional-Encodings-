@@ -1,0 +1,10 @@
+{
+    "query": "How many gold medals did Charles Barkley win as a member of the \u201cDream Team\u201d?",
+    "response": [
+        "doc_12639.txt",
+        "doc_12638.txt",
+        "doc_20131.txt",
+        "doc_13633.txt",
+        "doc_18242.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what decade did Dali develop his \u201cparanoiac-critical method\u201d?",
+    "response": [
+        "doc_11788.txt",
+        "doc_11784.txt",
+        "doc_11781.txt",
+        "doc_11787.txt",
+        "doc_11785.txt"
+    ]
+}

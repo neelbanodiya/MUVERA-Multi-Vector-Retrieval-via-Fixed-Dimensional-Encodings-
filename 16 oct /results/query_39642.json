@@ -1,0 +1,10 @@
+{
+    "query": "What year was Lake Forest, Illinois founded?",
+    "response": [
+        "doc_1654.txt",
+        "doc_23216.txt",
+        "doc_3563.txt",
+        "doc_23215.txt",
+        "doc_8279.txt"
+    ]
+}

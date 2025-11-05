@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the hotel that features Chandeliers from New York\u2019s Plaza Hotel?",
+    "response": [
+        "doc_573.txt",
+        "doc_568.txt",
+        "doc_572.txt",
+        "doc_564.txt",
+        "doc_574.txt"
+    ]
+}

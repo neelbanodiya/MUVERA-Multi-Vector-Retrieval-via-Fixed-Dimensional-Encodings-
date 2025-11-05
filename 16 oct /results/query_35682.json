@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 6, what procedure should the Union follow when adopting a measure as outlined in Article 26 of the Interim Agreement and Article 39 of the SAA?",
+    "response": [
+        "doc_20812.txt",
+        "doc_20804.txt",
+        "doc_20793.txt",
+        "doc_20794.txt",
+        "doc_20775.txt"
+    ]
+}

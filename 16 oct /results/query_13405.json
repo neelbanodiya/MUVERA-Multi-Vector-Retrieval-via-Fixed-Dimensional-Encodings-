@@ -1,0 +1,10 @@
+{
+    "query": "Which Commission member made a statement regarding the Northern Dimension?",
+    "response": [
+        "doc_7842.txt",
+        "doc_12899.txt",
+        "doc_19803.txt",
+        "doc_21624.txt",
+        "doc_11437.txt"
+    ]
+}

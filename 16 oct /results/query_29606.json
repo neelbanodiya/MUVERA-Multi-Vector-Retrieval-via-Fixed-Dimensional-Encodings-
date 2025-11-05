@@ -1,0 +1,10 @@
+{
+    "query": "When were Oswald the Lucky Rabbit and Mickey Mouse created?",
+    "response": [
+        "doc_17192.txt",
+        "doc_17203.txt",
+        "doc_17196.txt",
+        "doc_17202.txt",
+        "doc_17197.txt"
+    ]
+}

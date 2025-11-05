@@ -1,0 +1,10 @@
+{
+    "query": "Who was Mick Jagger\u2019s former partner?",
+    "response": [
+        "doc_1021.txt",
+        "doc_7942.txt",
+        "doc_355.txt",
+        "doc_7888.txt",
+        "doc_6130.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What temperature is ideal for Champagne?",
+    "response": [
+        "doc_16609.txt",
+        "doc_15370.txt",
+        "doc_8678.txt",
+        "doc_16326.txt",
+        "doc_10559.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What event is being described in the title \"Powwow - Native American Cultural Programs\"?",
+    "response": [
+        "doc_15352.txt",
+        "doc_15367.txt",
+        "doc_15354.txt",
+        "doc_15357.txt",
+        "doc_15366.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What measures were adopted by the European Parliament to combat money laundering and financing of terrorism?",
+    "response": [
+        "doc_14344.txt",
+        "doc_10828.txt",
+        "doc_5636.txt",
+        "doc_15133.txt",
+        "doc_9154.txt"
+    ]
+}

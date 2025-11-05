@@ -1,0 +1,10 @@
+{
+    "query": "How many Olympic gold medals did Venus and Serena Williams win together?",
+    "response": [
+        "doc_6287.txt",
+        "doc_15509.txt",
+        "doc_19047.txt",
+        "doc_19048.txt",
+        "doc_19244.txt"
+    ]
+}

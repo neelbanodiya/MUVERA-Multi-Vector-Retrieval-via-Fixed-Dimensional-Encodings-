@@ -1,0 +1,10 @@
+{
+    "query": "How many former players have been inducted into the College Football Hall of Fame for the Wisconsin Badgers?",
+    "response": [
+        "doc_1879.txt",
+        "doc_1880.txt",
+        "doc_22644.txt",
+        "doc_12990.txt",
+        "doc_24239.txt"
+    ]
+}

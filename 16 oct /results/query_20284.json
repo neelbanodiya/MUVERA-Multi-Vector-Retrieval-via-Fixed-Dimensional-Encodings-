@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of the *Trojan Family Magazine* published in Spring 2016?",
+    "response": [
+        "doc_11696.txt",
+        "doc_695.txt",
+        "doc_3695.txt",
+        "doc_5930.txt",
+        "doc_19458.txt"
+    ]
+}

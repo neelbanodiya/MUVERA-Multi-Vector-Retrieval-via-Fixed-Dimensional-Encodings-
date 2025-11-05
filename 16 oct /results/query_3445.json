@@ -1,0 +1,10 @@
+{
+    "query": "How did Sen. John Heinz introduce Teresa Heinz to Sen. John Kerry?",
+    "response": [
+        "doc_2036.txt",
+        "doc_2038.txt",
+        "doc_2033.txt",
+        "doc_2035.txt",
+        "doc_2045.txt"
+    ]
+}

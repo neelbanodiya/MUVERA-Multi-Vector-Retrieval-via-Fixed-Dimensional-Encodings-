@@ -1,0 +1,10 @@
+{
+    "query": "What type of performance did the author make their Off-Broadway debut in?",
+    "response": [
+        "doc_249.txt",
+        "doc_17758.txt",
+        "doc_19425.txt",
+        "doc_13612.txt",
+        "doc_21086.txt"
+    ]
+}

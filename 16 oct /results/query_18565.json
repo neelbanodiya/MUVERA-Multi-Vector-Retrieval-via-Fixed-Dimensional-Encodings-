@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided information, when did Nazi troops invade Poland?",
+    "response": [
+        "doc_10771.txt",
+        "doc_10769.txt",
+        "doc_10777.txt",
+        "doc_10772.txt",
+        "doc_10776.txt"
+    ]
+}

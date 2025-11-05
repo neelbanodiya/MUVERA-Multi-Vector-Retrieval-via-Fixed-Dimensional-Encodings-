@@ -1,0 +1,10 @@
+{
+    "query": "What was the population of Weston, Massachusetts, as of the 2010 U.S. Census?",
+    "response": [
+        "doc_2259.txt",
+        "doc_22542.txt",
+        "doc_2258.txt",
+        "doc_23216.txt",
+        "doc_3185.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the war hero played by Corey Hawkins in the film?",
+    "response": [
+        "doc_1560.txt",
+        "doc_4581.txt",
+        "doc_23558.txt",
+        "doc_17778.txt",
+        "doc_18600.txt"
+    ]
+}

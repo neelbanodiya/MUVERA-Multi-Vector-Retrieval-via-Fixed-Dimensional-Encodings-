@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what year did the first issue of the Austin Chronicle appear?",
+    "response": [
+        "doc_23571.txt",
+        "doc_7242.txt",
+        "doc_5162.txt",
+        "doc_7927.txt",
+        "doc_3833.txt"
+    ]
+}

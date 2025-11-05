@@ -1,0 +1,10 @@
+{
+    "query": "Which school of communication is associated with Marshall McLuhan and Robert K. Logan?",
+    "response": [
+        "doc_14424.txt",
+        "doc_6948.txt",
+        "doc_6947.txt",
+        "doc_12844.txt",
+        "doc_6945.txt"
+    ]
+}

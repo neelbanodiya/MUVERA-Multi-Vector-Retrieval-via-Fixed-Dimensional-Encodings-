@@ -1,0 +1,10 @@
+{
+    "query": "When did Pope Benedict XVI first visit the United States?",
+    "response": [
+        "doc_16233.txt",
+        "doc_16243.txt",
+        "doc_16234.txt",
+        "doc_16236.txt",
+        "doc_16239.txt"
+    ]
+}

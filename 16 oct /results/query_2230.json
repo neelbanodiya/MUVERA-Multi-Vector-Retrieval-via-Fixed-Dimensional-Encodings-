@@ -1,0 +1,10 @@
+{
+    "query": "What countries, according to the article, will the MIT unit be conducting intelligence operations in?",
+    "response": [
+        "doc_4803.txt",
+        "doc_1320.txt",
+        "doc_8161.txt",
+        "doc_18589.txt",
+        "doc_10520.txt"
+    ]
+}

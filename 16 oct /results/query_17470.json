@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of a poem frequently misread in America?",
+    "response": [
+        "doc_2883.txt",
+        "doc_23901.txt",
+        "doc_1495.txt",
+        "doc_6538.txt",
+        "doc_5509.txt"
+    ]
+}

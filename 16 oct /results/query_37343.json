@@ -1,0 +1,10 @@
+{
+    "query": "What specific RV model is mentioned in a 2006 Fleetwood Pace Arrow review?",
+    "response": [
+        "doc_21862.txt",
+        "doc_21859.txt",
+        "doc_21856.txt",
+        "doc_21863.txt",
+        "doc_21861.txt"
+    ]
+}

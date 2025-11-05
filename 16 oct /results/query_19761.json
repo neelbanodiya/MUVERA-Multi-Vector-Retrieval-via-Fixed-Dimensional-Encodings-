@@ -1,0 +1,10 @@
+{
+    "query": "Which artist recorded \u201cUp on the Roof,\u201d a song originally written by Gerry Goffin and Carole King?",
+    "response": [
+        "doc_11417.txt",
+        "doc_11429.txt",
+        "doc_11431.txt",
+        "doc_11416.txt",
+        "doc_11430.txt"
+    ]
+}

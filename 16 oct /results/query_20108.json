@@ -1,0 +1,10 @@
+{
+    "query": "In what play did Julia Sweeney write and star after being diagnosed with cancer?",
+    "response": [
+        "doc_11624.txt",
+        "doc_2505.txt",
+        "doc_4631.txt",
+        "doc_2503.txt",
+        "doc_21156.txt"
+    ]
+}

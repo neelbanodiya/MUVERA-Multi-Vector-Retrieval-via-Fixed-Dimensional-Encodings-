@@ -1,0 +1,10 @@
+{
+    "query": "What year was Mean Joe Greene drafted by the Pittsburgh Steelers?",
+    "response": [
+        "doc_12995.txt",
+        "doc_12987.txt",
+        "doc_12993.txt",
+        "doc_13004.txt",
+        "doc_12992.txt"
+    ]
+}

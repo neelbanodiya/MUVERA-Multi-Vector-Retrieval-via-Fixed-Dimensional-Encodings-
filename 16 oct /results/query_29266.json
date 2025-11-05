@@ -1,0 +1,10 @@
+{
+    "query": "What film is Cedric Klapisch associated with?",
+    "response": [
+        "doc_16925.txt",
+        "doc_8486.txt",
+        "doc_7767.txt",
+        "doc_5327.txt",
+        "doc_17778.txt"
+    ]
+}

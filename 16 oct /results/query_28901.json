@@ -1,0 +1,10 @@
+{
+    "query": "What type of aircraft was involved in the ValuJet disaster?",
+    "response": [
+        "doc_16839.txt",
+        "doc_16838.txt",
+        "doc_16841.txt",
+        "doc_22505.txt",
+        "doc_22504.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When and where was Frederick Douglass born?",
+    "response": [
+        "doc_4965.txt",
+        "doc_4966.txt",
+        "doc_4973.txt",
+        "doc_4969.txt",
+        "doc_4962.txt"
+    ]
+}

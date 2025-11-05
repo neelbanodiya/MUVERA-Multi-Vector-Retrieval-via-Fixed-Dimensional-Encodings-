@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided information, how was T.S. Eliot\u2019s work compared to another notable poem?",
+    "response": [
+        "doc_6552.txt",
+        "doc_4170.txt",
+        "doc_6705.txt",
+        "doc_3820.txt",
+        "doc_17758.txt"
+    ]
+}

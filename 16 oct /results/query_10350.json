@@ -1,0 +1,10 @@
+{
+    "query": "What river was a key location for battles involving General James Wolfe?",
+    "response": [
+        "doc_204.txt",
+        "doc_10419.txt",
+        "doc_190.txt",
+        "doc_11580.txt",
+        "doc_10056.txt"
+    ]
+}

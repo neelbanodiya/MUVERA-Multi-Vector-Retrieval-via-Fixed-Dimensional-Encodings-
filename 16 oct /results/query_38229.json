@@ -1,0 +1,10 @@
+{
+    "query": "What activities does one person enjoy at the Empire State Plaza, as mentioned in one of the links?",
+    "response": [
+        "doc_22423.txt",
+        "doc_22424.txt",
+        "doc_22431.txt",
+        "doc_22428.txt",
+        "doc_15353.txt"
+    ]
+}

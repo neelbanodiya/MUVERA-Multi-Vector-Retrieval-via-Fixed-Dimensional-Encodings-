@@ -1,0 +1,10 @@
+{
+    "query": "Approximately when did Marco Polo\u2019s father and uncle arrive at the Khan\u2019s court (near Pekin)?",
+    "response": [
+        "doc_2300.txt",
+        "doc_2305.txt",
+        "doc_2310.txt",
+        "doc_2299.txt",
+        "doc_2307.txt"
+    ]
+}

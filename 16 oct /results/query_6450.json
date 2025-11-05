@@ -1,0 +1,10 @@
+{
+    "query": "Which fictional city in Maine is referenced in several of the linked resources?",
+    "response": [
+        "doc_18577.txt",
+        "doc_23796.txt",
+        "doc_14034.txt",
+        "doc_9250.txt",
+        "doc_22244.txt"
+    ]
+}

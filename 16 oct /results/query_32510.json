@@ -1,0 +1,10 @@
+{
+    "query": "In what television show did Vonda Shepard perform as a resident performer?",
+    "response": [
+        "doc_8655.txt",
+        "doc_11624.txt",
+        "doc_4476.txt",
+        "doc_4643.txt",
+        "doc_12613.txt"
+    ]
+}

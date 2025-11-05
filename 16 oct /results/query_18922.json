@@ -1,0 +1,10 @@
+{
+    "query": "What event in May 1989 involved over a million people marching in Beijing?",
+    "response": [
+        "doc_10970.txt",
+        "doc_10971.txt",
+        "doc_10988.txt",
+        "doc_10975.txt",
+        "doc_10985.txt"
+    ]
+}

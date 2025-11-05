@@ -1,0 +1,10 @@
+{
+    "query": "What types of grapes are grown in Napa Valley?",
+    "response": [
+        "doc_12848.txt",
+        "doc_8218.txt",
+        "doc_9291.txt",
+        "doc_8227.txt",
+        "doc_8219.txt"
+    ]
+}

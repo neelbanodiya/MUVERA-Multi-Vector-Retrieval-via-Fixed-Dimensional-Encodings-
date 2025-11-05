@@ -1,0 +1,10 @@
+{
+    "query": "What was Alexander Graham Bell\u2019s mother\u2019s name?",
+    "response": [
+        "doc_1660.txt",
+        "doc_15414.txt",
+        "doc_23598.txt",
+        "doc_6564.txt",
+        "doc_19873.txt"
+    ]
+}

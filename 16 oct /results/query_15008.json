@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the first \u201cpocket-sized\u201d transistor radio released by Sony?",
+    "response": [
+        "doc_8699.txt",
+        "doc_8700.txt",
+        "doc_8701.txt",
+        "doc_8702.txt",
+        "doc_8708.txt"
+    ]
+}

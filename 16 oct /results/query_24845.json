@@ -1,0 +1,10 @@
+{
+    "query": "When was \u201cRalph Breaks the Internet: Wreck-It Ralph 2\u201d scheduled to be released?",
+    "response": [
+        "doc_16914.txt",
+        "doc_19272.txt",
+        "doc_11310.txt",
+        "doc_22032.txt",
+        "doc_9389.txt"
+    ]
+}

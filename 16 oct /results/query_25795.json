@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked resources, what is the Lexile level of a young adult version of a book in the juvenile chapter books category?",
+    "response": [
+        "doc_21235.txt",
+        "doc_12738.txt",
+        "doc_19205.txt",
+        "doc_5119.txt",
+        "doc_20896.txt"
+    ]
+}

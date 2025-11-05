@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the American singer\u2019s 36-disc boxed set?",
+    "response": [
+        "doc_8006.txt",
+        "doc_9871.txt",
+        "doc_4604.txt",
+        "doc_5278.txt",
+        "doc_4605.txt"
+    ]
+}

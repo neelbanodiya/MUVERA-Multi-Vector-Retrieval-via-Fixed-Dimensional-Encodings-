@@ -1,0 +1,10 @@
+{
+    "query": "The passage mentions six Russian letters that match English counterparts. What are they?",
+    "response": [
+        "doc_12380.txt",
+        "doc_2889.txt",
+        "doc_20879.txt",
+        "doc_20878.txt",
+        "doc_20880.txt"
+    ]
+}

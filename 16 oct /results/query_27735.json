@@ -1,0 +1,10 @@
+{
+    "query": "What kind of story does B.R. Myers write?",
+    "response": [
+        "doc_10393.txt",
+        "doc_20550.txt",
+        "doc_20548.txt",
+        "doc_20542.txt",
+        "doc_10392.txt"
+    ]
+}

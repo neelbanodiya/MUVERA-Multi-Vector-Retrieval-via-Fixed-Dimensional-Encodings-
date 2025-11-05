@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was Moses\u2019 role in relation to Joshua?",
+    "response": [
+        "doc_7914.txt",
+        "doc_7532.txt",
+        "doc_7533.txt",
+        "doc_7915.txt",
+        "doc_7916.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What genres does Babymetal combine in their music?",
+    "response": [
+        "doc_19461.txt",
+        "doc_19462.txt",
+        "doc_16349.txt",
+        "doc_19460.txt",
+        "doc_15612.txt"
+    ]
+}

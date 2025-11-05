@@ -1,0 +1,10 @@
+{
+    "query": "When did Weir marry Susan Martha?",
+    "response": [
+        "doc_1755.txt",
+        "doc_19551.txt",
+        "doc_1395.txt",
+        "doc_22469.txt",
+        "doc_22472.txt"
+    ]
+}

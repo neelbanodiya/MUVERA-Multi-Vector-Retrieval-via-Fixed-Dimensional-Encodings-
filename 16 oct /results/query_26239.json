@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the pianist win the First Prize in the International Chopin Competition?",
+    "response": [
+        "doc_15243.txt",
+        "doc_15244.txt",
+        "doc_21525.txt",
+        "doc_21519.txt",
+        "doc_15240.txt"
+    ]
+}

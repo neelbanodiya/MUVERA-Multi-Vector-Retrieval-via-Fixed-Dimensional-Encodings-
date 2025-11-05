@@ -1,0 +1,10 @@
+{
+    "query": "Which region in Portugal is associated with the earliest Portuguese settlers arriving from the Algarve?",
+    "response": [
+        "doc_17653.txt",
+        "doc_17652.txt",
+        "doc_17639.txt",
+        "doc_17642.txt",
+        "doc_8351.txt"
+    ]
+}

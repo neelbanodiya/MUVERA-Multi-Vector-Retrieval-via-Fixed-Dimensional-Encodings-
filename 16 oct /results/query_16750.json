@@ -1,0 +1,10 @@
+{
+    "query": "In what month was \u201cThe Thunder Rolls\u201d released as a single?",
+    "response": [
+        "doc_6335.txt",
+        "doc_9702.txt",
+        "doc_8696.txt",
+        "doc_4603.txt",
+        "doc_8469.txt"
+    ]
+}

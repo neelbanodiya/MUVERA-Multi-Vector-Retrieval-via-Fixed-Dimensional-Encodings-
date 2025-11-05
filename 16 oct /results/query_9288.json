@@ -1,0 +1,10 @@
+{
+    "query": "Who played the character Nico Blake in *Hollyoaks*?",
+    "response": [
+        "doc_7877.txt",
+        "doc_18954.txt",
+        "doc_15394.txt",
+        "doc_4007.txt",
+        "doc_17888.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what park is the Palm Springs Aerial Tramway located?",
+    "response": [
+        "doc_13013.txt",
+        "doc_13022.txt",
+        "doc_13031.txt",
+        "doc_13025.txt",
+        "doc_13020.txt"
+    ]
+}

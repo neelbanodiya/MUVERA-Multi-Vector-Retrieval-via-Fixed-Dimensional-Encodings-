@@ -1,0 +1,10 @@
+{
+    "query": "What types of vegetables are included in the Chicken-Quinoa Soup recipe?",
+    "response": [
+        "doc_9714.txt",
+        "doc_10429.txt",
+        "doc_15784.txt",
+        "doc_9727.txt",
+        "doc_8755.txt"
+    ]
+}

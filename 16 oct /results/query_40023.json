@@ -1,0 +1,10 @@
+{
+    "query": "What film did Jamie Linden write in 2010?",
+    "response": [
+        "doc_1812.txt",
+        "doc_2330.txt",
+        "doc_23433.txt",
+        "doc_9601.txt",
+        "doc_3713.txt"
+    ]
+}

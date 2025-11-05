@@ -1,0 +1,10 @@
+{
+    "query": "Besides Barcelona, which other provinces are part of Catalonia?",
+    "response": [
+        "doc_1001.txt",
+        "doc_1002.txt",
+        "doc_1009.txt",
+        "doc_1006.txt",
+        "doc_1003.txt"
+    ]
+}

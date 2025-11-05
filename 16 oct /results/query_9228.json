@@ -1,0 +1,10 @@
+{
+    "query": "Which song on \u201cGenesis Revisited\u201d was initially started by Peter Gabriel and later completed by Steve Hackett?",
+    "response": [
+        "doc_5318.txt",
+        "doc_13854.txt",
+        "doc_14550.txt",
+        "doc_5278.txt",
+        "doc_128.txt"
+    ]
+}

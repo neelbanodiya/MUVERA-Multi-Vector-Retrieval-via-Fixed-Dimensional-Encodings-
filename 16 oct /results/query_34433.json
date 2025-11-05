@@ -1,0 +1,10 @@
+{
+    "query": "When were the English lyrics to \u201cNos Galan\u201d written?",
+    "response": [
+        "doc_20025.txt",
+        "doc_2374.txt",
+        "doc_3845.txt",
+        "doc_21967.txt",
+        "doc_3817.txt"
+    ]
+}

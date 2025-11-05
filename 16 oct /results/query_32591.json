@@ -1,0 +1,10 @@
+{
+    "query": "When was the 15th SAARC Summit held?",
+    "response": [
+        "doc_14845.txt",
+        "doc_19244.txt",
+        "doc_16787.txt",
+        "doc_12600.txt",
+        "doc_17238.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote the screenplay for the film adaptation of *Sense and Sensibility*?",
+    "response": [
+        "doc_2325.txt",
+        "doc_2324.txt",
+        "doc_2317.txt",
+        "doc_2330.txt",
+        "doc_2323.txt"
+    ]
+}

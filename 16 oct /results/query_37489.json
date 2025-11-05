@@ -1,0 +1,10 @@
+{
+    "query": "What types of works did Beethoven create?",
+    "response": [
+        "doc_14563.txt",
+        "doc_166.txt",
+        "doc_22959.txt",
+        "doc_22535.txt",
+        "doc_15549.txt"
+    ]
+}

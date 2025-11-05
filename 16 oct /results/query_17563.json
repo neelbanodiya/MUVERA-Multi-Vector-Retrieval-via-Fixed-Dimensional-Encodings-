@@ -1,0 +1,10 @@
+{
+    "query": "What unusual material was used in Chris Ofili\u2019s artwork?",
+    "response": [
+        "doc_10167.txt",
+        "doc_14871.txt",
+        "doc_24106.txt",
+        "doc_11783.txt",
+        "doc_9035.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who independently invented calculus \u2013 Isaac Newton or Gottfried Wilhelm Leibniz?",
+    "response": [
+        "doc_11877.txt",
+        "doc_11875.txt",
+        "doc_11874.txt",
+        "doc_11882.txt",
+        "doc_11878.txt"
+    ]
+}

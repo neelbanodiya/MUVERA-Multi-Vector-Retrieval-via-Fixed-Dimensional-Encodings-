@@ -1,0 +1,10 @@
+{
+    "query": "When will the 20th anniversary Sakharov Prize be awarded?",
+    "response": [
+        "doc_16710.txt",
+        "doc_12312.txt",
+        "doc_13826.txt",
+        "doc_17240.txt",
+        "doc_5644.txt"
+    ]
+}

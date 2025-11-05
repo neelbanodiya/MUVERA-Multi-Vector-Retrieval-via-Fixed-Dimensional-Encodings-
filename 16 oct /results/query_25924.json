@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Winston Churchill leave the Conservative Party and join the Liberal Party?",
+    "response": [
+        "doc_15073.txt",
+        "doc_15071.txt",
+        "doc_15075.txt",
+        "doc_15072.txt",
+        "doc_15076.txt"
+    ]
+}

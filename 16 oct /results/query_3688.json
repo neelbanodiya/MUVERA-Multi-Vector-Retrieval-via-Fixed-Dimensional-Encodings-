@@ -1,0 +1,10 @@
+{
+    "query": "What is the prevailing view in English criminal law regarding the criminalization of individual omissions?",
+    "response": [
+        "doc_2174.txt",
+        "doc_18914.txt",
+        "doc_2173.txt",
+        "doc_2172.txt",
+        "doc_3092.txt"
+    ]
+}

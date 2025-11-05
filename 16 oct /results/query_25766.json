@@ -1,0 +1,10 @@
+{
+    "query": "Is the Commission aware of the situation in the Po Delta?",
+    "response": [
+        "doc_14973.txt",
+        "doc_14972.txt",
+        "doc_14096.txt",
+        "doc_6069.txt",
+        "doc_16708.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many women served as Cabinet Ministers in India during the Narendra Modi government, according to one of the linked articles?",
+    "response": [
+        "doc_9122.txt",
+        "doc_9119.txt",
+        "doc_9869.txt",
+        "doc_9118.txt",
+        "doc_9866.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what city was David\u2019s first restaurant outside of Spain located?",
+    "response": [
+        "doc_23417.txt",
+        "doc_10669.txt",
+        "doc_13510.txt",
+        "doc_2998.txt",
+        "doc_18346.txt"
+    ]
+}

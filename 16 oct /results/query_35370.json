@@ -1,0 +1,10 @@
+{
+    "query": "Who are some of the characters created by Walt Disney in the film *Pinocchio*?",
+    "response": [
+        "doc_20611.txt",
+        "doc_20619.txt",
+        "doc_20613.txt",
+        "doc_20618.txt",
+        "doc_20617.txt"
+    ]
+}

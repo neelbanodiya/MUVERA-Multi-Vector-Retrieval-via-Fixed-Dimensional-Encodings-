@@ -1,0 +1,10 @@
+{
+    "query": "What was Poe reported to have been drinking the night before his death?",
+    "response": [
+        "doc_6793.txt",
+        "doc_15667.txt",
+        "doc_15668.txt",
+        "doc_13882.txt",
+        "doc_3844.txt"
+    ]
+}

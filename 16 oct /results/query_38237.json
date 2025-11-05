@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, who oversaw the construction of the Empire State Plaza?",
+    "response": [
+        "doc_22433.txt",
+        "doc_22428.txt",
+        "doc_22424.txt",
+        "doc_22423.txt",
+        "doc_22430.txt"
+    ]
+}

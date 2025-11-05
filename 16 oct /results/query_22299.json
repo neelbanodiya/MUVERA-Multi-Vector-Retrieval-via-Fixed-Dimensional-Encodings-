@@ -1,0 +1,10 @@
+{
+    "query": "How did the introduction of American rootstock affect wine production in Napa Valley?",
+    "response": [
+        "doc_12848.txt",
+        "doc_10384.txt",
+        "doc_7355.txt",
+        "doc_15943.txt",
+        "doc_9253.txt"
+    ]
+}

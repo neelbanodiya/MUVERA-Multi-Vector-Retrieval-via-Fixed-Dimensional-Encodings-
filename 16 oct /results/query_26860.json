@@ -1,0 +1,10 @@
+{
+    "query": "If a claim exceeds EUR 220,000 per passenger, what is the limit to the carrier\u2019s liability?",
+    "response": [
+        "doc_15593.txt",
+        "doc_15591.txt",
+        "doc_15590.txt",
+        "doc_15607.txt",
+        "doc_15605.txt"
+    ]
+}

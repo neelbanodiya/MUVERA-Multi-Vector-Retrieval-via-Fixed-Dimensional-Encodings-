@@ -1,0 +1,10 @@
+{
+    "query": "What role did Sarah Siddons play in Sir Joshua Reynolds\u2019s work?",
+    "response": [
+        "doc_20407.txt",
+        "doc_20405.txt",
+        "doc_20418.txt",
+        "doc_20413.txt",
+        "doc_20411.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to one source, what is likened to a \u201cgame of Hungry Hungry Hippos\u201d in terms of resource competition?",
+    "response": [
+        "doc_20659.txt",
+        "doc_20666.txt",
+        "doc_20661.txt",
+        "doc_20281.txt",
+        "doc_16362.txt"
+    ]
+}

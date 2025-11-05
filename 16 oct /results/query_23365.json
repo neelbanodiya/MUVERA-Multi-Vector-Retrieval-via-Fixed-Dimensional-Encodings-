@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the singing legend who left his heart in San Francisco, as mentioned in a news article?",
+    "response": [
+        "doc_19675.txt",
+        "doc_17880.txt",
+        "doc_1887.txt",
+        "doc_4609.txt",
+        "doc_12563.txt"
+    ]
+}

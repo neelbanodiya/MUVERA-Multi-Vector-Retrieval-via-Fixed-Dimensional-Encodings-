@@ -1,0 +1,10 @@
+{
+    "query": "What kind of song did Michael Nesmith mention potentially busting into?",
+    "response": [
+        "doc_12573.txt",
+        "doc_7671.txt",
+        "doc_12576.txt",
+        "doc_1986.txt",
+        "doc_9794.txt"
+    ]
+}

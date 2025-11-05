@@ -1,0 +1,10 @@
+{
+    "query": "According to the Billboard Country Update from June 2016, which song did Tim McGraw perform with Kenny Chesney?",
+    "response": [
+        "doc_12252.txt",
+        "doc_6380.txt",
+        "doc_6382.txt",
+        "doc_12254.txt",
+        "doc_12251.txt"
+    ]
+}

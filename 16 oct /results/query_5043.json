@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, how many Americans are injured each year by these products?",
+    "response": [
+        "doc_11710.txt",
+        "doc_15151.txt",
+        "doc_12320.txt",
+        "doc_873.txt",
+        "doc_1061.txt"
+    ]
+}

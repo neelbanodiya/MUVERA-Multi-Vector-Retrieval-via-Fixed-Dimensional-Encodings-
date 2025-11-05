@@ -1,0 +1,10 @@
+{
+    "query": "Which actor is known for playing Rick Blaine in *Casablanca*?",
+    "response": [
+        "doc_18755.txt",
+        "doc_7864.txt",
+        "doc_21899.txt",
+        "doc_23995.txt",
+        "doc_18953.txt"
+    ]
+}

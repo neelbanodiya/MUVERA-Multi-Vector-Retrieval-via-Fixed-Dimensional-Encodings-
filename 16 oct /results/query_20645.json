@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the publication where Oliver Twist first appeared?",
+    "response": [
+        "doc_20539.txt",
+        "doc_8336.txt",
+        "doc_6752.txt",
+        "doc_7862.txt",
+        "doc_15276.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, in which regions of the United States is eating grits particularly popular?",
+    "response": [
+        "doc_8912.txt",
+        "doc_8920.txt",
+        "doc_8914.txt",
+        "doc_8924.txt",
+        "doc_8917.txt"
+    ]
+}

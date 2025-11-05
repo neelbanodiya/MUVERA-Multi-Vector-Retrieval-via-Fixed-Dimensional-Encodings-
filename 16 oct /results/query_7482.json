@@ -1,0 +1,10 @@
+{
+    "query": "What region is described as lying between the Euphrates and Tigris Rivers?",
+    "response": [
+        "doc_4335.txt",
+        "doc_4336.txt",
+        "doc_4338.txt",
+        "doc_4341.txt",
+        "doc_4337.txt"
+    ]
+}

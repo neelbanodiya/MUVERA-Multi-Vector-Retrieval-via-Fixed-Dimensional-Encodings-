@@ -1,0 +1,10 @@
+{
+    "query": "What is the Prudential station on the MBTA Green Line?",
+    "response": [
+        "doc_2.txt",
+        "doc_5.txt",
+        "doc_21402.txt",
+        "doc_10696.txt",
+        "doc_22765.txt"
+    ]
+}

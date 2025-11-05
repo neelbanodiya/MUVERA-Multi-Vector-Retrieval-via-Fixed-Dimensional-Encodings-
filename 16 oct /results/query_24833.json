@@ -1,0 +1,10 @@
+{
+    "query": "What does the Malaysian transport chief say about real-time flight tracking?",
+    "response": [
+        "doc_7010.txt",
+        "doc_6990.txt",
+        "doc_15103.txt",
+        "doc_7012.txt",
+        "doc_7015.txt"
+    ]
+}

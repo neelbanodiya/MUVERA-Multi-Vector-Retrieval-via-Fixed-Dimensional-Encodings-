@@ -1,0 +1,10 @@
+{
+    "query": "What is the subject of the painting \u201cThe Gleaners\u201d by Jean-Francois Millet?",
+    "response": [
+        "doc_4278.txt",
+        "doc_4277.txt",
+        "doc_4276.txt",
+        "doc_4280.txt",
+        "doc_4283.txt"
+    ]
+}

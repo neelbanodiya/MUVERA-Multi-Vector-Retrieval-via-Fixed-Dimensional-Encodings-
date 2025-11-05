@@ -1,0 +1,10 @@
+{
+    "query": "What is a common rating given to Ben & Jerry\u2019s ice cream, as mentioned in one of the snippets?",
+    "response": [
+        "doc_11890.txt",
+        "doc_22131.txt",
+        "doc_19671.txt",
+        "doc_7826.txt",
+        "doc_8913.txt"
+    ]
+}

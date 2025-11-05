@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Tammany Hall building\u2019s revival begin?",
+    "response": [
+        "doc_3382.txt",
+        "doc_16630.txt",
+        "doc_19972.txt",
+        "doc_19969.txt",
+        "doc_16936.txt"
+    ]
+}

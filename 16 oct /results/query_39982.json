@@ -1,0 +1,10 @@
+{
+    "query": "What color is the Coast Guard\u2019s new icebreaker?",
+    "response": [
+        "doc_16878.txt",
+        "doc_23412.txt",
+        "doc_10634.txt",
+        "doc_10646.txt",
+        "doc_10806.txt"
+    ]
+}

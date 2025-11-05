@@ -1,0 +1,10 @@
+{
+    "query": "Which actor received an Oscar nomination for their role in \u201cWho\u2019s Afraid of Virginia Woolf?\u201d",
+    "response": [
+        "doc_1486.txt",
+        "doc_1487.txt",
+        "doc_1492.txt",
+        "doc_1491.txt",
+        "doc_1485.txt"
+    ]
+}

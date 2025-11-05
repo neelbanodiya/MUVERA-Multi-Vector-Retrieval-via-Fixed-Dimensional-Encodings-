@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how far is Pitcairn Island from Easter Island?",
+    "response": [
+        "doc_14210.txt",
+        "doc_2237.txt",
+        "doc_2241.txt",
+        "doc_14191.txt",
+        "doc_13867.txt"
+    ]
+}

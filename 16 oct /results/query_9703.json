@@ -1,0 +1,10 @@
+{
+    "query": "How did *Hill Street Blues* compare to *NYPD Blue* in terms of public memory?",
+    "response": [
+        "doc_5593.txt",
+        "doc_5602.txt",
+        "doc_5598.txt",
+        "doc_10944.txt",
+        "doc_22773.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When did the person graduate from Herkimer College?",
+    "response": [
+        "doc_8984.txt",
+        "doc_4740.txt",
+        "doc_8981.txt",
+        "doc_4739.txt",
+        "doc_10448.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who was the first Canadian involved in the RAF?",
+    "response": [
+        "doc_12524.txt",
+        "doc_21249.txt",
+        "doc_21252.txt",
+        "doc_21256.txt",
+        "doc_21263.txt"
+    ]
+}

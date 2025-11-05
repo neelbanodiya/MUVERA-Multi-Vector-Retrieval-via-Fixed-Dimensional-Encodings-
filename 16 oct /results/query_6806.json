@@ -1,0 +1,10 @@
+{
+    "query": "The article from thelastpsychiatrist.com discusses reactions to women wearing makeup; what is one specific criticism presented in this article?",
+    "response": [
+        "doc_21598.txt",
+        "doc_9118.txt",
+        "doc_14228.txt",
+        "doc_19270.txt",
+        "doc_2785.txt"
+    ]
+}

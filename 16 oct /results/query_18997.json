@@ -1,0 +1,10 @@
+{
+    "query": "What was the name given to the area of Australia by Captain Cook?",
+    "response": [
+        "doc_11008.txt",
+        "doc_1764.txt",
+        "doc_1776.txt",
+        "doc_19681.txt",
+        "doc_13512.txt"
+    ]
+}

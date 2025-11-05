@@ -1,0 +1,10 @@
+{
+    "query": "At what age did Walt Whitman die?",
+    "response": [
+        "doc_20254.txt",
+        "doc_4609.txt",
+        "doc_3841.txt",
+        "doc_4167.txt",
+        "doc_7312.txt"
+    ]
+}

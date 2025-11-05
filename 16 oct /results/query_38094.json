@@ -1,0 +1,10 @@
+{
+    "query": "What agency did Sterling Archer initially work for?",
+    "response": [
+        "doc_22329.txt",
+        "doc_4791.txt",
+        "doc_16597.txt",
+        "doc_23629.txt",
+        "doc_23625.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Ringo Starr sing \u201cThey\u2019re gonna put me in the movies\u201d?",
+    "response": [
+        "doc_12826.txt",
+        "doc_18949.txt",
+        "doc_20568.txt",
+        "doc_17803.txt",
+        "doc_17101.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What specific action did Parliament request the European Commission to take concerning humanitarian aid to North Korea?",
+    "response": [
+        "doc_7869.txt",
+        "doc_3599.txt",
+        "doc_11110.txt",
+        "doc_23403.txt",
+        "doc_12932.txt"
+    ]
+}

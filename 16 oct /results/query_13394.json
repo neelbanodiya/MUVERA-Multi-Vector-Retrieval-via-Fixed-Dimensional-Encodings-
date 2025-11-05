@@ -1,0 +1,10 @@
+{
+    "query": "What is the current status of the Directive on minimum standards for refugee status, as mentioned in the passage?",
+    "response": [
+        "doc_11798.txt",
+        "doc_9692.txt",
+        "doc_4625.txt",
+        "doc_5073.txt",
+        "doc_11816.txt"
+    ]
+}

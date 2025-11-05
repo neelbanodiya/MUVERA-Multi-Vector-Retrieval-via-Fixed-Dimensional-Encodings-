@@ -1,0 +1,10 @@
+{
+    "query": "How does the passage describe the character of Wile E. Coyote in relation to other creatures like Turtle and Crow?",
+    "response": [
+        "doc_19207.txt",
+        "doc_19205.txt",
+        "doc_19217.txt",
+        "doc_19208.txt",
+        "doc_19211.txt"
+    ]
+}

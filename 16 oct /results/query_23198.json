@@ -1,0 +1,10 @@
+{
+    "query": "What is the context surrounding the shift in Marine training doctrine, as mentioned in one of the linked documents?",
+    "response": [
+        "doc_7951.txt",
+        "doc_21017.txt",
+        "doc_21020.txt",
+        "doc_12076.txt",
+        "doc_10908.txt"
+    ]
+}

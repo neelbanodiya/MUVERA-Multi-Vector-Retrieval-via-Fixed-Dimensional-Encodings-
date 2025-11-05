@@ -1,0 +1,10 @@
+{
+    "query": "When was the Bund or German Football Association founded in Leipzig?",
+    "response": [
+        "doc_8695.txt",
+        "doc_2602.txt",
+        "doc_3072.txt",
+        "doc_2603.txt",
+        "doc_3188.txt"
+    ]
+}

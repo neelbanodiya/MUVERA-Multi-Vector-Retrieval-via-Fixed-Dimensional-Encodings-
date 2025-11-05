@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided materials, what is Amnesty International\u2019s stated independence from?",
+    "response": [
+        "doc_1438.txt",
+        "doc_1439.txt",
+        "doc_1437.txt",
+        "doc_1428.txt",
+        "doc_1433.txt"
+    ]
+}

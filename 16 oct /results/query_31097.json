@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate elevation of Logan Pass?",
+    "response": [
+        "doc_23524.txt",
+        "doc_18128.txt",
+        "doc_18534.txt",
+        "doc_3320.txt",
+        "doc_1856.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When does Watson decorate the graves of fallen soldiers?",
+    "response": [
+        "doc_13040.txt",
+        "doc_13049.txt",
+        "doc_13048.txt",
+        "doc_13041.txt",
+        "doc_13043.txt"
+    ]
+}

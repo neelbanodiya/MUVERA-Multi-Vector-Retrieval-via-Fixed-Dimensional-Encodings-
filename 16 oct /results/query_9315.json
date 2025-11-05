@@ -1,0 +1,10 @@
+{
+    "query": "Which artist produced the song \u201cX You\u201d?",
+    "response": [
+        "doc_14724.txt",
+        "doc_5370.txt",
+        "doc_22672.txt",
+        "doc_14725.txt",
+        "doc_13592.txt"
+    ]
+}

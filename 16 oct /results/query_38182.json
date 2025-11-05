@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate height of the Ishtar Gate?",
+    "response": [
+        "doc_23524.txt",
+        "doc_22399.txt",
+        "doc_2665.txt",
+        "doc_21704.txt",
+        "doc_18910.txt"
+    ]
+}

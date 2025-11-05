@@ -1,0 +1,10 @@
+{
+    "query": "What was Miss Norman's estate bequeathed to Somerville College?",
+    "response": [
+        "doc_12640.txt",
+        "doc_20592.txt",
+        "doc_14375.txt",
+        "doc_12641.txt",
+        "doc_18151.txt"
+    ]
+}

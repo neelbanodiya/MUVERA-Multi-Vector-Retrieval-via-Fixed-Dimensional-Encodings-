@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Bank of America Plaza completed?",
+    "response": [
+        "doc_17314.txt",
+        "doc_17316.txt",
+        "doc_17317.txt",
+        "doc_19971.txt",
+        "doc_3382.txt"
+    ]
+}

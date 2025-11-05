@@ -1,0 +1,10 @@
+{
+    "query": "Who was Kish, and what was his relationship to Saul?",
+    "response": [
+        "doc_1239.txt",
+        "doc_1236.txt",
+        "doc_1253.txt",
+        "doc_1240.txt",
+        "doc_1237.txt"
+    ]
+}

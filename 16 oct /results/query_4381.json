@@ -1,0 +1,10 @@
+{
+    "query": "Who played the pregnant Minnesota police chief in \"Fargo\"?",
+    "response": [
+        "doc_2550.txt",
+        "doc_4392.txt",
+        "doc_15277.txt",
+        "doc_4584.txt",
+        "doc_4476.txt"
+    ]
+}

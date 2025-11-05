@@ -1,0 +1,10 @@
+{
+    "query": "Which film featured Barbara Stanwyck alongside other stars like Humphrey Bogart and Katharine Hepburn?",
+    "response": [
+        "doc_7651.txt",
+        "doc_21902.txt",
+        "doc_14388.txt",
+        "doc_5156.txt",
+        "doc_6005.txt"
+    ]
+}

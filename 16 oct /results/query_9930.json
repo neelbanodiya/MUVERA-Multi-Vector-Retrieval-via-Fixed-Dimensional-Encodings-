@@ -1,0 +1,10 @@
+{
+    "query": "Which organization announced the 2010 Edgar Allan Poe Awards winners?",
+    "response": [
+        "doc_5757.txt",
+        "doc_5761.txt",
+        "doc_5767.txt",
+        "doc_5758.txt",
+        "doc_5759.txt"
+    ]
+}

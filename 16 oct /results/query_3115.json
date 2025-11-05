@@ -1,0 +1,10 @@
+{
+    "query": "What musical styles are associated with the band Theory of a Deadman?",
+    "response": [
+        "doc_19461.txt",
+        "doc_16349.txt",
+        "doc_19463.txt",
+        "doc_19460.txt",
+        "doc_19462.txt"
+    ]
+}

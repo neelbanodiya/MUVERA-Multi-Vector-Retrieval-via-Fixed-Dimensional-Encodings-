@@ -1,0 +1,10 @@
+{
+    "query": "What type of film is \u201cNew York, New York,\u201d and who are the main actors?",
+    "response": [
+        "doc_4916.txt",
+        "doc_21902.txt",
+        "doc_21994.txt",
+        "doc_7023.txt",
+        "doc_22585.txt"
+    ]
+}

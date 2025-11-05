@@ -1,0 +1,10 @@
+{
+    "query": "Which countries, representing a majority of Member States, have ratified the Constitution?",
+    "response": [
+        "doc_17351.txt",
+        "doc_17341.txt",
+        "doc_17342.txt",
+        "doc_17353.txt",
+        "doc_22970.txt"
+    ]
+}

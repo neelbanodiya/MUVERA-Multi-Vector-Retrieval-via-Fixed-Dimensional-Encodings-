@@ -1,0 +1,10 @@
+{
+    "query": "What types of wildlife can be found in Alaska?",
+    "response": [
+        "doc_6634.txt",
+        "doc_4490.txt",
+        "doc_18155.txt",
+        "doc_6631.txt",
+        "doc_12303.txt"
+    ]
+}

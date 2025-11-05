@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the film starring Vanessa Redgrave that aired on ABC?",
+    "response": [
+        "doc_19281.txt",
+        "doc_493.txt",
+        "doc_19273.txt",
+        "doc_4822.txt",
+        "doc_19954.txt"
+    ]
+}

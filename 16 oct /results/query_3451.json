@@ -1,0 +1,10 @@
+{
+    "query": "What was the Heinz family\u2019s primary business before John Heinz\u2019s death?",
+    "response": [
+        "doc_2032.txt",
+        "doc_2041.txt",
+        "doc_2033.txt",
+        "doc_2037.txt",
+        "doc_2045.txt"
+    ]
+}

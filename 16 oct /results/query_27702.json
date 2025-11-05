@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary focus of the \u201cCities of Tomorrow\u201d study referenced in one of the URLs?",
+    "response": [
+        "doc_22399.txt",
+        "doc_21979.txt",
+        "doc_8925.txt",
+        "doc_14208.txt",
+        "doc_1196.txt"
+    ]
+}

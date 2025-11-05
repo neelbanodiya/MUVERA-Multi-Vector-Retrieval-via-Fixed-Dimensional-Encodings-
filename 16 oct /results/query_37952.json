@@ -1,0 +1,10 @@
+{
+    "query": "During whose reign did Malory write *Le Morte Darthur*?",
+    "response": [
+        "doc_22246.txt",
+        "doc_22247.txt",
+        "doc_22252.txt",
+        "doc_22244.txt",
+        "doc_22254.txt"
+    ]
+}

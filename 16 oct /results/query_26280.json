@@ -1,0 +1,10 @@
+{
+    "query": "Which international organizations are supporting efforts to end violence and promote a political solution in Syria?",
+    "response": [
+        "doc_15262.txt",
+        "doc_15264.txt",
+        "doc_9924.txt",
+        "doc_15263.txt",
+        "doc_19899.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which author is mentioned as being associated with William Gaddis and Jerzy Kosinski?",
+    "response": [
+        "doc_14077.txt",
+        "doc_1450.txt",
+        "doc_1451.txt",
+        "doc_14075.txt",
+        "doc_14082.txt"
+    ]
+}

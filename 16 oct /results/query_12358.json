@@ -1,0 +1,10 @@
+{
+    "query": "Which actors reprise their roles as Lorelai and Rory Gilmore in the upcoming reboot of the show?",
+    "response": [
+        "doc_7191.txt",
+        "doc_7192.txt",
+        "doc_7193.txt",
+        "doc_7196.txt",
+        "doc_7180.txt"
+    ]
+}

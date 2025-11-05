@@ -1,0 +1,10 @@
+{
+    "query": "How many additional Members of the European Parliament will be allowed to take their seats during the current legislature?",
+    "response": [
+        "doc_19062.txt",
+        "doc_8816.txt",
+        "doc_13398.txt",
+        "doc_9693.txt",
+        "doc_13258.txt"
+    ]
+}

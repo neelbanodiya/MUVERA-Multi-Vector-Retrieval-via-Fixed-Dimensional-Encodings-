@@ -1,0 +1,10 @@
+{
+    "query": "What animals are considered the most dangerous to hunt on foot in the Kruger National Park?",
+    "response": [
+        "doc_23393.txt",
+        "doc_23394.txt",
+        "doc_834.txt",
+        "doc_837.txt",
+        "doc_833.txt"
+    ]
+}

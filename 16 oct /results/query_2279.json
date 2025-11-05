@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission's stance on these criticisms?",
+    "response": [
+        "doc_21355.txt",
+        "doc_11888.txt",
+        "doc_11681.txt",
+        "doc_12151.txt",
+        "doc_1321.txt"
+    ]
+}

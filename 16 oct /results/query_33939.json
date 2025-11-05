@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what did Antiochus IV Epiphanes attempt to forbid?",
+    "response": [
+        "doc_9551.txt",
+        "doc_19776.txt",
+        "doc_7919.txt",
+        "doc_8907.txt",
+        "doc_9127.txt"
+    ]
+}

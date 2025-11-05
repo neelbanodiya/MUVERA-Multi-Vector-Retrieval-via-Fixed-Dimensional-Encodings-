@@ -1,0 +1,10 @@
+{
+    "query": "How are Latin adjectives of class 3 modified?",
+    "response": [
+        "doc_20876.txt",
+        "doc_20886.txt",
+        "doc_9050.txt",
+        "doc_20890.txt",
+        "doc_20879.txt"
+    ]
+}

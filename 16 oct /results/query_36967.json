@@ -1,0 +1,10 @@
+{
+    "query": "How many games did Evgeni Malkin play in during the 2011-12 season, and what was his goal total?",
+    "response": [
+        "doc_21626.txt",
+        "doc_2617.txt",
+        "doc_2005.txt",
+        "doc_10865.txt",
+        "doc_18215.txt"
+    ]
+}

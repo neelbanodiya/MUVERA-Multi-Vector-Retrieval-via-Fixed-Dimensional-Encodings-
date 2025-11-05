@@ -1,0 +1,10 @@
+{
+    "query": "What hotels are mentioned in connection with Boston\u2019s Old Town Trolley Tours?",
+    "response": [
+        "doc_1604.txt",
+        "doc_1605.txt",
+        "doc_1606.txt",
+        "doc_1614.txt",
+        "doc_1612.txt"
+    ]
+}

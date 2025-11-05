@@ -1,0 +1,10 @@
+{
+    "query": "What was the first historic observation made by the Grants?",
+    "response": [
+        "doc_16327.txt",
+        "doc_2177.txt",
+        "doc_23970.txt",
+        "doc_13510.txt",
+        "doc_20873.txt"
+    ]
+}

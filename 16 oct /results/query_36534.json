@@ -1,0 +1,10 @@
+{
+    "query": "According to the third URL (The book-lovers' anthology), what does Milton allow characters to do?",
+    "response": [
+        "doc_17758.txt",
+        "doc_20541.txt",
+        "doc_20542.txt",
+        "doc_20552.txt",
+        "doc_14658.txt"
+    ]
+}

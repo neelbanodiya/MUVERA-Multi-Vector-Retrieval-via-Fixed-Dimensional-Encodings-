@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \"Terminator 2: Judgment Day\" released?",
+    "response": [
+        "doc_4995.txt",
+        "doc_4991.txt",
+        "doc_4993.txt",
+        "doc_4984.txt",
+        "doc_4989.txt"
+    ]
+}

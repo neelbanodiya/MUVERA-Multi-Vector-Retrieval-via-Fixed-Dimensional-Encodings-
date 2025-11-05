@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the film that Ingmar Bergman developed from his own play Wood Painting?",
+    "response": [
+        "doc_7681.txt",
+        "doc_7690.txt",
+        "doc_7676.txt",
+        "doc_7688.txt",
+        "doc_7687.txt"
+    ]
+}

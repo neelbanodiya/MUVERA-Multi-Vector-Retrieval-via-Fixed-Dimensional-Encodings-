@@ -1,0 +1,10 @@
+{
+    "query": "What is the temperature like in Guam throughout the year?",
+    "response": [
+        "doc_10433.txt",
+        "doc_8373.txt",
+        "doc_9268.txt",
+        "doc_16865.txt",
+        "doc_9266.txt"
+    ]
+}

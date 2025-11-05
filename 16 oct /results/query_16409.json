@@ -1,0 +1,10 @@
+{
+    "query": "What has the author done since arriving in Afghanistan?",
+    "response": [
+        "doc_20554.txt",
+        "doc_17085.txt",
+        "doc_14090.txt",
+        "doc_21722.txt",
+        "doc_9230.txt"
+    ]
+}

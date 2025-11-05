@@ -1,0 +1,10 @@
+{
+    "query": "What types of amenities were available for rent in Venice during the early 20th century (e.g., cottages, tents)?",
+    "response": [
+        "doc_23370.txt",
+        "doc_20246.txt",
+        "doc_20249.txt",
+        "doc_5587.txt",
+        "doc_5562.txt"
+    ]
+}

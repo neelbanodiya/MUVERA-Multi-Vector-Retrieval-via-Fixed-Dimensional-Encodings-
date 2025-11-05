@@ -1,0 +1,10 @@
+{
+    "query": "What is James Bond\u2019s mission in the film *Goldfinger*?",
+    "response": [
+        "doc_9788.txt",
+        "doc_9789.txt",
+        "doc_9793.txt",
+        "doc_9790.txt",
+        "doc_9791.txt"
+    ]
+}

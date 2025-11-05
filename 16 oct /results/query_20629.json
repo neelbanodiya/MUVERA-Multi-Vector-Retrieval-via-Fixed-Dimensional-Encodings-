@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Jake Ballard?",
+    "response": [
+        "doc_15685.txt",
+        "doc_18244.txt",
+        "doc_7623.txt",
+        "doc_7628.txt",
+        "doc_7622.txt"
+    ]
+}

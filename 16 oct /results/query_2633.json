@@ -1,0 +1,10 @@
+{
+    "query": "What year was the movie *Goldeneye* released?",
+    "response": [
+        "doc_1231.txt",
+        "doc_9891.txt",
+        "doc_24187.txt",
+        "doc_12613.txt",
+        "doc_402.txt"
+    ]
+}

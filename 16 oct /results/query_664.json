@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, where is Loch Ness located?",
+    "response": [
+        "doc_369.txt",
+        "doc_374.txt",
+        "doc_8428.txt",
+        "doc_368.txt",
+        "doc_23796.txt"
+    ]
+}

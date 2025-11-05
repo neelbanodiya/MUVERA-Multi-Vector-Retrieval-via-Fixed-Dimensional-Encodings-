@@ -1,0 +1,10 @@
+{
+    "query": "What was O.J. Simpson picked up by in the mid-1990s?",
+    "response": [
+        "doc_3070.txt",
+        "doc_18478.txt",
+        "doc_5392.txt",
+        "doc_18931.txt",
+        "doc_9390.txt"
+    ]
+}

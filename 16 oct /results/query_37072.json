@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked recipes, what is a key component of Shrikhand?",
+    "response": [
+        "doc_21686.txt",
+        "doc_21693.txt",
+        "doc_4003.txt",
+        "doc_21685.txt",
+        "doc_17432.txt"
+    ]
+}

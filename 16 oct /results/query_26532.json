@@ -1,0 +1,10 @@
+{
+    "query": "What was a big hit on Broadway in 1928, as mentioned in one of the linked articles?",
+    "response": [
+        "doc_10594.txt",
+        "doc_17914.txt",
+        "doc_9820.txt",
+        "doc_22621.txt",
+        "doc_22622.txt"
+    ]
+}

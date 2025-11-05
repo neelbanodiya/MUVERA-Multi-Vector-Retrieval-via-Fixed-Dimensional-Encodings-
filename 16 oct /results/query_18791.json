@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, how many people are killed each year on EU roads?",
+    "response": [
+        "doc_10909.txt",
+        "doc_8447.txt",
+        "doc_8446.txt",
+        "doc_5617.txt",
+        "doc_21789.txt"
+    ]
+}

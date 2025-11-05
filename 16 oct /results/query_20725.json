@@ -1,0 +1,10 @@
+{
+    "query": "Which groups were represented by speakers during the debate on Euro-Mediterranean relations?",
+    "response": [
+        "doc_17340.txt",
+        "doc_17367.txt",
+        "doc_20033.txt",
+        "doc_1219.txt",
+        "doc_1027.txt"
+    ]
+}

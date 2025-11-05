@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many illegal immigrants are estimated to be working in sectors like construction and agriculture within the EU?",
+    "response": [
+        "doc_5635.txt",
+        "doc_12153.txt",
+        "doc_11813.txt",
+        "doc_85.txt",
+        "doc_6493.txt"
+    ]
+}

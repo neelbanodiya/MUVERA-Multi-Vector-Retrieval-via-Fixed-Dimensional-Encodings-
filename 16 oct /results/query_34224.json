@@ -1,0 +1,10 @@
+{
+    "query": "When will the EU-US Summit be held, and where?",
+    "response": [
+        "doc_16787.txt",
+        "doc_15389.txt",
+        "doc_15131.txt",
+        "doc_19902.txt",
+        "doc_12145.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what county is the village of Adderley located?",
+    "response": [
+        "doc_3185.txt",
+        "doc_11917.txt",
+        "doc_21027.txt",
+        "doc_23872.txt",
+        "doc_17128.txt"
+    ]
+}

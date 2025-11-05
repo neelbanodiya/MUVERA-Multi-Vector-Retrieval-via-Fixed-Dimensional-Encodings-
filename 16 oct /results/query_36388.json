@@ -1,0 +1,10 @@
+{
+    "query": "What year was *The Adventures of Robin Hood* released?",
+    "response": [
+        "doc_21245.txt",
+        "doc_21246.txt",
+        "doc_13089.txt",
+        "doc_21247.txt",
+        "doc_8897.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Pulitzer Prize-winning adaptation did *The Teahouse of the August Moon* adapt?",
+    "response": [
+        "doc_8797.txt",
+        "doc_5765.txt",
+        "doc_17176.txt",
+        "doc_6908.txt",
+        "doc_19272.txt"
+    ]
+}

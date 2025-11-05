@@ -1,0 +1,10 @@
+{
+    "query": "What is the release date of the album \"Legends Never Die\"?",
+    "response": [
+        "doc_2557.txt",
+        "doc_2416.txt",
+        "doc_2675.txt",
+        "doc_15313.txt",
+        "doc_4603.txt"
+    ]
+}

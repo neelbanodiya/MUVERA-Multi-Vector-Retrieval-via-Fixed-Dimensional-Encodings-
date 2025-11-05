@@ -1,0 +1,10 @@
+{
+    "query": "According to the Institute for Research on Poverty, what is the impact of racial stigma?",
+    "response": [
+        "doc_12889.txt",
+        "doc_9742.txt",
+        "doc_21016.txt",
+        "doc_13928.txt",
+        "doc_12883.txt"
+    ]
+}

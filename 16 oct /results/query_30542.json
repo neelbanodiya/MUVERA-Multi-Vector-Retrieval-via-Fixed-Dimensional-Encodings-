@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of one of Daniel Defoe\u2019s novels referenced in the passage?",
+    "response": [
+        "doc_17755.txt",
+        "doc_17763.txt",
+        "doc_17758.txt",
+        "doc_17753.txt",
+        "doc_17762.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What regions did the U.S. population of Steller sea lions inhabit in 1997?",
+    "response": [
+        "doc_2743.txt",
+        "doc_9621.txt",
+        "doc_16724.txt",
+        "doc_10157.txt",
+        "doc_919.txt"
+    ]
+}

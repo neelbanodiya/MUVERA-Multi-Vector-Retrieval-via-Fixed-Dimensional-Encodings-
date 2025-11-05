@@ -1,0 +1,10 @@
+{
+    "query": "What is the size of Jupiter\u2019s Great Red Spot?",
+    "response": [
+        "doc_1280.txt",
+        "doc_1282.txt",
+        "doc_1289.txt",
+        "doc_1285.txt",
+        "doc_1286.txt"
+    ]
+}

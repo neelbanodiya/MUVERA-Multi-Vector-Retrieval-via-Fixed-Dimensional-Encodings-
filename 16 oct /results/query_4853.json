@@ -1,0 +1,10 @@
+{
+    "query": "Where did Kelly of the Clue Crew report from in London?",
+    "response": [
+        "doc_2026.txt",
+        "doc_9492.txt",
+        "doc_6508.txt",
+        "doc_10557.txt",
+        "doc_12040.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the first elected legislative body established in Virginia in 1619?",
+    "response": [
+        "doc_10062.txt",
+        "doc_19326.txt",
+        "doc_10067.txt",
+        "doc_18663.txt",
+        "doc_18606.txt"
+    ]
+}

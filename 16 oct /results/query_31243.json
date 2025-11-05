@@ -1,0 +1,10 @@
+{
+    "query": "What album features extended solos by Wiseman?",
+    "response": [
+        "doc_7718.txt",
+        "doc_3128.txt",
+        "doc_128.txt",
+        "doc_12338.txt",
+        "doc_3913.txt"
+    ]
+}

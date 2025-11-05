@@ -1,0 +1,10 @@
+{
+    "query": "What is the current owner of One Liberty Plaza?",
+    "response": [
+        "doc_3381.txt",
+        "doc_3382.txt",
+        "doc_3380.txt",
+        "doc_570.txt",
+        "doc_14642.txt"
+    ]
+}

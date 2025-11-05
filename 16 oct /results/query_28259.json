@@ -1,0 +1,10 @@
+{
+    "query": "Who was made the patron saint of Scotland after the king\u2019s death?",
+    "response": [
+        "doc_16460.txt",
+        "doc_16463.txt",
+        "doc_16446.txt",
+        "doc_16450.txt",
+        "doc_16461.txt"
+    ]
+}

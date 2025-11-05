@@ -1,0 +1,10 @@
+{
+    "query": "What specific region in Nigeria is experiencing violence and destruction?",
+    "response": [
+        "doc_2315.txt",
+        "doc_19581.txt",
+        "doc_2316.txt",
+        "doc_1825.txt",
+        "doc_17822.txt"
+    ]
+}

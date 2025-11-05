@@ -1,0 +1,10 @@
+{
+    "query": "In what month and year did George Washington\u2019s forces suffer a defeat at Fort Necessity?",
+    "response": [
+        "doc_4014.txt",
+        "doc_4015.txt",
+        "doc_4311.txt",
+        "doc_4304.txt",
+        "doc_4313.txt"
+    ]
+}

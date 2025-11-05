@@ -1,0 +1,10 @@
+{
+    "query": "What states border the area surrounding Oahe Dam?",
+    "response": [
+        "doc_14040.txt",
+        "doc_14051.txt",
+        "doc_14046.txt",
+        "doc_14034.txt",
+        "doc_14037.txt"
+    ]
+}

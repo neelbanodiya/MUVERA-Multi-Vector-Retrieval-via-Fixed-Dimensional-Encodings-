@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, how many Ryder Cup players are considered among the greatest of all time?",
+    "response": [
+        "doc_3290.txt",
+        "doc_17048.txt",
+        "doc_14946.txt",
+        "doc_10759.txt",
+        "doc_7435.txt"
+    ]
+}

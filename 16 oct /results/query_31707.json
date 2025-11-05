@@ -1,0 +1,10 @@
+{
+    "query": "According to the Smithsonian article, what was one of Cleopatra\u2019s actions to demonstrate her wealth and status?",
+    "response": [
+        "doc_18491.txt",
+        "doc_1299.txt",
+        "doc_11049.txt",
+        "doc_13957.txt",
+        "doc_11048.txt"
+    ]
+}

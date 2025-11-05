@@ -1,0 +1,10 @@
+{
+    "query": "According to the intelligence reports, what is identified as the primary threat to European companies?",
+    "response": [
+        "doc_17167.txt",
+        "doc_5455.txt",
+        "doc_19815.txt",
+        "doc_15134.txt",
+        "doc_4706.txt"
+    ]
+}

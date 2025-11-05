@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what was the approximate length of a Roman mile?",
+    "response": [
+        "doc_6509.txt",
+        "doc_207.txt",
+        "doc_23698.txt",
+        "doc_15266.txt",
+        "doc_459.txt"
+    ]
+}

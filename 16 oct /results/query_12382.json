@@ -1,0 +1,10 @@
+{
+    "query": "Which Germanic tribes are specifically listed as having migrated to these warmer areas?",
+    "response": [
+        "doc_7205.txt",
+        "doc_7206.txt",
+        "doc_7208.txt",
+        "doc_7209.txt",
+        "doc_7210.txt"
+    ]
+}

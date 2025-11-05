@@ -1,0 +1,10 @@
+{
+    "query": "What type of music did Dot Dizaster perform in Pakistan?",
+    "response": [
+        "doc_22692.txt",
+        "doc_22696.txt",
+        "doc_5250.txt",
+        "doc_22689.txt",
+        "doc_22695.txt"
+    ]
+}

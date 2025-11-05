@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of the population in Bozeman is Hispanic?",
+    "response": [
+        "doc_12883.txt",
+        "doc_12888.txt",
+        "doc_3205.txt",
+        "doc_9025.txt",
+        "doc_19118.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What kind of inlay did JJ have on his instruments?",
+    "response": [
+        "doc_1959.txt",
+        "doc_22803.txt",
+        "doc_12775.txt",
+        "doc_17338.txt",
+        "doc_12866.txt"
+    ]
+}

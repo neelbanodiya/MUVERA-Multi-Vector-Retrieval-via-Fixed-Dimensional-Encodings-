@@ -1,0 +1,10 @@
+{
+    "query": "How is Shiva often depicted?",
+    "response": [
+        "doc_11519.txt",
+        "doc_11518.txt",
+        "doc_11523.txt",
+        "doc_11522.txt",
+        "doc_11517.txt"
+    ]
+}

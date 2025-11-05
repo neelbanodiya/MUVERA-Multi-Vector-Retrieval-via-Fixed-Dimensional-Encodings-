@@ -1,0 +1,10 @@
+{
+    "query": "How many Somali people have been displaced by fighting since 2007?",
+    "response": [
+        "doc_14402.txt",
+        "doc_8112.txt",
+        "doc_14401.txt",
+        "doc_5074.txt",
+        "doc_15257.txt"
+    ]
+}

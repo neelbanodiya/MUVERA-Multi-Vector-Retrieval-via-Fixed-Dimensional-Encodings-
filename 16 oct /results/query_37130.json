@@ -1,0 +1,10 @@
+{
+    "query": "Where is the International Monetary Fund (IMF) headquartered?",
+    "response": [
+        "doc_21726.txt",
+        "doc_19222.txt",
+        "doc_8681.txt",
+        "doc_21727.txt",
+        "doc_2053.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the scope of the report\u2019s analysis regarding the European retail sector?",
+    "response": [
+        "doc_15082.txt",
+        "doc_6940.txt",
+        "doc_12419.txt",
+        "doc_22524.txt",
+        "doc_5724.txt"
+    ]
+}

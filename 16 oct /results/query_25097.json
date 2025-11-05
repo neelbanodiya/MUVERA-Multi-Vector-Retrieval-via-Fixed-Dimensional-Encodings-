@@ -1,0 +1,10 @@
+{
+    "query": "What event does Curly McLain ask Laurey Williams to attend with him?",
+    "response": [
+        "doc_13450.txt",
+        "doc_14569.txt",
+        "doc_13453.txt",
+        "doc_14572.txt",
+        "doc_13452.txt"
+    ]
+}

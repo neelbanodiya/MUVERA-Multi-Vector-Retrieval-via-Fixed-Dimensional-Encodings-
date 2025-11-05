@@ -1,0 +1,10 @@
+{
+    "query": "What musical styles are associated with artists like Solomon Burke, Etta James, and Screamin' Jay Hawkins?",
+    "response": [
+        "doc_899.txt",
+        "doc_7858.txt",
+        "doc_23607.txt",
+        "doc_3076.txt",
+        "doc_16349.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what was the purpose of the Index, a list maintained by the Roman Catholic Church?",
+    "response": [
+        "doc_5119.txt",
+        "doc_459.txt",
+        "doc_23318.txt",
+        "doc_458.txt",
+        "doc_7527.txt"
+    ]
+}

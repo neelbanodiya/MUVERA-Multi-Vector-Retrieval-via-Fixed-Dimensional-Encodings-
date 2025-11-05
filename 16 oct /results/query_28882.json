@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate cost of Steve Wynn\u2019s Treasure Island?",
+    "response": [
+        "doc_16836.txt",
+        "doc_16834.txt",
+        "doc_20020.txt",
+        "doc_22305.txt",
+        "doc_6031.txt"
+    ]
+}

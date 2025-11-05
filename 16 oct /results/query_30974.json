@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the annual comic book fan convention in the Philippines founded by Artist\u2019s Den?",
+    "response": [
+        "doc_18054.txt",
+        "doc_23437.txt",
+        "doc_23440.txt",
+        "doc_23438.txt",
+        "doc_2119.txt"
+    ]
+}

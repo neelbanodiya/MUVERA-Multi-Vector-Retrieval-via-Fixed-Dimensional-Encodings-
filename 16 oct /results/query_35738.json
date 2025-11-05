@@ -1,0 +1,10 @@
+{
+    "query": "Which bodies are responsible for monitoring the implementation of this Regulation, specifically concerning barriers to trade?",
+    "response": [
+        "doc_20825.txt",
+        "doc_20802.txt",
+        "doc_20788.txt",
+        "doc_10175.txt",
+        "doc_9986.txt"
+    ]
+}

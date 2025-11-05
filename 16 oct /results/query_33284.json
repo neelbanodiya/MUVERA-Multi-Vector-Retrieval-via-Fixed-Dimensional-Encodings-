@@ -1,0 +1,10 @@
+{
+    "query": "In what year and locations was the Stark family initially settled?",
+    "response": [
+        "doc_19369.txt",
+        "doc_2434.txt",
+        "doc_9253.txt",
+        "doc_15209.txt",
+        "doc_13471.txt"
+    ]
+}

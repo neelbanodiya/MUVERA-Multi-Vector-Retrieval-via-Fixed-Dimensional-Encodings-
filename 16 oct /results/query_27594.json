@@ -1,0 +1,10 @@
+{
+    "query": "What date did the Campbell encounter trouble during its convoy duty?",
+    "response": [
+        "doc_16039.txt",
+        "doc_13912.txt",
+        "doc_10056.txt",
+        "doc_12051.txt",
+        "doc_2739.txt"
+    ]
+}

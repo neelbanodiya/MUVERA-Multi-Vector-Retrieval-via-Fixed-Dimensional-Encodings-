@@ -1,0 +1,9 @@
+{
+    "query": "How many Coptic Orthodox churches are located in the United States?",
+    "response": [
+        "doc_4960.txt",
+        "doc_4961.txt",
+        "doc_6025.txt",
+        "doc_8504.txt"
+    ]
+}

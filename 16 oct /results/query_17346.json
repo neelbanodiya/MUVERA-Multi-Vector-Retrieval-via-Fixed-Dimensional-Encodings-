@@ -1,0 +1,10 @@
+{
+    "query": "What concentration range of fluoride in drinking water is considered beneficial for tooth development, according to the Commission?",
+    "response": [
+        "doc_10046.txt",
+        "doc_12803.txt",
+        "doc_17209.txt",
+        "doc_8046.txt",
+        "doc_14545.txt"
+    ]
+}

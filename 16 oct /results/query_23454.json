@@ -1,0 +1,10 @@
+{
+    "query": "Who founded the town of New Philadelphia, which is now part of Montgomery, Alabama?",
+    "response": [
+        "doc_13598.txt",
+        "doc_13596.txt",
+        "doc_13604.txt",
+        "doc_13595.txt",
+        "doc_13603.txt"
+    ]
+}

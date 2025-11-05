@@ -1,0 +1,10 @@
+{
+    "query": "Which army was General George H. Thomas leading when he crossed a creek?",
+    "response": [
+        "doc_22456.txt",
+        "doc_22448.txt",
+        "doc_190.txt",
+        "doc_207.txt",
+        "doc_22454.txt"
+    ]
+}

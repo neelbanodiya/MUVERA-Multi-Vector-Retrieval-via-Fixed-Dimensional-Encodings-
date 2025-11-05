@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of the article Susan Schorn wrote about NFL players?",
+    "response": [
+        "doc_14412.txt",
+        "doc_207.txt",
+        "doc_18965.txt",
+        "doc_10720.txt",
+        "doc_17144.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate weight range for an adult Arabian wolf?",
+    "response": [
+        "doc_3235.txt",
+        "doc_23387.txt",
+        "doc_23388.txt",
+        "doc_21352.txt",
+        "doc_3236.txt"
+    ]
+}

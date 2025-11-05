@@ -1,0 +1,10 @@
+{
+    "query": "The passage mentions a person named George Wu; what was he known for doing related to clothing?",
+    "response": [
+        "doc_11046.txt",
+        "doc_3689.txt",
+        "doc_21599.txt",
+        "doc_11928.txt",
+        "doc_11057.txt"
+    ]
+}

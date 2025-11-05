@@ -1,0 +1,10 @@
+{
+    "query": "What year did Huggins become prime minister?",
+    "response": [
+        "doc_11477.txt",
+        "doc_21251.txt",
+        "doc_11471.txt",
+        "doc_11468.txt",
+        "doc_11478.txt"
+    ]
+}

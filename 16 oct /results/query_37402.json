@@ -1,0 +1,10 @@
+{
+    "query": "Who guided John Philip Sousa in forming his own private concert band?",
+    "response": [
+        "doc_21906.txt",
+        "doc_21907.txt",
+        "doc_21912.txt",
+        "doc_21909.txt",
+        "doc_21910.txt"
+    ]
+}

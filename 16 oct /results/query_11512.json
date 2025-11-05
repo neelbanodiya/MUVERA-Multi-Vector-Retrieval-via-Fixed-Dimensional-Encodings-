@@ -1,0 +1,10 @@
+{
+    "query": "Which city was founded by Peter the Great and became Russia\u2019s capital?",
+    "response": [
+        "doc_3937.txt",
+        "doc_2544.txt",
+        "doc_2547.txt",
+        "doc_2539.txt",
+        "doc_2538.txt"
+    ]
+}

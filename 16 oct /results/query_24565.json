@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate publication year of Brave New World?",
+    "response": [
+        "doc_14261.txt",
+        "doc_14263.txt",
+        "doc_14262.txt",
+        "doc_14264.txt",
+        "doc_14268.txt"
+    ]
+}

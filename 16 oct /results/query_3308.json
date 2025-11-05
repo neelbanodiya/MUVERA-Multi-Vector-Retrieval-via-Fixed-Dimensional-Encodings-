@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the film adaptation of *Watchmen* finally released?",
+    "response": [
+        "doc_1980.txt",
+        "doc_1231.txt",
+        "doc_402.txt",
+        "doc_6751.txt",
+        "doc_1812.txt"
+    ]
+}

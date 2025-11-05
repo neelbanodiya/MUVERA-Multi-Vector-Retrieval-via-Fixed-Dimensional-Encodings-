@@ -1,0 +1,10 @@
+{
+    "query": "What is the reported earnings gap between men and women in 1974, as indicated in the American Institute of Architects document?",
+    "response": [
+        "doc_14809.txt",
+        "doc_9118.txt",
+        "doc_2268.txt",
+        "doc_11310.txt",
+        "doc_5283.txt"
+    ]
+}

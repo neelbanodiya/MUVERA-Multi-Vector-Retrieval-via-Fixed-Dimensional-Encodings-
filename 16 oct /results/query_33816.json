@@ -1,0 +1,10 @@
+{
+    "query": "What did Harry Callahan say about losing track of how many shots he fired?",
+    "response": [
+        "doc_19686.txt",
+        "doc_19690.txt",
+        "doc_19689.txt",
+        "doc_19691.txt",
+        "doc_15688.txt"
+    ]
+}

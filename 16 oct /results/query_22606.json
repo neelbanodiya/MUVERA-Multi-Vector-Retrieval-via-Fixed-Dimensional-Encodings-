@@ -1,0 +1,10 @@
+{
+    "query": "In what year and location did \u201cCollision in Korea\u201d take place?",
+    "response": [
+        "doc_16201.txt",
+        "doc_16205.txt",
+        "doc_7869.txt",
+        "doc_16206.txt",
+        "doc_16199.txt"
+    ]
+}

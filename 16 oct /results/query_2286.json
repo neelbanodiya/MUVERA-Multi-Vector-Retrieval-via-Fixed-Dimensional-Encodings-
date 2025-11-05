@@ -1,0 +1,10 @@
+{
+    "query": "What is the origin of the name Kansas?",
+    "response": [
+        "doc_1348.txt",
+        "doc_1655.txt",
+        "doc_23861.txt",
+        "doc_9250.txt",
+        "doc_11891.txt"
+    ]
+}

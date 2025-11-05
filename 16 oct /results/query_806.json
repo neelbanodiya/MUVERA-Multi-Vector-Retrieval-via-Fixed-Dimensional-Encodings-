@@ -1,0 +1,10 @@
+{
+    "query": "Which monarchs donated items to Westminster Abbey, and when was it originally constructed?",
+    "response": [
+        "doc_460.txt",
+        "doc_14550.txt",
+        "doc_9766.txt",
+        "doc_464.txt",
+        "doc_3990.txt"
+    ]
+}

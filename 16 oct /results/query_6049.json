@@ -1,0 +1,10 @@
+{
+    "query": "What theatre was the play \u201cLes Fourberies de Scapin\u201d produced at in New York City?",
+    "response": [
+        "doc_249.txt",
+        "doc_5868.txt",
+        "doc_3670.txt",
+        "doc_20958.txt",
+        "doc_8812.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When did Christopher Columbus first spot the coast of the Guianas?",
+    "response": [
+        "doc_5031.txt",
+        "doc_5024.txt",
+        "doc_5025.txt",
+        "doc_5026.txt",
+        "doc_11012.txt"
+    ]
+}

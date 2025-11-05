@@ -1,0 +1,10 @@
+{
+    "query": "What type of music did Woody Allen and his band perform during their 1996 European tour documented in the film?",
+    "response": [
+        "doc_8710.txt",
+        "doc_8712.txt",
+        "doc_8713.txt",
+        "doc_8711.txt",
+        "doc_8714.txt"
+    ]
+}

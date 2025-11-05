@@ -1,0 +1,10 @@
+{
+    "query": "Who was selected first overall in the 2003 NBA draft?",
+    "response": [
+        "doc_24141.txt",
+        "doc_21628.txt",
+        "doc_1994.txt",
+        "doc_24143.txt",
+        "doc_1975.txt"
+    ]
+}

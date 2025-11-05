@@ -1,0 +1,10 @@
+{
+    "query": "Which Central European capital is located on the Vltava River and is known for its domes, cupolas, spires, and pinnacles?",
+    "response": [
+        "doc_2531.txt",
+        "doc_7201.txt",
+        "doc_8685.txt",
+        "doc_8684.txt",
+        "doc_23691.txt"
+    ]
+}

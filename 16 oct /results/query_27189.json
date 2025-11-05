@@ -1,0 +1,10 @@
+{
+    "query": "What are some of the weather conditions associated with boating in the Gulf Island region?",
+    "response": [
+        "doc_15793.txt",
+        "doc_15806.txt",
+        "doc_15800.txt",
+        "doc_15790.txt",
+        "doc_10822.txt"
+    ]
+}

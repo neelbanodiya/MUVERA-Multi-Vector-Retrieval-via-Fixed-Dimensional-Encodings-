@@ -1,0 +1,10 @@
+{
+    "query": "What song by The Who is featured on the \u201cUnderCurrents\u201d playlist?",
+    "response": [
+        "doc_13592.txt",
+        "doc_3128.txt",
+        "doc_14724.txt",
+        "doc_11674.txt",
+        "doc_19777.txt"
+    ]
+}

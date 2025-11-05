@@ -1,0 +1,10 @@
+{
+    "query": "Which islands initially formed Trinidad and Tobago before they became a single colony?",
+    "response": [
+        "doc_13471.txt",
+        "doc_13475.txt",
+        "doc_13474.txt",
+        "doc_13473.txt",
+        "doc_13480.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate temperature of the Earth\u2019s core?",
+    "response": [
+        "doc_12275.txt",
+        "doc_12284.txt",
+        "doc_12273.txt",
+        "doc_12279.txt",
+        "doc_12281.txt"
+    ]
+}

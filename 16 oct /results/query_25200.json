@@ -1,0 +1,10 @@
+{
+    "query": "Which film earned Maurice Pialat the Golden Palm award at the 1980 Cannes Film Festival?",
+    "response": [
+        "doc_14626.txt",
+        "doc_20929.txt",
+        "doc_15278.txt",
+        "doc_4918.txt",
+        "doc_22830.txt"
+    ]
+}

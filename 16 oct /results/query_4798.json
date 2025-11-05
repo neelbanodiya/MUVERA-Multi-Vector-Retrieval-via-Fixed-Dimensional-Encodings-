@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the recording technique famously associated with Phil Spector?",
+    "response": [
+        "doc_5371.txt",
+        "doc_2790.txt",
+        "doc_2781.txt",
+        "doc_5372.txt",
+        "doc_2782.txt"
+    ]
+}

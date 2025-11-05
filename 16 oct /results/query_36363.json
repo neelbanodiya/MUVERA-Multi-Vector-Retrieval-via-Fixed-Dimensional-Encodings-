@@ -1,0 +1,10 @@
+{
+    "query": "What is mentioned as a fragile element of marine life around the Virgin Islands?",
+    "response": [
+        "doc_17145.txt",
+        "doc_21110.txt",
+        "doc_9610.txt",
+        "doc_9611.txt",
+        "doc_21101.txt"
+    ]
+}

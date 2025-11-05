@@ -1,0 +1,10 @@
+{
+    "query": "Which distribution company initially handled the distribution of Oswald the Lucky Rabbit?",
+    "response": [
+        "doc_17190.txt",
+        "doc_17202.txt",
+        "doc_17203.txt",
+        "doc_17198.txt",
+        "doc_17197.txt"
+    ]
+}

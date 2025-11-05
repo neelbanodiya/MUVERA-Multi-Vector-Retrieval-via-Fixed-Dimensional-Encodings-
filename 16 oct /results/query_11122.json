@@ -1,0 +1,10 @@
+{
+    "query": "What is the former name of the city Blue City?",
+    "response": [
+        "doc_7301.txt",
+        "doc_7239.txt",
+        "doc_4059.txt",
+        "doc_6430.txt",
+        "doc_14308.txt"
+    ]
+}

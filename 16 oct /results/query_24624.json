@@ -1,0 +1,10 @@
+{
+    "query": "Which country is Buenos Aires the capital of?",
+    "response": [
+        "doc_14306.txt",
+        "doc_14305.txt",
+        "doc_16284.txt",
+        "doc_14308.txt",
+        "doc_3937.txt"
+    ]
+}

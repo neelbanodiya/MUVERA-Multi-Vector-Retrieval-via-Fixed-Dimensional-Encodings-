@@ -1,0 +1,10 @@
+{
+    "query": "In what part of the Caribbean Sea are Antigua and Barbuda located?",
+    "response": [
+        "doc_4410.txt",
+        "doc_4413.txt",
+        "doc_4420.txt",
+        "doc_4418.txt",
+        "doc_4412.txt"
+    ]
+}

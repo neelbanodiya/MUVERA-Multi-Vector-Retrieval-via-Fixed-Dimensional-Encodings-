@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was James Cameron\u2019s intention for *Piranha II: The Spawning*?",
+    "response": [
+        "doc_4991.txt",
+        "doc_4987.txt",
+        "doc_4983.txt",
+        "doc_4990.txt",
+        "doc_4984.txt"
+    ]
+}

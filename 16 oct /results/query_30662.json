@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of a book by Robin Cook related to genetic engineering?",
+    "response": [
+        "doc_8423.txt",
+        "doc_21630.txt",
+        "doc_5108.txt",
+        "doc_21756.txt",
+        "doc_18151.txt"
+    ]
+}

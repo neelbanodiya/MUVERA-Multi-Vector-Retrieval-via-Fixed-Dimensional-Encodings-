@@ -1,0 +1,10 @@
+{
+    "query": "What types of assistance does the SIEDC provide to businesses and individuals?",
+    "response": [
+        "doc_1512.txt",
+        "doc_10889.txt",
+        "doc_15595.txt",
+        "doc_15596.txt",
+        "doc_3246.txt"
+    ]
+}

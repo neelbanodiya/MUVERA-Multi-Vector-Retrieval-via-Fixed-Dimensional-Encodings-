@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of gold is contained in a typical $20 Liberty and St. Gaudens coin?",
+    "response": [
+        "doc_15876.txt",
+        "doc_15870.txt",
+        "doc_15875.txt",
+        "doc_15859.txt",
+        "doc_15874.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Guy Anderson create \u201cUntitled (white circle)\u201d?",
+    "response": [
+        "doc_1980.txt",
+        "doc_1812.txt",
+        "doc_19671.txt",
+        "doc_3455.txt",
+        "doc_1725.txt"
+    ]
+}

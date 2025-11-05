@@ -1,0 +1,10 @@
+{
+    "query": "What year was the \"Biography of Frenchman Louis Braille\" published?",
+    "response": [
+        "doc_20269.txt",
+        "doc_20271.txt",
+        "doc_10141.txt",
+        "doc_19983.txt",
+        "doc_4815.txt"
+    ]
+}

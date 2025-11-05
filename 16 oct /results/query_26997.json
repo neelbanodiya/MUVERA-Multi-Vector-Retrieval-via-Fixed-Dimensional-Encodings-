@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was Noah doing before he was discovered?",
+    "response": [
+        "doc_15669.txt",
+        "doc_15679.txt",
+        "doc_15670.txt",
+        "doc_15672.txt",
+        "doc_15674.txt"
+    ]
+}

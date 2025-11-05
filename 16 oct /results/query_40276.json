@@ -1,0 +1,10 @@
+{
+    "query": "What role did Kate Bruce play in the film?",
+    "response": [
+        "doc_23563.txt",
+        "doc_12637.txt",
+        "doc_13823.txt",
+        "doc_7513.txt",
+        "doc_4641.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When did Hans Holbein the Younger become court painter to King Henry VIII?",
+    "response": [
+        "doc_21503.txt",
+        "doc_21502.txt",
+        "doc_21506.txt",
+        "doc_21509.txt",
+        "doc_21504.txt"
+    ]
+}

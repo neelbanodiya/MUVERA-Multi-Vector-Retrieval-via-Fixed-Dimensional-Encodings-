@@ -1,0 +1,10 @@
+{
+    "query": "What is the largest airport in the United Kingdom?",
+    "response": [
+        "doc_8672.txt",
+        "doc_8438.txt",
+        "doc_5617.txt",
+        "doc_15723.txt",
+        "doc_15718.txt"
+    ]
+}

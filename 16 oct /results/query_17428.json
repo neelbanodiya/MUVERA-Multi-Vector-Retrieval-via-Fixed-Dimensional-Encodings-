@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the carol adapted by John Gardner?",
+    "response": [
+        "doc_20025.txt",
+        "doc_10083.txt",
+        "doc_20024.txt",
+        "doc_14519.txt",
+        "doc_14548.txt"
+    ]
+}

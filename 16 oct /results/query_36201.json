@@ -1,0 +1,10 @@
+{
+    "query": "What happened to the passenger ship that rested on the floor of the Atlantic Ocean since 1912?",
+    "response": [
+        "doc_21106.txt",
+        "doc_21103.txt",
+        "doc_21094.txt",
+        "doc_18157.txt",
+        "doc_21108.txt"
+    ]
+}

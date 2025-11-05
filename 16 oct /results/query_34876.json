@@ -1,0 +1,10 @@
+{
+    "query": "How many members attended the ICCAT Summit in Paris?",
+    "response": [
+        "doc_20318.txt",
+        "doc_310.txt",
+        "doc_17302.txt",
+        "doc_16884.txt",
+        "doc_1011.txt"
+    ]
+}

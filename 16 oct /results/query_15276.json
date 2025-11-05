@@ -1,0 +1,10 @@
+{
+    "query": "What are the regulations for cars competing in the World Rally Championship?",
+    "response": [
+        "doc_8855.txt",
+        "doc_8854.txt",
+        "doc_8853.txt",
+        "doc_16149.txt",
+        "doc_8448.txt"
+    ]
+}

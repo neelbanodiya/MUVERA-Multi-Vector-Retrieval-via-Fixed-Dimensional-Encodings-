@@ -1,0 +1,10 @@
+{
+    "query": "What song did Pat Boone record that brought Little Richard\u2019s \u201cTutti-Frutti\u201d to millions?",
+    "response": [
+        "doc_13093.txt",
+        "doc_13100.txt",
+        "doc_13091.txt",
+        "doc_13101.txt",
+        "doc_13104.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which actor starred alongside Victor Mature in the film *Escort West*?",
+    "response": [
+        "doc_2231.txt",
+        "doc_4872.txt",
+        "doc_18940.txt",
+        "doc_18948.txt",
+        "doc_4871.txt"
+    ]
+}

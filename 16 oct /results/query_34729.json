@@ -1,0 +1,10 @@
+{
+    "query": "What is John R. Bush\u2019s profession and which bands was he associated with?",
+    "response": [
+        "doc_20220.txt",
+        "doc_20219.txt",
+        "doc_3077.txt",
+        "doc_5897.txt",
+        "doc_3076.txt"
+    ]
+}

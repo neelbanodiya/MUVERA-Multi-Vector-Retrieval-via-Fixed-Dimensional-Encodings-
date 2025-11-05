@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is the recommended form of address for an unmarried woman in Spain?",
+    "response": [
+        "doc_12946.txt",
+        "doc_12944.txt",
+        "doc_12954.txt",
+        "doc_12948.txt",
+        "doc_12950.txt"
+    ]
+}

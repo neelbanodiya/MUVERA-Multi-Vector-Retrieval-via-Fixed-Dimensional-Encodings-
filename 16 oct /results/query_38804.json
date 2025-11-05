@@ -1,0 +1,10 @@
+{
+    "query": "What two specific questions does the passage raise regarding potential regulations for advertisers using Facebook?",
+    "response": [
+        "doc_22725.txt",
+        "doc_2845.txt",
+        "doc_5402.txt",
+        "doc_1782.txt",
+        "doc_3982.txt"
+    ]
+}

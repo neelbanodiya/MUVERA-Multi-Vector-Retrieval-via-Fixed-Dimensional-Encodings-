@@ -1,0 +1,10 @@
+{
+    "query": "What did Tim do after graduating from Harvard Business School?",
+    "response": [
+        "doc_18387.txt",
+        "doc_21941.txt",
+        "doc_14424.txt",
+        "doc_4792.txt",
+        "doc_21495.txt"
+    ]
+}

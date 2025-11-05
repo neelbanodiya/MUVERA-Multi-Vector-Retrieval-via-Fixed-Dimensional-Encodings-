@@ -1,0 +1,10 @@
+{
+    "query": "What type of creature is traditionally associated with Loch Ness in Scottish folklore?",
+    "response": [
+        "doc_383.txt",
+        "doc_368.txt",
+        "doc_385.txt",
+        "doc_384.txt",
+        "doc_380.txt"
+    ]
+}

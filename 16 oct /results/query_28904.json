@@ -1,0 +1,10 @@
+{
+    "query": "According to some reports, what was allegedly happening with flight simulators in Minnesota in the months prior to September 11, 2001?",
+    "response": [
+        "doc_16850.txt",
+        "doc_16841.txt",
+        "doc_16845.txt",
+        "doc_16840.txt",
+        "doc_16857.txt"
+    ]
+}

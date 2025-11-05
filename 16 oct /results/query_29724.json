@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the play \u201cEl marqu\u00e9s de Bradom\u00edn\u201d first performed?",
+    "response": [
+        "doc_15391.txt",
+        "doc_3670.txt",
+        "doc_17271.txt",
+        "doc_20959.txt",
+        "doc_23469.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What stance has the European Union taken regarding discrimination based on sexual orientation?",
+    "response": [
+        "doc_19351.txt",
+        "doc_22303.txt",
+        "doc_8399.txt",
+        "doc_3091.txt",
+        "doc_12758.txt"
+    ]
+}

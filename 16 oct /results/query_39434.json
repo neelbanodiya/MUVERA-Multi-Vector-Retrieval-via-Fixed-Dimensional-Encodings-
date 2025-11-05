@@ -1,0 +1,10 @@
+{
+    "query": "What war games are South Korea and the US currently planning?",
+    "response": [
+        "doc_16206.txt",
+        "doc_17960.txt",
+        "doc_13900.txt",
+        "doc_18638.txt",
+        "doc_2925.txt"
+    ]
+}

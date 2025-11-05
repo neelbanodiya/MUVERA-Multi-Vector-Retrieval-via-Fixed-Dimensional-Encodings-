@@ -1,0 +1,10 @@
+{
+    "query": "Who created the character Mickey Mouse?",
+    "response": [
+        "doc_17190.txt",
+        "doc_17192.txt",
+        "doc_17191.txt",
+        "doc_17193.txt",
+        "doc_17206.txt"
+    ]
+}

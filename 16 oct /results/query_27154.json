@@ -1,0 +1,10 @@
+{
+    "query": "What are some Scottish terms used to describe someone important?",
+    "response": [
+        "doc_23903.txt",
+        "doc_9051.txt",
+        "doc_23898.txt",
+        "doc_9046.txt",
+        "doc_12945.txt"
+    ]
+}

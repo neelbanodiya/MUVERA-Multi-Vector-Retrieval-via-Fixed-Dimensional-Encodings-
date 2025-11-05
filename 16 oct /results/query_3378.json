@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Stewart drafted by the Buffalo Sabres?",
+    "response": [
+        "doc_21942.txt",
+        "doc_2009.txt",
+        "doc_21945.txt",
+        "doc_21628.txt",
+        "doc_2002.txt"
+    ]
+}

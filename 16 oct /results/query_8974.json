@@ -1,0 +1,10 @@
+{
+    "query": "What year did Peter Apfelbaum graduate from Berkeley High School?",
+    "response": [
+        "doc_4741.txt",
+        "doc_5179.txt",
+        "doc_4739.txt",
+        "doc_8985.txt",
+        "doc_19676.txt"
+    ]
+}

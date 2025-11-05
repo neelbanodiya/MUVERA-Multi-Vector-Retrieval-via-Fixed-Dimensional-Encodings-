@@ -1,0 +1,10 @@
+{
+    "query": "What activities are taking place at Hackney\u2019s Boxing Academy this week?",
+    "response": [
+        "doc_18637.txt",
+        "doc_12406.txt",
+        "doc_18645.txt",
+        "doc_18638.txt",
+        "doc_14352.txt"
+    ]
+}

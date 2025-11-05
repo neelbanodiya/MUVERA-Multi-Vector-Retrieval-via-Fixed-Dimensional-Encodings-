@@ -1,0 +1,10 @@
+{
+    "query": "What were the names of the three children on the television show *Home Improvement*?",
+    "response": [
+        "doc_18627.txt",
+        "doc_18632.txt",
+        "doc_18629.txt",
+        "doc_19594.txt",
+        "doc_9274.txt"
+    ]
+}

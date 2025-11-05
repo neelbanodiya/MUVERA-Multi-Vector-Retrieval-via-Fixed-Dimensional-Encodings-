@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the first book in the Earthsea Cycle?",
+    "response": [
+        "doc_15556.txt",
+        "doc_14989.txt",
+        "doc_19982.txt",
+        "doc_19985.txt",
+        "doc_18581.txt"
+    ]
+}

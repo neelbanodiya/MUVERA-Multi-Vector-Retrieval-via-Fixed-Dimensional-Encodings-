@@ -1,0 +1,10 @@
+{
+    "query": "What dialects of Greek are mentioned in the passage (e.g., Attic, Ionic, Doric)?",
+    "response": [
+        "doc_15380.txt",
+        "doc_15378.txt",
+        "doc_15371.txt",
+        "doc_15382.txt",
+        "doc_15374.txt"
+    ]
+}

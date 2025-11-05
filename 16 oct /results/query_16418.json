@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what Latin phrase relates to the concept of a jury\u2019s decision?",
+    "response": [
+        "doc_9538.txt",
+        "doc_22886.txt",
+        "doc_9544.txt",
+        "doc_9542.txt",
+        "doc_9537.txt"
+    ]
+}

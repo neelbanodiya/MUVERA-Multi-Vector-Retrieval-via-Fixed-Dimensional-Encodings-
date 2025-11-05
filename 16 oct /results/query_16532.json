@@ -1,0 +1,10 @@
+{
+    "query": "What did John Berendt research when he went to Savannah?",
+    "response": [
+        "doc_9600.txt",
+        "doc_9601.txt",
+        "doc_19858.txt",
+        "doc_18230.txt",
+        "doc_10448.txt"
+    ]
+}

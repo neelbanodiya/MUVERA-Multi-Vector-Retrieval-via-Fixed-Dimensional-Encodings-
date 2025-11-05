@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided information, what is Lorelai Gilmore\u2019s profession?",
+    "response": [
+        "doc_2177.txt",
+        "doc_7181.txt",
+        "doc_1306.txt",
+        "doc_13328.txt",
+        "doc_2785.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What musical instruments does Terry Woods specialize in playing?",
+    "response": [
+        "doc_5245.txt",
+        "doc_20902.txt",
+        "doc_19136.txt",
+        "doc_16780.txt",
+        "doc_20903.txt"
+    ]
+}

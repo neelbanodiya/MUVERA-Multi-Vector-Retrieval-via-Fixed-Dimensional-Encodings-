@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Scott Wolf born?",
+    "response": [
+        "doc_19271.txt",
+        "doc_14748.txt",
+        "doc_4480.txt",
+        "doc_9083.txt",
+        "doc_5104.txt"
+    ]
+}

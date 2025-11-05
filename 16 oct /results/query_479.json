@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what was the prince in *Hamlet* contemplating doing?",
+    "response": [
+        "doc_7106.txt",
+        "doc_7105.txt",
+        "doc_7110.txt",
+        "doc_20612.txt",
+        "doc_19420.txt"
+    ]
+}

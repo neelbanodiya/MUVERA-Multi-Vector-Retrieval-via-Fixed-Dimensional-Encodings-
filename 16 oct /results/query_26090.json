@@ -1,0 +1,10 @@
+{
+    "query": "What did the European Parliament in Strasbourg condemn and what action did they take regarding humanitarian aid for the affected population?",
+    "response": [
+        "doc_8114.txt",
+        "doc_3599.txt",
+        "doc_12932.txt",
+        "doc_6421.txt",
+        "doc_10839.txt"
+    ]
+}

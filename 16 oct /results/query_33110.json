@@ -1,0 +1,10 @@
+{
+    "query": "What television show did Scott Wolf appear in during the 1990s?",
+    "response": [
+        "doc_20959.txt",
+        "doc_17118.txt",
+        "doc_781.txt",
+        "doc_12720.txt",
+        "doc_11495.txt"
+    ]
+}

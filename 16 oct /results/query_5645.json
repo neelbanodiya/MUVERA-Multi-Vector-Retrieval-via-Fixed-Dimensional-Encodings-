@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary concern expressed regarding events in the Mediterranean?",
+    "response": [
+        "doc_9148.txt",
+        "doc_8382.txt",
+        "doc_9924.txt",
+        "doc_6491.txt",
+        "doc_1214.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Are there any connections between the name \"Helen\" and figures from Greek mythology, such as Helen of Troy?",
+    "response": [
+        "doc_15887.txt",
+        "doc_14774.txt",
+        "doc_23923.txt",
+        "doc_12554.txt",
+        "doc_14776.txt"
+    ]
+}

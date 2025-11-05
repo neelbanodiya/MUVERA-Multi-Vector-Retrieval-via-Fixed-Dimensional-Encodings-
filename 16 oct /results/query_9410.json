@@ -1,0 +1,10 @@
+{
+    "query": "What award did Ameesha Patel receive for her performance in the 2001 film \u201cKaho Naa... Pyaar Hai\u201d?",
+    "response": [
+        "doc_5435.txt",
+        "doc_5434.txt",
+        "doc_2964.txt",
+        "doc_5433.txt",
+        "doc_1810.txt"
+    ]
+}

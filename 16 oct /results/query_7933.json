@@ -1,0 +1,10 @@
+{
+    "query": "When was \u201cThe Essential Mariah Carey\u201d released, and how did its US release differ from its UK and Ireland release?",
+    "response": [
+        "doc_4605.txt",
+        "doc_4606.txt",
+        "doc_8467.txt",
+        "doc_22673.txt",
+        "doc_128.txt"
+    ]
+}

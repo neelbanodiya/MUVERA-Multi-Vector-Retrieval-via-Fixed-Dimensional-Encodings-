@@ -1,0 +1,10 @@
+{
+    "query": "Besides Kenneth Branagh, who else starred in the 1996 film *Hamlet*?",
+    "response": [
+        "doc_783.txt",
+        "doc_782.txt",
+        "doc_16653.txt",
+        "doc_781.txt",
+        "doc_7513.txt"
+    ]
+}

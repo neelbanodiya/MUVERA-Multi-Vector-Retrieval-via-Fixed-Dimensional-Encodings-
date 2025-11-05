@@ -1,0 +1,10 @@
+{
+    "query": "In what city were the 1994 Goodwill Games held, and what was the original intended location?",
+    "response": [
+        "doc_19243.txt",
+        "doc_19242.txt",
+        "doc_19244.txt",
+        "doc_22587.txt",
+        "doc_12260.txt"
+    ]
+}

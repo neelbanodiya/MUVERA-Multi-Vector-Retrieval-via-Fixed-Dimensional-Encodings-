@@ -1,0 +1,10 @@
+{
+    "query": "What is the subject of the documentary \u201cThe Czar of Black Hollywood\u201d?",
+    "response": [
+        "doc_400.txt",
+        "doc_402.txt",
+        "doc_1231.txt",
+        "doc_5323.txt",
+        "doc_11980.txt"
+    ]
+}

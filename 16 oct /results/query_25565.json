@@ -1,0 +1,10 @@
+{
+    "query": "According to Ms. Nkrumah, what is the European Parliament\u2019s role in relation to immigration?",
+    "response": [
+        "doc_14823.txt",
+        "doc_14822.txt",
+        "doc_19521.txt",
+        "doc_8670.txt",
+        "doc_12956.txt"
+    ]
+}

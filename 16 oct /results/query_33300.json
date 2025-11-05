@@ -1,0 +1,10 @@
+{
+    "query": "Which county in Ohio was designated as the future site of Oxford?",
+    "response": [
+        "doc_19367.txt",
+        "doc_19376.txt",
+        "doc_17127.txt",
+        "doc_15207.txt",
+        "doc_2639.txt"
+    ]
+}

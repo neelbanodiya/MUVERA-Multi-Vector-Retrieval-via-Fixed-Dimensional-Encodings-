@@ -1,0 +1,10 @@
+{
+    "query": "Is there a response from the Commission to the drugs policy in the Czech Republic?",
+    "response": [
+        "doc_12649.txt",
+        "doc_10588.txt",
+        "doc_3581.txt",
+        "doc_16158.txt",
+        "doc_16315.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Name a Hall of Fame player associated with the Pittsburgh Steelers, as mentioned in the provided text.",
+    "response": [
+        "doc_18911.txt",
+        "doc_13000.txt",
+        "doc_18912.txt",
+        "doc_1222.txt",
+        "doc_3295.txt"
+    ]
+}

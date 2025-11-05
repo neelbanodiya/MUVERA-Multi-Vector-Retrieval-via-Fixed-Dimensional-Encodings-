@@ -1,0 +1,10 @@
+{
+    "query": "Which artist had a hit with the song \"Crimson and Clover\" in 1982?",
+    "response": [
+        "doc_8696.txt",
+        "doc_22562.txt",
+        "doc_22547.txt",
+        "doc_5320.txt",
+        "doc_8468.txt"
+    ]
+}

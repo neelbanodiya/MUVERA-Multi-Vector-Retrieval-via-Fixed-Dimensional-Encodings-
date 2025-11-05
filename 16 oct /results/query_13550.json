@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what did Pharaoh initially say when Moses and Aaron requested the Israelites be allowed to worship?",
+    "response": [
+        "doc_7914.txt",
+        "doc_7918.txt",
+        "doc_7920.txt",
+        "doc_7913.txt",
+        "doc_7919.txt"
+    ]
+}

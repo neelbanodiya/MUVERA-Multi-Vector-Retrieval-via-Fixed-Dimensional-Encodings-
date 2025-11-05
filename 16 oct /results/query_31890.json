@@ -1,0 +1,10 @@
+{
+    "query": "What line did Ronald Reagan\u2019s character, Drake McHugh, utter in the film *Kings Row*?",
+    "response": [
+        "doc_18593.txt",
+        "doc_18592.txt",
+        "doc_18595.txt",
+        "doc_18600.txt",
+        "doc_18594.txt"
+    ]
+}

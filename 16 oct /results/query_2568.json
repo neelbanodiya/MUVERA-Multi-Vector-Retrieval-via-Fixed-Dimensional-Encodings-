@@ -1,0 +1,10 @@
+{
+    "query": "What gift did Will buy the speaker for her 10th birthday?",
+    "response": [
+        "doc_12218.txt",
+        "doc_338.txt",
+        "doc_14058.txt",
+        "doc_22487.txt",
+        "doc_3845.txt"
+    ]
+}

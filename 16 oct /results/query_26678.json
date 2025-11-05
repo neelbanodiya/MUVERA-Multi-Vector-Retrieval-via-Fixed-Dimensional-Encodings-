@@ -1,0 +1,10 @@
+{
+    "query": "In what year were the first Winter Olympics held, and in which city and country?",
+    "response": [
+        "doc_15504.txt",
+        "doc_15505.txt",
+        "doc_15513.txt",
+        "doc_24158.txt",
+        "doc_19243.txt"
+    ]
+}

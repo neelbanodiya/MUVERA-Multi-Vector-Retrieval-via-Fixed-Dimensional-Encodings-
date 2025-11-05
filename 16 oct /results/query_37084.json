@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary difference in the historical records regarding Arthur Campbell\u2019s first name?",
+    "response": [
+        "doc_21704.txt",
+        "doc_7372.txt",
+        "doc_7345.txt",
+        "doc_13510.txt",
+        "doc_2269.txt"
+    ]
+}

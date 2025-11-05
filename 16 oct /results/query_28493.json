@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Senator Paul Wellstone and his wife in October 2002?",
+    "response": [
+        "doc_16616.txt",
+        "doc_16612.txt",
+        "doc_16611.txt",
+        "doc_16614.txt",
+        "doc_16618.txt"
+    ]
+}

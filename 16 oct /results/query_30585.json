@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of the tribute to General Douglas MacArthur featured in 1951?",
+    "response": [
+        "doc_18400.txt",
+        "doc_18394.txt",
+        "doc_18392.txt",
+        "doc_18396.txt",
+        "doc_18389.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What ingredients are commonly used to create Indian desserts, according to the provided text?",
+    "response": [
+        "doc_21689.txt",
+        "doc_21695.txt",
+        "doc_21692.txt",
+        "doc_21700.txt",
+        "doc_21691.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary purpose of the multi-donor EHU Trust Fund established in 2007?",
+    "response": [
+        "doc_20111.txt",
+        "doc_17571.txt",
+        "doc_24205.txt",
+        "doc_24022.txt",
+        "doc_24059.txt"
+    ]
+}

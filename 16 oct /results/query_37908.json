@@ -1,0 +1,10 @@
+{
+    "query": "What type of agreements, besides EU instruments, are often used for mutual assistance in criminal matters?",
+    "response": [
+        "doc_22233.txt",
+        "doc_3006.txt",
+        "doc_3005.txt",
+        "doc_4868.txt",
+        "doc_12943.txt"
+    ]
+}

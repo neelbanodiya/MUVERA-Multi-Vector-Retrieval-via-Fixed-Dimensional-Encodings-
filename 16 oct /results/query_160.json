@@ -1,0 +1,10 @@
+{
+    "query": "Which countries are identified as western Slavs according to the provided text?",
+    "response": [
+        "doc_22969.txt",
+        "doc_1227.txt",
+        "doc_8789.txt",
+        "doc_22970.txt",
+        "doc_4336.txt"
+    ]
+}

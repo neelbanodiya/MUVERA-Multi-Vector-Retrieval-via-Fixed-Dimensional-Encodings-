@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what did ancient Greek and Roman physicians believe about the cause of illness related to imbalances in humors?",
+    "response": [
+        "doc_4999.txt",
+        "doc_5005.txt",
+        "doc_4997.txt",
+        "doc_5004.txt",
+        "doc_5003.txt"
+    ]
+}

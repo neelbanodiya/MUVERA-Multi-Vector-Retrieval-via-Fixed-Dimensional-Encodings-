@@ -1,0 +1,10 @@
+{
+    "query": "What entrance to the Acropolis is accessed via the Beule Gate?",
+    "response": [
+        "doc_22657.txt",
+        "doc_22652.txt",
+        "doc_22656.txt",
+        "doc_22658.txt",
+        "doc_22655.txt"
+    ]
+}

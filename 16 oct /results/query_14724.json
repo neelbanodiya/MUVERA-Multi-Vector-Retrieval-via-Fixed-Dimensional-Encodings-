@@ -1,0 +1,10 @@
+{
+    "query": "On what record label was the second and final studio album by Neutral Milk Hotel released?",
+    "response": [
+        "doc_8008.txt",
+        "doc_10937.txt",
+        "doc_128.txt",
+        "doc_8006.txt",
+        "doc_8467.txt"
+    ]
+}

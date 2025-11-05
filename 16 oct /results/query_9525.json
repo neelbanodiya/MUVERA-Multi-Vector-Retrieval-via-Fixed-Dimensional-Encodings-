@@ -1,0 +1,10 @@
+{
+    "query": "What types of art does artist Duvall employ in her projects?",
+    "response": [
+        "doc_5492.txt",
+        "doc_5491.txt",
+        "doc_20492.txt",
+        "doc_16011.txt",
+        "doc_17272.txt"
+    ]
+}

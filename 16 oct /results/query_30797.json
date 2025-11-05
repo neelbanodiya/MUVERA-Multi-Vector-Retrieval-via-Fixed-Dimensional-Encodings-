@@ -1,0 +1,10 @@
+{
+    "query": "What are some other bird species besides parrots that can potentially spread C. psittaci?",
+    "response": [
+        "doc_17930.txt",
+        "doc_17933.txt",
+        "doc_17934.txt",
+        "doc_17938.txt",
+        "doc_17932.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What versions of *Sense and Sensibility* are mentioned in the provided links?",
+    "response": [
+        "doc_2324.txt",
+        "doc_2334.txt",
+        "doc_2331.txt",
+        "doc_2329.txt",
+        "doc_2328.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which ancient Greek figure is credited with establishing the concept of the four humors?",
+    "response": [
+        "doc_5004.txt",
+        "doc_5005.txt",
+        "doc_4998.txt",
+        "doc_5002.txt",
+        "doc_5003.txt"
+    ]
+}

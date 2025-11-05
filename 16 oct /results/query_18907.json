@@ -1,0 +1,10 @@
+{
+    "query": "What event led to the cancellation of the playoffs and the World Series in 1994, as referenced in the passage?",
+    "response": [
+        "doc_13010.txt",
+        "doc_13008.txt",
+        "doc_10967.txt",
+        "doc_20210.txt",
+        "doc_21626.txt"
+    ]
+}

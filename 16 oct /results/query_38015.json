@@ -1,0 +1,10 @@
+{
+    "query": "In 1996, who did Joe Girardi catch a no-hitter from?",
+    "response": [
+        "doc_22292.txt",
+        "doc_12435.txt",
+        "doc_361.txt",
+        "doc_23766.txt",
+        "doc_2362.txt"
+    ]
+}

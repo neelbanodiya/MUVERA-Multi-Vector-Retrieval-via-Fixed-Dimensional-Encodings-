@@ -1,0 +1,10 @@
+{
+    "query": "Who is Blue Ivy with, according to the text?",
+    "response": [
+        "doc_14088.txt",
+        "doc_2052.txt",
+        "doc_6947.txt",
+        "doc_22913.txt",
+        "doc_18259.txt"
+    ]
+}

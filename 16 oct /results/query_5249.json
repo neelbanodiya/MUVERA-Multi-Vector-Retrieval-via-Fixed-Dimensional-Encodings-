@@ -1,0 +1,10 @@
+{
+    "query": "What is \"Tomorrowland\" described as in the film's synopsis?",
+    "response": [
+        "doc_3060.txt",
+        "doc_16033.txt",
+        "doc_22575.txt",
+        "doc_5278.txt",
+        "doc_1984.txt"
+    ]
+}

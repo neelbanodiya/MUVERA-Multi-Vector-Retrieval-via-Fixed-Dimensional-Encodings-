@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of facts presented by Fox News are identified as \u201cpants on fire\u201d in one of the linked articles?",
+    "response": [
+        "doc_19860.txt",
+        "doc_14228.txt",
+        "doc_10829.txt",
+        "doc_8801.txt",
+        "doc_16570.txt"
+    ]
+}

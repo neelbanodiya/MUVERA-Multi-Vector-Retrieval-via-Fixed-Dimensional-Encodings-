@@ -1,0 +1,10 @@
+{
+    "query": "Besides the Kojiki, what is another significant early work of Japanese literature mentioned in the texts?",
+    "response": [
+        "doc_7131.txt",
+        "doc_7137.txt",
+        "doc_7140.txt",
+        "doc_7129.txt",
+        "doc_7134.txt"
+    ]
+}

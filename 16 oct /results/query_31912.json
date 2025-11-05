@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what role was Ronald Reagan initially slated to play in *Casablanca*?",
+    "response": [
+        "doc_18755.txt",
+        "doc_18749.txt",
+        "doc_17778.txt",
+        "doc_18590.txt",
+        "doc_18756.txt"
+    ]
+}

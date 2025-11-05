@@ -1,0 +1,10 @@
+{
+    "query": "Which EU Directives govern public procurement procedures, according to Mr. Bolkestein\u2019s answer?",
+    "response": [
+        "doc_24037.txt",
+        "doc_19723.txt",
+        "doc_5726.txt",
+        "doc_16891.txt",
+        "doc_22385.txt"
+    ]
+}

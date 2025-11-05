@@ -1,0 +1,10 @@
+{
+    "query": "On what date did the President of the European Parliament issue statements regarding the death of Bahraini civic activists?",
+    "response": [
+        "doc_6488.txt",
+        "doc_6487.txt",
+        "doc_6489.txt",
+        "doc_173.txt",
+        "doc_4235.txt"
+    ]
+}

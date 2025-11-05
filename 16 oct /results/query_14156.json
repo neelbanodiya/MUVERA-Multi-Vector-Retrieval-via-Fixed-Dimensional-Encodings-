@@ -1,0 +1,10 @@
+{
+    "query": "When was Helen Keller\u2019s birthday, and approximately how old would she have been at the time of her death?",
+    "response": [
+        "doc_8209.txt",
+        "doc_3543.txt",
+        "doc_6111.txt",
+        "doc_523.txt",
+        "doc_2153.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was Gandhi protesting regarding salt in 1930?",
+    "response": [
+        "doc_1403.txt",
+        "doc_1415.txt",
+        "doc_1405.txt",
+        "doc_1409.txt",
+        "doc_1414.txt"
+    ]
+}

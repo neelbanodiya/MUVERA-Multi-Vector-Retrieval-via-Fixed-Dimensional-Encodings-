@@ -1,0 +1,10 @@
+{
+    "query": "At what age did Charles Dickens receive his famous name?",
+    "response": [
+        "doc_11913.txt",
+        "doc_11914.txt",
+        "doc_20555.txt",
+        "doc_7330.txt",
+        "doc_14088.txt"
+    ]
+}

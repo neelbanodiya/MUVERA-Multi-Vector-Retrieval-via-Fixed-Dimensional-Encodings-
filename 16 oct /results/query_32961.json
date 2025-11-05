@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of the article featured in Rutgers Magazine in 1997?",
+    "response": [
+        "doc_18965.txt",
+        "doc_18509.txt",
+        "doc_19194.txt",
+        "doc_4165.txt",
+        "doc_21368.txt"
+    ]
+}

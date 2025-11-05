@@ -1,0 +1,10 @@
+{
+    "query": "Which king\u2019s reign is associated with the completion of Malory\u2019s work?",
+    "response": [
+        "doc_22245.txt",
+        "doc_22244.txt",
+        "doc_22252.txt",
+        "doc_22250.txt",
+        "doc_22256.txt"
+    ]
+}

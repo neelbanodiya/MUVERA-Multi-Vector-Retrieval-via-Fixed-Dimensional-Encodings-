@@ -1,0 +1,10 @@
+{
+    "query": "What does the passage state is a \u201ccorollary\u201d of the right of EU citizens to move and reside freely?",
+    "response": [
+        "doc_12905.txt",
+        "doc_12155.txt",
+        "doc_11815.txt",
+        "doc_11816.txt",
+        "doc_7287.txt"
+    ]
+}

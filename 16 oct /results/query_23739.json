@@ -1,0 +1,10 @@
+{
+    "query": "Who created the characters that the \u201cFather Dowling Mysteries\u201d series is based on?",
+    "response": [
+        "doc_13781.txt",
+        "doc_18953.txt",
+        "doc_22244.txt",
+        "doc_9893.txt",
+        "doc_5323.txt"
+    ]
+}

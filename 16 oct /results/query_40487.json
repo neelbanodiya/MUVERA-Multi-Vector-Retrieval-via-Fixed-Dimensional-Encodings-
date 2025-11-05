@@ -1,0 +1,10 @@
+{
+    "query": "What groups does the passage identify as having a common interest in preventing destabilization in Kyrgyzstan?",
+    "response": [
+        "doc_23675.txt",
+        "doc_23676.txt",
+        "doc_489.txt",
+        "doc_14913.txt",
+        "doc_488.txt"
+    ]
+}

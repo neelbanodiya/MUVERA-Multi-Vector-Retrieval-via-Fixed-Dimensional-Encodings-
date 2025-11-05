@@ -1,0 +1,10 @@
+{
+    "query": "What century is the biography of Henry Clay about?",
+    "response": [
+        "doc_14859.txt",
+        "doc_5859.txt",
+        "doc_20533.txt",
+        "doc_11910.txt",
+        "doc_18245.txt"
+    ]
+}

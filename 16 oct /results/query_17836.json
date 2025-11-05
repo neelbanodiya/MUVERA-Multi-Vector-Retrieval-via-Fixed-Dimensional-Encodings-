@@ -1,0 +1,10 @@
+{
+    "query": "What was the outcome of a previous merger attempt between Staples and Office Depot in 1997?",
+    "response": [
+        "doc_10342.txt",
+        "doc_10345.txt",
+        "doc_10340.txt",
+        "doc_10341.txt",
+        "doc_10347.txt"
+    ]
+}

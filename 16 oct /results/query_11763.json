@@ -1,0 +1,10 @@
+{
+    "query": "What is the current location of the assistant who is in New Orleans for a month?",
+    "response": [
+        "doc_23406.txt",
+        "doc_5503.txt",
+        "doc_14912.txt",
+        "doc_22423.txt",
+        "doc_19969.txt"
+    ]
+}

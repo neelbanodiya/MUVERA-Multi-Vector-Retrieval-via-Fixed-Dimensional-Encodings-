@@ -1,0 +1,10 @@
+{
+    "query": "What procedure was used to adopt this European Parliament legislative resolution?",
+    "response": [
+        "doc_8445.txt",
+        "doc_9429.txt",
+        "doc_5827.txt",
+        "doc_17516.txt",
+        "doc_21466.txt"
+    ]
+}

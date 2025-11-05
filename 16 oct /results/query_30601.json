@@ -1,0 +1,10 @@
+{
+    "query": "What was Bobby doing in 1959, according to the passage?",
+    "response": [
+        "doc_15277.txt",
+        "doc_15278.txt",
+        "doc_12733.txt",
+        "doc_18600.txt",
+        "doc_11354.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is the title of Martin Luther\u2019s 1520 work?",
+    "response": [
+        "doc_18408.txt",
+        "doc_18405.txt",
+        "doc_18417.txt",
+        "doc_18410.txt",
+        "doc_18404.txt"
+    ]
+}

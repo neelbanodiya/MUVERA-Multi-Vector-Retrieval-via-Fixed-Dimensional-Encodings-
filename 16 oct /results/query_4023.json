@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the San Francisco Giants clinch their NL wild card matchup with the Mets?",
+    "response": [
+        "doc_2363.txt",
+        "doc_2367.txt",
+        "doc_3575.txt",
+        "doc_15807.txt",
+        "doc_2349.txt"
+    ]
+}

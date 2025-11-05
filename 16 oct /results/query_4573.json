@@ -1,0 +1,10 @@
+{
+    "query": "What was Zachary Taylor\u2019s profession before becoming President?",
+    "response": [
+        "doc_12840.txt",
+        "doc_21249.txt",
+        "doc_21935.txt",
+        "doc_14425.txt",
+        "doc_12642.txt"
+    ]
+}

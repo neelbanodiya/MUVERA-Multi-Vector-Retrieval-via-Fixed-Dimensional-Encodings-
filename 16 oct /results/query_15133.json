@@ -1,0 +1,10 @@
+{
+    "query": "In 1784, what happened in Los Angeles regarding the Spanish flag and allegiance to a new government?",
+    "response": [
+        "doc_8778.txt",
+        "doc_10140.txt",
+        "doc_21651.txt",
+        "doc_21647.txt",
+        "doc_21646.txt"
+    ]
+}

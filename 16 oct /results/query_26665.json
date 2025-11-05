@@ -1,0 +1,10 @@
+{
+    "query": "Who was convicted of murdering Olaf Palme, and what was the outcome of that conviction?",
+    "response": [
+        "doc_15501.txt",
+        "doc_15499.txt",
+        "doc_9545.txt",
+        "doc_20922.txt",
+        "doc_8051.txt"
+    ]
+}

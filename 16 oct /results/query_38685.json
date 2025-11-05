@@ -1,0 +1,10 @@
+{
+    "query": "When was the album \u201cHigh School Musical 2: Non-Stop Dance Party\u201d released in the UK and Southeast Asia?",
+    "response": [
+        "doc_22673.txt",
+        "doc_8467.txt",
+        "doc_17724.txt",
+        "doc_9807.txt",
+        "doc_24156.txt"
+    ]
+}

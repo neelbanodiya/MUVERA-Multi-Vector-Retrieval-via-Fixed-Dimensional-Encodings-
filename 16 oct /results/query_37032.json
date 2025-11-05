@@ -1,0 +1,10 @@
+{
+    "query": "What year did \"The 400 Blows\" triumph in Cannes?",
+    "response": [
+        "doc_12609.txt",
+        "doc_12599.txt",
+        "doc_18378.txt",
+        "doc_3223.txt",
+        "doc_18377.txt"
+    ]
+}

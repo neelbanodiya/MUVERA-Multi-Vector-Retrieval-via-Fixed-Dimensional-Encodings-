@@ -1,0 +1,10 @@
+{
+    "query": "Who was nominated to be Ambassador to the Republic of Peru?",
+    "response": [
+        "doc_11843.txt",
+        "doc_15259.txt",
+        "doc_5572.txt",
+        "doc_17113.txt",
+        "doc_14790.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Marian Anderson become the first African-American to perform at the Metropolitan Opera?",
+    "response": [
+        "doc_15240.txt",
+        "doc_15239.txt",
+        "doc_15241.txt",
+        "doc_15244.txt",
+        "doc_15245.txt"
+    ]
+}

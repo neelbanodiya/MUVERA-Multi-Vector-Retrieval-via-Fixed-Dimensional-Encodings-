@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the tour company offering a Paris to Provence itinerary?",
+    "response": [
+        "doc_12331.txt",
+        "doc_12333.txt",
+        "doc_5462.txt",
+        "doc_10129.txt",
+        "doc_5463.txt"
+    ]
+}

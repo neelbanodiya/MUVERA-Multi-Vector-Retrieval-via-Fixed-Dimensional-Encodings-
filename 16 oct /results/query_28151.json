@@ -1,0 +1,10 @@
+{
+    "query": "How many studio albums did King Diamond release?",
+    "response": [
+        "doc_20314.txt",
+        "doc_12045.txt",
+        "doc_16350.txt",
+        "doc_16351.txt",
+        "doc_12044.txt"
+    ]
+}

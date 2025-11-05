@@ -1,0 +1,10 @@
+{
+    "query": "What specific information must be included in the annual report presented to the European Parliament by the Commission, as outlined in Amendment 270?",
+    "response": [
+        "doc_20824.txt",
+        "doc_20765.txt",
+        "doc_13244.txt",
+        "doc_18013.txt",
+        "doc_13346.txt"
+    ]
+}

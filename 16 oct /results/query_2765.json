@@ -1,0 +1,10 @@
+{
+    "query": "In what part of the United States is this county located?",
+    "response": [
+        "doc_24077.txt",
+        "doc_1655.txt",
+        "doc_18155.txt",
+        "doc_1654.txt",
+        "doc_21710.txt"
+    ]
+}

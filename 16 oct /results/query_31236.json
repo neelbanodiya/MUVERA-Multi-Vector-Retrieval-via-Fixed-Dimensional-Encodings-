@@ -1,0 +1,10 @@
+{
+    "query": "Who shut up Daedalus and Icarus in the labyrinth?",
+    "response": [
+        "doc_18193.txt",
+        "doc_18210.txt",
+        "doc_18194.txt",
+        "doc_18207.txt",
+        "doc_18202.txt"
+    ]
+}

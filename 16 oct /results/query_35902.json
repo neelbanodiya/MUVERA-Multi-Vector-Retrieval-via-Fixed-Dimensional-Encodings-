@@ -1,0 +1,10 @@
+{
+    "query": "What awards did Meryl Streep receive, according to the provided text?",
+    "response": [
+        "doc_20925.txt",
+        "doc_12358.txt",
+        "doc_19276.txt",
+        "doc_2263.txt",
+        "doc_22622.txt"
+    ]
+}

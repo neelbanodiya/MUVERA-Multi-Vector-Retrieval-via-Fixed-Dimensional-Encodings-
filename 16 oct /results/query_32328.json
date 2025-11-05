@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what type of misogynist is Bill Cosby described as?",
+    "response": [
+        "doc_18836.txt",
+        "doc_10106.txt",
+        "doc_21384.txt",
+        "doc_5324.txt",
+        "doc_5323.txt"
+    ]
+}

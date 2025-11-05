@@ -1,0 +1,10 @@
+{
+    "query": "On what date was the Committee on Legal Affairs assigned the report for this proposal?",
+    "response": [
+        "doc_13140.txt",
+        "doc_3003.txt",
+        "doc_13194.txt",
+        "doc_22546.txt",
+        "doc_14054.txt"
+    ]
+}

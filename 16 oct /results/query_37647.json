@@ -1,0 +1,10 @@
+{
+    "query": "What happened between Vincent van Gogh and Paul Gauguin?",
+    "response": [
+        "doc_22071.txt",
+        "doc_22068.txt",
+        "doc_22075.txt",
+        "doc_22069.txt",
+        "doc_22074.txt"
+    ]
+}

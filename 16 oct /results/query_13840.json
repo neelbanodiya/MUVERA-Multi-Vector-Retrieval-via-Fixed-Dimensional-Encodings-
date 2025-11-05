@@ -1,0 +1,9 @@
+{
+    "query": "How many professional sports teams are located in the Los Angeles metropolitan area?",
+    "response": [
+        "doc_10507.txt",
+        "doc_8052.txt",
+        "doc_10511.txt",
+        "doc_8056.txt"
+    ]
+}

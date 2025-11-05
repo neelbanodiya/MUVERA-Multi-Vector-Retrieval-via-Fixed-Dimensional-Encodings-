@@ -1,0 +1,10 @@
+{
+    "query": "What type of book is described in the UD History of American Civilization Ph.D. Program Blog excerpt?",
+    "response": [
+        "doc_21730.txt",
+        "doc_7375.txt",
+        "doc_20896.txt",
+        "doc_8913.txt",
+        "doc_20263.txt"
+    ]
+}

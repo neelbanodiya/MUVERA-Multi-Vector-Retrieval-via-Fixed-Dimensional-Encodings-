@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what design was featured on the reverse of the Eisenhower dollar from 2000 to 2008?",
+    "response": [
+        "doc_5914.txt",
+        "doc_5918.txt",
+        "doc_5922.txt",
+        "doc_5919.txt",
+        "doc_5910.txt"
+    ]
+}

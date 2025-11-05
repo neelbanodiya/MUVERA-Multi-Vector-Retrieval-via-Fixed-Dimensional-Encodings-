@@ -1,0 +1,10 @@
+{
+    "query": "According to the Reddit post, what is a key technique for blending vocals into a song?",
+    "response": [
+        "doc_19137.txt",
+        "doc_18883.txt",
+        "doc_7782.txt",
+        "doc_7780.txt",
+        "doc_7241.txt"
+    ]
+}

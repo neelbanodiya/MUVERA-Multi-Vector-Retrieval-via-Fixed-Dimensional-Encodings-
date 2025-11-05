@@ -1,0 +1,10 @@
+{
+    "query": "According to the 2016 Arizona Football Media Guide, what was the primary goal of Coach Rodriguez\u2019s offense?",
+    "response": [
+        "doc_20076.txt",
+        "doc_11285.txt",
+        "doc_2012.txt",
+        "doc_11263.txt",
+        "doc_6825.txt"
+    ]
+}

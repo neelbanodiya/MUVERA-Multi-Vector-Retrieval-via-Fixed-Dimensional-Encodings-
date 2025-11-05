@@ -1,0 +1,10 @@
+{
+    "query": "How many women have been elected or appointed to the U.S. Congress as of 2015?",
+    "response": [
+        "doc_9116.txt",
+        "doc_19315.txt",
+        "doc_19313.txt",
+        "doc_19312.txt",
+        "doc_19324.txt"
+    ]
+}

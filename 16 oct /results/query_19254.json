@@ -1,0 +1,10 @@
+{
+    "query": "Which organizations are listed as having a presence in Washington, DC according to the provided links?",
+    "response": [
+        "doc_12645.txt",
+        "doc_13050.txt",
+        "doc_10137.txt",
+        "doc_2124.txt",
+        "doc_18082.txt"
+    ]
+}

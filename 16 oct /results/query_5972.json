@@ -1,0 +1,10 @@
+{
+    "query": "What song is famously associated with the Mersey ferry?",
+    "response": [
+        "doc_3485.txt",
+        "doc_3492.txt",
+        "doc_3490.txt",
+        "doc_3486.txt",
+        "doc_3483.txt"
+    ]
+}

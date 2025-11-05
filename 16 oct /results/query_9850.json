@@ -1,0 +1,10 @@
+{
+    "query": "Which deity is described as the center of the universe and the symbol of union in Hindu religion?",
+    "response": [
+        "doc_5717.txt",
+        "doc_18294.txt",
+        "doc_5711.txt",
+        "doc_18291.txt",
+        "doc_2523.txt"
+    ]
+}

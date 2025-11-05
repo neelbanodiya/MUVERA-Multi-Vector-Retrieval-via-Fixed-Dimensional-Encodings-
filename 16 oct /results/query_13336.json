@@ -1,0 +1,10 @@
+{
+    "query": "Which committees\u2019 reports and opinions are referenced in relation to this European Parliament decision?",
+    "response": [
+        "doc_13248.txt",
+        "doc_13217.txt",
+        "doc_16894.txt",
+        "doc_13233.txt",
+        "doc_18506.txt"
+    ]
+}

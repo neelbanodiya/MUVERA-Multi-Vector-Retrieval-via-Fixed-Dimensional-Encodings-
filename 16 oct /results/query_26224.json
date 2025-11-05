@@ -1,0 +1,10 @@
+{
+    "query": "Who was Sergio Vieira de Mello, and what role did he have?",
+    "response": [
+        "doc_11218.txt",
+        "doc_11219.txt",
+        "doc_17778.txt",
+        "doc_20613.txt",
+        "doc_15277.txt"
+    ]
+}

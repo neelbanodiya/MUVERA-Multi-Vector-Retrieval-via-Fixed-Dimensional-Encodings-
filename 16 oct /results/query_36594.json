@@ -1,0 +1,10 @@
+{
+    "query": "What iconic phrase is repeatedly associated with Superman?",
+    "response": [
+        "doc_20311.txt",
+        "doc_9450.txt",
+        "doc_11500.txt",
+        "doc_9990.txt",
+        "doc_22914.txt"
+    ]
+}

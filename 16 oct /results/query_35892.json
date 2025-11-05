@@ -1,0 +1,10 @@
+{
+    "query": "Which Member States have cooperated with OLAF regarding checks, and which have delayed them?",
+    "response": [
+        "doc_20922.txt",
+        "doc_12808.txt",
+        "doc_8113.txt",
+        "doc_15818.txt",
+        "doc_1915.txt"
+    ]
+}

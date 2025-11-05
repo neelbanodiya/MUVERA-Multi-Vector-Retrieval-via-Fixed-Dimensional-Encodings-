@@ -1,0 +1,10 @@
+{
+    "query": "What number did Leon Uris previously use in his novel \u201cMila\u201d?",
+    "response": [
+        "doc_10615.txt",
+        "doc_10624.txt",
+        "doc_10621.txt",
+        "doc_10622.txt",
+        "doc_10631.txt"
+    ]
+}

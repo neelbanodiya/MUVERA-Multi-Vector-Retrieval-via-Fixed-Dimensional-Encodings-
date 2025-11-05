@@ -1,0 +1,10 @@
+{
+    "query": "In what television show did Vonda Shepard appear, and what role did she play?",
+    "response": [
+        "doc_5719.txt",
+        "doc_15025.txt",
+        "doc_7076.txt",
+        "doc_16055.txt",
+        "doc_13824.txt"
+    ]
+}

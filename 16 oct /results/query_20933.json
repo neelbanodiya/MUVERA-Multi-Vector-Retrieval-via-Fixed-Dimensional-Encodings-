@@ -1,0 +1,10 @@
+{
+    "query": "In which sea is Palawan located?",
+    "response": [
+        "doc_12063.txt",
+        "doc_12056.txt",
+        "doc_12062.txt",
+        "doc_12064.txt",
+        "doc_12059.txt"
+    ]
+}

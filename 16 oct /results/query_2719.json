@@ -1,0 +1,10 @@
+{
+    "query": "What two lakes are connected by the St. Marys River?",
+    "response": [
+        "doc_1633.txt",
+        "doc_1645.txt",
+        "doc_1650.txt",
+        "doc_1637.txt",
+        "doc_1646.txt"
+    ]
+}

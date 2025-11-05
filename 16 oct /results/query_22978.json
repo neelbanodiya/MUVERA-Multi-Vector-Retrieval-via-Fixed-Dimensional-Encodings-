@@ -1,0 +1,10 @@
+{
+    "query": "How can a committee associated with a subject-matter committee present suggestions related to Union law or proposed changes?",
+    "response": [
+        "doc_13195.txt",
+        "doc_13194.txt",
+        "doc_13289.txt",
+        "doc_13193.txt",
+        "doc_17349.txt"
+    ]
+}

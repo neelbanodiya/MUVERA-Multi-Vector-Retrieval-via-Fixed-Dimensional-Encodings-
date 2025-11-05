@@ -1,0 +1,10 @@
+{
+    "query": "What is one characteristic of the music described in the \u201cTheme Time Radio Hour\u201d episode featuring Screaming Jay Hawkins?",
+    "response": [
+        "doc_9819.txt",
+        "doc_10200.txt",
+        "doc_23865.txt",
+        "doc_11140.txt",
+        "doc_5249.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the character that Tony took as his stage name?",
+    "response": [
+        "doc_20128.txt",
+        "doc_15394.txt",
+        "doc_18954.txt",
+        "doc_17912.txt",
+        "doc_12248.txt"
+    ]
+}

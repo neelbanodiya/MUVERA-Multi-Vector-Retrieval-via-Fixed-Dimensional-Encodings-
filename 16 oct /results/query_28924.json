@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of Coco Chanel\u2019s famous fragrance?",
+    "response": [
+        "doc_21854.txt",
+        "doc_16864.txt",
+        "doc_13105.txt",
+        "doc_16865.txt",
+        "doc_16867.txt"
+    ]
+}

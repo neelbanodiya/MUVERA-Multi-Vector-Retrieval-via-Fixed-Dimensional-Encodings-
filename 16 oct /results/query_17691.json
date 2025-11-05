@@ -1,0 +1,10 @@
+{
+    "query": "What was one employee\u2019s experience regarding a malfunctioning air conditioner at Pizza Hut?",
+    "response": [
+        "doc_19796.txt",
+        "doc_7962.txt",
+        "doc_10274.txt",
+        "doc_1523.txt",
+        "doc_15728.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What opera did Philip Glass compose that opened the Long Beach Opera season in 2013?",
+    "response": [
+        "doc_8173.txt",
+        "doc_8176.txt",
+        "doc_8164.txt",
+        "doc_8162.txt",
+        "doc_8171.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What city in Portugal is the Tagus River located in?",
+    "response": [
+        "doc_17642.txt",
+        "doc_17641.txt",
+        "doc_22327.txt",
+        "doc_15477.txt",
+        "doc_14306.txt"
+    ]
+}

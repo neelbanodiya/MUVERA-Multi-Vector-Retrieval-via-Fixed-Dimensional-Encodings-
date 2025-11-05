@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Garth Brooks named Entertainer of the Year at the CMA Awards?",
+    "response": [
+        "doc_17912.txt",
+        "doc_17914.txt",
+        "doc_9697.txt",
+        "doc_4571.txt",
+        "doc_3260.txt"
+    ]
+}

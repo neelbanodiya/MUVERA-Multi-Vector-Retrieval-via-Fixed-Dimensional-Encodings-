@@ -1,0 +1,10 @@
+{
+    "query": "On what date and time is the hearing of the candidate for the position of EFSA Executive Director scheduled?",
+    "response": [
+        "doc_23641.txt",
+        "doc_8154.txt",
+        "doc_8153.txt",
+        "doc_23659.txt",
+        "doc_3828.txt"
+    ]
+}

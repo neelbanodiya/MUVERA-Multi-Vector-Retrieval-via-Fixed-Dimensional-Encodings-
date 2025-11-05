@@ -1,0 +1,10 @@
+{
+    "query": "What is the current time limit for detention without charge, according to the UK Government\u2019s proposed Bill?",
+    "response": [
+        "doc_6907.txt",
+        "doc_13347.txt",
+        "doc_13348.txt",
+        "doc_12484.txt",
+        "doc_13300.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which horror film, released in 2012, was loosely inspired by the Philip experiment conducted in 1972?",
+    "response": [
+        "doc_1231.txt",
+        "doc_4240.txt",
+        "doc_8179.txt",
+        "doc_1229.txt",
+        "doc_6919.txt"
+    ]
+}

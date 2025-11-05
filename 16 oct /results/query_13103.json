@@ -1,0 +1,10 @@
+{
+    "query": "What types of performances are featured in the arts scene of Northern Virginia, according to the article?",
+    "response": [
+        "doc_7660.txt",
+        "doc_7659.txt",
+        "doc_20494.txt",
+        "doc_23032.txt",
+        "doc_19423.txt"
+    ]
+}

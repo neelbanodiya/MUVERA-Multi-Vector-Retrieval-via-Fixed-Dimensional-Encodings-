@@ -1,0 +1,10 @@
+{
+    "query": "Where did George Carver finish high school?",
+    "response": [
+        "doc_4740.txt",
+        "doc_14424.txt",
+        "doc_4741.txt",
+        "doc_20937.txt",
+        "doc_15624.txt"
+    ]
+}

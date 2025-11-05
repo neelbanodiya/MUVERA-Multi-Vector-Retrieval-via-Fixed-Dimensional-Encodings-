@@ -1,0 +1,10 @@
+{
+    "query": "What type of food did the mother in the Dirt Candy article primarily cook?",
+    "response": [
+        "doc_8913.txt",
+        "doc_8924.txt",
+        "doc_12202.txt",
+        "doc_8921.txt",
+        "doc_23452.txt"
+    ]
+}

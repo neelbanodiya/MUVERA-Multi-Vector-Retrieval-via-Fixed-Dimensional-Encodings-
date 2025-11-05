@@ -1,0 +1,10 @@
+{
+    "query": "Which city was designated as the capital of the United States between 1790 and 1800?",
+    "response": [
+        "doc_2707.txt",
+        "doc_2709.txt",
+        "doc_2711.txt",
+        "doc_2710.txt",
+        "doc_2708.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who were the Philistines?",
+    "response": [
+        "doc_10069.txt",
+        "doc_17272.txt",
+        "doc_14770.txt",
+        "doc_21293.txt",
+        "doc_23038.txt"
+    ]
+}

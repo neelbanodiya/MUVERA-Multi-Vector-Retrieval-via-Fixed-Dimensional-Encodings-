@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is a key characteristic of coffee made using a French press?",
+    "response": [
+        "doc_10782.txt",
+        "doc_5723.txt",
+        "doc_1678.txt",
+        "doc_23962.txt",
+        "doc_12131.txt"
+    ]
+}

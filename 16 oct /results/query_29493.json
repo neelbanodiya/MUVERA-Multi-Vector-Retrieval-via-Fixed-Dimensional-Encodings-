@@ -1,0 +1,10 @@
+{
+    "query": "How much was the prototype Atlantic Tank Truck sold for?",
+    "response": [
+        "doc_17157.txt",
+        "doc_17156.txt",
+        "doc_3385.txt",
+        "doc_23131.txt",
+        "doc_21341.txt"
+    ]
+}

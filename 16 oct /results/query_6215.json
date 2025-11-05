@@ -1,0 +1,10 @@
+{
+    "query": "What is the minimum number of citizens required to back a citizens\u2019 initiative for it to be considered by the European Commission?",
+    "response": [
+        "doc_3606.txt",
+        "doc_3605.txt",
+        "doc_17779.txt",
+        "doc_17390.txt",
+        "doc_17391.txt"
+    ]
+}

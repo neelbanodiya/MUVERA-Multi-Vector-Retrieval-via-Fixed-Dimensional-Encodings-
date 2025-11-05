@@ -1,0 +1,10 @@
+{
+    "query": "According to multiple sources, how many pairs of each animal were taken onto Noah\u2019s Ark?",
+    "response": [
+        "doc_7436.txt",
+        "doc_7435.txt",
+        "doc_7448.txt",
+        "doc_7438.txt",
+        "doc_7439.txt"
+    ]
+}

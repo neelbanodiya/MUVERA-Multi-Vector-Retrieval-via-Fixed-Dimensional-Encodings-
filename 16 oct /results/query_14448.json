@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Josephine de Beauharnais, who later became Empress of France, born?",
+    "response": [
+        "doc_8365.txt",
+        "doc_8366.txt",
+        "doc_8367.txt",
+        "doc_8372.txt",
+        "doc_8378.txt"
+    ]
+}

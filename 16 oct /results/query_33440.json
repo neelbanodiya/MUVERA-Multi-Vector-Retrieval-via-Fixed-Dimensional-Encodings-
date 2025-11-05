@@ -1,0 +1,10 @@
+{
+    "query": "What event led to a surge in dockside warehousing in 1872, according to the NYC PTH List of 500 Sites document?",
+    "response": [
+        "doc_3505.txt",
+        "doc_19477.txt",
+        "doc_8357.txt",
+        "doc_19392.txt",
+        "doc_23367.txt"
+    ]
+}

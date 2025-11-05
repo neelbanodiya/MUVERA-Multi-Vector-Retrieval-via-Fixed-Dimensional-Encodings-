@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the album released by The Beach Boys in 1966, referenced in one of the linked articles?",
+    "response": [
+        "doc_19992.txt",
+        "doc_8468.txt",
+        "doc_19991.txt",
+        "doc_19995.txt",
+        "doc_19988.txt"
+    ]
+}

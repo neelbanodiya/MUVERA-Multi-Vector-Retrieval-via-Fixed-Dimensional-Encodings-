@@ -1,0 +1,10 @@
+{
+    "query": "How does the passage suggest Member States should coordinate enforcement activities related to this Regulation?",
+    "response": [
+        "doc_3018.txt",
+        "doc_3006.txt",
+        "doc_12476.txt",
+        "doc_2839.txt",
+        "doc_3010.txt"
+    ]
+}

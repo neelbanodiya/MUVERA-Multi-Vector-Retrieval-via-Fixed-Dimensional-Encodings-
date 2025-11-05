@@ -1,0 +1,10 @@
+{
+    "query": "What type of transportation was prominent in San Francisco in the late 19th century?",
+    "response": [
+        "doc_23261.txt",
+        "doc_20245.txt",
+        "doc_16688.txt",
+        "doc_16685.txt",
+        "doc_23262.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what does the phrase \u201cIt\u2019s morning again in America\u201d represent?",
+    "response": [
+        "doc_15172.txt",
+        "doc_15170.txt",
+        "doc_15177.txt",
+        "doc_15168.txt",
+        "doc_15171.txt"
+    ]
+}

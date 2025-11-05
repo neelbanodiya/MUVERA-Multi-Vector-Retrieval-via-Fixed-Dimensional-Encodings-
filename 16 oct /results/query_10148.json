@@ -1,0 +1,10 @@
+{
+    "query": "What was the outcome of the Russian State Duma elections held on 4 December 2011?",
+    "response": [
+        "doc_5888.txt",
+        "doc_18360.txt",
+        "doc_18359.txt",
+        "doc_5893.txt",
+        "doc_616.txt"
+    ]
+}

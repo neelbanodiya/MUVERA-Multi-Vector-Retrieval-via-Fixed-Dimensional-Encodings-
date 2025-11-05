@@ -1,0 +1,10 @@
+{
+    "query": "In which countries is Urdu an official language?",
+    "response": [
+        "doc_23861.txt",
+        "doc_23849.txt",
+        "doc_23854.txt",
+        "doc_23856.txt",
+        "doc_23852.txt"
+    ]
+}

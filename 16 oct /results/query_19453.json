@@ -1,0 +1,10 @@
+{
+    "query": "When did the Tulane Green Wave move to Yulman Stadium?",
+    "response": [
+        "doc_11260.txt",
+        "doc_11271.txt",
+        "doc_11258.txt",
+        "doc_11259.txt",
+        "doc_11263.txt"
+    ]
+}

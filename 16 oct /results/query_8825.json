@@ -1,0 +1,10 @@
+{
+    "query": "According to one source, what restriction was placed on inhabitants of Eldorado?",
+    "response": [
+        "doc_12703.txt",
+        "doc_8746.txt",
+        "doc_6668.txt",
+        "doc_3125.txt",
+        "doc_20875.txt"
+    ]
+}

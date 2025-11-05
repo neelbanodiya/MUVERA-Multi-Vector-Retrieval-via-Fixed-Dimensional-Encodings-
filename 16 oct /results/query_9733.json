@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the European Parliament endorse plans to reduce pedestrian and cyclist injuries on European roads?",
+    "response": [
+        "doc_5617.txt",
+        "doc_1030.txt",
+        "doc_2718.txt",
+        "doc_21789.txt",
+        "doc_10800.txt"
+    ]
+}

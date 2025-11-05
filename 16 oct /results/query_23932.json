@@ -1,0 +1,10 @@
+{
+    "query": "According to the article from The Divine Mercy Message, what is Mary believed to do?",
+    "response": [
+        "doc_9319.txt",
+        "doc_9321.txt",
+        "doc_8106.txt",
+        "doc_9312.txt",
+        "doc_8093.txt"
+    ]
+}

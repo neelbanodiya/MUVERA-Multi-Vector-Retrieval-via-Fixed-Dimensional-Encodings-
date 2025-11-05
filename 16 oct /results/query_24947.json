@@ -1,0 +1,10 @@
+{
+    "query": "What is Nicaragua\u2019s greatest poet who has a monument in Parque Central?",
+    "response": [
+        "doc_14499.txt",
+        "doc_14512.txt",
+        "doc_14501.txt",
+        "doc_14507.txt",
+        "doc_14503.txt"
+    ]
+}

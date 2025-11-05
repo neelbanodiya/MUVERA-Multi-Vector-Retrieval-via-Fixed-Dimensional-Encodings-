@@ -1,0 +1,10 @@
+{
+    "query": "What was the Council\u2019s final estimate cut in the DB compared to its initial estimate?",
+    "response": [
+        "doc_17544.txt",
+        "doc_132.txt",
+        "doc_5727.txt",
+        "doc_17547.txt",
+        "doc_8513.txt"
+    ]
+}

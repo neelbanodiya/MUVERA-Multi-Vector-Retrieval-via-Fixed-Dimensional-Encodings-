@@ -1,0 +1,10 @@
+{
+    "query": "What was the first national monument designated in the United States, and when was it established?",
+    "response": [
+        "doc_16261.txt",
+        "doc_16272.txt",
+        "doc_16265.txt",
+        "doc_16273.txt",
+        "doc_16266.txt"
+    ]
+}

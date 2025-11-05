@@ -1,0 +1,10 @@
+{
+    "query": "What is located in Building 1506 behind the Environmental Sciences Division at Oak Ridge National Laboratory?",
+    "response": [
+        "doc_4804.txt",
+        "doc_4805.txt",
+        "doc_4803.txt",
+        "doc_4183.txt",
+        "doc_4807.txt"
+    ]
+}

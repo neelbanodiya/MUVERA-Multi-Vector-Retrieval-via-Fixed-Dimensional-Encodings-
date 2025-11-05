@@ -1,0 +1,9 @@
+{
+    "query": "In what year was the \u201cStabat Mater\u201d composed by Giovanni Battista Pergolesi?",
+    "response": [
+        "doc_15392.txt",
+        "doc_15391.txt",
+        "doc_15393.txt",
+        "doc_14188.txt"
+    ]
+}

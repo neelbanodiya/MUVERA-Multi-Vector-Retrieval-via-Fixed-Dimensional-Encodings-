@@ -1,0 +1,10 @@
+{
+    "query": "What honor did Walter Alvarez receive?",
+    "response": [
+        "doc_10450.txt",
+        "doc_22014.txt",
+        "doc_15278.txt",
+        "doc_22010.txt",
+        "doc_11667.txt"
+    ]
+}

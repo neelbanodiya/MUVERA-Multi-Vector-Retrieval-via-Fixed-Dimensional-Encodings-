@@ -1,0 +1,10 @@
+{
+    "query": "What is the current economic growth rate in Europe, and why is it considered insufficient?",
+    "response": [
+        "doc_4750.txt",
+        "doc_16314.txt",
+        "doc_3654.txt",
+        "doc_14836.txt",
+        "doc_19526.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where is Eagle Mountain Cheese available for purchase?",
+    "response": [
+        "doc_1794.txt",
+        "doc_1793.txt",
+        "doc_20932.txt",
+        "doc_4895.txt",
+        "doc_5354.txt"
+    ]
+}

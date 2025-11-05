@@ -1,0 +1,10 @@
+{
+    "query": "What conference did the 2014 Texas Longhorns football team belong to?",
+    "response": [
+        "doc_11114.txt",
+        "doc_14816.txt",
+        "doc_2010.txt",
+        "doc_2011.txt",
+        "doc_11115.txt"
+    ]
+}

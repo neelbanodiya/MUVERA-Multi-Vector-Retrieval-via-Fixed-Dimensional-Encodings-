@@ -1,0 +1,10 @@
+{
+    "query": "According to the Chronicle in 1087, what were William\u2019s characteristics?",
+    "response": [
+        "doc_7330.txt",
+        "doc_7322.txt",
+        "doc_7325.txt",
+        "doc_7332.txt",
+        "doc_7329.txt"
+    ]
+}

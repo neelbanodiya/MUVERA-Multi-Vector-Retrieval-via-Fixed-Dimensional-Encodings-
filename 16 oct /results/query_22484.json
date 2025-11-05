@@ -1,0 +1,10 @@
+{
+    "query": "In what century and region was the founder of the Sikh religion, Guru Nanak, born?",
+    "response": [
+        "doc_12959.txt",
+        "doc_12970.txt",
+        "doc_12958.txt",
+        "doc_12963.txt",
+        "doc_12961.txt"
+    ]
+}

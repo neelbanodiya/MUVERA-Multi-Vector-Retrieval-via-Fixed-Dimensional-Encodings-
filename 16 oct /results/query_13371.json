@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was Jeff Smith\u2019s role in the development of a new cooking genre on television?",
+    "response": [
+        "doc_7826.txt",
+        "doc_7822.txt",
+        "doc_7818.txt",
+        "doc_7831.txt",
+        "doc_7824.txt"
+    ]
+}

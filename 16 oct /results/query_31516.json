@@ -1,0 +1,10 @@
+{
+    "query": "How was the song \u201cA Mighty Fortress Is Our God\u201d utilized in Germany historically?",
+    "response": [
+        "doc_18401.txt",
+        "doc_18416.txt",
+        "doc_18411.txt",
+        "doc_18402.txt",
+        "doc_18412.txt"
+    ]
+}

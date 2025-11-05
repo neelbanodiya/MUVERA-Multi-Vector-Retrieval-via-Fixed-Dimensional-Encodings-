@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what role did women play in the early church, specifically at the crucifixion and resurrection of Jesus?",
+    "response": [
+        "doc_13528.txt",
+        "doc_9302.txt",
+        "doc_9131.txt",
+        "doc_1307.txt",
+        "doc_21762.txt"
+    ]
+}

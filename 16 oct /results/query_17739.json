@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what directive currently governs the requirements for mirrors and vision devices on vehicles sold in the EU market?",
+    "response": [
+        "doc_10290.txt",
+        "doc_6414.txt",
+        "doc_317.txt",
+        "doc_19856.txt",
+        "doc_6117.txt"
+    ]
+}

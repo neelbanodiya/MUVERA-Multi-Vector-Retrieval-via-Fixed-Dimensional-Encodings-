@@ -1,0 +1,10 @@
+{
+    "query": "How many films has the actor starred in as a leading actor in Telugu films?",
+    "response": [
+        "doc_10060.txt",
+        "doc_21391.txt",
+        "doc_2516.txt",
+        "doc_23283.txt",
+        "doc_12933.txt"
+    ]
+}

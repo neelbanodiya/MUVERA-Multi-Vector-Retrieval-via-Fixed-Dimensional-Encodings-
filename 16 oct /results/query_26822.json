@@ -1,0 +1,9 @@
+{
+    "query": "Who is the 1st vice-chair of the Employment and Social Affairs Committee?",
+    "response": [
+        "doc_15568.txt",
+        "doc_15567.txt",
+        "doc_15569.txt",
+        "doc_12313.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the film that features Mel Gibson and was directed by George Miller?",
+    "response": [
+        "doc_16095.txt",
+        "doc_16093.txt",
+        "doc_5156.txt",
+        "doc_22834.txt",
+        "doc_2231.txt"
+    ]
+}

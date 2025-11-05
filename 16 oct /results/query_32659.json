@@ -1,0 +1,10 @@
+{
+    "query": "What events did Smith reach the top ten in while at West Point?",
+    "response": [
+        "doc_19036.txt",
+        "doc_19037.txt",
+        "doc_20956.txt",
+        "doc_74.txt",
+        "doc_12980.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What geographical features are associated with the Petrified Forest National Park?",
+    "response": [
+        "doc_9327.txt",
+        "doc_9324.txt",
+        "doc_9328.txt",
+        "doc_9326.txt",
+        "doc_9334.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the outcome of the joint resolution concerning the peace agreement in Liberia?",
+    "response": [
+        "doc_1987.txt",
+        "doc_8113.txt",
+        "doc_22721.txt",
+        "doc_15165.txt",
+        "doc_17823.txt"
+    ]
+}

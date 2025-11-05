@@ -1,0 +1,10 @@
+{
+    "query": "Is the Commission aware of these measures in the US?",
+    "response": [
+        "doc_19856.txt",
+        "doc_14096.txt",
+        "doc_21916.txt",
+        "doc_14769.txt",
+        "doc_16880.txt"
+    ]
+}

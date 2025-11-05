@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what role did the elders of Israel play after the defeat?",
+    "response": [
+        "doc_1815.txt",
+        "doc_7920.txt",
+        "doc_1814.txt",
+        "doc_1817.txt",
+        "doc_1813.txt"
+    ]
+}

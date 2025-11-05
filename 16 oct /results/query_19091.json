@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, where can one find an example of the word \u201cTchotchke\u201d?",
+    "response": [
+        "doc_9446.txt",
+        "doc_8556.txt",
+        "doc_12597.txt",
+        "doc_708.txt",
+        "doc_9196.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "For what project did Warner perform an uncredited rewrite?",
+    "response": [
+        "doc_12639.txt",
+        "doc_12638.txt",
+        "doc_22188.txt",
+        "doc_18754.txt",
+        "doc_2231.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the largest U.S. city west of Pittsburgh, and the second-largest port in the country?",
+    "response": [
+        "doc_2708.txt",
+        "doc_2179.txt",
+        "doc_21168.txt",
+        "doc_23079.txt",
+        "doc_11303.txt"
+    ]
+}

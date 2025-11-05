@@ -1,0 +1,10 @@
+{
+    "query": "What historical event does the novel \u201cThe Grail Quest\u201d primarily depict?",
+    "response": [
+        "doc_4654.txt",
+        "doc_14547.txt",
+        "doc_12463.txt",
+        "doc_16517.txt",
+        "doc_19422.txt"
+    ]
+}

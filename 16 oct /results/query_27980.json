@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of the Montana Dinosaur Trail?",
+    "response": [
+        "doc_16257.txt",
+        "doc_16252.txt",
+        "doc_16262.txt",
+        "doc_16256.txt",
+        "doc_22151.txt"
+    ]
+}

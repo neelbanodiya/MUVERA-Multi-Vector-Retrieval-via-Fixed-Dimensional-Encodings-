@@ -1,0 +1,10 @@
+{
+    "query": "What team did Dusty Baker initially coach before moving to the Atlanta Braves?",
+    "response": [
+        "doc_23054.txt",
+        "doc_9158.txt",
+        "doc_23050.txt",
+        "doc_5437.txt",
+        "doc_5392.txt"
+    ]
+}

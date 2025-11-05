@@ -1,0 +1,10 @@
+{
+    "query": "What ocean is the Bering Strait located between?",
+    "response": [
+        "doc_9610.txt",
+        "doc_9611.txt",
+        "doc_9609.txt",
+        "doc_9620.txt",
+        "doc_9621.txt"
+    ]
+}

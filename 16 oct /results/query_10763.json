@@ -1,0 +1,10 @@
+{
+    "query": "What technology was utilized in Don Wetzel\u2019s ATM, besides accepting PIN numbers?",
+    "response": [
+        "doc_6226.txt",
+        "doc_6228.txt",
+        "doc_6239.txt",
+        "doc_6231.txt",
+        "doc_6232.txt"
+    ]
+}

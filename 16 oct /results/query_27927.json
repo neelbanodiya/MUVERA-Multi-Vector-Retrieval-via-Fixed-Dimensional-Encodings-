@@ -1,0 +1,10 @@
+{
+    "query": "According to the NBC News article, what are some of the topics Pope Francis plans to address during his U.S. visit?",
+    "response": [
+        "doc_16243.txt",
+        "doc_16246.txt",
+        "doc_16238.txt",
+        "doc_16236.txt",
+        "doc_16241.txt"
+    ]
+}

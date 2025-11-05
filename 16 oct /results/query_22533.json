@@ -1,0 +1,10 @@
+{
+    "query": "Where is Constitution Island located in relation to the U.S. Military Academy?",
+    "response": [
+        "doc_12978.txt",
+        "doc_12979.txt",
+        "doc_12983.txt",
+        "doc_12982.txt",
+        "doc_12981.txt"
+    ]
+}

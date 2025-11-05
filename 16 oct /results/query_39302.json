@@ -1,0 +1,10 @@
+{
+    "query": "What was the initial amount of the first loan obtained by the Russian government?",
+    "response": [
+        "doc_23007.txt",
+        "doc_23272.txt",
+        "doc_17782.txt",
+        "doc_18361.txt",
+        "doc_16792.txt"
+    ]
+}

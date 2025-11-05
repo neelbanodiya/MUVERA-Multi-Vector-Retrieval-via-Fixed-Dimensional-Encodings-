@@ -1,0 +1,10 @@
+{
+    "query": "In what year were Canada and the U.S. established an integrated North American Air defense?",
+    "response": [
+        "doc_3409.txt",
+        "doc_3403.txt",
+        "doc_3408.txt",
+        "doc_3412.txt",
+        "doc_3405.txt"
+    ]
+}

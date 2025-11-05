@@ -1,0 +1,10 @@
+{
+    "query": "What should someone avoid doing to prevent their dog from bothering Brett Gardner?",
+    "response": [
+        "doc_715.txt",
+        "doc_22739.txt",
+        "doc_9220.txt",
+        "doc_9226.txt",
+        "doc_20462.txt"
+    ]
+}

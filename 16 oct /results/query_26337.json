@@ -1,0 +1,10 @@
+{
+    "query": "What record label did James and Fred Wehba create?",
+    "response": [
+        "doc_15319.txt",
+        "doc_15318.txt",
+        "doc_16934.txt",
+        "doc_3889.txt",
+        "doc_5445.txt"
+    ]
+}

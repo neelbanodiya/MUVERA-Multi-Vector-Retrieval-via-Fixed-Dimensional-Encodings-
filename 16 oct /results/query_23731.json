@@ -1,0 +1,10 @@
+{
+    "query": "What Canadian woman won a Silver Medal?",
+    "response": [
+        "doc_15507.txt",
+        "doc_15506.txt",
+        "doc_15519.txt",
+        "doc_15505.txt",
+        "doc_10859.txt"
+    ]
+}

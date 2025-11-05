@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between the former Immigration and Naturalization Service (INS) and the current Department of Homeland Security (DHS), as described in the text?",
+    "response": [
+        "doc_12538.txt",
+        "doc_12537.txt",
+        "doc_21682.txt",
+        "doc_9796.txt",
+        "doc_10520.txt"
+    ]
+}

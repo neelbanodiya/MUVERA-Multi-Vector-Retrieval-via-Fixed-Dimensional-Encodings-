@@ -1,0 +1,10 @@
+{
+    "query": "When did Pierre Trudeau announce his resignation as Prime Minister?",
+    "response": [
+        "doc_11468.txt",
+        "doc_11467.txt",
+        "doc_11469.txt",
+        "doc_11470.txt",
+        "doc_11475.txt"
+    ]
+}

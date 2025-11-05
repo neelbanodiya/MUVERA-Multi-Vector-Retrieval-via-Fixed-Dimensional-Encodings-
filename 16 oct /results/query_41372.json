@@ -1,0 +1,10 @@
+{
+    "query": "In what sports does the Nebraska team compete that are not part of the Big Eight Conference?",
+    "response": [
+        "doc_24251.txt",
+        "doc_19122.txt",
+        "doc_24237.txt",
+        "doc_15563.txt",
+        "doc_2011.txt"
+    ]
+}

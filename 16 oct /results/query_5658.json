@@ -1,0 +1,10 @@
+{
+    "query": "How many majors has Jack Nicklaus won?",
+    "response": [
+        "doc_3289.txt",
+        "doc_3286.txt",
+        "doc_3291.txt",
+        "doc_3290.txt",
+        "doc_3288.txt"
+    ]
+}

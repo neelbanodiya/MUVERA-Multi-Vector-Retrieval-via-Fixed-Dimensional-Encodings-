@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what are the symbols used to represent a King-Rook and a Queen-Rook?",
+    "response": [
+        "doc_8735.txt",
+        "doc_8733.txt",
+        "doc_8732.txt",
+        "doc_8731.txt",
+        "doc_8730.txt"
+    ]
+}

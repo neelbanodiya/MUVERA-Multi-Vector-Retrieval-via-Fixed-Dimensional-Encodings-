@@ -1,0 +1,10 @@
+{
+    "query": "What types of locations are the oversized signs in Philadelphia located throughout the city?",
+    "response": [
+        "doc_9777.txt",
+        "doc_9776.txt",
+        "doc_21401.txt",
+        "doc_7401.txt",
+        "doc_2708.txt"
+    ]
+}

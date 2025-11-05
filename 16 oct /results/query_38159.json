@@ -1,0 +1,10 @@
+{
+    "query": "Who was the head coach at UNLV before becoming the special teams coordinator for San Diego State?",
+    "response": [
+        "doc_75.txt",
+        "doc_22388.txt",
+        "doc_13002.txt",
+        "doc_24244.txt",
+        "doc_74.txt"
+    ]
+}

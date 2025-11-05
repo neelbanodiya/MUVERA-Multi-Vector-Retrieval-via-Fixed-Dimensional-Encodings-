@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Montgomery become the capital of the State of Alabama?",
+    "response": [
+        "doc_13597.txt",
+        "doc_13600.txt",
+        "doc_13599.txt",
+        "doc_13607.txt",
+        "doc_13602.txt"
+    ]
+}

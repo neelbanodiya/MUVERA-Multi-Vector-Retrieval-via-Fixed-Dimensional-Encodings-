@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Harold at the Battle of Hastings?",
+    "response": [
+        "doc_7321.txt",
+        "doc_22458.txt",
+        "doc_10449.txt",
+        "doc_4742.txt",
+        "doc_850.txt"
+    ]
+}

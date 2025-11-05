@@ -1,0 +1,10 @@
+{
+    "query": "In 2000, what digital novella did Stephen King write?",
+    "response": [
+        "doc_19141.txt",
+        "doc_3925.txt",
+        "doc_3924.txt",
+        "doc_3926.txt",
+        "doc_19142.txt"
+    ]
+}

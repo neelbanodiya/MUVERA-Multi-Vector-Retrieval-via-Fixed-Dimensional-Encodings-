@@ -1,0 +1,10 @@
+{
+    "query": "When did the \"Circuito Urbano de Valencia\" first host a Formula One race, and who won that initial event?",
+    "response": [
+        "doc_5657.txt",
+        "doc_5658.txt",
+        "doc_5660.txt",
+        "doc_12600.txt",
+        "doc_18377.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many songs were featured on the soundtrack albums related to *Ally McBeal*?",
+    "response": [
+        "doc_246.txt",
+        "doc_22484.txt",
+        "doc_18879.txt",
+        "doc_906.txt",
+        "doc_5278.txt"
+    ]
+}

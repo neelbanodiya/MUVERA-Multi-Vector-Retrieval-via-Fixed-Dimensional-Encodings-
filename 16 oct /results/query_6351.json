@@ -1,0 +1,10 @@
+{
+    "query": "What issue was Mattel facing in 2004 regarding toys manufactured in China?",
+    "response": [
+        "doc_3676.txt",
+        "doc_3675.txt",
+        "doc_5455.txt",
+        "doc_3627.txt",
+        "doc_805.txt"
+    ]
+}

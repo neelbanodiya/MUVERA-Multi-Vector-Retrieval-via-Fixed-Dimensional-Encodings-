@@ -1,0 +1,10 @@
+{
+    "query": "What is the area of the fifth-largest island country in the Caribbean?",
+    "response": [
+        "doc_4415.txt",
+        "doc_4411.txt",
+        "doc_4417.txt",
+        "doc_4410.txt",
+        "doc_4414.txt"
+    ]
+}

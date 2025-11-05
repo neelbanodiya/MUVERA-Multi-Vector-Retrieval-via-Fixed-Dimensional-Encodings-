@@ -1,0 +1,10 @@
+{
+    "query": "What type of storm caused significant damage in China during September 2016?",
+    "response": [
+        "doc_18118.txt",
+        "doc_19792.txt",
+        "doc_3914.txt",
+        "doc_18124.txt",
+        "doc_9780.txt"
+    ]
+}

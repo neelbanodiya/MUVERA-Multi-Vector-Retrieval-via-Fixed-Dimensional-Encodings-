@@ -1,0 +1,10 @@
+{
+    "query": "According to the Nebraska Legislature website, what is the phone number for the Lobbyist Registration office?",
+    "response": [
+        "doc_1350.txt",
+        "doc_18051.txt",
+        "doc_11925.txt",
+        "doc_15212.txt",
+        "doc_10898.txt"
+    ]
+}

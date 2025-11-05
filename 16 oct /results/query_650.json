@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate depth of Loch Ness at some points?",
+    "response": [
+        "doc_377.txt",
+        "doc_370.txt",
+        "doc_369.txt",
+        "doc_372.txt",
+        "doc_382.txt"
+    ]
+}

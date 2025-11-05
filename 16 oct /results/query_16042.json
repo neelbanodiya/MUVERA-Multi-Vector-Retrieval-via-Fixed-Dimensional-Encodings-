@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what are the primary crops produced in Nebraska?",
+    "response": [
+        "doc_9288.txt",
+        "doc_9280.txt",
+        "doc_9281.txt",
+        "doc_23980.txt",
+        "doc_9283.txt"
+    ]
+}

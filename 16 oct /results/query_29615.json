@@ -1,0 +1,10 @@
+{
+    "query": "What were some of the early cartoon characters created by Walt Disney before Mickey Mouse?",
+    "response": [
+        "doc_17190.txt",
+        "doc_17195.txt",
+        "doc_17199.txt",
+        "doc_17206.txt",
+        "doc_17193.txt"
+    ]
+}

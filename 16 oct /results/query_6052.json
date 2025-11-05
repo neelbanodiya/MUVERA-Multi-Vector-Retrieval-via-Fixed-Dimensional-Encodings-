@@ -1,0 +1,10 @@
+{
+    "query": "Who appeared in *Cool Stuff: Print Your Own Star Wars Trilogy Blu-Ray Covers with Ralph McQuarrie Artwork* alongside C. Thomas Howell, Matt Dillon, Patrick Swayze, Rob Lowe, Diane Lane, Emilio Estevez, Tom Cruise, Leif Garrett, and Tom Waits?",
+    "response": [
+        "doc_3527.txt",
+        "doc_3521.txt",
+        "doc_3524.txt",
+        "doc_3519.txt",
+        "doc_3522.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what is Krishna sometimes called?",
+    "response": [
+        "doc_5714.txt",
+        "doc_5712.txt",
+        "doc_5717.txt",
+        "doc_5709.txt",
+        "doc_12965.txt"
+    ]
+}

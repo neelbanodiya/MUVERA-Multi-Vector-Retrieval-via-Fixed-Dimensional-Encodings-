@@ -1,0 +1,10 @@
+{
+    "query": "What was George Foreman\u2019s religious affiliation, according to his autobiography?",
+    "response": [
+        "doc_22045.txt",
+        "doc_22046.txt",
+        "doc_22049.txt",
+        "doc_2920.txt",
+        "doc_15356.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many ciphers did Poe estimate readers sent him, according to the passage?",
+    "response": [
+        "doc_14008.txt",
+        "doc_14009.txt",
+        "doc_14007.txt",
+        "doc_14004.txt",
+        "doc_8593.txt"
+    ]
+}

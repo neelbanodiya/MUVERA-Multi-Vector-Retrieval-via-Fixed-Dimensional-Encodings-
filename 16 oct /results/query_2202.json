@@ -1,0 +1,10 @@
+{
+    "query": "Who was the first translator of a complete Book of the Dead manuscript?",
+    "response": [
+        "doc_22245.txt",
+        "doc_1301.txt",
+        "doc_1294.txt",
+        "doc_6305.txt",
+        "doc_22254.txt"
+    ]
+}

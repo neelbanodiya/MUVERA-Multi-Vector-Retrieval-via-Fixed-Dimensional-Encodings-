@@ -1,0 +1,10 @@
+{
+    "query": "How many Golden Globe Awards did Julia Roberts win?",
+    "response": [
+        "doc_20925.txt",
+        "doc_2265.txt",
+        "doc_20928.txt",
+        "doc_4458.txt",
+        "doc_20924.txt"
+    ]
+}

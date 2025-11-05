@@ -1,0 +1,10 @@
+{
+    "query": "Which airport is located in Greene County, Tennessee?",
+    "response": [
+        "doc_4958.txt",
+        "doc_4959.txt",
+        "doc_1554.txt",
+        "doc_22791.txt",
+        "doc_13445.txt"
+    ]
+}

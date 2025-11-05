@@ -1,0 +1,10 @@
+{
+    "query": "What did one woman point out, leading to the comment \"There's Herbert Hoover!\"?",
+    "response": [
+        "doc_16021.txt",
+        "doc_19312.txt",
+        "doc_16863.txt",
+        "doc_11835.txt",
+        "doc_10675.txt"
+    ]
+}

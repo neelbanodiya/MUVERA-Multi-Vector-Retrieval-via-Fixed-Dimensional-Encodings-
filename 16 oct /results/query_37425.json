@@ -1,0 +1,10 @@
+{
+    "query": "What is the origin of the word \u201cchampignon\u201d according to the Merriam-Webster dictionary?",
+    "response": [
+        "doc_21917.txt",
+        "doc_21919.txt",
+        "doc_21918.txt",
+        "doc_21921.txt",
+        "doc_21925.txt"
+    ]
+}

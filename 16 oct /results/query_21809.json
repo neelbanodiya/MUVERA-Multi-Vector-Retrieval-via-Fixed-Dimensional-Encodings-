@@ -1,0 +1,10 @@
+{
+    "query": "What role does Isis play in Egyptian culture, as described in the provided texts?",
+    "response": [
+        "doc_12557.txt",
+        "doc_12555.txt",
+        "doc_12567.txt",
+        "doc_12562.txt",
+        "doc_12552.txt"
+    ]
+}

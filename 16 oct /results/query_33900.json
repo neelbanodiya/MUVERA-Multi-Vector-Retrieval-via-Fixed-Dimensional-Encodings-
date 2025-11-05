@@ -1,0 +1,10 @@
+{
+    "query": "What governmental bodies are involved in establishing procedures in the Kyrgyz Republic?",
+    "response": [
+        "doc_490.txt",
+        "doc_19735.txt",
+        "doc_23675.txt",
+        "doc_5129.txt",
+        "doc_22239.txt"
+    ]
+}

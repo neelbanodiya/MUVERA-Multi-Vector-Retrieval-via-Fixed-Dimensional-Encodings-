@@ -1,0 +1,10 @@
+{
+    "query": "How many immigrants are currently in France, and what actions has the country taken regarding immigration goals?",
+    "response": [
+        "doc_6374.txt",
+        "doc_2740.txt",
+        "doc_3793.txt",
+        "doc_4751.txt",
+        "doc_12153.txt"
+    ]
+}

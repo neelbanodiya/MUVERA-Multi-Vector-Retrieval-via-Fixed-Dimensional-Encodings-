@@ -1,0 +1,10 @@
+{
+    "query": "At what age did Pierce Brosnan move from Ireland to London?",
+    "response": [
+        "doc_23799.txt",
+        "doc_23800.txt",
+        "doc_23804.txt",
+        "doc_23798.txt",
+        "doc_23805.txt"
+    ]
+}

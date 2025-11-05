@@ -1,0 +1,10 @@
+{
+    "query": "Which composer, besides Gian Carlo Menotti, is mentioned as continuing to create operas with new works?",
+    "response": [
+        "doc_10454.txt",
+        "doc_10462.txt",
+        "doc_10455.txt",
+        "doc_10471.txt",
+        "doc_21961.txt"
+    ]
+}

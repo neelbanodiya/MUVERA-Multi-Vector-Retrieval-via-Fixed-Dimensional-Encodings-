@@ -1,0 +1,10 @@
+{
+    "query": "In 1995, what trade complaint did Kodak lodge against a Japanese company?",
+    "response": [
+        "doc_10600.txt",
+        "doc_10602.txt",
+        "doc_10601.txt",
+        "doc_10603.txt",
+        "doc_10606.txt"
+    ]
+}

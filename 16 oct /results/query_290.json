@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, how many trials resulted in Cesare Battisti being declared guilty and sentenced to life imprisonment?",
+    "response": [
+        "doc_163.txt",
+        "doc_164.txt",
+        "doc_20105.txt",
+        "doc_1898.txt",
+        "doc_5386.txt"
+    ]
+}

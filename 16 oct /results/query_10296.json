@@ -1,0 +1,10 @@
+{
+    "query": "What position did Sweet hold in the Sixty-fourth Congress?",
+    "response": [
+        "doc_19682.txt",
+        "doc_19683.txt",
+        "doc_1920.txt",
+        "doc_19779.txt",
+        "doc_4523.txt"
+    ]
+}

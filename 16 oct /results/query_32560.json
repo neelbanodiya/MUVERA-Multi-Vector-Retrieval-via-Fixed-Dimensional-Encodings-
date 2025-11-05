@@ -1,0 +1,10 @@
+{
+    "query": "When did India achieve its independence?",
+    "response": [
+        "doc_18995.txt",
+        "doc_18990.txt",
+        "doc_18996.txt",
+        "doc_18991.txt",
+        "doc_18985.txt"
+    ]
+}

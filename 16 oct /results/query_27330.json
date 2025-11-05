@@ -1,0 +1,10 @@
+{
+    "query": "The passage mentions a Greek physician. What is stated about this physician\u2019s findings regarding the body?",
+    "response": [
+        "doc_15886.txt",
+        "doc_5002.txt",
+        "doc_21870.txt",
+        "doc_3874.txt",
+        "doc_11054.txt"
+    ]
+}

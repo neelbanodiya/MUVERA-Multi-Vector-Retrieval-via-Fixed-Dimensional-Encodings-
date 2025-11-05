@@ -1,0 +1,10 @@
+{
+    "query": "What was Jackson\u2019s point guard position like?",
+    "response": [
+        "doc_20608.txt",
+        "doc_582.txt",
+        "doc_12830.txt",
+        "doc_18334.txt",
+        "doc_7623.txt"
+    ]
+}

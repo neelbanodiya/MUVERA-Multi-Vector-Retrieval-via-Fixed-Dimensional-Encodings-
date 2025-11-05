@@ -1,0 +1,10 @@
+{
+    "query": "What is the estimated cost of the project featuring two NHL-size ice rinks?",
+    "response": [
+        "doc_16875.txt",
+        "doc_17684.txt",
+        "doc_16876.txt",
+        "doc_16877.txt",
+        "doc_17687.txt"
+    ]
+}

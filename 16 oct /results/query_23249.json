@@ -1,0 +1,10 @@
+{
+    "query": "What type of agreement is detailed in the document labeled \u201cEEC/Comoros fisheries agreement\u201d?",
+    "response": [
+        "doc_13108.txt",
+        "doc_13461.txt",
+        "doc_12633.txt",
+        "doc_12159.txt",
+        "doc_22159.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What event led to Willy Brandt resigning as Chancellor?",
+    "response": [
+        "doc_21732.txt",
+        "doc_21730.txt",
+        "doc_21738.txt",
+        "doc_21733.txt",
+        "doc_21735.txt"
+    ]
+}

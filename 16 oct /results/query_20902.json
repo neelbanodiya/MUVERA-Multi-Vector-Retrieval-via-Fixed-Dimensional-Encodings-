@@ -1,0 +1,10 @@
+{
+    "query": "What is Chris Rea known for, and when did he achieve a Top 10 hit in the UK?",
+    "response": [
+        "doc_17118.txt",
+        "doc_17116.txt",
+        "doc_19014.txt",
+        "doc_3736.txt",
+        "doc_13854.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which American football player currently coaches quarterbacks for the Dallas Cowboys?",
+    "response": [
+        "doc_75.txt",
+        "doc_8086.txt",
+        "doc_2011.txt",
+        "doc_12987.txt",
+        "doc_12990.txt"
+    ]
+}

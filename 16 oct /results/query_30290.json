@@ -1,0 +1,10 @@
+{
+    "query": "What amount of funding was transferred from heading 1a to heading 1b due to the Council\u2019s decision on revision of the financial perspective?",
+    "response": [
+        "doc_17547.txt",
+        "doc_132.txt",
+        "doc_9741.txt",
+        "doc_16565.txt",
+        "doc_6764.txt"
+    ]
+}

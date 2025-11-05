@@ -1,0 +1,10 @@
+{
+    "query": "What happened to King Hamlet?",
+    "response": [
+        "doc_7116.txt",
+        "doc_1250.txt",
+        "doc_9127.txt",
+        "doc_6338.txt",
+        "doc_17190.txt"
+    ]
+}

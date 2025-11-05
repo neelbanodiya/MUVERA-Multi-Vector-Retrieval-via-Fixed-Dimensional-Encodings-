@@ -1,0 +1,10 @@
+{
+    "query": "What is the total amount allocated to the Public Health Programme?",
+    "response": [
+        "doc_17586.txt",
+        "doc_22712.txt",
+        "doc_8461.txt",
+        "doc_22217.txt",
+        "doc_8885.txt"
+    ]
+}

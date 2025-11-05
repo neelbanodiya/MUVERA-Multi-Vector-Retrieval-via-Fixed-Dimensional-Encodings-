@@ -1,0 +1,10 @@
+{
+    "query": "When does the Rotary spaghetti dinner take place?",
+    "response": [
+        "doc_10245.txt",
+        "doc_15159.txt",
+        "doc_2824.txt",
+        "doc_19392.txt",
+        "doc_12258.txt"
+    ]
+}

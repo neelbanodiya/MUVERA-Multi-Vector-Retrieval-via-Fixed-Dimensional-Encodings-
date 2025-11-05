@@ -1,0 +1,10 @@
+{
+    "query": "In what year did UNESCO inscribe the wine traditions of a particular region in France?",
+    "response": [
+        "doc_12848.txt",
+        "doc_20387.txt",
+        "doc_8925.txt",
+        "doc_23318.txt",
+        "doc_1005.txt"
+    ]
+}

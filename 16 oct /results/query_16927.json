@@ -1,0 +1,10 @@
+{
+    "query": "What was the first LP released by Moving Sidewalk about?",
+    "response": [
+        "doc_8696.txt",
+        "doc_2674.txt",
+        "doc_9807.txt",
+        "doc_8467.txt",
+        "doc_20314.txt"
+    ]
+}

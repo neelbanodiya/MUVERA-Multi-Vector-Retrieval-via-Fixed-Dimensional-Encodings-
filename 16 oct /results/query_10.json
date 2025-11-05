@@ -1,0 +1,10 @@
+{
+    "query": "In what year was 111 Huntington Avenue completed?",
+    "response": [
+        "doc_3382.txt",
+        "doc_19971.txt",
+        "doc_19969.txt",
+        "doc_19972.txt",
+        "doc_3381.txt"
+    ]
+}

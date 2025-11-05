@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of another book written by Captain John Smith, mentioned in the passages?",
+    "response": [
+        "doc_14858.txt",
+        "doc_14857.txt",
+        "doc_14861.txt",
+        "doc_14859.txt",
+        "doc_4655.txt"
+    ]
+}

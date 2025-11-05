@@ -1,0 +1,10 @@
+{
+    "query": "When did the single by deadmau5 debut on BBC Radio 1?",
+    "response": [
+        "doc_15142.txt",
+        "doc_8467.txt",
+        "doc_8469.txt",
+        "doc_14727.txt",
+        "doc_12258.txt"
+    ]
+}

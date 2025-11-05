@@ -1,0 +1,10 @@
+{
+    "query": "Who were the astronauts Jim Lovell and Fred Haise involved with, according to the provided text?",
+    "response": [
+        "doc_1566.txt",
+        "doc_1567.txt",
+        "doc_9401.txt",
+        "doc_14577.txt",
+        "doc_22894.txt"
+    ]
+}

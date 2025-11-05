@@ -1,0 +1,10 @@
+{
+    "query": "What is the nickname of a district in Denver, Colorado?",
+    "response": [
+        "doc_21465.txt",
+        "doc_18913.txt",
+        "doc_21463.txt",
+        "doc_15880.txt",
+        "doc_3448.txt"
+    ]
+}

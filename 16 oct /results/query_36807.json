@@ -1,0 +1,10 @@
+{
+    "query": "What aesthetic did Hans Holbein introduce to English court painting?",
+    "response": [
+        "doc_21505.txt",
+        "doc_21516.txt",
+        "doc_21504.txt",
+        "doc_21503.txt",
+        "doc_21501.txt"
+    ]
+}

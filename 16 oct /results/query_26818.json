@@ -1,0 +1,10 @@
+{
+    "query": "In what conference did the 2011 Nebraska Cornhuskers play, and what was their finishing position in that conference?",
+    "response": [
+        "doc_15563.txt",
+        "doc_15564.txt",
+        "doc_15565.txt",
+        "doc_2010.txt",
+        "doc_24237.txt"
+    ]
+}

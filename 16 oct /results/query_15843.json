@@ -1,0 +1,10 @@
+{
+    "query": "Which countries did the UNHRC reject resolutions on in 2002 and 2003?",
+    "response": [
+        "doc_9172.txt",
+        "doc_9171.txt",
+        "doc_15139.txt",
+        "doc_3596.txt",
+        "doc_24002.txt"
+    ]
+}

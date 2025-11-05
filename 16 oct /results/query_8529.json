@@ -1,0 +1,10 @@
+{
+    "query": "Who directed \u201cI Am Michael\u201d?",
+    "response": [
+        "doc_21901.txt",
+        "doc_4940.txt",
+        "doc_582.txt",
+        "doc_4916.txt",
+        "doc_3202.txt"
+    ]
+}

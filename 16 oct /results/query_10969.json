@@ -1,0 +1,10 @@
+{
+    "query": "What happens on the \"Dog Day of Summer\"?",
+    "response": [
+        "doc_7381.txt",
+        "doc_99.txt",
+        "doc_103.txt",
+        "doc_94.txt",
+        "doc_98.txt"
+    ]
+}

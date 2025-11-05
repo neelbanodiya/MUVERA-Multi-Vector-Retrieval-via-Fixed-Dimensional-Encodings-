@@ -1,0 +1,10 @@
+{
+    "query": "In what country did Isaac Bashevis Singer spend most of his life?",
+    "response": [
+        "doc_10387.txt",
+        "doc_10392.txt",
+        "doc_10386.txt",
+        "doc_10388.txt",
+        "doc_10400.txt"
+    ]
+}

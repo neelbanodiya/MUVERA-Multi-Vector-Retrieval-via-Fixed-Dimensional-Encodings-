@@ -1,0 +1,10 @@
+{
+    "query": "According to the Information Clearing House, what evidence does Russia claim to have regarding the use of sarin?",
+    "response": [
+        "doc_11852.txt",
+        "doc_18364.txt",
+        "doc_18359.txt",
+        "doc_18365.txt",
+        "doc_16789.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What have spokesmen for the Polish government stated regarding fishermen violating the fishing ban?",
+    "response": [
+        "doc_1441.txt",
+        "doc_10189.txt",
+        "doc_4159.txt",
+        "doc_2704.txt",
+        "doc_3210.txt"
+    ]
+}

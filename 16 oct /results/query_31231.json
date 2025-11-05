@@ -1,0 +1,10 @@
+{
+    "query": "What did Daedalus construct for his son, Icarus?",
+    "response": [
+        "doc_18192.txt",
+        "doc_18206.txt",
+        "doc_18210.txt",
+        "doc_18204.txt",
+        "doc_18207.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the origin of the Middle English word \u201cdrunken\u201d?",
+    "response": [
+        "doc_11713.txt",
+        "doc_11712.txt",
+        "doc_11727.txt",
+        "doc_11720.txt",
+        "doc_4404.txt"
+    ]
+}

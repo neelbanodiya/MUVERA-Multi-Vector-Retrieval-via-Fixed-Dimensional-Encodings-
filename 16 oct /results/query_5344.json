@@ -1,0 +1,10 @@
+{
+    "query": "When will people take to the streets in London?",
+    "response": [
+        "doc_14300.txt",
+        "doc_21994.txt",
+        "doc_9733.txt",
+        "doc_15722.txt",
+        "doc_103.txt"
+    ]
+}

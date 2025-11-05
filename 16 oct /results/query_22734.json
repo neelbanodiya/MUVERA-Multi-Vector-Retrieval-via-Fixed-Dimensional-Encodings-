@@ -1,0 +1,10 @@
+{
+    "query": "What cultural area is Harlem known for in New York City?",
+    "response": [
+        "doc_13050.txt",
+        "doc_13051.txt",
+        "doc_13067.txt",
+        "doc_13066.txt",
+        "doc_13055.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What city did Yo-Yo Ma spend his childhood in?",
+    "response": [
+        "doc_4449.txt",
+        "doc_4447.txt",
+        "doc_4448.txt",
+        "doc_16653.txt",
+        "doc_10933.txt"
+    ]
+}

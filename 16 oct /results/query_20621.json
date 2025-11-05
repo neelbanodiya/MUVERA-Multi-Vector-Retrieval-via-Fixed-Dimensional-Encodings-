@@ -1,0 +1,10 @@
+{
+    "query": "What is the origin of the surname \u201cCohen\u201d?",
+    "response": [
+        "doc_11891.txt",
+        "doc_11890.txt",
+        "doc_4273.txt",
+        "doc_8297.txt",
+        "doc_9341.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is a potential concern regarding Iran\u2019s intentions related to nuclear weapons?",
+    "response": [
+        "doc_2063.txt",
+        "doc_2065.txt",
+        "doc_2064.txt",
+        "doc_22149.txt",
+        "doc_19899.txt"
+    ]
+}

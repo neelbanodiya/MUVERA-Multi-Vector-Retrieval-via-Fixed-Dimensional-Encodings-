@@ -1,0 +1,10 @@
+{
+    "query": "What famous character did John Barrymore portray in a play?",
+    "response": [
+        "doc_18954.txt",
+        "doc_16925.txt",
+        "doc_23194.txt",
+        "doc_19883.txt",
+        "doc_23197.txt"
+    ]
+}

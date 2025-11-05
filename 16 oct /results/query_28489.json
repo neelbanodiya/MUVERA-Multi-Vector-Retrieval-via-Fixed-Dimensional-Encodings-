@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Paul Wellstone win the Democratic primary in Minnesota?",
+    "response": [
+        "doc_16615.txt",
+        "doc_16626.txt",
+        "doc_16624.txt",
+        "doc_16625.txt",
+        "doc_16610.txt"
+    ]
+}

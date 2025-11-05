@@ -1,0 +1,10 @@
+{
+    "query": "How did Stephen die?",
+    "response": [
+        "doc_1395.txt",
+        "doc_1066.txt",
+        "doc_22257.txt",
+        "doc_9675.txt",
+        "doc_7325.txt"
+    ]
+}

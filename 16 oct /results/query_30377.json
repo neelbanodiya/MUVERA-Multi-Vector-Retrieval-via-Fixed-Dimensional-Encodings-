@@ -1,0 +1,10 @@
+{
+    "query": "Who officially opened the Assembly?",
+    "response": [
+        "doc_17675.txt",
+        "doc_19378.txt",
+        "doc_6410.txt",
+        "doc_2057.txt",
+        "doc_6404.txt"
+    ]
+}

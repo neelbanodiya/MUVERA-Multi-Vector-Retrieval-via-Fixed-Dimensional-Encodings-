@@ -1,0 +1,10 @@
+{
+    "query": "Which television series did David Milch go on to create after working on \u201cHill Street Blues\u201d?",
+    "response": [
+        "doc_5599.txt",
+        "doc_5593.txt",
+        "doc_5597.txt",
+        "doc_5601.txt",
+        "doc_5596.txt"
+    ]
+}

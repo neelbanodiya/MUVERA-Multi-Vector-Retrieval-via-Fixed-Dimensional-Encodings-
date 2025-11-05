@@ -1,0 +1,10 @@
+{
+    "query": "What other works of literature does the passage mention that share similar themes with *Robinson Crusoe*?",
+    "response": [
+        "doc_17763.txt",
+        "doc_18451.txt",
+        "doc_17759.txt",
+        "doc_18453.txt",
+        "doc_18454.txt"
+    ]
+}

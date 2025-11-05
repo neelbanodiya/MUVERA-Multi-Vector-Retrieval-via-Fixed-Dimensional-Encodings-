@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the Swede mentioned in the text?",
+    "response": [
+        "doc_6086.txt",
+        "doc_9046.txt",
+        "doc_23040.txt",
+        "doc_5544.txt",
+        "doc_3447.txt"
+    ]
+}

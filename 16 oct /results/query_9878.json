@@ -1,0 +1,10 @@
+{
+    "query": "According to the Diputaci\u00f3n de Gipuzkoa\u2019s study, what percentage of drivers will be affected by the flat-rate toll on the A-8 motorway?",
+    "response": [
+        "doc_5725.txt",
+        "doc_8746.txt",
+        "doc_9671.txt",
+        "doc_8747.txt",
+        "doc_7962.txt"
+    ]
+}

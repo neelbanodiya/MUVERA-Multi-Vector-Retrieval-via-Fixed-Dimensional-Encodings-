@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was Mr. Hamer\u2019s initial belief about his own name?",
+    "response": [
+        "doc_16631.txt",
+        "doc_15771.txt",
+        "doc_1321.txt",
+        "doc_13685.txt",
+        "doc_15680.txt"
+    ]
+}

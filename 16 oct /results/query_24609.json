@@ -1,0 +1,10 @@
+{
+    "query": "What does the Commission need to ensure regarding the situation?",
+    "response": [
+        "doc_13361.txt",
+        "doc_11887.txt",
+        "doc_17771.txt",
+        "doc_17478.txt",
+        "doc_11363.txt"
+    ]
+}

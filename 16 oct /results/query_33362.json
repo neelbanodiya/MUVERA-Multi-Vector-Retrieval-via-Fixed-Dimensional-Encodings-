@@ -1,0 +1,10 @@
+{
+    "query": "Which English counties are mentioned as being most productive in poultry, according to the passage?",
+    "response": [
+        "doc_19437.txt",
+        "doc_9277.txt",
+        "doc_11029.txt",
+        "doc_2894.txt",
+        "doc_97.txt"
+    ]
+}

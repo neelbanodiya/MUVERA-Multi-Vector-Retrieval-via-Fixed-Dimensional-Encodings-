@@ -1,0 +1,10 @@
+{
+    "query": "What hotel was developed by Col. John Jacob Astor?",
+    "response": [
+        "doc_566.txt",
+        "doc_16830.txt",
+        "doc_570.txt",
+        "doc_4250.txt",
+        "doc_3382.txt"
+    ]
+}

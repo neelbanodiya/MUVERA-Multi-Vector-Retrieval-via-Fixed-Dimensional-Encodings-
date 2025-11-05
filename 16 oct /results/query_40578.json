@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary concept behind the creation of the theme park featured in \u201cJurassic Park\u201d?",
+    "response": [
+        "doc_8692.txt",
+        "doc_8615.txt",
+        "doc_5086.txt",
+        "doc_5091.txt",
+        "doc_5084.txt"
+    ]
+}

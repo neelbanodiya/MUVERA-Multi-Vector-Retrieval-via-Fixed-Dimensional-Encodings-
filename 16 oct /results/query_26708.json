@@ -1,0 +1,10 @@
+{
+    "query": "How many gold medals did Canada win in the 2010 and 2014 Winter Olympics?",
+    "response": [
+        "doc_15506.txt",
+        "doc_15517.txt",
+        "doc_15508.txt",
+        "doc_15504.txt",
+        "doc_15509.txt"
+    ]
+}

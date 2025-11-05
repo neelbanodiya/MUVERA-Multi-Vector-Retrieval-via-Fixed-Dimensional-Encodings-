@@ -1,0 +1,10 @@
+{
+    "query": "What championship did Bundy win at WrestleMania 2?",
+    "response": [
+        "doc_20957.txt",
+        "doc_20955.txt",
+        "doc_7232.txt",
+        "doc_7220.txt",
+        "doc_13765.txt"
+    ]
+}

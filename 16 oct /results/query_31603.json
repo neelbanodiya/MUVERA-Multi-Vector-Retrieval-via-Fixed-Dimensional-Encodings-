@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what characteristic led to Christian being \u201chostile to God\u201d?",
+    "response": [
+        "doc_15149.txt",
+        "doc_9445.txt",
+        "doc_2910.txt",
+        "doc_8100.txt",
+        "doc_7532.txt"
+    ]
+}

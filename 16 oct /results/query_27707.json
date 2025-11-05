@@ -1,0 +1,10 @@
+{
+    "query": "How many Fuel Efficient Vehicle (FEV) parking spaces are offered at Marlins Park?",
+    "response": [
+        "doc_16123.txt",
+        "doc_2451.txt",
+        "doc_2501.txt",
+        "doc_7367.txt",
+        "doc_8247.txt"
+    ]
+}

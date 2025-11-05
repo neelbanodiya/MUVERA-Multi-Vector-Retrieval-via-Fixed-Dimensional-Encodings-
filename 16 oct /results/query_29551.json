@@ -1,0 +1,10 @@
+{
+    "query": "What is allegedly the reason behind Granny\u2019s full name?",
+    "response": [
+        "doc_23598.txt",
+        "doc_17172.txt",
+        "doc_12944.txt",
+        "doc_12953.txt",
+        "doc_12950.txt"
+    ]
+}

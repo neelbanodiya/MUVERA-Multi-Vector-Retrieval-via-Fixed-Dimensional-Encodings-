@@ -1,0 +1,10 @@
+{
+    "query": "What is the mission related to learning more about Jupiter?",
+    "response": [
+        "doc_1287.txt",
+        "doc_10253.txt",
+        "doc_12308.txt",
+        "doc_2248.txt",
+        "doc_21124.txt"
+    ]
+}

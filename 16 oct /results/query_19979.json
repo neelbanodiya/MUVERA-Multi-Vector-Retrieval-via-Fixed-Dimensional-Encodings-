@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, in what year did Rudolf Diesel take out his first patents for an internal-combustion engine?",
+    "response": [
+        "doc_11527.txt",
+        "doc_11526.txt",
+        "doc_11531.txt",
+        "doc_11543.txt",
+        "doc_11534.txt"
+    ]
+}

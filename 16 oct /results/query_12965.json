@@ -1,0 +1,10 @@
+{
+    "query": "Who appeared on the final show featuring Gogi Grant?",
+    "response": [
+        "doc_7556.txt",
+        "doc_19583.txt",
+        "doc_7822.txt",
+        "doc_15116.txt",
+        "doc_11219.txt"
+    ]
+}

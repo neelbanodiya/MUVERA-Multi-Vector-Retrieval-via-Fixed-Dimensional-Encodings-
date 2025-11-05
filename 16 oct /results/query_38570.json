@@ -1,0 +1,10 @@
+{
+    "query": "What actions does the European Parliament instruct its President to take regarding its position?",
+    "response": [
+        "doc_12469.txt",
+        "doc_16392.txt",
+        "doc_5471.txt",
+        "doc_8446.txt",
+        "doc_9102.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who was the first person to win gold in bobsleigh at the Winter Games?",
+    "response": [
+        "doc_15506.txt",
+        "doc_15522.txt",
+        "doc_15521.txt",
+        "doc_15509.txt",
+        "doc_10682.txt"
+    ]
+}

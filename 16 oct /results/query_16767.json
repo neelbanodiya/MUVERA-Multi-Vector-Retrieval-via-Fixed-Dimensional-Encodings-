@@ -1,0 +1,10 @@
+{
+    "query": "What year was \u201cThe Woman in Red\u201d released as a film?",
+    "response": [
+        "doc_1230.txt",
+        "doc_9706.txt",
+        "doc_9711.txt",
+        "doc_9705.txt",
+        "doc_14780.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which organizations are listed as being associated with government actors in Washington D.C.?",
+    "response": [
+        "doc_2656.txt",
+        "doc_2655.txt",
+        "doc_5387.txt",
+        "doc_5281.txt",
+        "doc_13133.txt"
+    ]
+}

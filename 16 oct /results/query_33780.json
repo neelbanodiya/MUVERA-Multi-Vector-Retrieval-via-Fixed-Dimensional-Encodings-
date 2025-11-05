@@ -1,0 +1,10 @@
+{
+    "query": "Which band comprised Jimi Hendrix, Noel Redding, and Mitch Mitchell, and when was this group active?",
+    "response": [
+        "doc_19668.txt",
+        "doc_19669.txt",
+        "doc_12339.txt",
+        "doc_1962.txt",
+        "doc_20895.txt"
+    ]
+}

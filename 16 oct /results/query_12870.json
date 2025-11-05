@@ -1,0 +1,10 @@
+{
+    "query": "During which time period did Jerry Lee Lewis and Ray Charles become known to him?",
+    "response": [
+        "doc_7505.txt",
+        "doc_6857.txt",
+        "doc_21251.txt",
+        "doc_4656.txt",
+        "doc_40.txt"
+    ]
+}

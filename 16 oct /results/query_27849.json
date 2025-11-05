@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many Koreans were killed, injured, or missing as a result of the Korean War?",
+    "response": [
+        "doc_16203.txt",
+        "doc_9672.txt",
+        "doc_18155.txt",
+        "doc_5821.txt",
+        "doc_6484.txt"
+    ]
+}

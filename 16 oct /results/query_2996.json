@@ -1,0 +1,10 @@
+{
+    "query": "What actions did the EU Delegation in Abuja take in March 2010 to address the violence in Nigeria?",
+    "response": [
+        "doc_1824.txt",
+        "doc_6750.txt",
+        "doc_20155.txt",
+        "doc_20154.txt",
+        "doc_4156.txt"
+    ]
+}

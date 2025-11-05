@@ -1,0 +1,10 @@
+{
+    "query": "What song did JW ask PW to play?",
+    "response": [
+        "doc_19999.txt",
+        "doc_12409.txt",
+        "doc_18885.txt",
+        "doc_16278.txt",
+        "doc_17869.txt"
+    ]
+}

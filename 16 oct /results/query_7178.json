@@ -1,0 +1,10 @@
+{
+    "query": "When was \u201cThe Masque of the Red Death\u201d written?",
+    "response": [
+        "doc_4147.txt",
+        "doc_4656.txt",
+        "doc_23543.txt",
+        "doc_5518.txt",
+        "doc_15411.txt"
+    ]
+}

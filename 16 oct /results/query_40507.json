@@ -1,0 +1,10 @@
+{
+    "query": "What is the location of Saint Catherine\u2019s Monastery in relation to Mount Sinai?",
+    "response": [
+        "doc_23678.txt",
+        "doc_23679.txt",
+        "doc_23685.txt",
+        "doc_23690.txt",
+        "doc_23686.txt"
+    ]
+}

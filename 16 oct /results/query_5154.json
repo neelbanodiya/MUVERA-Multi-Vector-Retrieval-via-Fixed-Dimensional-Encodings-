@@ -1,0 +1,10 @@
+{
+    "query": "What powers are competent authorities granted when investigating potential intra-Community infringements?",
+    "response": [
+        "doc_3005.txt",
+        "doc_3013.txt",
+        "doc_3011.txt",
+        "doc_3014.txt",
+        "doc_3009.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the provisional death toll reported in Thailand following the tsunami?",
+    "response": [
+        "doc_22727.txt",
+        "doc_20207.txt",
+        "doc_7565.txt",
+        "doc_19792.txt",
+        "doc_23673.txt"
+    ]
+}

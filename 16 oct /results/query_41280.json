@@ -1,0 +1,10 @@
+{
+    "query": "Which countries are identified as transit countries within the framework of the ENP and Black Sea Synergy?",
+    "response": [
+        "doc_3267.txt",
+        "doc_2740.txt",
+        "doc_3280.txt",
+        "doc_4336.txt",
+        "doc_12153.txt"
+    ]
+}

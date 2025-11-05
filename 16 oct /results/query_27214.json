@@ -1,0 +1,10 @@
+{
+    "query": "Which stadium was located in Baltimore, Maryland, and when was it initially quite large?",
+    "response": [
+        "doc_11256.txt",
+        "doc_12260.txt",
+        "doc_15807.txt",
+        "doc_15814.txt",
+        "doc_15809.txt"
+    ]
+}

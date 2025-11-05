@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was Jenny Lind\u2019s profession before her American tour?",
+    "response": [
+        "doc_22082.txt",
+        "doc_22083.txt",
+        "doc_20960.txt",
+        "doc_20418.txt",
+        "doc_19272.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary goal of the funding sought by the municipality of Fano?",
+    "response": [
+        "doc_21442.txt",
+        "doc_3660.txt",
+        "doc_8187.txt",
+        "doc_9897.txt",
+        "doc_240.txt"
+    ]
+}

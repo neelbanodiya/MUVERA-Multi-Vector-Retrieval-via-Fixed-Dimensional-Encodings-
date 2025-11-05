@@ -1,0 +1,10 @@
+{
+    "query": "What event is regularly performed at Ivy Green, Helen Keller\u2019s birthplace?",
+    "response": [
+        "doc_8210.txt",
+        "doc_8212.txt",
+        "doc_8213.txt",
+        "doc_8214.txt",
+        "doc_8215.txt"
+    ]
+}

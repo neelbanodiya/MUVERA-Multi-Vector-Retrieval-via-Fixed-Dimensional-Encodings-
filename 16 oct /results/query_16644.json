@@ -1,0 +1,10 @@
+{
+    "query": "What do the candles on the Advent wreath represent?",
+    "response": [
+        "doc_9648.txt",
+        "doc_9654.txt",
+        "doc_9660.txt",
+        "doc_9651.txt",
+        "doc_9662.txt"
+    ]
+}

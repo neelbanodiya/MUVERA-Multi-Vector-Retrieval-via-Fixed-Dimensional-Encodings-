@@ -1,0 +1,10 @@
+{
+    "query": "What series did the film \u201cSeal Island\u201d belong to, and when did it win an Academy Award?",
+    "response": [
+        "doc_7677.txt",
+        "doc_11629.txt",
+        "doc_8912.txt",
+        "doc_9612.txt",
+        "doc_20259.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What film inspired the Hollywood remake of \u201cThe Woman in Red\u201d?",
+    "response": [
+        "doc_9705.txt",
+        "doc_9706.txt",
+        "doc_21488.txt",
+        "doc_21901.txt",
+        "doc_90.txt"
+    ]
+}

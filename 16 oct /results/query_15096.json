@@ -1,0 +1,10 @@
+{
+    "query": "Besides hot pots, what other popular trend in Chinese cuisine involves spicy food?",
+    "response": [
+        "doc_16766.txt",
+        "doc_8755.txt",
+        "doc_8749.txt",
+        "doc_8766.txt",
+        "doc_8751.txt"
+    ]
+}

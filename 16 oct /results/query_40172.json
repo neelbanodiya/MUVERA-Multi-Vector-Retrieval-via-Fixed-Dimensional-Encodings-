@@ -1,0 +1,10 @@
+{
+    "query": "What significant battle, considered the \u201cgreatest clash of arms before WWI,\u201d took place in Leipzig in 1813?",
+    "response": [
+        "doc_23516.txt",
+        "doc_23523.txt",
+        "doc_23521.txt",
+        "doc_23517.txt",
+        "doc_1483.txt"
+    ]
+}

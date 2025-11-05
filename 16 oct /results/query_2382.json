@@ -1,0 +1,10 @@
+{
+    "query": "What restriction did the British government impose on salt production and sale?",
+    "response": [
+        "doc_10405.txt",
+        "doc_9361.txt",
+        "doc_12703.txt",
+        "doc_2030.txt",
+        "doc_3091.txt"
+    ]
+}

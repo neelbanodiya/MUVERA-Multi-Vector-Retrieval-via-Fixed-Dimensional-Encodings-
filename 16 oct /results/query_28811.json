@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the first Republican National Convention held, and where did it take place?",
+    "response": [
+        "doc_16809.txt",
+        "doc_16805.txt",
+        "doc_16808.txt",
+        "doc_16807.txt",
+        "doc_12260.txt"
+    ]
+}

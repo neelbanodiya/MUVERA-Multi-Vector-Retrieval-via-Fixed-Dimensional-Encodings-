@@ -1,0 +1,10 @@
+{
+    "query": "In what region of the United States is \u201cThe Ox-Bow Incident\u201d primarily set?",
+    "response": [
+        "doc_6835.txt",
+        "doc_805.txt",
+        "doc_6836.txt",
+        "doc_19046.txt",
+        "doc_22676.txt"
+    ]
+}

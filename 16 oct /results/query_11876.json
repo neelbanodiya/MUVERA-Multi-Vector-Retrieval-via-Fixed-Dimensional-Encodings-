@@ -1,0 +1,10 @@
+{
+    "query": "According to Wikipedia, what is the official name of the state within the Republic of China?",
+    "response": [
+        "doc_6908.txt",
+        "doc_3932.txt",
+        "doc_1053.txt",
+        "doc_10976.txt",
+        "doc_65.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to one source, what was Pudge Rodriguez\u2019s batting average in 1935?",
+    "response": [
+        "doc_359.txt",
+        "doc_361.txt",
+        "doc_23050.txt",
+        "doc_17801.txt",
+        "doc_21211.txt"
+    ]
+}

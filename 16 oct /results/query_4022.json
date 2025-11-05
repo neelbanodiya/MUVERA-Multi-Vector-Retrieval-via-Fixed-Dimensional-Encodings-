@@ -1,0 +1,10 @@
+{
+    "query": "Who was described as the \u201cmost feared big-league pitcher\u201d in the 2016 series against the Cubs?",
+    "response": [
+        "doc_2359.txt",
+        "doc_2362.txt",
+        "doc_2369.txt",
+        "doc_2350.txt",
+        "doc_2353.txt"
+    ]
+}

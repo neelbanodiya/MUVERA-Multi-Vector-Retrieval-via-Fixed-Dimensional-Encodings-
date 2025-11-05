@@ -1,0 +1,10 @@
+{
+    "query": "What specific historical event in Rome involved the offering of \u201chead money\u201d and caused a division among Roman citizens?",
+    "response": [
+        "doc_5363.txt",
+        "doc_5424.txt",
+        "doc_5417.txt",
+        "doc_10500.txt",
+        "doc_3875.txt"
+    ]
+}

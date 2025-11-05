@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what dietary restrictions are some Jewish people observed?",
+    "response": [
+        "doc_15454.txt",
+        "doc_2747.txt",
+        "doc_21763.txt",
+        "doc_7919.txt",
+        "doc_7446.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of material primarily comprises the outer ring surrounding the galaxy in a Hubble image?",
+    "response": [
+        "doc_2271.txt",
+        "doc_12277.txt",
+        "doc_12278.txt",
+        "doc_267.txt",
+        "doc_252.txt"
+    ]
+}

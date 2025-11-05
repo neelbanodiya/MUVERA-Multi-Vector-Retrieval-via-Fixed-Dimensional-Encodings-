@@ -1,0 +1,10 @@
+{
+    "query": "How much funding did the EU allocate to Ethiopia between 2008 and 2013 for good governance initiatives?",
+    "response": [
+        "doc_13128.txt",
+        "doc_4941.txt",
+        "doc_4065.txt",
+        "doc_4030.txt",
+        "doc_1363.txt"
+    ]
+}

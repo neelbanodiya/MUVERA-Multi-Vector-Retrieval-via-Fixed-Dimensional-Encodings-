@@ -1,0 +1,10 @@
+{
+    "query": "What was the New Basin Canal used for?",
+    "response": [
+        "doc_15975.txt",
+        "doc_17542.txt",
+        "doc_14718.txt",
+        "doc_4710.txt",
+        "doc_20748.txt"
+    ]
+}

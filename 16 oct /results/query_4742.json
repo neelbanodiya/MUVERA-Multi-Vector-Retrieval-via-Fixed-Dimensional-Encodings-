@@ -1,0 +1,10 @@
+{
+    "query": "What year was the U.S. House of Representatives bill H.R. 5 passed?",
+    "response": [
+        "doc_2754.txt",
+        "doc_8783.txt",
+        "doc_1924.txt",
+        "doc_5970.txt",
+        "doc_2476.txt"
+    ]
+}

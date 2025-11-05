@@ -1,0 +1,10 @@
+{
+    "query": "What was Trump\u2019s role in relation to Clinton?",
+    "response": [
+        "doc_2420.txt",
+        "doc_5503.txt",
+        "doc_23625.txt",
+        "doc_9151.txt",
+        "doc_8670.txt"
+    ]
+}

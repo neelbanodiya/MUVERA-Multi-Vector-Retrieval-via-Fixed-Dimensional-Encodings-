@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which groups were involved in defeating the Avars?",
+    "response": [
+        "doc_7201.txt",
+        "doc_7219.txt",
+        "doc_7204.txt",
+        "doc_7208.txt",
+        "doc_7212.txt"
+    ]
+}

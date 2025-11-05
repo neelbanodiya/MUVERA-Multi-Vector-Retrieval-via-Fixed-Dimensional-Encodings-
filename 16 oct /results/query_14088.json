@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what literary work inspired the opera \u201cThe Fall of the House of Usher\u201d?",
+    "response": [
+        "doc_8162.txt",
+        "doc_8163.txt",
+        "doc_8171.txt",
+        "doc_8178.txt",
+        "doc_8166.txt"
+    ]
+}

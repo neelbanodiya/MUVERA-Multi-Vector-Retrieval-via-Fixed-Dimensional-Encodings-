@@ -1,0 +1,10 @@
+{
+    "query": "What is the purpose of the \"Transparency register\"?",
+    "response": [
+        "doc_10655.txt",
+        "doc_18052.txt",
+        "doc_21807.txt",
+        "doc_21806.txt",
+        "doc_13346.txt"
+    ]
+}

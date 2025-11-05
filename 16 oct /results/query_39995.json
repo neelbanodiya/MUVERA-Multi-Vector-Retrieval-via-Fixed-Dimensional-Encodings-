@@ -1,0 +1,10 @@
+{
+    "query": "What is the land area of Brazil?",
+    "response": [
+        "doc_23421.txt",
+        "doc_23425.txt",
+        "doc_23426.txt",
+        "doc_23422.txt",
+        "doc_20161.txt"
+    ]
+}

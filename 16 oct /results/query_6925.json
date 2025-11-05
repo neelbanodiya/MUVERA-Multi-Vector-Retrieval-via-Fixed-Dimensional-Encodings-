@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Mercedes-Maybach line revived?",
+    "response": [
+        "doc_22764.txt",
+        "doc_8337.txt",
+        "doc_17150.txt",
+        "doc_17157.txt",
+        "doc_23481.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What animal, a royal symbol of Scotland, holds the royal flag of France in the Canadian coin?",
+    "response": [
+        "doc_7889.txt",
+        "doc_7893.txt",
+        "doc_7891.txt",
+        "doc_7892.txt",
+        "doc_7890.txt"
+    ]
+}

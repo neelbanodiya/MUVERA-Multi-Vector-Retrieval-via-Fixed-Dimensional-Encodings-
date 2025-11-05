@@ -1,0 +1,10 @@
+{
+    "query": "When did the dam in Orland village become operational?",
+    "response": [
+        "doc_22289.txt",
+        "doc_20874.txt",
+        "doc_5841.txt",
+        "doc_6530.txt",
+        "doc_19377.txt"
+    ]
+}

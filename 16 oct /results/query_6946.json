@@ -1,0 +1,10 @@
+{
+    "query": "What city is the Royal Danish Ballet associated with, having been founded in 1748 as part of the royal theatre?",
+    "response": [
+        "doc_3971.txt",
+        "doc_3977.txt",
+        "doc_3973.txt",
+        "doc_3974.txt",
+        "doc_3972.txt"
+    ]
+}

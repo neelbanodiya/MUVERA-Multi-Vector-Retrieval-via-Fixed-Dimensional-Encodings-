@@ -1,0 +1,10 @@
+{
+    "query": "What was Ulysses S. Grant\u2019s role during the time of Lincoln\u2019s assassination?",
+    "response": [
+        "doc_7925.txt",
+        "doc_7936.txt",
+        "doc_7926.txt",
+        "doc_7923.txt",
+        "doc_7929.txt"
+    ]
+}

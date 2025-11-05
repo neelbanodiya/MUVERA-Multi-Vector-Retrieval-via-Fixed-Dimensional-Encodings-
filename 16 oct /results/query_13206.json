@@ -1,0 +1,10 @@
+{
+    "query": "What musical is based on the novel *Legally Blonde*?",
+    "response": [
+        "doc_7739.txt",
+        "doc_21901.txt",
+        "doc_248.txt",
+        "doc_21090.txt",
+        "doc_20310.txt"
+    ]
+}

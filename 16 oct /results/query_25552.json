@@ -1,0 +1,10 @@
+{
+    "query": "Which teams played in the 2009 Texas Bowl, and what was the final score?",
+    "response": [
+        "doc_14817.txt",
+        "doc_14818.txt",
+        "doc_14816.txt",
+        "doc_14819.txt",
+        "doc_6195.txt"
+    ]
+}

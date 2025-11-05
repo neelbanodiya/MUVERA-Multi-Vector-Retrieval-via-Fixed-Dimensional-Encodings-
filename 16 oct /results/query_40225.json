@@ -1,0 +1,10 @@
+{
+    "query": "Which mountain range is located between Spain and France?",
+    "response": [
+        "doc_23526.txt",
+        "doc_23531.txt",
+        "doc_23525.txt",
+        "doc_23530.txt",
+        "doc_23539.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which railway company opened Frodingham railway station in 1866?",
+    "response": [
+        "doc_16784.txt",
+        "doc_22764.txt",
+        "doc_578.txt",
+        "doc_16785.txt",
+        "doc_28.txt"
+    ]
+}

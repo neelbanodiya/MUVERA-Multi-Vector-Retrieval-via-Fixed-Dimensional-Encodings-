@@ -1,0 +1,10 @@
+{
+    "query": "Which author wrote the novel \u201cDeath to the French\u201d?",
+    "response": [
+        "doc_4656.txt",
+        "doc_16728.txt",
+        "doc_20265.txt",
+        "doc_19911.txt",
+        "doc_22248.txt"
+    ]
+}

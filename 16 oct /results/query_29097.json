@@ -1,0 +1,10 @@
+{
+    "query": "What nicknames did Merrill\u2019s friends call the person referenced in the article?",
+    "response": [
+        "doc_16954.txt",
+        "doc_20406.txt",
+        "doc_1723.txt",
+        "doc_949.txt",
+        "doc_2965.txt"
+    ]
+}

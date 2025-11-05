@@ -1,0 +1,10 @@
+{
+    "query": "Which goddess is described as the \u201cdivine mother\u201d of ancient Egypt, according to one of the sources?",
+    "response": [
+        "doc_12560.txt",
+        "doc_12557.txt",
+        "doc_12552.txt",
+        "doc_12555.txt",
+        "doc_12561.txt"
+    ]
+}

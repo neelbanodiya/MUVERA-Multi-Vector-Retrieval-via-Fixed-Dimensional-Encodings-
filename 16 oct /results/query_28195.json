@@ -1,0 +1,10 @@
+{
+    "query": "What is the theme for the 2014 Rose Parade?",
+    "response": [
+        "doc_3514.txt",
+        "doc_4455.txt",
+        "doc_9654.txt",
+        "doc_17217.txt",
+        "doc_3501.txt"
+    ]
+}

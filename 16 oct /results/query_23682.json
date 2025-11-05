@@ -1,0 +1,9 @@
+{
+    "query": "What type of horse was Man O'War?",
+    "response": [
+        "doc_13728.txt",
+        "doc_13729.txt",
+        "doc_13730.txt",
+        "doc_13731.txt"
+    ]
+}

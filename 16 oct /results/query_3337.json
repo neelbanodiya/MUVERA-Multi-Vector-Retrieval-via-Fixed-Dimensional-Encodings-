@@ -1,0 +1,10 @@
+{
+    "query": "How many times did Mario Lemieux participate in the NHL All-Star Game?",
+    "response": [
+        "doc_2001.txt",
+        "doc_1990.txt",
+        "doc_1993.txt",
+        "doc_1992.txt",
+        "doc_1991.txt"
+    ]
+}

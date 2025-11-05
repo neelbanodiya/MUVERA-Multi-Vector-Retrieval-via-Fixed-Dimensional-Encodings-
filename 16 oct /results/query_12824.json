@@ -1,0 +1,10 @@
+{
+    "query": "Which Disney character did Jodi Benson voice in \u201cToy Story 2\u201d?",
+    "response": [
+        "doc_7454.txt",
+        "doc_7455.txt",
+        "doc_6339.txt",
+        "doc_20569.txt",
+        "doc_11177.txt"
+    ]
+}

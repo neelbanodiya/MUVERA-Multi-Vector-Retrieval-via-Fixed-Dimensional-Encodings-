@@ -1,0 +1,10 @@
+{
+    "query": "In California, what is the reported gender wage gap, expressed as a ratio of women\u2019s earnings to men\u2019s earnings?",
+    "response": [
+        "doc_14797.txt",
+        "doc_14798.txt",
+        "doc_14795.txt",
+        "doc_14799.txt",
+        "doc_14796.txt"
+    ]
+}

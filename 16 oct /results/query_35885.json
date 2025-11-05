@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Porter receive the Queen\u2019s Award for technological achievement?",
+    "response": [
+        "doc_5762.txt",
+        "doc_12638.txt",
+        "doc_2264.txt",
+        "doc_2664.txt",
+        "doc_8598.txt"
+    ]
+}

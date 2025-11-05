@@ -1,0 +1,10 @@
+{
+    "query": "What are the four humors or fluids that comprised the human body according to ancient Greek theory?",
+    "response": [
+        "doc_5000.txt",
+        "doc_5003.txt",
+        "doc_5004.txt",
+        "doc_5005.txt",
+        "doc_4999.txt"
+    ]
+}

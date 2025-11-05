@@ -1,0 +1,10 @@
+{
+    "query": "Who played Victor Sifuentes in the 1980s legal drama LA Law?",
+    "response": [
+        "doc_10724.txt",
+        "doc_10720.txt",
+        "doc_10723.txt",
+        "doc_10727.txt",
+        "doc_10728.txt"
+    ]
+}

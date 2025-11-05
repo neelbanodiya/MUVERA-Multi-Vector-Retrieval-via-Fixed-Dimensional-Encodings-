@@ -1,0 +1,10 @@
+{
+    "query": "What event occurred on October 23, 2016, in Decatur, IL?",
+    "response": [
+        "doc_12166.txt",
+        "doc_4820.txt",
+        "doc_6109.txt",
+        "doc_6112.txt",
+        "doc_6110.txt"
+    ]
+}

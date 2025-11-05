@@ -1,0 +1,10 @@
+{
+    "query": "Which Argentine writers are mentioned in the passage, and where were they located?",
+    "response": [
+        "doc_18579.txt",
+        "doc_8850.txt",
+        "doc_16975.txt",
+        "doc_16977.txt",
+        "doc_16976.txt"
+    ]
+}

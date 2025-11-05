@@ -1,0 +1,10 @@
+{
+    "query": "When were the books of *The Lord of the Rings* trilogy published?",
+    "response": [
+        "doc_15546.txt",
+        "doc_15551.txt",
+        "doc_15556.txt",
+        "doc_15548.txt",
+        "doc_15547.txt"
+    ]
+}

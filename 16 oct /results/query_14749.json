@@ -1,0 +1,10 @@
+{
+    "query": "How long did Abigail finish the one-mile race?",
+    "response": [
+        "doc_8543.txt",
+        "doc_8554.txt",
+        "doc_8545.txt",
+        "doc_8549.txt",
+        "doc_8547.txt"
+    ]
+}

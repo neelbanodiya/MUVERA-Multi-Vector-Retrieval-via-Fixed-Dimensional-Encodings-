@@ -1,0 +1,10 @@
+{
+    "query": "Besides Vitamin A, what other vitamins are mentioned as being essential for maintaining health?",
+    "response": [
+        "doc_9512.txt",
+        "doc_9494.txt",
+        "doc_9502.txt",
+        "doc_9506.txt",
+        "doc_9507.txt"
+    ]
+}

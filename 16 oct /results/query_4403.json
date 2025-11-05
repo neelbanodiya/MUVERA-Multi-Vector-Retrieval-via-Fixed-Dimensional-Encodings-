@@ -1,0 +1,10 @@
+{
+    "query": "Where did Dick Cheney grow up?",
+    "response": [
+        "doc_2561.txt",
+        "doc_2562.txt",
+        "doc_2563.txt",
+        "doc_2559.txt",
+        "doc_2560.txt"
+    ]
+}

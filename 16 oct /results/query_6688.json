@@ -1,0 +1,10 @@
+{
+    "query": "What language were the lyrics of Carmen Jones written in?",
+    "response": [
+        "doc_21968.txt",
+        "doc_16665.txt",
+        "doc_16702.txt",
+        "doc_6302.txt",
+        "doc_17072.txt"
+    ]
+}

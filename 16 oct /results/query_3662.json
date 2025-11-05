@@ -1,0 +1,10 @@
+{
+    "query": "Does the Commission believe the Cubamed project is vital for health, environment, and socioeconomic reasons?",
+    "response": [
+        "doc_2145.txt",
+        "doc_2146.txt",
+        "doc_240.txt",
+        "doc_12941.txt",
+        "doc_15185.txt"
+    ]
+}

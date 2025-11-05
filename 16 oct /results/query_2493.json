@@ -1,0 +1,10 @@
+{
+    "query": "What emotion was Chandra Levy expressing when she shouted a swear word?",
+    "response": [
+        "doc_14531.txt",
+        "doc_11512.txt",
+        "doc_11513.txt",
+        "doc_14533.txt",
+        "doc_22073.txt"
+    ]
+}

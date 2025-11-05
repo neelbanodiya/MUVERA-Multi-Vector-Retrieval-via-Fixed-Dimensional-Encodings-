@@ -1,0 +1,8 @@
+{
+    "query": "What is ASEAN currently doing to help resolve the border situation between Thailand and Cambodia?",
+    "response": [
+        "doc_4062.txt",
+        "doc_4063.txt",
+        "doc_4061.txt"
+    ]
+}

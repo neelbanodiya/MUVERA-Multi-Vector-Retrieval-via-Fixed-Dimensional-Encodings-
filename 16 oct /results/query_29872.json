@@ -1,0 +1,10 @@
+{
+    "query": "Which regions are specifically highlighted as needing increased support to promote growth and eradicate poverty within the EU?",
+    "response": [
+        "doc_17361.txt",
+        "doc_23493.txt",
+        "doc_9149.txt",
+        "doc_15183.txt",
+        "doc_22999.txt"
+    ]
+}

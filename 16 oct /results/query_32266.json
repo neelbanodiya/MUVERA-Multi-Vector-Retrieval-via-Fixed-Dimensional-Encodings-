@@ -1,0 +1,10 @@
+{
+    "query": "What award was Rachel Carson posthumously given?",
+    "response": [
+        "doc_18813.txt",
+        "doc_18812.txt",
+        "doc_18819.txt",
+        "doc_18818.txt",
+        "doc_18814.txt"
+    ]
+}

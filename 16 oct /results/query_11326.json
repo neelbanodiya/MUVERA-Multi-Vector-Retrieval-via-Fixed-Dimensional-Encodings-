@@ -1,0 +1,10 @@
+{
+    "query": "What book did Jack Carter\u2019s father enjoy reading?",
+    "response": [
+        "doc_19142.txt",
+        "doc_12787.txt",
+        "doc_726.txt",
+        "doc_19141.txt",
+        "doc_6066.txt"
+    ]
+}

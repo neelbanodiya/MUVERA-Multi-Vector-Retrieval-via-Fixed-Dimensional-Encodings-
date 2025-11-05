@@ -1,0 +1,10 @@
+{
+    "query": "What is Christina Rossetti best known for writing?",
+    "response": [
+        "doc_6302.txt",
+        "doc_6309.txt",
+        "doc_6310.txt",
+        "doc_6296.txt",
+        "doc_6303.txt"
+    ]
+}

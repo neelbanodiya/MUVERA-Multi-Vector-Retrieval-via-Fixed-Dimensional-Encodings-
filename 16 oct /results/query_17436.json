@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what event created a \u201ctremendous opportunity\u201d for the city of Chicago?",
+    "response": [
+        "doc_1349.txt",
+        "doc_21213.txt",
+        "doc_23357.txt",
+        "doc_16299.txt",
+        "doc_242.txt"
+    ]
+}

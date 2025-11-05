@@ -1,0 +1,10 @@
+{
+    "query": "What was the British government\u2019s policy regarding salt production that Gandhi challenged?",
+    "response": [
+        "doc_1402.txt",
+        "doc_1413.txt",
+        "doc_1412.txt",
+        "doc_1404.txt",
+        "doc_1414.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the venomous lizard found in Mexico?",
+    "response": [
+        "doc_12298.txt",
+        "doc_12294.txt",
+        "doc_12300.txt",
+        "doc_12296.txt",
+        "doc_12295.txt"
+    ]
+}

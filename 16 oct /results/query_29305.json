@@ -1,0 +1,10 @@
+{
+    "query": "What city in Kansas is Twin City Driver Education located in?",
+    "response": [
+        "doc_17060.txt",
+        "doc_17061.txt",
+        "doc_17057.txt",
+        "doc_17062.txt",
+        "doc_17059.txt"
+    ]
+}

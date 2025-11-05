@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is a consequence of Samson killing a lion?",
+    "response": [
+        "doc_8908.txt",
+        "doc_8905.txt",
+        "doc_8907.txt",
+        "doc_14535.txt",
+        "doc_8902.txt"
+    ]
+}

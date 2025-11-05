@@ -1,0 +1,10 @@
+{
+    "query": "Which procedure is used for implementing acts related to Article 7(b) and (c)?",
+    "response": [
+        "doc_18022.txt",
+        "doc_20811.txt",
+        "doc_20803.txt",
+        "doc_20773.txt",
+        "doc_20778.txt"
+    ]
+}

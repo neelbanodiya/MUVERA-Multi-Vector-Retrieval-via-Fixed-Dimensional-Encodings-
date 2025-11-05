@@ -1,0 +1,10 @@
+{
+    "query": "What type of roast is best for showcasing premium-grade Arabica coffee?",
+    "response": [
+        "doc_23957.txt",
+        "doc_23960.txt",
+        "doc_23956.txt",
+        "doc_10431.txt",
+        "doc_9985.txt"
+    ]
+}

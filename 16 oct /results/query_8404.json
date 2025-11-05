@@ -1,0 +1,10 @@
+{
+    "query": "Which government agency sent Mr. Parrucci to Laboratoires Boironm for employment?",
+    "response": [
+        "doc_466.txt",
+        "doc_4865.txt",
+        "doc_1011.txt",
+        "doc_23870.txt",
+        "doc_9276.txt"
+    ]
+}

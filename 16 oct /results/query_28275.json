@@ -1,0 +1,10 @@
+{
+    "query": "What is the patron saint of Scotland, and what is the symbol associated with them on the national flag?",
+    "response": [
+        "doc_16453.txt",
+        "doc_16460.txt",
+        "doc_16447.txt",
+        "doc_16452.txt",
+        "doc_16463.txt"
+    ]
+}

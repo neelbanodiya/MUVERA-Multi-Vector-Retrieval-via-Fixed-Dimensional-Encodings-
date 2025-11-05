@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of the air-raid shelters being built in Berlin?",
+    "response": [
+        "doc_4349.txt",
+        "doc_4347.txt",
+        "doc_4346.txt",
+        "doc_13901.txt",
+        "doc_4348.txt"
+    ]
+}

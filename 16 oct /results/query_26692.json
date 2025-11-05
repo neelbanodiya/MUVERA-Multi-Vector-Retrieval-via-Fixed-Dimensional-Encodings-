@@ -1,0 +1,10 @@
+{
+    "query": "How many gold medals did Vitaly Scherbo win at a single Paralympic Winter Games?",
+    "response": [
+        "doc_15509.txt",
+        "doc_15506.txt",
+        "doc_15510.txt",
+        "doc_15512.txt",
+        "doc_13769.txt"
+    ]
+}

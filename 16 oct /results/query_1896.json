@@ -1,0 +1,10 @@
+{
+    "query": "In what city and state did Janis Joplin\u2019s daughter celebrate her second birthday?",
+    "response": [
+        "doc_1128.txt",
+        "doc_8216.txt",
+        "doc_8209.txt",
+        "doc_17061.txt",
+        "doc_9125.txt"
+    ]
+}

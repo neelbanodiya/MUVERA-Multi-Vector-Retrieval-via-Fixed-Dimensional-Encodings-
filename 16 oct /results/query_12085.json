@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, how was President Obama initially greeted by some individuals?",
+    "response": [
+        "doc_16240.txt",
+        "doc_16234.txt",
+        "doc_16233.txt",
+        "doc_16239.txt",
+        "doc_15721.txt"
+    ]
+}

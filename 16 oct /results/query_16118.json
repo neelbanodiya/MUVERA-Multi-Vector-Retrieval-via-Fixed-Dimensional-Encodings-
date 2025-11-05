@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many acres does the Painted Desert cover in northern Arizona?",
+    "response": [
+        "doc_9324.txt",
+        "doc_9326.txt",
+        "doc_9325.txt",
+        "doc_9331.txt",
+        "doc_9328.txt"
+    ]
+}

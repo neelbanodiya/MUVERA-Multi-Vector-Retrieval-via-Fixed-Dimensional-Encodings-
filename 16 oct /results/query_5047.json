@@ -1,0 +1,10 @@
+{
+    "query": "How many species are currently included within the genus \u201cLophodermium\u201d?",
+    "response": [
+        "doc_20055.txt",
+        "doc_2950.txt",
+        "doc_2949.txt",
+        "doc_19030.txt",
+        "doc_19032.txt"
+    ]
+}

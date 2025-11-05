@@ -1,0 +1,10 @@
+{
+    "query": "What stores are mentioned alongside Bloomingdale\u2019s?",
+    "response": [
+        "doc_9777.txt",
+        "doc_21994.txt",
+        "doc_3626.txt",
+        "doc_3628.txt",
+        "doc_18583.txt"
+    ]
+}

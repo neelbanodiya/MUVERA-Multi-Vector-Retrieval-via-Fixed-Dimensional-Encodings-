@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, who are some musicians mentioned alongside Michael Jackson (e.g., Paul Simon, Michael Jackson)?",
+    "response": [
+        "doc_12337.txt",
+        "doc_17913.txt",
+        "doc_5897.txt",
+        "doc_12339.txt",
+        "doc_23435.txt"
+    ]
+}

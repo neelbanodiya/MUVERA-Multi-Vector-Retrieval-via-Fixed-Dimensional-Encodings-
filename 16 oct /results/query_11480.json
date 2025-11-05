@@ -1,0 +1,10 @@
+{
+    "query": "Does the novel \u201cThe Painted Bird\u201d by Jerzy Kosiski feature conventional dialogue?",
+    "response": [
+        "doc_6673.txt",
+        "doc_6672.txt",
+        "doc_6671.txt",
+        "doc_6674.txt",
+        "doc_6675.txt"
+    ]
+}

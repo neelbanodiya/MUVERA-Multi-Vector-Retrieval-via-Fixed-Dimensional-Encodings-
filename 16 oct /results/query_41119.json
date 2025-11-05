@@ -1,0 +1,10 @@
+{
+    "query": "Which sector has been identified as a priority for emergency humanitarian assistance, and what type of aid is the Commission providing in this area?",
+    "response": [
+        "doc_24079.txt",
+        "doc_24205.txt",
+        "doc_987.txt",
+        "doc_17571.txt",
+        "doc_8115.txt"
+    ]
+}

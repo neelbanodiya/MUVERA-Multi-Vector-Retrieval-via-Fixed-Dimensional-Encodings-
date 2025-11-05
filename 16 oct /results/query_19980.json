@@ -1,0 +1,10 @@
+{
+    "query": "What was Siegfried Marcus working toward by age 12, as described in one of the articles?",
+    "response": [
+        "doc_18583.txt",
+        "doc_4169.txt",
+        "doc_22774.txt",
+        "doc_22536.txt",
+        "doc_22070.txt"
+    ]
+}

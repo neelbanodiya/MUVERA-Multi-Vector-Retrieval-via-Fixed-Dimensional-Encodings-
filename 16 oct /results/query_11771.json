@@ -1,0 +1,10 @@
+{
+    "query": "What event is highlighted in the HMG Hotels blog as a continuing party theme?",
+    "response": [
+        "doc_11203.txt",
+        "doc_16865.txt",
+        "doc_8824.txt",
+        "doc_5549.txt",
+        "doc_22016.txt"
+    ]
+}

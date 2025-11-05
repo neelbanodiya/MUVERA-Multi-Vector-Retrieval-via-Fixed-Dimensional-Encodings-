@@ -1,0 +1,10 @@
+{
+    "query": "What does the `fprintf()` function do, as described in the Open Group documentation?",
+    "response": [
+        "doc_12391.txt",
+        "doc_12392.txt",
+        "doc_22040.txt",
+        "doc_21678.txt",
+        "doc_21819.txt"
+    ]
+}

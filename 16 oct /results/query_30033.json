@@ -1,0 +1,10 @@
+{
+    "query": "What type of radiation is used in a CT scan?",
+    "response": [
+        "doc_17453.txt",
+        "doc_17454.txt",
+        "doc_17451.txt",
+        "doc_17463.txt",
+        "doc_17455.txt"
+    ]
+}

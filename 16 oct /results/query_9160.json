@@ -1,0 +1,10 @@
+{
+    "query": "In what television series did the South Korean actress play Princess Myung-eun?",
+    "response": [
+        "doc_6916.txt",
+        "doc_16055.txt",
+        "doc_16054.txt",
+        "doc_5280.txt",
+        "doc_5279.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the proposed number of wind turbines planned for zone 15 of the Valencian wind farm plan?",
+    "response": [
+        "doc_12802.txt",
+        "doc_9671.txt",
+        "doc_9670.txt",
+        "doc_2491.txt",
+        "doc_16442.txt"
+    ]
+}

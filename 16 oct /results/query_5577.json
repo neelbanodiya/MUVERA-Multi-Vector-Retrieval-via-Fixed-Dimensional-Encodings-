@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 12(5) of the EGF Regulation, what form could the trilogue negotiation take?",
+    "response": [
+        "doc_3251.txt",
+        "doc_20763.txt",
+        "doc_13173.txt",
+        "doc_10500.txt",
+        "doc_13372.txt"
+    ]
+}

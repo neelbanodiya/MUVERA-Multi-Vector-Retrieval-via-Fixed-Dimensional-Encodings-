@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of survey participants expressed dissatisfaction with the degree of transparency in the European administration?",
+    "response": [
+        "doc_19802.txt",
+        "doc_12328.txt",
+        "doc_996.txt",
+        "doc_13929.txt",
+        "doc_4295.txt"
+    ]
+}

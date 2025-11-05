@@ -1,0 +1,10 @@
+{
+    "query": "Where did Paul Prudhomme begin his cooking career?",
+    "response": [
+        "doc_3663.txt",
+        "doc_3664.txt",
+        "doc_23417.txt",
+        "doc_7252.txt",
+        "doc_10667.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was Alex Len's shooting percentage within five feet of the basket in 2015-16?",
+    "response": [
+        "doc_18555.txt",
+        "doc_18557.txt",
+        "doc_18569.txt",
+        "doc_18570.txt",
+        "doc_18564.txt"
+    ]
+}

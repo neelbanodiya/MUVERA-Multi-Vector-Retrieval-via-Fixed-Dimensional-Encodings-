@@ -1,0 +1,10 @@
+{
+    "query": "What types of fruits are popular in Costa Rica, according to one of the linked articles?",
+    "response": [
+        "doc_6641.txt",
+        "doc_6640.txt",
+        "doc_8232.txt",
+        "doc_6631.txt",
+        "doc_23960.txt"
+    ]
+}

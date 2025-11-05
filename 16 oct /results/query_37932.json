@@ -1,0 +1,10 @@
+{
+    "query": "Which Rivera family is Juan Rivera a part of?",
+    "response": [
+        "doc_4275.txt",
+        "doc_22243.txt",
+        "doc_3133.txt",
+        "doc_4274.txt",
+        "doc_16329.txt"
+    ]
+}

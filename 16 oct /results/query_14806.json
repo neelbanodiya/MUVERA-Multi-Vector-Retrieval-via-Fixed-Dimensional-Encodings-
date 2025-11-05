@@ -1,0 +1,10 @@
+{
+    "query": "Who was Maestro Curry?",
+    "response": [
+        "doc_3574.txt",
+        "doc_3684.txt",
+        "doc_4475.txt",
+        "doc_15475.txt",
+        "doc_10759.txt"
+    ]
+}

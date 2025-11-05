@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the central question posed by Patrick Henry?",
+    "response": [
+        "doc_340.txt",
+        "doc_344.txt",
+        "doc_342.txt",
+        "doc_9991.txt",
+        "doc_336.txt"
+    ]
+}

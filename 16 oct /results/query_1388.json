@@ -1,0 +1,10 @@
+{
+    "query": "In what television series did Rufus Sewell play an \u201cObergruppenf\u00fchrer\u201d?",
+    "response": [
+        "doc_18954.txt",
+        "doc_15122.txt",
+        "doc_19023.txt",
+        "doc_15278.txt",
+        "doc_4475.txt"
+    ]
+}

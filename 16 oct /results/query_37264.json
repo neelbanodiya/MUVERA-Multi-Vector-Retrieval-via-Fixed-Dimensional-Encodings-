@@ -1,0 +1,10 @@
+{
+    "query": "What is the intended use of the unique identifier for companies and branches within the European Union?",
+    "response": [
+        "doc_21808.txt",
+        "doc_21814.txt",
+        "doc_21819.txt",
+        "doc_12717.txt",
+        "doc_17351.txt"
+    ]
+}

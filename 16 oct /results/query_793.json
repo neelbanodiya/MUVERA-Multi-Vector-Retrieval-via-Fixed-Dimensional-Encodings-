@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the third album by World Party, and when was it released?",
+    "response": [
+        "doc_456.txt",
+        "doc_15303.txt",
+        "doc_10292.txt",
+        "doc_19008.txt",
+        "doc_13530.txt"
+    ]
+}

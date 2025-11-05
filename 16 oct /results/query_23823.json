@@ -1,0 +1,10 @@
+{
+    "query": "Which film stars Andy Samberg and was released in 2016?",
+    "response": [
+        "doc_21378.txt",
+        "doc_1577.txt",
+        "doc_12613.txt",
+        "doc_18951.txt",
+        "doc_19281.txt"
+    ]
+}

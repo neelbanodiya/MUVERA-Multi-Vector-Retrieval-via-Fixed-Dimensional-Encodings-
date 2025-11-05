@@ -1,0 +1,10 @@
+{
+    "query": "What was the salary of Hank Aaron's contract with the Atlanta Braves in 1972?",
+    "response": [
+        "doc_23045.txt",
+        "doc_23046.txt",
+        "doc_23050.txt",
+        "doc_23048.txt",
+        "doc_23047.txt"
+    ]
+}

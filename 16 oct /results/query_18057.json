@@ -1,0 +1,10 @@
+{
+    "query": "Who was appointed as the first High Sheriff of Caernarvonshire?",
+    "response": [
+        "doc_19680.txt",
+        "doc_16125.txt",
+        "doc_10450.txt",
+        "doc_10451.txt",
+        "doc_14846.txt"
+    ]
+}

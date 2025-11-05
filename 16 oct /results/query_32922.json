@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what potential negative impacts could rising oil prices have on Europe?",
+    "response": [
+        "doc_19178.txt",
+        "doc_19176.txt",
+        "doc_14447.txt",
+        "doc_4957.txt",
+        "doc_19177.txt"
+    ]
+}

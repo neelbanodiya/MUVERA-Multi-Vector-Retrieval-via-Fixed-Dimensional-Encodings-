@@ -1,0 +1,10 @@
+{
+    "query": "What river does the Naviglio Grande join in Lombardy, northern Italy?",
+    "response": [
+        "doc_4336.txt",
+        "doc_21029.txt",
+        "doc_3147.txt",
+        "doc_20244.txt",
+        "doc_23535.txt"
+    ]
+}

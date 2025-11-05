@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Jason take his father\u2019s spot in a televised Led Zeppelin event?",
+    "response": [
+        "doc_2389.txt",
+        "doc_2402.txt",
+        "doc_2395.txt",
+        "doc_2399.txt",
+        "doc_2401.txt"
+    ]
+}

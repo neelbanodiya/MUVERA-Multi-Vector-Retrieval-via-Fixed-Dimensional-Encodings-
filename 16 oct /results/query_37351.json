@@ -1,0 +1,10 @@
+{
+    "query": "According to one source, what did Harvey prove about blood?",
+    "response": [
+        "doc_21885.txt",
+        "doc_14526.txt",
+        "doc_16706.txt",
+        "doc_19776.txt",
+        "doc_2026.txt"
+    ]
+}

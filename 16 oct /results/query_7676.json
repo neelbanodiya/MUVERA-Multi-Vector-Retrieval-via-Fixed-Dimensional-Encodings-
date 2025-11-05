@@ -1,0 +1,10 @@
+{
+    "query": "Why did Michael Richards turn down the role of Adrian Monk?",
+    "response": [
+        "doc_4467.txt",
+        "doc_580.txt",
+        "doc_4461.txt",
+        "doc_4468.txt",
+        "doc_4469.txt"
+    ]
+}

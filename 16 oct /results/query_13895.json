@@ -1,0 +1,10 @@
+{
+    "query": "During which historical period did Poughkeepsie serve as the temporary capital of New York State?",
+    "response": [
+        "doc_8080.txt",
+        "doc_8084.txt",
+        "doc_8078.txt",
+        "doc_8077.txt",
+        "doc_8083.txt"
+    ]
+}

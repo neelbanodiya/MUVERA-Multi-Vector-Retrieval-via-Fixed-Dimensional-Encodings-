@@ -1,0 +1,10 @@
+{
+    "query": "In 1943, who was the first US president to visit a foreign country in wartime?",
+    "response": [
+        "doc_12518.txt",
+        "doc_12531.txt",
+        "doc_12519.txt",
+        "doc_11662.txt",
+        "doc_12524.txt"
+    ]
+}

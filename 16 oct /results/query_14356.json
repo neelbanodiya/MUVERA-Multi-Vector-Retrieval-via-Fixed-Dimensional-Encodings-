@@ -1,0 +1,10 @@
+{
+    "query": "What Michael Crichton novel features a deadly diamond hunt involving killer gorillas?",
+    "response": [
+        "doc_8317.txt",
+        "doc_8318.txt",
+        "doc_8319.txt",
+        "doc_11503.txt",
+        "doc_20550.txt"
+    ]
+}

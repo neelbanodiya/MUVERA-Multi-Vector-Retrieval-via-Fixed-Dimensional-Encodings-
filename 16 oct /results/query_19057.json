@@ -1,0 +1,10 @@
+{
+    "query": "What phrase does Socrates use to describe young people?",
+    "response": [
+        "doc_9450.txt",
+        "doc_23902.txt",
+        "doc_23904.txt",
+        "doc_9449.txt",
+        "doc_23899.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What significant achievement did Ralph Sampson accomplish in 1986?",
+    "response": [
+        "doc_14076.txt",
+        "doc_17277.txt",
+        "doc_12779.txt",
+        "doc_18244.txt",
+        "doc_17278.txt"
+    ]
+}

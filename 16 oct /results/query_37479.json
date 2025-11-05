@@ -1,0 +1,10 @@
+{
+    "query": "Which opera features a \"Toreador Song\"?",
+    "response": [
+        "doc_332.txt",
+        "doc_330.txt",
+        "doc_21963.txt",
+        "doc_21966.txt",
+        "doc_21959.txt"
+    ]
+}

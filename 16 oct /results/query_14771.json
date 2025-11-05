@@ -1,0 +1,10 @@
+{
+    "query": "In 1966, which Supreme Court case established that the accused have the right to remain silent?",
+    "response": [
+        "doc_8567.txt",
+        "doc_8568.txt",
+        "doc_8569.txt",
+        "doc_8581.txt",
+        "doc_8570.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which actor played \u201cDr. Alan Deaton\u201d on *Teen Wolf*?",
+    "response": [
+        "doc_19275.txt",
+        "doc_19274.txt",
+        "doc_19286.txt",
+        "doc_19283.txt",
+        "doc_19271.txt"
+    ]
+}

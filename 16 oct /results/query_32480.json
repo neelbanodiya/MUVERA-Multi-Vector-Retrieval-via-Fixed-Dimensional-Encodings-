@@ -1,0 +1,10 @@
+{
+    "query": "What types of roles does Oliver Hardy have (e.g., singer, actor, cowboy)?",
+    "response": [
+        "doc_18954.txt",
+        "doc_18935.txt",
+        "doc_18934.txt",
+        "doc_18873.txt",
+        "doc_18941.txt"
+    ]
+}

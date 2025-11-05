@@ -1,0 +1,10 @@
+{
+    "query": "What types of prejudice are still present in America, according to the passage?",
+    "response": [
+        "doc_14461.txt",
+        "doc_23896.txt",
+        "doc_11951.txt",
+        "doc_2333.txt",
+        "doc_15354.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What other individuals mentioned in the passage have pursued careers beyond their initial roles (e.g., Kurt Green as a funnyman)?",
+    "response": [
+        "doc_20134.txt",
+        "doc_5157.txt",
+        "doc_4846.txt",
+        "doc_6570.txt",
+        "doc_4876.txt"
+    ]
+}

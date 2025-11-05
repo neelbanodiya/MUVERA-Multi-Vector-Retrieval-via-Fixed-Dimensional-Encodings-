@@ -1,0 +1,10 @@
+{
+    "query": "When was Governor L. Douglas Wilder inaugurated?",
+    "response": [
+        "doc_11473.txt",
+        "doc_18606.txt",
+        "doc_18607.txt",
+        "doc_10897.txt",
+        "doc_17296.txt"
+    ]
+}

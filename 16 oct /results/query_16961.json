@@ -1,0 +1,10 @@
+{
+    "query": "What awards did Marvin Hamlisch receive for his work on \u201cA Chorus Line\u201d?",
+    "response": [
+        "doc_9824.txt",
+        "doc_9819.txt",
+        "doc_9822.txt",
+        "doc_9830.txt",
+        "doc_9825.txt"
+    ]
+}

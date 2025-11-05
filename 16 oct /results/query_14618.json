@@ -1,0 +1,10 @@
+{
+    "query": "If the EU Member States doubled the quantity of waste that is recycled, approximately how many jobs would be created as a result?",
+    "response": [
+        "doc_8451.txt",
+        "doc_4906.txt",
+        "doc_3966.txt",
+        "doc_19948.txt",
+        "doc_9963.txt"
+    ]
+}

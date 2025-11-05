@@ -1,0 +1,10 @@
+{
+    "query": "What string sections are mentioned as central to the Baroque orchestra?",
+    "response": [
+        "doc_16769.txt",
+        "doc_16773.txt",
+        "doc_16770.txt",
+        "doc_16775.txt",
+        "doc_16781.txt"
+    ]
+}

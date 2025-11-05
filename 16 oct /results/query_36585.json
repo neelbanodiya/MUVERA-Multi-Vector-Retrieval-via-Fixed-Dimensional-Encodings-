@@ -1,0 +1,10 @@
+{
+    "query": "What series are described as \u201cbest-selling X-Men titles\u201d?",
+    "response": [
+        "doc_18582.txt",
+        "doc_1979.txt",
+        "doc_5354.txt",
+        "doc_4654.txt",
+        "doc_18583.txt"
+    ]
+}

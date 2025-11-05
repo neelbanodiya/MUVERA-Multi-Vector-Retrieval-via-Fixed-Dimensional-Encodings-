@@ -1,0 +1,10 @@
+{
+    "query": "What is the total amount of payments related to the PDB, and how does it compare to the 2005 payment level?",
+    "response": [
+        "doc_11710.txt",
+        "doc_17472.txt",
+        "doc_17612.txt",
+        "doc_14946.txt",
+        "doc_23276.txt"
+    ]
+}

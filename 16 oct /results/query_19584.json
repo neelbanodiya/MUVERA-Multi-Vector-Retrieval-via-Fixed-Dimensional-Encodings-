@@ -1,0 +1,10 @@
+{
+    "query": "In what year did \u201cBeauty and the Geek (UK TV series)\u201d first air on E4?",
+    "response": [
+        "doc_9515.txt",
+        "doc_6752.txt",
+        "doc_21327.txt",
+        "doc_17176.txt",
+        "doc_5297.txt"
+    ]
+}

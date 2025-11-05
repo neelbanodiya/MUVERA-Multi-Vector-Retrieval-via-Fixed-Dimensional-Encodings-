@@ -1,0 +1,10 @@
+{
+    "query": "Where are the Aleutian Islands located, and what body of water do they enclose?",
+    "response": [
+        "doc_9608.txt",
+        "doc_9609.txt",
+        "doc_9619.txt",
+        "doc_9610.txt",
+        "doc_9614.txt"
+    ]
+}

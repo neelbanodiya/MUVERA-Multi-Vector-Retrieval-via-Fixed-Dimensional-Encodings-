@@ -1,0 +1,10 @@
+{
+    "query": "According to the IMDb biography, what ranking did Laurence Olivier\u2019s 1955 performance as Richard III receive?",
+    "response": [
+        "doc_1965.txt",
+        "doc_19427.txt",
+        "doc_19419.txt",
+        "doc_19424.txt",
+        "doc_783.txt"
+    ]
+}

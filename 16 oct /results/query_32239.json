@@ -1,0 +1,10 @@
+{
+    "query": "What terrorist group plots to blow up the Super Bowl in this 1977 flick?",
+    "response": [
+        "doc_18773.txt",
+        "doc_18774.txt",
+        "doc_18780.txt",
+        "doc_18775.txt",
+        "doc_18777.txt"
+    ]
+}

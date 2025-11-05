@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is a popular dish at Bestia in Los Angeles?",
+    "response": [
+        "doc_9718.txt",
+        "doc_10431.txt",
+        "doc_10507.txt",
+        "doc_8052.txt",
+        "doc_10427.txt"
+    ]
+}

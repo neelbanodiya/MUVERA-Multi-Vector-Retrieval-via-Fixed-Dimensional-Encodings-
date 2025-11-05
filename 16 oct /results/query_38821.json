@@ -1,0 +1,10 @@
+{
+    "query": "How many shrimp boats were licensed in Alabama in 2014 compared to 2009?",
+    "response": [
+        "doc_13597.txt",
+        "doc_22739.txt",
+        "doc_7367.txt",
+        "doc_17671.txt",
+        "doc_13609.txt"
+    ]
+}

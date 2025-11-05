@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the band that Roger Kammerer formed?",
+    "response": [
+        "doc_5897.txt",
+        "doc_20314.txt",
+        "doc_8695.txt",
+        "doc_18353.txt",
+        "doc_22029.txt"
+    ]
+}

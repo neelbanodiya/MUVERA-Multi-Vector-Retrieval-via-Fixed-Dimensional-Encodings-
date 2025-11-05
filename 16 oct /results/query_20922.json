@@ -1,0 +1,10 @@
+{
+    "query": "What bodies of water are located to the northwest and southeast of the Sulu Sea?",
+    "response": [
+        "doc_12058.txt",
+        "doc_12056.txt",
+        "doc_12064.txt",
+        "doc_12059.txt",
+        "doc_12061.txt"
+    ]
+}

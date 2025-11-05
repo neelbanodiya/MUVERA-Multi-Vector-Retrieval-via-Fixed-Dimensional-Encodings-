@@ -1,0 +1,10 @@
+{
+    "query": "In what year was East St. Louis, Illinois founded?",
+    "response": [
+        "doc_19971.txt",
+        "doc_3563.txt",
+        "doc_2706.txt",
+        "doc_3834.txt",
+        "doc_13609.txt"
+    ]
+}

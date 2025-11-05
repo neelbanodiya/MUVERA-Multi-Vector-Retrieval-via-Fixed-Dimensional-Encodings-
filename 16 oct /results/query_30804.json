@@ -1,0 +1,10 @@
+{
+    "query": "What is the location of Hostal Macarena in Madrid, specifically in relation to a landmark?",
+    "response": [
+        "doc_17952.txt",
+        "doc_17948.txt",
+        "doc_17950.txt",
+        "doc_17951.txt",
+        "doc_17949.txt"
+    ]
+}

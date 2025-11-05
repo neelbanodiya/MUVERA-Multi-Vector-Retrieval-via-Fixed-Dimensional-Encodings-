@@ -1,0 +1,10 @@
+{
+    "query": "What are the two known venomous lizard species native to the United States?",
+    "response": [
+        "doc_12295.txt",
+        "doc_12298.txt",
+        "doc_12300.txt",
+        "doc_12294.txt",
+        "doc_12302.txt"
+    ]
+}

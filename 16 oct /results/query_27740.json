@@ -1,0 +1,10 @@
+{
+    "query": "According to Mutt, who had a \u201craw impact\u201d?",
+    "response": [
+        "doc_20569.txt",
+        "doc_4696.txt",
+        "doc_14769.txt",
+        "doc_558.txt",
+        "doc_16919.txt"
+    ]
+}

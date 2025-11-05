@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what happened to Harold Godwinson?",
+    "response": [
+        "doc_7321.txt",
+        "doc_12227.txt",
+        "doc_7628.txt",
+        "doc_15772.txt",
+        "doc_20135.txt"
+    ]
+}

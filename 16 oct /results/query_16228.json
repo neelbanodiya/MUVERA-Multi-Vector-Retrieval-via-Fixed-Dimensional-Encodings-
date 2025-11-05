@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of \u201cFarmerphile: The Magazine of Philip Jos\u00e9 Farmer,\u201d and what novel was serialized within its first ten issues?",
+    "response": [
+        "doc_9400.txt",
+        "doc_9401.txt",
+        "doc_9402.txt",
+        "doc_4879.txt",
+        "doc_24144.txt"
+    ]
+}

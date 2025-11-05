@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the four-man bobsled team win gold at Lake Placid?",
+    "response": [
+        "doc_15519.txt",
+        "doc_15514.txt",
+        "doc_15512.txt",
+        "doc_11350.txt",
+        "doc_15516.txt"
+    ]
+}

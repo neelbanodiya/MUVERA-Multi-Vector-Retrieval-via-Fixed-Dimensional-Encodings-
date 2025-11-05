@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred in 1933 related to the Loch Ness Monster?",
+    "response": [
+        "doc_9673.txt",
+        "doc_4842.txt",
+        "doc_377.txt",
+        "doc_385.txt",
+        "doc_512.txt"
+    ]
+}

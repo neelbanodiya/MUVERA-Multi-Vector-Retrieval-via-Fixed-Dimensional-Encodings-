@@ -1,0 +1,10 @@
+{
+    "query": "Between what months do *Pultenaea muelleri* flowers typically appear?",
+    "response": [
+        "doc_17773.txt",
+        "doc_10610.txt",
+        "doc_2269.txt",
+        "doc_9658.txt",
+        "doc_6812.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In which country does the Patagonian region of South America primarily lie?",
+    "response": [
+        "doc_8837.txt",
+        "doc_8841.txt",
+        "doc_8846.txt",
+        "doc_8836.txt",
+        "doc_8840.txt"
+    ]
+}

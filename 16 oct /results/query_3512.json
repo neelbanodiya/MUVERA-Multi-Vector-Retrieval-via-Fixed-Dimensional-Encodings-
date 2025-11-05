@@ -1,0 +1,10 @@
+{
+    "query": "What was Spike Lee\u2019s film titled that is referenced in one of the linked documents?",
+    "response": [
+        "doc_5323.txt",
+        "doc_8710.txt",
+        "doc_400.txt",
+        "doc_22834.txt",
+        "doc_14685.txt"
+    ]
+}

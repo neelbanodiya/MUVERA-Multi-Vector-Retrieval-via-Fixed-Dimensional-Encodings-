@@ -1,0 +1,10 @@
+{
+    "query": "When did the return of the Spanish monarchy occur?",
+    "response": [
+        "doc_10372.txt",
+        "doc_10373.txt",
+        "doc_5343.txt",
+        "doc_12223.txt",
+        "doc_1226.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the \"Sustainability in the City\" article, what is Dr. Jeff Wilson known as?",
+    "response": [
+        "doc_17690.txt",
+        "doc_8422.txt",
+        "doc_4516.txt",
+        "doc_22236.txt",
+        "doc_3669.txt"
+    ]
+}

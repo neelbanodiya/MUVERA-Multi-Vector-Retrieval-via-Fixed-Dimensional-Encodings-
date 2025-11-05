@@ -1,0 +1,10 @@
+{
+    "query": "What ingredients are typically used to sweeten Indian desserts, according to the provided links?",
+    "response": [
+        "doc_21689.txt",
+        "doc_21692.txt",
+        "doc_21700.txt",
+        "doc_21697.txt",
+        "doc_21691.txt"
+    ]
+}

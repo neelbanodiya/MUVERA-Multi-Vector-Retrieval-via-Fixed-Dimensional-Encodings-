@@ -1,0 +1,10 @@
+{
+    "query": "Which regions are identified as requiring peace and stability efforts by the EU and Russia?",
+    "response": [
+        "doc_18360.txt",
+        "doc_5890.txt",
+        "doc_5889.txt",
+        "doc_19897.txt",
+        "doc_24184.txt"
+    ]
+}

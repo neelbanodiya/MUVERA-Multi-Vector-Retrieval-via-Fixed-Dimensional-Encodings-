@@ -1,0 +1,10 @@
+{
+    "query": "For which sports network does Gord Miller work?",
+    "response": [
+        "doc_10555.txt",
+        "doc_10557.txt",
+        "doc_10554.txt",
+        "doc_10556.txt",
+        "doc_11178.txt"
+    ]
+}

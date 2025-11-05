@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of the U.S. economy is accounted for by food and fuel?",
+    "response": [
+        "doc_6096.txt",
+        "doc_4438.txt",
+        "doc_16680.txt",
+        "doc_19177.txt",
+        "doc_12680.txt"
+    ]
+}

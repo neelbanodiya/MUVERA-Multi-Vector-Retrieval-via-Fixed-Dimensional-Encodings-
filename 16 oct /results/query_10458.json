@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the book that L. Frank Baum wrote, and which includes the line \u201cThe road to the City of Emeralds is paved with yellow brick\u201d?",
+    "response": [
+        "doc_6065.txt",
+        "doc_6063.txt",
+        "doc_6064.txt",
+        "doc_6067.txt",
+        "doc_6066.txt"
+    ]
+}

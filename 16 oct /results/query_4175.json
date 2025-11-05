@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the album released in 1976 that aimed to return the \u201cFamily Stone\u201d band to Sly Stone\u2019s work?",
+    "response": [
+        "doc_10070.txt",
+        "doc_6335.txt",
+        "doc_8469.txt",
+        "doc_16313.txt",
+        "doc_8467.txt"
+    ]
+}

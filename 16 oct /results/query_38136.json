@@ -1,0 +1,10 @@
+{
+    "query": "What is the Albemarle Sound described as in terms of its function and location?",
+    "response": [
+        "doc_21771.txt",
+        "doc_22368.txt",
+        "doc_21776.txt",
+        "doc_1484.txt",
+        "doc_6652.txt"
+    ]
+}

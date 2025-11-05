@@ -1,0 +1,10 @@
+{
+    "query": "What was the population of York in 1793?",
+    "response": [
+        "doc_21028.txt",
+        "doc_2716.txt",
+        "doc_2715.txt",
+        "doc_21027.txt",
+        "doc_22542.txt"
+    ]
+}

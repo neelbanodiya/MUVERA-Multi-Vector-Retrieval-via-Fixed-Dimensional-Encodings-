@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cThe People vs. Larry Flynt\u201d released, and what type of story is it presented as (e.g., bio-pic, courtroom drama)?",
+    "response": [
+        "doc_17022.txt",
+        "doc_17031.txt",
+        "doc_18844.txt",
+        "doc_19272.txt",
+        "doc_19273.txt"
+    ]
+}

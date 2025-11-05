@@ -1,0 +1,10 @@
+{
+    "query": "Which company was awarded the contract for route 3 under the Air Mail Act of 1925?",
+    "response": [
+        "doc_11380.txt",
+        "doc_11375.txt",
+        "doc_11367.txt",
+        "doc_11372.txt",
+        "doc_11366.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the Finnish greeting \u201cHyvaa Paivaa\u201d literally?",
+    "response": [
+        "doc_9265.txt",
+        "doc_9268.txt",
+        "doc_9260.txt",
+        "doc_9263.txt",
+        "doc_9261.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What geographical feature separates Gibraltar and Spain in Europe from Morocco in Africa?",
+    "response": [
+        "doc_3267.txt",
+        "doc_8682.txt",
+        "doc_23531.txt",
+        "doc_8684.txt",
+        "doc_8791.txt"
+    ]
+}

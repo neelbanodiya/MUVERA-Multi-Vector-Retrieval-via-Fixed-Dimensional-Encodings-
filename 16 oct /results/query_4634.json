@@ -1,0 +1,10 @@
+{
+    "query": "What was General Hal Moore disqualified from due to?",
+    "response": [
+        "doc_13175.txt",
+        "doc_6758.txt",
+        "doc_24067.txt",
+        "doc_22239.txt",
+        "doc_137.txt"
+    ]
+}

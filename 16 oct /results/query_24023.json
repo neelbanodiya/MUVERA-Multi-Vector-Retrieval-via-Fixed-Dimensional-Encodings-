@@ -1,0 +1,10 @@
+{
+    "query": "When was the European Parliament and Council expected to submit a proposal to extend the list of substances classified as carcinogenic, mutagenic, or toxic to reproduction?",
+    "response": [
+        "doc_13931.txt",
+        "doc_3089.txt",
+        "doc_13932.txt",
+        "doc_12469.txt",
+        "doc_17268.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Lee Strasberg die?",
+    "response": [
+        "doc_7989.txt",
+        "doc_7721.txt",
+        "doc_20256.txt",
+        "doc_2041.txt",
+        "doc_2045.txt"
+    ]
+}

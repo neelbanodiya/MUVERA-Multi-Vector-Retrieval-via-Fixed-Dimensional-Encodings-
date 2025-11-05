@@ -1,0 +1,10 @@
+{
+    "query": "When was \u201cSongs of Innocence\u201d by U2 released?",
+    "response": [
+        "doc_8467.txt",
+        "doc_3338.txt",
+        "doc_3340.txt",
+        "doc_5318.txt",
+        "doc_19669.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which team has the most Hall of Fame players among its franchise history?",
+    "response": [
+        "doc_22645.txt",
+        "doc_15505.txt",
+        "doc_9092.txt",
+        "doc_2349.txt",
+        "doc_18850.txt"
+    ]
+}

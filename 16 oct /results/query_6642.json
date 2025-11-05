@@ -1,0 +1,10 @@
+{
+    "query": "What town was Richard Harris born in?",
+    "response": [
+        "doc_3817.txt",
+        "doc_3710.txt",
+        "doc_5104.txt",
+        "doc_18954.txt",
+        "doc_3819.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what year did Elvis record \u201cHeartbreak Hotel\u201d?",
+    "response": [
+        "doc_6183.txt",
+        "doc_6184.txt",
+        "doc_20000.txt",
+        "doc_19668.txt",
+        "doc_13106.txt"
+    ]
+}

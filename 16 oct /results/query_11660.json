@@ -1,0 +1,10 @@
+{
+    "query": "What was the focus of the professor\u2019s work highlighted in the Washington Post article?",
+    "response": [
+        "doc_20608.txt",
+        "doc_20263.txt",
+        "doc_8994.txt",
+        "doc_14412.txt",
+        "doc_8189.txt"
+    ]
+}

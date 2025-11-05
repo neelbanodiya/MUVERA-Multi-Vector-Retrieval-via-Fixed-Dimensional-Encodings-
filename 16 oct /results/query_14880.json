@@ -1,0 +1,10 @@
+{
+    "query": "Who formerly called the Hofburg Palace home?",
+    "response": [
+        "doc_8642.txt",
+        "doc_8636.txt",
+        "doc_8649.txt",
+        "doc_8640.txt",
+        "doc_8648.txt"
+    ]
+}

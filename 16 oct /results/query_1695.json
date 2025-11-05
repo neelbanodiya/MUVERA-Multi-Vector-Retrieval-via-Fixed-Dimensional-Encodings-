@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many English colonists arrived at Savannah in 1733?",
+    "response": [
+        "doc_973.txt",
+        "doc_972.txt",
+        "doc_985.txt",
+        "doc_977.txt",
+        "doc_19077.txt"
+    ]
+}

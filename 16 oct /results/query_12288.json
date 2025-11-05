@@ -1,0 +1,10 @@
+{
+    "query": "In the 1890s, what was Anheuser-Busch\u2019s primary competitor in terms of beer sales?",
+    "response": [
+        "doc_7176.txt",
+        "doc_7171.txt",
+        "doc_7174.txt",
+        "doc_7175.txt",
+        "doc_7172.txt"
+    ]
+}

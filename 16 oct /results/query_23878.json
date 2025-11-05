@@ -1,0 +1,10 @@
+{
+    "query": "What was the origin of the song \u201cLuton Airport\u201d?",
+    "response": [
+        "doc_13852.txt",
+        "doc_2989.txt",
+        "doc_14427.txt",
+        "doc_14515.txt",
+        "doc_11365.txt"
+    ]
+}

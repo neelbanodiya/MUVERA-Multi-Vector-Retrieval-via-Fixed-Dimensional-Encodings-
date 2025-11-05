@@ -1,0 +1,10 @@
+{
+    "query": "Which country requested to participate in some of the provisions of the Schengen acquis in 2000?",
+    "response": [
+        "doc_7288.txt",
+        "doc_7293.txt",
+        "doc_7289.txt",
+        "doc_19034.txt",
+        "doc_11117.txt"
+    ]
+}

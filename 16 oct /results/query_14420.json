@@ -1,0 +1,10 @@
+{
+    "query": "By what year was Carthage founded on the coast of North Africa?",
+    "response": [
+        "doc_8355.txt",
+        "doc_8346.txt",
+        "doc_8350.txt",
+        "doc_8349.txt",
+        "doc_8351.txt"
+    ]
+}

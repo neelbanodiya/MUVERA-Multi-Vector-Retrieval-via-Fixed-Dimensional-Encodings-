@@ -1,0 +1,10 @@
+{
+    "query": "What was commissioned in Paris in 1933?",
+    "response": [
+        "doc_167.txt",
+        "doc_21355.txt",
+        "doc_9675.txt",
+        "doc_1483.txt",
+        "doc_19665.txt"
+    ]
+}

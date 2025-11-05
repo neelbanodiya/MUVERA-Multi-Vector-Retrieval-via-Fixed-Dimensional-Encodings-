@@ -1,0 +1,10 @@
+{
+    "query": "What aspects of scientific advice does the regulation emphasize, and how does EFSA ensure compliance?",
+    "response": [
+        "doc_7100.txt",
+        "doc_7099.txt",
+        "doc_12496.txt",
+        "doc_22797.txt",
+        "doc_9146.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the deadline for submitting tenders for the new ESPEL contract?",
+    "response": [
+        "doc_19814.txt",
+        "doc_17996.txt",
+        "doc_17510.txt",
+        "doc_17527.txt",
+        "doc_17524.txt"
+    ]
+}

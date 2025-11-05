@@ -1,0 +1,10 @@
+{
+    "query": "With whom was Janis Joplin considering joining before joining Big Brother?",
+    "response": [
+        "doc_8015.txt",
+        "doc_8010.txt",
+        "doc_8026.txt",
+        "doc_12337.txt",
+        "doc_22075.txt"
+    ]
+}

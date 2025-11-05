@@ -1,0 +1,10 @@
+{
+    "query": "According to some sources, how many staircases were originally in Knole House?",
+    "response": [
+        "doc_3613.txt",
+        "doc_3612.txt",
+        "doc_3616.txt",
+        "doc_3607.txt",
+        "doc_3609.txt"
+    ]
+}

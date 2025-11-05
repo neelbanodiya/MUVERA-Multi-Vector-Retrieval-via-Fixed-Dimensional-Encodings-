@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, with whom did Bruce Springsteen collaborate onstage, and what role did they play?",
+    "response": [
+        "doc_20900.txt",
+        "doc_3257.txt",
+        "doc_12713.txt",
+        "doc_20896.txt",
+        "doc_3076.txt"
+    ]
+}

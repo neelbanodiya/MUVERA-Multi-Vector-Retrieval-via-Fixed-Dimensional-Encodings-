@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was Jane Austen\u2019s age when she was confirmed?",
+    "response": [
+        "doc_2319.txt",
+        "doc_2318.txt",
+        "doc_2331.txt",
+        "doc_2328.txt",
+        "doc_2320.txt"
+    ]
+}

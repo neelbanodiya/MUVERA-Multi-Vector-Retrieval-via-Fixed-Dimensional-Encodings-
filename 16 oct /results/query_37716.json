@@ -1,0 +1,10 @@
+{
+    "query": "What actor played Superman in the 1978 film?",
+    "response": [
+        "doc_16093.txt",
+        "doc_22118.txt",
+        "doc_13535.txt",
+        "doc_17637.txt",
+        "doc_21372.txt"
+    ]
+}

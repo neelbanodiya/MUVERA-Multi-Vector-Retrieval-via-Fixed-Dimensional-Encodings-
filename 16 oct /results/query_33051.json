@@ -1,0 +1,10 @@
+{
+    "query": "In what city and country were the 1959 Southeast Asian Peninsular Games held?",
+    "response": [
+        "doc_19242.txt",
+        "doc_19243.txt",
+        "doc_15971.txt",
+        "doc_19244.txt",
+        "doc_12600.txt"
+    ]
+}

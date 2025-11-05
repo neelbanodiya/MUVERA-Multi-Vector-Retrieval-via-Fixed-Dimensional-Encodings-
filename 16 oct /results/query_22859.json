@@ -1,0 +1,10 @@
+{
+    "query": "Which countries are being invited to exert pressure regarding the Israel-Syria talks?",
+    "response": [
+        "doc_13164.txt",
+        "doc_13165.txt",
+        "doc_4753.txt",
+        "doc_1988.txt",
+        "doc_14180.txt"
+    ]
+}

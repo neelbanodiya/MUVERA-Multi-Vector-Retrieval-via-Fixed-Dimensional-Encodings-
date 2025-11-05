@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate distance of the Coast to Coast Walk?",
+    "response": [
+        "doc_23505.txt",
+        "doc_11010.txt",
+        "doc_23504.txt",
+        "doc_14210.txt",
+        "doc_8683.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What role did EMSA propose to play in detecting illegal discharges?",
+    "response": [
+        "doc_319.txt",
+        "doc_23649.txt",
+        "doc_23668.txt",
+        "doc_13302.txt",
+        "doc_7813.txt"
+    ]
+}

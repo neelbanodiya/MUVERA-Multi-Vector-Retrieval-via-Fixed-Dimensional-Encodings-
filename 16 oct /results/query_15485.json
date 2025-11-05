@@ -1,0 +1,10 @@
+{
+    "query": "When did the students in *The Paper Chase* graduate, according to the provided text?",
+    "response": [
+        "doc_13110.txt",
+        "doc_8989.txt",
+        "doc_21972.txt",
+        "doc_3257.txt",
+        "doc_6746.txt"
+    ]
+}

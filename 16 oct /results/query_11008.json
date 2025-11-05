@@ -1,0 +1,10 @@
+{
+    "query": "What was the original title of the song \u201cWe\u2019ve Got Tonight\u201d before it became the album\u2019s title track?",
+    "response": [
+        "doc_5278.txt",
+        "doc_14727.txt",
+        "doc_16865.txt",
+        "doc_13613.txt",
+        "doc_8008.txt"
+    ]
+}

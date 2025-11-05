@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission currently working on regarding state aid to European ports?",
+    "response": [
+        "doc_12881.txt",
+        "doc_19655.txt",
+        "doc_8147.txt",
+        "doc_23632.txt",
+        "doc_21030.txt"
+    ]
+}

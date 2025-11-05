@@ -1,0 +1,10 @@
+{
+    "query": "When did Danish health authorities first recognize a case of work-related cancer linked to aircraft engine emissions?",
+    "response": [
+        "doc_20221.txt",
+        "doc_12680.txt",
+        "doc_12679.txt",
+        "doc_11365.txt",
+        "doc_14515.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was Guinevere\u2019s situation related to Lancelot\u2019s actions?",
+    "response": [
+        "doc_1849.txt",
+        "doc_1847.txt",
+        "doc_1843.txt",
+        "doc_1834.txt",
+        "doc_14827.txt"
+    ]
+}

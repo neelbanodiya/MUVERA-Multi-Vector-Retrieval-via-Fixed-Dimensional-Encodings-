@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what musical genre was popular among African Americans during the mid-century mambo and Cubop period?",
+    "response": [
+        "doc_7426.txt",
+        "doc_906.txt",
+        "doc_10112.txt",
+        "doc_20896.txt",
+        "doc_3842.txt"
+    ]
+}

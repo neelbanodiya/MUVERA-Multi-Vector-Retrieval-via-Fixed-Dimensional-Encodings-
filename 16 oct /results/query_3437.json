@@ -1,0 +1,10 @@
+{
+    "query": "What was the cause of John Heinz\u2019s death?",
+    "response": [
+        "doc_2032.txt",
+        "doc_2041.txt",
+        "doc_2034.txt",
+        "doc_2037.txt",
+        "doc_2038.txt"
+    ]
+}

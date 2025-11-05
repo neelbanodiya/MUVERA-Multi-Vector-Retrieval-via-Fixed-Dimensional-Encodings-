@@ -1,0 +1,10 @@
+{
+    "query": "What type of organization is The Salvation Army described as?",
+    "response": [
+        "doc_4756.txt",
+        "doc_5557.txt",
+        "doc_23436.txt",
+        "doc_19463.txt",
+        "doc_21020.txt"
+    ]
+}

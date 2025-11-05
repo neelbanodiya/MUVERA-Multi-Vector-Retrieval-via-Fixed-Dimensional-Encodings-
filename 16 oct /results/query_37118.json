@@ -1,0 +1,10 @@
+{
+    "query": "What groups of immigrants are specifically mentioned as originating from Britain and other settler colonies (e.g., South Africa)?",
+    "response": [
+        "doc_8789.txt",
+        "doc_13510.txt",
+        "doc_14822.txt",
+        "doc_6623.txt",
+        "doc_8790.txt"
+    ]
+}

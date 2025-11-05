@@ -1,0 +1,10 @@
+{
+    "query": "What happened at Fort Griswold on September 6, 1781?",
+    "response": [
+        "doc_10407.txt",
+        "doc_10413.txt",
+        "doc_10409.txt",
+        "doc_10423.txt",
+        "doc_10420.txt"
+    ]
+}

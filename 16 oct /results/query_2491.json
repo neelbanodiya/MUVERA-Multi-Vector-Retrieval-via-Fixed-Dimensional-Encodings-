@@ -1,0 +1,10 @@
+{
+    "query": "According to the New Yorker article, what was Saul Bellow\u2019s initial job?",
+    "response": [
+        "doc_7152.txt",
+        "doc_22773.txt",
+        "doc_12840.txt",
+        "doc_7877.txt",
+        "doc_12227.txt"
+    ]
+}

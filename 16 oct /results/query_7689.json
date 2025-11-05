@@ -1,0 +1,10 @@
+{
+    "query": "How many Emmy Awards did Michael Richards win for his role in *Seinfeld*?",
+    "response": [
+        "doc_4465.txt",
+        "doc_4458.txt",
+        "doc_4461.txt",
+        "doc_4470.txt",
+        "doc_4474.txt"
+    ]
+}

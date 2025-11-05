@@ -1,0 +1,10 @@
+{
+    "query": "How much money was raised for the first season in Los Angeles?",
+    "response": [
+        "doc_8403.txt",
+        "doc_2230.txt",
+        "doc_14549.txt",
+        "doc_10560.txt",
+        "doc_20207.txt"
+    ]
+}

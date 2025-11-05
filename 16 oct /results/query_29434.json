@@ -1,0 +1,10 @@
+{
+    "query": "What are the subsidy amounts for severely disadvantaged areas according to the UK model?",
+    "response": [
+        "doc_17125.txt",
+        "doc_22219.txt",
+        "doc_22985.txt",
+        "doc_22217.txt",
+        "doc_22216.txt"
+    ]
+}

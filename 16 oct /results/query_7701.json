@@ -1,0 +1,10 @@
+{
+    "query": "How many Emmy Awards did *Seinfeld* receive?",
+    "response": [
+        "doc_4458.txt",
+        "doc_4461.txt",
+        "doc_4470.txt",
+        "doc_4471.txt",
+        "doc_4464.txt"
+    ]
+}

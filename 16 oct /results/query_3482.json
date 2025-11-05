@@ -1,0 +1,10 @@
+{
+    "query": "Which MEPs are attending the visit of a Working Group to Paraguay and Uruguay related to the Mercosur Parliament?",
+    "response": [
+        "doc_2053.txt",
+        "doc_2059.txt",
+        "doc_2056.txt",
+        "doc_2057.txt",
+        "doc_8028.txt"
+    ]
+}

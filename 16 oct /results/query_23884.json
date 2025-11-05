@@ -1,0 +1,10 @@
+{
+    "query": "When was Levi Strauss & Co. founded?",
+    "response": [
+        "doc_13854.txt",
+        "doc_21992.txt",
+        "doc_1718.txt",
+        "doc_22774.txt",
+        "doc_8697.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which musician performed \u201cDust My Broom\u201d live with The Coast to Coast Blues Band in 1955?",
+    "response": [
+        "doc_18862.txt",
+        "doc_20000.txt",
+        "doc_9810.txt",
+        "doc_8710.txt",
+        "doc_20001.txt"
+    ]
+}

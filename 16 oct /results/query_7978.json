@@ -1,0 +1,10 @@
+{
+    "query": "When was the international conference on refugee needs in Iraq scheduled to take place?",
+    "response": [
+        "doc_4628.txt",
+        "doc_5073.txt",
+        "doc_3836.txt",
+        "doc_19505.txt",
+        "doc_22187.txt"
+    ]
+}

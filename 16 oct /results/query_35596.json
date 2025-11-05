@@ -1,0 +1,10 @@
+{
+    "query": "Under what circumstances can the Commission adopt precautionary measures immediately, as outlined in the text?",
+    "response": [
+        "doc_20754.txt",
+        "doc_20752.txt",
+        "doc_6171.txt",
+        "doc_20775.txt",
+        "doc_20780.txt"
+    ]
+}

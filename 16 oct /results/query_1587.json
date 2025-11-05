@@ -1,0 +1,10 @@
+{
+    "query": "What is the average number of years of life expectancy in Oregon in 2002?",
+    "response": [
+        "doc_10830.txt",
+        "doc_8656.txt",
+        "doc_369.txt",
+        "doc_2338.txt",
+        "doc_20551.txt"
+    ]
+}

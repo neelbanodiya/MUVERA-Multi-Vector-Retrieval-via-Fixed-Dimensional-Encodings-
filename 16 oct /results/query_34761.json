@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the El Rancho Vegas open on the Las Vegas Strip?",
+    "response": [
+        "doc_23833.txt",
+        "doc_16829.txt",
+        "doc_23418.txt",
+        "doc_16830.txt",
+        "doc_16836.txt"
+    ]
+}

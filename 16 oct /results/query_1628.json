@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the rationing in the United States include all imported foods, and what impact did this have on food availability?",
+    "response": [
+        "doc_23979.txt",
+        "doc_20123.txt",
+        "doc_926.txt",
+        "doc_20122.txt",
+        "doc_14095.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What other project was Ellsworth Phelps involved in, as mentioned in the passage?",
+    "response": [
+        "doc_11308.txt",
+        "doc_15193.txt",
+        "doc_21261.txt",
+        "doc_15201.txt",
+        "doc_2177.txt"
+    ]
+}

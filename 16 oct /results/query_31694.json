@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the film *Goodfellas* released, and who directed it?",
+    "response": [
+        "doc_402.txt",
+        "doc_14780.txt",
+        "doc_15484.txt",
+        "doc_1812.txt",
+        "doc_14626.txt"
+    ]
+}

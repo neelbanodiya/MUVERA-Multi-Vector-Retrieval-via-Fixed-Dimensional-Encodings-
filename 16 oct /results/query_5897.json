@@ -1,0 +1,10 @@
+{
+    "query": "Which countries have notified their intention to participate in the adoption and application of this Regulation, as stated in the passage?",
+    "response": [
+        "doc_12932.txt",
+        "doc_7293.txt",
+        "doc_10365.txt",
+        "doc_14848.txt",
+        "doc_8385.txt"
+    ]
+}

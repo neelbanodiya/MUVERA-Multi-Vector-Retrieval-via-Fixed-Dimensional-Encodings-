@@ -1,0 +1,10 @@
+{
+    "query": "What was the outcome of the vote regarding the topic of alleged mass graves in Indian-administered Kashmir?",
+    "response": [
+        "doc_19378.txt",
+        "doc_11113.txt",
+        "doc_3539.txt",
+        "doc_19295.txt",
+        "doc_9673.txt"
+    ]
+}

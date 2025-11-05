@@ -1,0 +1,10 @@
+{
+    "query": "When was Beethoven\u2019s Ninth Symphony conceived?",
+    "response": [
+        "doc_14550.txt",
+        "doc_14552.txt",
+        "doc_14553.txt",
+        "doc_14560.txt",
+        "doc_14563.txt"
+    ]
+}

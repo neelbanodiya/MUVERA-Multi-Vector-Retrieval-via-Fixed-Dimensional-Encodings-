@@ -1,0 +1,10 @@
+{
+    "query": "What was the initial response of Amnesty International to the Merkel-Samsom plan?",
+    "response": [
+        "doc_1440.txt",
+        "doc_15138.txt",
+        "doc_3599.txt",
+        "doc_5822.txt",
+        "doc_15139.txt"
+    ]
+}

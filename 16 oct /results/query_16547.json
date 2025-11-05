@@ -1,0 +1,10 @@
+{
+    "query": "Which ocean lies to the north of the Bering Sea, according to the provided text?",
+    "response": [
+        "doc_9610.txt",
+        "doc_9611.txt",
+        "doc_9613.txt",
+        "doc_9621.txt",
+        "doc_9609.txt"
+    ]
+}

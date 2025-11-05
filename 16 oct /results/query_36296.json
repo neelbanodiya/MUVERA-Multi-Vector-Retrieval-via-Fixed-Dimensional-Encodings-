@@ -1,0 +1,10 @@
+{
+    "query": "What award did John Gilbert receive for his work on \u201cHacksaw Ridge\u201d?",
+    "response": [
+        "doc_21158.txt",
+        "doc_5762.txt",
+        "doc_2264.txt",
+        "doc_24145.txt",
+        "doc_22250.txt"
+    ]
+}

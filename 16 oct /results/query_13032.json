@@ -1,0 +1,10 @@
+{
+    "query": "What did Michael Conroy say about Michael Jackson\u2019s throwing ability?",
+    "response": [
+        "doc_7609.txt",
+        "doc_7616.txt",
+        "doc_7623.txt",
+        "doc_7604.txt",
+        "doc_7605.txt"
+    ]
+}

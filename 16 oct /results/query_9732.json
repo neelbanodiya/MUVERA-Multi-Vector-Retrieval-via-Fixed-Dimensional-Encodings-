@@ -1,0 +1,10 @@
+{
+    "query": "As of what date did airlines that fail to meet safety requirements appear on an EU-wide blacklist?",
+    "response": [
+        "doc_11397.txt",
+        "doc_5616.txt",
+        "doc_5651.txt",
+        "doc_12419.txt",
+        "doc_6984.txt"
+    ]
+}

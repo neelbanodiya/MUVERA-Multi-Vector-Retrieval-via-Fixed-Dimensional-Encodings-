@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject of the recommendation proposed by Hazan Adeline?",
+    "response": [
+        "doc_7842.txt",
+        "doc_20097.txt",
+        "doc_17371.txt",
+        "doc_22340.txt",
+        "doc_10031.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what city is the Beijing International MBA at Peking University located?",
+    "response": [
+        "doc_20399.txt",
+        "doc_11490.txt",
+        "doc_70.txt",
+        "doc_36.txt",
+        "doc_9023.txt"
+    ]
+}

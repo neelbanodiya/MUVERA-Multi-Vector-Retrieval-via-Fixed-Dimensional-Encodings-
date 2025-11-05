@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is a common portrayal of coyotes in Native American tales?",
+    "response": [
+        "doc_19205.txt",
+        "doc_19213.txt",
+        "doc_19212.txt",
+        "doc_19211.txt",
+        "doc_19215.txt"
+    ]
+}

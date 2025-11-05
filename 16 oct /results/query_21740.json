@@ -1,0 +1,10 @@
+{
+    "query": "What strategy did Franklin D. Roosevelt implement during World War II?",
+    "response": [
+        "doc_12534.txt",
+        "doc_12523.txt",
+        "doc_12518.txt",
+        "doc_9953.txt",
+        "doc_13738.txt"
+    ]
+}

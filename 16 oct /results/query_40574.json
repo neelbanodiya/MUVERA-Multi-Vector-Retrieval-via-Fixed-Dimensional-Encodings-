@@ -1,0 +1,10 @@
+{
+    "query": "What is a key message emphasized in the European road safety action programme regarding states preparing for EU accession?",
+    "response": [
+        "doc_21789.txt",
+        "doc_10911.txt",
+        "doc_23721.txt",
+        "doc_23125.txt",
+        "doc_11105.txt"
+    ]
+}

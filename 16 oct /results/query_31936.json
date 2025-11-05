@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Nevada gubernatorial election occur?",
+    "response": [
+        "doc_15078.txt",
+        "doc_18606.txt",
+        "doc_18607.txt",
+        "doc_15079.txt",
+        "doc_9860.txt"
+    ]
+}

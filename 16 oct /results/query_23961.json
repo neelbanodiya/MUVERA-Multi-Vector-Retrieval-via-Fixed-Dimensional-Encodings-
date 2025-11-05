@@ -1,0 +1,10 @@
+{
+    "query": "What was the proposed solution to prevent conflict with China?",
+    "response": [
+        "doc_18118.txt",
+        "doc_18122.txt",
+        "doc_18366.txt",
+        "doc_18124.txt",
+        "doc_18125.txt"
+    ]
+}

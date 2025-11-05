@@ -1,0 +1,10 @@
+{
+    "query": "What are some traditional Southern foods mentioned in the provided text?",
+    "response": [
+        "doc_7080.txt",
+        "doc_7081.txt",
+        "doc_8927.txt",
+        "doc_7094.txt",
+        "doc_7092.txt"
+    ]
+}

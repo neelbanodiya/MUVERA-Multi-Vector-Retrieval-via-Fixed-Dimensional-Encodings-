@@ -1,0 +1,10 @@
+{
+    "query": "In which films did Walter Matthau previously portray characters similar to his role in \u201cHanging Up\u201d?",
+    "response": [
+        "doc_18098.txt",
+        "doc_18099.txt",
+        "doc_18097.txt",
+        "doc_18482.txt",
+        "doc_17778.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What were the titles of Jane Austen\u2019s first three novels?",
+    "response": [
+        "doc_2320.txt",
+        "doc_2321.txt",
+        "doc_2317.txt",
+        "doc_2326.txt",
+        "doc_2322.txt"
+    ]
+}

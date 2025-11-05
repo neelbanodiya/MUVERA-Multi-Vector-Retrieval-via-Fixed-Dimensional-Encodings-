@@ -1,0 +1,10 @@
+{
+    "query": "According to the article, how long does it take to walk from a hostel to the Cathedral?",
+    "response": [
+        "doc_21440.txt",
+        "doc_20126.txt",
+        "doc_9316.txt",
+        "doc_21614.txt",
+        "doc_7607.txt"
+    ]
+}

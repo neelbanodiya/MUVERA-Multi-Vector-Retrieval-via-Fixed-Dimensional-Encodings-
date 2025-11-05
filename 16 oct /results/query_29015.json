@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is Curacao known for regarding its coastline?",
+    "response": [
+        "doc_16908.txt",
+        "doc_16909.txt",
+        "doc_16910.txt",
+        "doc_16905.txt",
+        "doc_16911.txt"
+    ]
+}

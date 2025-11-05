@@ -1,0 +1,10 @@
+{
+    "query": "What did the person answering about reading Robinson Crusoe state they had read it?",
+    "response": [
+        "doc_17754.txt",
+        "doc_18461.txt",
+        "doc_17764.txt",
+        "doc_17763.txt",
+        "doc_20539.txt"
+    ]
+}

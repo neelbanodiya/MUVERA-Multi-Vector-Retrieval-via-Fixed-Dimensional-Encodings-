@@ -1,0 +1,10 @@
+{
+    "query": "Where did the Continental Army first occupy West Point, New York?",
+    "response": [
+        "doc_12979.txt",
+        "doc_4299.txt",
+        "doc_4301.txt",
+        "doc_10419.txt",
+        "doc_4300.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which country put a man in orbit before the United States?",
+    "response": [
+        "doc_22393.txt",
+        "doc_164.txt",
+        "doc_15729.txt",
+        "doc_15734.txt",
+        "doc_7918.txt"
+    ]
+}

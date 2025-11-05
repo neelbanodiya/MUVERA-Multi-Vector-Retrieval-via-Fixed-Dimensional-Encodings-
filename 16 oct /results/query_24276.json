@@ -1,0 +1,10 @@
+{
+    "query": "Who was Ralph Waldo Ellison named after?",
+    "response": [
+        "doc_14086.txt",
+        "doc_14073.txt",
+        "doc_14087.txt",
+        "doc_14076.txt",
+        "doc_14074.txt"
+    ]
+}

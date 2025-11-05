@@ -1,0 +1,10 @@
+{
+    "query": "What cuisines are mentioned as being available in Kuala Lumpur?",
+    "response": [
+        "doc_5806.txt",
+        "doc_16761.txt",
+        "doc_5807.txt",
+        "doc_15787.txt",
+        "doc_10439.txt"
+    ]
+}

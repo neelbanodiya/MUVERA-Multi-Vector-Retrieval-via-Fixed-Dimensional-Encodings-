@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, which Greek drama is considered the most celebrated?",
+    "response": [
+        "doc_20486.txt",
+        "doc_8263.txt",
+        "doc_8264.txt",
+        "doc_20497.txt",
+        "doc_11053.txt"
+    ]
+}

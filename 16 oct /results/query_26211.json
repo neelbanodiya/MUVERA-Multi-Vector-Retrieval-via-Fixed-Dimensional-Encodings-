@@ -1,0 +1,10 @@
+{
+    "query": "To whom does William \u201cBilly\u201d Brown report directly within the U.N.?",
+    "response": [
+        "doc_12840.txt",
+        "doc_12833.txt",
+        "doc_20959.txt",
+        "doc_13330.txt",
+        "doc_20141.txt"
+    ]
+}

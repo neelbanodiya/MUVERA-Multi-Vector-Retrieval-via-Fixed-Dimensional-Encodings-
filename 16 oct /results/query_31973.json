@@ -1,0 +1,10 @@
+{
+    "query": "What were the names of the three children played by Zachery Ty Bryan, Taran Noah Smith, and Jonathan Taylor Thomas on *Home Improvement*?",
+    "response": [
+        "doc_18632.txt",
+        "doc_18631.txt",
+        "doc_18629.txt",
+        "doc_18627.txt",
+        "doc_18634.txt"
+    ]
+}

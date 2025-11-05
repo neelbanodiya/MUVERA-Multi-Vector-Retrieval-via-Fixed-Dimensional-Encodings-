@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of EU GDP does tourism account for?",
+    "response": [
+        "doc_7949.txt",
+        "doc_21789.txt",
+        "doc_21790.txt",
+        "doc_18515.txt",
+        "doc_17600.txt"
+    ]
+}

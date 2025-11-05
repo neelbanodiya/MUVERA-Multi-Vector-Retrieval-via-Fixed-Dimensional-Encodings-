@@ -1,0 +1,10 @@
+{
+    "query": "What is the significance of \u201cAll Hallows Eve\u201d in relation to All Saints Day and All Souls Day?",
+    "response": [
+        "doc_100.txt",
+        "doc_93.txt",
+        "doc_95.txt",
+        "doc_98.txt",
+        "doc_107.txt"
+    ]
+}

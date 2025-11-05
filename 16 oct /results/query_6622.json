@@ -1,0 +1,10 @@
+{
+    "query": "When was the proposal for the regulation adopted by the Commission?",
+    "response": [
+        "doc_12069.txt",
+        "doc_22298.txt",
+        "doc_12068.txt",
+        "doc_23622.txt",
+        "doc_6983.txt"
+    ]
+}

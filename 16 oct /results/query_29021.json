@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what characteristic did some dinosaurs, like brachiosaurs and Mamenchisaurus, possess?",
+    "response": [
+        "doc_16918.txt",
+        "doc_16914.txt",
+        "doc_16913.txt",
+        "doc_16919.txt",
+        "doc_16916.txt"
+    ]
+}

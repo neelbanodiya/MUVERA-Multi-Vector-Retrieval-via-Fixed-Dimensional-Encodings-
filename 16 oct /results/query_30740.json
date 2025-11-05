@@ -1,0 +1,10 @@
+{
+    "query": "What is \u201cMelvin Goes to Dinner\u201d based on?",
+    "response": [
+        "doc_8926.txt",
+        "doc_8924.txt",
+        "doc_8923.txt",
+        "doc_9714.txt",
+        "doc_8913.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Alexander Calder commissioned to paint a DC-8 airplane?",
+    "response": [
+        "doc_21889.txt",
+        "doc_21894.txt",
+        "doc_21892.txt",
+        "doc_21893.txt",
+        "doc_21888.txt"
+    ]
+}

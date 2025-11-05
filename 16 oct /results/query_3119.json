@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the 96th Grey Cup held, and where did it take place?",
+    "response": [
+        "doc_1901.txt",
+        "doc_1902.txt",
+        "doc_1883.txt",
+        "doc_10378.txt",
+        "doc_3187.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Can you find any references to a park called \"Monster Park\" located outside of Arizona?",
+    "response": [
+        "doc_9327.txt",
+        "doc_9332.txt",
+        "doc_9324.txt",
+        "doc_2498.txt",
+        "doc_9333.txt"
+    ]
+}

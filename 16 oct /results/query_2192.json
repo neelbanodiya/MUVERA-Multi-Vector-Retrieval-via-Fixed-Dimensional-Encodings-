@@ -1,0 +1,10 @@
+{
+    "query": "What are the kings of the Vth and IVth dynasties famous as?",
+    "response": [
+        "doc_1296.txt",
+        "doc_506.txt",
+        "doc_23749.txt",
+        "doc_7204.txt",
+        "doc_7324.txt"
+    ]
+}

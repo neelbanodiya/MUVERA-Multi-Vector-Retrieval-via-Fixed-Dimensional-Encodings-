@@ -1,0 +1,10 @@
+{
+    "query": "What are the detailed rules being laid down for the implementation of this Regulation, excluding measures designed to amend non-essential elements?",
+    "response": [
+        "doc_8887.txt",
+        "doc_20762.txt",
+        "doc_3429.txt",
+        "doc_20815.txt",
+        "doc_12497.txt"
+    ]
+}

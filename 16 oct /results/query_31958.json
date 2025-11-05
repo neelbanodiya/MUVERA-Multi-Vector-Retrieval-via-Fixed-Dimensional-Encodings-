@@ -1,0 +1,10 @@
+{
+    "query": "Which figure proposed a date of October 23, 4004 BC for the creation of man?",
+    "response": [
+        "doc_18616.txt",
+        "doc_18612.txt",
+        "doc_18617.txt",
+        "doc_18615.txt",
+        "doc_18621.txt"
+    ]
+}

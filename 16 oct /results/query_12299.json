@@ -1,0 +1,10 @@
+{
+    "query": "What was Lone Star beer marketed as in Texas?",
+    "response": [
+        "doc_7175.txt",
+        "doc_7176.txt",
+        "doc_7178.txt",
+        "doc_7173.txt",
+        "doc_7177.txt"
+    ]
+}

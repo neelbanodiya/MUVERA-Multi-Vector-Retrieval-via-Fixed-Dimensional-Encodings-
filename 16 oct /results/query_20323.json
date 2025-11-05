@@ -1,0 +1,10 @@
+{
+    "query": "What was \u2018The English Manner\u2019 considered in Angola twenty years ago?",
+    "response": [
+        "doc_21723.txt",
+        "doc_10949.txt",
+        "doc_953.txt",
+        "doc_21722.txt",
+        "doc_23973.txt"
+    ]
+}

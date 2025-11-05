@@ -1,0 +1,10 @@
+{
+    "query": "How long was Jennifer here before she started working at MOXIE Theatre?",
+    "response": [
+        "doc_22139.txt",
+        "doc_5318.txt",
+        "doc_20960.txt",
+        "doc_7073.txt",
+        "doc_14831.txt"
+    ]
+}

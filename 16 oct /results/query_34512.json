@@ -1,0 +1,10 @@
+{
+    "query": "How many games did sophomore Malone play in during the 2014 season?",
+    "response": [
+        "doc_6721.txt",
+        "doc_18334.txt",
+        "doc_6720.txt",
+        "doc_6719.txt",
+        "doc_2008.txt"
+    ]
+}

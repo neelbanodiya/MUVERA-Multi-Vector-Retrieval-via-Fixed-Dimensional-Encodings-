@@ -1,0 +1,10 @@
+{
+    "query": "What action does the House call for regarding those responsible for starting forest fires?",
+    "response": [
+        "doc_9175.txt",
+        "doc_13209.txt",
+        "doc_9144.txt",
+        "doc_9029.txt",
+        "doc_13289.txt"
+    ]
+}

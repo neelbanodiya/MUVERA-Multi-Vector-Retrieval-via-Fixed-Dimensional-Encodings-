@@ -1,0 +1,10 @@
+{
+    "query": "Which artists did Starrah co-write songs for, including Rihanna and Drake?",
+    "response": [
+        "doc_8120.txt",
+        "doc_14724.txt",
+        "doc_128.txt",
+        "doc_3076.txt",
+        "doc_901.txt"
+    ]
+}

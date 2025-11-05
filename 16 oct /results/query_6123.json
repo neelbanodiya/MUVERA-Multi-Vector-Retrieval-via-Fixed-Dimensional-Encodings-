@@ -1,0 +1,10 @@
+{
+    "query": "When did Ronald Reagan die, and what was his age at the time?",
+    "response": [
+        "doc_3571.txt",
+        "doc_3563.txt",
+        "doc_3566.txt",
+        "doc_3569.txt",
+        "doc_3564.txt"
+    ]
+}

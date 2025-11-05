@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Juan Ponce de Le\u00f3n land in Florida?",
+    "response": [
+        "doc_14305.txt",
+        "doc_21652.txt",
+        "doc_857.txt",
+        "doc_19476.txt",
+        "doc_16629.txt"
+    ]
+}

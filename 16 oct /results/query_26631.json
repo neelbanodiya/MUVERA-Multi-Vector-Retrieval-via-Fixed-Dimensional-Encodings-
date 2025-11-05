@@ -1,0 +1,10 @@
+{
+    "query": "Who played Abraham Lincoln in D.W. Griffith\u2019s *The Birth of a Nation*?",
+    "response": [
+        "doc_15486.txt",
+        "doc_15482.txt",
+        "doc_15489.txt",
+        "doc_15481.txt",
+        "doc_15483.txt"
+    ]
+}

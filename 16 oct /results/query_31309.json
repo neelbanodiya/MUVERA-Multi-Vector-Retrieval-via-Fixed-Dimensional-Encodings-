@@ -1,0 +1,10 @@
+{
+    "query": "When will the European Parliament launch its campaign for the June election?",
+    "response": [
+        "doc_18264.txt",
+        "doc_16886.txt",
+        "doc_4599.txt",
+        "doc_15131.txt",
+        "doc_15390.txt"
+    ]
+}

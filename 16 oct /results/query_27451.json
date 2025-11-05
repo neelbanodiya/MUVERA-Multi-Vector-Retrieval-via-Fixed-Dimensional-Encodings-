@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission currently doing to address the challenges highlighted by the Tsunami crisis in South East Asia?",
+    "response": [
+        "doc_15950.txt",
+        "doc_24205.txt",
+        "doc_19034.txt",
+        "doc_4550.txt",
+        "doc_454.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where is The Shops at Prudential Center located?",
+    "response": [
+        "doc_2.txt",
+        "doc_5.txt",
+        "doc_11463.txt",
+        "doc_9778.txt",
+        "doc_10667.txt"
+    ]
+}

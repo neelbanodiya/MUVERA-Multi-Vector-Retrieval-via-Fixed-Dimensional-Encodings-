@@ -1,0 +1,10 @@
+{
+    "query": "What was Kat attempting to do?",
+    "response": [
+        "doc_9561.txt",
+        "doc_14546.txt",
+        "doc_7943.txt",
+        "doc_14524.txt",
+        "doc_14526.txt"
+    ]
+}

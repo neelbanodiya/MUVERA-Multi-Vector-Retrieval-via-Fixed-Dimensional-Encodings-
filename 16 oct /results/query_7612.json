@@ -1,0 +1,10 @@
+{
+    "query": "Who was the Rapporteur for the IMCO vote on consumer protection?",
+    "response": [
+        "doc_1031.txt",
+        "doc_22975.txt",
+        "doc_23718.txt",
+        "doc_941.txt",
+        "doc_11968.txt"
+    ]
+}

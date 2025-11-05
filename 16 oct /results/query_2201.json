@@ -1,0 +1,10 @@
+{
+    "query": "Who provided a significant contribution to the study of ancient Egyptian funerary texts, as mentioned in the passage?",
+    "response": [
+        "doc_1299.txt",
+        "doc_1294.txt",
+        "doc_1306.txt",
+        "doc_1310.txt",
+        "doc_1298.txt"
+    ]
+}

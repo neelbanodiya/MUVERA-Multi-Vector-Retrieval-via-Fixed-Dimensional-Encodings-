@@ -1,0 +1,10 @@
+{
+    "query": "What are the defining characteristics of Aslan\u2019s Country, according to the passage?",
+    "response": [
+        "doc_1985.txt",
+        "doc_8789.txt",
+        "doc_15766.txt",
+        "doc_6431.txt",
+        "doc_20390.txt"
+    ]
+}

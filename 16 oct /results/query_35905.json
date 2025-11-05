@@ -1,0 +1,10 @@
+{
+    "query": "In what musical film did Walken briefly return to dancing?",
+    "response": [
+        "doc_18859.txt",
+        "doc_13444.txt",
+        "doc_7026.txt",
+        "doc_10594.txt",
+        "doc_13449.txt"
+    ]
+}

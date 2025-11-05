@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject of the 2014 feature film *Walt Before Mickey*?",
+    "response": [
+        "doc_17197.txt",
+        "doc_17191.txt",
+        "doc_17200.txt",
+        "doc_17190.txt",
+        "doc_17198.txt"
+    ]
+}

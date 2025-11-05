@@ -1,0 +1,10 @@
+{
+    "query": "What is the BPM of the \"Alive By Kim Walker-Smith\" album?",
+    "response": [
+        "doc_20047.txt",
+        "doc_20046.txt",
+        "doc_128.txt",
+        "doc_19668.txt",
+        "doc_3339.txt"
+    ]
+}

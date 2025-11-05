@@ -1,0 +1,10 @@
+{
+    "query": "What is the subject of Mr. Christensen's opinion?",
+    "response": [
+        "doc_15532.txt",
+        "doc_21660.txt",
+        "doc_15901.txt",
+        "doc_9169.txt",
+        "doc_5327.txt"
+    ]
+}

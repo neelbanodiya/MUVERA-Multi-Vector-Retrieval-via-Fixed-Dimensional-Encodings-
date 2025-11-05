@@ -1,0 +1,10 @@
+{
+    "query": "What was the deepest point of Crater Lake established by sonar readings in 1959?",
+    "response": [
+        "doc_3321.txt",
+        "doc_3323.txt",
+        "doc_3322.txt",
+        "doc_3324.txt",
+        "doc_3326.txt"
+    ]
+}

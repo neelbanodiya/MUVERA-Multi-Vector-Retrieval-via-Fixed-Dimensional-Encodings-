@@ -1,0 +1,10 @@
+{
+    "query": "When did Sir Edward Bullard pass away?",
+    "response": [
+        "doc_22260.txt",
+        "doc_22257.txt",
+        "doc_7321.txt",
+        "doc_7628.txt",
+        "doc_7324.txt"
+    ]
+}

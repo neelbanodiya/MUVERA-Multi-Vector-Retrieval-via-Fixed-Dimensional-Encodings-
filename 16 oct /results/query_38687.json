@@ -1,0 +1,10 @@
+{
+    "query": "Which band released the song \u201cA Breathtaking Guy\u201d?",
+    "response": [
+        "doc_22674.txt",
+        "doc_12573.txt",
+        "doc_5370.txt",
+        "doc_12570.txt",
+        "doc_23466.txt"
+    ]
+}

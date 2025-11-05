@@ -1,0 +1,10 @@
+{
+    "query": "Through which body of water does the Persian Gulf connect to the Indian Ocean?",
+    "response": [
+        "doc_22943.txt",
+        "doc_22942.txt",
+        "doc_22947.txt",
+        "doc_22937.txt",
+        "doc_22945.txt"
+    ]
+}

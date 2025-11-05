@@ -1,0 +1,10 @@
+{
+    "query": "What geographical feature is described as \u201cshimmering Painted Desert\u201d in relation to the Grand Canyon?",
+    "response": [
+        "doc_9325.txt",
+        "doc_9326.txt",
+        "doc_9327.txt",
+        "doc_7788.txt",
+        "doc_4336.txt"
+    ]
+}

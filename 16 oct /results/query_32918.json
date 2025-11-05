@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Uganda Commercial Bank in 2001?",
+    "response": [
+        "doc_19175.txt",
+        "doc_1314.txt",
+        "doc_4029.txt",
+        "doc_3210.txt",
+        "doc_10861.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was the meeting Mr. Van Rompuy attended prior to the Bilderberg conference scheduled in relation to his invitation to the conference?",
+    "response": [
+        "doc_1011.txt",
+        "doc_16672.txt",
+        "doc_22709.txt",
+        "doc_10525.txt",
+        "doc_13873.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the Gila monster\u2019s native geographic range?",
+    "response": [
+        "doc_12294.txt",
+        "doc_10611.txt",
+        "doc_12298.txt",
+        "doc_1389.txt",
+        "doc_10612.txt"
+    ]
+}

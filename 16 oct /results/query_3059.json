@@ -1,0 +1,10 @@
+{
+    "query": "In the Trinity University document, what are the types of sample spaces discussed in the three examples?",
+    "response": [
+        "doc_5308.txt",
+        "doc_5307.txt",
+        "doc_18277.txt",
+        "doc_19706.txt",
+        "doc_23318.txt"
+    ]
+}

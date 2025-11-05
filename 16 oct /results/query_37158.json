@@ -1,0 +1,10 @@
+{
+    "query": "Who succeeded Willy Brandt as Chancellor of the Federal Republic of Germany?",
+    "response": [
+        "doc_21736.txt",
+        "doc_21730.txt",
+        "doc_21735.txt",
+        "doc_21731.txt",
+        "doc_21738.txt"
+    ]
+}

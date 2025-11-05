@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the documents, what theory was proposed by Muslim scholars regarding the structure of the universe?",
+    "response": [
+        "doc_16521.txt",
+        "doc_16510.txt",
+        "doc_13992.txt",
+        "doc_16522.txt",
+        "doc_16523.txt"
+    ]
+}

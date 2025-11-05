@@ -1,0 +1,10 @@
+{
+    "query": "According to Open Library, in what year was \u201cTwo Tales of the Sea: Herman Melville\u2019s Moby Dick/the Rime of the Ancient Mariner\u201d first published?",
+    "response": [
+        "doc_22567.txt",
+        "doc_591.txt",
+        "doc_18453.txt",
+        "doc_18455.txt",
+        "doc_20018.txt"
+    ]
+}

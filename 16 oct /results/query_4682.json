@@ -1,0 +1,10 @@
+{
+    "query": "During which years was Philadelphia the capital of the United States?",
+    "response": [
+        "doc_2710.txt",
+        "doc_2708.txt",
+        "doc_2711.txt",
+        "doc_2712.txt",
+        "doc_2713.txt"
+    ]
+}

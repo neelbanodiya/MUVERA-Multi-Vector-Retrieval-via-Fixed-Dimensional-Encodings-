@@ -1,0 +1,10 @@
+{
+    "query": "What was Frosty made of?",
+    "response": [
+        "doc_6150.txt",
+        "doc_11939.txt",
+        "doc_8912.txt",
+        "doc_6162.txt",
+        "doc_6155.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When did Janis Joplin leave Texas?",
+    "response": [
+        "doc_1128.txt",
+        "doc_8020.txt",
+        "doc_8012.txt",
+        "doc_8011.txt",
+        "doc_1129.txt"
+    ]
+}

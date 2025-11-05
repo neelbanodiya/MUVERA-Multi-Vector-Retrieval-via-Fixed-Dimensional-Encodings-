@@ -1,0 +1,10 @@
+{
+    "query": "What type of services does City Cruises provide on the River Thames?",
+    "response": [
+        "doc_14641.txt",
+        "doc_85.txt",
+        "doc_14514.txt",
+        "doc_84.txt",
+        "doc_15582.txt"
+    ]
+}

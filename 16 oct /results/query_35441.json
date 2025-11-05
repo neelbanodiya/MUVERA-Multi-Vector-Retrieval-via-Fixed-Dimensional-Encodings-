@@ -1,0 +1,10 @@
+{
+    "query": "What is Nigeria\u2019s ranking in terms of global oil production?",
+    "response": [
+        "doc_20649.txt",
+        "doc_10385.txt",
+        "doc_3281.txt",
+        "doc_2030.txt",
+        "doc_10932.txt"
+    ]
+}

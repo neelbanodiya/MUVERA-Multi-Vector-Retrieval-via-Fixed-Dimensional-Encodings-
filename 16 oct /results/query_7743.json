@@ -1,0 +1,10 @@
+{
+    "query": "What EU-related topic was discussed on Wednesday, September 3, 2003, between 9:00 and 10:00?",
+    "response": [
+        "doc_20669.txt",
+        "doc_14789.txt",
+        "doc_2672.txt",
+        "doc_2455.txt",
+        "doc_454.txt"
+    ]
+}

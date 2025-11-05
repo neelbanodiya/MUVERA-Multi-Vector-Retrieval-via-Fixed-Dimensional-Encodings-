@@ -1,0 +1,10 @@
+{
+    "query": "According to the EESC, what should the European Parliament prioritize in terms of EU communication budget allocation?",
+    "response": [
+        "doc_9150.txt",
+        "doc_8385.txt",
+        "doc_8155.txt",
+        "doc_13327.txt",
+        "doc_23613.txt"
+    ]
+}

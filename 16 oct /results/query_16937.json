@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the speaker move to San Antonio?",
+    "response": [
+        "doc_3206.txt",
+        "doc_16326.txt",
+        "doc_7939.txt",
+        "doc_16472.txt",
+        "doc_5965.txt"
+    ]
+}

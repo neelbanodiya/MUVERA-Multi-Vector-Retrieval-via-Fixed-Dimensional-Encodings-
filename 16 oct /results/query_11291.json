@@ -1,0 +1,10 @@
+{
+    "query": "What type of vessel ran aground in Alaska on March 24, 1989?",
+    "response": [
+        "doc_6530.txt",
+        "doc_6536.txt",
+        "doc_6537.txt",
+        "doc_10694.txt",
+        "doc_6533.txt"
+    ]
+}

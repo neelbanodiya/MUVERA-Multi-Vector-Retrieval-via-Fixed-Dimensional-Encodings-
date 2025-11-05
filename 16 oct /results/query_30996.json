@@ -1,0 +1,10 @@
+{
+    "query": "Which Christian denomination is based in Mankato, Minnesota?",
+    "response": [
+        "doc_4614.txt",
+        "doc_17059.txt",
+        "doc_23872.txt",
+        "doc_349.txt",
+        "doc_18087.txt"
+    ]
+}

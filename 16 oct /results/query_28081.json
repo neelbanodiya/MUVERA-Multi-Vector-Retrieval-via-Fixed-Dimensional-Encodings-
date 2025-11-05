@@ -1,0 +1,10 @@
+{
+    "query": "What action did the EU take regarding Uzbekistan following the events in Andijan in 2005?",
+    "response": [
+        "doc_16298.txt",
+        "doc_23673.txt",
+        "doc_4130.txt",
+        "doc_5821.txt",
+        "doc_14913.txt"
+    ]
+}

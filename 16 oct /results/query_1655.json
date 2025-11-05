@@ -1,0 +1,10 @@
+{
+    "query": "According to the article in El Pa\u00eds, how much does Spain owe in unpaid bills as of August 14, 2011?",
+    "response": [
+        "doc_948.txt",
+        "doc_22063.txt",
+        "doc_17820.txt",
+        "doc_15144.txt",
+        "doc_22064.txt"
+    ]
+}

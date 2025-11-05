@@ -1,0 +1,10 @@
+{
+    "query": "What was the initial reaction to Jane Austen's early work, specifically regarding *Sense and Sensibility*?",
+    "response": [
+        "doc_2330.txt",
+        "doc_2334.txt",
+        "doc_2324.txt",
+        "doc_2326.txt",
+        "doc_2318.txt"
+    ]
+}

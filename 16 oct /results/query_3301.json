@@ -1,0 +1,10 @@
+{
+    "query": "Who replaced Allen Collins in the band\u2019s lineup after the 1977 plane crash?",
+    "response": [
+        "doc_1977.txt",
+        "doc_4846.txt",
+        "doc_9456.txt",
+        "doc_9455.txt",
+        "doc_9893.txt"
+    ]
+}

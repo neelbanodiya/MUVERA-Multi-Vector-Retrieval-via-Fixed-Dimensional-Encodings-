@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the article discussing the Target\u2019s trans bathroom policy?",
+    "response": [
+        "doc_12122.txt",
+        "doc_21598.txt",
+        "doc_8400.txt",
+        "doc_17879.txt",
+        "doc_2947.txt"
+    ]
+}

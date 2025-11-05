@@ -1,0 +1,10 @@
+{
+    "query": "How many miles is the Residence Inn Abilene hotel from downtown Abilene?",
+    "response": [
+        "doc_1557.txt",
+        "doc_1556.txt",
+        "doc_1555.txt",
+        "doc_1558.txt",
+        "doc_1614.txt"
+    ]
+}

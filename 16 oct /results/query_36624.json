@@ -1,0 +1,10 @@
+{
+    "query": "For which film did Frank Capra win the Academy Award for Best Director?",
+    "response": [
+        "doc_4919.txt",
+        "doc_21387.txt",
+        "doc_4909.txt",
+        "doc_4911.txt",
+        "doc_4918.txt"
+    ]
+}

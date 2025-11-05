@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the approximate height of the statue at Tarentum?",
+    "response": [
+        "doc_23694.txt",
+        "doc_3877.txt",
+        "doc_3878.txt",
+        "doc_3875.txt",
+        "doc_3871.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What award did the musical *A Chorus Line* receive when it opened on Broadway?",
+    "response": [
+        "doc_9825.txt",
+        "doc_9823.txt",
+        "doc_9827.txt",
+        "doc_9822.txt",
+        "doc_9831.txt"
+    ]
+}

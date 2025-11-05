@@ -1,0 +1,10 @@
+{
+    "query": "What was Edgar Allan Poe\u2019s role in the development of literature related to cryptography?",
+    "response": [
+        "doc_14011.txt",
+        "doc_14004.txt",
+        "doc_14017.txt",
+        "doc_14019.txt",
+        "doc_14006.txt"
+    ]
+}

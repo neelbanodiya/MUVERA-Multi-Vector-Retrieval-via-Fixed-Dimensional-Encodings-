@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided articles, who currently holds the record for the most major victories \u2013 Jack Nicklaus or Tiger Woods?",
+    "response": [
+        "doc_3289.txt",
+        "doc_3291.txt",
+        "doc_3288.txt",
+        "doc_3287.txt",
+        "doc_3294.txt"
+    ]
+}

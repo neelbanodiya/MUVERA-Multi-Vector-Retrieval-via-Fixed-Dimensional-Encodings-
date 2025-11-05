@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Gandhi lead the Salt March?",
+    "response": [
+        "doc_1405.txt",
+        "doc_1401.txt",
+        "doc_1404.txt",
+        "doc_1409.txt",
+        "doc_1402.txt"
+    ]
+}

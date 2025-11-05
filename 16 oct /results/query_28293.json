@@ -1,0 +1,10 @@
+{
+    "query": "What X-shaped cross was Saint Andrew crucified on?",
+    "response": [
+        "doc_16461.txt",
+        "doc_16458.txt",
+        "doc_5418.txt",
+        "doc_2540.txt",
+        "doc_9317.txt"
+    ]
+}

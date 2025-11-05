@@ -1,0 +1,10 @@
+{
+    "query": "What is the climate of the region where Chuquicamata mine is situated?",
+    "response": [
+        "doc_5150.txt",
+        "doc_5149.txt",
+        "doc_5142.txt",
+        "doc_5153.txt",
+        "doc_5143.txt"
+    ]
+}

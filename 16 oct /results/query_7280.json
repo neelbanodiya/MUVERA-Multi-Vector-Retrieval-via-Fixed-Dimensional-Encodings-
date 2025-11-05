@@ -1,0 +1,10 @@
+{
+    "query": "Which state did not ratify the 18th Amendment (Prohibition)?",
+    "response": [
+        "doc_974.txt",
+        "doc_4204.txt",
+        "doc_10993.txt",
+        "doc_11005.txt",
+        "doc_939.txt"
+    ]
+}

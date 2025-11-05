@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary aim of the Framework Decision outlined in the passage?",
+    "response": [
+        "doc_21005.txt",
+        "doc_21019.txt",
+        "doc_19825.txt",
+        "doc_19824.txt",
+        "doc_11797.txt"
+    ]
+}

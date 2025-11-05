@@ -1,0 +1,10 @@
+{
+    "query": "Where is Loch Ness located, and what geographical feature does it lie along?",
+    "response": [
+        "doc_369.txt",
+        "doc_8426.txt",
+        "doc_374.txt",
+        "doc_368.txt",
+        "doc_8435.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the payment Beethoven received for dedicating the Ninth Symphony?",
+    "response": [
+        "doc_14550.txt",
+        "doc_14556.txt",
+        "doc_14559.txt",
+        "doc_14561.txt",
+        "doc_14552.txt"
+    ]
+}

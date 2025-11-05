@@ -1,0 +1,10 @@
+{
+    "query": "What was Michael Jackson's career doing when he left?",
+    "response": [
+        "doc_7655.txt",
+        "doc_1784.txt",
+        "doc_7198.txt",
+        "doc_5392.txt",
+        "doc_17171.txt"
+    ]
+}

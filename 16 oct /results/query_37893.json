@@ -1,0 +1,10 @@
+{
+    "query": "How much was allocated to the Visitors Centre in 2008, and where is this appropriation listed within the document?",
+    "response": [
+        "doc_22225.txt",
+        "doc_22209.txt",
+        "doc_16565.txt",
+        "doc_3625.txt",
+        "doc_1582.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What events of 1989 were framed as a Democracy Movement by the Western public and media?",
+    "response": [
+        "doc_1048.txt",
+        "doc_10981.txt",
+        "doc_10977.txt",
+        "doc_4157.txt",
+        "doc_5893.txt"
+    ]
+}

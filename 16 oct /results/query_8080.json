@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the capital city of French Polynesia, and where is it located?",
+    "response": [
+        "doc_4679.txt",
+        "doc_4680.txt",
+        "doc_4685.txt",
+        "doc_4682.txt",
+        "doc_4687.txt"
+    ]
+}

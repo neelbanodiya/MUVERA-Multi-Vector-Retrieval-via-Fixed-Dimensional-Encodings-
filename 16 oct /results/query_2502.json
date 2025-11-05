@@ -1,0 +1,10 @@
+{
+    "query": "In 1981, Wood was revealed as what role?",
+    "response": [
+        "doc_18954.txt",
+        "doc_16925.txt",
+        "doc_17888.txt",
+        "doc_22118.txt",
+        "doc_17889.txt"
+    ]
+}

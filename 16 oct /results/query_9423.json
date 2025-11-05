@@ -1,0 +1,10 @@
+{
+    "query": "What events are associated with the term \"Redneck Games\"?",
+    "response": [
+        "doc_1862.txt",
+        "doc_1859.txt",
+        "doc_11500.txt",
+        "doc_17747.txt",
+        "doc_410.txt"
+    ]
+}

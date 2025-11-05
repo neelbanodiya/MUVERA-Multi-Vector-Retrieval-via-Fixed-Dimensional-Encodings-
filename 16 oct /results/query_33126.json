@@ -1,0 +1,10 @@
+{
+    "query": "Besides acting, what other profession has Arden Cho pursued (as indicated in the provided links)?",
+    "response": [
+        "doc_4846.txt",
+        "doc_1476.txt",
+        "doc_5323.txt",
+        "doc_5324.txt",
+        "doc_2516.txt"
+    ]
+}

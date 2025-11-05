@@ -1,0 +1,10 @@
+{
+    "query": "Are there any restrictions on the number of medical radiological laboratories under relevant EU directives, such as 97/43/Euratom or 96/29/Euratom?",
+    "response": [
+        "doc_9057.txt",
+        "doc_9838.txt",
+        "doc_24003.txt",
+        "doc_21116.txt",
+        "doc_20694.txt"
+    ]
+}

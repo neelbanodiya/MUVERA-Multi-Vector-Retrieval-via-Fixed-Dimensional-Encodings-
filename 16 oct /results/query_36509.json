@@ -1,0 +1,10 @@
+{
+    "query": "Who was praising Josh\u2019s pseudo-twin Jerry\u2019s speaking style?",
+    "response": [
+        "doc_19273.txt",
+        "doc_389.txt",
+        "doc_4197.txt",
+        "doc_7513.txt",
+        "doc_18808.txt"
+    ]
+}

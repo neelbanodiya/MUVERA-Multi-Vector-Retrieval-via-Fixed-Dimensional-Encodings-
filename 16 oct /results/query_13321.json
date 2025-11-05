@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the author of \u201cThe Stolen Ones\u201d and \u201cThe Echo\u201d?",
+    "response": [
+        "doc_17764.txt",
+        "doc_14004.txt",
+        "doc_17758.txt",
+        "doc_15650.txt",
+        "doc_22244.txt"
+    ]
+}

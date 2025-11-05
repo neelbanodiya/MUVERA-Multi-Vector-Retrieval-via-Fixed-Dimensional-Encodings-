@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was the name of the song written by Smiley Burnette?",
+    "response": [
+        "doc_22491.txt",
+        "doc_8007.txt",
+        "doc_11930.txt",
+        "doc_12171.txt",
+        "doc_15613.txt"
+    ]
+}

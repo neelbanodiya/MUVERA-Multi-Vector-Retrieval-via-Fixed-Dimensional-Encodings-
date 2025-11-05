@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Barbara Mikulski become the longest-serving female senator?",
+    "response": [
+        "doc_19318.txt",
+        "doc_19316.txt",
+        "doc_19317.txt",
+        "doc_19319.txt",
+        "doc_19321.txt"
+    ]
+}

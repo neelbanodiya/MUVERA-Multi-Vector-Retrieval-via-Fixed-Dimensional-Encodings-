@@ -1,0 +1,10 @@
+{
+    "query": "What band did Lindsey Buckingham initially record for?",
+    "response": [
+        "doc_3474.txt",
+        "doc_3470.txt",
+        "doc_18965.txt",
+        "doc_12571.txt",
+        "doc_12713.txt"
+    ]
+}

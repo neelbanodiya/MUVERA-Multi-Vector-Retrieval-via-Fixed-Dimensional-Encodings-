@@ -1,0 +1,10 @@
+{
+    "query": "Which Jewish holidays commemorate a victory over a Greek-Syrian king?",
+    "response": [
+        "doc_19761.txt",
+        "doc_19760.txt",
+        "doc_19775.txt",
+        "doc_19764.txt",
+        "doc_19763.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is a notable location associated with Oxford, mentioned in the provided links?",
+    "response": [
+        "doc_5308.txt",
+        "doc_23796.txt",
+        "doc_5307.txt",
+        "doc_7345.txt",
+        "doc_19708.txt"
+    ]
+}

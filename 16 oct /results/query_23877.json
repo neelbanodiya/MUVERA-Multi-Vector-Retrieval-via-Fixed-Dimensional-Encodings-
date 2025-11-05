@@ -1,0 +1,10 @@
+{
+    "query": "Which film by Red Queen Productions received a Gemini Award?",
+    "response": [
+        "doc_18242.txt",
+        "doc_19281.txt",
+        "doc_4918.txt",
+        "doc_21157.txt",
+        "doc_2263.txt"
+    ]
+}

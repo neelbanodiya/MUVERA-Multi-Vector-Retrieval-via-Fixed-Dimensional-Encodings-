@@ -1,0 +1,10 @@
+{
+    "query": "At what time should one not walk to Tower Tours if staying at a Wharf hotel?",
+    "response": [
+        "doc_6841.txt",
+        "doc_17813.txt",
+        "doc_14300.txt",
+        "doc_23077.txt",
+        "doc_7013.txt"
+    ]
+}

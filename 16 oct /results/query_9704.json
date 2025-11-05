@@ -1,0 +1,10 @@
+{
+    "query": "What is Steven Bochco\u2019s involvement with the TNT series *Murder in the First*?",
+    "response": [
+        "doc_5594.txt",
+        "doc_5604.txt",
+        "doc_8304.txt",
+        "doc_22751.txt",
+        "doc_15277.txt"
+    ]
+}

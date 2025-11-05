@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the 1955 Scottish League Cup Final played?",
+    "response": [
+        "doc_24227.txt",
+        "doc_10378.txt",
+        "doc_10381.txt",
+        "doc_1883.txt",
+        "doc_6528.txt"
+    ]
+}

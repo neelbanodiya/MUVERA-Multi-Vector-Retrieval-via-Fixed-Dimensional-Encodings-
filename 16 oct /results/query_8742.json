@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what did B.H. Roberts report regarding the Book of Mormon?",
+    "response": [
+        "doc_5042.txt",
+        "doc_5033.txt",
+        "doc_5043.txt",
+        "doc_5046.txt",
+        "doc_5034.txt"
+    ]
+}

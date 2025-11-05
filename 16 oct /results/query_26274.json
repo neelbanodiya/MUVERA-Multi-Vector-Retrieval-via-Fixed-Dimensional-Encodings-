@@ -1,0 +1,10 @@
+{
+    "query": "What action is the text condemning the Syrian regime for regarding its population?",
+    "response": [
+        "doc_15261.txt",
+        "doc_9924.txt",
+        "doc_15138.txt",
+        "doc_1277.txt",
+        "doc_15257.txt"
+    ]
+}

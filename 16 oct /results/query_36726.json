@@ -1,0 +1,10 @@
+{
+    "query": "What is Los Angeles known as, and what is its approximate area?",
+    "response": [
+        "doc_21463.txt",
+        "doc_15880.txt",
+        "doc_21465.txt",
+        "doc_10507.txt",
+        "doc_8052.txt"
+    ]
+}

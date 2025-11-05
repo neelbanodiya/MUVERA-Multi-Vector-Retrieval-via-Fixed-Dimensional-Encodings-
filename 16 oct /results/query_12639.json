@@ -1,0 +1,10 @@
+{
+    "query": "What archaeological site is specifically linked to Lake Neuchatel?",
+    "response": [
+        "doc_7343.txt",
+        "doc_7341.txt",
+        "doc_7342.txt",
+        "doc_1299.txt",
+        "doc_22410.txt"
+    ]
+}

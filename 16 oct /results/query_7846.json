@@ -1,0 +1,10 @@
+{
+    "query": "What art gallery houses \u201cThe Garden of Earthly Delights\u201d?",
+    "response": [
+        "doc_4553.txt",
+        "doc_4554.txt",
+        "doc_4560.txt",
+        "doc_4564.txt",
+        "doc_4557.txt"
+    ]
+}

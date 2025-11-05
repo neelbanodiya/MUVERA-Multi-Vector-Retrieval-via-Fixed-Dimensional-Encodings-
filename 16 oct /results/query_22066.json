@@ -1,0 +1,10 @@
+{
+    "query": "What awards did the documentary \u201cKing Gimp\u201d receive?",
+    "response": [
+        "doc_2264.txt",
+        "doc_12736.txt",
+        "doc_12737.txt",
+        "doc_15278.txt",
+        "doc_18242.txt"
+    ]
+}

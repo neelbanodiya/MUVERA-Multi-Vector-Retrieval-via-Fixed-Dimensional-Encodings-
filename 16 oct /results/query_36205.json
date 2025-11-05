@@ -1,0 +1,10 @@
+{
+    "query": "What was the Titanic rumored to be?",
+    "response": [
+        "doc_21098.txt",
+        "doc_21112.txt",
+        "doc_21100.txt",
+        "doc_21106.txt",
+        "doc_21113.txt"
+    ]
+}

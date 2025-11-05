@@ -1,0 +1,10 @@
+{
+    "query": "According to the Court of Justice of the European Communities, what was the basis for its ruling against Austria regarding equal treatment?",
+    "response": [
+        "doc_9670.txt",
+        "doc_12932.txt",
+        "doc_13321.txt",
+        "doc_18359.txt",
+        "doc_18506.txt"
+    ]
+}

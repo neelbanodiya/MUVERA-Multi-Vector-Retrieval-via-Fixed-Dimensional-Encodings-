@@ -1,0 +1,10 @@
+{
+    "query": "What are the names of the individuals mentioned in the passage: John Underwood, David Willy, and...?",
+    "response": [
+        "doc_20130.txt",
+        "doc_11308.txt",
+        "doc_14081.txt",
+        "doc_15338.txt",
+        "doc_4523.txt"
+    ]
+}

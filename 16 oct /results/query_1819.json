@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject of the report discussed by Manfred Weber?",
+    "response": [
+        "doc_9169.txt",
+        "doc_8461.txt",
+        "doc_17974.txt",
+        "doc_8156.txt",
+        "doc_14638.txt"
+    ]
+}

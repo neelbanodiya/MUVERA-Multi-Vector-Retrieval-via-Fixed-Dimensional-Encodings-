@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what specific verse from Revelation is associated with the opening of the seventh seal in *The Seventh Seal*?",
+    "response": [
+        "doc_7678.txt",
+        "doc_7677.txt",
+        "doc_7692.txt",
+        "doc_20631.txt",
+        "doc_7527.txt"
+    ]
+}

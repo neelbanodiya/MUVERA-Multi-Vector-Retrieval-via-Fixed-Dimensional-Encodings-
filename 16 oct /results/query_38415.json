@@ -1,0 +1,10 @@
+{
+    "query": "What is the slogan of the Minnesota State Fair?",
+    "response": [
+        "doc_22540.txt",
+        "doc_22539.txt",
+        "doc_18371.txt",
+        "doc_20875.txt",
+        "doc_23032.txt"
+    ]
+}

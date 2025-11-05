@@ -1,0 +1,10 @@
+{
+    "query": "According to the Sahrawi Foreign Minister, what is the kidnappers\u2019 aim?",
+    "response": [
+        "doc_17636.txt",
+        "doc_4235.txt",
+        "doc_4809.txt",
+        "doc_14579.txt",
+        "doc_9926.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which two teams played in the eleventh edition of the Texas Bowl?",
+    "response": [
+        "doc_14817.txt",
+        "doc_14818.txt",
+        "doc_14819.txt",
+        "doc_14816.txt",
+        "doc_15565.txt"
+    ]
+}

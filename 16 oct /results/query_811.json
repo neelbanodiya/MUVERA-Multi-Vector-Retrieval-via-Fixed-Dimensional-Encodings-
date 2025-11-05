@@ -1,0 +1,10 @@
+{
+    "query": "Where was Richard crowned king?",
+    "response": [
+        "doc_464.txt",
+        "doc_460.txt",
+        "doc_461.txt",
+        "doc_462.txt",
+        "doc_465.txt"
+    ]
+}

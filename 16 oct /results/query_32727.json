@@ -1,0 +1,10 @@
+{
+    "query": "What are the names of the artists featured on the single \"Moscow to California\"?",
+    "response": [
+        "doc_19068.txt",
+        "doc_22933.txt",
+        "doc_14724.txt",
+        "doc_19067.txt",
+        "doc_1984.txt"
+    ]
+}

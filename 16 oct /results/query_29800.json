@@ -1,0 +1,10 @@
+{
+    "query": "How tall is the Bank of America Plaza in Atlanta?",
+    "response": [
+        "doc_17313.txt",
+        "doc_17314.txt",
+        "doc_17315.txt",
+        "doc_17317.txt",
+        "doc_17318.txt"
+    ]
+}

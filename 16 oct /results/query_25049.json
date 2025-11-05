@@ -1,0 +1,10 @@
+{
+    "query": "How long had passed since Beethoven\u2019s previous symphony when he unveiled his Ninth Symphony?",
+    "response": [
+        "doc_14555.txt",
+        "doc_14550.txt",
+        "doc_14552.txt",
+        "doc_14554.txt",
+        "doc_14561.txt"
+    ]
+}

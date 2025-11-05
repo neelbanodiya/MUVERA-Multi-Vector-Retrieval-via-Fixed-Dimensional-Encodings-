@@ -1,0 +1,10 @@
+{
+    "query": "What did the passage state was required to reach the suffering population in Burma?",
+    "response": [
+        "doc_19042.txt",
+        "doc_3708.txt",
+        "doc_15165.txt",
+        "doc_3709.txt",
+        "doc_19041.txt"
+    ]
+}

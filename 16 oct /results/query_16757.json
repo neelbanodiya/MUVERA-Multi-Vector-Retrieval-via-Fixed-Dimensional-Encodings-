@@ -1,0 +1,10 @@
+{
+    "query": "Which French film did Gene Wilder and Kelly LeBrock watch in Paris before deciding to remake it?",
+    "response": [
+        "doc_9707.txt",
+        "doc_9706.txt",
+        "doc_9705.txt",
+        "doc_21487.txt",
+        "doc_4587.txt"
+    ]
+}

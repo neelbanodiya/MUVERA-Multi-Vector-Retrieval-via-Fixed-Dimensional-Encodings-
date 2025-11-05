@@ -1,0 +1,10 @@
+{
+    "query": "Which NFL teams did he play for during his seven-season career?",
+    "response": [
+        "doc_3575.txt",
+        "doc_5391.txt",
+        "doc_6725.txt",
+        "doc_20936.txt",
+        "doc_9161.txt"
+    ]
+}

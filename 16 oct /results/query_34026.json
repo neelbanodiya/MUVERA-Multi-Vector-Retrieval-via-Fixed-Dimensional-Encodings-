@@ -1,0 +1,10 @@
+{
+    "query": "What country did George Balanchine work with Diaghilev in?",
+    "response": [
+        "doc_19807.txt",
+        "doc_19809.txt",
+        "doc_21258.txt",
+        "doc_10759.txt",
+        "doc_14182.txt"
+    ]
+}

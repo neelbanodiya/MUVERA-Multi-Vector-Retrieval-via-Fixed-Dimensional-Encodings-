@@ -1,0 +1,10 @@
+{
+    "query": "What UN Security Council resolutions have been imposed on Somalia regarding the trade of small arms?",
+    "response": [
+        "doc_17133.txt",
+        "doc_14403.txt",
+        "doc_12629.txt",
+        "doc_14401.txt",
+        "doc_5822.txt"
+    ]
+}

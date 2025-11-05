@@ -1,0 +1,10 @@
+{
+    "query": "What states were included in the cake mentioned in the July 2007 Glasgow, Kentucky website?",
+    "response": [
+        "doc_7402.txt",
+        "doc_18075.txt",
+        "doc_15255.txt",
+        "doc_7401.txt",
+        "doc_11306.txt"
+    ]
+}

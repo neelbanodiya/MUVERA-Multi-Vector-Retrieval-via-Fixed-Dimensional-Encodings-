@@ -1,0 +1,10 @@
+{
+    "query": "From which Native American tribe does the word \u201cpowwow\u201d originate?",
+    "response": [
+        "doc_15357.txt",
+        "doc_15352.txt",
+        "doc_15360.txt",
+        "doc_15351.txt",
+        "doc_15356.txt"
+    ]
+}

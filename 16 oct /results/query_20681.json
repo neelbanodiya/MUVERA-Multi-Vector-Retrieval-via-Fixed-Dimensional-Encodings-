@@ -1,0 +1,10 @@
+{
+    "query": "What did Frosty the snowman say when he realized the sun was hot?",
+    "response": [
+        "doc_11941.txt",
+        "doc_15760.txt",
+        "doc_15762.txt",
+        "doc_714.txt",
+        "doc_15763.txt"
+    ]
+}

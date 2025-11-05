@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the welcome mat in Hollywood?",
+    "response": [
+        "doc_23840.txt",
+        "doc_14480.txt",
+        "doc_14257.txt",
+        "doc_18213.txt",
+        "doc_14399.txt"
+    ]
+}

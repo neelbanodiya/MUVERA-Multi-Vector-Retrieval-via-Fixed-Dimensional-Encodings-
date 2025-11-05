@@ -1,0 +1,10 @@
+{
+    "query": "What kind of world does director Jan Philipp Gloger create for this new production?",
+    "response": [
+        "doc_3202.txt",
+        "doc_23570.txt",
+        "doc_3201.txt",
+        "doc_18753.txt",
+        "doc_598.txt"
+    ]
+}

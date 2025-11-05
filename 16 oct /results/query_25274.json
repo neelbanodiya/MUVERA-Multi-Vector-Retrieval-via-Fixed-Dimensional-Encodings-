@@ -1,0 +1,10 @@
+{
+    "query": "Where did Lawrence begin writing the plot of *Lady Chatterley\u2019s Lover*?",
+    "response": [
+        "doc_14655.txt",
+        "doc_14656.txt",
+        "doc_14669.txt",
+        "doc_14661.txt",
+        "doc_14653.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the location of the Toastmasters International club called \u201cTinseltown\u201d?",
+    "response": [
+        "doc_4457.txt",
+        "doc_4456.txt",
+        "doc_4453.txt",
+        "doc_6346.txt",
+        "doc_7401.txt"
+    ]
+}

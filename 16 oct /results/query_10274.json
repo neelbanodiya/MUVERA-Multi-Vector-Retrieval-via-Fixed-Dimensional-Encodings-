@@ -1,0 +1,10 @@
+{
+    "query": "Which company is associated with \"Emlyn Canvas and Cordage Company Ltd\"?",
+    "response": [
+        "doc_1000.txt",
+        "doc_3695.txt",
+        "doc_9777.txt",
+        "doc_20409.txt",
+        "doc_10944.txt"
+    ]
+}

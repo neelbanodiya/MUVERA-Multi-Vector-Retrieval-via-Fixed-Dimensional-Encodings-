@@ -1,0 +1,10 @@
+{
+    "query": "In what century did Fanny Kemble work as an actress and author?",
+    "response": [
+        "doc_748.txt",
+        "doc_760.txt",
+        "doc_754.txt",
+        "doc_761.txt",
+        "doc_747.txt"
+    ]
+}

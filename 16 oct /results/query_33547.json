@@ -1,0 +1,10 @@
+{
+    "query": "Who did Alice Roosevelt marry?",
+    "response": [
+        "doc_19536.txt",
+        "doc_12669.txt",
+        "doc_12670.txt",
+        "doc_19543.txt",
+        "doc_19547.txt"
+    ]
+}

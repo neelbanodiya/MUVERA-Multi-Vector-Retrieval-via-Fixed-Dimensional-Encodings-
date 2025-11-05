@@ -1,0 +1,10 @@
+{
+    "query": "What city does Morris live in, according to the passage?",
+    "response": [
+        "doc_16168.txt",
+        "doc_1351.txt",
+        "doc_23796.txt",
+        "doc_8183.txt",
+        "doc_8789.txt"
+    ]
+}

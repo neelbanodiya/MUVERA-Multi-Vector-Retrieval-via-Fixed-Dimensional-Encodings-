@@ -1,0 +1,10 @@
+{
+    "query": "According to one source, what is Molly Yuan\u2019s role in the Germantown Community Theatre\u2019s production of *The Grapes of Wrath*?",
+    "response": [
+        "doc_20577.txt",
+        "doc_20575.txt",
+        "doc_20576.txt",
+        "doc_22139.txt",
+        "doc_22321.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is happening with elections in Guatemala, according to the L.A. Times?",
+    "response": [
+        "doc_22700.txt",
+        "doc_21180.txt",
+        "doc_3124.txt",
+        "doc_20524.txt",
+        "doc_3579.txt"
+    ]
+}

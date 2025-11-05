@@ -1,0 +1,10 @@
+{
+    "query": "Who succeeded Edward the Confessor as King of England?",
+    "response": [
+        "doc_7329.txt",
+        "doc_7324.txt",
+        "doc_7327.txt",
+        "doc_7335.txt",
+        "doc_464.txt"
+    ]
+}

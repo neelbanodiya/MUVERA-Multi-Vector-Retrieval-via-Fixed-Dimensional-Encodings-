@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, who was Ralph Waldo Emerson?",
+    "response": [
+        "doc_14072.txt",
+        "doc_14085.txt",
+        "doc_14073.txt",
+        "doc_14074.txt",
+        "doc_14081.txt"
+    ]
+}

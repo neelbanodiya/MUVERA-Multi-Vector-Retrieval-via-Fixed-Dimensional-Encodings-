@@ -1,0 +1,10 @@
+{
+    "query": "What role does Jim Hawkins initially have on the *Hispaniola*?",
+    "response": [
+        "doc_20010.txt",
+        "doc_20007.txt",
+        "doc_20014.txt",
+        "doc_20009.txt",
+        "doc_20006.txt"
+    ]
+}

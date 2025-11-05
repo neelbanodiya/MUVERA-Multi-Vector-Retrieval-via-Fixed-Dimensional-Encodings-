@@ -1,0 +1,10 @@
+{
+    "query": "In 1943, where did President Franklin Roosevelt fly to, and what was the purpose of the trip?",
+    "response": [
+        "doc_12518.txt",
+        "doc_12528.txt",
+        "doc_12523.txt",
+        "doc_12532.txt",
+        "doc_12519.txt"
+    ]
+}

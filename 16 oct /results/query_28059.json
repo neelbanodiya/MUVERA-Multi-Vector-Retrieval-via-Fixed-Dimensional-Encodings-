@@ -1,0 +1,10 @@
+{
+    "query": "What is one way the city of New York City\u2019s transportation system differs from other systems?",
+    "response": [
+        "doc_16289.txt",
+        "doc_1511.txt",
+        "doc_13057.txt",
+        "doc_13058.txt",
+        "doc_1510.txt"
+    ]
+}

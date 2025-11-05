@@ -1,0 +1,10 @@
+{
+    "query": "Who did Edmund Randolph succeed as attorney-general?",
+    "response": [
+        "doc_17296.txt",
+        "doc_17282.txt",
+        "doc_16126.txt",
+        "doc_18607.txt",
+        "doc_7939.txt"
+    ]
+}

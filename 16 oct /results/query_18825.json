@@ -1,0 +1,10 @@
+{
+    "query": "What did director-writer Francis Ford Coppola take \u201cflak\u201d for?",
+    "response": [
+        "doc_10927.txt",
+        "doc_19882.txt",
+        "doc_21385.txt",
+        "doc_2231.txt",
+        "doc_5156.txt"
+    ]
+}

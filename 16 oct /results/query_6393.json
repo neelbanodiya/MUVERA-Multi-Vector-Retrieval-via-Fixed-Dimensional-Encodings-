@@ -1,0 +1,10 @@
+{
+    "query": "What is the role of the Greek regulatory authority, EETT, in addressing billing issues?",
+    "response": [
+        "doc_3702.txt",
+        "doc_14032.txt",
+        "doc_9473.txt",
+        "doc_19814.txt",
+        "doc_23868.txt"
+    ]
+}

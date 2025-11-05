@@ -1,0 +1,10 @@
+{
+    "query": "For which tournament did Umar Gul gain recognition as one of the most successful bowlers, and in what year did he achieve this status?",
+    "response": [
+        "doc_15164.txt",
+        "doc_15052.txt",
+        "doc_15054.txt",
+        "doc_14076.txt",
+        "doc_17088.txt"
+    ]
+}

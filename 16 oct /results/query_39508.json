@@ -1,0 +1,10 @@
+{
+    "query": "What species were on average much larger in stature than those in the Amazon?",
+    "response": [
+        "doc_20055.txt",
+        "doc_2949.txt",
+        "doc_20056.txt",
+        "doc_2338.txt",
+        "doc_2677.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What literary awards has J.M. Coetzee received?",
+    "response": [
+        "doc_22570.txt",
+        "doc_22568.txt",
+        "doc_22573.txt",
+        "doc_22577.txt",
+        "doc_22575.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "For whom was Hans Holbein the Younger primarily known for painting portraits, and what is notable about the copies of those portraits?",
+    "response": [
+        "doc_21504.txt",
+        "doc_21501.txt",
+        "doc_21508.txt",
+        "doc_21500.txt",
+        "doc_21502.txt"
+    ]
+}

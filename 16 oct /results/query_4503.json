@@ -1,0 +1,10 @@
+{
+    "query": "Who was honored with the renaming of Roxas Boulevard from Dewey Boulevard?",
+    "response": [
+        "doc_2618.txt",
+        "doc_2620.txt",
+        "doc_2634.txt",
+        "doc_2625.txt",
+        "doc_2626.txt"
+    ]
+}

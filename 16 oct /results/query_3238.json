@@ -1,0 +1,10 @@
+{
+    "query": "What happened to John Henry shortly after the contest concluded, as reported in one of the sources?",
+    "response": [
+        "doc_1945.txt",
+        "doc_1954.txt",
+        "doc_1953.txt",
+        "doc_22257.txt",
+        "doc_12844.txt"
+    ]
+}

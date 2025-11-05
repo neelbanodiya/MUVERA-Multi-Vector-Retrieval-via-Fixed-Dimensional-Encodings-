@@ -1,0 +1,10 @@
+{
+    "query": "What action has the Commission proposed regarding the situation of Mr. Ksor Krok?",
+    "response": [
+        "doc_3541.txt",
+        "doc_8773.txt",
+        "doc_1069.txt",
+        "doc_19046.txt",
+        "doc_11948.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where specifically in Papeete can people be found enjoying a cafe?",
+    "response": [
+        "doc_4679.txt",
+        "doc_10432.txt",
+        "doc_15354.txt",
+        "doc_7258.txt",
+        "doc_10933.txt"
+    ]
+}

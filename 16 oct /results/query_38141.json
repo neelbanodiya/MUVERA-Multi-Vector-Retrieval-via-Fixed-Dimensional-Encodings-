@@ -1,0 +1,10 @@
+{
+    "query": "What was Thomas Olney\u2019s profession?",
+    "response": [
+        "doc_21069.txt",
+        "doc_9771.txt",
+        "doc_7372.txt",
+        "doc_21065.txt",
+        "doc_21249.txt"
+    ]
+}

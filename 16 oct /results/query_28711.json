@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what phrase does Mark Antony declare in *Julius Caesar*?",
+    "response": [
+        "doc_16733.txt",
+        "doc_16730.txt",
+        "doc_16732.txt",
+        "doc_16737.txt",
+        "doc_16742.txt"
+    ]
+}

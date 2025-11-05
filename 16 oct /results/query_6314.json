@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of a book published in 1984 that featured recipes from Paul Prudhomme\u2019s Louisiana Kitchen cookbook?",
+    "response": [
+        "doc_3663.txt",
+        "doc_3664.txt",
+        "doc_3665.txt",
+        "doc_7819.txt",
+        "doc_7818.txt"
+    ]
+}

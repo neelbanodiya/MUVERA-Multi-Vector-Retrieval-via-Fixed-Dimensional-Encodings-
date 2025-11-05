@@ -1,0 +1,10 @@
+{
+    "query": "What are some restaurants recommended in Brooklyn, as listed in one of the URLs?",
+    "response": [
+        "doc_4896.txt",
+        "doc_14352.txt",
+        "doc_1795.txt",
+        "doc_8925.txt",
+        "doc_22585.txt"
+    ]
+}

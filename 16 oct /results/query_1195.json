@@ -1,0 +1,10 @@
+{
+    "query": "What year did the wool-scouring plant open in Pendleton?",
+    "response": [
+        "doc_673.txt",
+        "doc_672.txt",
+        "doc_676.txt",
+        "doc_675.txt",
+        "doc_670.txt"
+    ]
+}

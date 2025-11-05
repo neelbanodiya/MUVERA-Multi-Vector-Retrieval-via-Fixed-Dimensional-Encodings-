@@ -1,0 +1,10 @@
+{
+    "query": "On what date did Frank Sinatra and Harry James\u2019s band have a broadcast, featuring Sinatra as the first male vocalist?",
+    "response": [
+        "doc_9456.txt",
+        "doc_9453.txt",
+        "doc_9454.txt",
+        "doc_9466.txt",
+        "doc_9469.txt"
+    ]
+}

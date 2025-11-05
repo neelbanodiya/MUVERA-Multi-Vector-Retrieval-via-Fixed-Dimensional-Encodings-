@@ -1,0 +1,10 @@
+{
+    "query": "The passage mentions a connection between Dickens and another author. Who is this other author?",
+    "response": [
+        "doc_11914.txt",
+        "doc_17758.txt",
+        "doc_1444.txt",
+        "doc_4655.txt",
+        "doc_14083.txt"
+    ]
+}

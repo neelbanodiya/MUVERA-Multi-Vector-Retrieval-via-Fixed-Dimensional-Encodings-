@@ -1,0 +1,10 @@
+{
+    "query": "What action must the Bureau take when considering cases, based on the information provided in paragraphs 1 to 4?",
+    "response": [
+        "doc_13293.txt",
+        "doc_13292.txt",
+        "doc_11691.txt",
+        "doc_12491.txt",
+        "doc_16414.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where did Walt Whitman, the veteran character actor, attend his funeral services?",
+    "response": [
+        "doc_15620.txt",
+        "doc_20254.txt",
+        "doc_4167.txt",
+        "doc_4169.txt",
+        "doc_22803.txt"
+    ]
+}

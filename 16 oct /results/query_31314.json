@@ -1,0 +1,10 @@
+{
+    "query": "What specific information does the Commission need to determine if the reported case qualifies for the museum/monument exemption?",
+    "response": [
+        "doc_18290.txt",
+        "doc_4353.txt",
+        "doc_10306.txt",
+        "doc_1321.txt",
+        "doc_16414.txt"
+    ]
+}

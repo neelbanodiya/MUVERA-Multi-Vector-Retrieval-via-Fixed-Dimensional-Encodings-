@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the Christian Academy located in Knoxville, Tennessee?",
+    "response": [
+        "doc_23871.txt",
+        "doc_5950.txt",
+        "doc_23872.txt",
+        "doc_4741.txt",
+        "doc_4614.txt"
+    ]
+}

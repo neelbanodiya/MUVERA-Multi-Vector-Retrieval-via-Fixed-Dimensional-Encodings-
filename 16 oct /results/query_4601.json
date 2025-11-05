@@ -1,0 +1,10 @@
+{
+    "query": "What geographical features are visible from the area surrounding Mount Everest?",
+    "response": [
+        "doc_1389.txt",
+        "doc_23529.txt",
+        "doc_22342.txt",
+        "doc_13997.txt",
+        "doc_12641.txt"
+    ]
+}

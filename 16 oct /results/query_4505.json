@@ -1,0 +1,10 @@
+{
+    "query": "During what period was Roxas Boulevard known as Dewey Boulevard?",
+    "response": [
+        "doc_2618.txt",
+        "doc_2620.txt",
+        "doc_2626.txt",
+        "doc_2631.txt",
+        "doc_2632.txt"
+    ]
+}

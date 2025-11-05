@@ -1,0 +1,10 @@
+{
+    "query": "Which voice actor provided the voice for Doc Hudson in the \u201cCars\u201d franchise?",
+    "response": [
+        "doc_9274.txt",
+        "doc_14444.txt",
+        "doc_20610.txt",
+        "doc_12639.txt",
+        "doc_19273.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what does the title \u201cQueen Noor\u201d mean in Arabic?",
+    "response": [
+        "doc_14058.txt",
+        "doc_14056.txt",
+        "doc_14059.txt",
+        "doc_14060.txt",
+        "doc_12554.txt"
+    ]
+}

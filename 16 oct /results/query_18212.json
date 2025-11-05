@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Down Ladies Gaelic Football team play Longford in the All-Ireland B Championship final?",
+    "response": [
+        "doc_6527.txt",
+        "doc_6528.txt",
+        "doc_10547.txt",
+        "doc_1901.txt",
+        "doc_20067.txt"
+    ]
+}

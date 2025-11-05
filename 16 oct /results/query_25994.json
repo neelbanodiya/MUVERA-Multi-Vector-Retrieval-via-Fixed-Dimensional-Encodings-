@@ -1,0 +1,10 @@
+{
+    "query": "What role did William Shatner play on the television drama *Boston Legal*?",
+    "response": [
+        "doc_15119.txt",
+        "doc_15117.txt",
+        "doc_15115.txt",
+        "doc_15112.txt",
+        "doc_15110.txt"
+    ]
+}

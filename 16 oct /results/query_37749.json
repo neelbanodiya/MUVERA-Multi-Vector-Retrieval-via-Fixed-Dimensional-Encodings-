@@ -1,0 +1,10 @@
+{
+    "query": "According to President Kirsch, what is the principle of \u201ccomplementarity\u201d regarding the Court\u2019s jurisdiction?",
+    "response": [
+        "doc_22127.txt",
+        "doc_17372.txt",
+        "doc_3426.txt",
+        "doc_3092.txt",
+        "doc_2842.txt"
+    ]
+}

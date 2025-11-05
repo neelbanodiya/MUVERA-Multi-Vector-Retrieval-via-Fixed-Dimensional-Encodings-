@@ -1,0 +1,10 @@
+{
+    "query": "In what region of North America can Gila monsters be found?",
+    "response": [
+        "doc_12295.txt",
+        "doc_12294.txt",
+        "doc_6626.txt",
+        "doc_10499.txt",
+        "doc_8838.txt"
+    ]
+}

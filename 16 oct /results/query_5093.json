@@ -1,0 +1,10 @@
+{
+    "query": "When did the North Korean army storm?",
+    "response": [
+        "doc_16203.txt",
+        "doc_16201.txt",
+        "doc_16205.txt",
+        "doc_16206.txt",
+        "doc_16199.txt"
+    ]
+}

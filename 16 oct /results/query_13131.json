@@ -1,0 +1,10 @@
+{
+    "query": "What year was the film *The Seventh Seal* reconfirmed as a significant work at Cannes?",
+    "response": [
+        "doc_7688.txt",
+        "doc_7687.txt",
+        "doc_7689.txt",
+        "doc_7693.txt",
+        "doc_7690.txt"
+    ]
+}

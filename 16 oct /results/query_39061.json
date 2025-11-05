@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was Julia Roberts\u2019 role in the film *Notting Hill*?",
+    "response": [
+        "doc_22856.txt",
+        "doc_22839.txt",
+        "doc_22855.txt",
+        "doc_23563.txt",
+        "doc_20960.txt"
+    ]
+}

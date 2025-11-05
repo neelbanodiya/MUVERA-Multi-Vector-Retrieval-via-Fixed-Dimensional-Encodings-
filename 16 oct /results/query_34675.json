@@ -1,0 +1,10 @@
+{
+    "query": "What award did Michael Jordan receive while at North Carolina?",
+    "response": [
+        "doc_20188.txt",
+        "doc_20189.txt",
+        "doc_20201.txt",
+        "doc_18244.txt",
+        "doc_14424.txt"
+    ]
+}

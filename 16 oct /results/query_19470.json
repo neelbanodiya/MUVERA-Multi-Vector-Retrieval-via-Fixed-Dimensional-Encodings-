@@ -1,0 +1,10 @@
+{
+    "query": "Which university has played the most games at the Louisiana Superdome, according to the provided links?",
+    "response": [
+        "doc_11271.txt",
+        "doc_11259.txt",
+        "doc_11256.txt",
+        "doc_11267.txt",
+        "doc_11260.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Besides the Puff Adder, what other snake is considered one of the most dangerous in Kenya?",
+    "response": [
+        "doc_832.txt",
+        "doc_843.txt",
+        "doc_837.txt",
+        "doc_834.txt",
+        "doc_840.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "At what age was Marco Polo when his father and uncle set out eastward?",
+    "response": [
+        "doc_2305.txt",
+        "doc_2308.txt",
+        "doc_2307.txt",
+        "doc_2296.txt",
+        "doc_2309.txt"
+    ]
+}

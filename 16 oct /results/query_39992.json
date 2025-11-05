@@ -1,0 +1,10 @@
+{
+    "query": "How many countries border Brazil?",
+    "response": [
+        "doc_23420.txt",
+        "doc_23421.txt",
+        "doc_23422.txt",
+        "doc_23426.txt",
+        "doc_6834.txt"
+    ]
+}

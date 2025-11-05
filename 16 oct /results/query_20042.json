@@ -1,0 +1,10 @@
+{
+    "query": "What is the facility associated with Cabbage Patch Dolls presented as, and what activities does it offer?",
+    "response": [
+        "doc_11561.txt",
+        "doc_11553.txt",
+        "doc_11559.txt",
+        "doc_1298.txt",
+        "doc_11203.txt"
+    ]
+}

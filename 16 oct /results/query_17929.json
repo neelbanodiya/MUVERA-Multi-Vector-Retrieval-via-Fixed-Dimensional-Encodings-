@@ -1,0 +1,10 @@
+{
+    "query": "How many Czechoslovak league titles did Dukla Prague win?",
+    "response": [
+        "doc_10380.txt",
+        "doc_6289.txt",
+        "doc_1232.txt",
+        "doc_5754.txt",
+        "doc_6290.txt"
+    ]
+}

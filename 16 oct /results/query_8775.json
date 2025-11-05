@@ -1,0 +1,10 @@
+{
+    "query": "What event is Beverly Hills marking with a 100-year anniversary celebration?",
+    "response": [
+        "doc_1882.txt",
+        "doc_12174.txt",
+        "doc_12398.txt",
+        "doc_12181.txt",
+        "doc_99.txt"
+    ]
+}

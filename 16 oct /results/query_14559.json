@@ -1,0 +1,10 @@
+{
+    "query": "What is the demand for a generic Star Wars lightsaber?",
+    "response": [
+        "doc_1481.txt",
+        "doc_10862.txt",
+        "doc_6600.txt",
+        "doc_6601.txt",
+        "doc_10863.txt"
+    ]
+}

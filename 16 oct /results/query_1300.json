@@ -1,0 +1,10 @@
+{
+    "query": "What year did Frank Sinatra star in the movie *Tony Rome*?",
+    "response": [
+        "doc_18482.txt",
+        "doc_17169.txt",
+        "doc_5157.txt",
+        "doc_18484.txt",
+        "doc_14257.txt"
+    ]
+}

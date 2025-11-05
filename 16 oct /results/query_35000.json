@@ -1,0 +1,10 @@
+{
+    "query": "Which actress is described as \u201cthe greatest actress ever produced by Britain\u201d?",
+    "response": [
+        "doc_20412.txt",
+        "doc_21157.txt",
+        "doc_24099.txt",
+        "doc_20414.txt",
+        "doc_7880.txt"
+    ]
+}

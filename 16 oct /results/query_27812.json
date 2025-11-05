@@ -1,0 +1,10 @@
+{
+    "query": "Who plays the character Stark in the film?",
+    "response": [
+        "doc_2851.txt",
+        "doc_2850.txt",
+        "doc_2231.txt",
+        "doc_2229.txt",
+        "doc_15485.txt"
+    ]
+}

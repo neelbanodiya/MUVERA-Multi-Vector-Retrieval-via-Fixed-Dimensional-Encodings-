@@ -1,0 +1,10 @@
+{
+    "query": "When did Hitler and Eva Braun commit suicide in the bunker?",
+    "response": [
+        "doc_4344.txt",
+        "doc_4343.txt",
+        "doc_4350.txt",
+        "doc_4346.txt",
+        "doc_4347.txt"
+    ]
+}

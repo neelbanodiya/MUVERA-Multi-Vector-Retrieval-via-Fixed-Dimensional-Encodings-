@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of Joe Biden\u2019s new puppy?",
+    "response": [
+        "doc_528.txt",
+        "doc_16329.txt",
+        "doc_6149.txt",
+        "doc_17116.txt",
+        "doc_3576.txt"
+    ]
+}

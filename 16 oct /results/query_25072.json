@@ -1,0 +1,10 @@
+{
+    "query": "To whom were Beethoven\u2019s greatest creations dedicated?",
+    "response": [
+        "doc_14551.txt",
+        "doc_14559.txt",
+        "doc_14563.txt",
+        "doc_14555.txt",
+        "doc_14558.txt"
+    ]
+}

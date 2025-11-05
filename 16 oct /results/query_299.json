@@ -1,0 +1,10 @@
+{
+    "query": "What is Hans Pfitzner\u2019s most well-known work?",
+    "response": [
+        "doc_168.txt",
+        "doc_21511.txt",
+        "doc_167.txt",
+        "doc_21514.txt",
+        "doc_18430.txt"
+    ]
+}

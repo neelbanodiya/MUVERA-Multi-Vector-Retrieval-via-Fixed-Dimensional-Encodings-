@@ -1,0 +1,10 @@
+{
+    "query": "What historical figures and symbols are mentioned in the passage (e.g., Tudor rose, red dragon)?",
+    "response": [
+        "doc_1836.txt",
+        "doc_1833.txt",
+        "doc_13954.txt",
+        "doc_7904.txt",
+        "doc_1848.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to Pearl Bowser, how many \u201crace pictures\u201d did Oscar Micheaux direct between 1918 and 1940?",
+    "response": [
+        "doc_402.txt",
+        "doc_400.txt",
+        "doc_22837.txt",
+        "doc_22833.txt",
+        "doc_15484.txt"
+    ]
+}

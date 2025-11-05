@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the sculpture \u201cMademoiselle Pogany\u201d created?",
+    "response": [
+        "doc_21747.txt",
+        "doc_21752.txt",
+        "doc_21751.txt",
+        "doc_3873.txt",
+        "doc_3874.txt"
+    ]
+}

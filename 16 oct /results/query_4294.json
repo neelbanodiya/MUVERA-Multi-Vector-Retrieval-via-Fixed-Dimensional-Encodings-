@@ -1,0 +1,10 @@
+{
+    "query": "What types of attractions are found in Cookie\u2019s Monster Land at Sesame Place?",
+    "response": [
+        "doc_2500.txt",
+        "doc_16374.txt",
+        "doc_20938.txt",
+        "doc_2501.txt",
+        "doc_2496.txt"
+    ]
+}

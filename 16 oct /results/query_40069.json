@@ -1,0 +1,10 @@
+{
+    "query": "Besides Amaretti, what other types of cookies are referenced in the provided links?",
+    "response": [
+        "doc_23446.txt",
+        "doc_23450.txt",
+        "doc_23445.txt",
+        "doc_23447.txt",
+        "doc_19030.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year was the movie *Ferris Bueller\u2019s Day Off* released?",
+    "response": [
+        "doc_15254.txt",
+        "doc_15252.txt",
+        "doc_15251.txt",
+        "doc_15253.txt",
+        "doc_15255.txt"
+    ]
+}

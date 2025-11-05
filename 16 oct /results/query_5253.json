@@ -1,0 +1,10 @@
+{
+    "query": "Which political groups submitted motions related to the case of Nasrin Sotoudeh?",
+    "response": [
+        "doc_3062.txt",
+        "doc_3064.txt",
+        "doc_3063.txt",
+        "doc_4131.txt",
+        "doc_3125.txt"
+    ]
+}

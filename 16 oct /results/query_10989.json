@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the superhero film distributed by 20th Century Fox?",
+    "response": [
+        "doc_6660.txt",
+        "doc_1231.txt",
+        "doc_4240.txt",
+        "doc_21619.txt",
+        "doc_5356.txt"
+    ]
+}

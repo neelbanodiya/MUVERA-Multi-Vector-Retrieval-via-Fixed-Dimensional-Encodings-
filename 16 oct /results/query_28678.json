@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is the title of the Ramones\u2019 1986 album?",
+    "response": [
+        "doc_16701.txt",
+        "doc_8897.txt",
+        "doc_8894.txt",
+        "doc_8895.txt",
+        "doc_8896.txt"
+    ]
+}

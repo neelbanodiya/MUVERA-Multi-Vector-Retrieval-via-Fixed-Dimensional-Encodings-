@@ -1,0 +1,10 @@
+{
+    "query": "For what conflict is Theodore Roosevelt primarily recognized for helping to bring an end to?",
+    "response": [
+        "doc_11671.txt",
+        "doc_5371.txt",
+        "doc_1825.txt",
+        "doc_4031.txt",
+        "doc_3005.txt"
+    ]
+}

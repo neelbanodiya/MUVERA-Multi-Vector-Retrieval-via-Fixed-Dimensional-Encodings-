@@ -1,0 +1,10 @@
+{
+    "query": "How much total tonnage of supplies was delivered during the Berlin Airlift?",
+    "response": [
+        "doc_875.txt",
+        "doc_874.txt",
+        "doc_876.txt",
+        "doc_871.txt",
+        "doc_877.txt"
+    ]
+}

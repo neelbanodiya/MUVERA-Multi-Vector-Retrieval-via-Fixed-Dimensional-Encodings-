@@ -1,0 +1,10 @@
+{
+    "query": "How much earth fill was used in the construction of the Lake Oahe Dam?",
+    "response": [
+        "doc_14046.txt",
+        "doc_14051.txt",
+        "doc_14040.txt",
+        "doc_14047.txt",
+        "doc_14049.txt"
+    ]
+}

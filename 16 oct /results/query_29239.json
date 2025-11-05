@@ -1,0 +1,10 @@
+{
+    "query": "Who does Courtney Love portray in *The People vs. Larry Flynt*?",
+    "response": [
+        "doc_17021.txt",
+        "doc_17025.txt",
+        "doc_17027.txt",
+        "doc_17030.txt",
+        "doc_17029.txt"
+    ]
+}

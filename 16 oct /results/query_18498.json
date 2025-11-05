@@ -1,0 +1,10 @@
+{
+    "query": "Which actress starred as Grace Van Owen on *L.A. Law*?",
+    "response": [
+        "doc_8066.txt",
+        "doc_7651.txt",
+        "doc_19272.txt",
+        "doc_1971.txt",
+        "doc_14576.txt"
+    ]
+}

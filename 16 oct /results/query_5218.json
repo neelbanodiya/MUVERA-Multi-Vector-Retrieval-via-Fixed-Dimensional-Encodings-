@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of Truman Capote\u2019s most famous work?",
+    "response": [
+        "doc_3023.txt",
+        "doc_16354.txt",
+        "doc_17756.txt",
+        "doc_19424.txt",
+        "doc_14182.txt"
+    ]
+}

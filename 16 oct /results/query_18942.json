@@ -1,0 +1,10 @@
+{
+    "query": "What slogan was prevalent in China during the period of the protests, as referenced in one of the articles?",
+    "response": [
+        "doc_10978.txt",
+        "doc_10985.txt",
+        "doc_10979.txt",
+        "doc_9856.txt",
+        "doc_7424.txt"
+    ]
+}

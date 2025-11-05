@@ -1,0 +1,10 @@
+{
+    "query": "What role did Tom Sharky have in Atlanta narcotics before he was demoted?",
+    "response": [
+        "doc_4579.txt",
+        "doc_4582.txt",
+        "doc_4580.txt",
+        "doc_4577.txt",
+        "doc_4586.txt"
+    ]
+}

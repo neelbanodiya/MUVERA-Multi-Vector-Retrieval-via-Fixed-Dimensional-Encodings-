@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the links, what is Dr. Dave\u2019s promise?",
+    "response": [
+        "doc_768.txt",
+        "doc_20131.txt",
+        "doc_219.txt",
+        "doc_18460.txt",
+        "doc_2599.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate amount of gold stored at Fort Knox in 2013, according to the Wall Street Daily article?",
+    "response": [
+        "doc_22305.txt",
+        "doc_22304.txt",
+        "doc_15863.txt",
+        "doc_23928.txt",
+        "doc_4069.txt"
+    ]
+}

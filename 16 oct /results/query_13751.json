@@ -1,0 +1,10 @@
+{
+    "query": "Where did Janis Joplin first perform with Big Brother & The Holding Company?",
+    "response": [
+        "doc_8010.txt",
+        "doc_8013.txt",
+        "doc_8025.txt",
+        "doc_8026.txt",
+        "doc_8019.txt"
+    ]
+}

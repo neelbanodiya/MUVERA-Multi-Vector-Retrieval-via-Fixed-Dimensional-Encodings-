@@ -1,0 +1,10 @@
+{
+    "query": "In what country was \u201cVision Quest\u201d released under a different title?",
+    "response": [
+        "doc_8692.txt",
+        "doc_22171.txt",
+        "doc_9891.txt",
+        "doc_3201.txt",
+        "doc_4336.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many European citizens are thought to be affected by brain diseases?",
+    "response": [
+        "doc_16229.txt",
+        "doc_3793.txt",
+        "doc_10790.txt",
+        "doc_24112.txt",
+        "doc_5285.txt"
+    ]
+}

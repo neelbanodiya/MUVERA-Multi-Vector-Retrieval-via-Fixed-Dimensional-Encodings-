@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the song \"Tere Bina Mein Kuch Bhi Nahi Hoon\" released, and who performed it?",
+    "response": [
+        "doc_14685.txt",
+        "doc_19094.txt",
+        "doc_22491.txt",
+        "doc_17334.txt",
+        "doc_17869.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which actor received an Academy Award for his role in the film *Marty*?",
+    "response": [
+        "doc_20158.txt",
+        "doc_21158.txt",
+        "doc_23290.txt",
+        "doc_7514.txt",
+        "doc_23284.txt"
+    ]
+}

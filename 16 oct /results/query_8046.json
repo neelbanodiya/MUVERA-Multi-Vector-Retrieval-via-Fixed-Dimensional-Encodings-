@@ -1,0 +1,10 @@
+{
+    "query": "What is considered a top priority for the Commission concerning corruption, and what actions are recommended?",
+    "response": [
+        "doc_18443.txt",
+        "doc_16155.txt",
+        "doc_9753.txt",
+        "doc_9669.txt",
+        "doc_6589.txt"
+    ]
+}

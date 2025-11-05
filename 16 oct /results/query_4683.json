@@ -1,0 +1,10 @@
+{
+    "query": "According to the census data, what was the population of the United States in 1790?",
+    "response": [
+        "doc_2707.txt",
+        "doc_2709.txt",
+        "doc_2708.txt",
+        "doc_2706.txt",
+        "doc_23888.txt"
+    ]
+}

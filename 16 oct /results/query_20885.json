@@ -1,0 +1,10 @@
+{
+    "query": "What type of vessel was Captain FitzRoy initially in command of?",
+    "response": [
+        "doc_12034.txt",
+        "doc_12035.txt",
+        "doc_12036.txt",
+        "doc_13912.txt",
+        "doc_12040.txt"
+    ]
+}

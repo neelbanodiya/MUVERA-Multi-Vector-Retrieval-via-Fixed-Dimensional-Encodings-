@@ -1,0 +1,10 @@
+{
+    "query": "Which films earned Harrison Ford an Academy Award nomination?",
+    "response": [
+        "doc_23279.txt",
+        "doc_23280.txt",
+        "doc_23287.txt",
+        "doc_15278.txt",
+        "doc_23284.txt"
+    ]
+}

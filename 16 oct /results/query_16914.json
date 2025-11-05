@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, what recent ruling by the NLRB involved students at Columbia University?",
+    "response": [
+        "doc_9797.txt",
+        "doc_9796.txt",
+        "doc_4541.txt",
+        "doc_10715.txt",
+        "doc_2854.txt"
+    ]
+}

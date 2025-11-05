@@ -1,0 +1,10 @@
+{
+    "query": "What does the Eighth Amendment prohibit the federal government from imposing?",
+    "response": [
+        "doc_10990.txt",
+        "doc_10991.txt",
+        "doc_10994.txt",
+        "doc_10992.txt",
+        "doc_11004.txt"
+    ]
+}

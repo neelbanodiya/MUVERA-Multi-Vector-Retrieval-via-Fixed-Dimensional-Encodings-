@@ -1,0 +1,10 @@
+{
+    "query": "Who collaborated with Richard Wright to adapt *Native Son* for the stage?",
+    "response": [
+        "doc_5293.txt",
+        "doc_5294.txt",
+        "doc_5296.txt",
+        "doc_5297.txt",
+        "doc_5299.txt"
+    ]
+}

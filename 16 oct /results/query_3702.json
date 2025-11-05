@@ -1,0 +1,10 @@
+{
+    "query": "In which city, Bihar, is The Mall (Patna Central Mall) located?",
+    "response": [
+        "doc_2180.txt",
+        "doc_2181.txt",
+        "doc_9778.txt",
+        "doc_9775.txt",
+        "doc_9777.txt"
+    ]
+}

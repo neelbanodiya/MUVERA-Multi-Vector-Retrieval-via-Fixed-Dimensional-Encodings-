@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what does the Book of Mormon assert about Jesus Christ?",
+    "response": [
+        "doc_5036.txt",
+        "doc_5034.txt",
+        "doc_5037.txt",
+        "doc_5038.txt",
+        "doc_5046.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is a notable example of anaphora in Shakespeare\u2019s *Richard III*?",
+    "response": [
+        "doc_19420.txt",
+        "doc_19422.txt",
+        "doc_19430.txt",
+        "doc_19425.txt",
+        "doc_16740.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did William Clark and his wife arrive in Niles Township from Chicago?",
+    "response": [
+        "doc_15209.txt",
+        "doc_15205.txt",
+        "doc_15201.txt",
+        "doc_19375.txt",
+        "doc_1749.txt"
+    ]
+}

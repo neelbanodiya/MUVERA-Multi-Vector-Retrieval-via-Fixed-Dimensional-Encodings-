@@ -1,0 +1,10 @@
+{
+    "query": "What is the EU\u2019s stance regarding transparency in the ACTA negotiations?",
+    "response": [
+        "doc_11019.txt",
+        "doc_3795.txt",
+        "doc_14842.txt",
+        "doc_12328.txt",
+        "doc_17246.txt"
+    ]
+}

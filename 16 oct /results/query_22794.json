@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is Muhammad Ali doing in Zaire that is described as \u201cmagic tricks\u201d?",
+    "response": [
+        "doc_13115.txt",
+        "doc_18258.txt",
+        "doc_5250.txt",
+        "doc_8908.txt",
+        "doc_7918.txt"
+    ]
+}

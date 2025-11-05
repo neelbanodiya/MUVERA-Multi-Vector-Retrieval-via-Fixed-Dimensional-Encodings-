@@ -1,0 +1,10 @@
+{
+    "query": "When did the U.S. team beat Finland to win the gold medal in the 1980 Olympics?",
+    "response": [
+        "doc_11356.txt",
+        "doc_11350.txt",
+        "doc_11349.txt",
+        "doc_11342.txt",
+        "doc_11344.txt"
+    ]
+}

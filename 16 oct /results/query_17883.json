@@ -1,0 +1,10 @@
+{
+    "query": "In what city and state did Dean Martin pass away?",
+    "response": [
+        "doc_2562.txt",
+        "doc_16326.txt",
+        "doc_18607.txt",
+        "doc_1395.txt",
+        "doc_20255.txt"
+    ]
+}

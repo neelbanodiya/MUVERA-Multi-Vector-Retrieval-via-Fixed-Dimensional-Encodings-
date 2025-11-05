@@ -1,0 +1,10 @@
+{
+    "query": "Which NFL draft prospect was described as a \u201cDeSean Jackson clone\u201d according to the provided links?",
+    "response": [
+        "doc_22643.txt",
+        "doc_19069.txt",
+        "doc_5323.txt",
+        "doc_1321.txt",
+        "doc_20569.txt"
+    ]
+}

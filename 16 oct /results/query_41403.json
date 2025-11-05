@@ -1,0 +1,10 @@
+{
+    "query": "What character plays Sam Spade in the 1931 film adaptation of \u201cThe Maltese Falcon\u201d?",
+    "response": [
+        "doc_24254.txt",
+        "doc_4476.txt",
+        "doc_2231.txt",
+        "doc_4581.txt",
+        "doc_15278.txt"
+    ]
+}

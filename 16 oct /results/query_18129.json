@@ -1,0 +1,10 @@
+{
+    "query": "What counties are included in the U.S. Marshals Service, Virginia district?",
+    "response": [
+        "doc_10503.txt",
+        "doc_3833.txt",
+        "doc_18687.txt",
+        "doc_10504.txt",
+        "doc_6117.txt"
+    ]
+}

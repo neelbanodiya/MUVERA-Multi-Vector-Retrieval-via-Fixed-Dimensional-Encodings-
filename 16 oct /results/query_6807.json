@@ -1,0 +1,10 @@
+{
+    "query": "What does the text suggest a Muslim man might use a woman for?",
+    "response": [
+        "doc_21762.txt",
+        "doc_8099.txt",
+        "doc_8107.txt",
+        "doc_8096.txt",
+        "doc_8101.txt"
+    ]
+}

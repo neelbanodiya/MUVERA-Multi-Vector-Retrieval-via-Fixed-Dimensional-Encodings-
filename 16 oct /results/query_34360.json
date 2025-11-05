@@ -1,0 +1,10 @@
+{
+    "query": "What song by the Beach Boys featured the Honeys as backing-vocal cheerleaders?",
+    "response": [
+        "doc_19988.txt",
+        "doc_19990.txt",
+        "doc_19986.txt",
+        "doc_19989.txt",
+        "doc_19992.txt"
+    ]
+}

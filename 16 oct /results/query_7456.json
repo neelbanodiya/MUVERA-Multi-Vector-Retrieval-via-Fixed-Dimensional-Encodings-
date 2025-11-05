@@ -1,0 +1,10 @@
+{
+    "query": "What is the EU\u2019s commitment regarding greenhouse gas emissions by 2020?",
+    "response": [
+        "doc_10597.txt",
+        "doc_5613.txt",
+        "doc_4315.txt",
+        "doc_10598.txt",
+        "doc_3659.txt"
+    ]
+}

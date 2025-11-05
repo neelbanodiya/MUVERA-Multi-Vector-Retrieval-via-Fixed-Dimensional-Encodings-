@@ -1,0 +1,10 @@
+{
+    "query": "How many MLB teams have never won the World Series?",
+    "response": [
+        "doc_22499.txt",
+        "doc_22500.txt",
+        "doc_22501.txt",
+        "doc_2349.txt",
+        "doc_2453.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which singer performed the original ending song for \u201cNaruto the Movie: Ninja Clash in the Land of Snow,\u201d and what was the song\u2019s title?",
+    "response": [
+        "doc_8183.txt",
+        "doc_8184.txt",
+        "doc_7456.txt",
+        "doc_15313.txt",
+        "doc_1811.txt"
+    ]
+}

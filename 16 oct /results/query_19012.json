@@ -1,0 +1,10 @@
+{
+    "query": "Where did Captain Cook sail along the eastern coast?",
+    "response": [
+        "doc_11010.txt",
+        "doc_11008.txt",
+        "doc_11012.txt",
+        "doc_11011.txt",
+        "doc_11009.txt"
+    ]
+}

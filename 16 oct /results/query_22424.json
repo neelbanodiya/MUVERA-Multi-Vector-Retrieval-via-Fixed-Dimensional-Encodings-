@@ -1,0 +1,10 @@
+{
+    "query": "What was Drew Carey\u2019s role in a television show?",
+    "response": [
+        "doc_10903.txt",
+        "doc_18873.txt",
+        "doc_19023.txt",
+        "doc_6074.txt",
+        "doc_16925.txt"
+    ]
+}

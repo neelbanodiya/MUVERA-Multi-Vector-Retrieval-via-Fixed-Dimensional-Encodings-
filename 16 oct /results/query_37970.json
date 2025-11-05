@@ -1,0 +1,10 @@
+{
+    "query": "What year was Sir Thomas Malory\u2019s \u201cTale of King Arthur\u201d completed?",
+    "response": [
+        "doc_22244.txt",
+        "doc_22254.txt",
+        "doc_22251.txt",
+        "doc_22259.txt",
+        "doc_22245.txt"
+    ]
+}

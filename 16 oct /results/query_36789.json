@@ -1,0 +1,10 @@
+{
+    "query": "Which company acquired RJR Nabisco\u2019s cold cereal business, specifically mentioning Shredded Wheat?",
+    "response": [
+        "doc_9777.txt",
+        "doc_8011.txt",
+        "doc_10500.txt",
+        "doc_19857.txt",
+        "doc_1795.txt"
+    ]
+}

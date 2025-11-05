@@ -1,0 +1,10 @@
+{
+    "query": "What was the lady who was Princess of Monaco investing in?",
+    "response": [
+        "doc_23753.txt",
+        "doc_10147.txt",
+        "doc_23757.txt",
+        "doc_23543.txt",
+        "doc_23745.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "During World War II, what happened to the U.S. sugar supply that impacted popcorn production?",
+    "response": [
+        "doc_23977.txt",
+        "doc_923.txt",
+        "doc_873.txt",
+        "doc_20206.txt",
+        "doc_4506.txt"
+    ]
+}

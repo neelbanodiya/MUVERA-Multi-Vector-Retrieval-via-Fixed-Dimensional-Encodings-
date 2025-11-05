@@ -1,0 +1,10 @@
+{
+    "query": "What groups should be represented on the proposed European University Seat?",
+    "response": [
+        "doc_5379.txt",
+        "doc_5235.txt",
+        "doc_17374.txt",
+        "doc_22982.txt",
+        "doc_5385.txt"
+    ]
+}

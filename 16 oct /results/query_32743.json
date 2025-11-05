@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how long was the railway in Jamaica?",
+    "response": [
+        "doc_13480.txt",
+        "doc_19077.txt",
+        "doc_19076.txt",
+        "doc_28.txt",
+        "doc_19464.txt"
+    ]
+}

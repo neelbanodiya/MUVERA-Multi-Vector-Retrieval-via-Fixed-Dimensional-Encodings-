@@ -1,0 +1,10 @@
+{
+    "query": "When was the ASEAN summit held that the Commission is commenting on?",
+    "response": [
+        "doc_14789.txt",
+        "doc_22390.txt",
+        "doc_454.txt",
+        "doc_17302.txt",
+        "doc_18117.txt"
+    ]
+}

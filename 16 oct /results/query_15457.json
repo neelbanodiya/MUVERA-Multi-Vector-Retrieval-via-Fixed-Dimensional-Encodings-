@@ -1,0 +1,10 @@
+{
+    "query": "In what city were Boudin\u2019s founders located, and what did they create?",
+    "response": [
+        "doc_8351.txt",
+        "doc_8345.txt",
+        "doc_18456.txt",
+        "doc_19473.txt",
+        "doc_8346.txt"
+    ]
+}

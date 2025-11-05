@@ -1,0 +1,10 @@
+{
+    "query": "According to the article, what was Rob Rhinehart initially resentful about?",
+    "response": [
+        "doc_4720.txt",
+        "doc_242.txt",
+        "doc_17889.txt",
+        "doc_15680.txt",
+        "doc_14531.txt"
+    ]
+}

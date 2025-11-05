@@ -1,0 +1,10 @@
+{
+    "query": "What is a common name for dimes designed by Charles Barber, as referenced in the passage?",
+    "response": [
+        "doc_4482.txt",
+        "doc_2338.txt",
+        "doc_623.txt",
+        "doc_16033.txt",
+        "doc_16485.txt"
+    ]
+}

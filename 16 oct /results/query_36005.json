@@ -1,0 +1,10 @@
+{
+    "query": "When was the \"Little Red Book\" published?",
+    "response": [
+        "doc_20982.txt",
+        "doc_24144.txt",
+        "doc_20981.txt",
+        "doc_7862.txt",
+        "doc_19140.txt"
+    ]
+}

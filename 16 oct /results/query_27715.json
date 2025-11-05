@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the first Baron Keith created, and what was the basis for the remainder of the title?",
+    "response": [
+        "doc_431.txt",
+        "doc_12642.txt",
+        "doc_8008.txt",
+        "doc_12320.txt",
+        "doc_8337.txt"
+    ]
+}

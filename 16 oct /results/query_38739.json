@@ -1,0 +1,10 @@
+{
+    "query": "According to the Africa Economic Institute, what percentage increase has there been in Libyan investments in Egypt?",
+    "response": [
+        "doc_22696.txt",
+        "doc_22694.txt",
+        "doc_10158.txt",
+        "doc_10130.txt",
+        "doc_3269.txt"
+    ]
+}

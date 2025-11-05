@@ -1,0 +1,10 @@
+{
+    "query": "How many athletes participated in the 2015 European Games?",
+    "response": [
+        "doc_19243.txt",
+        "doc_24158.txt",
+        "doc_19242.txt",
+        "doc_15512.txt",
+        "doc_15516.txt"
+    ]
+}

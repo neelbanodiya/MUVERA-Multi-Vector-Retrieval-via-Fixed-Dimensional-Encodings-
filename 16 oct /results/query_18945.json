@@ -1,0 +1,10 @@
+{
+    "query": "What happened in Czechoslovakia in November 1989?",
+    "response": [
+        "doc_15938.txt",
+        "doc_18993.txt",
+        "doc_21971.txt",
+        "doc_3064.txt",
+        "doc_20514.txt"
+    ]
+}

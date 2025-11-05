@@ -1,0 +1,10 @@
+{
+    "query": "Which Norwegian band does I.C.S. Vortex also perform with?",
+    "response": [
+        "doc_19462.txt",
+        "doc_19460.txt",
+        "doc_16631.txt",
+        "doc_16632.txt",
+        "doc_16633.txt"
+    ]
+}

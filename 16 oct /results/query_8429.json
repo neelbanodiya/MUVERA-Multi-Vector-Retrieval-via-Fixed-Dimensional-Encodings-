@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is a common feature of newer restaurants in Milwaukee?",
+    "response": [
+        "doc_11303.txt",
+        "doc_4897.txt",
+        "doc_2207.txt",
+        "doc_4896.txt",
+        "doc_8927.txt"
+    ]
+}

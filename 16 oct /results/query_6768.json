@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of Finland\u2019s GDP does the Greater Helsinki metropolitan area produce?",
+    "response": [
+        "doc_3882.txt",
+        "doc_3883.txt",
+        "doc_9259.txt",
+        "doc_2259.txt",
+        "doc_20937.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of leaves does the American elm tree have?",
+    "response": [
+        "doc_4232.txt",
+        "doc_4222.txt",
+        "doc_4223.txt",
+        "doc_4230.txt",
+        "doc_4219.txt"
+    ]
+}

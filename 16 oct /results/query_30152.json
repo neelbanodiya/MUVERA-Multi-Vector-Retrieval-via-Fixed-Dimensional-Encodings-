@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the new Financial Regulation come into effect, leading to changes in the EU budget structure?",
+    "response": [
+        "doc_17533.txt",
+        "doc_9301.txt",
+        "doc_23652.txt",
+        "doc_4704.txt",
+        "doc_23623.txt"
+    ]
+}

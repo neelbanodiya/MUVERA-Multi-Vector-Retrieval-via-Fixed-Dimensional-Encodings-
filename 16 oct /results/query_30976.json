@@ -1,0 +1,10 @@
+{
+    "query": "How long was Bion born after Charles Wallace?",
+    "response": [
+        "doc_21068.txt",
+        "doc_9256.txt",
+        "doc_19874.txt",
+        "doc_21070.txt",
+        "doc_1200.txt"
+    ]
+}

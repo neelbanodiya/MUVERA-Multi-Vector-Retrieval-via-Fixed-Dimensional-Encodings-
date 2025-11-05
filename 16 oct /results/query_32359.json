@@ -1,0 +1,10 @@
+{
+    "query": "What is Jerry Mathers known for, based on the provided text?",
+    "response": [
+        "doc_11882.txt",
+        "doc_20133.txt",
+        "doc_10658.txt",
+        "doc_9036.txt",
+        "doc_9273.txt"
+    ]
+}

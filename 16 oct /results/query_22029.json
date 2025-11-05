@@ -1,0 +1,10 @@
+{
+    "query": "Who created the TV series \u201cMoonlight Mask,\u201d which was also created by the person who created \u201cSeven Color Mask\u201d?",
+    "response": [
+        "doc_3051.txt",
+        "doc_3050.txt",
+        "doc_3053.txt",
+        "doc_3052.txt",
+        "doc_3054.txt"
+    ]
+}

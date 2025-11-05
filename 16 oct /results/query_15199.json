@@ -1,0 +1,10 @@
+{
+    "query": "What type of play was *The Teahouse of the August Moon* described as?",
+    "response": [
+        "doc_8796.txt",
+        "doc_8798.txt",
+        "doc_8799.txt",
+        "doc_8797.txt",
+        "doc_20311.txt"
+    ]
+}

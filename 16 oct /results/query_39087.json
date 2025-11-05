@@ -1,0 +1,10 @@
+{
+    "query": "What specific article of the Treaty on the European Union is being amended by the draft treaty?",
+    "response": [
+        "doc_13217.txt",
+        "doc_15029.txt",
+        "doc_17253.txt",
+        "doc_21816.txt",
+        "doc_18604.txt"
+    ]
+}

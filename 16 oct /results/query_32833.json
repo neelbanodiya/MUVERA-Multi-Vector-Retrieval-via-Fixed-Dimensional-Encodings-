@@ -1,0 +1,10 @@
+{
+    "query": "How many staff members, including contract staff, does the Foundation employ?",
+    "response": [
+        "doc_19132.txt",
+        "doc_19134.txt",
+        "doc_19053.txt",
+        "doc_22208.txt",
+        "doc_23651.txt"
+    ]
+}

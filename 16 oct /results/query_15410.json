@@ -1,0 +1,10 @@
+{
+    "query": "What is the subject of question E-001640/2012?",
+    "response": [
+        "doc_14232.txt",
+        "doc_9258.txt",
+        "doc_7964.txt",
+        "doc_11121.txt",
+        "doc_12808.txt"
+    ]
+}

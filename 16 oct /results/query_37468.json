@@ -1,0 +1,10 @@
+{
+    "query": "In what year did he win a gold medal playing for the United States national baseball team?",
+    "response": [
+        "doc_21943.txt",
+        "doc_21942.txt",
+        "doc_23052.txt",
+        "doc_6867.txt",
+        "doc_583.txt"
+    ]
+}

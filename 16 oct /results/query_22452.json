@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of the public in Germany, according to a recent Eurobarometer survey, has ever heard of the European Social Fund (ESF)?",
+    "response": [
+        "doc_12942.txt",
+        "doc_6316.txt",
+        "doc_6317.txt",
+        "doc_5182.txt",
+        "doc_19146.txt"
+    ]
+}

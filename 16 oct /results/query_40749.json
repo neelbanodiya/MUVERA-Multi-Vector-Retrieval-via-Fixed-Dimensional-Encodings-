@@ -1,0 +1,10 @@
+{
+    "query": "What is the most striking landmark from the Jaffa Gate side of the city?",
+    "response": [
+        "doc_23826.txt",
+        "doc_22657.txt",
+        "doc_7259.txt",
+        "doc_5502.txt",
+        "doc_7258.txt"
+    ]
+}

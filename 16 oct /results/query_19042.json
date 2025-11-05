@@ -1,0 +1,10 @@
+{
+    "query": "Does the Commission believe any proposed changes to the SPZ could negatively impact rice production quality?",
+    "response": [
+        "doc_11037.txt",
+        "doc_11036.txt",
+        "doc_9162.txt",
+        "doc_466.txt",
+        "doc_8948.txt"
+    ]
+}

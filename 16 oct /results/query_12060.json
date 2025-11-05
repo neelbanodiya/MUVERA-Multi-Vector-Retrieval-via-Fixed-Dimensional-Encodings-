@@ -1,0 +1,10 @@
+{
+    "query": "Who is Herman Cain, and what is his profession according to the passage?",
+    "response": [
+        "doc_1235.txt",
+        "doc_22599.txt",
+        "doc_20006.txt",
+        "doc_12840.txt",
+        "doc_1980.txt"
+    ]
+}

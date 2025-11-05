@@ -1,0 +1,10 @@
+{
+    "query": "According to the Wiktionary entry, what does the Latin phrase \u201cin flagrante delicto\u201d mean?",
+    "response": [
+        "doc_9042.txt",
+        "doc_12753.txt",
+        "doc_18728.txt",
+        "doc_4321.txt",
+        "doc_9196.txt"
+    ]
+}

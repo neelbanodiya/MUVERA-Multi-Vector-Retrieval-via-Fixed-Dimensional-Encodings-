@@ -1,0 +1,10 @@
+{
+    "query": "What are the recycling targets for paper, metal, and glass from households by 2020, according to the new EU waste legislation?",
+    "response": [
+        "doc_5611.txt",
+        "doc_5650.txt",
+        "doc_14296.txt",
+        "doc_12050.txt",
+        "doc_22217.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which family members made cameo appearances in *The Godfather* films, including Sofia Coppola, her brothers, and Austin Jack Lynch?",
+    "response": [
+        "doc_10929.txt",
+        "doc_10923.txt",
+        "doc_10928.txt",
+        "doc_10924.txt",
+        "doc_3522.txt"
+    ]
+}

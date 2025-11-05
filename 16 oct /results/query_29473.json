@@ -1,0 +1,10 @@
+{
+    "query": "When were the general elections in Poland held that resulted in Kazimierz Marcinkiewicz becoming Prime Minister?",
+    "response": [
+        "doc_17146.txt",
+        "doc_23576.txt",
+        "doc_5130.txt",
+        "doc_10189.txt",
+        "doc_4775.txt"
+    ]
+}

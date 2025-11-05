@@ -1,0 +1,10 @@
+{
+    "query": "What iconic phrase was frequently used in connection with Superman\u2019s appearance?",
+    "response": [
+        "doc_23182.txt",
+        "doc_21368.txt",
+        "doc_21361.txt",
+        "doc_10614.txt",
+        "doc_423.txt"
+    ]
+}

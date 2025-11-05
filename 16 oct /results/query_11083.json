@@ -1,0 +1,10 @@
+{
+    "query": "Which groups submitted an oral question to the Commission regarding the EU potato starch sector?",
+    "response": [
+        "doc_16992.txt",
+        "doc_9895.txt",
+        "doc_15493.txt",
+        "doc_3079.txt",
+        "doc_24184.txt"
+    ]
+}

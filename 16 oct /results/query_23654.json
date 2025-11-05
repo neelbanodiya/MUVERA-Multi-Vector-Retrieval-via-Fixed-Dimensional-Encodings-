@@ -1,0 +1,10 @@
+{
+    "query": "To whom is the President of Zimbabwe instructed to forward this resolution?",
+    "response": [
+        "doc_19353.txt",
+        "doc_13721.txt",
+        "doc_1855.txt",
+        "doc_8119.txt",
+        "doc_17824.txt"
+    ]
+}

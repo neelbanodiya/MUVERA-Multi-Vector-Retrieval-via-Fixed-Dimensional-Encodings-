@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is ISIS claiming about the Orlando attack?",
+    "response": [
+        "doc_4809.txt",
+        "doc_18258.txt",
+        "doc_15105.txt",
+        "doc_8685.txt",
+        "doc_20638.txt"
+    ]
+}

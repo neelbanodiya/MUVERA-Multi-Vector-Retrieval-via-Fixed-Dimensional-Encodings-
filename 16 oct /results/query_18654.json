@@ -1,0 +1,10 @@
+{
+    "query": "What document did Eva Lichtenberger\u2019s report base itself on?",
+    "response": [
+        "doc_13144.txt",
+        "doc_8891.txt",
+        "doc_1299.txt",
+        "doc_13389.txt",
+        "doc_24021.txt"
+    ]
+}

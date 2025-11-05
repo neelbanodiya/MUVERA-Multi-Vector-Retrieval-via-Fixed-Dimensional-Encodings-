@@ -1,0 +1,10 @@
+{
+    "query": "What company published \u201cIncursion\u201d?",
+    "response": [
+        "doc_23503.txt",
+        "doc_5493.txt",
+        "doc_10127.txt",
+        "doc_23357.txt",
+        "doc_2836.txt"
+    ]
+}

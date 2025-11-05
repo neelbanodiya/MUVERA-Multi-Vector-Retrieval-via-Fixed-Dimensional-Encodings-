@@ -1,0 +1,10 @@
+{
+    "query": "Which party was founded in New York City in 1849, and what was its initial purpose?",
+    "response": [
+        "doc_16809.txt",
+        "doc_23153.txt",
+        "doc_8078.txt",
+        "doc_23151.txt",
+        "doc_2761.txt"
+    ]
+}

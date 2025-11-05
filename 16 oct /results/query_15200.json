@@ -1,0 +1,10 @@
+{
+    "query": "What major theme became popular in crime fiction and film in post-WW2 America?",
+    "response": [
+        "doc_18750.txt",
+        "doc_5741.txt",
+        "doc_12520.txt",
+        "doc_1580.txt",
+        "doc_21978.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What award did Robert B. Parker win in 1977?",
+    "response": [
+        "doc_5761.txt",
+        "doc_18244.txt",
+        "doc_23281.txt",
+        "doc_18243.txt",
+        "doc_15278.txt"
+    ]
+}

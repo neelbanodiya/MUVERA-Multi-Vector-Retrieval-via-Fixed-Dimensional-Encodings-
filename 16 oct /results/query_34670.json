@@ -1,0 +1,10 @@
+{
+    "query": "How is the Commission planning to make car designs more compatible in the event of a crash?",
+    "response": [
+        "doc_20187.txt",
+        "doc_21794.txt",
+        "doc_5816.txt",
+        "doc_23936.txt",
+        "doc_8746.txt"
+    ]
+}

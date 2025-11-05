@@ -1,0 +1,10 @@
+{
+    "query": "What type of actor was Eddie Foy?",
+    "response": [
+        "doc_18953.txt",
+        "doc_18856.txt",
+        "doc_388.txt",
+        "doc_18580.txt",
+        "doc_17171.txt"
+    ]
+}

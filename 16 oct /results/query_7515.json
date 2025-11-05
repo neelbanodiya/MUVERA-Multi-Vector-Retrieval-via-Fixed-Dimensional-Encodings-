@@ -1,0 +1,10 @@
+{
+    "query": "By 1945, who commanded the Leibstandarte SS Adolf Hitler Division?",
+    "response": [
+        "doc_19667.txt",
+        "doc_4352.txt",
+        "doc_4351.txt",
+        "doc_4344.txt",
+        "doc_4346.txt"
+    ]
+}

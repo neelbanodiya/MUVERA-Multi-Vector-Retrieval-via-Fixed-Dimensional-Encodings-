@@ -1,0 +1,10 @@
+{
+    "query": "What types of expenses does the appropriation under \u201cSocial welfare\u201d (Item 1 6 3 0) cover?",
+    "response": [
+        "doc_22221.txt",
+        "doc_22211.txt",
+        "doc_22203.txt",
+        "doc_22210.txt",
+        "doc_22202.txt"
+    ]
+}

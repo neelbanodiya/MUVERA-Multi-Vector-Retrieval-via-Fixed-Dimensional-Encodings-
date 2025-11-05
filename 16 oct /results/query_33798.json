@@ -1,0 +1,10 @@
+{
+    "query": "What was John C. Fremont\u2019s profession?",
+    "response": [
+        "doc_19675.txt",
+        "doc_12840.txt",
+        "doc_20959.txt",
+        "doc_9771.txt",
+        "doc_851.txt"
+    ]
+}

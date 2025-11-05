@@ -1,0 +1,10 @@
+{
+    "query": "What act authorized the President to designate Devils Tower as a national monument?",
+    "response": [
+        "doc_16261.txt",
+        "doc_16268.txt",
+        "doc_16260.txt",
+        "doc_16271.txt",
+        "doc_16265.txt"
+    ]
+}

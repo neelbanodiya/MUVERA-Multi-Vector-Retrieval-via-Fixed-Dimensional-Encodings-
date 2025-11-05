@@ -1,0 +1,10 @@
+{
+    "query": "What specific action is the Parliament requesting the Commission to undertake regarding patients' rights?",
+    "response": [
+        "doc_3599.txt",
+        "doc_10908.txt",
+        "doc_4865.txt",
+        "doc_15132.txt",
+        "doc_356.txt"
+    ]
+}

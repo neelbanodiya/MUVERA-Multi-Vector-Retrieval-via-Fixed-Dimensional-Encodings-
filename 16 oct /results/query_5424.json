@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between freshwater flows and river-discharge totals in California?",
+    "response": [
+        "doc_3144.txt",
+        "doc_3146.txt",
+        "doc_14798.txt",
+        "doc_3160.txt",
+        "doc_14799.txt"
+    ]
+}

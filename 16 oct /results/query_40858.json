@@ -1,0 +1,10 @@
+{
+    "query": "According to some accounts, what ultimately happened to the financial status of some of the signers of the Declaration?",
+    "response": [
+        "doc_19854.txt",
+        "doc_22973.txt",
+        "doc_14225.txt",
+        "doc_11710.txt",
+        "doc_22527.txt"
+    ]
+}

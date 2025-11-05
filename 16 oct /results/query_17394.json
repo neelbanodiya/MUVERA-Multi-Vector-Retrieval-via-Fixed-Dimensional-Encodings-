@@ -1,0 +1,10 @@
+{
+    "query": "When did Patrick Henry become governor of Virginia?",
+    "response": [
+        "doc_10063.txt",
+        "doc_10062.txt",
+        "doc_10067.txt",
+        "doc_10068.txt",
+        "doc_10065.txt"
+    ]
+}

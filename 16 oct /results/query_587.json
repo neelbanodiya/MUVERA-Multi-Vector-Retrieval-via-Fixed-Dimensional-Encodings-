@@ -1,0 +1,10 @@
+{
+    "query": "What is Patrick Henry quoted as saying about the price of freedom, as referenced in one of the linked articles?",
+    "response": [
+        "doc_339.txt",
+        "doc_338.txt",
+        "doc_337.txt",
+        "doc_344.txt",
+        "doc_343.txt"
+    ]
+}

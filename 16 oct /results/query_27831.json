@@ -1,0 +1,10 @@
+{
+    "query": "Does the Commission consider that the German authorities have acted irresponsibly?",
+    "response": [
+        "doc_18095.txt",
+        "doc_16190.txt",
+        "doc_390.txt",
+        "doc_5872.txt",
+        "doc_12899.txt"
+    ]
+}

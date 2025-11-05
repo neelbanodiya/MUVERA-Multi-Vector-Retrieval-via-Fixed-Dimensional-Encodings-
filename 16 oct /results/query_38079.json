@@ -1,0 +1,10 @@
+{
+    "query": "What is the film \"Into the Woods\" based on?",
+    "response": [
+        "doc_22307.txt",
+        "doc_22306.txt",
+        "doc_22325.txt",
+        "doc_22316.txt",
+        "doc_22312.txt"
+    ]
+}

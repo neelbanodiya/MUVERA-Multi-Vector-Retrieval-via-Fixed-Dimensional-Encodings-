@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Live Aid concert held?",
+    "response": [
+        "doc_12020.txt",
+        "doc_12015.txt",
+        "doc_12024.txt",
+        "doc_12007.txt",
+        "doc_12023.txt"
+    ]
+}

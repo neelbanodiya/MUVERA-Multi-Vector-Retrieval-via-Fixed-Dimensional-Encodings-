@@ -1,0 +1,10 @@
+{
+    "query": "What debate was the new party tapping into regarding American identity?",
+    "response": [
+        "doc_22142.txt",
+        "doc_17263.txt",
+        "doc_1922.txt",
+        "doc_17369.txt",
+        "doc_5727.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which team wore uniforms from the 1979 World Series Champions Pirates?",
+    "response": [
+        "doc_9799.txt",
+        "doc_22499.txt",
+        "doc_5909.txt",
+        "doc_9806.txt",
+        "doc_2289.txt"
+    ]
+}

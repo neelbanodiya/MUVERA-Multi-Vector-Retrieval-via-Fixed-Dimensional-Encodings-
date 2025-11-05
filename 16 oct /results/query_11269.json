@@ -1,0 +1,10 @@
+{
+    "query": "Which team won the 2012 Connacht Senior Football Championship?",
+    "response": [
+        "doc_6527.txt",
+        "doc_6528.txt",
+        "doc_1899.txt",
+        "doc_6529.txt",
+        "doc_24227.txt"
+    ]
+}

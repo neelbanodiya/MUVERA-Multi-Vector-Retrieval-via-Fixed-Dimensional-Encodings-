@@ -1,0 +1,10 @@
+{
+    "query": "What annual productions did W.C. Fields star in from 1915 to 1921?",
+    "response": [
+        "doc_14394.txt",
+        "doc_14389.txt",
+        "doc_14386.txt",
+        "doc_14387.txt",
+        "doc_14390.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where did a Vassar-educated woman graduate from?",
+    "response": [
+        "doc_11694.txt",
+        "doc_10834.txt",
+        "doc_10448.txt",
+        "doc_14822.txt",
+        "doc_20469.txt"
+    ]
+}

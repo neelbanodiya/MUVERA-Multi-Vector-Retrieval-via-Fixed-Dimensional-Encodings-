@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what anatomical feature contributes to the Thylacine\u2019s sense of smell?",
+    "response": [
+        "doc_21771.txt",
+        "doc_21786.txt",
+        "doc_21777.txt",
+        "doc_21776.txt",
+        "doc_21775.txt"
+    ]
+}

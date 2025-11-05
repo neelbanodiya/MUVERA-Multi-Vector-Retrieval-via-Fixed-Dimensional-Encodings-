@@ -1,0 +1,10 @@
+{
+    "query": "What system of dating is used in the novel (*A.F. After Ford*)?",
+    "response": [
+        "doc_22244.txt",
+        "doc_6785.txt",
+        "doc_955.txt",
+        "doc_21241.txt",
+        "doc_20127.txt"
+    ]
+}

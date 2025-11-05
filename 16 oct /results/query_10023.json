@@ -1,0 +1,10 @@
+{
+    "query": "What types of bacteria were detected on mobile phones according to the UK study?",
+    "response": [
+        "doc_5812.txt",
+        "doc_11333.txt",
+        "doc_13075.txt",
+        "doc_6158.txt",
+        "doc_2014.txt"
+    ]
+}

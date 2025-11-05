@@ -1,0 +1,10 @@
+{
+    "query": "Which groups are considered important for engaging in the European dialogue, according to the passage?",
+    "response": [
+        "doc_17377.txt",
+        "doc_20036.txt",
+        "doc_20032.txt",
+        "doc_20031.txt",
+        "doc_20035.txt"
+    ]
+}

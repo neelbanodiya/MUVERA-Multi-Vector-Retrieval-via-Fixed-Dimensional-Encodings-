@@ -1,0 +1,10 @@
+{
+    "query": "Who won a Caldecott Honor for the book \u201cOld Mother Hubbard and her wonderful dog\u201d?",
+    "response": [
+        "doc_10296.txt",
+        "doc_10297.txt",
+        "doc_10298.txt",
+        "doc_10295.txt",
+        "doc_10299.txt"
+    ]
+}

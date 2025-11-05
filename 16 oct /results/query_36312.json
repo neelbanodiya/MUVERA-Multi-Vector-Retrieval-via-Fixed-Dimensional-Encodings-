@@ -1,0 +1,10 @@
+{
+    "query": "When did the Lewis and Clark Expedition leave St. Louis?",
+    "response": [
+        "doc_7494.txt",
+        "doc_15348.txt",
+        "doc_5024.txt",
+        "doc_5456.txt",
+        "doc_18986.txt"
+    ]
+}

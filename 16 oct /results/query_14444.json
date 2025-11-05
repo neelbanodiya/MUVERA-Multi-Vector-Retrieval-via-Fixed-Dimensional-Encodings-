@@ -1,0 +1,10 @@
+{
+    "query": "Which radio station is licensed to Iowa State University in Ames?",
+    "response": [
+        "doc_8364.txt",
+        "doc_136.txt",
+        "doc_2854.txt",
+        "doc_22508.txt",
+        "doc_8363.txt"
+    ]
+}

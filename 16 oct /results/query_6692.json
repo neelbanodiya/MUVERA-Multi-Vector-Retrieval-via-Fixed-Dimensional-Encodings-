@@ -1,0 +1,10 @@
+{
+    "query": "What movies are mentioned in the passage (e.g., \u201cPorgy and Bess,\u201d \u201cIsland in the Sun,\u201d and \u201cTamango\u201d)?",
+    "response": [
+        "doc_4986.txt",
+        "doc_22108.txt",
+        "doc_11143.txt",
+        "doc_4996.txt",
+        "doc_7766.txt"
+    ]
+}

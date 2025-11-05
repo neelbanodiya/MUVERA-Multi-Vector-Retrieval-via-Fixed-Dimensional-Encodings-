@@ -1,0 +1,10 @@
+{
+    "query": "What is Connecticut\u2019s nickname, and how is this related to the Constitution?",
+    "response": [
+        "doc_4200.txt",
+        "doc_4202.txt",
+        "doc_4199.txt",
+        "doc_4201.txt",
+        "doc_4211.txt"
+    ]
+}

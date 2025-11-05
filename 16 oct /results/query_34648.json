@@ -1,0 +1,10 @@
+{
+    "query": "Besides \u201cMajor League\u201d and \u201cSniper,\u201d what other films featured actor William J. \u201cWillem\u201d Dafoe?",
+    "response": [
+        "doc_20160.txt",
+        "doc_4873.txt",
+        "doc_18873.txt",
+        "doc_22109.txt",
+        "doc_4992.txt"
+    ]
+}

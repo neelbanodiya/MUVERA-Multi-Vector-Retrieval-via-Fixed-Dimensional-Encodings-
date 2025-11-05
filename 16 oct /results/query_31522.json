@@ -1,0 +1,10 @@
+{
+    "query": "When did Luther complete his German vernacular translation of the New Testament?",
+    "response": [
+        "doc_18405.txt",
+        "doc_18414.txt",
+        "doc_18404.txt",
+        "doc_18413.txt",
+        "doc_18408.txt"
+    ]
+}

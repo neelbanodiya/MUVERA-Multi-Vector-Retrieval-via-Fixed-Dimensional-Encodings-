@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the James Bond movie that won an Oscar for Best Sound Effects?",
+    "response": [
+        "doc_13633.txt",
+        "doc_21157.txt",
+        "doc_4924.txt",
+        "doc_4918.txt",
+        "doc_4923.txt"
+    ]
+}

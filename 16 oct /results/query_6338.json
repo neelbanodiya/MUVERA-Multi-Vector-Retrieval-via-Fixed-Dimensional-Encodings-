@@ -1,0 +1,10 @@
+{
+    "query": "Which financial institution was involved in the sale of Fuhu\u2019s assets (specifically, the Wells Fargo account)?",
+    "response": [
+        "doc_19857.txt",
+        "doc_10516.txt",
+        "doc_8061.txt",
+        "doc_10515.txt",
+        "doc_8060.txt"
+    ]
+}

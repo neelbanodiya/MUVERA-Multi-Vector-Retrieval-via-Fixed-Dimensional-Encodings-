@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was the initial label applied to the events unfolding during the Tiananmen Square protests?",
+    "response": [
+        "doc_1042.txt",
+        "doc_10981.txt",
+        "doc_10970.txt",
+        "doc_10988.txt",
+        "doc_10985.txt"
+    ]
+}

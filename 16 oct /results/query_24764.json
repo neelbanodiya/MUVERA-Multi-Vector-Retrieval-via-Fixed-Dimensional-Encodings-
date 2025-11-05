@@ -1,0 +1,10 @@
+{
+    "query": "Which studio produced the 1940 film *My Little Chickadee*?",
+    "response": [
+        "doc_14385.txt",
+        "doc_14399.txt",
+        "doc_14391.txt",
+        "doc_14396.txt",
+        "doc_14390.txt"
+    ]
+}

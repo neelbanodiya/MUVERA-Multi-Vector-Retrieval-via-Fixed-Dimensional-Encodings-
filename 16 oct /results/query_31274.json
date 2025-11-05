@@ -1,0 +1,10 @@
+{
+    "query": "What two documents does the Commission cite as providing guidance on restructuring and managing change?",
+    "response": [
+        "doc_16405.txt",
+        "doc_18305.txt",
+        "doc_13303.txt",
+        "doc_18506.txt",
+        "doc_13351.txt"
+    ]
+}

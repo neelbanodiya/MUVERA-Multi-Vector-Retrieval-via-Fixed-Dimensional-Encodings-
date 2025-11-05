@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was Benedict Arnold\u2019s role in events surrounding Fort Griswold?",
+    "response": [
+        "doc_10408.txt",
+        "doc_10424.txt",
+        "doc_10419.txt",
+        "doc_10417.txt",
+        "doc_10423.txt"
+    ]
+}

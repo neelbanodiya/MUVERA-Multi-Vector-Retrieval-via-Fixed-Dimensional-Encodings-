@@ -1,0 +1,10 @@
+{
+    "query": "Which stadium did the Montana Grizzlies use as their home field?",
+    "response": [
+        "doc_22387.txt",
+        "doc_22386.txt",
+        "doc_1973.txt",
+        "doc_1974.txt",
+        "doc_11256.txt"
+    ]
+}

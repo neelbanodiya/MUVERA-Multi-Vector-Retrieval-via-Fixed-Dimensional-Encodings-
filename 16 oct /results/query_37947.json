@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided information, what was Sir Thomas Malory\u2019s political affiliation at the time he began writing his book?",
+    "response": [
+        "doc_22246.txt",
+        "doc_22244.txt",
+        "doc_22250.txt",
+        "doc_22259.txt",
+        "doc_22260.txt"
+    ]
+}

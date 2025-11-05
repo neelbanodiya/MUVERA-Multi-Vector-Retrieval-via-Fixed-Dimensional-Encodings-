@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is the capital city of the Federal Republic of Germany?",
+    "response": [
+        "doc_23825.txt",
+        "doc_6188.txt",
+        "doc_6193.txt",
+        "doc_6190.txt",
+        "doc_3937.txt"
+    ]
+}

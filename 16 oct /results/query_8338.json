@@ -1,0 +1,10 @@
+{
+    "query": "What year was Frederic William Henry Myers born?",
+    "response": [
+        "doc_4812.txt",
+        "doc_4813.txt",
+        "doc_4814.txt",
+        "doc_1014.txt",
+        "doc_7335.txt"
+    ]
+}

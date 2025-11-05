@@ -1,0 +1,10 @@
+{
+    "query": "When was filming for *Mad Max 4* scheduled to begin?",
+    "response": [
+        "doc_16100.txt",
+        "doc_582.txt",
+        "doc_16093.txt",
+        "doc_18761.txt",
+        "doc_21991.txt"
+    ]
+}

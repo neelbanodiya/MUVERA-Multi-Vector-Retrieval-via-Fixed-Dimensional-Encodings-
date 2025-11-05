@@ -1,0 +1,10 @@
+{
+    "query": "What was a common experience mentioned in several of the linked articles related to the 1980s, such as walking down Queen Street or watching a show with a mother?",
+    "response": [
+        "doc_19944.txt",
+        "doc_6144.txt",
+        "doc_19941.txt",
+        "doc_6467.txt",
+        "doc_6143.txt"
+    ]
+}

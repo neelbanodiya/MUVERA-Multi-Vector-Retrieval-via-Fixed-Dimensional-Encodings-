@@ -1,0 +1,10 @@
+{
+    "query": "According to Amendment 7, what are the criteria that any limitation on service providers must meet?",
+    "response": [
+        "doc_19650.txt",
+        "doc_19657.txt",
+        "doc_19659.txt",
+        "doc_19652.txt",
+        "doc_24038.txt"
+    ]
+}

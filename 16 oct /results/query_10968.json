@@ -1,0 +1,10 @@
+{
+    "query": "What unusual ingredients are mentioned as being part of a Halloween game involving \u201cEgyptian mummies\u201d?",
+    "response": [
+        "doc_1298.txt",
+        "doc_102.txt",
+        "doc_13957.txt",
+        "doc_8508.txt",
+        "doc_18487.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many names begin with the letter \"S\"?",
+    "response": [
+        "doc_12384.txt",
+        "doc_12396.txt",
+        "doc_12385.txt",
+        "doc_12395.txt",
+        "doc_12380.txt"
+    ]
+}

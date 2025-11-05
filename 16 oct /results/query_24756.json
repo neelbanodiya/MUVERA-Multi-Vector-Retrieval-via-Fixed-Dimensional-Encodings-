@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the film *My Little Chickadee* released, and who starred alongside W.C. Fields?",
+    "response": [
+        "doc_14393.txt",
+        "doc_14399.txt",
+        "doc_14386.txt",
+        "doc_14385.txt",
+        "doc_14387.txt"
+    ]
+}

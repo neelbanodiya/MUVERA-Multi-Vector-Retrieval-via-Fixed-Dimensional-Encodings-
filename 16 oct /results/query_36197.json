@@ -1,0 +1,10 @@
+{
+    "query": "What was a new concept in ship design that the Titanic was equipped with?",
+    "response": [
+        "doc_21096.txt",
+        "doc_21106.txt",
+        "doc_21100.txt",
+        "doc_21099.txt",
+        "doc_21111.txt"
+    ]
+}

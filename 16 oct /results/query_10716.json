@@ -1,0 +1,10 @@
+{
+    "query": "What Super Bowl did Brett Favre complete 14 of 27 passes in?",
+    "response": [
+        "doc_6206.txt",
+        "doc_6200.txt",
+        "doc_6201.txt",
+        "doc_6205.txt",
+        "doc_6198.txt"
+    ]
+}

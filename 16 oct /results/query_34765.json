@@ -1,0 +1,10 @@
+{
+    "query": "What area of Milan is described as \u201cone of the coolest places\u201d according to MilanoZine?",
+    "response": [
+        "doc_20235.txt",
+        "doc_20245.txt",
+        "doc_3666.txt",
+        "doc_3656.txt",
+        "doc_20244.txt"
+    ]
+}

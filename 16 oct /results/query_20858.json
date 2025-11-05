@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of the Live Aid concerts?",
+    "response": [
+        "doc_12019.txt",
+        "doc_12015.txt",
+        "doc_12016.txt",
+        "doc_12018.txt",
+        "doc_12026.txt"
+    ]
+}

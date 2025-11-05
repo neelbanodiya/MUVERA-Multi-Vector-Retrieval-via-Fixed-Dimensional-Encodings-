@@ -1,0 +1,10 @@
+{
+    "query": "Which author\u2019s story did the opera \u201cHouse of Usher\u201d base itself on?",
+    "response": [
+        "doc_8162.txt",
+        "doc_8171.txt",
+        "doc_8178.txt",
+        "doc_8170.txt",
+        "doc_8163.txt"
+    ]
+}

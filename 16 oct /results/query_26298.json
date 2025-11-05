@@ -1,0 +1,10 @@
+{
+    "query": "What was the estimated contract value for the Berlaymont building?",
+    "response": [
+        "doc_15281.txt",
+        "doc_22214.txt",
+        "doc_22215.txt",
+        "doc_22217.txt",
+        "doc_16565.txt"
+    ]
+}

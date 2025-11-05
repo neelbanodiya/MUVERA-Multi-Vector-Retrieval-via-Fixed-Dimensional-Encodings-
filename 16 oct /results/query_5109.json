@@ -1,0 +1,10 @@
+{
+    "query": "What airline merged with America West in 1983?",
+    "response": [
+        "doc_2984.txt",
+        "doc_2985.txt",
+        "doc_2990.txt",
+        "doc_2988.txt",
+        "doc_2997.txt"
+    ]
+}

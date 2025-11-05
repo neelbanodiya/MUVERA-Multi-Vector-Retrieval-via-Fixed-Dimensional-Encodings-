@@ -1,0 +1,10 @@
+{
+    "query": "What prompted the change in the Texas mail route in 1860?",
+    "response": [
+        "doc_21710.txt",
+        "doc_21711.txt",
+        "doc_23400.txt",
+        "doc_10535.txt",
+        "doc_16256.txt"
+    ]
+}

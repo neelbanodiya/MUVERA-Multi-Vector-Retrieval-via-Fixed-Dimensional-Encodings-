@@ -1,0 +1,10 @@
+{
+    "query": "What was Dr. Michael White leading when he performed at Jazz Fest in New Orleans?",
+    "response": [
+        "doc_15434.txt",
+        "doc_22803.txt",
+        "doc_22804.txt",
+        "doc_22805.txt",
+        "doc_15245.txt"
+    ]
+}

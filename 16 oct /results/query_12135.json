@@ -1,0 +1,10 @@
+{
+    "query": "Before the establishment of EFSA, which body evaluated the safety of aspartame in 2002?",
+    "response": [
+        "doc_7099.txt",
+        "doc_9058.txt",
+        "doc_17890.txt",
+        "doc_6865.txt",
+        "doc_4525.txt"
+    ]
+}

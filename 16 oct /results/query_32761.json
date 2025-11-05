@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate length and width of the Liberty ship mentioned in the passage?",
+    "response": [
+        "doc_7442.txt",
+        "doc_8248.txt",
+        "doc_8938.txt",
+        "doc_22938.txt",
+        "doc_626.txt"
+    ]
+}

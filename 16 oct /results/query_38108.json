@@ -1,0 +1,10 @@
+{
+    "query": "Where are whale watching tours predominantly offered in New Zealand?",
+    "response": [
+        "doc_22339.txt",
+        "doc_12725.txt",
+        "doc_17816.txt",
+        "doc_14641.txt",
+        "doc_5754.txt"
+    ]
+}

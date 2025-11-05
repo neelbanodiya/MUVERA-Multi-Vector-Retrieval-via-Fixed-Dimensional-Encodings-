@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission required to do with the report it presents to the European Parliament?",
+    "response": [
+        "doc_9750.txt",
+        "doc_20825.txt",
+        "doc_20849.txt",
+        "doc_19805.txt",
+        "doc_24176.txt"
+    ]
+}

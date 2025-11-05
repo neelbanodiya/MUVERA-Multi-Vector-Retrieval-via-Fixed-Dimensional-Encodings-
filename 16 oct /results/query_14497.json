@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided information, who played Jennifer Parker in the first *Back to the Future* film?",
+    "response": [
+        "doc_22746.txt",
+        "doc_7744.txt",
+        "doc_7075.txt",
+        "doc_7076.txt",
+        "doc_7073.txt"
+    ]
+}

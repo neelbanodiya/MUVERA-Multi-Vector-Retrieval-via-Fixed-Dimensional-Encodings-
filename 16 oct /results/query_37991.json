@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject of James Bennet\u2019s article in The New York Times on March 15, 1997, regarding Clinton\u2019s knee injury?",
+    "response": [
+        "doc_18965.txt",
+        "doc_19550.txt",
+        "doc_6111.txt",
+        "doc_18469.txt",
+        "doc_7925.txt"
+    ]
+}

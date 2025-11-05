@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the school\u2019s athletic motto adopted by the UA student body?",
+    "response": [
+        "doc_19359.txt",
+        "doc_19244.txt",
+        "doc_24237.txt",
+        "doc_22510.txt",
+        "doc_6782.txt"
+    ]
+}

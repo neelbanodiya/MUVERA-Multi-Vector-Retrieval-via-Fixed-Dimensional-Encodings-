@@ -1,0 +1,10 @@
+{
+    "query": "What political party was elected to power in Rhodesia in 1962?",
+    "response": [
+        "doc_4775.txt",
+        "doc_4776.txt",
+        "doc_21278.txt",
+        "doc_1853.txt",
+        "doc_1562.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to Rotten Tomatoes, what was the film\u2019s rating?",
+    "response": [
+        "doc_3060.txt",
+        "doc_3059.txt",
+        "doc_14549.txt",
+        "doc_2963.txt",
+        "doc_16181.txt"
+    ]
+}

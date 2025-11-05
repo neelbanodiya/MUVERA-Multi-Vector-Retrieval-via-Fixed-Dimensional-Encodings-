@@ -1,0 +1,10 @@
+{
+    "query": "How long did Robinson Crusoe survive alone on the island before encountering Friday?",
+    "response": [
+        "doc_18445.txt",
+        "doc_18451.txt",
+        "doc_18449.txt",
+        "doc_18462.txt",
+        "doc_18447.txt"
+    ]
+}

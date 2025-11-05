@@ -1,0 +1,10 @@
+{
+    "query": "Which song by Kelly Clarkson features an experimental piano bridge based on Wolfgang Amadeus Mozart\u2019s works?",
+    "response": [
+        "doc_19620.txt",
+        "doc_13801.txt",
+        "doc_128.txt",
+        "doc_7456.txt",
+        "doc_21967.txt"
+    ]
+}

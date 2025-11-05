@@ -1,0 +1,10 @@
+{
+    "query": "Which word is described as being \u201ca fifth larger in size than the ordinary English sheep\u201d?",
+    "response": [
+        "doc_23900.txt",
+        "doc_19439.txt",
+        "doc_4404.txt",
+        "doc_23901.txt",
+        "doc_957.txt"
+    ]
+}

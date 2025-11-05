@@ -1,0 +1,10 @@
+{
+    "query": "Which congressional district in Texas is currently represented by Mike Conaway?",
+    "response": [
+        "doc_4522.txt",
+        "doc_1920.txt",
+        "doc_2175.txt",
+        "doc_1921.txt",
+        "doc_2176.txt"
+    ]
+}

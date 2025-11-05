@@ -1,0 +1,10 @@
+{
+    "query": "What was the initial edition size of *The Two Towers* when it was published in 1954?",
+    "response": [
+        "doc_15551.txt",
+        "doc_15558.txt",
+        "doc_15554.txt",
+        "doc_16671.txt",
+        "doc_23888.txt"
+    ]
+}

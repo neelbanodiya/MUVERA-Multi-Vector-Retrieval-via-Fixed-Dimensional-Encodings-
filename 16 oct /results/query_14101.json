@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Rossini\u2019s orchestration performed at the Metropolitan Opera?",
+    "response": [
+        "doc_8171.txt",
+        "doc_13804.txt",
+        "doc_13801.txt",
+        "doc_10458.txt",
+        "doc_13802.txt"
+    ]
+}

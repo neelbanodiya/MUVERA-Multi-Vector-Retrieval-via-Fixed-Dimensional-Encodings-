@@ -1,0 +1,10 @@
+{
+    "query": "Which city was the site of the attack on the Sufi shrine?",
+    "response": [
+        "doc_5304.txt",
+        "doc_9921.txt",
+        "doc_22410.txt",
+        "doc_15617.txt",
+        "doc_23679.txt"
+    ]
+}

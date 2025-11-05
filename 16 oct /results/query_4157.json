@@ -1,0 +1,10 @@
+{
+    "query": "What was the cost to build the St. Anthony Shrine?",
+    "response": [
+        "doc_2423.txt",
+        "doc_3978.txt",
+        "doc_2668.txt",
+        "doc_10559.txt",
+        "doc_10560.txt"
+    ]
+}

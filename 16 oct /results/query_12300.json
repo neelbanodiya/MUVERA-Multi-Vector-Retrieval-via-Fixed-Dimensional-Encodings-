@@ -1,0 +1,9 @@
+{
+    "query": "Which company was founded by Adolphus Busch, and what process did he pioneer?",
+    "response": [
+        "doc_7171.txt",
+        "doc_7175.txt",
+        "doc_7176.txt",
+        "doc_7174.txt"
+    ]
+}

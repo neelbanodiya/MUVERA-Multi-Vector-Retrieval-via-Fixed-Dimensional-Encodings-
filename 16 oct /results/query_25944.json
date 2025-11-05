@@ -1,0 +1,10 @@
+{
+    "query": "What was required of the World Bank regarding the privatization of a city?",
+    "response": [
+        "doc_18008.txt",
+        "doc_17566.txt",
+        "doc_12050.txt",
+        "doc_12703.txt",
+        "doc_10828.txt"
+    ]
+}

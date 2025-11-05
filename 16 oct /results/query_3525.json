@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, what question did Joseph McCarthy frequently use to accuse individuals of communist ties?",
+    "response": [
+        "doc_2088.txt",
+        "doc_2097.txt",
+        "doc_2101.txt",
+        "doc_1011.txt",
+        "doc_14225.txt"
+    ]
+}

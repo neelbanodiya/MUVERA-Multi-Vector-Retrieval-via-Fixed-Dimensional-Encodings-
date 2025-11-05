@@ -1,0 +1,10 @@
+{
+    "query": "What was the Babylonian name of the man featured in the story of Shadrach, Meshach, and Abednego?",
+    "response": [
+        "doc_10203.txt",
+        "doc_10204.txt",
+        "doc_10206.txt",
+        "doc_10207.txt",
+        "doc_10205.txt"
+    ]
+}

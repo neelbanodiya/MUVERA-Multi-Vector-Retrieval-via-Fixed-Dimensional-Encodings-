@@ -1,0 +1,10 @@
+{
+    "query": "What is the US military preparing to do next year?",
+    "response": [
+        "doc_23657.txt",
+        "doc_17960.txt",
+        "doc_13593.txt",
+        "doc_23883.txt",
+        "doc_5822.txt"
+    ]
+}

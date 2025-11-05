@@ -1,0 +1,10 @@
+{
+    "query": "What is the overall stability of the ice sheet on East Antarctica compared to West Antarctica?",
+    "response": [
+        "doc_10325.txt",
+        "doc_10316.txt",
+        "doc_10321.txt",
+        "doc_10326.txt",
+        "doc_10324.txt"
+    ]
+}

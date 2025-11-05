@@ -1,0 +1,10 @@
+{
+    "query": "What James Bond movies were mentioned in the passage?",
+    "response": [
+        "doc_7767.txt",
+        "doc_4986.txt",
+        "doc_4989.txt",
+        "doc_8517.txt",
+        "doc_7768.txt"
+    ]
+}

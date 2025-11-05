@@ -1,0 +1,10 @@
+{
+    "query": "Which city in New South Wales is located on the Hume Highway and the northern side of the Murray River?",
+    "response": [
+        "doc_17124.txt",
+        "doc_8719.txt",
+        "doc_22342.txt",
+        "doc_1764.txt",
+        "doc_17123.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Parker make his first recording?",
+    "response": [
+        "doc_15239.txt",
+        "doc_15240.txt",
+        "doc_9467.txt",
+        "doc_9457.txt",
+        "doc_9453.txt"
+    ]
+}

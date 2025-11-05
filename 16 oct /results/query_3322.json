@@ -1,0 +1,10 @@
+{
+    "query": "What specific agreements and talks are referenced in this European Parliament resolution regarding the Middle East peace process?",
+    "response": [
+        "doc_1987.txt",
+        "doc_13164.txt",
+        "doc_4809.txt",
+        "doc_21466.txt",
+        "doc_17254.txt"
+    ]
+}

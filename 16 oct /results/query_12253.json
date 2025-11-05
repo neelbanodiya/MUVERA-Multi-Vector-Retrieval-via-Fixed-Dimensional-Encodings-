@@ -1,0 +1,10 @@
+{
+    "query": "What ancient Greek symbol is associated with astrology?",
+    "response": [
+        "doc_21299.txt",
+        "doc_21300.txt",
+        "doc_21298.txt",
+        "doc_13954.txt",
+        "doc_13960.txt"
+    ]
+}

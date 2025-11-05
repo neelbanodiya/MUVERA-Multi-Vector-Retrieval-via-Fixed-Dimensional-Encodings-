@@ -1,0 +1,10 @@
+{
+    "query": "What film is described as \u201cTerrific Film Noir cop drama with Robert Ryan a standout\u201d?",
+    "response": [
+        "doc_18944.txt",
+        "doc_5323.txt",
+        "doc_1811.txt",
+        "doc_18940.txt",
+        "doc_7766.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "For what conflict was Theodore Roosevelt awarded the Nobel Peace Prize?",
+    "response": [
+        "doc_11655.txt",
+        "doc_11671.txt",
+        "doc_11664.txt",
+        "doc_11656.txt",
+        "doc_11666.txt"
+    ]
+}

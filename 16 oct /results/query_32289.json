@@ -1,0 +1,10 @@
+{
+    "query": "What Academy Award nomination did Grace Kelly receive?",
+    "response": [
+        "doc_13633.txt",
+        "doc_15278.txt",
+        "doc_23284.txt",
+        "doc_2264.txt",
+        "doc_2263.txt"
+    ]
+}

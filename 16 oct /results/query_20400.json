@@ -1,0 +1,10 @@
+{
+    "query": "In what year was a car presented at GITEX?",
+    "response": [
+        "doc_24118.txt",
+        "doc_24116.txt",
+        "doc_9878.txt",
+        "doc_9406.txt",
+        "doc_24117.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What types of plants are discussed in the document \"Botanical Research Institute Of Texas\" regarding seed development?",
+    "response": [
+        "doc_22411.txt",
+        "doc_13571.txt",
+        "doc_18289.txt",
+        "doc_5091.txt",
+        "doc_18212.txt"
+    ]
+}

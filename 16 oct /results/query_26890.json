@@ -1,0 +1,10 @@
+{
+    "query": "Which Catholic figure is associated with the Los Angeles County Museum of Art (LACMA) and the Getty Museum?",
+    "response": [
+        "doc_14728.txt",
+        "doc_2910.txt",
+        "doc_20388.txt",
+        "doc_14733.txt",
+        "doc_20397.txt"
+    ]
+}

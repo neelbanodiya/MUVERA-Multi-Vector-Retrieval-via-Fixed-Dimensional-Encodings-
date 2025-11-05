@@ -1,0 +1,10 @@
+{
+    "query": "What did Sinclair write after writing *The Jungle*?",
+    "response": [
+        "doc_16130.txt",
+        "doc_16136.txt",
+        "doc_16129.txt",
+        "doc_16133.txt",
+        "doc_16131.txt"
+    ]
+}

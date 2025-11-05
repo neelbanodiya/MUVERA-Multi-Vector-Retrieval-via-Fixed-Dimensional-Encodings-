@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many tourists visit Machu Picchu annually, and what recognition did it receive in 2007?",
+    "response": [
+        "doc_13711.txt",
+        "doc_13708.txt",
+        "doc_8858.txt",
+        "doc_14886.txt",
+        "doc_8856.txt"
+    ]
+}

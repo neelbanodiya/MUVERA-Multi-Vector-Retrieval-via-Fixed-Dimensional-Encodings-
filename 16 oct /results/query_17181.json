@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Truman vote consistently for New Deal legislation?",
+    "response": [
+        "doc_9944.txt",
+        "doc_9945.txt",
+        "doc_9955.txt",
+        "doc_9943.txt",
+        "doc_9956.txt"
+    ]
+}

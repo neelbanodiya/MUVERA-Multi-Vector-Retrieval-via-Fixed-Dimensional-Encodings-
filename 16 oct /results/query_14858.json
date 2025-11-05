@@ -1,0 +1,10 @@
+{
+    "query": "What architectural feature of the Hofburg Palace is prominently displayed on the Swiss Gate?",
+    "response": [
+        "doc_8635.txt",
+        "doc_8633.txt",
+        "doc_8648.txt",
+        "doc_8643.txt",
+        "doc_8636.txt"
+    ]
+}

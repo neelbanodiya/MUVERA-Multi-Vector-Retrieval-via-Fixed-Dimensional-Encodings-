@@ -1,0 +1,10 @@
+{
+    "query": "What was Abby doing on a typical day regarding her jogging?",
+    "response": [
+        "doc_8543.txt",
+        "doc_8545.txt",
+        "doc_14246.txt",
+        "doc_23544.txt",
+        "doc_1730.txt"
+    ]
+}

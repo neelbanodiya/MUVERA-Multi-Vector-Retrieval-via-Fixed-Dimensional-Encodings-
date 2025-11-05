@@ -1,0 +1,10 @@
+{
+    "query": "At what age did William Shatner celebrate his 81st birthday in 2012?",
+    "response": [
+        "doc_4447.txt",
+        "doc_3845.txt",
+        "doc_7312.txt",
+        "doc_8198.txt",
+        "doc_1014.txt"
+    ]
+}

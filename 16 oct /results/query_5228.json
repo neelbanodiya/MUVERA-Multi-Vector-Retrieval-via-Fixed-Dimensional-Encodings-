@@ -1,0 +1,9 @@
+{
+    "query": "In what year did Pontiac attempt to promote a wide-track Grand Prix model, as referenced in multiple sources?",
+    "response": [
+        "doc_3045.txt",
+        "doc_3044.txt",
+        "doc_3046.txt",
+        "doc_5660.txt"
+    ]
+}

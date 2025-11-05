@@ -1,0 +1,10 @@
+{
+    "query": "Which actors starred in the movie Titanic?",
+    "response": [
+        "doc_8480.txt",
+        "doc_8484.txt",
+        "doc_8488.txt",
+        "doc_5157.txt",
+        "doc_8473.txt"
+    ]
+}

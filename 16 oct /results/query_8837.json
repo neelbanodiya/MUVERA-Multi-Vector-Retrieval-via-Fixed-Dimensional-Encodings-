@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of David Lowenthal\u2019s book about the past?",
+    "response": [
+        "doc_19983.txt",
+        "doc_16010.txt",
+        "doc_14416.txt",
+        "doc_17082.txt",
+        "doc_12463.txt"
+    ]
+}

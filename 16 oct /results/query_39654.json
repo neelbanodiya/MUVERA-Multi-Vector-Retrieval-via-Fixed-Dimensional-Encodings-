@@ -1,0 +1,10 @@
+{
+    "query": "Which countries voted against the applications to the NGO committee for ILGA and LBL?",
+    "response": [
+        "doc_23220.txt",
+        "doc_4035.txt",
+        "doc_23211.txt",
+        "doc_996.txt",
+        "doc_14123.txt"
+    ]
+}

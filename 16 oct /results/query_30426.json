@@ -1,0 +1,10 @@
+{
+    "query": "Who plays Pablo Neruda in \u201cThe Postman\u201d?",
+    "response": [
+        "doc_17703.txt",
+        "doc_17704.txt",
+        "doc_17701.txt",
+        "doc_17712.txt",
+        "doc_17697.txt"
+    ]
+}

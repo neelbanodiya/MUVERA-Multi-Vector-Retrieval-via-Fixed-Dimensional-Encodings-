@@ -1,0 +1,10 @@
+{
+    "query": "What does KAYAK do to find travel deals?",
+    "response": [
+        "doc_14514.txt",
+        "doc_21218.txt",
+        "doc_7962.txt",
+        "doc_6992.txt",
+        "doc_17884.txt"
+    ]
+}

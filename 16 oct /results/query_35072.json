@@ -1,0 +1,10 @@
+{
+    "query": "What does Pope Francis suggest people should *not* give up during Lent, according to one of the articles?",
+    "response": [
+        "doc_23317.txt",
+        "doc_20459.txt",
+        "doc_6333.txt",
+        "doc_13529.txt",
+        "doc_6323.txt"
+    ]
+}

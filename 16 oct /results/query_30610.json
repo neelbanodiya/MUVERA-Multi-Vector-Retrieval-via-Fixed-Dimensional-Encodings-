@@ -1,0 +1,10 @@
+{
+    "query": "Who was asked to accompany Bob and Bobby in singing \u201cThe Man I Love\u201d?",
+    "response": [
+        "doc_18861.txt",
+        "doc_13104.txt",
+        "doc_12571.txt",
+        "doc_18369.txt",
+        "doc_5372.txt"
+    ]
+}

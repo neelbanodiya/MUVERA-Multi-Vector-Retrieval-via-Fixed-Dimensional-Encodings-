@@ -1,0 +1,10 @@
+{
+    "query": "Which figures or locations are mentioned as being in St. Petersburg, Russia?",
+    "response": [
+        "doc_2545.txt",
+        "doc_2539.txt",
+        "doc_2547.txt",
+        "doc_2536.txt",
+        "doc_2541.txt"
+    ]
+}

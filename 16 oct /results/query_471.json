@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission currently investigating regarding child labour labelling schemes, and what international agreement is relevant to this investigation?",
+    "response": [
+        "doc_280.txt",
+        "doc_4154.txt",
+        "doc_23718.txt",
+        "doc_11363.txt",
+        "doc_3539.txt"
+    ]
+}

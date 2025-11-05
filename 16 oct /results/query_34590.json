@@ -1,0 +1,10 @@
+{
+    "query": "What is the connection between Charles Dickens and the magician David Copperfield, as mentioned in one of the linked resources?",
+    "response": [
+        "doc_20128.txt",
+        "doc_20542.txt",
+        "doc_20133.txt",
+        "doc_1444.txt",
+        "doc_1443.txt"
+    ]
+}

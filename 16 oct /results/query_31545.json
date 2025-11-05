@@ -1,0 +1,10 @@
+{
+    "query": "In what century did the first Wittenberg hymnal appear, featuring hymns by Martin Luther?",
+    "response": [
+        "doc_18405.txt",
+        "doc_18404.txt",
+        "doc_18408.txt",
+        "doc_18414.txt",
+        "doc_18407.txt"
+    ]
+}

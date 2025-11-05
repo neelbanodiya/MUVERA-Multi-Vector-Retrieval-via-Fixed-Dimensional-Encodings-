@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was the nature of the contest John Henry participated in?",
+    "response": [
+        "doc_1840.txt",
+        "doc_17914.txt",
+        "doc_21507.txt",
+        "doc_19175.txt",
+        "doc_12463.txt"
+    ]
+}

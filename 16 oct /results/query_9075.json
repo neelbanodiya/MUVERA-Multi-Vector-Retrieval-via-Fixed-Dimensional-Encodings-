@@ -1,0 +1,10 @@
+{
+    "query": "According to the Pew Charitable Trusts, what is the difference in median wealth between white and Black families?",
+    "response": [
+        "doc_12883.txt",
+        "doc_22102.txt",
+        "doc_17425.txt",
+        "doc_23152.txt",
+        "doc_21936.txt"
+    ]
+}

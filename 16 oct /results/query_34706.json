@@ -1,0 +1,10 @@
+{
+    "query": "What happened to the Palace of Knossos due to earthquakes?",
+    "response": [
+        "doc_20207.txt",
+        "doc_20208.txt",
+        "doc_20209.txt",
+        "doc_13009.txt",
+        "doc_5306.txt"
+    ]
+}

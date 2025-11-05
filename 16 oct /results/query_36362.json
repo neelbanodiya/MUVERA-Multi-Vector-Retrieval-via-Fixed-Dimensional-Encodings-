@@ -1,0 +1,10 @@
+{
+    "query": "What color is Facebook, according to the article about the science of colors in marketing?",
+    "response": [
+        "doc_12888.txt",
+        "doc_5358.txt",
+        "doc_12883.txt",
+        "doc_5490.txt",
+        "doc_9808.txt"
+    ]
+}

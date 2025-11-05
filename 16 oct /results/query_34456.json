@@ -1,0 +1,10 @@
+{
+    "query": "When did the rapporteur organize a seminar on the prospects for civil dialogue following the Lisbon Treaty?",
+    "response": [
+        "doc_20030.txt",
+        "doc_20036.txt",
+        "doc_20035.txt",
+        "doc_8189.txt",
+        "doc_4529.txt"
+    ]
+}

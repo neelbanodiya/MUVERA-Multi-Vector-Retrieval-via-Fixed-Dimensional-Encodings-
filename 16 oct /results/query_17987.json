@@ -1,0 +1,10 @@
+{
+    "query": "Who was considered a \u201ctraitor\u201d involved in the events at Groton Heights, and what was his role?",
+    "response": [
+        "doc_850.txt",
+        "doc_15881.txt",
+        "doc_8051.txt",
+        "doc_22393.txt",
+        "doc_16255.txt"
+    ]
+}

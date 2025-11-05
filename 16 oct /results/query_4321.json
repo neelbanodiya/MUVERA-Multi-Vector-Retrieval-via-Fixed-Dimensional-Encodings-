@@ -1,0 +1,10 @@
+{
+    "query": "What is George\u2019s difficulty regarding remembering birthdays and anniversaries?",
+    "response": [
+        "doc_2907.txt",
+        "doc_15771.txt",
+        "doc_309.txt",
+        "doc_7005.txt",
+        "doc_23973.txt"
+    ]
+}

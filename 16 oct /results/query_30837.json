@@ -1,0 +1,10 @@
+{
+    "query": "What type of attack resulted in Dzhokhar Dudayev\u2019s death?",
+    "response": [
+        "doc_17965.txt",
+        "doc_17967.txt",
+        "doc_17966.txt",
+        "doc_17972.txt",
+        "doc_17970.txt"
+    ]
+}

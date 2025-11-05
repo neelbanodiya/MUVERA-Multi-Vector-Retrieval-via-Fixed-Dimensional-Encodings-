@@ -1,0 +1,10 @@
+{
+    "query": "What was the cost of unloading the hazardous chemical waste in Abidjan compared to Amsterdam?",
+    "response": [
+        "doc_20648.txt",
+        "doc_10453.txt",
+        "doc_2030.txt",
+        "doc_15144.txt",
+        "doc_18008.txt"
+    ]
+}

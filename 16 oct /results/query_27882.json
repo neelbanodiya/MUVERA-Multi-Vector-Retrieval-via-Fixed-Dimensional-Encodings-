@@ -1,0 +1,10 @@
+{
+    "query": "Who is mentioned as a famous Czech composer and what church did he play at?",
+    "response": [
+        "doc_16215.txt",
+        "doc_14550.txt",
+        "doc_10760.txt",
+        "doc_4961.txt",
+        "doc_14556.txt"
+    ]
+}

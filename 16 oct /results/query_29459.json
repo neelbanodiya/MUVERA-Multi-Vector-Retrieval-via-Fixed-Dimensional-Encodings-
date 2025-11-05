@@ -1,0 +1,10 @@
+{
+    "query": "What tools do Crime Scene Investigators (CSIs) use to recover fingerprints?",
+    "response": [
+        "doc_17135.txt",
+        "doc_17137.txt",
+        "doc_17138.txt",
+        "doc_17136.txt",
+        "doc_17657.txt"
+    ]
+}

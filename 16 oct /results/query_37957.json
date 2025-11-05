@@ -1,0 +1,10 @@
+{
+    "query": "During what reign did Charles withdraw from school?",
+    "response": [
+        "doc_22254.txt",
+        "doc_463.txt",
+        "doc_1454.txt",
+        "doc_21065.txt",
+        "doc_21059.txt"
+    ]
+}

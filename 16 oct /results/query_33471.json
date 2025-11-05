@@ -1,0 +1,10 @@
+{
+    "query": "When was Charles Keating arrested and indicted for fraud, and what event triggered this action?",
+    "response": [
+        "doc_19510.txt",
+        "doc_19516.txt",
+        "doc_19509.txt",
+        "doc_9545.txt",
+        "doc_9675.txt"
+    ]
+}

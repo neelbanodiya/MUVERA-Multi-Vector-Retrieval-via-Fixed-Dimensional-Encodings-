@@ -1,0 +1,10 @@
+{
+    "query": "What is a common characteristic associated with the French artist Pierre Le Faguays, as mentioned in one of the linked articles?",
+    "response": [
+        "doc_7648.txt",
+        "doc_628.txt",
+        "doc_17830.txt",
+        "doc_17882.txt",
+        "doc_1116.txt"
+    ]
+}

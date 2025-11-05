@@ -1,0 +1,10 @@
+{
+    "query": "In what year did *Wonderful Town* originally premiere on Broadway?",
+    "response": [
+        "doc_17918.txt",
+        "doc_21091.txt",
+        "doc_17914.txt",
+        "doc_244.txt",
+        "doc_22623.txt"
+    ]
+}

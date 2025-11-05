@@ -1,0 +1,10 @@
+{
+    "query": "What is the European Parliament\u2019s proposed method for stimulating the debate on the Union\u2019s policy direction?",
+    "response": [
+        "doc_17373.txt",
+        "doc_17358.txt",
+        "doc_17345.txt",
+        "doc_17351.txt",
+        "doc_17369.txt"
+    ]
+}

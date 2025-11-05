@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what title did Lucius Apuleius give to the Egyptian goddess Isis?",
+    "response": [
+        "doc_12557.txt",
+        "doc_12556.txt",
+        "doc_12561.txt",
+        "doc_12555.txt",
+        "doc_12553.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which palace is described as the \u201cimperial base\u201d of the Habsburg dynasty?",
+    "response": [
+        "doc_8633.txt",
+        "doc_8638.txt",
+        "doc_8634.txt",
+        "doc_8635.txt",
+        "doc_8640.txt"
+    ]
+}

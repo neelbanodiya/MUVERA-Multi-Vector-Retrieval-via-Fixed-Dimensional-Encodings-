@@ -1,0 +1,10 @@
+{
+    "query": "When was the Presidio of San Francisco initially established?",
+    "response": [
+        "doc_16681.txt",
+        "doc_16691.txt",
+        "doc_16685.txt",
+        "doc_16686.txt",
+        "doc_16682.txt"
+    ]
+}

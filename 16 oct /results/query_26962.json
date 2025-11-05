@@ -1,0 +1,10 @@
+{
+    "query": "What was the consequence of Ham\u2019s actions as described in the provided texts?",
+    "response": [
+        "doc_15680.txt",
+        "doc_14526.txt",
+        "doc_2026.txt",
+        "doc_20104.txt",
+        "doc_16893.txt"
+    ]
+}

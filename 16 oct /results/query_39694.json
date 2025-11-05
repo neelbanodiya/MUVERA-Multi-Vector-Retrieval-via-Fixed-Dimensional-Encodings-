@@ -1,0 +1,10 @@
+{
+    "query": "What is the Council\u2019s current thinking on this issue?",
+    "response": [
+        "doc_5727.txt",
+        "doc_17474.txt",
+        "doc_22438.txt",
+        "doc_8324.txt",
+        "doc_16105.txt"
+    ]
+}

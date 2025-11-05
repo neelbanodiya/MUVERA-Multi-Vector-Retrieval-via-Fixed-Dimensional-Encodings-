@@ -1,0 +1,10 @@
+{
+    "query": "Who asked Weston to do more arrangements for his band?",
+    "response": [
+        "doc_22803.txt",
+        "doc_22731.txt",
+        "doc_19136.txt",
+        "doc_3128.txt",
+        "doc_9455.txt"
+    ]
+}

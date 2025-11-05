@@ -1,0 +1,10 @@
+{
+    "query": "Why did US negotiators oppose specific targets during the international climate negotiations?",
+    "response": [
+        "doc_15879.txt",
+        "doc_2065.txt",
+        "doc_3601.txt",
+        "doc_9398.txt",
+        "doc_9205.txt"
+    ]
+}

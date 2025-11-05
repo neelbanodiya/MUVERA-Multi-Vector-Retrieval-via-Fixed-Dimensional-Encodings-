@@ -1,0 +1,10 @@
+{
+    "query": "Who is Micky Dolenz?",
+    "response": [
+        "doc_12340.txt",
+        "doc_4728.txt",
+        "doc_12409.txt",
+        "doc_6821.txt",
+        "doc_10936.txt"
+    ]
+}

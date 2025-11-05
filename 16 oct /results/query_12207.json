@@ -1,0 +1,10 @@
+{
+    "query": "When was the Kojiki, a significant text in Japanese history, compiled?",
+    "response": [
+        "doc_7132.txt",
+        "doc_7129.txt",
+        "doc_7137.txt",
+        "doc_7142.txt",
+        "doc_7144.txt"
+    ]
+}

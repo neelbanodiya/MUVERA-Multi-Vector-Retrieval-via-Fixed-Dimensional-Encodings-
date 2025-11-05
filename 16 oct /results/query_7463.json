@@ -1,0 +1,10 @@
+{
+    "query": "Which directive was the Commission asking the Spanish Government to consider in relation to the potential violation?",
+    "response": [
+        "doc_476.txt",
+        "doc_22385.txt",
+        "doc_21498.txt",
+        "doc_12431.txt",
+        "doc_9186.txt"
+    ]
+}

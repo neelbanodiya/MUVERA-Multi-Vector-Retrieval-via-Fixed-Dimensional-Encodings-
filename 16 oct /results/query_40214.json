@@ -1,0 +1,10 @@
+{
+    "query": "What are the names of the highest peaks within the Pyrenees mountain range?",
+    "response": [
+        "doc_23528.txt",
+        "doc_23524.txt",
+        "doc_23529.txt",
+        "doc_23531.txt",
+        "doc_23533.txt"
+    ]
+}

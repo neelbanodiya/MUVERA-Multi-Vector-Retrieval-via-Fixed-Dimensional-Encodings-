@@ -1,0 +1,10 @@
+{
+    "query": "What event occurred in Brixton in April 1981, as described in one of the articles?",
+    "response": [
+        "doc_8295.txt",
+        "doc_20875.txt",
+        "doc_18619.txt",
+        "doc_1483.txt",
+        "doc_20874.txt"
+    ]
+}

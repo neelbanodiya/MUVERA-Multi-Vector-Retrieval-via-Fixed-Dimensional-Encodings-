@@ -1,0 +1,10 @@
+{
+    "query": "What was Gandhi doing on August 15th, 1947, when India celebrated its independence?",
+    "response": [
+        "doc_18985.txt",
+        "doc_18989.txt",
+        "doc_19000.txt",
+        "doc_18988.txt",
+        "doc_18987.txt"
+    ]
+}

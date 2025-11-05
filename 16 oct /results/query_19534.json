@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided information, what is Mrs. Bennet\u2019s immediate reaction upon Mr. Bingley\u2019s arrival?",
+    "response": [
+        "doc_20129.txt",
+        "doc_16053.txt",
+        "doc_4262.txt",
+        "doc_16050.txt",
+        "doc_10678.txt"
+    ]
+}

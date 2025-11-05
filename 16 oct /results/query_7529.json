@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, was Ibaka considered a core part of the Thunder\u2019s team?",
+    "response": [
+        "doc_14531.txt",
+        "doc_10253.txt",
+        "doc_8789.txt",
+        "doc_12713.txt",
+        "doc_15269.txt"
+    ]
+}

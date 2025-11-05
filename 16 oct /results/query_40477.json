@@ -1,0 +1,10 @@
+{
+    "query": "According to the Commission communication, what is the maximum percentage of a film\u2019s production budget that an aid can represent?",
+    "response": [
+        "doc_4154.txt",
+        "doc_23672.txt",
+        "doc_22334.txt",
+        "doc_5190.txt",
+        "doc_12615.txt"
+    ]
+}

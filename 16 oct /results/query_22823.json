@@ -1,0 +1,10 @@
+{
+    "query": "On what date did the Commission submit the proposal to Parliament?",
+    "response": [
+        "doc_5841.txt",
+        "doc_8188.txt",
+        "doc_13141.txt",
+        "doc_22546.txt",
+        "doc_6761.txt"
+    ]
+}

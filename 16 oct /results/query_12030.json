@@ -1,0 +1,10 @@
+{
+    "query": "What diet plan does Dr. Dean Ornish recommend?",
+    "response": [
+        "doc_7030.txt",
+        "doc_7040.txt",
+        "doc_7037.txt",
+        "doc_7031.txt",
+        "doc_7039.txt"
+    ]
+}

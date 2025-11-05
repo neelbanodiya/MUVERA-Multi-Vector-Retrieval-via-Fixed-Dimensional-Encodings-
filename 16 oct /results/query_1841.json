@@ -1,0 +1,10 @@
+{
+    "query": "Things were anything but peaceful in 1989 at this square in Beijing whose name means \u201cgate of heavenly peace\u201d?",
+    "response": [
+        "doc_1043.txt",
+        "doc_1042.txt",
+        "doc_1054.txt",
+        "doc_1053.txt",
+        "doc_1048.txt"
+    ]
+}

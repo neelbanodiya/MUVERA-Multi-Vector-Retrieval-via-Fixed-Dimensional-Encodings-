@@ -1,0 +1,10 @@
+{
+    "query": "What year did Andrew Lloyd Webber\u2019s musical *Evita* win its seven Tony Awards?",
+    "response": [
+        "doc_22622.txt",
+        "doc_1964.txt",
+        "doc_22621.txt",
+        "doc_22623.txt",
+        "doc_22624.txt"
+    ]
+}

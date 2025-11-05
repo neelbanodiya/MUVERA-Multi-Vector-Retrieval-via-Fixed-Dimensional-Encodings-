@@ -1,0 +1,10 @@
+{
+    "query": "What political parties were active during the 1856 presidential election, and who was the last Whig president?",
+    "response": [
+        "doc_2769.txt",
+        "doc_16805.txt",
+        "doc_2766.txt",
+        "doc_2761.txt",
+        "doc_17411.txt"
+    ]
+}

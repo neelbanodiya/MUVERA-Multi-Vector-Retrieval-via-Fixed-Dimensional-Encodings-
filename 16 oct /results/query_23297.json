@@ -1,0 +1,10 @@
+{
+    "query": "What significant battle, occurring in 1847, involved Marines storming the Palacio Nacional and is referenced in the Marines\u2019 Hymn?",
+    "response": [
+        "doc_13490.txt",
+        "doc_207.txt",
+        "doc_4015.txt",
+        "doc_4066.txt",
+        "doc_23521.txt"
+    ]
+}

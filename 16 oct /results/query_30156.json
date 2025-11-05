@@ -1,0 +1,10 @@
+{
+    "query": "What administrative expenditure was introduced in the 2006 PDB, and to which agency was a contribution made?",
+    "response": [
+        "doc_17607.txt",
+        "doc_23146.txt",
+        "doc_17529.txt",
+        "doc_14304.txt",
+        "doc_19696.txt"
+    ]
+}

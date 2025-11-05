@@ -1,0 +1,10 @@
+{
+    "query": "What was the box office gross of \u201cRatatouille\u201d in North America?",
+    "response": [
+        "doc_7513.txt",
+        "doc_10714.txt",
+        "doc_20008.txt",
+        "doc_2676.txt",
+        "doc_2800.txt"
+    ]
+}

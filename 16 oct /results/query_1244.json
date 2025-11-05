@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was the weather like on the morning described in \u201cZorba The Greek\u201d?",
+    "response": [
+        "doc_11060.txt",
+        "doc_15373.txt",
+        "doc_15380.txt",
+        "doc_7656.txt",
+        "doc_7648.txt"
+    ]
+}

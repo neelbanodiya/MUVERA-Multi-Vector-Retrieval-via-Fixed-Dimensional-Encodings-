@@ -1,0 +1,10 @@
+{
+    "query": "What musical genre is associated with the group Technotronic?",
+    "response": [
+        "doc_19462.txt",
+        "doc_16349.txt",
+        "doc_10075.txt",
+        "doc_19460.txt",
+        "doc_15612.txt"
+    ]
+}

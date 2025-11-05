@@ -1,0 +1,10 @@
+{
+    "query": "What is the \u201cWoodstock of physics\u201d and when did it occur?",
+    "response": [
+        "doc_18611.txt",
+        "doc_13009.txt",
+        "doc_20875.txt",
+        "doc_18619.txt",
+        "doc_18614.txt"
+    ]
+}

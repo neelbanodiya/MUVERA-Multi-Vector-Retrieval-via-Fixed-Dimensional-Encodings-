@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Richard Petty retire from NASCAR competition?",
+    "response": [
+        "doc_9083.txt",
+        "doc_9084.txt",
+        "doc_9090.txt",
+        "doc_9876.txt",
+        "doc_22758.txt"
+    ]
+}

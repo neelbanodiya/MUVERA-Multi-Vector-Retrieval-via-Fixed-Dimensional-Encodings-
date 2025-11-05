@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject of the statue found with Paris holding the Apple of Discord?",
+    "response": [
+        "doc_3875.txt",
+        "doc_3871.txt",
+        "doc_3874.txt",
+        "doc_3878.txt",
+        "doc_3876.txt"
+    ]
+}

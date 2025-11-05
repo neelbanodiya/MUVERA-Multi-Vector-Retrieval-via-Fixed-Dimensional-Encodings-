@@ -1,0 +1,10 @@
+{
+    "query": "What two pieces of legislation does the Commission state are not contradictory?",
+    "response": [
+        "doc_21010.txt",
+        "doc_23224.txt",
+        "doc_8883.txt",
+        "doc_15597.txt",
+        "doc_21023.txt"
+    ]
+}

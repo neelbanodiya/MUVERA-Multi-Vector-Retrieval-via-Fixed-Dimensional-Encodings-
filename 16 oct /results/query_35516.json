@@ -1,0 +1,10 @@
+{
+    "query": "What events led to the assassination of Egyptian President Sadat?",
+    "response": [
+        "doc_17965.txt",
+        "doc_20672.txt",
+        "doc_9769.txt",
+        "doc_4809.txt",
+        "doc_22393.txt"
+    ]
+}

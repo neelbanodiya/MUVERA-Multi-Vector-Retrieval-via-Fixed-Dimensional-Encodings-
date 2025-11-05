@@ -1,0 +1,10 @@
+{
+    "query": "What entertainment company is named after a small town featured in a Stephen King series?",
+    "response": [
+        "doc_3726.txt",
+        "doc_11146.txt",
+        "doc_4240.txt",
+        "doc_8011.txt",
+        "doc_6090.txt"
+    ]
+}

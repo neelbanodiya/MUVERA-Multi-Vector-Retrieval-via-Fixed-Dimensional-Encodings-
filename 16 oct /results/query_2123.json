@@ -1,0 +1,10 @@
+{
+    "query": "According to multiple sources, what specific lines of text are associated with the pursuit of Moby Dick?",
+    "response": [
+        "doc_1258.txt",
+        "doc_1257.txt",
+        "doc_1259.txt",
+        "doc_3824.txt",
+        "doc_21237.txt"
+    ]
+}

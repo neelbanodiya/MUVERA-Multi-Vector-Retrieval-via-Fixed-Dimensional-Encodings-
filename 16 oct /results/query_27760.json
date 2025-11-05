@@ -1,0 +1,10 @@
+{
+    "query": "What directive was the recently adopted Commission proposal for avian influenza based on?",
+    "response": [
+        "doc_11798.txt",
+        "doc_16154.txt",
+        "doc_21864.txt",
+        "doc_393.txt",
+        "doc_24037.txt"
+    ]
+}

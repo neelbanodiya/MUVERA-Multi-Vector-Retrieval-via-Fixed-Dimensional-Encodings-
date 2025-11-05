@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of a book mentioned in the passage that includes the phrase \"Firth of Forth\"?",
+    "response": [
+        "doc_22365.txt",
+        "doc_9438.txt",
+        "doc_8260.txt",
+        "doc_9446.txt",
+        "doc_15581.txt"
+    ]
+}

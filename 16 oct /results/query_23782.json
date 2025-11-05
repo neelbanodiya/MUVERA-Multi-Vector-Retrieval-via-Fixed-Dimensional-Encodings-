@@ -1,0 +1,10 @@
+{
+    "query": "What year did J.M.W. Turner paint \u201cThe Blue Rigi: Lake of Lucerne\u201d?",
+    "response": [
+        "doc_13800.txt",
+        "doc_13802.txt",
+        "doc_6975.txt",
+        "doc_4302.txt",
+        "doc_21507.txt"
+    ]
+}

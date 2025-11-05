@@ -1,0 +1,10 @@
+{
+    "query": "According to one website, what does \u201cBronco\u201d represent?",
+    "response": [
+        "doc_23176.txt",
+        "doc_23178.txt",
+        "doc_23177.txt",
+        "doc_23185.txt",
+        "doc_4827.txt"
+    ]
+}

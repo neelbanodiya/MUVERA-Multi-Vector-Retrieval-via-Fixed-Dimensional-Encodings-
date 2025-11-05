@@ -1,0 +1,10 @@
+{
+    "query": "What obstacle to e-commerce in the Union is mentioned in the 9 May 2010 market report?",
+    "response": [
+        "doc_18039.txt",
+        "doc_5560.txt",
+        "doc_18261.txt",
+        "doc_7459.txt",
+        "doc_2601.txt"
+    ]
+}

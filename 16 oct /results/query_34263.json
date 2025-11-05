@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary goal outlined in the resolution regarding the Middle East?",
+    "response": [
+        "doc_4809.txt",
+        "doc_22717.txt",
+        "doc_9102.txt",
+        "doc_8115.txt",
+        "doc_4810.txt"
+    ]
+}

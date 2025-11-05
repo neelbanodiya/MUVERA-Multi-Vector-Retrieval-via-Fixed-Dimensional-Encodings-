@@ -1,0 +1,10 @@
+{
+    "query": "What Spanish song is mentioned as a strong rhythmic example, reminiscent of the \u201cToreador\u2019s Song\u201d?",
+    "response": [
+        "doc_21963.txt",
+        "doc_21957.txt",
+        "doc_21966.txt",
+        "doc_22491.txt",
+        "doc_7456.txt"
+    ]
+}

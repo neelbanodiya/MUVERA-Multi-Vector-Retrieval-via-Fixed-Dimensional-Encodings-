@@ -1,0 +1,10 @@
+{
+    "query": "What is Sadie\u2019s profession, as described in the biography provided?",
+    "response": [
+        "doc_2955.txt",
+        "doc_453.txt",
+        "doc_20025.txt",
+        "doc_2177.txt",
+        "doc_14229.txt"
+    ]
+}

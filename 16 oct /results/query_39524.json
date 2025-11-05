@@ -1,0 +1,10 @@
+{
+    "query": "What country is the town Limpio located in?",
+    "response": [
+        "doc_38.txt",
+        "doc_16153.txt",
+        "doc_20399.txt",
+        "doc_15478.txt",
+        "doc_21353.txt"
+    ]
+}

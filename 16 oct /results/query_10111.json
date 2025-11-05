@@ -1,0 +1,10 @@
+{
+    "query": "When was \u201cThe Table\u201d first broadcast on British television?",
+    "response": [
+        "doc_11326.txt",
+        "doc_17887.txt",
+        "doc_12270.txt",
+        "doc_5868.txt",
+        "doc_9416.txt"
+    ]
+}

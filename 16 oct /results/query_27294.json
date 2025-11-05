@@ -1,0 +1,10 @@
+{
+    "query": "What time period does the term \u201cdynastic\u201d refer to in the context of Chinese art?",
+    "response": [
+        "doc_15845.txt",
+        "doc_5430.txt",
+        "doc_12424.txt",
+        "doc_7648.txt",
+        "doc_18500.txt"
+    ]
+}

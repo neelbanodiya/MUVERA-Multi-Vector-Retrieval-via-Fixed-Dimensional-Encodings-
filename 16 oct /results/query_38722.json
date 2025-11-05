@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which countries are explicitly listed as being part of Algeria, Egypt, Libya, Mauritania, Morocco, and Tunisia?",
+    "response": [
+        "doc_22691.txt",
+        "doc_22688.txt",
+        "doc_10127.txt",
+        "doc_22694.txt",
+        "doc_22689.txt"
+    ]
+}

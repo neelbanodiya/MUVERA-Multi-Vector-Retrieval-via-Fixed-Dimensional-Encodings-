@@ -1,0 +1,10 @@
+{
+    "query": "What specific legal requirement regarding nitrogen oxide emissions is highlighted in the passage, regardless of any findings in the BREF document?",
+    "response": [
+        "doc_20110.txt",
+        "doc_18006.txt",
+        "doc_16414.txt",
+        "doc_6171.txt",
+        "doc_5835.txt"
+    ]
+}

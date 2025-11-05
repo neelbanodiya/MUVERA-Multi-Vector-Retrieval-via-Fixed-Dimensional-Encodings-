@@ -1,0 +1,10 @@
+{
+    "query": "In what book does the Hatter appear?",
+    "response": [
+        "doc_20311.txt",
+        "doc_20310.txt",
+        "doc_24254.txt",
+        "doc_9990.txt",
+        "doc_9438.txt"
+    ]
+}

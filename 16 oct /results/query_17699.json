@@ -1,0 +1,10 @@
+{
+    "query": "With whom does the prince fall in love during his time in Heidelberg?",
+    "response": [
+        "doc_10269.txt",
+        "doc_10268.txt",
+        "doc_10276.txt",
+        "doc_10271.txt",
+        "doc_10278.txt"
+    ]
+}

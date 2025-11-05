@@ -1,0 +1,10 @@
+{
+    "query": "What was the GDP growth rate observed in Central America in 2014?",
+    "response": [
+        "doc_538.txt",
+        "doc_535.txt",
+        "doc_541.txt",
+        "doc_537.txt",
+        "doc_6096.txt"
+    ]
+}

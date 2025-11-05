@@ -1,0 +1,10 @@
+{
+    "query": "What types of products does the TDE brand sell?",
+    "response": [
+        "doc_20932.txt",
+        "doc_20933.txt",
+        "doc_12645.txt",
+        "doc_23456.txt",
+        "doc_1097.txt"
+    ]
+}

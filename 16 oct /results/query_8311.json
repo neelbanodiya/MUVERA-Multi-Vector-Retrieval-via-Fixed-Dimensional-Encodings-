@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Artificial Intelligence Laboratory located?",
+    "response": [
+        "doc_4803.txt",
+        "doc_4804.txt",
+        "doc_4805.txt",
+        "doc_4806.txt",
+        "doc_4808.txt"
+    ]
+}

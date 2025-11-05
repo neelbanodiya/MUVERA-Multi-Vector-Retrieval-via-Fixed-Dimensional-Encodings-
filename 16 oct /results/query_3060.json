@@ -1,0 +1,10 @@
+{
+    "query": "What weapon requires using \u201cBurst Rifle: Use \u2026 Winner Takes All, Again (50 points)\u201d?",
+    "response": [
+        "doc_1873.txt",
+        "doc_1874.txt",
+        "doc_1869.txt",
+        "doc_8604.txt",
+        "doc_3958.txt"
+    ]
+}

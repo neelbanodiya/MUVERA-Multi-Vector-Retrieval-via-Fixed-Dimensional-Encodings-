@@ -1,0 +1,10 @@
+{
+    "query": "What committee received a request for Sergio Guti\u00e9rrez Prieto to replace Miguel Angel Mart\u00ednez Mart\u00ednez?",
+    "response": [
+        "doc_1036.txt",
+        "doc_6401.txt",
+        "doc_11968.txt",
+        "doc_11972.txt",
+        "doc_18742.txt"
+    ]
+}

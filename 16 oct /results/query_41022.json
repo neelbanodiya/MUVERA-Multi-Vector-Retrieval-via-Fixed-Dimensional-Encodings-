@@ -1,0 +1,10 @@
+{
+    "query": "Where did A. C. Bennett and his cousin attempt to fly planes?",
+    "response": [
+        "doc_24005.txt",
+        "doc_23966.txt",
+        "doc_23965.txt",
+        "doc_14516.txt",
+        "doc_1341.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the earlier book that *The Lord of the Rings* is a sequel to?",
+    "response": [
+        "doc_15558.txt",
+        "doc_15544.txt",
+        "doc_15552.txt",
+        "doc_15551.txt",
+        "doc_15556.txt"
+    ]
+}

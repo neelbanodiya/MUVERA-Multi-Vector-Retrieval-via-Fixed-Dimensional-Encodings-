@@ -1,0 +1,10 @@
+{
+    "query": "What specific attraction in New York City is located in front of the Metropolitan Museum of Art?",
+    "response": [
+        "doc_14728.txt",
+        "doc_14736.txt",
+        "doc_14729.txt",
+        "doc_20379.txt",
+        "doc_20384.txt"
+    ]
+}

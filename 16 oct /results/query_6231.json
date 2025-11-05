@@ -1,0 +1,10 @@
+{
+    "query": "What is Knole House\u2019s location, as described in the passage?",
+    "response": [
+        "doc_3614.txt",
+        "doc_3618.txt",
+        "doc_3613.txt",
+        "doc_3611.txt",
+        "doc_3616.txt"
+    ]
+}

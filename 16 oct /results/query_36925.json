@@ -1,0 +1,10 @@
+{
+    "query": "What are the classifications of monkeys (New World vs. Old World)?",
+    "response": [
+        "doc_21576.txt",
+        "doc_21577.txt",
+        "doc_21593.txt",
+        "doc_21590.txt",
+        "doc_21583.txt"
+    ]
+}

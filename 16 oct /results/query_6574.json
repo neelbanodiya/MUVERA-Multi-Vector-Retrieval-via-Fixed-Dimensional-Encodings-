@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cThe Bad News Bears\u201d released?",
+    "response": [
+        "doc_3771.txt",
+        "doc_3779.txt",
+        "doc_3788.txt",
+        "doc_3785.txt",
+        "doc_3774.txt"
+    ]
+}

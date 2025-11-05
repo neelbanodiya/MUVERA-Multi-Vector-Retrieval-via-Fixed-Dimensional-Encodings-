@@ -1,0 +1,10 @@
+{
+    "query": "What television channel aired the final graduation episodes of *The Paper Chase*?",
+    "response": [
+        "doc_2185.txt",
+        "doc_19272.txt",
+        "doc_5358.txt",
+        "doc_493.txt",
+        "doc_21972.txt"
+    ]
+}

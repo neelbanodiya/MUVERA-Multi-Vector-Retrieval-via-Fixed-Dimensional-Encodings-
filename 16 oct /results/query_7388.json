@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Kelvinator company introduce the first refrigerator with a specific type of mechanism?",
+    "response": [
+        "doc_4285.txt",
+        "doc_4291.txt",
+        "doc_4290.txt",
+        "doc_4293.txt",
+        "doc_4286.txt"
+    ]
+}

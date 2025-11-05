@@ -1,0 +1,10 @@
+{
+    "query": "According to a Quandl data point, what was the price-to-earnings ratio for Mattel Inc. as of June 30, 2016?",
+    "response": [
+        "doc_3678.txt",
+        "doc_3681.txt",
+        "doc_7459.txt",
+        "doc_4879.txt",
+        "doc_10236.txt"
+    ]
+}

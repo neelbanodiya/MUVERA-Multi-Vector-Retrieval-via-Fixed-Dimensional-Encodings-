@@ -1,0 +1,10 @@
+{
+    "query": "What geographical connection does the Strait of Hormuz provide between the Arabian Gulf and the Gulf of Oman?",
+    "response": [
+        "doc_22940.txt",
+        "doc_22947.txt",
+        "doc_22938.txt",
+        "doc_22949.txt",
+        "doc_22941.txt"
+    ]
+}

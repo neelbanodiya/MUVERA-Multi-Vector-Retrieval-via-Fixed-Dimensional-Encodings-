@@ -1,0 +1,10 @@
+{
+    "query": "When was Mr. Dupuis elected to the European Parliament, and what was the basis for considering him an Italian Member of Parliament under the PPI?",
+    "response": [
+        "doc_20104.txt",
+        "doc_20106.txt",
+        "doc_20107.txt",
+        "doc_20108.txt",
+        "doc_4574.txt"
+    ]
+}

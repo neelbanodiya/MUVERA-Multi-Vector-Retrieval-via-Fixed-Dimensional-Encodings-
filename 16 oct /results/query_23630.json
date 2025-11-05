@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is a significant number in both religious contexts (like the seven days of Creation) and cultural traditions (like the seven days of Passover)?",
+    "response": [
+        "doc_104.txt",
+        "doc_98.txt",
+        "doc_13707.txt",
+        "doc_19768.txt",
+        "doc_12140.txt"
+    ]
+}

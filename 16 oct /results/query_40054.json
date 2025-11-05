@@ -1,0 +1,10 @@
+{
+    "query": "What ingredients are used to make Amaretti cookies?",
+    "response": [
+        "doc_23456.txt",
+        "doc_23450.txt",
+        "doc_23458.txt",
+        "doc_23449.txt",
+        "doc_23447.txt"
+    ]
+}

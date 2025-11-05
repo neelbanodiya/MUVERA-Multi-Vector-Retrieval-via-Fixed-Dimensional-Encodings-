@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what type of film is featured in the Andy Warhol Museum's selection from 1964?",
+    "response": [
+        "doc_10029.txt",
+        "doc_21246.txt",
+        "doc_15482.txt",
+        "doc_19694.txt",
+        "doc_8898.txt"
+    ]
+}

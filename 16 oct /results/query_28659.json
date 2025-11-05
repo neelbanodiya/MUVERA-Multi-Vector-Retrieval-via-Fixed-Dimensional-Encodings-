@@ -1,0 +1,10 @@
+{
+    "query": "What was the location of the original Spanish military outpost known as?",
+    "response": [
+        "doc_16694.txt",
+        "doc_16691.txt",
+        "doc_16690.txt",
+        "doc_18154.txt",
+        "doc_16684.txt"
+    ]
+}

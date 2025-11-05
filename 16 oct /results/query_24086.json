@@ -1,0 +1,10 @@
+{
+    "query": "What color flowers are typically seen in Texas during April?",
+    "response": [
+        "doc_13963.txt",
+        "doc_13964.txt",
+        "doc_13965.txt",
+        "doc_13972.txt",
+        "doc_13966.txt"
+    ]
+}

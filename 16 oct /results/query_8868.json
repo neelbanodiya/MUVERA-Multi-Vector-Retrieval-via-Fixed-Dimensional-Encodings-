@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission currently supporting in terms of research related to cardiovascular diseases?",
+    "response": [
+        "doc_5124.txt",
+        "doc_11333.txt",
+        "doc_14627.txt",
+        "doc_23863.txt",
+        "doc_14296.txt"
+    ]
+}

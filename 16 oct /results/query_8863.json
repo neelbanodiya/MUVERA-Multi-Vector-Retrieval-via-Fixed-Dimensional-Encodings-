@@ -1,0 +1,10 @@
+{
+    "query": "What specific measures are planned to support energy efficiency and renewable energy, as announced by the Commission?",
+    "response": [
+        "doc_179.txt",
+        "doc_22440.txt",
+        "doc_23222.txt",
+        "doc_22065.txt",
+        "doc_22992.txt"
+    ]
+}

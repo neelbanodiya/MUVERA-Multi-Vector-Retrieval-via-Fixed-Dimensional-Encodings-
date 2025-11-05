@@ -1,0 +1,10 @@
+{
+    "query": "What color is the center line on an NHL rink?",
+    "response": [
+        "doc_16875.txt",
+        "doc_16876.txt",
+        "doc_16877.txt",
+        "doc_16878.txt",
+        "doc_16879.txt"
+    ]
+}

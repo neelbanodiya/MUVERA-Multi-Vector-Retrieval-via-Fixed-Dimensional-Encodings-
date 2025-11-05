@@ -1,0 +1,10 @@
+{
+    "query": "Besides the ski jump, what other notable attraction is located in Oslo?",
+    "response": [
+        "doc_17856.txt",
+        "doc_17854.txt",
+        "doc_17858.txt",
+        "doc_17857.txt",
+        "doc_17860.txt"
+    ]
+}

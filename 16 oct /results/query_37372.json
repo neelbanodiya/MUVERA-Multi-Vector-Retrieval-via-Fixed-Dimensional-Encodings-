@@ -1,0 +1,10 @@
+{
+    "query": "Besides mobiles, what other types of artwork did Alexander Calder create, as mentioned in the provided text?",
+    "response": [
+        "doc_14871.txt",
+        "doc_22070.txt",
+        "doc_3691.txt",
+        "doc_6305.txt",
+        "doc_8167.txt"
+    ]
+}

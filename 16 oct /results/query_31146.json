@@ -1,0 +1,10 @@
+{
+    "query": "Which individuals, besides Sarah Good and Sarah Osborne, were among the first three accused?",
+    "response": [
+        "doc_18147.txt",
+        "doc_18146.txt",
+        "doc_18148.txt",
+        "doc_18145.txt",
+        "doc_18149.txt"
+    ]
+}

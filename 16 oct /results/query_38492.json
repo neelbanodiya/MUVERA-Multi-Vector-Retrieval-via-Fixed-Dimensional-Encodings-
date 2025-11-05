@@ -1,0 +1,10 @@
+{
+    "query": "How many times has J.M. Coetzee won the Booker Prize?",
+    "response": [
+        "doc_22570.txt",
+        "doc_22571.txt",
+        "doc_22577.txt",
+        "doc_22572.txt",
+        "doc_22573.txt"
+    ]
+}

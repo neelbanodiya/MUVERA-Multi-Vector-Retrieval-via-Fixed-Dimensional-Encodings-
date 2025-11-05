@@ -1,0 +1,10 @@
+{
+    "query": "What are the dimensions of a standard ice hockey rink in North America?",
+    "response": [
+        "doc_16875.txt",
+        "doc_16876.txt",
+        "doc_16877.txt",
+        "doc_16879.txt",
+        "doc_16878.txt"
+    ]
+}

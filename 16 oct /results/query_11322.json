@@ -1,0 +1,10 @@
+{
+    "query": "What was Sir John Fastolf\u2019s mother\u2019s family background?",
+    "response": [
+        "doc_6567.txt",
+        "doc_15413.txt",
+        "doc_23196.txt",
+        "doc_14375.txt",
+        "doc_7303.txt"
+    ]
+}

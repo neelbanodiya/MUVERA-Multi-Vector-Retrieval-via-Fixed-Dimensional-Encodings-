@@ -1,0 +1,10 @@
+{
+    "query": "According to Martin Gilbert, what facilitated an entry into the country to repel the Russians?",
+    "response": [
+        "doc_17782.txt",
+        "doc_23265.txt",
+        "doc_23270.txt",
+        "doc_23267.txt",
+        "doc_11839.txt"
+    ]
+}

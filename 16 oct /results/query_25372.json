@@ -1,0 +1,10 @@
+{
+    "query": "When was the Domesday Book completed?",
+    "response": [
+        "doc_14700.txt",
+        "doc_22245.txt",
+        "doc_14716.txt",
+        "doc_14698.txt",
+        "doc_14550.txt"
+    ]
+}

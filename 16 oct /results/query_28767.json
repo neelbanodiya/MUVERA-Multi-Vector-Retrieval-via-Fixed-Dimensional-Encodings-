@@ -1,0 +1,10 @@
+{
+    "query": "How is miso used in Japanese cuisine, as described in the articles?",
+    "response": [
+        "doc_16760.txt",
+        "doc_16764.txt",
+        "doc_16762.txt",
+        "doc_16767.txt",
+        "doc_16768.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who are some musicians nurtured by Sun Ra and Andrew Hill?",
+    "response": [
+        "doc_3076.txt",
+        "doc_5897.txt",
+        "doc_12339.txt",
+        "doc_1784.txt",
+        "doc_6058.txt"
+    ]
+}

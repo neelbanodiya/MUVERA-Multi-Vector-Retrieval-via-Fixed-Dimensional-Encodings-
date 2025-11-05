@@ -1,0 +1,10 @@
+{
+    "query": "Did The Smashing Pumpkins abort their set at the Arrowhead Pond in Anaheim?",
+    "response": [
+        "doc_24152.txt",
+        "doc_13009.txt",
+        "doc_13010.txt",
+        "doc_7629.txt",
+        "doc_19243.txt"
+    ]
+}

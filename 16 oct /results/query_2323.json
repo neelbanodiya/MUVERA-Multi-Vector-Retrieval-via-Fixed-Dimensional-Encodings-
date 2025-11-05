@@ -1,0 +1,10 @@
+{
+    "query": "According to Crow [as Magee], what happens if someone kills themselves?",
+    "response": [
+        "doc_287.txt",
+        "doc_14312.txt",
+        "doc_23769.txt",
+        "doc_9226.txt",
+        "doc_23911.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the proposed purchase price of Staples\u2019 attempted acquisition of Office Depot?",
+    "response": [
+        "doc_10341.txt",
+        "doc_10340.txt",
+        "doc_10338.txt",
+        "doc_10339.txt",
+        "doc_10347.txt"
+    ]
+}

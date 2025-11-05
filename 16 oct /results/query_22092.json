@@ -1,0 +1,10 @@
+{
+    "query": "Who directed \u201cThe Perfect Storm\u201d?",
+    "response": [
+        "doc_2412.txt",
+        "doc_2411.txt",
+        "doc_10969.txt",
+        "doc_5156.txt",
+        "doc_2231.txt"
+    ]
+}

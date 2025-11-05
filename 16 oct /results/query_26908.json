@@ -1,0 +1,10 @@
+{
+    "query": "Which city is described as being \u201cgathered high on a rocky hill\u201d near Enna?",
+    "response": [
+        "doc_3329.txt",
+        "doc_1389.txt",
+        "doc_5428.txt",
+        "doc_18535.txt",
+        "doc_18154.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which five Member States were brought before the Court of Justice regarding the transposition of directives?",
+    "response": [
+        "doc_9882.txt",
+        "doc_21480.txt",
+        "doc_11813.txt",
+        "doc_17056.txt",
+        "doc_9883.txt"
+    ]
+}

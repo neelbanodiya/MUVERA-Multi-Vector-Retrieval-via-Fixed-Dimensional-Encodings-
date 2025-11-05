@@ -1,0 +1,10 @@
+{
+    "query": "What profession does Boaz Yakin have, as indicated by the provided text?",
+    "response": [
+        "doc_22481.txt",
+        "doc_14531.txt",
+        "doc_18922.txt",
+        "doc_21632.txt",
+        "doc_2026.txt"
+    ]
+}

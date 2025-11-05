@@ -1,0 +1,10 @@
+{
+    "query": "According to several NLRB decisions, what type of workers are now considered employees covered by the board?",
+    "response": [
+        "doc_996.txt",
+        "doc_9882.txt",
+        "doc_9886.txt",
+        "doc_14134.txt",
+        "doc_14131.txt"
+    ]
+}

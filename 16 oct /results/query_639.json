@@ -1,0 +1,10 @@
+{
+    "query": "According to eyewitness accounts, what was the approximate length of the \u201cblack hump\u201d seen in Loch Ness?",
+    "response": [
+        "doc_385.txt",
+        "doc_380.txt",
+        "doc_382.txt",
+        "doc_375.txt",
+        "doc_370.txt"
+    ]
+}

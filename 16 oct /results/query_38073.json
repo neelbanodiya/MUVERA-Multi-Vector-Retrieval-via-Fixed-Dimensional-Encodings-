@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is the original musical *Into The Woods* associated with?",
+    "response": [
+        "doc_22321.txt",
+        "doc_22325.txt",
+        "doc_22312.txt",
+        "doc_22307.txt",
+        "doc_22310.txt"
+    ]
+}

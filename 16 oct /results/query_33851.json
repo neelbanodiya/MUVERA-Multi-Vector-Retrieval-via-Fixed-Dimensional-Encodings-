@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of asylum applications from Turkish asylum seekers were approved, according to the report in Der Standard?",
+    "response": [
+        "doc_19701.txt",
+        "doc_5074.txt",
+        "doc_5075.txt",
+        "doc_3914.txt",
+        "doc_5073.txt"
+    ]
+}

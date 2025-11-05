@@ -1,0 +1,10 @@
+{
+    "query": "How many times has Tiger Woods missed a major championship since 2000?",
+    "response": [
+        "doc_3291.txt",
+        "doc_19640.txt",
+        "doc_3290.txt",
+        "doc_3293.txt",
+        "doc_3292.txt"
+    ]
+}

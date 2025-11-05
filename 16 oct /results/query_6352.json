@@ -1,0 +1,10 @@
+{
+    "query": "What partnership was announced by Mattel Inc. and Quirky?",
+    "response": [
+        "doc_3682.txt",
+        "doc_3676.txt",
+        "doc_3681.txt",
+        "doc_3678.txt",
+        "doc_3673.txt"
+    ]
+}

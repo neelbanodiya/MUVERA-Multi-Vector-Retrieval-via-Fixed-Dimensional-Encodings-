@@ -1,0 +1,10 @@
+{
+    "query": "What was the price of UPI paid in the transaction described?",
+    "response": [
+        "doc_15388.txt",
+        "doc_23578.txt",
+        "doc_23585.txt",
+        "doc_23577.txt",
+        "doc_23583.txt"
+    ]
+}

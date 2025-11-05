@@ -1,0 +1,10 @@
+{
+    "query": "What two hotels were built on the vacant lots previously used by Caesars Palace?",
+    "response": [
+        "doc_16829.txt",
+        "doc_16830.txt",
+        "doc_568.txt",
+        "doc_16826.txt",
+        "doc_5414.txt"
+    ]
+}

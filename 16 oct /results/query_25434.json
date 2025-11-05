@@ -1,0 +1,10 @@
+{
+    "query": "Where did the UD alumni tour take place?",
+    "response": [
+        "doc_12260.txt",
+        "doc_14747.txt",
+        "doc_16724.txt",
+        "doc_12735.txt",
+        "doc_15159.txt"
+    ]
+}

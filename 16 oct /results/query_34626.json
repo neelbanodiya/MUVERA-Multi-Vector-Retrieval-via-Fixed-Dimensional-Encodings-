@@ -1,0 +1,10 @@
+{
+    "query": "What specific lyric from Beck\u2019s song \u201cLoser\u201d describes a person as being \u201ca monkey\u201d?",
+    "response": [
+        "doc_20145.txt",
+        "doc_9518.txt",
+        "doc_23176.txt",
+        "doc_19752.txt",
+        "doc_14236.txt"
+    ]
+}

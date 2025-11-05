@@ -1,0 +1,10 @@
+{
+    "query": "What does the Greek word \u201cgeo\u201d mean in the context of geometry?",
+    "response": [
+        "doc_4327.txt",
+        "doc_4322.txt",
+        "doc_4330.txt",
+        "doc_4319.txt",
+        "doc_4328.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is Pinocchio\u2019s place within the Disney animated film canon?",
+    "response": [
+        "doc_20624.txt",
+        "doc_20623.txt",
+        "doc_20622.txt",
+        "doc_20619.txt",
+        "doc_20611.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What observation does Lee make about people\u2019s behavior when they are present for an extended period?",
+    "response": [
+        "doc_4198.txt",
+        "doc_4181.txt",
+        "doc_10665.txt",
+        "doc_15046.txt",
+        "doc_21949.txt"
+    ]
+}

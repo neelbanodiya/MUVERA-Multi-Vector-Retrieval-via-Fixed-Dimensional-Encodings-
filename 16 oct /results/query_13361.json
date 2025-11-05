@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Jeff Smith reach a settlement agreement?",
+    "response": [
+        "doc_23027.txt",
+        "doc_5841.txt",
+        "doc_7773.txt",
+        "doc_22393.txt",
+        "doc_22712.txt"
+    ]
+}

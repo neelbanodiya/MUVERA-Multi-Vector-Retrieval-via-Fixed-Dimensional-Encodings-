@@ -1,0 +1,10 @@
+{
+    "query": "What are the operating hours for visitors at the Buddhist monastery mentioned in the Connecticut Post article?",
+    "response": [
+        "doc_16572.txt",
+        "doc_8856.txt",
+        "doc_23687.txt",
+        "doc_8860.txt",
+        "doc_16573.txt"
+    ]
+}

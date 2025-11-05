@@ -1,0 +1,10 @@
+{
+    "query": "What phrases are included in the lyrics of \u201cAmerica the Beautiful\u201d?",
+    "response": [
+        "doc_5119.txt",
+        "doc_5116.txt",
+        "doc_18757.txt",
+        "doc_11929.txt",
+        "doc_8008.txt"
+    ]
+}

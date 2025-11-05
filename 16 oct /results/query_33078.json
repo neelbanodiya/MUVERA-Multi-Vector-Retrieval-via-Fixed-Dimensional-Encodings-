@@ -1,0 +1,10 @@
+{
+    "query": "What is the American classification of multiple personality disorder?",
+    "response": [
+        "doc_21020.txt",
+        "doc_3430.txt",
+        "doc_19118.txt",
+        "doc_18161.txt",
+        "doc_6154.txt"
+    ]
+}

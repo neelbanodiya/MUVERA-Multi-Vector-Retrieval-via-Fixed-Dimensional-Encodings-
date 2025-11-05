@@ -1,0 +1,10 @@
+{
+    "query": "What tropical cyclone made landfall over India on October 27?",
+    "response": [
+        "doc_18995.txt",
+        "doc_15800.txt",
+        "doc_15959.txt",
+        "doc_15953.txt",
+        "doc_15952.txt"
+    ]
+}

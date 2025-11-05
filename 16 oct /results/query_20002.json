@@ -1,0 +1,10 @@
+{
+    "query": "Which German inventor, working for Otto, is credited with developing the first internal combustion engine?",
+    "response": [
+        "doc_11542.txt",
+        "doc_11527.txt",
+        "doc_11534.txt",
+        "doc_11526.txt",
+        "doc_11537.txt"
+    ]
+}

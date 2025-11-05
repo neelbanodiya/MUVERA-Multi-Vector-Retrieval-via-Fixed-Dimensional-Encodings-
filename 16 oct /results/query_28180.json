@@ -1,0 +1,10 @@
+{
+    "query": "What two-letter words can be formed from the letters in \u201cxydcohzerpnamplertaisuwm\u201d?",
+    "response": [
+        "doc_12383.txt",
+        "doc_18317.txt",
+        "doc_3637.txt",
+        "doc_20886.txt",
+        "doc_12626.txt"
+    ]
+}

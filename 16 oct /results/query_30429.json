@@ -1,0 +1,10 @@
+{
+    "query": "Where did the events of *Il Postino* primarily take place?",
+    "response": [
+        "doc_14208.txt",
+        "doc_18155.txt",
+        "doc_20105.txt",
+        "doc_20104.txt",
+        "doc_9674.txt"
+    ]
+}

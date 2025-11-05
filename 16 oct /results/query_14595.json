@@ -1,0 +1,10 @@
+{
+    "query": "Which city is the capital of Scotland?",
+    "response": [
+        "doc_21401.txt",
+        "doc_17643.txt",
+        "doc_3937.txt",
+        "doc_21464.txt",
+        "doc_16284.txt"
+    ]
+}

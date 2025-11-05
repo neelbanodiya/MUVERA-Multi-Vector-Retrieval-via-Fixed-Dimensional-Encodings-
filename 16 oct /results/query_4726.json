@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate weight of an African elephant?",
+    "response": [
+        "doc_2338.txt",
+        "doc_2343.txt",
+        "doc_2336.txt",
+        "doc_3235.txt",
+        "doc_16916.txt"
+    ]
+}

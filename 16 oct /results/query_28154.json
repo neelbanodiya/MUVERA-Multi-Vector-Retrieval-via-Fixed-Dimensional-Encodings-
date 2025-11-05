@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the band Liam Gallagher formed after Oasis?",
+    "response": [
+        "doc_16351.txt",
+        "doc_15126.txt",
+        "doc_16352.txt",
+        "doc_16632.txt",
+        "doc_12713.txt"
+    ]
+}

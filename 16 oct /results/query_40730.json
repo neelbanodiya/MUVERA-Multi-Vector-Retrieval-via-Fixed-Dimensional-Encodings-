@@ -1,0 +1,10 @@
+{
+    "query": "What is the Brandenburg Gate, and why is it significant?",
+    "response": [
+        "doc_23814.txt",
+        "doc_23816.txt",
+        "doc_23821.txt",
+        "doc_23818.txt",
+        "doc_23824.txt"
+    ]
+}

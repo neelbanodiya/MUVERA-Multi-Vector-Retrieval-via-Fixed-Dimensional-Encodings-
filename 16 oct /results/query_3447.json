@@ -1,0 +1,10 @@
+{
+    "query": "What was Teresa Heinz\u2019s connection to the Heinz family fortune?",
+    "response": [
+        "doc_2038.txt",
+        "doc_2040.txt",
+        "doc_2037.txt",
+        "doc_2043.txt",
+        "doc_2039.txt"
+    ]
+}

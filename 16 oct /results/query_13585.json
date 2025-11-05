@@ -1,0 +1,10 @@
+{
+    "query": "What theater was Lincoln at on April 14, 1865?",
+    "response": [
+        "doc_7922.txt",
+        "doc_7923.txt",
+        "doc_7925.txt",
+        "doc_7935.txt",
+        "doc_7930.txt"
+    ]
+}

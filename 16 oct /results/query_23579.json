@@ -1,0 +1,10 @@
+{
+    "query": "Which poets are specifically mentioned as being awarded the Nobel Prize for Literature, alongside Ezra Pound?",
+    "response": [
+        "doc_6552.txt",
+        "doc_6300.txt",
+        "doc_13852.txt",
+        "doc_2883.txt",
+        "doc_12659.txt"
+    ]
+}

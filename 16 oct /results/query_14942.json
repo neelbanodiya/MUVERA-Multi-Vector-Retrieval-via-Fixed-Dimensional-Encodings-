@@ -1,0 +1,10 @@
+{
+    "query": "What types of diseases are a significant proportion of FP6 health research funds used for?",
+    "response": [
+        "doc_8674.txt",
+        "doc_8673.txt",
+        "doc_17471.txt",
+        "doc_17614.txt",
+        "doc_3654.txt"
+    ]
+}

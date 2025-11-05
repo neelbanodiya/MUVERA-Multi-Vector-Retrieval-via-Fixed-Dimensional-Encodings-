@@ -1,0 +1,10 @@
+{
+    "query": "Who succeeded William as King of England, and what was their relationship to William?",
+    "response": [
+        "doc_7325.txt",
+        "doc_7329.txt",
+        "doc_7332.txt",
+        "doc_7333.txt",
+        "doc_7335.txt"
+    ]
+}

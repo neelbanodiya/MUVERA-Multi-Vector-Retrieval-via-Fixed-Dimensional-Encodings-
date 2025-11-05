@@ -1,0 +1,10 @@
+{
+    "query": "What two Guinness World Records did she receive?",
+    "response": [
+        "doc_8677.txt",
+        "doc_22767.txt",
+        "doc_1233.txt",
+        "doc_1829.txt",
+        "doc_1232.txt"
+    ]
+}

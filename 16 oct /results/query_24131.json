@@ -1,0 +1,10 @@
+{
+    "query": "How did early cryptographic methods, as exemplified by \u201cThe Gold Bug,\u201d utilize symbols to convey information?",
+    "response": [
+        "doc_14019.txt",
+        "doc_14013.txt",
+        "doc_14009.txt",
+        "doc_14020.txt",
+        "doc_14004.txt"
+    ]
+}

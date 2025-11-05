@@ -1,0 +1,10 @@
+{
+    "query": "What was the local music scene involved in by the band members of Bear Hands before forming the band?",
+    "response": [
+        "doc_10500.txt",
+        "doc_12713.txt",
+        "doc_7648.txt",
+        "doc_12590.txt",
+        "doc_13852.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was Jeff Smith\u2019s profession, as described in the provided text?",
+    "response": [
+        "doc_19035.txt",
+        "doc_12840.txt",
+        "doc_12227.txt",
+        "doc_76.txt",
+        "doc_5779.txt"
+    ]
+}

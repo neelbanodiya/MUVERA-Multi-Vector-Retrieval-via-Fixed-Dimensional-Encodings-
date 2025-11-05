@@ -1,0 +1,10 @@
+{
+    "query": "What specific dates were statements made by the Vice-President of the Commission/EU High Representative regarding Bahrain?",
+    "response": [
+        "doc_6488.txt",
+        "doc_9920.txt",
+        "doc_2233.txt",
+        "doc_12515.txt",
+        "doc_15256.txt"
+    ]
+}

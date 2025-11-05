@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Louis XVIII, the restored king of France?",
+    "response": [
+        "doc_10153.txt",
+        "doc_10139.txt",
+        "doc_10142.txt",
+        "doc_10151.txt",
+        "doc_10145.txt"
+    ]
+}

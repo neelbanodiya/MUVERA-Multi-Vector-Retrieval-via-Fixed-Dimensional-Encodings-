@@ -1,0 +1,10 @@
+{
+    "query": "Who is the executive director of the American Society of Magazine Editors?",
+    "response": [
+        "doc_19188.txt",
+        "doc_19203.txt",
+        "doc_3935.txt",
+        "doc_19190.txt",
+        "doc_3936.txt"
+    ]
+}

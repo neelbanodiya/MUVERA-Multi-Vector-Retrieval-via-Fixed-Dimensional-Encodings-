@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of people do not trust Congress?",
+    "response": [
+        "doc_8652.txt",
+        "doc_22926.txt",
+        "doc_19802.txt",
+        "doc_8653.txt",
+        "doc_9116.txt"
+    ]
+}

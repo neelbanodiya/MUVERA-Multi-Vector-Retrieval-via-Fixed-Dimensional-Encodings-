@@ -1,0 +1,10 @@
+{
+    "query": "Who photographed three of America\u2019s most famous artists, including Frank Lloyd Wright and Louise Nevelson?",
+    "response": [
+        "doc_20420.txt",
+        "doc_13441.txt",
+        "doc_21516.txt",
+        "doc_10762.txt",
+        "doc_21508.txt"
+    ]
+}

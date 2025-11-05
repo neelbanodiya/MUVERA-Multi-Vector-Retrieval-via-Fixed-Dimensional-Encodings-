@@ -1,0 +1,10 @@
+{
+    "query": "What was the Taiping Rebellion, and when did it occur?",
+    "response": [
+        "doc_20872.txt",
+        "doc_19974.txt",
+        "doc_18155.txt",
+        "doc_3914.txt",
+        "doc_3127.txt"
+    ]
+}

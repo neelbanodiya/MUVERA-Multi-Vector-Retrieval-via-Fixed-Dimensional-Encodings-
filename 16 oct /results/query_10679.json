@@ -1,0 +1,10 @@
+{
+    "query": "Who won the MVP award in Super Bowl XXXII?",
+    "response": [
+        "doc_6194.txt",
+        "doc_6200.txt",
+        "doc_20063.txt",
+        "doc_3576.txt",
+        "doc_2702.txt"
+    ]
+}

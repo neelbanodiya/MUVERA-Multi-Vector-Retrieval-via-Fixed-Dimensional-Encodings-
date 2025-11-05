@@ -1,0 +1,10 @@
+{
+    "query": "What symptoms have been associated with MSG consumption, as described in the provided links?",
+    "response": [
+        "doc_5484.txt",
+        "doc_5989.txt",
+        "doc_5560.txt",
+        "doc_8400.txt",
+        "doc_2785.txt"
+    ]
+}

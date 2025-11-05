@@ -1,0 +1,10 @@
+{
+    "query": "What is the subject of the painting \"Tattooed Man\" by Billy Morrow Jackson?",
+    "response": [
+        "doc_9069.txt",
+        "doc_9065.txt",
+        "doc_2231.txt",
+        "doc_21507.txt",
+        "doc_10167.txt"
+    ]
+}

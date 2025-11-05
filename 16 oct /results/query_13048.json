@@ -1,0 +1,10 @@
+{
+    "query": "Who managed and coached the Winter Garden team, and what was the name of their former league?",
+    "response": [
+        "doc_7629.txt",
+        "doc_7648.txt",
+        "doc_4551.txt",
+        "doc_5505.txt",
+        "doc_12713.txt"
+    ]
+}

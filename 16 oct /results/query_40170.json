@@ -1,0 +1,10 @@
+{
+    "query": "Who did Cher portray in the 1987 film *Moonstruck*?",
+    "response": [
+        "doc_23507.txt",
+        "doc_23508.txt",
+        "doc_22117.txt",
+        "doc_7513.txt",
+        "doc_4641.txt"
+    ]
+}

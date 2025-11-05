@@ -1,0 +1,10 @@
+{
+    "query": "What ancient sites in Ethiopia, including Lalibela, Gondar, and Aksum, are mentioned in the text?",
+    "response": [
+        "doc_1306.txt",
+        "doc_1294.txt",
+        "doc_1298.txt",
+        "doc_5419.txt",
+        "doc_8353.txt"
+    ]
+}

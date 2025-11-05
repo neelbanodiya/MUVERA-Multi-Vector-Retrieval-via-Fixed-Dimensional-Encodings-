@@ -1,0 +1,10 @@
+{
+    "query": "Who is the rapporteur for the 2nd report on the 2007 discharge to the Council?",
+    "response": [
+        "doc_11034.txt",
+        "doc_13201.txt",
+        "doc_13368.txt",
+        "doc_9104.txt",
+        "doc_23845.txt"
+    ]
+}

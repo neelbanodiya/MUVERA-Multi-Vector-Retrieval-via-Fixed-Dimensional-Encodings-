@@ -1,0 +1,10 @@
+{
+    "query": "How many full-length studio albums does Helmet have in its discography?",
+    "response": [
+        "doc_12713.txt",
+        "doc_20314.txt",
+        "doc_12714.txt",
+        "doc_16350.txt",
+        "doc_4603.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the \u2018Web Check-In\u2019 service offered by Ryanair?",
+    "response": [
+        "doc_7962.txt",
+        "doc_7000.txt",
+        "doc_7010.txt",
+        "doc_4502.txt",
+        "doc_17451.txt"
+    ]
+}

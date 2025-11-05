@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked articles, what was the approximate width of a powerful tornado that ripped through downtown Waco?",
+    "response": [
+        "doc_19077.txt",
+        "doc_3851.txt",
+        "doc_13420.txt",
+        "doc_8688.txt",
+        "doc_10515.txt"
+    ]
+}

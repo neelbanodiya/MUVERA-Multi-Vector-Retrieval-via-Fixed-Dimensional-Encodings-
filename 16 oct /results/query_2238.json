@@ -1,0 +1,10 @@
+{
+    "query": "What film, directed by David Gordon Green, featured Al Pacino and was selected for the Golden Lion at the Venice International Film Festival?",
+    "response": [
+        "doc_8693.txt",
+        "doc_22837.txt",
+        "doc_22834.txt",
+        "doc_1231.txt",
+        "doc_14685.txt"
+    ]
+}

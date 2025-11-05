@@ -1,0 +1,10 @@
+{
+    "query": "Which film, as mentioned in the IMDb FAQ, directly references Revelation 8:1?",
+    "response": [
+        "doc_7677.txt",
+        "doc_4831.txt",
+        "doc_15670.txt",
+        "doc_1580.txt",
+        "doc_7442.txt"
+    ]
+}

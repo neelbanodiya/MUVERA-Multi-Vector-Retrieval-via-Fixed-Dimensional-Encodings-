@@ -1,0 +1,10 @@
+{
+    "query": "Who was the son of Argus who became king of Argos?",
+    "response": [
+        "doc_18209.txt",
+        "doc_503.txt",
+        "doc_18207.txt",
+        "doc_18192.txt",
+        "doc_1243.txt"
+    ]
+}

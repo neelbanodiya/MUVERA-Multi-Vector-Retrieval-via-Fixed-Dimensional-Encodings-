@@ -1,0 +1,10 @@
+{
+    "query": "What event, referenced by John Adams, marked a key moment in the lead-up to the American Revolution?",
+    "response": [
+        "doc_4301.txt",
+        "doc_4304.txt",
+        "doc_4313.txt",
+        "doc_4314.txt",
+        "doc_4310.txt"
+    ]
+}

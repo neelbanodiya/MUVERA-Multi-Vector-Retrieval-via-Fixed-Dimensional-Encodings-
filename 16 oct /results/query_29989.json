@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote the script for the 1993 film *Map of the Human Heart*, and what was Vincent Ward\u2019s role in its development?",
+    "response": [
+        "doc_14685.txt",
+        "doc_1812.txt",
+        "doc_9792.txt",
+        "doc_2231.txt",
+        "doc_2680.txt"
+    ]
+}

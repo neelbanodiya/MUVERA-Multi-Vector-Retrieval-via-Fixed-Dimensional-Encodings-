@@ -1,0 +1,10 @@
+{
+    "query": "Who assisted Truman Capote in the research for *In Cold Blood*?",
+    "response": [
+        "doc_3030.txt",
+        "doc_3035.txt",
+        "doc_3026.txt",
+        "doc_3037.txt",
+        "doc_3024.txt"
+    ]
+}

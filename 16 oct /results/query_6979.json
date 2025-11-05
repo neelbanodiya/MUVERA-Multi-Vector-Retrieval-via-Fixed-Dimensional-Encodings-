@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Mumtaz Mahal, according to the text?",
+    "response": [
+        "doc_3991.txt",
+        "doc_3993.txt",
+        "doc_3995.txt",
+        "doc_4006.txt",
+        "doc_3990.txt"
+    ]
+}

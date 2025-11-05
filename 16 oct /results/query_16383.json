@@ -1,0 +1,10 @@
+{
+    "query": "What are some of the health benefits of Vitamin C, as mentioned in the provided text?",
+    "response": [
+        "doc_9512.txt",
+        "doc_9513.txt",
+        "doc_9502.txt",
+        "doc_9506.txt",
+        "doc_9501.txt"
+    ]
+}

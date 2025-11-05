@@ -1,0 +1,10 @@
+{
+    "query": "Where were fighting between pro-Noriega forces and American troops being taken?",
+    "response": [
+        "doc_190.txt",
+        "doc_192.txt",
+        "doc_4061.txt",
+        "doc_19974.txt",
+        "doc_204.txt"
+    ]
+}

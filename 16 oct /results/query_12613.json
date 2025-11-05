@@ -1,0 +1,10 @@
+{
+    "query": "From what was the name Normandy derived?",
+    "response": [
+        "doc_23598.txt",
+        "doc_9341.txt",
+        "doc_15976.txt",
+        "doc_9249.txt",
+        "doc_9250.txt"
+    ]
+}

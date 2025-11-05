@@ -1,0 +1,10 @@
+{
+    "query": "Where was King Richard III born, and what was his favorite place?",
+    "response": [
+        "doc_461.txt",
+        "doc_460.txt",
+        "doc_459.txt",
+        "doc_464.txt",
+        "doc_458.txt"
+    ]
+}

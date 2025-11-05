@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is the Mount of Venus located?",
+    "response": [
+        "doc_7640.txt",
+        "doc_8682.txt",
+        "doc_3871.txt",
+        "doc_3870.txt",
+        "doc_1856.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "From which city did the colonists who founded Carthage originate?",
+    "response": [
+        "doc_8346.txt",
+        "doc_8343.txt",
+        "doc_8349.txt",
+        "doc_8345.txt",
+        "doc_8355.txt"
+    ]
+}

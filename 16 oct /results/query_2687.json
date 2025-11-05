@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the hotel that opened in 1927 and is located near Boston Common?",
+    "response": [
+        "doc_6609.txt",
+        "doc_1615.txt",
+        "doc_3382.txt",
+        "doc_1611.txt",
+        "doc_4057.txt"
+    ]
+}

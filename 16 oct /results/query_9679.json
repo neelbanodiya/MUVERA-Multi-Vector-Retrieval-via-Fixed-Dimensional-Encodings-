@@ -1,0 +1,10 @@
+{
+    "query": "Which television series did Steven Bochco and David Milch collaborate on after \u201cHill Street Blues\u201d?",
+    "response": [
+        "doc_5597.txt",
+        "doc_5601.txt",
+        "doc_5599.txt",
+        "doc_5598.txt",
+        "doc_5603.txt"
+    ]
+}

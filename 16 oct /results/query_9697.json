@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how long after \u201cHill Street Blues\u201d premiered did \u201cNYPD Blue\u201d debut?",
+    "response": [
+        "doc_5602.txt",
+        "doc_5601.txt",
+        "doc_5603.txt",
+        "doc_5596.txt",
+        "doc_5598.txt"
+    ]
+}

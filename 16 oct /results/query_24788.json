@@ -1,0 +1,10 @@
+{
+    "query": "Which televangelist commissioned the Crystal Cathedral, and where is it located?",
+    "response": [
+        "doc_14414.txt",
+        "doc_4614.txt",
+        "doc_8682.txt",
+        "doc_7640.txt",
+        "doc_3667.txt"
+    ]
+}

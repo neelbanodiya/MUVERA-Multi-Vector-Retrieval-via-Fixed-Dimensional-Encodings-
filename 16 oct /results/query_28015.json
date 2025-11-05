@@ -1,0 +1,10 @@
+{
+    "query": "Which president designated Devil\u2019s Tower as the nation\u2019s first National Monument?",
+    "response": [
+        "doc_16263.txt",
+        "doc_16266.txt",
+        "doc_16270.txt",
+        "doc_16271.txt",
+        "doc_16264.txt"
+    ]
+}

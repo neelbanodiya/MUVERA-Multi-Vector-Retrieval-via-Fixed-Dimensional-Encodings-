@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how much money was spent on the Lumiere Place casino complex in St. Louis?",
+    "response": [
+        "doc_17677.txt",
+        "doc_2427.txt",
+        "doc_2426.txt",
+        "doc_10560.txt",
+        "doc_3500.txt"
+    ]
+}

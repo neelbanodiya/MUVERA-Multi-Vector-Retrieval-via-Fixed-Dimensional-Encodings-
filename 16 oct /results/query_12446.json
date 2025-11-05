@@ -1,0 +1,10 @@
+{
+    "query": "When did Jack Dempsey lose his heavyweight title?",
+    "response": [
+        "doc_7229.txt",
+        "doc_7233.txt",
+        "doc_7221.txt",
+        "doc_7225.txt",
+        "doc_7228.txt"
+    ]
+}

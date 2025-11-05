@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what substance is commonly found in nitrate lands in Chile, and what is its relationship to iodine compounds?",
+    "response": [
+        "doc_5146.txt",
+        "doc_22422.txt",
+        "doc_14192.txt",
+        "doc_22167.txt",
+        "doc_4341.txt"
+    ]
+}

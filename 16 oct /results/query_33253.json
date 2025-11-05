@@ -1,0 +1,10 @@
+{
+    "query": "Which three EU-level business organizations are collaborating with the Commission on this training scheme?",
+    "response": [
+        "doc_23668.txt",
+        "doc_5383.txt",
+        "doc_14840.txt",
+        "doc_5379.txt",
+        "doc_15493.txt"
+    ]
+}

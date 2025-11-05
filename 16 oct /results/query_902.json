@@ -1,0 +1,10 @@
+{
+    "query": "Who was the King of the Medes during the events described?",
+    "response": [
+        "doc_509.txt",
+        "doc_503.txt",
+        "doc_506.txt",
+        "doc_512.txt",
+        "doc_5191.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In 1954, what was Gene\u2019s score in the Dogwood competition?",
+    "response": [
+        "doc_2699.txt",
+        "doc_13779.txt",
+        "doc_2009.txt",
+        "doc_6154.txt",
+        "doc_1881.txt"
+    ]
+}

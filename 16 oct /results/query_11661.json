@@ -1,0 +1,10 @@
+{
+    "query": "What specific law was violated by the city of Flint after switching water sources?",
+    "response": [
+        "doc_3016.txt",
+        "doc_22676.txt",
+        "doc_8566.txt",
+        "doc_16466.txt",
+        "doc_3880.txt"
+    ]
+}

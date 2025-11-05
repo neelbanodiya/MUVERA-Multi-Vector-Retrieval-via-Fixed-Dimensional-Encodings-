@@ -1,0 +1,10 @@
+{
+    "query": "What city is located on the coast of Jamaica?",
+    "response": [
+        "doc_19464.txt",
+        "doc_22342.txt",
+        "doc_14201.txt",
+        "doc_21464.txt",
+        "doc_14205.txt"
+    ]
+}

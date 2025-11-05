@@ -1,0 +1,10 @@
+{
+    "query": "Which film directed by Kira Muratova won the Silver Bear - Special Jury Prize at the 40th Berlin International Film Festival?",
+    "response": [
+        "doc_8515.txt",
+        "doc_3226.txt",
+        "doc_3233.txt",
+        "doc_3216.txt",
+        "doc_3232.txt"
+    ]
+}

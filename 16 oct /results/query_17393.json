@@ -1,0 +1,10 @@
+{
+    "query": "During what period did Patrick Henry serve as governor of Virginia?",
+    "response": [
+        "doc_10063.txt",
+        "doc_10062.txt",
+        "doc_10065.txt",
+        "doc_10067.txt",
+        "doc_10064.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is Broderick Crawford\u2019s role in at least one of the films mentioned?",
+    "response": [
+        "doc_16182.txt",
+        "doc_16181.txt",
+        "doc_16183.txt",
+        "doc_17778.txt",
+        "doc_6367.txt"
+    ]
+}

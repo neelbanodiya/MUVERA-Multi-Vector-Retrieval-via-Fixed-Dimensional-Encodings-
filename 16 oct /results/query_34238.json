@@ -1,0 +1,10 @@
+{
+    "query": "What is the purpose of the permanent European Parliament post in Washington DC?",
+    "response": [
+        "doc_19907.txt",
+        "doc_19906.txt",
+        "doc_13325.txt",
+        "doc_394.txt",
+        "doc_19805.txt"
+    ]
+}

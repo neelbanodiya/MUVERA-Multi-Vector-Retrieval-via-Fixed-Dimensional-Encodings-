@@ -1,0 +1,10 @@
+{
+    "query": "Who was Lola Montez, and what was her profession?",
+    "response": [
+        "doc_9474.txt",
+        "doc_19589.txt",
+        "doc_4793.txt",
+        "doc_7942.txt",
+        "doc_20931.txt"
+    ]
+}

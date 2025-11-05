@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of U.S. kids today live in a \u2018traditional\u2019 family, according to Pew Research?",
+    "response": [
+        "doc_5220.txt",
+        "doc_15353.txt",
+        "doc_3215.txt",
+        "doc_8913.txt",
+        "doc_2154.txt"
+    ]
+}

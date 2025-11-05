@@ -1,0 +1,10 @@
+{
+    "query": "Where is uranium commonly found in European drinking water?",
+    "response": [
+        "doc_6864.txt",
+        "doc_14332.txt",
+        "doc_4906.txt",
+        "doc_10334.txt",
+        "doc_4696.txt"
+    ]
+}

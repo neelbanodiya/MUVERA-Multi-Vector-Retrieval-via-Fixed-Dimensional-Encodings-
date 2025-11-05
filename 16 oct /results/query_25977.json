@@ -1,0 +1,10 @@
+{
+    "query": "Besides \u201cStar Trek,\u201d what other notable television series did William Shatner appear in, specifically mentioning a \u201cTwilight Zone\u201d episode?",
+    "response": [
+        "doc_15116.txt",
+        "doc_15120.txt",
+        "doc_15121.txt",
+        "doc_19583.txt",
+        "doc_6338.txt"
+    ]
+}

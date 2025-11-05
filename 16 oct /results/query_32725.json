@@ -1,0 +1,10 @@
+{
+    "query": "Which Russian pop duo consisted of Sergey Lazarev and Vlad Topalov, and where was their music primarily released?",
+    "response": [
+        "doc_19067.txt",
+        "doc_19068.txt",
+        "doc_19808.txt",
+        "doc_19813.txt",
+        "doc_19809.txt"
+    ]
+}

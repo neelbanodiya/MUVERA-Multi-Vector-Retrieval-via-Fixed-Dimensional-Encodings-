@@ -1,0 +1,10 @@
+{
+    "query": "During what time period did the \u201cRed Scare\u201d occur?",
+    "response": [
+        "doc_20875.txt",
+        "doc_1401.txt",
+        "doc_23294.txt",
+        "doc_18155.txt",
+        "doc_23362.txt"
+    ]
+}

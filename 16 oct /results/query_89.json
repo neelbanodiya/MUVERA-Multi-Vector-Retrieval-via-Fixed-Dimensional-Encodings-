@@ -1,0 +1,10 @@
+{
+    "query": "What role did the Secretary of the Treasury play during the Revolutionary War?",
+    "response": [
+        "doc_42.txt",
+        "doc_40.txt",
+        "doc_47.txt",
+        "doc_44.txt",
+        "doc_46.txt"
+    ]
+}

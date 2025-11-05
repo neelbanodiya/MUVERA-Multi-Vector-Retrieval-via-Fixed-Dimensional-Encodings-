@@ -1,0 +1,10 @@
+{
+    "query": "What song did Led Zeppelin record that featured an extended jam?",
+    "response": [
+        "doc_11124.txt",
+        "doc_11131.txt",
+        "doc_11140.txt",
+        "doc_11133.txt",
+        "doc_5318.txt"
+    ]
+}

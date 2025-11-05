@@ -1,0 +1,10 @@
+{
+    "query": "What nationality was Sheena Easton?",
+    "response": [
+        "doc_6380.txt",
+        "doc_18874.txt",
+        "doc_22777.txt",
+        "doc_10767.txt",
+        "doc_10766.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Alexander the Great die?",
+    "response": [
+        "doc_5191.txt",
+        "doc_5192.txt",
+        "doc_5199.txt",
+        "doc_5200.txt",
+        "doc_5197.txt"
+    ]
+}

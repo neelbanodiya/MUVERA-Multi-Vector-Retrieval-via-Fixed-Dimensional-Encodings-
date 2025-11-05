@@ -1,0 +1,10 @@
+{
+    "query": "What was the result of King Henry VIII\u2019s desire for a divorce?",
+    "response": [
+        "doc_23550.txt",
+        "doc_23547.txt",
+        "doc_23548.txt",
+        "doc_23553.txt",
+        "doc_23554.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where was Dr. Frasier Winslow Crane born and raised?",
+    "response": [
+        "doc_16899.txt",
+        "doc_11917.txt",
+        "doc_14010.txt",
+        "doc_452.txt",
+        "doc_16329.txt"
+    ]
+}

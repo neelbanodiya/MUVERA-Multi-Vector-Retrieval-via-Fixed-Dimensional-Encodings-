@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the stamp and cachet featuring Kepler, Galileo, Newton, and Halley issued?",
+    "response": [
+        "doc_16513.txt",
+        "doc_16517.txt",
+        "doc_20269.txt",
+        "doc_11877.txt",
+        "doc_7252.txt"
+    ]
+}

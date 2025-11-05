@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, where are the Aleutian Islands located?",
+    "response": [
+        "doc_9608.txt",
+        "doc_9619.txt",
+        "doc_9610.txt",
+        "doc_9609.txt",
+        "doc_9614.txt"
+    ]
+}

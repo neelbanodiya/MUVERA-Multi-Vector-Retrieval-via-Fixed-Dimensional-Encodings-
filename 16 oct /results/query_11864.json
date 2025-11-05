@@ -1,0 +1,10 @@
+{
+    "query": "When was Columbus\u2019s expedition to find the islands of the Indies?",
+    "response": [
+        "doc_5027.txt",
+        "doc_5025.txt",
+        "doc_5026.txt",
+        "doc_5024.txt",
+        "doc_5456.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is Oprah Winfrey associated with?",
+    "response": [
+        "doc_12903.txt",
+        "doc_11703.txt",
+        "doc_9439.txt",
+        "doc_637.txt",
+        "doc_14077.txt"
+    ]
+}

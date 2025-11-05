@@ -1,0 +1,10 @@
+{
+    "query": "What was Frank Sinatra's first commercial record?",
+    "response": [
+        "doc_9453.txt",
+        "doc_9469.txt",
+        "doc_9457.txt",
+        "doc_9467.txt",
+        "doc_9468.txt"
+    ]
+}

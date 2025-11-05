@@ -1,0 +1,10 @@
+{
+    "query": "According to the assessment of air quality in Shenandoah National Park, what type of aquatic life was negatively impacted by acidic episodes?",
+    "response": [
+        "doc_19800.txt",
+        "doc_18380.txt",
+        "doc_9613.txt",
+        "doc_10822.txt",
+        "doc_16444.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What country are you visiting if you\u2019ve just landed at King Abdul Aziz International Airport?",
+    "response": [
+        "doc_15725.txt",
+        "doc_15716.txt",
+        "doc_15723.txt",
+        "doc_15726.txt",
+        "doc_15732.txt"
+    ]
+}

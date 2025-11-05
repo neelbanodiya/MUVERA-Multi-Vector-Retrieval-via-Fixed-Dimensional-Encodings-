@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the \u201cCommunist Manifesto\u201d published?",
+    "response": [
+        "doc_111.txt",
+        "doc_113.txt",
+        "doc_112.txt",
+        "doc_109.txt",
+        "doc_20434.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how old is the Greek shipwreck mentioned in the passage?",
+    "response": [
+        "doc_21100.txt",
+        "doc_5431.txt",
+        "doc_10288.txt",
+        "doc_11045.txt",
+        "doc_14202.txt"
+    ]
+}

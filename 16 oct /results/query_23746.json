@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what book did Ralph McInerny author, and who published it?",
+    "response": [
+        "doc_7821.txt",
+        "doc_7862.txt",
+        "doc_4655.txt",
+        "doc_14077.txt",
+        "doc_15276.txt"
+    ]
+}

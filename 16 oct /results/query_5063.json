@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between the store mentioned in the passage and The Gap?",
+    "response": [
+        "doc_2837.txt",
+        "doc_13169.txt",
+        "doc_4234.txt",
+        "doc_21379.txt",
+        "doc_2841.txt"
+    ]
+}

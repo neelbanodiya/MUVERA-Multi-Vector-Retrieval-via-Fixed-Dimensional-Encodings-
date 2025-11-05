@@ -1,0 +1,10 @@
+{
+    "query": "What was the first factory-built all-steel station wagon in North America, and when was it introduced?",
+    "response": [
+        "doc_17162.txt",
+        "doc_23262.txt",
+        "doc_4289.txt",
+        "doc_23261.txt",
+        "doc_6901.txt"
+    ]
+}

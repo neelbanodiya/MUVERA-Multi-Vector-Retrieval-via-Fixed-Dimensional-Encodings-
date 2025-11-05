@@ -1,0 +1,10 @@
+{
+    "query": "When did MMA land on American shores?",
+    "response": [
+        "doc_13010.txt",
+        "doc_14199.txt",
+        "doc_19074.txt",
+        "doc_6533.txt",
+        "doc_14201.txt"
+    ]
+}

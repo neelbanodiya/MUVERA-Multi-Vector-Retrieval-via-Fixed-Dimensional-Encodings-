@@ -1,0 +1,10 @@
+{
+    "query": "Which city is home to the Bank of America Plaza?",
+    "response": [
+        "doc_17313.txt",
+        "doc_17314.txt",
+        "doc_17317.txt",
+        "doc_17316.txt",
+        "doc_17315.txt"
+    ]
+}

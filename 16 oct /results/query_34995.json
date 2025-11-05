@@ -1,0 +1,10 @@
+{
+    "query": "What year was Sir Joshua Reynolds\u2019 painting \u201cMrs. Siddons as the Tragic Muse\u201d created?",
+    "response": [
+        "doc_20405.txt",
+        "doc_20409.txt",
+        "doc_20417.txt",
+        "doc_20410.txt",
+        "doc_20419.txt"
+    ]
+}

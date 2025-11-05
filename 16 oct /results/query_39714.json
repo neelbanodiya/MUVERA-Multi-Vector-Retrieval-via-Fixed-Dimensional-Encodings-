@@ -1,0 +1,10 @@
+{
+    "query": "When did Alice Walker marry Melvyn Leventhal?",
+    "response": [
+        "doc_23253.txt",
+        "doc_23254.txt",
+        "doc_23257.txt",
+        "doc_10551.txt",
+        "doc_5782.txt"
+    ]
+}

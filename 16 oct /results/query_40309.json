@@ -1,0 +1,10 @@
+{
+    "query": "When did General Motors (GM) have its initial stock sale?",
+    "response": [
+        "doc_9876.txt",
+        "doc_23587.txt",
+        "doc_3676.txt",
+        "doc_12646.txt",
+        "doc_17162.txt"
+    ]
+}

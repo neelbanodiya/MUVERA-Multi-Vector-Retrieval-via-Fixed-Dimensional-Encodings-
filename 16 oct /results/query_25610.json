@@ -1,0 +1,10 @@
+{
+    "query": "When was the album \u201cCloser\u201d by Better Than Ezra released, and how did it perform on the Billboard charts?",
+    "response": [
+        "doc_14845.txt",
+        "doc_14847.txt",
+        "doc_9871.txt",
+        "doc_8467.txt",
+        "doc_1976.txt"
+    ]
+}

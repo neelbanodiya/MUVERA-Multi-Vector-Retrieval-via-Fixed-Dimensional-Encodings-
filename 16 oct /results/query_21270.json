@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, what are the three main sources of heat within the Earth?",
+    "response": [
+        "doc_12284.txt",
+        "doc_17675.txt",
+        "doc_23449.txt",
+        "doc_23993.txt",
+        "doc_21685.txt"
+    ]
+}

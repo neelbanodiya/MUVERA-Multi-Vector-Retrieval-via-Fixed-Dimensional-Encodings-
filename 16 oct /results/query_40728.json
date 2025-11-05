@@ -1,0 +1,10 @@
+{
+    "query": "What landmarks are located in Berlin?",
+    "response": [
+        "doc_23815.txt",
+        "doc_23822.txt",
+        "doc_23814.txt",
+        "doc_23829.txt",
+        "doc_23819.txt"
+    ]
+}

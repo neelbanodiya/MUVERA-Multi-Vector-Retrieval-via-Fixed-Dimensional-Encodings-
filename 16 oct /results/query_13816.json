@@ -1,0 +1,10 @@
+{
+    "query": "What were the overall rankings for the Department of Defense in 2016, as indicated by one of the linked documents?",
+    "response": [
+        "doc_7459.txt",
+        "doc_15416.txt",
+        "doc_14176.txt",
+        "doc_12132.txt",
+        "doc_3267.txt"
+    ]
+}

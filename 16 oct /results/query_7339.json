@@ -1,0 +1,10 @@
+{
+    "query": "When was Conrad Hilton born?",
+    "response": [
+        "doc_4250.txt",
+        "doc_3710.txt",
+        "doc_14748.txt",
+        "doc_3563.txt",
+        "doc_21108.txt"
+    ]
+}

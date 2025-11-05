@@ -1,0 +1,10 @@
+{
+    "query": "What language is central to much of Middle Eastern identity, according to one of the texts?",
+    "response": [
+        "doc_23851.txt",
+        "doc_23848.txt",
+        "doc_23860.txt",
+        "doc_1678.txt",
+        "doc_23854.txt"
+    ]
+}

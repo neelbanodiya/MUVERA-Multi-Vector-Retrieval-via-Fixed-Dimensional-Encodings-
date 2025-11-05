@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how old are the earliest Stone Age artifacts found in Namibia?",
+    "response": [
+        "doc_7349.txt",
+        "doc_16170.txt",
+        "doc_7346.txt",
+        "doc_7355.txt",
+        "doc_8435.txt"
+    ]
+}

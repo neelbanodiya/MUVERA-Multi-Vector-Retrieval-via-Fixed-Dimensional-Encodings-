@@ -1,0 +1,10 @@
+{
+    "query": "Which patron saint is associated with the flag of England, and what is a common tradition related to their celebration?",
+    "response": [
+        "doc_104.txt",
+        "doc_16448.txt",
+        "doc_16461.txt",
+        "doc_16451.txt",
+        "doc_12180.txt"
+    ]
+}

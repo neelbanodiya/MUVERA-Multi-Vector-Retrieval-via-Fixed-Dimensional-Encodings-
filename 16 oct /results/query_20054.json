@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cWashington Crossing the Delaware\u201d painted?",
+    "response": [
+        "doc_11580.txt",
+        "doc_11576.txt",
+        "doc_11582.txt",
+        "doc_11578.txt",
+        "doc_11577.txt"
+    ]
+}

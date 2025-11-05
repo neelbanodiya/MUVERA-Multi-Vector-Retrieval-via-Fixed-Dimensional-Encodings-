@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is the purpose of the \u2018Blue Belt\u2019 project, and how does it aim to reduce administrative burdens?",
+    "response": [
+        "doc_21335.txt",
+        "doc_8887.txt",
+        "doc_10233.txt",
+        "doc_8876.txt",
+        "doc_17473.txt"
+    ]
+}

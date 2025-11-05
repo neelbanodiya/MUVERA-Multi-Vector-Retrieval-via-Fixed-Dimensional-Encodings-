@@ -1,0 +1,10 @@
+{
+    "query": "According to the article about Alan Kurdi, what did The Independent do that stood apart when publishing a photograph?",
+    "response": [
+        "doc_10944.txt",
+        "doc_18582.txt",
+        "doc_18583.txt",
+        "doc_21632.txt",
+        "doc_7648.txt"
+    ]
+}

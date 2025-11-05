@@ -1,0 +1,10 @@
+{
+    "query": "What did the \u2018Ober\u00f6sterreichische Nachrichten\u2019 newspaper report regarding the Temelin nuclear power station?",
+    "response": [
+        "doc_11680.txt",
+        "doc_10138.txt",
+        "doc_1678.txt",
+        "doc_23785.txt",
+        "doc_18430.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What debt is being referred to in the passage (\"Turkey has a debt to us.\")?",
+    "response": [
+        "doc_23360.txt",
+        "doc_20311.txt",
+        "doc_6996.txt",
+        "doc_16113.txt",
+        "doc_708.txt"
+    ]
+}

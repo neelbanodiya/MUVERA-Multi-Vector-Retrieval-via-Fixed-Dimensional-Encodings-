@@ -1,0 +1,10 @@
+{
+    "query": "Who operates the White Rose oil fields?",
+    "response": [
+        "doc_14642.txt",
+        "doc_23506.txt",
+        "doc_21441.txt",
+        "doc_19643.txt",
+        "doc_1034.txt"
+    ]
+}

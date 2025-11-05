@@ -1,0 +1,10 @@
+{
+    "query": "What were the two books J.R.R. Tolkien famously wrote before \u201cThe Lord of the Rings\u201d?",
+    "response": [
+        "doc_15556.txt",
+        "doc_15550.txt",
+        "doc_15552.txt",
+        "doc_15549.txt",
+        "doc_15551.txt"
+    ]
+}

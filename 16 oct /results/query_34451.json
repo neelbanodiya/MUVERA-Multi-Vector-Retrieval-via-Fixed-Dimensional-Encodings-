@@ -1,0 +1,10 @@
+{
+    "query": "What types of technologies are suggested for improving communication with EU citizens?",
+    "response": [
+        "doc_22989.txt",
+        "doc_22995.txt",
+        "doc_20033.txt",
+        "doc_23002.txt",
+        "doc_22994.txt"
+    ]
+}

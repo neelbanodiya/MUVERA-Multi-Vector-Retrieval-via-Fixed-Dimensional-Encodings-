@@ -1,0 +1,10 @@
+{
+    "query": "What data structure is described as similar to a Map in Java or an object in Javascript?",
+    "response": [
+        "doc_21673.txt",
+        "doc_12597.txt",
+        "doc_4319.txt",
+        "doc_4321.txt",
+        "doc_9043.txt"
+    ]
+}

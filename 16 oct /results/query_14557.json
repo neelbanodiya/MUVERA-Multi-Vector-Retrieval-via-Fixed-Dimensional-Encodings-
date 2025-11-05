@@ -1,0 +1,10 @@
+{
+    "query": "What is Holmes\u2019 net worth, according to Forbes?",
+    "response": [
+        "doc_18911.txt",
+        "doc_18586.txt",
+        "doc_1716.txt",
+        "doc_17682.txt",
+        "doc_16325.txt"
+    ]
+}

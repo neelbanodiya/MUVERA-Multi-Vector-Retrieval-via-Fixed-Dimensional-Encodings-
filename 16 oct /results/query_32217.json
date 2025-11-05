@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary plot of the 1977 film *Black Sunday*?",
+    "response": [
+        "doc_18773.txt",
+        "doc_18774.txt",
+        "doc_18777.txt",
+        "doc_8179.txt",
+        "doc_5867.txt"
+    ]
+}

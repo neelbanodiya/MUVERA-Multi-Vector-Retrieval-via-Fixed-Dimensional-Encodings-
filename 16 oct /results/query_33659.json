@@ -1,0 +1,10 @@
+{
+    "query": "In which movement of Mahler\u2019s First Symphony does a theme based on a song from Jean Paul\u2019s novel *Titan* appear?",
+    "response": [
+        "doc_19615.txt",
+        "doc_19618.txt",
+        "doc_19612.txt",
+        "doc_19616.txt",
+        "doc_19620.txt"
+    ]
+}

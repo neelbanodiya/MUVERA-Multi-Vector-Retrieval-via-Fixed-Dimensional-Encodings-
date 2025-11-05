@@ -1,0 +1,10 @@
+{
+    "query": "Which studio refused to allow Sam Raimi to edit the film?",
+    "response": [
+        "doc_23994.txt",
+        "doc_23995.txt",
+        "doc_22919.txt",
+        "doc_2231.txt",
+        "doc_14528.txt"
+    ]
+}

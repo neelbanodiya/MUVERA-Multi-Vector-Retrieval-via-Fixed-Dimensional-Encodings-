@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was happening in Germany on February 2, 1943?",
+    "response": [
+        "doc_15913.txt",
+        "doc_15924.txt",
+        "doc_15918.txt",
+        "doc_15916.txt",
+        "doc_15915.txt"
+    ]
+}

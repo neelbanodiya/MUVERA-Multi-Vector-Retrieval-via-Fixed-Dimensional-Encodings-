@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject of Defoe\u2019s book, *The Political History of the Devil*?",
+    "response": [
+        "doc_17758.txt",
+        "doc_17755.txt",
+        "doc_17756.txt",
+        "doc_17768.txt",
+        "doc_17762.txt"
+    ]
+}

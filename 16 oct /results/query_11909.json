@@ -1,0 +1,10 @@
+{
+    "query": "What was the #1 bestseller, next to the Bible, in 1852?",
+    "response": [
+        "doc_6928.txt",
+        "doc_15557.txt",
+        "doc_1239.txt",
+        "doc_18583.txt",
+        "doc_11314.txt"
+    ]
+}

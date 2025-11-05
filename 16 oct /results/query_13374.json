@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, how long have television cooking programs been on the air in the U.S.?",
+    "response": [
+        "doc_7826.txt",
+        "doc_8912.txt",
+        "doc_14817.txt",
+        "doc_14361.txt",
+        "doc_8913.txt"
+    ]
+}

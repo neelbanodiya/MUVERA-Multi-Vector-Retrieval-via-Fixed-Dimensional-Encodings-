@@ -1,0 +1,10 @@
+{
+    "query": "According to one article, what is a characteristic of the movement originating in a Russian town near Poland?",
+    "response": [
+        "doc_3205.txt",
+        "doc_3939.txt",
+        "doc_3941.txt",
+        "doc_23377.txt",
+        "doc_7345.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which actors, besides Ameesha Patel, are part of the ensemble cast of the film scheduled for release in January 2018?",
+    "response": [
+        "doc_5433.txt",
+        "doc_5434.txt",
+        "doc_10966.txt",
+        "doc_10446.txt",
+        "doc_14778.txt"
+    ]
+}

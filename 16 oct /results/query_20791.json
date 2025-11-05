@@ -1,0 +1,10 @@
+{
+    "query": "What kind of \u201cmeditation\u201d is mentioned in the Pushkin excerpt, and what does it describe?",
+    "response": [
+        "doc_19756.txt",
+        "doc_2471.txt",
+        "doc_12002.txt",
+        "doc_21315.txt",
+        "doc_5714.txt"
+    ]
+}

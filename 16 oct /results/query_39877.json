@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was a key factor in Mikhail Gorbachev\u2019s decisions regarding nuclear weapons?",
+    "response": [
+        "doc_18364.txt",
+        "doc_23350.txt",
+        "doc_23352.txt",
+        "doc_23346.txt",
+        "doc_18363.txt"
+    ]
+}

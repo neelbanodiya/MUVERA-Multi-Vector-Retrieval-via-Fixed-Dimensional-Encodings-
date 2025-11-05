@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the nationally ranked high school basketball team located in Chino Hills, California?",
+    "response": [
+        "doc_10507.txt",
+        "doc_8052.txt",
+        "doc_10518.txt",
+        "doc_8063.txt",
+        "doc_10511.txt"
+    ]
+}

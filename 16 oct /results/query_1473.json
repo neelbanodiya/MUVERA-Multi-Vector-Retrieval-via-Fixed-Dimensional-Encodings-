@@ -1,0 +1,10 @@
+{
+    "query": "What snake species are mentioned as being found in southern Africa?",
+    "response": [
+        "doc_843.txt",
+        "doc_848.txt",
+        "doc_835.txt",
+        "doc_838.txt",
+        "doc_830.txt"
+    ]
+}

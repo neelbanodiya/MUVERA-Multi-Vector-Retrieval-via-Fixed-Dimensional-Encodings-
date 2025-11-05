@@ -1,0 +1,10 @@
+{
+    "query": "What is the Gila monster described as in terms of size?",
+    "response": [
+        "doc_12294.txt",
+        "doc_2338.txt",
+        "doc_16916.txt",
+        "doc_9348.txt",
+        "doc_15156.txt"
+    ]
+}

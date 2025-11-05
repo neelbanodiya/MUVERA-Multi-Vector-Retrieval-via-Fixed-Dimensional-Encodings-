@@ -1,0 +1,10 @@
+{
+    "query": "What opera is composed by Philip Glass and first commissioned by the American Repertory Theater?",
+    "response": [
+        "doc_8163.txt",
+        "doc_8164.txt",
+        "doc_323.txt",
+        "doc_8172.txt",
+        "doc_13451.txt"
+    ]
+}

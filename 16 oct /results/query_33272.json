@@ -1,0 +1,10 @@
+{
+    "query": "Which colony was named Virginia in honor of the Virgin?",
+    "response": [
+        "doc_12559.txt",
+        "doc_434.txt",
+        "doc_12558.txt",
+        "doc_9318.txt",
+        "doc_9314.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What Kentucky regiments were involved in the conflict, according to the passage?",
+    "response": [
+        "doc_200.txt",
+        "doc_22444.txt",
+        "doc_19081.txt",
+        "doc_190.txt",
+        "doc_4954.txt"
+    ]
+}

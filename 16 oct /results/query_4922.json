@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how much could a revision project, as envisioned by Jeremy Bentham, cost?",
+    "response": [
+        "doc_5721.txt",
+        "doc_351.txt",
+        "doc_23936.txt",
+        "doc_14366.txt",
+        "doc_132.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the ACT materials, what type of creative work did a theater artist create while at A.C.T.?",
+    "response": [
+        "doc_2526.txt",
+        "doc_20490.txt",
+        "doc_2231.txt",
+        "doc_6926.txt",
+        "doc_12713.txt"
+    ]
+}

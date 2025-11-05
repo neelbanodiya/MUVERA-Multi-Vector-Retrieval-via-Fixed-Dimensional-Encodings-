@@ -1,0 +1,10 @@
+{
+    "query": "Which earlier novelists influenced Jane Austen\u2019s writing, specifically regarding the source material for *Sense and Sensibility*?",
+    "response": [
+        "doc_2334.txt",
+        "doc_2319.txt",
+        "doc_2318.txt",
+        "doc_2330.txt",
+        "doc_2324.txt"
+    ]
+}

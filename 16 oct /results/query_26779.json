@@ -1,0 +1,10 @@
+{
+    "query": "What was the first impression publication date of *The Two Towers*?",
+    "response": [
+        "doc_15545.txt",
+        "doc_17340.txt",
+        "doc_11014.txt",
+        "doc_12130.txt",
+        "doc_5363.txt"
+    ]
+}

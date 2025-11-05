@@ -1,0 +1,10 @@
+{
+    "query": "What organization did Joseph Conrad work for when he wrote *Heart of Darkness*?",
+    "response": [
+        "doc_2128.txt",
+        "doc_2138.txt",
+        "doc_2134.txt",
+        "doc_2142.txt",
+        "doc_2127.txt"
+    ]
+}

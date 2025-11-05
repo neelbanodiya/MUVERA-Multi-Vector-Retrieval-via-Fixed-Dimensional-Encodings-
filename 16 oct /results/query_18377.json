@@ -1,0 +1,10 @@
+{
+    "query": "What phrase was first used by the American writer Joseph Heller?",
+    "response": [
+        "doc_12350.txt",
+        "doc_10624.txt",
+        "doc_21241.txt",
+        "doc_14081.txt",
+        "doc_18975.txt"
+    ]
+}

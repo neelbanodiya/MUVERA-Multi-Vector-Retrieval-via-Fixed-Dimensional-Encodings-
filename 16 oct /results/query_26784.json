@@ -1,0 +1,10 @@
+{
+    "query": "How many volumes was *The Lord of the Rings* initially released as?",
+    "response": [
+        "doc_15558.txt",
+        "doc_15553.txt",
+        "doc_4436.txt",
+        "doc_15550.txt",
+        "doc_15555.txt"
+    ]
+}

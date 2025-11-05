@@ -1,0 +1,10 @@
+{
+    "query": "In what city and state is the Max J. Anderson House located?",
+    "response": [
+        "doc_29.txt",
+        "doc_7864.txt",
+        "doc_7863.txt",
+        "doc_20219.txt",
+        "doc_23260.txt"
+    ]
+}

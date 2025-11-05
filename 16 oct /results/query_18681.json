@@ -1,0 +1,10 @@
+{
+    "query": "Which company developed \u201cSonic the Hedgehog Pocket Adventure,\u201d and on what handheld console was it exclusively released?",
+    "response": [
+        "doc_10862.txt",
+        "doc_8338.txt",
+        "doc_10865.txt",
+        "doc_2925.txt",
+        "doc_15552.txt"
+    ]
+}

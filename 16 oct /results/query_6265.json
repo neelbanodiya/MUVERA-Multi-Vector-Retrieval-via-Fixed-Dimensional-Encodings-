@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what happened to the Pathmark supermarket chain?",
+    "response": [
+        "doc_3627.txt",
+        "doc_3630.txt",
+        "doc_12419.txt",
+        "doc_17305.txt",
+        "doc_18785.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "On what date did the Government of India send a telegram of protest?",
+    "response": [
+        "doc_18992.txt",
+        "doc_1418.txt",
+        "doc_18986.txt",
+        "doc_18989.txt",
+        "doc_19000.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What ancient crater is notable on the planet Mercury?",
+    "response": [
+        "doc_21300.txt",
+        "doc_21285.txt",
+        "doc_10876.txt",
+        "doc_21299.txt",
+        "doc_3870.txt"
+    ]
+}

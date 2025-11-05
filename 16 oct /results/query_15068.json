@@ -1,0 +1,10 @@
+{
+    "query": "What does the abbreviation \u201cAN\u201d stand for, according to the passage?",
+    "response": [
+        "doc_9042.txt",
+        "doc_12129.txt",
+        "doc_17773.txt",
+        "doc_23903.txt",
+        "doc_2883.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote *On the History of Plants*?",
+    "response": [
+        "doc_3561.txt",
+        "doc_16010.txt",
+        "doc_10098.txt",
+        "doc_21045.txt",
+        "doc_22258.txt"
+    ]
+}

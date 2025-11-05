@@ -1,0 +1,10 @@
+{
+    "query": "What type of show did Orson Welles initially create in 1937?",
+    "response": [
+        "doc_7769.txt",
+        "doc_7765.txt",
+        "doc_5297.txt",
+        "doc_7770.txt",
+        "doc_7768.txt"
+    ]
+}

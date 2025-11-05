@@ -1,0 +1,10 @@
+{
+    "query": "What motion did Lee present to Congress?",
+    "response": [
+        "doc_340.txt",
+        "doc_9994.txt",
+        "doc_11963.txt",
+        "doc_5986.txt",
+        "doc_17266.txt"
+    ]
+}

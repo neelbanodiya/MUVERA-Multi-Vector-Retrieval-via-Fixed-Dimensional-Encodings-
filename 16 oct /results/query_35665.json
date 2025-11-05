@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 14b, what power is granted to the Commission?",
+    "response": [
+        "doc_20760.txt",
+        "doc_20761.txt",
+        "doc_6172.txt",
+        "doc_20822.txt",
+        "doc_20787.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was John Henry\u2019s primary occupation, as described in the provided texts?",
+    "response": [
+        "doc_22250.txt",
+        "doc_11915.txt",
+        "doc_21507.txt",
+        "doc_18434.txt",
+        "doc_22246.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What specific action prompted the Parliament members to condemn the Commission\u2019s behavior?",
+    "response": [
+        "doc_13361.txt",
+        "doc_5369.txt",
+        "doc_13569.txt",
+        "doc_3794.txt",
+        "doc_9144.txt"
+    ]
+}

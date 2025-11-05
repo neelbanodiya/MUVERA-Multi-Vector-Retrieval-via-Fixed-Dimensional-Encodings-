@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was the opening stanza of the Marine Corps hymn?",
+    "response": [
+        "doc_13490.txt",
+        "doc_13492.txt",
+        "doc_13491.txt",
+        "doc_13498.txt",
+        "doc_205.txt"
+    ]
+}

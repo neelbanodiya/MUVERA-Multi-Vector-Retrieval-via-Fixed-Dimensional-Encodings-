@@ -1,0 +1,10 @@
+{
+    "query": "Who did Amelia Earhart meet while preparing for her first Atlantic crossing?",
+    "response": [
+        "doc_5778.txt",
+        "doc_5784.txt",
+        "doc_5775.txt",
+        "doc_5789.txt",
+        "doc_5779.txt"
+    ]
+}

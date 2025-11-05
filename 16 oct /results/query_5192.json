@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of the book Harper Lee was working on before *To Kill a Mockingbird*, and when was it released?",
+    "response": [
+        "doc_3025.txt",
+        "doc_9873.txt",
+        "doc_8596.txt",
+        "doc_15276.txt",
+        "doc_17176.txt"
+    ]
+}

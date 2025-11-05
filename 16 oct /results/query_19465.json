@@ -1,0 +1,10 @@
+{
+    "query": "Before the Green Wave moved to the Superdome, where did they play their football games?",
+    "response": [
+        "doc_11271.txt",
+        "doc_11258.txt",
+        "doc_11263.txt",
+        "doc_11267.txt",
+        "doc_11262.txt"
+    ]
+}

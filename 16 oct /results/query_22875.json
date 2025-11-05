@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of votes is required for the Conference of Presidents to propose terminating the office of a Member?",
+    "response": [
+        "doc_13186.txt",
+        "doc_19805.txt",
+        "doc_21466.txt",
+        "doc_20750.txt",
+        "doc_13266.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What television network aired \u201cBoy Meets World\u201d and for what duration?",
+    "response": [
+        "doc_4822.txt",
+        "doc_14257.txt",
+        "doc_14817.txt",
+        "doc_18089.txt",
+        "doc_17914.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which mountain is described as the highest peak in the state of Colorado?",
+    "response": [
+        "doc_18543.txt",
+        "doc_18538.txt",
+        "doc_18535.txt",
+        "doc_18552.txt",
+        "doc_18541.txt"
+    ]
+}

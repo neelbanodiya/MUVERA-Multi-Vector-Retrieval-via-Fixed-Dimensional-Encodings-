@@ -1,0 +1,10 @@
+{
+    "query": "What is the European Parliament requesting the Agency for Fundamental Rights to do?",
+    "response": [
+        "doc_13248.txt",
+        "doc_3090.txt",
+        "doc_8385.txt",
+        "doc_21003.txt",
+        "doc_13325.txt"
+    ]
+}

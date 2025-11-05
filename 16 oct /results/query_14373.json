@@ -1,0 +1,10 @@
+{
+    "query": "How many copies of \u201cHigh Times\u201d were being circulated by 1977?",
+    "response": [
+        "doc_8336.txt",
+        "doc_8337.txt",
+        "doc_4654.txt",
+        "doc_14189.txt",
+        "doc_15553.txt"
+    ]
+}

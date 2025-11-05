@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate value of the \u201cHeart of the Ocean\u201d necklace featured in the movie *Titanic*?",
+    "response": [
+        "doc_8472.txt",
+        "doc_8487.txt",
+        "doc_8490.txt",
+        "doc_8471.txt",
+        "doc_8480.txt"
+    ]
+}

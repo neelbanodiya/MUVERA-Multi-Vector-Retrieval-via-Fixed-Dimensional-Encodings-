@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of the comedy Julia Sweeney starred in?",
+    "response": [
+        "doc_11622.txt",
+        "doc_11623.txt",
+        "doc_11621.txt",
+        "doc_11626.txt",
+        "doc_248.txt"
+    ]
+}

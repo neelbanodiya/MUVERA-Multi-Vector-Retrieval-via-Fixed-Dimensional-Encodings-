@@ -1,0 +1,10 @@
+{
+    "query": "What materials were used for stencils developed by the Chinese and Japanese?",
+    "response": [
+        "doc_798.txt",
+        "doc_5584.txt",
+        "doc_792.txt",
+        "doc_20220.txt",
+        "doc_1194.txt"
+    ]
+}

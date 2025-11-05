@@ -1,0 +1,10 @@
+{
+    "query": "When did Peg Entwhistle jump off the Hollywood sign?",
+    "response": [
+        "doc_11743.txt",
+        "doc_11755.txt",
+        "doc_11756.txt",
+        "doc_11759.txt",
+        "doc_11745.txt"
+    ]
+}

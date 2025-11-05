@@ -1,0 +1,10 @@
+{
+    "query": "Who was Ronnie Van Zant, and what was his role in Lynyrd Skynyrd?",
+    "response": [
+        "doc_1978.txt",
+        "doc_1977.txt",
+        "doc_1976.txt",
+        "doc_18954.txt",
+        "doc_18873.txt"
+    ]
+}

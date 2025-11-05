@@ -1,0 +1,10 @@
+{
+    "query": "What type of visual aids are being referenced in the US Army Combined Arms Center document?",
+    "response": [
+        "doc_12983.txt",
+        "doc_12978.txt",
+        "doc_1684.txt",
+        "doc_12122.txt",
+        "doc_11000.txt"
+    ]
+}

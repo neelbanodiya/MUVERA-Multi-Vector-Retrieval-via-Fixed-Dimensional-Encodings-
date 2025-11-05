@@ -1,0 +1,10 @@
+{
+    "query": "Which regions in Portugal experienced a 1% gain in economic gains?",
+    "response": [
+        "doc_9546.txt",
+        "doc_16816.txt",
+        "doc_11036.txt",
+        "doc_10368.txt",
+        "doc_22065.txt"
+    ]
+}

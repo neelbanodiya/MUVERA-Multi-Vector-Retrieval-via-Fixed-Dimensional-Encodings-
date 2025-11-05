@@ -1,0 +1,10 @@
+{
+    "query": "What is the EU urging the US to do regarding the Kyoto Protocol?",
+    "response": [
+        "doc_5985.txt",
+        "doc_24175.txt",
+        "doc_8382.txt",
+        "doc_16791.txt",
+        "doc_19905.txt"
+    ]
+}

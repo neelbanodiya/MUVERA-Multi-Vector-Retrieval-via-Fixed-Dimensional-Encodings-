@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what are some common dinner dishes associated with the cuisine of Kentucky?",
+    "response": [
+        "doc_7080.txt",
+        "doc_7081.txt",
+        "doc_7086.txt",
+        "doc_7094.txt",
+        "doc_7085.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which college did Peyton Randolph attend?",
+    "response": [
+        "doc_14753.txt",
+        "doc_74.txt",
+        "doc_1220.txt",
+        "doc_582.txt",
+        "doc_20935.txt"
+    ]
+}

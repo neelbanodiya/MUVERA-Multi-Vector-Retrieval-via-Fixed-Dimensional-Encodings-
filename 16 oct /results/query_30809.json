@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Best Western Hotel Cervantes located?",
+    "response": [
+        "doc_17951.txt",
+        "doc_17950.txt",
+        "doc_17953.txt",
+        "doc_17952.txt",
+        "doc_17948.txt"
+    ]
+}

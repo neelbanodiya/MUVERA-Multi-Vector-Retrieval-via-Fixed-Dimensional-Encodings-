@@ -1,0 +1,10 @@
+{
+    "query": "What type of publication did Arthur Brooke produce in 1598?",
+    "response": [
+        "doc_14861.txt",
+        "doc_14862.txt",
+        "doc_22773.txt",
+        "doc_14858.txt",
+        "doc_20265.txt"
+    ]
+}

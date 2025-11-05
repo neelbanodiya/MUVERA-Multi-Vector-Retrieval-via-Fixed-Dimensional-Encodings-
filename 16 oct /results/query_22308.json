@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the articles, what is Dennis Duffy working on in Napa Valley?",
+    "response": [
+        "doc_10557.txt",
+        "doc_7363.txt",
+        "doc_3077.txt",
+        "doc_14972.txt",
+        "doc_4691.txt"
+    ]
+}

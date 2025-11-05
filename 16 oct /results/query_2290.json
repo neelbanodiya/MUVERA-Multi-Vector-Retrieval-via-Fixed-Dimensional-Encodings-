@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how much of North America was once covered by tallgrass prairie?",
+    "response": [
+        "doc_1654.txt",
+        "doc_8837.txt",
+        "doc_1389.txt",
+        "doc_2179.txt",
+        "doc_18420.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What style of American folk dance involves steps like \u201cpromenade left\u201d and \u201cdo-si-do\u201d?",
+    "response": [
+        "doc_12616.txt",
+        "doc_12617.txt",
+        "doc_5863.txt",
+        "doc_12708.txt",
+        "doc_14482.txt"
+    ]
+}

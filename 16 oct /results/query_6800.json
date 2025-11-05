@@ -1,0 +1,10 @@
+{
+    "query": "What is one of the criticisms presented in the MintPressNews article regarding media coverage of the Israel-Palestine conflict?",
+    "response": [
+        "doc_14638.txt",
+        "doc_6668.txt",
+        "doc_22401.txt",
+        "doc_18075.txt",
+        "doc_5685.txt"
+    ]
+}

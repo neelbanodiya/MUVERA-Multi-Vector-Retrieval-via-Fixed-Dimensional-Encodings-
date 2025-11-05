@@ -1,0 +1,10 @@
+{
+    "query": "Which U.S. Presidents were reportedly impacted by the disinformation reports produced during this controversy?",
+    "response": [
+        "doc_5727.txt",
+        "doc_2073.txt",
+        "doc_15688.txt",
+        "doc_23764.txt",
+        "doc_6785.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who are some of the American painters highlighted in the passage?",
+    "response": [
+        "doc_20419.txt",
+        "doc_20405.txt",
+        "doc_10673.txt",
+        "doc_20415.txt",
+        "doc_21509.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What specific actions is the passage urging the Russian authorities to take regarding displaced persons from Chechnya?",
+    "response": [
+        "doc_17782.txt",
+        "doc_17781.txt",
+        "doc_17783.txt",
+        "doc_23272.txt",
+        "doc_6602.txt"
+    ]
+}

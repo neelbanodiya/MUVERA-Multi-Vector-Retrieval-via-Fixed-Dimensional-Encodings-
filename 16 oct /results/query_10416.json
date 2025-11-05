@@ -1,0 +1,10 @@
+{
+    "query": "What kind of environment is described as a \u201cWelcome Haven\u201d?",
+    "response": [
+        "doc_4744.txt",
+        "doc_3080.txt",
+        "doc_15999.txt",
+        "doc_16001.txt",
+        "doc_23229.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Henry Moore\u2019s \u201cReclining Mother and Child\u201d created?",
+    "response": [
+        "doc_352.txt",
+        "doc_353.txt",
+        "doc_6142.txt",
+        "doc_20540.txt",
+        "doc_20539.txt"
+    ]
+}

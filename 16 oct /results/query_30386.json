@@ -1,0 +1,10 @@
+{
+    "query": "What was the estimated annual cost to maintain the Civic Arena?",
+    "response": [
+        "doc_17677.txt",
+        "doc_17679.txt",
+        "doc_10560.txt",
+        "doc_17680.txt",
+        "doc_11463.txt"
+    ]
+}

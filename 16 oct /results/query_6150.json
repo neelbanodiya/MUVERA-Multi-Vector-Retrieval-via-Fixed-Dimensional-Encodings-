@@ -1,0 +1,10 @@
+{
+    "query": "What college did Jim Sorgi play football at?",
+    "response": [
+        "doc_3577.txt",
+        "doc_1220.txt",
+        "doc_3576.txt",
+        "doc_9159.txt",
+        "doc_3575.txt"
+    ]
+}

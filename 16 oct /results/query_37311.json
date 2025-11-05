@@ -1,0 +1,10 @@
+{
+    "query": "How does the Moon's orbit relate to the Earth's equator?",
+    "response": [
+        "doc_21846.txt",
+        "doc_21829.txt",
+        "doc_268.txt",
+        "doc_21841.txt",
+        "doc_21832.txt"
+    ]
+}

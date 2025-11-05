@@ -1,0 +1,10 @@
+{
+    "query": "What committees assist the Commission in carrying out the procedures outlined in Article 7fa?",
+    "response": [
+        "doc_9749.txt",
+        "doc_16407.txt",
+        "doc_3019.txt",
+        "doc_18906.txt",
+        "doc_5477.txt"
+    ]
+}

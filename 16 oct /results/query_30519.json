@@ -1,0 +1,10 @@
+{
+    "query": "In what year did The Prodigy perform \u201cBreathe\u201d at the Brixton Academy?",
+    "response": [
+        "doc_17731.txt",
+        "doc_7456.txt",
+        "doc_13798.txt",
+        "doc_7455.txt",
+        "doc_2264.txt"
+    ]
+}

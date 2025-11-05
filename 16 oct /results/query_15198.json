@@ -1,0 +1,10 @@
+{
+    "query": "What war was the comedy *Teahouse of the August Moon* set during?",
+    "response": [
+        "doc_8796.txt",
+        "doc_8808.txt",
+        "doc_8807.txt",
+        "doc_8811.txt",
+        "doc_8799.txt"
+    ]
+}

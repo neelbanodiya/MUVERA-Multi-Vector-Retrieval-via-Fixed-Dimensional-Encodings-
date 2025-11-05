@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate year that \u201cAlexander\u2019s Ragtime Band\u201d was published and copyrighted?",
+    "response": [
+        "doc_10200.txt",
+        "doc_10083.txt",
+        "doc_4168.txt",
+        "doc_12713.txt",
+        "doc_22032.txt"
+    ]
+}

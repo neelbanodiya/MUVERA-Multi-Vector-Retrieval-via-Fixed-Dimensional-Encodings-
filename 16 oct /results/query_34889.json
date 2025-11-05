@@ -1,0 +1,10 @@
+{
+    "query": "What was introduced to the U.S. in 1947?",
+    "response": [
+        "doc_16044.txt",
+        "doc_9956.txt",
+        "doc_23477.txt",
+        "doc_8937.txt",
+        "doc_4523.txt"
+    ]
+}

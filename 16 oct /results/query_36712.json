@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the film *Independence Day* released?",
+    "response": [
+        "doc_21444.txt",
+        "doc_21445.txt",
+        "doc_9891.txt",
+        "doc_1231.txt",
+        "doc_21461.txt"
+    ]
+}

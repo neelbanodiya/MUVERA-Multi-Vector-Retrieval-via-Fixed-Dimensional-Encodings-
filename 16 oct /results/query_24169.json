@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many miles of shoreline does Lake Oahe offer?",
+    "response": [
+        "doc_1654.txt",
+        "doc_16151.txt",
+        "doc_1653.txt",
+        "doc_18425.txt",
+        "doc_3268.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of cloth was used in the \u201cByrd\u201d material described in the passage?",
+    "response": [
+        "doc_21616.txt",
+        "doc_21604.txt",
+        "doc_3175.txt",
+        "doc_9035.txt",
+        "doc_21599.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the film *Pergolesi* released, and what does it primarily depict about the composer\u2019s life?",
+    "response": [
+        "doc_2231.txt",
+        "doc_9892.txt",
+        "doc_6919.txt",
+        "doc_1580.txt",
+        "doc_16729.txt"
+    ]
+}

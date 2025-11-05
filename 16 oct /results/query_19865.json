@@ -1,0 +1,10 @@
+{
+    "query": "In what city and state were the 2015-16 and 2017-18 Seton Hall Pirates men's basketball teams based?",
+    "response": [
+        "doc_11462.txt",
+        "doc_11464.txt",
+        "doc_11463.txt",
+        "doc_18570.txt",
+        "doc_19124.txt"
+    ]
+}

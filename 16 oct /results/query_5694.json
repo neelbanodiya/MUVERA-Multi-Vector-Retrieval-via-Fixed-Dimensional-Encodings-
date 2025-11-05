@@ -1,0 +1,10 @@
+{
+    "query": "Which play did Chekhov write that fell short of the success of \u201cThe Seagull\u201d?",
+    "response": [
+        "doc_3306.txt",
+        "doc_3307.txt",
+        "doc_17758.txt",
+        "doc_12639.txt",
+        "doc_19421.txt"
+    ]
+}

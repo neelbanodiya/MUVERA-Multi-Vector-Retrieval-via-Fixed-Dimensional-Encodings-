@@ -1,0 +1,10 @@
+{
+    "query": "Which Shakespearean play is referenced multiple times across the provided links, including in discussions of Act 3, Scene 2?",
+    "response": [
+        "doc_19420.txt",
+        "doc_19422.txt",
+        "doc_19424.txt",
+        "doc_19425.txt",
+        "doc_19423.txt"
+    ]
+}

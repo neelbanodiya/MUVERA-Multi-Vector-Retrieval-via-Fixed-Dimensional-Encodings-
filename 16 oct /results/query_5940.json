@@ -1,0 +1,10 @@
+{
+    "query": "Did any of the mentioned bands (Bucks Fizz, Sugababes, Fleetwood Mac) have a member achieve a number one hit?",
+    "response": [
+        "doc_17730.txt",
+        "doc_12339.txt",
+        "doc_3476.txt",
+        "doc_908.txt",
+        "doc_12044.txt"
+    ]
+}

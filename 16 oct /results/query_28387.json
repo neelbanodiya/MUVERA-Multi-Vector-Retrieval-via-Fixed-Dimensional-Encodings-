@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Galileo in 1616?",
+    "response": [
+        "doc_16356.txt",
+        "doc_21075.txt",
+        "doc_12643.txt",
+        "doc_21061.txt",
+        "doc_10451.txt"
+    ]
+}

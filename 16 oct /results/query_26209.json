@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, who reports directly to the U.N.\u2019s Secretary-General?",
+    "response": [
+        "doc_11963.txt",
+        "doc_6800.txt",
+        "doc_22869.txt",
+        "doc_13343.txt",
+        "doc_23467.txt"
+    ]
+}

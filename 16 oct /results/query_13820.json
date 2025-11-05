@@ -1,0 +1,10 @@
+{
+    "query": "Based on the Heritage Foundation's Country Rankings, what is the overall score for the country being evaluated?",
+    "response": [
+        "doc_8033.txt",
+        "doc_226.txt",
+        "doc_22936.txt",
+        "doc_1196.txt",
+        "doc_24049.txt"
+    ]
+}

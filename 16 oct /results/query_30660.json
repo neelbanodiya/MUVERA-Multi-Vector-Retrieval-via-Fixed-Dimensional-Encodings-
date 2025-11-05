@@ -1,0 +1,10 @@
+{
+    "query": "According to Charles Crichton, in 1951, what was Deighton described as?",
+    "response": [
+        "doc_16127.txt",
+        "doc_12227.txt",
+        "doc_7372.txt",
+        "doc_19778.txt",
+        "doc_19681.txt"
+    ]
+}

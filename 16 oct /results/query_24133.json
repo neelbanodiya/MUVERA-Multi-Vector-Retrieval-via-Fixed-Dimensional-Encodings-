@@ -1,0 +1,10 @@
+{
+    "query": "How did Friedman utilize cryptography, as evidenced by the provided documents?",
+    "response": [
+        "doc_4275.txt",
+        "doc_11988.txt",
+        "doc_20539.txt",
+        "doc_16320.txt",
+        "doc_14664.txt"
+    ]
+}

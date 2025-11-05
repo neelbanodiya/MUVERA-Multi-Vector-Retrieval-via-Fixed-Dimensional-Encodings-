@@ -1,0 +1,10 @@
+{
+    "query": "What role did Buck play on the television series *Dark Shadows*?",
+    "response": [
+        "doc_18873.txt",
+        "doc_18954.txt",
+        "doc_10903.txt",
+        "doc_16925.txt",
+        "doc_19023.txt"
+    ]
+}

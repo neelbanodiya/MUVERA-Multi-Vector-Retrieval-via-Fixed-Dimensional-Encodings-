@@ -1,0 +1,10 @@
+{
+    "query": "What recommendation does the Temporary Committee on Foot-and-Mouth Disease draft resolution make regarding controlling the disease?",
+    "response": [
+        "doc_17241.txt",
+        "doc_5816.txt",
+        "doc_12313.txt",
+        "doc_6417.txt",
+        "doc_24019.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the \u201cCastor\u201d ship involved in the frigate action of 29 May 1794?",
+    "response": [
+        "doc_20958.txt",
+        "doc_9106.txt",
+        "doc_4057.txt",
+        "doc_13511.txt",
+        "doc_17981.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the ScholarWorks article, what event is Phillip R. Shriver's book \"The Years of Youth\" about?",
+    "response": [
+        "doc_2858.txt",
+        "doc_3821.txt",
+        "doc_9401.txt",
+        "doc_4656.txt",
+        "doc_16517.txt"
+    ]
+}

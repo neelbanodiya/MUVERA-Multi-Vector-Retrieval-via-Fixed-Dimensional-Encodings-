@@ -1,0 +1,10 @@
+{
+    "query": "From what region did a woman move to Milano with her four sons?",
+    "response": [
+        "doc_10677.txt",
+        "doc_23753.txt",
+        "doc_23746.txt",
+        "doc_1668.txt",
+        "doc_23761.txt"
+    ]
+}

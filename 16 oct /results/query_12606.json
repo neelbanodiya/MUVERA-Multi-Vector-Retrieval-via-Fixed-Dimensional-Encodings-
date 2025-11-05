@@ -1,0 +1,10 @@
+{
+    "query": "In what year did William the Conqueror burn the town of Mantes?",
+    "response": [
+        "doc_7331.txt",
+        "doc_7335.txt",
+        "doc_7325.txt",
+        "doc_10049.txt",
+        "doc_7322.txt"
+    ]
+}

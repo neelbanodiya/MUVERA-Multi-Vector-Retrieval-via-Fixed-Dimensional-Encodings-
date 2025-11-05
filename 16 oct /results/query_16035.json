@@ -1,0 +1,10 @@
+{
+    "query": "How many major wheat-growing regions are identified in the world today, according to National Geographic?",
+    "response": [
+        "doc_9277.txt",
+        "doc_9282.txt",
+        "doc_9281.txt",
+        "doc_9289.txt",
+        "doc_9292.txt"
+    ]
+}

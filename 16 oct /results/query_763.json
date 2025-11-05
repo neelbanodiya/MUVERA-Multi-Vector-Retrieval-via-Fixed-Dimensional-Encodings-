@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, who visited a Straight facility in Florida in 1982?",
+    "response": [
+        "doc_13690.txt",
+        "doc_4044.txt",
+        "doc_676.txt",
+        "doc_22392.txt",
+        "doc_1527.txt"
+    ]
+}

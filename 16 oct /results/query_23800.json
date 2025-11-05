@@ -1,0 +1,10 @@
+{
+    "query": "What historical event and related crimes does the resolution address concerning Estonia?",
+    "response": [
+        "doc_13811.txt",
+        "doc_13810.txt",
+        "doc_13812.txt",
+        "doc_3582.txt",
+        "doc_9675.txt"
+    ]
+}

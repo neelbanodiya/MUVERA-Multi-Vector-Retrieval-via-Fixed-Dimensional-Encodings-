@@ -1,0 +1,10 @@
+{
+    "query": "What was Franklin Delano Roosevelt\u2019s birthplace?",
+    "response": [
+        "doc_12531.txt",
+        "doc_3571.txt",
+        "doc_3563.txt",
+        "doc_4241.txt",
+        "doc_3567.txt"
+    ]
+}

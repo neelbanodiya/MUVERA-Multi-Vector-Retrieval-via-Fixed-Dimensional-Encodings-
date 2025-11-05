@@ -1,0 +1,10 @@
+{
+    "query": "What is the general subject matter of the work attributed to Sir Thomas Malory?",
+    "response": [
+        "doc_22245.txt",
+        "doc_22244.txt",
+        "doc_22250.txt",
+        "doc_22248.txt",
+        "doc_22254.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What activities did Amelia enjoy during her time being homeschooled?",
+    "response": [
+        "doc_5793.txt",
+        "doc_1623.txt",
+        "doc_19965.txt",
+        "doc_20321.txt",
+        "doc_21612.txt"
+    ]
+}

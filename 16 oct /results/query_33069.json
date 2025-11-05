@@ -1,0 +1,10 @@
+{
+    "query": "Before becoming a Senator, what was one of Fred Thompson\u2019s earlier professional experiences?",
+    "response": [
+        "doc_12840.txt",
+        "doc_21249.txt",
+        "doc_20141.txt",
+        "doc_12734.txt",
+        "doc_19592.txt"
+    ]
+}

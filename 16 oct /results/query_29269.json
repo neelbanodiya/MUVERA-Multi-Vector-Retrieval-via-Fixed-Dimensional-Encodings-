@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the person who set a UK record for the fastest selling download-only music in 2008?",
+    "response": [
+        "doc_24156.txt",
+        "doc_18896.txt",
+        "doc_18888.txt",
+        "doc_7664.txt",
+        "doc_7660.txt"
+    ]
+}

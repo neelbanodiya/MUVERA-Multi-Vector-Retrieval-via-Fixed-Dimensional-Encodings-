@@ -1,0 +1,10 @@
+{
+    "query": "What year was a new bridge built connecting Niobrara with South Dakota?",
+    "response": [
+        "doc_14034.txt",
+        "doc_14037.txt",
+        "doc_1647.txt",
+        "doc_22699.txt",
+        "doc_9960.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary difference between the texture of Kulfi and traditional Indian pudding?",
+    "response": [
+        "doc_21686.txt",
+        "doc_21695.txt",
+        "doc_21685.txt",
+        "doc_21690.txt",
+        "doc_21687.txt"
+    ]
+}

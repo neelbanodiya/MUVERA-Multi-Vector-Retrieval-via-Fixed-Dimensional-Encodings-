@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is a commonality between the characters Maude Findlay and Dorothy Zbornak?",
+    "response": [
+        "doc_4642.txt",
+        "doc_4644.txt",
+        "doc_4648.txt",
+        "doc_4641.txt",
+        "doc_4651.txt"
+    ]
+}

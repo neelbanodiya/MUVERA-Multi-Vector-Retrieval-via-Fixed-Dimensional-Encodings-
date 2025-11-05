@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what inspired Jeremy to pursue engineering?",
+    "response": [
+        "doc_13076.txt",
+        "doc_3820.txt",
+        "doc_14009.txt",
+        "doc_20133.txt",
+        "doc_9401.txt"
+    ]
+}

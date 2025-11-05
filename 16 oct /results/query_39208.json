@@ -1,0 +1,10 @@
+{
+    "query": "Which countries are located on either side of the Strait of Hormuz?",
+    "response": [
+        "doc_22947.txt",
+        "doc_22937.txt",
+        "doc_22941.txt",
+        "doc_22942.txt",
+        "doc_22945.txt"
+    ]
+}

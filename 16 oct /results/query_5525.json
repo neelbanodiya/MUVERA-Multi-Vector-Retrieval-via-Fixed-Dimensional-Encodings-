@@ -1,0 +1,10 @@
+{
+    "query": "Who headed the 67th Cannes Film Festival jury?",
+    "response": [
+        "doc_3227.txt",
+        "doc_3225.txt",
+        "doc_3231.txt",
+        "doc_3218.txt",
+        "doc_3217.txt"
+    ]
+}

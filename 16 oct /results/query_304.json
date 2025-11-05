@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary goal of the event held in Bucharest in October 2010?",
+    "response": [
+        "doc_15971.txt",
+        "doc_19243.txt",
+        "doc_170.txt",
+        "doc_18349.txt",
+        "doc_2601.txt"
+    ]
+}

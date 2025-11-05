@@ -1,0 +1,10 @@
+{
+    "query": "In what year was El-Masri abducted to Afghanistan?",
+    "response": [
+        "doc_22973.txt",
+        "doc_22972.txt",
+        "doc_18156.txt",
+        "doc_17636.txt",
+        "doc_22394.txt"
+    ]
+}

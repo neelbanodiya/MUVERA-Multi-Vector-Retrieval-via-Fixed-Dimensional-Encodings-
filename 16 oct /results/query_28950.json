@@ -1,0 +1,10 @@
+{
+    "query": "What specific regions were the subject of a fact-finding mission conducted by the Committee on Petitions in 2007?",
+    "response": [
+        "doc_16891.txt",
+        "doc_23225.txt",
+        "doc_16892.txt",
+        "doc_16889.txt",
+        "doc_14304.txt"
+    ]
+}

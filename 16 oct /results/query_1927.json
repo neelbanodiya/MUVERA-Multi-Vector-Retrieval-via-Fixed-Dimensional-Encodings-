@@ -1,0 +1,10 @@
+{
+    "query": "What is the AMS designation and what does it signify?",
+    "response": [
+        "doc_1389.txt",
+        "doc_2841.txt",
+        "doc_263.txt",
+        "doc_23898.txt",
+        "doc_9042.txt"
+    ]
+}

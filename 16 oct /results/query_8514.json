@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate distance between Philadelphia, Pennsylvania and Syracuse, New York?",
+    "response": [
+        "doc_11303.txt",
+        "doc_4932.txt",
+        "doc_4931.txt",
+        "doc_11491.txt",
+        "doc_3382.txt"
+    ]
+}

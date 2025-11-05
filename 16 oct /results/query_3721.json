@@ -1,0 +1,10 @@
+{
+    "query": "In what movie did Johnny Depp play a character described as a \"boy monster\"?",
+    "response": [
+        "doc_18482.txt",
+        "doc_18484.txt",
+        "doc_2190.txt",
+        "doc_17169.txt",
+        "doc_11495.txt"
+    ]
+}

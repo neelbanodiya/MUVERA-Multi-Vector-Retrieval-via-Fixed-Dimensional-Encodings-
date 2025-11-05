@@ -1,0 +1,10 @@
+{
+    "query": "What was Grace Kelly\u2019s role in the film *Rear Window*?",
+    "response": [
+        "doc_18826.txt",
+        "doc_18829.txt",
+        "doc_18828.txt",
+        "doc_18825.txt",
+        "doc_18824.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What types of stories are the Palestinian actors and musicians inviting?",
+    "response": [
+        "doc_17098.txt",
+        "doc_23546.txt",
+        "doc_8713.txt",
+        "doc_13936.txt",
+        "doc_8811.txt"
+    ]
+}

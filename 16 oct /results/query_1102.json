@@ -1,0 +1,10 @@
+{
+    "query": "Besides Galileo\u2019s fingers, what other historical artifacts are mentioned in the passages that are on display in museums?",
+    "response": [
+        "doc_620.txt",
+        "doc_3689.txt",
+        "doc_8508.txt",
+        "doc_11054.txt",
+        "doc_9316.txt"
+    ]
+}

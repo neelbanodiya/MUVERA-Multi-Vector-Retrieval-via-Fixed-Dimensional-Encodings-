@@ -1,0 +1,10 @@
+{
+    "query": "What agreement is mentioned as being \u201cin principle\u201d between the EU and the US regarding a specific trade dispute?",
+    "response": [
+        "doc_8385.txt",
+        "doc_24181.txt",
+        "doc_10289.txt",
+        "doc_15139.txt",
+        "doc_10889.txt"
+    ]
+}

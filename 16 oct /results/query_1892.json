@@ -1,0 +1,10 @@
+{
+    "query": "What year did the individual retire from their position at GE\u2019s nuclear fuel center?",
+    "response": [
+        "doc_12344.txt",
+        "doc_9876.txt",
+        "doc_12646.txt",
+        "doc_8250.txt",
+        "doc_23414.txt"
+    ]
+}

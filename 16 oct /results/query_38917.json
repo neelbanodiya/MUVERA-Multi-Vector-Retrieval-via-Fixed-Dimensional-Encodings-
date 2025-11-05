@@ -1,0 +1,10 @@
+{
+    "query": "Which Caribbean nation is referenced multiple times in the provided links, and what historical study is mentioned in relation to it?",
+    "response": [
+        "doc_17884.txt",
+        "doc_20259.txt",
+        "doc_13479.txt",
+        "doc_8837.txt",
+        "doc_1196.txt"
+    ]
+}

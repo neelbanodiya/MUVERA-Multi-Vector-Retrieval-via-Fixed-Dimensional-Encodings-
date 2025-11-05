@@ -1,0 +1,10 @@
+{
+    "query": "Why can the person not reside in London anymore?",
+    "response": [
+        "doc_14947.txt",
+        "doc_11811.txt",
+        "doc_15595.txt",
+        "doc_15594.txt",
+        "doc_12006.txt"
+    ]
+}

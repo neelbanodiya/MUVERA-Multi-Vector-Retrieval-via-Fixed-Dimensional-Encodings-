@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of Eric Clapton\u2019s debut solo album?",
+    "response": [
+        "doc_20897.txt",
+        "doc_20901.txt",
+        "doc_20900.txt",
+        "doc_20895.txt",
+        "doc_8008.txt"
+    ]
+}

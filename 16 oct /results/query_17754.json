@@ -1,0 +1,10 @@
+{
+    "query": "Where did Old Mother Hubbard go to fetch her dog a bone?",
+    "response": [
+        "doc_10298.txt",
+        "doc_10299.txt",
+        "doc_10300.txt",
+        "doc_10295.txt",
+        "doc_10297.txt"
+    ]
+}

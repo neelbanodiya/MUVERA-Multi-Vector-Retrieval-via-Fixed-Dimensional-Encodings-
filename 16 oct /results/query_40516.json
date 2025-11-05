@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Monastery of Saint Catherine located?",
+    "response": [
+        "doc_23678.txt",
+        "doc_23679.txt",
+        "doc_23685.txt",
+        "doc_23691.txt",
+        "doc_23688.txt"
+    ]
+}

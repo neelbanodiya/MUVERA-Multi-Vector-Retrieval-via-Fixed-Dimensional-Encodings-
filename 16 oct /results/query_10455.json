@@ -1,0 +1,10 @@
+{
+    "query": "If the EPSO utilizes a system similar to that described in Greece, does it award marks on a relative scale or an absolute system of maximum levels?",
+    "response": [
+        "doc_6061.txt",
+        "doc_7788.txt",
+        "doc_3828.txt",
+        "doc_14945.txt",
+        "doc_14944.txt"
+    ]
+}

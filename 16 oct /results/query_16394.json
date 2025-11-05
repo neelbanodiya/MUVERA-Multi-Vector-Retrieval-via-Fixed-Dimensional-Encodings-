@@ -1,0 +1,10 @@
+{
+    "query": "Which Disney film features a character named Beauty and the Beast?",
+    "response": [
+        "doc_20613.txt",
+        "doc_20142.txt",
+        "doc_6584.txt",
+        "doc_20622.txt",
+        "doc_1560.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of the album \u201cRed Hot + Blue\u201d?",
+    "response": [
+        "doc_8336.txt",
+        "doc_22028.txt",
+        "doc_6335.txt",
+        "doc_14847.txt",
+        "doc_13854.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year was \u201cFerry Cross the Mersey\u201d released?",
+    "response": [
+        "doc_3489.txt",
+        "doc_3483.txt",
+        "doc_3494.txt",
+        "doc_3491.txt",
+        "doc_3488.txt"
+    ]
+}

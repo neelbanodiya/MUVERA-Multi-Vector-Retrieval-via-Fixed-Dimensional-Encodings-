@@ -1,0 +1,10 @@
+{
+    "query": "What was Steve McNair\u2019s nickname, and for which NFL teams did he play?",
+    "response": [
+        "doc_6723.txt",
+        "doc_5391.txt",
+        "doc_3576.txt",
+        "doc_13000.txt",
+        "doc_22643.txt"
+    ]
+}

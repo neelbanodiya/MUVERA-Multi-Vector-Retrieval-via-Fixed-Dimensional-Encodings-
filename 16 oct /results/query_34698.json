@@ -1,0 +1,10 @@
+{
+    "query": "What was Dean Smith\u2019s role in the early basketball career of Michael Jordan?",
+    "response": [
+        "doc_20203.txt",
+        "doc_19036.txt",
+        "doc_76.txt",
+        "doc_1974.txt",
+        "doc_7515.txt"
+    ]
+}

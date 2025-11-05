@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred in February 1984 regarding Prime Minister Trudeau?",
+    "response": [
+        "doc_11474.txt",
+        "doc_11470.txt",
+        "doc_11471.txt",
+        "doc_11468.txt",
+        "doc_11469.txt"
+    ]
+}

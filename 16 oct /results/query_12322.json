@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the television show, and who play the main characters, Lorelai Gilmore and Rory?",
+    "response": [
+        "doc_7192.txt",
+        "doc_7181.txt",
+        "doc_7191.txt",
+        "doc_7179.txt",
+        "doc_7182.txt"
+    ]
+}

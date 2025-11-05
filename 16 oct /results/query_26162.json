@@ -1,0 +1,10 @@
+{
+    "query": "Who was Secretary Josiah Pratt related to?",
+    "response": [
+        "doc_16126.txt",
+        "doc_19681.txt",
+        "doc_2698.txt",
+        "doc_19875.txt",
+        "doc_19682.txt"
+    ]
+}

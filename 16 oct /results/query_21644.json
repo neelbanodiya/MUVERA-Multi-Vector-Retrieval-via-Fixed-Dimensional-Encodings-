@@ -1,0 +1,10 @@
+{
+    "query": "What types of toxicological effects should the Authority assess when determining risks associated with pesticide residues?",
+    "response": [
+        "doc_12494.txt",
+        "doc_12473.txt",
+        "doc_12485.txt",
+        "doc_12474.txt",
+        "doc_12483.txt"
+    ]
+}

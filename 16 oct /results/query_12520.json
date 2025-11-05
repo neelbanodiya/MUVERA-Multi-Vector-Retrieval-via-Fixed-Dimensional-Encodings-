@@ -1,0 +1,10 @@
+{
+    "query": "What concerns did the Joint Supervisory Authority raise regarding the physical security of the SIS system?",
+    "response": [
+        "doc_7292.txt",
+        "doc_6819.txt",
+        "doc_7291.txt",
+        "doc_6764.txt",
+        "doc_13419.txt"
+    ]
+}

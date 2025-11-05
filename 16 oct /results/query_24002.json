@@ -1,0 +1,10 @@
+{
+    "query": "What music movement was Johnny Paycheck a part of during the 1970s?",
+    "response": [
+        "doc_12339.txt",
+        "doc_13092.txt",
+        "doc_10075.txt",
+        "doc_6337.txt",
+        "doc_22804.txt"
+    ]
+}

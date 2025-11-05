@@ -1,0 +1,10 @@
+{
+    "query": "What is the name given to King Pharaoh in the provided texts?",
+    "response": [
+        "doc_1243.txt",
+        "doc_12654.txt",
+        "doc_1311.txt",
+        "doc_1297.txt",
+        "doc_12650.txt"
+    ]
+}

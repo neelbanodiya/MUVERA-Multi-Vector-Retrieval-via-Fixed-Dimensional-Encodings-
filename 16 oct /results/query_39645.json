@@ -1,0 +1,10 @@
+{
+    "query": "What was the population of Beach, Florida, as of the 2010 census?",
+    "response": [
+        "doc_22790.txt",
+        "doc_23217.txt",
+        "doc_23216.txt",
+        "doc_8283.txt",
+        "doc_15881.txt"
+    ]
+}

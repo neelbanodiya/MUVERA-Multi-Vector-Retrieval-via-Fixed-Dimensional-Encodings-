@@ -1,0 +1,9 @@
+{
+    "query": "Which cruise line ultimately purchased the \u201cRoyal Majesty\u201d ship and renamed it \u201cNorwegian Majesty\u201d?",
+    "response": [
+        "doc_21082.txt",
+        "doc_21081.txt",
+        "doc_21079.txt",
+        "doc_21096.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What action is the EU taking in response to the security situation in Venezuela?",
+    "response": [
+        "doc_14722.txt",
+        "doc_23675.txt",
+        "doc_12418.txt",
+        "doc_35.txt",
+        "doc_9926.txt"
+    ]
+}

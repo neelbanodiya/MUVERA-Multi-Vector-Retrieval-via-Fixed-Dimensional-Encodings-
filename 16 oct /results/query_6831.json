@@ -1,0 +1,10 @@
+{
+    "query": "What was the date and time of the public hearing on EU agriculture and climate change?",
+    "response": [
+        "doc_20514.txt",
+        "doc_3215.txt",
+        "doc_17392.txt",
+        "doc_15131.txt",
+        "doc_17393.txt"
+    ]
+}

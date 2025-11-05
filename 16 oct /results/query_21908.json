@@ -1,0 +1,10 @@
+{
+    "query": "Which committee was discussing the Stabilisation and Association Agreement with Albania?",
+    "response": [
+        "doc_12633.txt",
+        "doc_22965.txt",
+        "doc_20780.txt",
+        "doc_15472.txt",
+        "doc_21466.txt"
+    ]
+}

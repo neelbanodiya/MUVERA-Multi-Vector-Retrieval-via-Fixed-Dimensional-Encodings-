@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of the CD released by Big Brother featuring Janis Joplin?",
+    "response": [
+        "doc_5278.txt",
+        "doc_8014.txt",
+        "doc_8010.txt",
+        "doc_128.txt",
+        "doc_4604.txt"
+    ]
+}

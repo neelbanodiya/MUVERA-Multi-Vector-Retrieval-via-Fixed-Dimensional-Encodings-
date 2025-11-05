@@ -1,0 +1,10 @@
+{
+    "query": "What year is referenced as \u201c632 A(fter) F(ord)\u201d in the text?",
+    "response": [
+        "doc_17773.txt",
+        "doc_14593.txt",
+        "doc_3062.txt",
+        "doc_1057.txt",
+        "doc_4729.txt"
+    ]
+}

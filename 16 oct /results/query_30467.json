@@ -1,0 +1,10 @@
+{
+    "query": "What country is the exiled poet, Pablo Neruda, from?",
+    "response": [
+        "doc_17700.txt",
+        "doc_5098.txt",
+        "doc_17712.txt",
+        "doc_17711.txt",
+        "doc_14499.txt"
+    ]
+}

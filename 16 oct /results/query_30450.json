@@ -1,0 +1,10 @@
+{
+    "query": "Who played the role of the postman in \u201cIl Postino\u201d?",
+    "response": [
+        "doc_17705.txt",
+        "doc_17704.txt",
+        "doc_17698.txt",
+        "doc_17708.txt",
+        "doc_17697.txt"
+    ]
+}

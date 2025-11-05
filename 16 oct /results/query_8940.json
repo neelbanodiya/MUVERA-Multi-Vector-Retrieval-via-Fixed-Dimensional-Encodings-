@@ -1,0 +1,10 @@
+{
+    "query": "Which actress played Norma in the 1976 film \u201cCarrie\u201d?",
+    "response": [
+        "doc_5157.txt",
+        "doc_726.txt",
+        "doc_4641.txt",
+        "doc_745.txt",
+        "doc_14576.txt"
+    ]
+}

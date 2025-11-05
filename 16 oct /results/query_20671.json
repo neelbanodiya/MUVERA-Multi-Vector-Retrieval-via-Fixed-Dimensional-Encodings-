@@ -1,0 +1,10 @@
+{
+    "query": "What is the current minimum wage standard in the United States?",
+    "response": [
+        "doc_11920.txt",
+        "doc_11924.txt",
+        "doc_11926.txt",
+        "doc_11923.txt",
+        "doc_11922.txt"
+    ]
+}

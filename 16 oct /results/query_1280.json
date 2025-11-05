@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the \u201cJerry Lewis Show\u201d broadcast?",
+    "response": [
+        "doc_733.txt",
+        "doc_12270.txt",
+        "doc_734.txt",
+        "doc_18242.txt",
+        "doc_3742.txt"
+    ]
+}

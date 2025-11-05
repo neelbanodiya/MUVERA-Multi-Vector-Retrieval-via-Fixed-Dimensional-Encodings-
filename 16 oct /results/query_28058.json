@@ -1,0 +1,10 @@
+{
+    "query": "What was Rio de Janeiro previously?",
+    "response": [
+        "doc_5413.txt",
+        "doc_14308.txt",
+        "doc_20161.txt",
+        "doc_22790.txt",
+        "doc_14616.txt"
+    ]
+}

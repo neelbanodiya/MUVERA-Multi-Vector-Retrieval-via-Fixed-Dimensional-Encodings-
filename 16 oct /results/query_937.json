@@ -1,0 +1,10 @@
+{
+    "query": "What was Carver\u2019s birth circumstance?",
+    "response": [
+        "doc_519.txt",
+        "doc_521.txt",
+        "doc_20100.txt",
+        "doc_20255.txt",
+        "doc_16127.txt"
+    ]
+}

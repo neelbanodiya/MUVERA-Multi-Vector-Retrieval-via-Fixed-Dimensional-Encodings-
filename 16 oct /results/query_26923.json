@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, which composer\u2019s music is used in George Balanchine\u2019s \u201cApollo\u201d?",
+    "response": [
+        "doc_15650.txt",
+        "doc_15649.txt",
+        "doc_15662.txt",
+        "doc_9888.txt",
+        "doc_23546.txt"
+    ]
+}

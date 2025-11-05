@@ -1,0 +1,10 @@
+{
+    "query": "What role did Cher portray in the critically-acclaimed romantic comedy *Moonstruck*?",
+    "response": [
+        "doc_23507.txt",
+        "doc_23508.txt",
+        "doc_19019.txt",
+        "doc_4643.txt",
+        "doc_4644.txt"
+    ]
+}

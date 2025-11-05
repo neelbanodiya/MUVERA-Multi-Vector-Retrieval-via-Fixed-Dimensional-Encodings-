@@ -1,0 +1,10 @@
+{
+    "query": "What did Michael Richards do in a tour of Manhattan locales featured in *Seinfeld*?",
+    "response": [
+        "doc_4467.txt",
+        "doc_4474.txt",
+        "doc_4469.txt",
+        "doc_9384.txt",
+        "doc_22894.txt"
+    ]
+}

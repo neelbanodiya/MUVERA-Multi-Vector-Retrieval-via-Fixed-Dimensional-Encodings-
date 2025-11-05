@@ -1,0 +1,10 @@
+{
+    "query": "What historical figure was Roxas Boulevard renamed in honor of?",
+    "response": [
+        "doc_2618.txt",
+        "doc_2620.txt",
+        "doc_2625.txt",
+        "doc_2634.txt",
+        "doc_2626.txt"
+    ]
+}

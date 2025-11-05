@@ -1,0 +1,10 @@
+{
+    "query": "How many Christians have been deported from Morocco in the past four months?",
+    "response": [
+        "doc_18155.txt",
+        "doc_1180.txt",
+        "doc_18257.txt",
+        "doc_15257.txt",
+        "doc_8112.txt"
+    ]
+}

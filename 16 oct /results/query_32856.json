@@ -1,0 +1,10 @@
+{
+    "query": "What is the passage\u2019s recommendation regarding the funding of projects promoting the teaching of European integration?",
+    "response": [
+        "doc_5379.txt",
+        "doc_19146.txt",
+        "doc_19147.txt",
+        "doc_4537.txt",
+        "doc_4534.txt"
+    ]
+}

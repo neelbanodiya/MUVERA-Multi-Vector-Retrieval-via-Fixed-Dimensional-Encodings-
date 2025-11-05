@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 1, what are the primary responsibilities of the Agency?",
+    "response": [
+        "doc_8141.txt",
+        "doc_23624.txt",
+        "doc_23667.txt",
+        "doc_17530.txt",
+        "doc_4060.txt"
+    ]
+}

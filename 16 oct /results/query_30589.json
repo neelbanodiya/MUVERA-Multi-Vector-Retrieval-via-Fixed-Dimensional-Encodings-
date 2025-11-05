@@ -1,0 +1,10 @@
+{
+    "query": "What agreement between the Russian Federation and the European Union addresses respect for human rights?",
+    "response": [
+        "doc_17781.txt",
+        "doc_16788.txt",
+        "doc_5889.txt",
+        "doc_17782.txt",
+        "doc_4132.txt"
+    ]
+}

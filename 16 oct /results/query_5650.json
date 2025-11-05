@@ -1,0 +1,10 @@
+{
+    "query": "How many major titles is Trevino missing?",
+    "response": [
+        "doc_3287.txt",
+        "doc_11144.txt",
+        "doc_11143.txt",
+        "doc_11145.txt",
+        "doc_14989.txt"
+    ]
+}

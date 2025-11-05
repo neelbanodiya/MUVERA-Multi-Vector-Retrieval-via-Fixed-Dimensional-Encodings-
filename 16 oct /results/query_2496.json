@@ -1,0 +1,10 @@
+{
+    "query": "What job did Sharpe get?",
+    "response": [
+        "doc_1477.txt",
+        "doc_1476.txt",
+        "doc_12734.txt",
+        "doc_4476.txt",
+        "doc_76.txt"
+    ]
+}

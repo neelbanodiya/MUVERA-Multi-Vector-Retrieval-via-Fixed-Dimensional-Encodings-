@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Kevin Buckley attend the College World Series?",
+    "response": [
+        "doc_7451.txt",
+        "doc_1220.txt",
+        "doc_21943.txt",
+        "doc_5391.txt",
+        "doc_21942.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what was the ancient Greek festival dedicated to?",
+    "response": [
+        "doc_20486.txt",
+        "doc_96.txt",
+        "doc_22658.txt",
+        "doc_19770.txt",
+        "doc_19768.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What company was Anthony founded, and who did it later sell to?",
+    "response": [
+        "doc_22859.txt",
+        "doc_8008.txt",
+        "doc_20569.txt",
+        "doc_431.txt",
+        "doc_623.txt"
+    ]
+}

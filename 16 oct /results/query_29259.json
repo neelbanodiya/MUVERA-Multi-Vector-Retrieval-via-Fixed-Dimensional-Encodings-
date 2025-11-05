@@ -1,0 +1,10 @@
+{
+    "query": "What suburb is mentioned in relation to the Sydney inner-city area?",
+    "response": [
+        "doc_21464.txt",
+        "doc_2841.txt",
+        "doc_5425.txt",
+        "doc_17360.txt",
+        "doc_8512.txt"
+    ]
+}

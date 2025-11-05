@@ -1,0 +1,10 @@
+{
+    "query": "What is Bob Dylan associated with, according to the provided links?",
+    "response": [
+        "doc_14076.txt",
+        "doc_14077.txt",
+        "doc_7126.txt",
+        "doc_22803.txt",
+        "doc_17763.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the purpose of the Common Emergency Communication and Information System (CECIS)?",
+    "response": [
+        "doc_21819.txt",
+        "doc_15950.txt",
+        "doc_11885.txt",
+        "doc_13395.txt",
+        "doc_11886.txt"
+    ]
+}

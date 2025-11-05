@@ -1,0 +1,10 @@
+{
+    "query": "What ingredients are used to make the Don Alfredo cocktail?",
+    "response": [
+        "doc_15191.txt",
+        "doc_15190.txt",
+        "doc_9713.txt",
+        "doc_4944.txt",
+        "doc_3192.txt"
+    ]
+}

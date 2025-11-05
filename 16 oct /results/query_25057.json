@@ -1,0 +1,10 @@
+{
+    "query": "When did Frederick William III become King of Prussia?",
+    "response": [
+        "doc_14557.txt",
+        "doc_14558.txt",
+        "doc_7337.txt",
+        "doc_7326.txt",
+        "doc_7336.txt"
+    ]
+}

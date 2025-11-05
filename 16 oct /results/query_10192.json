@@ -1,0 +1,10 @@
+{
+    "query": "What image is featured on the reverse of the 1972 Eisenhower dollar?",
+    "response": [
+        "doc_5910.txt",
+        "doc_5927.txt",
+        "doc_5911.txt",
+        "doc_5922.txt",
+        "doc_5914.txt"
+    ]
+}

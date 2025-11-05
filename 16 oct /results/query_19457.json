@@ -1,0 +1,10 @@
+{
+    "query": "What was the capacity of the Louisiana Superdome when it hosted the Super Bowl?",
+    "response": [
+        "doc_11257.txt",
+        "doc_11255.txt",
+        "doc_11270.txt",
+        "doc_11256.txt",
+        "doc_11259.txt"
+    ]
+}

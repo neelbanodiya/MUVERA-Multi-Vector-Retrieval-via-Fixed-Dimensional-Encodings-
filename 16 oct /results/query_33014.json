@@ -1,0 +1,10 @@
+{
+    "query": "When was the Lockheed Corporation founded?",
+    "response": [
+        "doc_19229.txt",
+        "doc_7875.txt",
+        "doc_14305.txt",
+        "doc_16350.txt",
+        "doc_19224.txt"
+    ]
+}

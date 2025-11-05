@@ -1,0 +1,10 @@
+{
+    "query": "What is the Danube River primarily known for in Europe?",
+    "response": [
+        "doc_77.txt",
+        "doc_1506.txt",
+        "doc_4335.txt",
+        "doc_3444.txt",
+        "doc_5379.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which province in Canada is named after the province of Alberta?",
+    "response": [
+        "doc_9250.txt",
+        "doc_9249.txt",
+        "doc_9251.txt",
+        "doc_9252.txt",
+        "doc_9254.txt"
+    ]
+}

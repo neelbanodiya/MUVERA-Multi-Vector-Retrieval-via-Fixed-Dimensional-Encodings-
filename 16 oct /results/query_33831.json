@@ -1,0 +1,10 @@
+{
+    "query": "What is the setting described in one of the linked images related to *Dirty Harry* (e.g., a diner)?",
+    "response": [
+        "doc_19687.txt",
+        "doc_19692.txt",
+        "doc_15002.txt",
+        "doc_6708.txt",
+        "doc_19205.txt"
+    ]
+}

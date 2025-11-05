@@ -1,0 +1,10 @@
+{
+    "query": "When did the Tulane team move to the Louisiana Superdome?",
+    "response": [
+        "doc_11255.txt",
+        "doc_11259.txt",
+        "doc_11264.txt",
+        "doc_11269.txt",
+        "doc_11257.txt"
+    ]
+}

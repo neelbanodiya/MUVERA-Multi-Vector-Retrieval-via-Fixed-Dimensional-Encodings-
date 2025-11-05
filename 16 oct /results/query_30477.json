@@ -1,0 +1,10 @@
+{
+    "query": "When did The Prodigy first emerge on the music scene?",
+    "response": [
+        "doc_17723.txt",
+        "doc_17729.txt",
+        "doc_17730.txt",
+        "doc_17731.txt",
+        "doc_17716.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "During what period did the U.S. Army Corps of Engineers contribute to the development of Washington, D.C.?",
+    "response": [
+        "doc_16056.txt",
+        "doc_4014.txt",
+        "doc_18391.txt",
+        "doc_17954.txt",
+        "doc_4066.txt"
+    ]
+}

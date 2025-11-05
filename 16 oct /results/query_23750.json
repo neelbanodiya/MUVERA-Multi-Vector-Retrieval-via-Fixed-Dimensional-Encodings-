@@ -1,0 +1,10 @@
+{
+    "query": "Which actor played the red superhero in the American TV series Power Rangers, according to the totalcrime.co.uk link?",
+    "response": [
+        "doc_5904.txt",
+        "doc_15399.txt",
+        "doc_4463.txt",
+        "doc_3743.txt",
+        "doc_3736.txt"
+    ]
+}

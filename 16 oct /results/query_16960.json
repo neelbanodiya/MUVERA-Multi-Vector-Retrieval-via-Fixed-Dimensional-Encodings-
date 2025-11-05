@@ -1,0 +1,10 @@
+{
+    "query": "How many Tony Awards did *The Producers* win?",
+    "response": [
+        "doc_2265.txt",
+        "doc_17912.txt",
+        "doc_22622.txt",
+        "doc_17914.txt",
+        "doc_23282.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who collaborated with Madonna on \u201cTake a Bow\u201d?",
+    "response": [
+        "doc_17913.txt",
+        "doc_7940.txt",
+        "doc_7943.txt",
+        "doc_7941.txt",
+        "doc_23469.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "During which decade did Ian & Sylvia split up?",
+    "response": [
+        "doc_16055.txt",
+        "doc_396.txt",
+        "doc_16872.txt",
+        "doc_6467.txt",
+        "doc_2678.txt"
+    ]
+}

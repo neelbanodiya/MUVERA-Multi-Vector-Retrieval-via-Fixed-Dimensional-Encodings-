@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of the book Nehru wrote, consisting of letters to his daughter?",
+    "response": [
+        "doc_17081.txt",
+        "doc_17083.txt",
+        "doc_17082.txt",
+        "doc_17089.txt",
+        "doc_17087.txt"
+    ]
+}

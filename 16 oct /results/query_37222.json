@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what was carried on the Ark?",
+    "response": [
+        "doc_7447.txt",
+        "doc_1813.txt",
+        "doc_1817.txt",
+        "doc_9312.txt",
+        "doc_7446.txt"
+    ]
+}

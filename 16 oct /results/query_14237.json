@@ -1,0 +1,10 @@
+{
+    "query": "Which playwright is cited as having used the elite as subject matter in a work like Sophocles\u2019 *Antigone*?",
+    "response": [
+        "doc_8260.txt",
+        "doc_8272.txt",
+        "doc_8267.txt",
+        "doc_7110.txt",
+        "doc_4939.txt"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "query": "What was the name of the ship Captain Robert FitzRoy commanded during his voyage with Charles Darwin?",
+    "response": [
+        "doc_12034.txt",
+        "doc_12035.txt",
+        "doc_12039.txt",
+        "doc_12036.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What does \u201cTNT\u201d stand for, according to the IMDb entry?",
+    "response": [
+        "doc_9413.txt",
+        "doc_9414.txt",
+        "doc_7788.txt",
+        "doc_12650.txt",
+        "doc_554.txt"
+    ]
+}

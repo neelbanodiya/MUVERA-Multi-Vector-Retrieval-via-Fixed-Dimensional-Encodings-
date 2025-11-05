@@ -1,0 +1,10 @@
+{
+    "query": "Which team played in a game at Tulane Stadium in 1977, defeating Jonesboro-Hodge?",
+    "response": [
+        "doc_11268.txt",
+        "doc_11271.txt",
+        "doc_11269.txt",
+        "doc_11265.txt",
+        "doc_11259.txt"
+    ]
+}

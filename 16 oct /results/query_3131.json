@@ -1,0 +1,10 @@
+{
+    "query": "In what year did W.C. Handy write his first blues song, \u201cBeale Street Blues\u201d?",
+    "response": [
+        "doc_1906.txt",
+        "doc_1907.txt",
+        "doc_1912.txt",
+        "doc_1908.txt",
+        "doc_1910.txt"
+    ]
+}

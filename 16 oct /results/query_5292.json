@@ -1,0 +1,10 @@
+{
+    "query": "Where was Scott Totten born?",
+    "response": [
+        "doc_7524.txt",
+        "doc_5104.txt",
+        "doc_14748.txt",
+        "doc_452.txt",
+        "doc_3819.txt"
+    ]
+}

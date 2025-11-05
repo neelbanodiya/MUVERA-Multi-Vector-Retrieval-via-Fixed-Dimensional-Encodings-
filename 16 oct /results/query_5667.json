@@ -1,0 +1,10 @@
+{
+    "query": "How many major titles did Arnold Palmer win between 1958 and 1964?",
+    "response": [
+        "doc_5753.txt",
+        "doc_3293.txt",
+        "doc_3294.txt",
+        "doc_5755.txt",
+        "doc_6289.txt"
+    ]
+}

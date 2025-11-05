@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Pirates famously use the song \u201cWe Are Family\u201d?",
+    "response": [
+        "doc_6873.txt",
+        "doc_20273.txt",
+        "doc_15896.txt",
+        "doc_2753.txt",
+        "doc_9804.txt"
+    ]
+}

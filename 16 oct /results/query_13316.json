@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the book written by Richard Henry Dana that inspired a visit to Dana Point, California?",
+    "response": [
+        "doc_19671.txt",
+        "doc_7799.txt",
+        "doc_7798.txt",
+        "doc_12792.txt",
+        "doc_18976.txt"
+    ]
+}

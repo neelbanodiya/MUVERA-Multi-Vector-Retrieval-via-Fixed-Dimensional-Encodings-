@@ -1,0 +1,10 @@
+{
+    "query": "In what year was *The Two Towers* published?",
+    "response": [
+        "doc_15552.txt",
+        "doc_15551.txt",
+        "doc_15545.txt",
+        "doc_15558.txt",
+        "doc_15550.txt"
+    ]
+}

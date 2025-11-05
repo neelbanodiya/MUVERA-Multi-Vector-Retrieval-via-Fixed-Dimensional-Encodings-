@@ -1,0 +1,10 @@
+{
+    "query": "In what year did ESPN celebrate its 10th anniversary?",
+    "response": [
+        "doc_2265.txt",
+        "doc_18157.txt",
+        "doc_20445.txt",
+        "doc_13010.txt",
+        "doc_2263.txt"
+    ]
+}

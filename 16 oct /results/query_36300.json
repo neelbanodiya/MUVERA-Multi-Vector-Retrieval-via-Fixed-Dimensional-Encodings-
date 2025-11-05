@@ -1,0 +1,10 @@
+{
+    "query": "What two locations are named \u201cSaint Louis\u201d?",
+    "response": [
+        "doc_21161.txt",
+        "doc_21168.txt",
+        "doc_21164.txt",
+        "doc_21166.txt",
+        "doc_21162.txt"
+    ]
+}

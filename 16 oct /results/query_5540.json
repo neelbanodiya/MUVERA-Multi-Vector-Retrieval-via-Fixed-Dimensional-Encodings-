@@ -1,0 +1,10 @@
+{
+    "query": "What film earned Jane Campion a Palme d'Or in 1993?",
+    "response": [
+        "doc_3219.txt",
+        "doc_3223.txt",
+        "doc_2329.txt",
+        "doc_5324.txt",
+        "doc_642.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What role did Anne Rutherford create in a Toronto production?",
+    "response": [
+        "doc_19019.txt",
+        "doc_5320.txt",
+        "doc_219.txt",
+        "doc_10379.txt",
+        "doc_20411.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of a piece by Chopin, Op. 14, that is described as having \u201cno trace of authentic cakewalk music\u201d?",
+    "response": [
+        "doc_21519.txt",
+        "doc_20491.txt",
+        "doc_8696.txt",
+        "doc_102.txt",
+        "doc_14550.txt"
+    ]
+}

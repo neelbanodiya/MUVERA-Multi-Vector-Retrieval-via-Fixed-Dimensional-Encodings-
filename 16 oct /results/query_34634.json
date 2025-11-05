@@ -1,0 +1,10 @@
+{
+    "query": "What specific actions did Mr. Mukula recommend regarding the EU-DRC dialogue?",
+    "response": [
+        "doc_20155.txt",
+        "doc_8117.txt",
+        "doc_8119.txt",
+        "doc_22128.txt",
+        "doc_2903.txt"
+    ]
+}

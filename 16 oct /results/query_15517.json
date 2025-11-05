@@ -1,0 +1,10 @@
+{
+    "query": "Besides the Spahn Movie Ranch, what other ranch did Charles Manson\u2019s \u201cfamily\u201d inhabit?",
+    "response": [
+        "doc_8998.txt",
+        "doc_8997.txt",
+        "doc_9015.txt",
+        "doc_9004.txt",
+        "doc_8999.txt"
+    ]
+}

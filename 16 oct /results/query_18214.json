@@ -1,0 +1,10 @@
+{
+    "query": "What year did the Rainbow 1 DVD featuring San Antonio footage release?",
+    "response": [
+        "doc_582.txt",
+        "doc_5279.txt",
+        "doc_13866.txt",
+        "doc_21619.txt",
+        "doc_12877.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, where are Gila Monsters and Mexican beaded lizards native to?",
+    "response": [
+        "doc_12300.txt",
+        "doc_12298.txt",
+        "doc_12299.txt",
+        "doc_12295.txt",
+        "doc_12296.txt"
+    ]
+}

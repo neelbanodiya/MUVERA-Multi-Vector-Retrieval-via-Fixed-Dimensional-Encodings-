@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the musical \u201cIt\u2019s a Bird It\u2019s a Plane It\u2019s Superman!\u201d premiere?",
+    "response": [
+        "doc_21363.txt",
+        "doc_21358.txt",
+        "doc_21371.txt",
+        "doc_21372.txt",
+        "doc_21367.txt"
+    ]
+}

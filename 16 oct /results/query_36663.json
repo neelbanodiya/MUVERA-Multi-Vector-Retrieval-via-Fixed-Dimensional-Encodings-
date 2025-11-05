@@ -1,0 +1,10 @@
+{
+    "query": "According to the Lumia 640 User Guide, what functionalities are accessible through Microsoft services?",
+    "response": [
+        "doc_17220.txt",
+        "doc_21179.txt",
+        "doc_17233.txt",
+        "doc_1508.txt",
+        "doc_3625.txt"
+    ]
+}

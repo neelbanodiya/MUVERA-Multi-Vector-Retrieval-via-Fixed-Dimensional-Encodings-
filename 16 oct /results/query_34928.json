@@ -1,0 +1,10 @@
+{
+    "query": "In what park is The Cloisters museum and gardens located?",
+    "response": [
+        "doc_14728.txt",
+        "doc_20380.txt",
+        "doc_20388.txt",
+        "doc_20379.txt",
+        "doc_20382.txt"
+    ]
+}

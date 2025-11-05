@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred in Mark Twain\u2019s life after the Civil War?",
+    "response": [
+        "doc_22456.txt",
+        "doc_20220.txt",
+        "doc_20257.txt",
+        "doc_6110.txt",
+        "doc_7934.txt"
+    ]
+}

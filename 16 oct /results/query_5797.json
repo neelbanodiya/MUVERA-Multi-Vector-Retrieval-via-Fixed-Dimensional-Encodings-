@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Singer Building completed?",
+    "response": [
+        "doc_3382.txt",
+        "doc_19971.txt",
+        "doc_14550.txt",
+        "doc_7371.txt",
+        "doc_10560.txt"
+    ]
+}

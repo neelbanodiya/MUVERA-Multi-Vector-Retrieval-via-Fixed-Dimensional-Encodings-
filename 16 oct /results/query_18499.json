@@ -1,0 +1,10 @@
+{
+    "query": "In what decade did Victor Sifuentes appear on *L.A. Law*?",
+    "response": [
+        "doc_821.txt",
+        "doc_10219.txt",
+        "doc_12239.txt",
+        "doc_20569.txt",
+        "doc_11408.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who painted \u201cPortrait of Sarah Siddons as the Tragic Muse\u201d?",
+    "response": [
+        "doc_20405.txt",
+        "doc_20417.txt",
+        "doc_20410.txt",
+        "doc_20406.txt",
+        "doc_20413.txt"
+    ]
+}

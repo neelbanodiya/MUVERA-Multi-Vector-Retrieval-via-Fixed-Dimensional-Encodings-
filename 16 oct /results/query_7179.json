@@ -1,0 +1,10 @@
+{
+    "query": "What type of event did White describe, involving \u201chis thousand friends\u201d?",
+    "response": [
+        "doc_15772.txt",
+        "doc_23357.txt",
+        "doc_10288.txt",
+        "doc_15771.txt",
+        "doc_8672.txt"
+    ]
+}

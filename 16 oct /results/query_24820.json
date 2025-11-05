@@ -1,0 +1,10 @@
+{
+    "query": "What is the University of Adelaide associated with in terms of Nobel laureates?",
+    "response": [
+        "doc_14426.txt",
+        "doc_17124.txt",
+        "doc_5307.txt",
+        "doc_2854.txt",
+        "doc_4623.txt"
+    ]
+}

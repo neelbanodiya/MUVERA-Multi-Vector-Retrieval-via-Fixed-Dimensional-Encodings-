@@ -1,0 +1,10 @@
+{
+    "query": "Name two television shows featuring an actor who was nominated for an Academy Award.",
+    "response": [
+        "doc_4909.txt",
+        "doc_20158.txt",
+        "doc_23280.txt",
+        "doc_20195.txt",
+        "doc_4910.txt"
+    ]
+}

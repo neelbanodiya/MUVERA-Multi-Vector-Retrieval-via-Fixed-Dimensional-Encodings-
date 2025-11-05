@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what specific link did the Laeken European Council make between asylum and family reunification?",
+    "response": [
+        "doc_11816.txt",
+        "doc_11795.txt",
+        "doc_24226.txt",
+        "doc_11794.txt",
+        "doc_11800.txt"
+    ]
+}

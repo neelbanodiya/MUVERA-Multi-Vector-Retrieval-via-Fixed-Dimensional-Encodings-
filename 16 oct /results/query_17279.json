@@ -1,0 +1,10 @@
+{
+    "query": "What was the House doing during the meeting involving Hollins?",
+    "response": [
+        "doc_1011.txt",
+        "doc_13313.txt",
+        "doc_16160.txt",
+        "doc_310.txt",
+        "doc_13368.txt"
+    ]
+}

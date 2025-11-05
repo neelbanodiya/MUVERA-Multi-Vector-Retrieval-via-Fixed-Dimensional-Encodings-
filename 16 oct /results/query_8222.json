@@ -1,0 +1,10 @@
+{
+    "query": "What is the international headquarters of The Salvation Army?",
+    "response": [
+        "doc_4756.txt",
+        "doc_4758.txt",
+        "doc_4757.txt",
+        "doc_4759.txt",
+        "doc_4761.txt"
+    ]
+}

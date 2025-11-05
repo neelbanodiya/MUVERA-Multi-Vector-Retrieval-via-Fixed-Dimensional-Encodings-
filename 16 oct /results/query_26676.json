@@ -1,0 +1,10 @@
+{
+    "query": "According to UNCTAD data, how many Member States have concluded new or renegotiated BITs since December 2009?",
+    "response": [
+        "doc_15503.txt",
+        "doc_12828.txt",
+        "doc_20922.txt",
+        "doc_16485.txt",
+        "doc_5560.txt"
+    ]
+}

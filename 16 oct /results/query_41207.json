@@ -1,0 +1,10 @@
+{
+    "query": "Which team won the first selection in the 1996 NBA draft, despite being an expansion team?",
+    "response": [
+        "doc_24140.txt",
+        "doc_24143.txt",
+        "doc_24139.txt",
+        "doc_24141.txt",
+        "doc_24142.txt"
+    ]
+}

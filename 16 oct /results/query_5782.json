@@ -1,0 +1,10 @@
+{
+    "query": "What types of media does Red Bull produce?",
+    "response": [
+        "doc_13112.txt",
+        "doc_5396.txt",
+        "doc_2414.txt",
+        "doc_14493.txt",
+        "doc_18266.txt"
+    ]
+}

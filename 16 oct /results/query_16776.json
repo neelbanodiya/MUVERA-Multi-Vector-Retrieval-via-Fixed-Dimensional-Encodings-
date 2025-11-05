@@ -1,0 +1,10 @@
+{
+    "query": "What is a traditional ingredient used in Caesar dressing according to the provided text?",
+    "response": [
+        "doc_9713.txt",
+        "doc_9712.txt",
+        "doc_9721.txt",
+        "doc_9726.txt",
+        "doc_9728.txt"
+    ]
+}

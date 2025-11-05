@@ -1,0 +1,10 @@
+{
+    "query": "How many states initially signed onto the International Criminal Court based in The Hague?",
+    "response": [
+        "doc_22127.txt",
+        "doc_19222.txt",
+        "doc_3581.txt",
+        "doc_4063.txt",
+        "doc_22579.txt"
+    ]
+}

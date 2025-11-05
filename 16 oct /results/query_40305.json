@@ -1,0 +1,10 @@
+{
+    "query": "How was the Ford stock initially offered to the public?",
+    "response": [
+        "doc_23584.txt",
+        "doc_23586.txt",
+        "doc_23593.txt",
+        "doc_23588.txt",
+        "doc_23579.txt"
+    ]
+}

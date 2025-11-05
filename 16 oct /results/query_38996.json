@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the bell tower in Providence built?",
+    "response": [
+        "doc_15975.txt",
+        "doc_22829.txt",
+        "doc_10088.txt",
+        "doc_19971.txt",
+        "doc_12372.txt"
+    ]
+}

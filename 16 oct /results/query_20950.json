@@ -1,0 +1,10 @@
+{
+    "query": "What principle must all measures adopted by the Commission to implement this regulation comply with?",
+    "response": [
+        "doc_12069.txt",
+        "doc_20782.txt",
+        "doc_20839.txt",
+        "doc_20762.txt",
+        "doc_20826.txt"
+    ]
+}

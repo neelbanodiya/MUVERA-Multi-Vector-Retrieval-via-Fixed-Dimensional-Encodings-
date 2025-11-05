@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary goal of Directive 2009/128/EC concerning pesticides?",
+    "response": [
+        "doc_12472.txt",
+        "doc_10305.txt",
+        "doc_21032.txt",
+        "doc_12492.txt",
+        "doc_18017.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what two methods were used to calculate the Commission\u2019s request for increases in the PDB 2006?",
+    "response": [
+        "doc_17606.txt",
+        "doc_16745.txt",
+        "doc_6375.txt",
+        "doc_19814.txt",
+        "doc_6223.txt"
+    ]
+}

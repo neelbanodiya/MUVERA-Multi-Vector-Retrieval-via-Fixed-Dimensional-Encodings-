@@ -1,0 +1,10 @@
+{
+    "query": "Which party held the largest number of seats in the Legislative Council?",
+    "response": [
+        "doc_6491.txt",
+        "doc_9773.txt",
+        "doc_10839.txt",
+        "doc_16809.txt",
+        "doc_5645.txt"
+    ]
+}

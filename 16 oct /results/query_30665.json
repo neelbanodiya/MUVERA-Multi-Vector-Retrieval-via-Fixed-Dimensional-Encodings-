@@ -1,0 +1,10 @@
+{
+    "query": "Which novel did Arthur Conan Doyle write that the passage references as the basis for *The Lost World*?",
+    "response": [
+        "doc_17758.txt",
+        "doc_16517.txt",
+        "doc_10064.txt",
+        "doc_7881.txt",
+        "doc_17763.txt"
+    ]
+}

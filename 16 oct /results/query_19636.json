@@ -1,0 +1,10 @@
+{
+    "query": "Besides the Soviets, which other country did the U.S. team defeat for the gold medal in the 1980 Olympics?",
+    "response": [
+        "doc_11351.txt",
+        "doc_11349.txt",
+        "doc_19243.txt",
+        "doc_11352.txt",
+        "doc_15514.txt"
+    ]
+}

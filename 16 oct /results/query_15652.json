@@ -1,0 +1,10 @@
+{
+    "query": "In 1996 Graceland Gifts in this city sold a limited edition Elvis Cabbage Patch Kid in a gold lame suit.",
+    "response": [
+        "doc_9071.txt",
+        "doc_9072.txt",
+        "doc_9075.txt",
+        "doc_11560.txt",
+        "doc_11554.txt"
+    ]
+}

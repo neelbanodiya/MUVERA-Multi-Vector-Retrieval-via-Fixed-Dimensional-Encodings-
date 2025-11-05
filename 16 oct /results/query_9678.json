@@ -1,0 +1,10 @@
+{
+    "query": "In what year did David Milch marry Rita Stern?",
+    "response": [
+        "doc_11239.txt",
+        "doc_10551.txt",
+        "doc_728.txt",
+        "doc_9887.txt",
+        "doc_1395.txt"
+    ]
+}

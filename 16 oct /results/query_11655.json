@@ -1,0 +1,10 @@
+{
+    "query": "What nickname did some Stanford hackers give to Wirth?",
+    "response": [
+        "doc_14466.txt",
+        "doc_12244.txt",
+        "doc_20128.txt",
+        "doc_2465.txt",
+        "doc_4833.txt"
+    ]
+}

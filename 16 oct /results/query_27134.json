@@ -1,0 +1,10 @@
+{
+    "query": "What was the famous campaign catchphrase used by Bill Clinton in the 1992 Democratic presidential campaign?",
+    "response": [
+        "doc_15746.txt",
+        "doc_15748.txt",
+        "doc_15750.txt",
+        "doc_15751.txt",
+        "doc_15747.txt"
+    ]
+}

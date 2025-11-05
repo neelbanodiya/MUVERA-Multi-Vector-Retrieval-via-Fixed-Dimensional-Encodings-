@@ -1,0 +1,10 @@
+{
+    "query": "When is Chrome expected to remove support for NPAPI plugins?",
+    "response": [
+        "doc_16503.txt",
+        "doc_6885.txt",
+        "doc_22513.txt",
+        "doc_13145.txt",
+        "doc_8295.txt"
+    ]
+}

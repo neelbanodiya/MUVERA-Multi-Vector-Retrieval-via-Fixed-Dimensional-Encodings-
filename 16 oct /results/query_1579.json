@@ -1,0 +1,10 @@
+{
+    "query": "For what town in Massachusetts was the city of Medford, Oregon, named?",
+    "response": [
+        "doc_891.txt",
+        "doc_890.txt",
+        "doc_898.txt",
+        "doc_893.txt",
+        "doc_6609.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When did SAAB first equip their cars with safety belts?",
+    "response": [
+        "doc_23481.txt",
+        "doc_23482.txt",
+        "doc_23474.txt",
+        "doc_23479.txt",
+        "doc_23476.txt"
+    ]
+}

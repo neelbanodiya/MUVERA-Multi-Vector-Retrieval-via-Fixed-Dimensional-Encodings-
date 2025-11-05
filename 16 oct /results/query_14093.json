@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is the setting of Edgar Allan Poe\u2019s story referenced in the text?",
+    "response": [
+        "doc_8178.txt",
+        "doc_20548.txt",
+        "doc_17758.txt",
+        "doc_22244.txt",
+        "doc_17763.txt"
+    ]
+}

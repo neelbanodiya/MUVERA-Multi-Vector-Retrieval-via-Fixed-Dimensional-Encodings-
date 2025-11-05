@@ -1,0 +1,10 @@
+{
+    "query": "What type of musical collection was Robert Grimes known to have?",
+    "response": [
+        "doc_22803.txt",
+        "doc_19136.txt",
+        "doc_3129.txt",
+        "doc_15878.txt",
+        "doc_19669.txt"
+    ]
+}

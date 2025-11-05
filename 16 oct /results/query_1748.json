@@ -1,0 +1,10 @@
+{
+    "query": "Which university presses, besides Lehigh University Press, were part of the Associated University Presses consortium?",
+    "response": [
+        "doc_998.txt",
+        "doc_997.txt",
+        "doc_20420.txt",
+        "doc_16469.txt",
+        "doc_10701.txt"
+    ]
+}

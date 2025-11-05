@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is the primary role of the goddess Aurora?",
+    "response": [
+        "doc_14773.txt",
+        "doc_14770.txt",
+        "doc_14772.txt",
+        "doc_14771.txt",
+        "doc_14775.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is a common usage of the word \u201cfriend\u201d in Telugu?",
+    "response": [
+        "doc_4404.txt",
+        "doc_12623.txt",
+        "doc_12624.txt",
+        "doc_4399.txt",
+        "doc_12391.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What significant achievement did this politician accomplish in California?",
+    "response": [
+        "doc_19247.txt",
+        "doc_19875.txt",
+        "doc_20141.txt",
+        "doc_5697.txt",
+        "doc_5372.txt"
+    ]
+}

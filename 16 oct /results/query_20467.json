@@ -1,0 +1,10 @@
+{
+    "query": "What type of evidence might Member States use to verify a family relationship, according to the passage?",
+    "response": [
+        "doc_11805.txt",
+        "doc_21017.txt",
+        "doc_2740.txt",
+        "doc_11811.txt",
+        "doc_14366.txt"
+    ]
+}

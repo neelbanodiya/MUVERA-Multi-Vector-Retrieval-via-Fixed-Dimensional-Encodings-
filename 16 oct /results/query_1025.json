@@ -1,0 +1,10 @@
+{
+    "query": "Which hotels are listed as being among the \u201cAmerican luxury hotels\u201d alongside the St. Regis, Waldorf-Astoria, The Carlyle, and The Plaza?",
+    "response": [
+        "doc_568.txt",
+        "doc_566.txt",
+        "doc_574.txt",
+        "doc_572.txt",
+        "doc_565.txt"
+    ]
+}

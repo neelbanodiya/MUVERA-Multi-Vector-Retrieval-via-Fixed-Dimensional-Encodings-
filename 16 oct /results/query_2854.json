@@ -1,0 +1,10 @@
+{
+    "query": "What is P. J. O'Rourke\u2019s full name?",
+    "response": [
+        "doc_1725.txt",
+        "doc_1723.txt",
+        "doc_21626.txt",
+        "doc_8143.txt",
+        "doc_4478.txt"
+    ]
+}

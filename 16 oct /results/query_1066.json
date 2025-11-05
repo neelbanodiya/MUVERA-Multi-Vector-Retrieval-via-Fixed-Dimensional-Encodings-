@@ -1,0 +1,10 @@
+{
+    "query": "What political party is Tsutomu Sato a member of, and in which national legislature does he serve?",
+    "response": [
+        "doc_595.txt",
+        "doc_16759.txt",
+        "doc_8679.txt",
+        "doc_2932.txt",
+        "doc_17369.txt"
+    ]
+}

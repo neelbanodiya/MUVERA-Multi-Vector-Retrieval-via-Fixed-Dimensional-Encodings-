@@ -1,0 +1,10 @@
+{
+    "query": "Which interstate highway leads to Petrified Forest National Park?",
+    "response": [
+        "doc_22539.txt",
+        "doc_2881.txt",
+        "doc_9334.txt",
+        "doc_9324.txt",
+        "doc_9328.txt"
+    ]
+}

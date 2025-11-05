@@ -1,0 +1,10 @@
+{
+    "query": "What is the typical daylight hours like in Finland during the summer?",
+    "response": [
+        "doc_9259.txt",
+        "doc_9263.txt",
+        "doc_9260.txt",
+        "doc_9262.txt",
+        "doc_9266.txt"
+    ]
+}

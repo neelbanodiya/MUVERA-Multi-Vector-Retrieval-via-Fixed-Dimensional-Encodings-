@@ -1,0 +1,10 @@
+{
+    "query": "What activity did the author participate in with a British guest?",
+    "response": [
+        "doc_1444.txt",
+        "doc_14666.txt",
+        "doc_11916.txt",
+        "doc_14665.txt",
+        "doc_1455.txt"
+    ]
+}

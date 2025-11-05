@@ -1,0 +1,10 @@
+{
+    "query": "What is Potsdam, New York, known for being a hub of?",
+    "response": [
+        "doc_134.txt",
+        "doc_135.txt",
+        "doc_3204.txt",
+        "doc_13053.txt",
+        "doc_11304.txt"
+    ]
+}

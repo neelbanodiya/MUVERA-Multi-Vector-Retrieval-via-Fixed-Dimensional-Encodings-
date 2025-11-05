@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which composer adapted Edgar Allan Poe\u2019s story for an opera?",
+    "response": [
+        "doc_8167.txt",
+        "doc_8172.txt",
+        "doc_8178.txt",
+        "doc_3837.txt",
+        "doc_8162.txt"
+    ]
+}

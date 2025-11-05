@@ -1,0 +1,10 @@
+{
+    "query": "What was the largest bank in Bermuda as of February 2004, and who owned it?",
+    "response": [
+        "doc_5024.txt",
+        "doc_17318.txt",
+        "doc_23581.txt",
+        "doc_8011.txt",
+        "doc_4418.txt"
+    ]
+}

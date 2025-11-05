@@ -1,0 +1,10 @@
+{
+    "query": "What types of products does Nobleworks publish and sell?",
+    "response": [
+        "doc_6181.txt",
+        "doc_12421.txt",
+        "doc_20932.txt",
+        "doc_22536.txt",
+        "doc_20933.txt"
+    ]
+}

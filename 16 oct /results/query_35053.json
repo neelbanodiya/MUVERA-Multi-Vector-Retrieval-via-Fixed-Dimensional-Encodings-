@@ -1,0 +1,10 @@
+{
+    "query": "What children\u2019s television network is associated with shows like *Blue\u2019s Room*, *Franklin*, and *Little Bear*?",
+    "response": [
+        "doc_9383.txt",
+        "doc_18244.txt",
+        "doc_5719.txt",
+        "doc_12719.txt",
+        "doc_22904.txt"
+    ]
+}

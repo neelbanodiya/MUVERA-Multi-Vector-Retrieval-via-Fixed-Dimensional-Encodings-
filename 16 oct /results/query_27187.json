@@ -1,0 +1,10 @@
+{
+    "query": "What are some of the weather conditions described as persistent on the Falkland Islands?",
+    "response": [
+        "doc_15792.txt",
+        "doc_15800.txt",
+        "doc_12701.txt",
+        "doc_8850.txt",
+        "doc_10326.txt"
+    ]
+}

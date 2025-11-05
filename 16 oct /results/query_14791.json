@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is one characteristic of the \u201cWater Is Wide\u201d folk song?",
+    "response": [
+        "doc_8586.txt",
+        "doc_22491.txt",
+        "doc_21610.txt",
+        "doc_19752.txt",
+        "doc_22374.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many years did Amanda Blake play the role of Miss Kitty on *Gunsmoke*?",
+    "response": [
+        "doc_22680.txt",
+        "doc_22678.txt",
+        "doc_22683.txt",
+        "doc_22677.txt",
+        "doc_22685.txt"
+    ]
+}

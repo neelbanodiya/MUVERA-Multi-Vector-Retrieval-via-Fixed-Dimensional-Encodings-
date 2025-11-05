@@ -1,0 +1,10 @@
+{
+    "query": "Where was the \u201cModern Marvels\u201d episode about the Golden Gate Bridge filmed?",
+    "response": [
+        "doc_2117.txt",
+        "doc_2118.txt",
+        "doc_2108.txt",
+        "doc_14779.txt",
+        "doc_21991.txt"
+    ]
+}

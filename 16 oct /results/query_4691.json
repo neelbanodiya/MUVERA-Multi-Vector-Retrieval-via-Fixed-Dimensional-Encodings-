@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the first bank founded in Philadelphia that played a significant role in the nation\u2019s early financial history?",
+    "response": [
+        "doc_2708.txt",
+        "doc_2715.txt",
+        "doc_2711.txt",
+        "doc_2706.txt",
+        "doc_2710.txt"
+    ]
+}

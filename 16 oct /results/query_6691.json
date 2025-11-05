@@ -1,0 +1,10 @@
+{
+    "query": "What opera did Isaac Albeniz compose when he was 20 years old?",
+    "response": [
+        "doc_3838.txt",
+        "doc_3845.txt",
+        "doc_3837.txt",
+        "doc_3841.txt",
+        "doc_3840.txt"
+    ]
+}

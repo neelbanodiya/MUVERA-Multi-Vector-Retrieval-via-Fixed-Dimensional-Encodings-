@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Tate-LaBianca murder trial held in Los Angeles?",
+    "response": [
+        "doc_9001.txt",
+        "doc_9017.txt",
+        "doc_18155.txt",
+        "doc_9006.txt",
+        "doc_7921.txt"
+    ]
+}

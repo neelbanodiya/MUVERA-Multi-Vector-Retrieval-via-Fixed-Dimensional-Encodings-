@@ -1,0 +1,10 @@
+{
+    "query": "According to Jean-Marie Cavada, what should MEPs be cautious about when considering an investigation?",
+    "response": [
+        "doc_1322.txt",
+        "doc_24201.txt",
+        "doc_3125.txt",
+        "doc_23936.txt",
+        "doc_17891.txt"
+    ]
+}

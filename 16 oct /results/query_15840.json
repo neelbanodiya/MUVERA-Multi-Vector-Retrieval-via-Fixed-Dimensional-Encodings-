@@ -1,0 +1,10 @@
+{
+    "query": "What specific policy did the EU favor regarding Cuba, as opposed to the US embargo?",
+    "response": [
+        "doc_4297.txt",
+        "doc_14180.txt",
+        "doc_17442.txt",
+        "doc_22149.txt",
+        "doc_5453.txt"
+    ]
+}

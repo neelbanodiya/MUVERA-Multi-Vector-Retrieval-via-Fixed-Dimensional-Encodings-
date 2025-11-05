@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary demand of the protestors who gathered in Tiananmen Square calling for democratic reforms?",
+    "response": [
+        "doc_10974.txt",
+        "doc_10980.txt",
+        "doc_10975.txt",
+        "doc_10987.txt",
+        "doc_10977.txt"
+    ]
+}

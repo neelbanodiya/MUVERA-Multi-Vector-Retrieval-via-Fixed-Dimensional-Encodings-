@@ -1,0 +1,10 @@
+{
+    "query": "Which area of Paris is described as the \u201cintellectual and literary quarter\u201d?",
+    "response": [
+        "doc_23405.txt",
+        "doc_14728.txt",
+        "doc_5587.txt",
+        "doc_8506.txt",
+        "doc_2708.txt"
+    ]
+}

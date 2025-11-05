@@ -1,0 +1,10 @@
+{
+    "query": "During which century did England and Holland engage in three wars?",
+    "response": [
+        "doc_9108.txt",
+        "doc_23516.txt",
+        "doc_7323.txt",
+        "doc_7207.txt",
+        "doc_10145.txt"
+    ]
+}

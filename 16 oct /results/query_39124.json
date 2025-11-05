@@ -1,0 +1,10 @@
+{
+    "query": "What is the FCC\u2019s general stance regarding regulating broadcast content?",
+    "response": [
+        "doc_6658.txt",
+        "doc_13362.txt",
+        "doc_2846.txt",
+        "doc_2839.txt",
+        "doc_3430.txt"
+    ]
+}

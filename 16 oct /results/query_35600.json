@@ -1,0 +1,10 @@
+{
+    "query": "How long after presenting a report to the European Parliament must the Commission make the report public?",
+    "response": [
+        "doc_20849.txt",
+        "doc_20755.txt",
+        "doc_20756.txt",
+        "doc_20839.txt",
+        "doc_20765.txt"
+    ]
+}

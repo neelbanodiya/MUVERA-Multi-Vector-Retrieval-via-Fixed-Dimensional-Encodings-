@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the United Nations primarily responsible for in the area?",
+    "response": [
+        "doc_13226.txt",
+        "doc_1677.txt",
+        "doc_8119.txt",
+        "doc_7017.txt",
+        "doc_13217.txt"
+    ]
+}

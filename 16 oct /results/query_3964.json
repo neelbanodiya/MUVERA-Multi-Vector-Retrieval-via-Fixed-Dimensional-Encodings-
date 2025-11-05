@@ -1,0 +1,10 @@
+{
+    "query": "In what town did Jane Austen revise her earlier manuscripts for \u201cPride and Prejudice\u201d and \u201cSense and Sensibility\u201d?",
+    "response": [
+        "doc_2318.txt",
+        "doc_2321.txt",
+        "doc_2320.txt",
+        "doc_2330.txt",
+        "doc_2322.txt"
+    ]
+}

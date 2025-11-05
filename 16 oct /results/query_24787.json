@@ -1,0 +1,10 @@
+{
+    "query": "Who designed the Crystal Palace, and what was its original purpose?",
+    "response": [
+        "doc_14407.txt",
+        "doc_18498.txt",
+        "doc_3992.txt",
+        "doc_8633.txt",
+        "doc_8647.txt"
+    ]
+}

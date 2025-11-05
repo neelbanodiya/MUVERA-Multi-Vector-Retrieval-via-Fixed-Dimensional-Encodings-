@@ -1,0 +1,10 @@
+{
+    "query": "Who dethroned Erving?",
+    "response": [
+        "doc_163.txt",
+        "doc_13130.txt",
+        "doc_3063.txt",
+        "doc_24066.txt",
+        "doc_24067.txt"
+    ]
+}

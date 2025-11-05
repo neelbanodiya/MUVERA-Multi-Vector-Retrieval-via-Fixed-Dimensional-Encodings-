@@ -1,0 +1,10 @@
+{
+    "query": "What is Lorelai Gilmore\u2019s profession at the beginning of the series?",
+    "response": [
+        "doc_309.txt",
+        "doc_1306.txt",
+        "doc_4846.txt",
+        "doc_7743.txt",
+        "doc_23558.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which distributor did Disney work with on the Alice comedies and Oswald the Lucky Rabbit?",
+    "response": [
+        "doc_17197.txt",
+        "doc_17190.txt",
+        "doc_17196.txt",
+        "doc_17198.txt",
+        "doc_17199.txt"
+    ]
+}

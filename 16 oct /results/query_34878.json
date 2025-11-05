@@ -1,0 +1,10 @@
+{
+    "query": "What specific legal action has the European Commission taken regarding Greece\u2019s asylum system?",
+    "response": [
+        "doc_20320.txt",
+        "doc_17771.txt",
+        "doc_20157.txt",
+        "doc_4865.txt",
+        "doc_24002.txt"
+    ]
+}

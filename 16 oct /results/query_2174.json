@@ -1,0 +1,10 @@
+{
+    "query": "How long has the Great Red Spot been swirling around Jupiter?",
+    "response": [
+        "doc_1291.txt",
+        "doc_1286.txt",
+        "doc_1280.txt",
+        "doc_1289.txt",
+        "doc_1284.txt"
+    ]
+}

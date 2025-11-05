@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how far east of Dakar is the city of Thi\u00e8s?",
+    "response": [
+        "doc_22538.txt",
+        "doc_10127.txt",
+        "doc_18155.txt",
+        "doc_20399.txt",
+        "doc_67.txt"
+    ]
+}

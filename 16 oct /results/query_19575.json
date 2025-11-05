@@ -1,0 +1,10 @@
+{
+    "query": "What numbers are associated with the words \"Mirror\" and \"Excel\"?",
+    "response": [
+        "doc_13703.txt",
+        "doc_14589.txt",
+        "doc_14585.txt",
+        "doc_12385.txt",
+        "doc_12382.txt"
+    ]
+}

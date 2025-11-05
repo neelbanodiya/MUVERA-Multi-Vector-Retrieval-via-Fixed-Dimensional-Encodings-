@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, where did Dupont find information about workplace health?",
+    "response": [
+        "doc_5281.txt",
+        "doc_9882.txt",
+        "doc_61.txt",
+        "doc_7811.txt",
+        "doc_10405.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the significance of Tommy Trojan?",
+    "response": [
+        "doc_16032.txt",
+        "doc_5683.txt",
+        "doc_14534.txt",
+        "doc_1299.txt",
+        "doc_23179.txt"
+    ]
+}

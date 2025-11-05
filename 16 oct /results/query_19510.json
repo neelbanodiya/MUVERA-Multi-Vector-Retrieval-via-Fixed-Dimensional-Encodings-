@@ -1,0 +1,10 @@
+{
+    "query": "What is Mario Williams' current team?",
+    "response": [
+        "doc_2615.txt",
+        "doc_18911.txt",
+        "doc_10514.txt",
+        "doc_8059.txt",
+        "doc_1221.txt"
+    ]
+}

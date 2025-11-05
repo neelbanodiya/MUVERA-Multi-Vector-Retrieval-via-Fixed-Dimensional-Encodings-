@@ -1,0 +1,10 @@
+{
+    "query": "What is one unusual or bizarre claim made about Michael Jackson based on the provided links?",
+    "response": [
+        "doc_7606.txt",
+        "doc_7616.txt",
+        "doc_7610.txt",
+        "doc_7604.txt",
+        "doc_7603.txt"
+    ]
+}

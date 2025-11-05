@@ -1,0 +1,10 @@
+{
+    "query": "What year did the Union of South Africa form?",
+    "response": [
+        "doc_21273.txt",
+        "doc_21274.txt",
+        "doc_21276.txt",
+        "doc_21278.txt",
+        "doc_21280.txt"
+    ]
+}

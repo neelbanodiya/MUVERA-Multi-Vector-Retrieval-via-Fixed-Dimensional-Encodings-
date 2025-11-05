@@ -1,0 +1,10 @@
+{
+    "query": "What are the indicators for Greece that are higher than the EU average, according to the passage?",
+    "response": [
+        "doc_20493.txt",
+        "doc_3971.txt",
+        "doc_4336.txt",
+        "doc_14776.txt",
+        "doc_15378.txt"
+    ]
+}

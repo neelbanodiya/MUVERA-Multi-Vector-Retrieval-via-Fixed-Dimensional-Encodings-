@@ -1,0 +1,10 @@
+{
+    "query": "When was the oldest bilingual Chinese-English newspaper established?",
+    "response": [
+        "doc_20651.txt",
+        "doc_20650.txt",
+        "doc_22773.txt",
+        "doc_6613.txt",
+        "doc_7927.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is Madonna referred to as?",
+    "response": [
+        "doc_22242.txt",
+        "doc_1857.txt",
+        "doc_23543.txt",
+        "doc_2466.txt",
+        "doc_20311.txt"
+    ]
+}

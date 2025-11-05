@@ -1,0 +1,10 @@
+{
+    "query": "What year was \u201cCrimson And Clover\u201d by Joan Jett & The Blackhearts released?",
+    "response": [
+        "doc_22555.txt",
+        "doc_22551.txt",
+        "doc_22562.txt",
+        "doc_22559.txt",
+        "doc_22552.txt"
+    ]
+}

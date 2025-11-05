@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was Frosty the snowman made of?",
+    "response": [
+        "doc_11939.txt",
+        "doc_11929.txt",
+        "doc_11937.txt",
+        "doc_11934.txt",
+        "doc_17331.txt"
+    ]
+}

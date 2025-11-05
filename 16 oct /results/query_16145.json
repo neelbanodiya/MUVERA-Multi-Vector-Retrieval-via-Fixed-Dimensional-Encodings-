@@ -1,0 +1,10 @@
+{
+    "query": "What geological feature, located near the New Mexico border, offers a hint of the Painted Desert?",
+    "response": [
+        "doc_9325.txt",
+        "doc_9327.txt",
+        "doc_9326.txt",
+        "doc_9333.txt",
+        "doc_9339.txt"
+    ]
+}

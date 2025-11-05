@@ -1,0 +1,10 @@
+{
+    "query": "Does the Commission agree that vehicle length impacts road safety?",
+    "response": [
+        "doc_8746.txt",
+        "doc_14948.txt",
+        "doc_14949.txt",
+        "doc_23721.txt",
+        "doc_5725.txt"
+    ]
+}

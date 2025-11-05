@@ -1,0 +1,10 @@
+{
+    "query": "How many strikeouts did Brandon Webb have during his time pitching for the Arizona Diamondbacks?",
+    "response": [
+        "doc_8325.txt",
+        "doc_6715.txt",
+        "doc_23053.txt",
+        "doc_15164.txt",
+        "doc_8554.txt"
+    ]
+}

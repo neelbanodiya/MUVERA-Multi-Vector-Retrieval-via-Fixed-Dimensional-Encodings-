@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate date of John the Baptist\u2019s execution?",
+    "response": [
+        "doc_7921.txt",
+        "doc_6110.txt",
+        "doc_6113.txt",
+        "doc_6109.txt",
+        "doc_7922.txt"
+    ]
+}

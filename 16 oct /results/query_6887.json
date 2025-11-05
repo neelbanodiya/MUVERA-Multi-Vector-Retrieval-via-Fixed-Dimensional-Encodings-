@@ -1,0 +1,10 @@
+{
+    "query": "During which period was Chisinau rebuilt, and what style was it rebuilt in?",
+    "response": [
+        "doc_18500.txt",
+        "doc_20209.txt",
+        "doc_20397.txt",
+        "doc_5306.txt",
+        "doc_20390.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What anniversary was the Arizona Theatre Company celebrating?",
+    "response": [
+        "doc_7930.txt",
+        "doc_17914.txt",
+        "doc_7877.txt",
+        "doc_15244.txt",
+        "doc_3513.txt"
+    ]
+}

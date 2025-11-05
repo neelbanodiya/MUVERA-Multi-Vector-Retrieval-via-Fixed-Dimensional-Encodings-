@@ -1,0 +1,10 @@
+{
+    "query": "What musical training did James Dooley receive after graduating from New York University?",
+    "response": [
+        "doc_19136.txt",
+        "doc_19138.txt",
+        "doc_20140.txt",
+        "doc_19139.txt",
+        "doc_22802.txt"
+    ]
+}

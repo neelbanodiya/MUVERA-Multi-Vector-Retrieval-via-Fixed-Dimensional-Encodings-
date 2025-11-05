@@ -1,0 +1,10 @@
+{
+    "query": "What special effect from \u201cThe Abyss\u201d was similar to one in \u201cTerminator 2\u201d?",
+    "response": [
+        "doc_4991.txt",
+        "doc_4983.txt",
+        "doc_385.txt",
+        "doc_21379.txt",
+        "doc_6919.txt"
+    ]
+}

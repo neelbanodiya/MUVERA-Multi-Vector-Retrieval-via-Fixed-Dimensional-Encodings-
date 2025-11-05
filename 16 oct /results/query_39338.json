@@ -1,0 +1,10 @@
+{
+    "query": "What is the Market Street Subway and how does it connect to other transportation systems in San Francisco?",
+    "response": [
+        "doc_23031.txt",
+        "doc_23030.txt",
+        "doc_23261.txt",
+        "doc_6888.txt",
+        "doc_23032.txt"
+    ]
+}

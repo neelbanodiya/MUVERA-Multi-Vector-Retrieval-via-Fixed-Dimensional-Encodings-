@@ -1,0 +1,10 @@
+{
+    "query": "What kind of settlements were discovered in Central Europe, and where were they located?",
+    "response": [
+        "doc_16485.txt",
+        "doc_7201.txt",
+        "doc_19238.txt",
+        "doc_8790.txt",
+        "doc_8789.txt"
+    ]
+}

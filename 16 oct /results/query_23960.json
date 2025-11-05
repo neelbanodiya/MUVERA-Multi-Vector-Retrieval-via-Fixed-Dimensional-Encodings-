@@ -1,0 +1,10 @@
+{
+    "query": "What was designed to stop low-flying aircraft from attacking ships in the North Atlantic?",
+    "response": [
+        "doc_13900.txt",
+        "doc_13902.txt",
+        "doc_13906.txt",
+        "doc_13904.txt",
+        "doc_13901.txt"
+    ]
+}

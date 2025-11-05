@@ -1,0 +1,10 @@
+{
+    "query": "According to multiple sources, what criticism has been leveled against Amnesty International\u2019s campaign regarding Ireland\u2019s abortion laws?",
+    "response": [
+        "doc_1431.txt",
+        "doc_1438.txt",
+        "doc_1433.txt",
+        "doc_1432.txt",
+        "doc_1429.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How much non-target marine species are discarded globally each year due to unselective fishing practices, according to the FAO?",
+    "response": [
+        "doc_20093.txt",
+        "doc_20099.txt",
+        "doc_6765.txt",
+        "doc_20100.txt",
+        "doc_12097.txt"
+    ]
+}

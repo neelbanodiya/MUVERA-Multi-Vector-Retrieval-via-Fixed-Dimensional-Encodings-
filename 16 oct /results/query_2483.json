@@ -1,0 +1,10 @@
+{
+    "query": "What type of work did W. M. Thackeray produce?",
+    "response": [
+        "doc_4939.txt",
+        "doc_22773.txt",
+        "doc_21501.txt",
+        "doc_3167.txt",
+        "doc_22486.txt"
+    ]
+}

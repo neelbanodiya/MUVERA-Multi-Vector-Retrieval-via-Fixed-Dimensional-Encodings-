@@ -1,0 +1,10 @@
+{
+    "query": "Which flower is associated with Japan\u2019s highest honor, the Grand Cordon of the Order of the Paulownia?",
+    "response": [
+        "doc_22012.txt",
+        "doc_22010.txt",
+        "doc_22013.txt",
+        "doc_22021.txt",
+        "doc_22011.txt"
+    ]
+}

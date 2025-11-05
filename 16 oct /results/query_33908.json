@@ -1,0 +1,10 @@
+{
+    "query": "What significant earthquakes have occurred in Kazakhstan in the late 20th and early 21st centuries?",
+    "response": [
+        "doc_16676.txt",
+        "doc_15952.txt",
+        "doc_14845.txt",
+        "doc_17915.txt",
+        "doc_7566.txt"
+    ]
+}

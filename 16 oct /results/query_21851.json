@@ -1,0 +1,8 @@
+{
+    "query": "When was the 1970 1000 km race at Monza, Italy?",
+    "response": [
+        "doc_12600.txt",
+        "doc_12599.txt",
+        "doc_12601.txt"
+    ]
+}

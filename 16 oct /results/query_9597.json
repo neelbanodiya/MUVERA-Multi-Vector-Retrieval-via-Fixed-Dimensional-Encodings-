@@ -1,0 +1,10 @@
+{
+    "query": "What phrase did Woody Allen use when speaking to someone after they damaged his car?",
+    "response": [
+        "doc_8593.txt",
+        "doc_5549.txt",
+        "doc_22914.txt",
+        "doc_14537.txt",
+        "doc_18210.txt"
+    ]
+}

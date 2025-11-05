@@ -1,0 +1,10 @@
+{
+    "query": "Where did Concordia University, St. Paul originally come from?",
+    "response": [
+        "doc_22509.txt",
+        "doc_18078.txt",
+        "doc_135.txt",
+        "doc_19359.txt",
+        "doc_19360.txt"
+    ]
+}

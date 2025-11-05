@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate time period when corn was introduced to the present-day U.S.?",
+    "response": [
+        "doc_4289.txt",
+        "doc_21212.txt",
+        "doc_20875.txt",
+        "doc_21213.txt",
+        "doc_8221.txt"
+    ]
+}

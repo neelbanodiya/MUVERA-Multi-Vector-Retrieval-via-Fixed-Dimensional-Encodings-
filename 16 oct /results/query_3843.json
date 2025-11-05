@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, how much EU funding was provided for the JUMPAHEAD coordinating action?",
+    "response": [
+        "doc_14347.txt",
+        "doc_1897.txt",
+        "doc_14479.txt",
+        "doc_17472.txt",
+        "doc_17557.txt"
+    ]
+}

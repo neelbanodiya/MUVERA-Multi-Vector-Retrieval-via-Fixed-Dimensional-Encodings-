@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Steve Wynn begin building The Mirage?",
+    "response": [
+        "doc_16831.txt",
+        "doc_16828.txt",
+        "doc_16827.txt",
+        "doc_16832.txt",
+        "doc_16836.txt"
+    ]
+}

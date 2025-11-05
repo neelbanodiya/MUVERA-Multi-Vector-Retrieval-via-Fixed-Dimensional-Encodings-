@@ -1,0 +1,10 @@
+{
+    "query": "What does Pope Francis advise Catholics to do, as described in the article titled \u201cFrancis calls on Catholics to share everything, be \u2018islands of mercy \u2026\u201d?",
+    "response": [
+        "doc_20458.txt",
+        "doc_13528.txt",
+        "doc_6321.txt",
+        "doc_13525.txt",
+        "doc_16250.txt"
+    ]
+}

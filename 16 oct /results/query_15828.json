@@ -1,0 +1,10 @@
+{
+    "query": "What physical characteristic is present in fish of the *Genicanthus* genus that allows them to feed on plankton?",
+    "response": [
+        "doc_9164.txt",
+        "doc_3460.txt",
+        "doc_21786.txt",
+        "doc_7270.txt",
+        "doc_5093.txt"
+    ]
+}

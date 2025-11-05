@@ -1,0 +1,10 @@
+{
+    "query": "In what musical did Rosalind Harris portray Tzeitel?",
+    "response": [
+        "doc_5157.txt",
+        "doc_15084.txt",
+        "doc_7753.txt",
+        "doc_167.txt",
+        "doc_9887.txt"
+    ]
+}

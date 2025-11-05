@@ -1,0 +1,10 @@
+{
+    "query": "What song did the individual hear that influenced their move to China?",
+    "response": [
+        "doc_8302.txt",
+        "doc_20274.txt",
+        "doc_9856.txt",
+        "doc_4799.txt",
+        "doc_9843.txt"
+    ]
+}

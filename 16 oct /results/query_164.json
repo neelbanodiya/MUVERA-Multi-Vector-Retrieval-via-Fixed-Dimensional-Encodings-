@@ -1,0 +1,10 @@
+{
+    "query": "What important institutions are located in Dresden?",
+    "response": [
+        "doc_79.txt",
+        "doc_19221.txt",
+        "doc_18578.txt",
+        "doc_14426.txt",
+        "doc_5315.txt"
+    ]
+}

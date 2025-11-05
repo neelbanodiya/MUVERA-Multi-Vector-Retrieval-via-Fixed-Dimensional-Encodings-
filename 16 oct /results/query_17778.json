@@ -1,0 +1,10 @@
+{
+    "query": "What organization is located at Hotchkiss Field, Gallaudet University?",
+    "response": [
+        "doc_10309.txt",
+        "doc_10311.txt",
+        "doc_10312.txt",
+        "doc_3380.txt",
+        "doc_8502.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which organizations are required to report incidents of racism and xenophobia to the EUMC?",
+    "response": [
+        "doc_21025.txt",
+        "doc_21024.txt",
+        "doc_21011.txt",
+        "doc_21012.txt",
+        "doc_21006.txt"
+    ]
+}

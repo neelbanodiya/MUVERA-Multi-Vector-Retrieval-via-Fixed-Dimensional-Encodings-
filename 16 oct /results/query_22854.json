@@ -1,0 +1,10 @@
+{
+    "query": "What is the European Council urging regarding the tax coordination package?",
+    "response": [
+        "doc_13163.txt",
+        "doc_15132.txt",
+        "doc_10800.txt",
+        "doc_18907.txt",
+        "doc_20762.txt"
+    ]
+}

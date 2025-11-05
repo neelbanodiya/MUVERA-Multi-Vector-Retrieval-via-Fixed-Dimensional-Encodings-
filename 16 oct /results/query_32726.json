@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Sergey Lazarev represent Russia in the Eurovision Song Contest, and what was the title of the song he performed?",
+    "response": [
+        "doc_19067.txt",
+        "doc_22804.txt",
+        "doc_1011.txt",
+        "doc_20429.txt",
+        "doc_9888.txt"
+    ]
+}

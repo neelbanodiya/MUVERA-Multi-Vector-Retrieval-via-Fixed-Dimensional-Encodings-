@@ -1,0 +1,10 @@
+{
+    "query": "What items did the character in the passage have with her when she was on the Titanic?",
+    "response": [
+        "doc_21098.txt",
+        "doc_8487.txt",
+        "doc_21105.txt",
+        "doc_21103.txt",
+        "doc_8480.txt"
+    ]
+}

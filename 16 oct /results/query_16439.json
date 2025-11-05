@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is a key concept related to power in Medea\u2019s story?",
+    "response": [
+        "doc_1301.txt",
+        "doc_9447.txt",
+        "doc_20305.txt",
+        "doc_5101.txt",
+        "doc_6945.txt"
+    ]
+}

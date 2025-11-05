@@ -1,0 +1,10 @@
+{
+    "query": "Where did Gerhard Schwedes attend college and what notable game did his college team win?",
+    "response": [
+        "doc_20937.txt",
+        "doc_24232.txt",
+        "doc_17304.txt",
+        "doc_24247.txt",
+        "doc_74.txt"
+    ]
+}

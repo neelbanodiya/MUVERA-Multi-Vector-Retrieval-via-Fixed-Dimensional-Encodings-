@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what security measures were being discussed involving Egypt, Algeria, and Tunisia regarding Libya?",
+    "response": [
+        "doc_22695.txt",
+        "doc_22694.txt",
+        "doc_22689.txt",
+        "doc_22688.txt",
+        "doc_22696.txt"
+    ]
+}

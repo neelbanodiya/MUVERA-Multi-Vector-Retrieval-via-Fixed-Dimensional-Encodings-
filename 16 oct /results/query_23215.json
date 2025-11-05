@@ -1,0 +1,10 @@
+{
+    "query": "What is the phone number associated with the Nashville travel guide?",
+    "response": [
+        "doc_6577.txt",
+        "doc_15582.txt",
+        "doc_5960.txt",
+        "doc_15414.txt",
+        "doc_5959.txt"
+    ]
+}

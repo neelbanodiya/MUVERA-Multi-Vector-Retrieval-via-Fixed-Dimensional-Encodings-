@@ -1,0 +1,10 @@
+{
+    "query": "What is Karl von Kraft studying at the University of Heidelberg?",
+    "response": [
+        "doc_18385.txt",
+        "doc_3978.txt",
+        "doc_18386.txt",
+        "doc_350.txt",
+        "doc_14822.txt"
+    ]
+}

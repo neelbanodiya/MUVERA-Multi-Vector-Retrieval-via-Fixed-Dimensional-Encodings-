@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the saloon that Miss Kitty owned?",
+    "response": [
+        "doc_570.txt",
+        "doc_16047.txt",
+        "doc_21998.txt",
+        "doc_16050.txt",
+        "doc_16834.txt"
+    ]
+}

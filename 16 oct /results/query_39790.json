@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the role that earned John Wayne his Oscar?",
+    "response": [
+        "doc_23290.txt",
+        "doc_23281.txt",
+        "doc_23292.txt",
+        "doc_23277.txt",
+        "doc_23280.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Treaty article is referenced in Recital 9 to guide the process of informing the European Parliament and relevant committees about individual cases?",
+    "response": [
+        "doc_20763.txt",
+        "doc_13384.txt",
+        "doc_7294.txt",
+        "doc_13346.txt",
+        "doc_21003.txt"
+    ]
+}

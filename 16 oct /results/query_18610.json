@@ -1,0 +1,10 @@
+{
+    "query": "According to MAC Cosmetics, what color is \u201cRussian Red\u201d?",
+    "response": [
+        "doc_10804.txt",
+        "doc_10809.txt",
+        "doc_10807.txt",
+        "doc_10810.txt",
+        "doc_10813.txt"
+    ]
+}

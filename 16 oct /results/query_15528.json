@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, where did the alleged Tate murders take place?",
+    "response": [
+        "doc_13569.txt",
+        "doc_23026.txt",
+        "doc_8113.txt",
+        "doc_3127.txt",
+        "doc_18923.txt"
+    ]
+}

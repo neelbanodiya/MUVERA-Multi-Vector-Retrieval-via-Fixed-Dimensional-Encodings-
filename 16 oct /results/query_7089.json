@@ -1,0 +1,10 @@
+{
+    "query": "When and where is the ACP-EU Joint Parliamentary Assembly meeting?",
+    "response": [
+        "doc_4058.txt",
+        "doc_14117.txt",
+        "doc_17675.txt",
+        "doc_17343.txt",
+        "doc_11018.txt"
+    ]
+}

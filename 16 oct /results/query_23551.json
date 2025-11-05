@@ -1,0 +1,10 @@
+{
+    "query": "What levels of education does the Lyc\u00e9e Fran\u00e7ais Paul Val\u00e9ry de Cali offer?",
+    "response": [
+        "doc_13657.txt",
+        "doc_5465.txt",
+        "doc_5464.txt",
+        "doc_11398.txt",
+        "doc_11405.txt"
+    ]
+}

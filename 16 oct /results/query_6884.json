@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was Moldova\u2019s status during the period described (e.g., part of a larger entity)?",
+    "response": [
+        "doc_3938.txt",
+        "doc_3943.txt",
+        "doc_3937.txt",
+        "doc_3939.txt",
+        "doc_3940.txt"
+    ]
+}

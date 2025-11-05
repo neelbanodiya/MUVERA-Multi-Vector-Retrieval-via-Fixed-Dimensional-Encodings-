@@ -1,0 +1,10 @@
+{
+    "query": "How many European countries contributed assistance to the EU Civil Protection Mechanism in response to the Haiti earthquake?",
+    "response": [
+        "doc_5352.txt",
+        "doc_6421.txt",
+        "doc_5571.txt",
+        "doc_12932.txt",
+        "doc_12629.txt"
+    ]
+}

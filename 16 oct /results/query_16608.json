@@ -1,0 +1,10 @@
+{
+    "query": "Which borders does the passage state are delineated by Novgorod?",
+    "response": [
+        "doc_24183.txt",
+        "doc_16787.txt",
+        "doc_10374.txt",
+        "doc_3939.txt",
+        "doc_4159.txt"
+    ]
+}

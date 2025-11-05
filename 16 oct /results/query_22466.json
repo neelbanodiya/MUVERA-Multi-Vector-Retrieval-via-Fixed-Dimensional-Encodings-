@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what did Karl announce as the answer to a question related to Rockbusters?",
+    "response": [
+        "doc_18215.txt",
+        "doc_4295.txt",
+        "doc_20131.txt",
+        "doc_14685.txt",
+        "doc_14412.txt"
+    ]
+}

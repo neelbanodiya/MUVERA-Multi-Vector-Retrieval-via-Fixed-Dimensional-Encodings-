@@ -1,0 +1,10 @@
+{
+    "query": "Who led the team that discovered the wreck of the Titanic?",
+    "response": [
+        "doc_21113.txt",
+        "doc_21095.txt",
+        "doc_21100.txt",
+        "doc_21094.txt",
+        "doc_21105.txt"
+    ]
+}

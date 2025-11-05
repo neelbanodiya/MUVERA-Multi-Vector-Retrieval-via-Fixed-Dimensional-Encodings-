@@ -1,0 +1,10 @@
+{
+    "query": "What sound did Garth Brooks and Pat Alger add to the song \u201cThe Thunder Rolls\u201d when they were finished writing it?",
+    "response": [
+        "doc_9702.txt",
+        "doc_9703.txt",
+        "doc_9704.txt",
+        "doc_9701.txt",
+        "doc_9731.txt"
+    ]
+}

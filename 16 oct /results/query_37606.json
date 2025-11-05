@@ -1,0 +1,10 @@
+{
+    "query": "At which church did Johann Sebastian Bach hear Dietrich Buxtehude play?",
+    "response": [
+        "doc_22032.txt",
+        "doc_22033.txt",
+        "doc_14562.txt",
+        "doc_14550.txt",
+        "doc_22803.txt"
+    ]
+}

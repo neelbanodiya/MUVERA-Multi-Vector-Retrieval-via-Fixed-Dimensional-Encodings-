@@ -1,0 +1,10 @@
+{
+    "query": "What type of book is Lloyd C. Douglas\u2019s novel about the Crucifixion?",
+    "response": [
+        "doc_6921.txt",
+        "doc_6930.txt",
+        "doc_6923.txt",
+        "doc_6929.txt",
+        "doc_6936.txt"
+    ]
+}

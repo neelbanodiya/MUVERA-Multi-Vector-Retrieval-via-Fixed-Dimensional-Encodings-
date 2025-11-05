@@ -1,0 +1,10 @@
+{
+    "query": "Who made the claim about the street protests in Moldova?",
+    "response": [
+        "doc_9922.txt",
+        "doc_14517.txt",
+        "doc_3939.txt",
+        "doc_9924.txt",
+        "doc_397.txt"
+    ]
+}

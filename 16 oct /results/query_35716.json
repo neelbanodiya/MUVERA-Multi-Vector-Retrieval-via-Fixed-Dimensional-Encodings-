@@ -1,0 +1,10 @@
+{
+    "query": "What change is made to Article 11 of Regulation (EC) No 594/2008 by Amendment 227?",
+    "response": [
+        "doc_20814.txt",
+        "doc_20812.txt",
+        "doc_20813.txt",
+        "doc_20805.txt",
+        "doc_20806.txt"
+    ]
+}

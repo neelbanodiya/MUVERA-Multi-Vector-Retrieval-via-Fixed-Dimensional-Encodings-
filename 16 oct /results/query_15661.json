@@ -1,0 +1,10 @@
+{
+    "query": "What year did Richard Petty run for North Carolina Secretary of State?",
+    "response": [
+        "doc_9082.txt",
+        "doc_9084.txt",
+        "doc_9095.txt",
+        "doc_9091.txt",
+        "doc_9085.txt"
+    ]
+}

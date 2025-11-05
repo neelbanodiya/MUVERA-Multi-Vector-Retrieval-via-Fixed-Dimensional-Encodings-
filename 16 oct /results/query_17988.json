@@ -1,0 +1,10 @@
+{
+    "query": "What was the outcome of the Battle of Groton Heights in terms of the American forces?",
+    "response": [
+        "doc_10407.txt",
+        "doc_10419.txt",
+        "doc_10408.txt",
+        "doc_10412.txt",
+        "doc_10414.txt"
+    ]
+}

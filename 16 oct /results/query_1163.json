@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote \u201cWhatever its \u2026 Italian Opera, and toured frequently in Europe and America with Italian opera \u2026\u201d?",
+    "response": [
+        "doc_327.txt",
+        "doc_656.txt",
+        "doc_332.txt",
+        "doc_323.txt",
+        "doc_3971.txt"
+    ]
+}

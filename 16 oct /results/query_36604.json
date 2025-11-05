@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is a common phrase associated with Superman?",
+    "response": [
+        "doc_21361.txt",
+        "doc_12136.txt",
+        "doc_23904.txt",
+        "doc_1845.txt",
+        "doc_20311.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of terrain is found along the Upper Applegate drainage?",
+    "response": [
+        "doc_3329.txt",
+        "doc_16253.txt",
+        "doc_8837.txt",
+        "doc_4220.txt",
+        "doc_1638.txt"
+    ]
+}

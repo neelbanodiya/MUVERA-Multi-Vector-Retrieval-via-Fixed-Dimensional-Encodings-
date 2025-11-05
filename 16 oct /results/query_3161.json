@@ -1,0 +1,10 @@
+{
+    "query": "How many teachers were murdered in Colombia in 2010?",
+    "response": [
+        "doc_1919.txt",
+        "doc_15257.txt",
+        "doc_21191.txt",
+        "doc_20154.txt",
+        "doc_23673.txt"
+    ]
+}

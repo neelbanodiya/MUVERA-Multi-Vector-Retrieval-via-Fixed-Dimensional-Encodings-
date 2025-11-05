@@ -1,0 +1,10 @@
+{
+    "query": "In what city and state is Oral Roberts University located?",
+    "response": [
+        "doc_4608.txt",
+        "doc_4614.txt",
+        "doc_4607.txt",
+        "doc_4609.txt",
+        "doc_10309.txt"
+    ]
+}

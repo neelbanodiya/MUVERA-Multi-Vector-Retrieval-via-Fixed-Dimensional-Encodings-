@@ -1,0 +1,10 @@
+{
+    "query": "In what year did *Passion* open on Broadway?",
+    "response": [
+        "doc_243.txt",
+        "doc_244.txt",
+        "doc_245.txt",
+        "doc_246.txt",
+        "doc_9822.txt"
+    ]
+}

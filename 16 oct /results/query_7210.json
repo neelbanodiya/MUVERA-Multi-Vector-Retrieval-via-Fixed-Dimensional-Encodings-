@@ -1,0 +1,10 @@
+{
+    "query": "What type of education did Whitman primarily receive?",
+    "response": [
+        "doc_14424.txt",
+        "doc_3980.txt",
+        "doc_18385.txt",
+        "doc_3978.txt",
+        "doc_14822.txt"
+    ]
+}

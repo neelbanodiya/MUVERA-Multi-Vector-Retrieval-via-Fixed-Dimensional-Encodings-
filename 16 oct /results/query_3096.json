@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is San Francisco known for regarding car chases?",
+    "response": [
+        "doc_6888.txt",
+        "doc_6886.txt",
+        "doc_1887.txt",
+        "doc_1890.txt",
+        "doc_16686.txt"
+    ]
+}

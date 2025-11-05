@@ -1,0 +1,10 @@
+{
+    "query": "Besides Jeff Lynne, which other musicians from past projects appeared on the \"Dolenz, Jones, Boyce & Hart\" album?",
+    "response": [
+        "doc_12337.txt",
+        "doc_20900.txt",
+        "doc_12713.txt",
+        "doc_128.txt",
+        "doc_3128.txt"
+    ]
+}

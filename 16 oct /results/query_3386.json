@@ -1,0 +1,9 @@
+{
+    "query": "Who was the head coach of the 2009 Oklahoma State Cowboys football team?",
+    "response": [
+        "doc_2010.txt",
+        "doc_2011.txt",
+        "doc_11115.txt",
+        "doc_2012.txt"
+    ]
+}

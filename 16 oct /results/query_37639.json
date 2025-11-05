@@ -1,0 +1,10 @@
+{
+    "query": "Which river basin district was the exception to Spain\u2019s failure to fulfill obligations according to the directive?",
+    "response": [
+        "doc_22185.txt",
+        "doc_22064.txt",
+        "doc_476.txt",
+        "doc_6008.txt",
+        "doc_5494.txt"
+    ]
+}

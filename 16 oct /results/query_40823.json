@@ -1,0 +1,10 @@
+{
+    "query": "What is the historical relationship between Hindi and Urdu, and from which dialect do they both originate?",
+    "response": [
+        "doc_23855.txt",
+        "doc_23853.txt",
+        "doc_23857.txt",
+        "doc_23851.txt",
+        "doc_23858.txt"
+    ]
+}

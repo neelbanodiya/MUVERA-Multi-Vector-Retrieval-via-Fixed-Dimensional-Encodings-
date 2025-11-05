@@ -1,0 +1,10 @@
+{
+    "query": "What did Samson do with a lion?",
+    "response": [
+        "doc_8905.txt",
+        "doc_8907.txt",
+        "doc_14526.txt",
+        "doc_8909.txt",
+        "doc_8901.txt"
+    ]
+}

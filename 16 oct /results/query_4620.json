@@ -1,0 +1,10 @@
+{
+    "query": "Which Odd Future members appeared on \u201cThe Odd Future Tape\u201d?",
+    "response": [
+        "doc_2674.txt",
+        "doc_17190.txt",
+        "doc_14674.txt",
+        "doc_6348.txt",
+        "doc_19273.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which record label did Albert King sign with in 1966?",
+    "response": [
+        "doc_2792.txt",
+        "doc_4735.txt",
+        "doc_9394.txt",
+        "doc_8008.txt",
+        "doc_18603.txt"
+    ]
+}

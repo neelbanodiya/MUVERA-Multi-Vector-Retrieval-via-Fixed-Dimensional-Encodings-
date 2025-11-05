@@ -1,0 +1,10 @@
+{
+    "query": "What state is Kansas City, Missouri located in?",
+    "response": [
+        "doc_17057.txt",
+        "doc_17058.txt",
+        "doc_21162.txt",
+        "doc_24077.txt",
+        "doc_17060.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of young Japanese people reportedly do not get enough sleep?",
+    "response": [
+        "doc_1735.txt",
+        "doc_1736.txt",
+        "doc_10790.txt",
+        "doc_786.txt",
+        "doc_790.txt"
+    ]
+}

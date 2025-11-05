@@ -1,0 +1,10 @@
+{
+    "query": "How many members are included in the Greens/EFA group?",
+    "response": [
+        "doc_3516.txt",
+        "doc_17270.txt",
+        "doc_23709.txt",
+        "doc_13234.txt",
+        "doc_313.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What date did Hitler commit suicide?",
+    "response": [
+        "doc_4343.txt",
+        "doc_4344.txt",
+        "doc_4348.txt",
+        "doc_4347.txt",
+        "doc_4346.txt"
+    ]
+}

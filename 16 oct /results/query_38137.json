@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, how did the state of Iowa get its name?",
+    "response": [
+        "doc_8283.txt",
+        "doc_6909.txt",
+        "doc_1655.txt",
+        "doc_1348.txt",
+        "doc_1654.txt"
+    ]
+}

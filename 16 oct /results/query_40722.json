@@ -1,0 +1,10 @@
+{
+    "query": "Besides being a symbol of Germany, what other historical events has the Brandenburg Gate witnessed?",
+    "response": [
+        "doc_23818.txt",
+        "doc_23814.txt",
+        "doc_23824.txt",
+        "doc_23825.txt",
+        "doc_23815.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which EU policy document does the Commission highlight as particularly important for addressing the impacts of ocean acidification?",
+    "response": [
+        "doc_4315.txt",
+        "doc_17473.txt",
+        "doc_19591.txt",
+        "doc_1506.txt",
+        "doc_22991.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which committee was responsible for discussing the Estimates of revenue and expenditure of Parliament for the financial year 2010?",
+    "response": [
+        "doc_22186.txt",
+        "doc_9103.txt",
+        "doc_22192.txt",
+        "doc_9102.txt",
+        "doc_13306.txt"
+    ]
+}

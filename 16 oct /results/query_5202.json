@@ -1,0 +1,10 @@
+{
+    "query": "What town in Alabama did Harper Lee use as inspiration for the setting of *To Kill a Mockingbird*?",
+    "response": [
+        "doc_3025.txt",
+        "doc_9873.txt",
+        "doc_13104.txt",
+        "doc_1920.txt",
+        "doc_7668.txt"
+    ]
+}

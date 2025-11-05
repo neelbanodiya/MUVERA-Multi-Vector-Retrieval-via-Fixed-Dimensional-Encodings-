@@ -1,0 +1,10 @@
+{
+    "query": "When was the Ballets Russes founded?",
+    "response": [
+        "doc_3971.txt",
+        "doc_20850.txt",
+        "doc_20851.txt",
+        "doc_19809.txt",
+        "doc_13541.txt"
+    ]
+}

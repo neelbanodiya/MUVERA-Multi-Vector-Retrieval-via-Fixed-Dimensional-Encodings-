@@ -1,0 +1,10 @@
+{
+    "query": "What was Bill Cosby selling when he was selling Jell-O?",
+    "response": [
+        "doc_18836.txt",
+        "doc_18837.txt",
+        "doc_18852.txt",
+        "doc_18851.txt",
+        "doc_18839.txt"
+    ]
+}

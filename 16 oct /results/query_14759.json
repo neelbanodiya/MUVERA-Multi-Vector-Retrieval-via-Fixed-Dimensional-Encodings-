@@ -1,0 +1,10 @@
+{
+    "query": "What time was she set up in downtown Dallas?",
+    "response": [
+        "doc_8553.txt",
+        "doc_11487.txt",
+        "doc_22587.txt",
+        "doc_12616.txt",
+        "doc_2678.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who was Robert F. Kennedy appointed as after the 1960 Presidential election?",
+    "response": [
+        "doc_3807.txt",
+        "doc_22756.txt",
+        "doc_22761.txt",
+        "doc_22755.txt",
+        "doc_2477.txt"
+    ]
+}

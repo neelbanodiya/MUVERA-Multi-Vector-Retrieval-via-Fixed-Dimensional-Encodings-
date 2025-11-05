@@ -1,0 +1,10 @@
+{
+    "query": "For how many seasons did Amanda Blake portray the character Miss Kitty Russell on *Gunsmoke*?",
+    "response": [
+        "doc_22680.txt",
+        "doc_22681.txt",
+        "doc_22677.txt",
+        "doc_22683.txt",
+        "doc_22678.txt"
+    ]
+}

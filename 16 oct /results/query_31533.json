@@ -1,0 +1,10 @@
+{
+    "query": "When was Martin Luther born?",
+    "response": [
+        "doc_18409.txt",
+        "doc_3569.txt",
+        "doc_5104.txt",
+        "doc_23598.txt",
+        "doc_8993.txt"
+    ]
+}

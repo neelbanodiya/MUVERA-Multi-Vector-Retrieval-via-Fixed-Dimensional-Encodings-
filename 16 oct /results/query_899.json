@@ -1,0 +1,10 @@
+{
+    "query": "During which century did the New Hittite Empire end?",
+    "response": [
+        "doc_15051.txt",
+        "doc_510.txt",
+        "doc_22398.txt",
+        "doc_22400.txt",
+        "doc_6509.txt"
+    ]
+}

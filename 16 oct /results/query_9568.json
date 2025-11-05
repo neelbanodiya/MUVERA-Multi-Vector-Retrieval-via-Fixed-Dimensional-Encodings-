@@ -1,0 +1,10 @@
+{
+    "query": "Where did Emily Dickinson primarily conduct her socializing?",
+    "response": [
+        "doc_5505.txt",
+        "doc_5511.txt",
+        "doc_5506.txt",
+        "doc_5509.txt",
+        "doc_2317.txt"
+    ]
+}

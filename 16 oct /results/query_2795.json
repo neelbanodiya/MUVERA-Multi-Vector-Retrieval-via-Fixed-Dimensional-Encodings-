@@ -1,0 +1,10 @@
+{
+    "query": "What offer was made to the speaker related to Caltech?",
+    "response": [
+        "doc_19136.txt",
+        "doc_941.txt",
+        "doc_1321.txt",
+        "doc_5371.txt",
+        "doc_8047.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In which region of the United States is *Balsamorhiza incana* native?",
+    "response": [
+        "doc_10498.txt",
+        "doc_10499.txt",
+        "doc_23891.txt",
+        "doc_23893.txt",
+        "doc_23888.txt"
+    ]
+}

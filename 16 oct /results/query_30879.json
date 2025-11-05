@@ -1,0 +1,10 @@
+{
+    "query": "Who did Nelson ask Hardy to take care of?",
+    "response": [
+        "doc_17980.txt",
+        "doc_17979.txt",
+        "doc_17982.txt",
+        "doc_17986.txt",
+        "doc_17987.txt"
+    ]
+}

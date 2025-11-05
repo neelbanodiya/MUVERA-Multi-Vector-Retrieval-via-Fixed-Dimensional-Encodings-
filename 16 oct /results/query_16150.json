@@ -1,0 +1,10 @@
+{
+    "query": "What colors are described as being present in the Painted Desert?",
+    "response": [
+        "doc_9334.txt",
+        "doc_9325.txt",
+        "doc_9336.txt",
+        "doc_9329.txt",
+        "doc_9326.txt"
+    ]
+}

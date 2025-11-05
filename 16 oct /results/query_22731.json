@@ -1,0 +1,10 @@
+{
+    "query": "What is the location of the One City Chorus rehearsals?",
+    "response": [
+        "doc_22713.txt",
+        "doc_18335.txt",
+        "doc_28.txt",
+        "doc_3481.txt",
+        "doc_3381.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what was one of the first things Jeff Smith encouraged people to use in cooking?",
+    "response": [
+        "doc_7824.txt",
+        "doc_7818.txt",
+        "doc_4897.txt",
+        "doc_8754.txt",
+        "doc_10429.txt"
+    ]
+}

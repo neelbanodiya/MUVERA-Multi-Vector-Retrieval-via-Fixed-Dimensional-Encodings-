@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what time period is believed to be when Buddha first investigated?",
+    "response": [
+        "doc_1193.txt",
+        "doc_1203.txt",
+        "doc_1201.txt",
+        "doc_1192.txt",
+        "doc_1198.txt"
+    ]
+}

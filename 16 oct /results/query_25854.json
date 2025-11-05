@@ -1,0 +1,10 @@
+{
+    "query": "What specific discrepancies between Member States are mentioned regarding customs procedures?",
+    "response": [
+        "doc_15034.txt",
+        "doc_6877.txt",
+        "doc_1216.txt",
+        "doc_8746.txt",
+        "doc_10908.txt"
+    ]
+}

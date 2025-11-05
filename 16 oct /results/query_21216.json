@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was Al Capone\u2019s nickname?",
+    "response": [
+        "doc_12233.txt",
+        "doc_12240.txt",
+        "doc_12236.txt",
+        "doc_12245.txt",
+        "doc_12238.txt"
+    ]
+}

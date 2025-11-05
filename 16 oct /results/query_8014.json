@@ -1,0 +1,10 @@
+{
+    "query": "What was Bea Arthur\u2019s profession, according to the provided text?",
+    "response": [
+        "doc_4648.txt",
+        "doc_4644.txt",
+        "doc_3533.txt",
+        "doc_2052.txt",
+        "doc_3543.txt"
+    ]
+}

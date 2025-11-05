@@ -1,0 +1,10 @@
+{
+    "query": "What was the motto of the U.S. Army Air Defense Command?",
+    "response": [
+        "doc_18900.txt",
+        "doc_3403.txt",
+        "doc_18899.txt",
+        "doc_265.txt",
+        "doc_205.txt"
+    ]
+}

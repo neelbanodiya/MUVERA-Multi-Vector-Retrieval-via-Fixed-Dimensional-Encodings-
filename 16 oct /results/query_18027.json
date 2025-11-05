@@ -1,0 +1,10 @@
+{
+    "query": "What two directives are referenced in the passage regarding the protection of Natura 2000 sites?",
+    "response": [
+        "doc_19066.txt",
+        "doc_3706.txt",
+        "doc_9671.txt",
+        "doc_9595.txt",
+        "doc_23694.txt"
+    ]
+}

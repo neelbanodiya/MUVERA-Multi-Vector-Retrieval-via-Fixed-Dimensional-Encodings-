@@ -1,0 +1,10 @@
+{
+    "query": "Which articles of the Statute for Members of the European Parliament are specifically referenced in relation to parliamentary assistance?",
+    "response": [
+        "doc_22202.txt",
+        "doc_20106.txt",
+        "doc_21804.txt",
+        "doc_13346.txt",
+        "doc_13321.txt"
+    ]
+}

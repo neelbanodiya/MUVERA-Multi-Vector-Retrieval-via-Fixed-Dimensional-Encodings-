@@ -1,0 +1,10 @@
+{
+    "query": "What specific book is mentioned as potentially being ghostwritten by David Burtka?",
+    "response": [
+        "doc_6673.txt",
+        "doc_20131.txt",
+        "doc_14088.txt",
+        "doc_5298.txt",
+        "doc_4166.txt"
+    ]
+}

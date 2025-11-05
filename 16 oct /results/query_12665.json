@@ -1,0 +1,10 @@
+{
+    "query": "In what city and state is the Merchants National Bank Building located?",
+    "response": [
+        "doc_7371.txt",
+        "doc_17313.txt",
+        "doc_17314.txt",
+        "doc_2180.txt",
+        "doc_3381.txt"
+    ]
+}

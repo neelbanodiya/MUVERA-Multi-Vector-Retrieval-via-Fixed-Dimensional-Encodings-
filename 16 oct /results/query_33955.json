@@ -1,0 +1,10 @@
+{
+    "query": "What was desecrated and looted during the conflict involving Antiochus IV?",
+    "response": [
+        "doc_19765.txt",
+        "doc_6929.txt",
+        "doc_8507.txt",
+        "doc_9316.txt",
+        "doc_18486.txt"
+    ]
+}

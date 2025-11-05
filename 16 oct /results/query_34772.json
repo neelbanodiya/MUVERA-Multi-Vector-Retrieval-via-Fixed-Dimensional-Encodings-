@@ -1,0 +1,10 @@
+{
+    "query": "What architectural style is the Sforza Castle in Milan designed to resemble?",
+    "response": [
+        "doc_20244.txt",
+        "doc_20245.txt",
+        "doc_20252.txt",
+        "doc_8650.txt",
+        "doc_19706.txt"
+    ]
+}

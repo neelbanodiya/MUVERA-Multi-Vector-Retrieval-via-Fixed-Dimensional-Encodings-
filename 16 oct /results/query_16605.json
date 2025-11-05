@@ -1,0 +1,10 @@
+{
+    "query": "Who taught history at Mt. Allison University in Sackville, N.B.?",
+    "response": [
+        "doc_11708.txt",
+        "doc_19223.txt",
+        "doc_19370.txt",
+        "doc_6608.txt",
+        "doc_8993.txt"
+    ]
+}

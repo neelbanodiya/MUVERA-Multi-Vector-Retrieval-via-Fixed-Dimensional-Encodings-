@@ -1,0 +1,10 @@
+{
+    "query": "Who was John Drew Barrymore\u2019s father?",
+    "response": [
+        "doc_23202.txt",
+        "doc_23198.txt",
+        "doc_23196.txt",
+        "doc_23195.txt",
+        "doc_23194.txt"
+    ]
+}

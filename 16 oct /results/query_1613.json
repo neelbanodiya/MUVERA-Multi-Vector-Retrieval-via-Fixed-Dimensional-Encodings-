@@ -1,0 +1,10 @@
+{
+    "query": "What historical event is described as one of the \u201cunhappiest chapters in American history\u201d within the \u201cw9\u201d dataset?",
+    "response": [
+        "doc_23152.txt",
+        "doc_8938.txt",
+        "doc_17273.txt",
+        "doc_506.txt",
+        "doc_12531.txt"
+    ]
+}

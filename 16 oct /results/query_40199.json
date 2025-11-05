@@ -1,0 +1,10 @@
+{
+    "query": "What geographical region contains Monte Perdido National Park?",
+    "response": [
+        "doc_23533.txt",
+        "doc_23527.txt",
+        "doc_15478.txt",
+        "doc_9326.txt",
+        "doc_18154.txt"
+    ]
+}

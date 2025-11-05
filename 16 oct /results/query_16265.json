@@ -1,0 +1,10 @@
+{
+    "query": "When was the Montreal Convention agreed upon?",
+    "response": [
+        "doc_19979.txt",
+        "doc_15139.txt",
+        "doc_5841.txt",
+        "doc_20030.txt",
+        "doc_15026.txt"
+    ]
+}

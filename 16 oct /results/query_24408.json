@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is the height of One World Trade Center?",
+    "response": [
+        "doc_14167.txt",
+        "doc_14164.txt",
+        "doc_14166.txt",
+        "doc_14168.txt",
+        "doc_14165.txt"
+    ]
+}

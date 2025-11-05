@@ -1,0 +1,10 @@
+{
+    "query": "What European Parliament legislative resolution is described in the document?",
+    "response": [
+        "doc_13347.txt",
+        "doc_10800.txt",
+        "doc_17253.txt",
+        "doc_13674.txt",
+        "doc_14343.txt"
+    ]
+}

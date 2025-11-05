@@ -1,0 +1,10 @@
+{
+    "query": "Which U.S. President attended a teachers\u2019 college before entering politics?",
+    "response": [
+        "doc_21939.txt",
+        "doc_21935.txt",
+        "doc_21938.txt",
+        "doc_17285.txt",
+        "doc_21941.txt"
+    ]
+}

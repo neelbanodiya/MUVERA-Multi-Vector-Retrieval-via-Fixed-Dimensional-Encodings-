@@ -1,0 +1,10 @@
+{
+    "query": "What was Jules Taylor doing in the late 1980s?",
+    "response": [
+        "doc_1786.txt",
+        "doc_22804.txt",
+        "doc_7505.txt",
+        "doc_17638.txt",
+        "doc_1962.txt"
+    ]
+}

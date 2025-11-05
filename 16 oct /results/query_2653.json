@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked articles, what is a common meaning associated with the acronym \u201cKISS\u201d?",
+    "response": [
+        "doc_1584.txt",
+        "doc_1592.txt",
+        "doc_4395.txt",
+        "doc_10191.txt",
+        "doc_12128.txt"
+    ]
+}

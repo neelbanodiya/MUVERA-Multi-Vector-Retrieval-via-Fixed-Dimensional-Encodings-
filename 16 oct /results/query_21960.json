@@ -1,0 +1,10 @@
+{
+    "query": "The passage references a Chinese saying about feet; what does this saying imply about experience or readiness?",
+    "response": [
+        "doc_14481.txt",
+        "doc_9446.txt",
+        "doc_9445.txt",
+        "doc_23904.txt",
+        "doc_14907.txt"
+    ]
+}

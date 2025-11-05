@@ -1,0 +1,10 @@
+{
+    "query": "What was the signature part of the show *Bewitched* that Erin Murphy was involved with?",
+    "response": [
+        "doc_7070.txt",
+        "doc_7071.txt",
+        "doc_7073.txt",
+        "doc_493.txt",
+        "doc_11245.txt"
+    ]
+}

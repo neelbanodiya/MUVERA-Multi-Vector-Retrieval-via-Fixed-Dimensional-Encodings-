@@ -1,0 +1,10 @@
+{
+    "query": "What was the worldwide box office earnings of \u201cCarol\u201d?",
+    "response": [
+        "doc_14549.txt",
+        "doc_7513.txt",
+        "doc_10766.txt",
+        "doc_3059.txt",
+        "doc_10594.txt"
+    ]
+}

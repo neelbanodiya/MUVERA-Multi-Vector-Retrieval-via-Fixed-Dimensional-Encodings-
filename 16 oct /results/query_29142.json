@@ -1,0 +1,10 @@
+{
+    "query": "What country is Benito Lynch associated with in the provided texts?",
+    "response": [
+        "doc_16971.txt",
+        "doc_16976.txt",
+        "doc_16975.txt",
+        "doc_16974.txt",
+        "doc_16977.txt"
+    ]
+}

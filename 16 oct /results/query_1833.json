@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was being destroyed alongside buildings in Beijing?",
+    "response": [
+        "doc_12896.txt",
+        "doc_1044.txt",
+        "doc_1048.txt",
+        "doc_1043.txt",
+        "doc_1051.txt"
+    ]
+}

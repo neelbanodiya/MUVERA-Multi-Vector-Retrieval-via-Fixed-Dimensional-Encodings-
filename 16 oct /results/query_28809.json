@@ -1,0 +1,10 @@
+{
+    "query": "Who was nominated as the first presidential candidate for the Republican Party in 1856?",
+    "response": [
+        "doc_16808.txt",
+        "doc_16810.txt",
+        "doc_16809.txt",
+        "doc_16807.txt",
+        "doc_16806.txt"
+    ]
+}

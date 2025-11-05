@@ -1,0 +1,10 @@
+{
+    "query": "What international agreements were considered when drafting this European Parliament resolution regarding the Democratic Republic of Congo?",
+    "response": [
+        "doc_8111.txt",
+        "doc_12629.txt",
+        "doc_3003.txt",
+        "doc_10889.txt",
+        "doc_8385.txt"
+    ]
+}

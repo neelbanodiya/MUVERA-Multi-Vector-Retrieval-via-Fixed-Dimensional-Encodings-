@@ -1,0 +1,10 @@
+{
+    "query": "In what city does Loretta Castorini live?",
+    "response": [
+        "doc_5562.txt",
+        "doc_22789.txt",
+        "doc_575.txt",
+        "doc_16168.txt",
+        "doc_17880.txt"
+    ]
+}

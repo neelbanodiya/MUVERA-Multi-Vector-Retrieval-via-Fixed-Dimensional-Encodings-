@@ -1,0 +1,10 @@
+{
+    "query": "What specific countries did Denmark\u2019s Presidency prioritize for free trade agreements?",
+    "response": [
+        "doc_1211.txt",
+        "doc_2492.txt",
+        "doc_23541.txt",
+        "doc_3429.txt",
+        "doc_22580.txt"
+    ]
+}

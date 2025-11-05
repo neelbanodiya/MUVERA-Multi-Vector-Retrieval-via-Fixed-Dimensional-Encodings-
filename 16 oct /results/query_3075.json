@@ -1,0 +1,10 @@
+{
+    "query": "Who replaced Jos\u00e9 Mourinho as manager of Chelsea Football Club in 2007?",
+    "response": [
+        "doc_1882.txt",
+        "doc_1036.txt",
+        "doc_11228.txt",
+        "doc_5437.txt",
+        "doc_11226.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the trolley sound featured at Buena Vista Street?",
+    "response": [
+        "doc_17202.txt",
+        "doc_23262.txt",
+        "doc_28.txt",
+        "doc_792.txt",
+        "doc_5091.txt"
+    ]
+}

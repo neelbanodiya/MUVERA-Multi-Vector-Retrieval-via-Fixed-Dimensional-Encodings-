@@ -1,0 +1,10 @@
+{
+    "query": "In what year were Elisha and Elizabeth Derrick married?",
+    "response": [
+        "doc_10551.txt",
+        "doc_12670.txt",
+        "doc_3261.txt",
+        "doc_11243.txt",
+        "doc_10829.txt"
+    ]
+}

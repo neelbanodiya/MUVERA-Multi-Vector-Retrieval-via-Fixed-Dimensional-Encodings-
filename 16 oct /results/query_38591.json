@@ -1,0 +1,10 @@
+{
+    "query": "According to one source, what types of content were present in the 1980 *Evita* television movie?",
+    "response": [
+        "doc_22629.txt",
+        "doc_12347.txt",
+        "doc_18759.txt",
+        "doc_18844.txt",
+        "doc_6926.txt"
+    ]
+}

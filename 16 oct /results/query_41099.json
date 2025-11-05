@@ -1,0 +1,10 @@
+{
+    "query": "What agreement are the DRC signatories to?",
+    "response": [
+        "doc_24069.txt",
+        "doc_24070.txt",
+        "doc_11020.txt",
+        "doc_11019.txt",
+        "doc_8119.txt"
+    ]
+}

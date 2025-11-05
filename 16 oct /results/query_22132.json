@@ -1,0 +1,10 @@
+{
+    "query": "How many total clubs participated in the 2014 Major League Soccer season?",
+    "response": [
+        "doc_12778.txt",
+        "doc_21627.txt",
+        "doc_24227.txt",
+        "doc_2616.txt",
+        "doc_10511.txt"
+    ]
+}

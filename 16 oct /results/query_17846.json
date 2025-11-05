@@ -1,0 +1,10 @@
+{
+    "query": "What legal guidelines were the federal antitrust regulators examining when considering the Staples and Office Depot merger?",
+    "response": [
+        "doc_10341.txt",
+        "doc_10340.txt",
+        "doc_10347.txt",
+        "doc_10346.txt",
+        "doc_10344.txt"
+    ]
+}

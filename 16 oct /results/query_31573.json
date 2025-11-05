@@ -1,0 +1,10 @@
+{
+    "query": "Which national forest is located out of Ontonagon, Iron River, and Watersmeet?",
+    "response": [
+        "doc_18420.txt",
+        "doc_9327.txt",
+        "doc_18427.txt",
+        "doc_18154.txt",
+        "doc_9335.txt"
+    ]
+}

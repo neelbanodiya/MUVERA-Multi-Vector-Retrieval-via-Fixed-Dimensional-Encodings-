@@ -1,0 +1,10 @@
+{
+    "query": "The passage mentions that mankind has been developing secret codes since \u201cthe dawn of time.\u201d Who is credited with revealing instances of secret messages in ancient Greece?",
+    "response": [
+        "doc_18800.txt",
+        "doc_18795.txt",
+        "doc_8686.txt",
+        "doc_9932.txt",
+        "doc_8685.txt"
+    ]
+}

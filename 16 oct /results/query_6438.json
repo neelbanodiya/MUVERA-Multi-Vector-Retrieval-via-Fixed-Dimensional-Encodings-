@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what Stephen King novels was someone binging on?",
+    "response": [
+        "doc_3718.txt",
+        "doc_3713.txt",
+        "doc_19142.txt",
+        "doc_16728.txt",
+        "doc_19141.txt"
+    ]
+}

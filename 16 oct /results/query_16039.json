@@ -1,0 +1,10 @@
+{
+    "query": "In 2011, what was Canada\u2019s third most valuable crop?",
+    "response": [
+        "doc_9285.txt",
+        "doc_17080.txt",
+        "doc_8036.txt",
+        "doc_23989.txt",
+        "doc_10163.txt"
+    ]
+}

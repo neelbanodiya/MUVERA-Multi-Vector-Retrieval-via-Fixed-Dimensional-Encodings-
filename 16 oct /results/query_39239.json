@@ -1,0 +1,10 @@
+{
+    "query": "What was Sarah doing when the narrator saw her name tag?",
+    "response": [
+        "doc_16050.txt",
+        "doc_12949.txt",
+        "doc_10295.txt",
+        "doc_14523.txt",
+        "doc_18146.txt"
+    ]
+}

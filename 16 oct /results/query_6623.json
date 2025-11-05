@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate weight of Ben the bear?",
+    "response": [
+        "doc_21352.txt",
+        "doc_2741.txt",
+        "doc_23387.txt",
+        "doc_19032.txt",
+        "doc_20055.txt"
+    ]
+}

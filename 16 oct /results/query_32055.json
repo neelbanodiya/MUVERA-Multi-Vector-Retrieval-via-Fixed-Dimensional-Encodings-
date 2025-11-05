@@ -1,0 +1,10 @@
+{
+    "query": "In what year did William Hooker become a member of the Florida legislature?",
+    "response": [
+        "doc_19683.txt",
+        "doc_10068.txt",
+        "doc_1019.txt",
+        "doc_16812.txt",
+        "doc_2176.txt"
+    ]
+}

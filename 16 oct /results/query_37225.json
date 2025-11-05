@@ -1,0 +1,10 @@
+{
+    "query": "According to multiple sources, what substances fell upon the cities of Sodom and Gomorrah?",
+    "response": [
+        "doc_21761.txt",
+        "doc_21756.txt",
+        "doc_21762.txt",
+        "doc_21755.txt",
+        "doc_21766.txt"
+    ]
+}

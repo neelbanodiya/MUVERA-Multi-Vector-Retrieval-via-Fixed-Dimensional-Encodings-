@@ -1,0 +1,10 @@
+{
+    "query": "According to multiple sources, what role does \u201cdivine Providence\u201d play in the context of this pledge?",
+    "response": [
+        "doc_7527.txt",
+        "doc_7526.txt",
+        "doc_6328.txt",
+        "doc_23318.txt",
+        "doc_6326.txt"
+    ]
+}

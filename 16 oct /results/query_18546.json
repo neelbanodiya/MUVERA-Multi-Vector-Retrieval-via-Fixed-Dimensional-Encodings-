@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the actress discovered by Teguh Karya for his movie \u201cCinta Pertama\u201d?",
+    "response": [
+        "doc_10767.txt",
+        "doc_1810.txt",
+        "doc_2964.txt",
+        "doc_14778.txt",
+        "doc_23794.txt"
+    ]
+}

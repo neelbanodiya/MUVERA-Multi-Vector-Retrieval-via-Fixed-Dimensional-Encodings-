@@ -1,0 +1,10 @@
+{
+    "query": "What specific action did President Barroso take, and when, that the Parliament welcomes?",
+    "response": [
+        "doc_20104.txt",
+        "doc_19803.txt",
+        "doc_19804.txt",
+        "doc_20105.txt",
+        "doc_19695.txt"
+    ]
+}

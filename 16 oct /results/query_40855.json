@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate distance between Gerber Dam and the California border?",
+    "response": [
+        "doc_23872.txt",
+        "doc_16487.txt",
+        "doc_3325.txt",
+        "doc_16151.txt",
+        "doc_3324.txt"
+    ]
+}

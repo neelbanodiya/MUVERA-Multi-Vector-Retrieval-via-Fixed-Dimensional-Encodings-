@@ -1,0 +1,10 @@
+{
+    "query": "Besides goods, what other topics does the stepping-stone EPA agreement cover?",
+    "response": [
+        "doc_6179.txt",
+        "doc_22216.txt",
+        "doc_6171.txt",
+        "doc_13351.txt",
+        "doc_12478.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the cheapest passage option on passenger ships like the Titanic?",
+    "response": [
+        "doc_21106.txt",
+        "doc_21109.txt",
+        "doc_21111.txt",
+        "doc_7007.txt",
+        "doc_21105.txt"
+    ]
+}

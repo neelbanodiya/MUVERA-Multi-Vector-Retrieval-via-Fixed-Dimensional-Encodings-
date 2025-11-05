@@ -1,0 +1,10 @@
+{
+    "query": "Through which European funds does the EU provide financial assistance for childcare development?",
+    "response": [
+        "doc_15899.txt",
+        "doc_169.txt",
+        "doc_22712.txt",
+        "doc_19723.txt",
+        "doc_8884.txt"
+    ]
+}

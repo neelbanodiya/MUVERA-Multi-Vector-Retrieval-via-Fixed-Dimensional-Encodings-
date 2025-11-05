@@ -1,0 +1,10 @@
+{
+    "query": "When did the European Commission initiate infringement procedures against Hungary?",
+    "response": [
+        "doc_16315.txt",
+        "doc_2459.txt",
+        "doc_13107.txt",
+        "doc_17771.txt",
+        "doc_16441.txt"
+    ]
+}

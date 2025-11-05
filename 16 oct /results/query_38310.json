@@ -1,0 +1,10 @@
+{
+    "query": "In what year was James taken to St Andrews Castle?",
+    "response": [
+        "doc_22470.txt",
+        "doc_22465.txt",
+        "doc_22469.txt",
+        "doc_16446.txt",
+        "doc_465.txt"
+    ]
+}

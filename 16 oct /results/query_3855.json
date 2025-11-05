@@ -1,0 +1,10 @@
+{
+    "query": "What specific action does the questioner request the Commission to consider regarding the imbalance between rich and poor nations?",
+    "response": [
+        "doc_19034.txt",
+        "doc_23403.txt",
+        "doc_466.txt",
+        "doc_9472.txt",
+        "doc_2030.txt"
+    ]
+}

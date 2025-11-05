@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was Francis Ford Coppola\u2019s initial project after *Apocalypse Now*?",
+    "response": [
+        "doc_10926.txt",
+        "doc_7769.txt",
+        "doc_2231.txt",
+        "doc_623.txt",
+        "doc_19272.txt"
+    ]
+}

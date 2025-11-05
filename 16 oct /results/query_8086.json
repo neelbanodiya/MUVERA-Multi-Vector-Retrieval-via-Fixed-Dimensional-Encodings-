@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the main street in Papeete?",
+    "response": [
+        "doc_21400.txt",
+        "doc_4685.txt",
+        "doc_4680.txt",
+        "doc_4687.txt",
+        "doc_4682.txt"
+    ]
+}

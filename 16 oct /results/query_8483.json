@@ -1,0 +1,10 @@
+{
+    "query": "What Oscar did David Seidler win?",
+    "response": [
+        "doc_23277.txt",
+        "doc_12358.txt",
+        "doc_4917.txt",
+        "doc_23279.txt",
+        "doc_13633.txt"
+    ]
+}

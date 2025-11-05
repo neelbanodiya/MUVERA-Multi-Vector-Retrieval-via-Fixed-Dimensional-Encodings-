@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was the outcome of the Reichel trial?",
+    "response": [
+        "doc_9673.txt",
+        "doc_9674.txt",
+        "doc_9545.txt",
+        "doc_20105.txt",
+        "doc_20187.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year was the song \u201cTwo of a Kind, Workin\u2019 On a Full House\u201d released?",
+    "response": [
+        "doc_9697.txt",
+        "doc_9699.txt",
+        "doc_9702.txt",
+        "doc_13852.txt",
+        "doc_7241.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the planned date for Kashmiri Independence Day?",
+    "response": [
+        "doc_18986.txt",
+        "doc_18993.txt",
+        "doc_18990.txt",
+        "doc_18994.txt",
+        "doc_18985.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was the relationship between Medea and Jason?",
+    "response": [
+        "doc_9547.txt",
+        "doc_14826.txt",
+        "doc_14531.txt",
+        "doc_2177.txt",
+        "doc_19983.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What happened in the September 23, 1926 fight between Gene Tunney and Jack Dempsey?",
+    "response": [
+        "doc_7227.txt",
+        "doc_7229.txt",
+        "doc_7230.txt",
+        "doc_7220.txt",
+        "doc_7221.txt"
+    ]
+}

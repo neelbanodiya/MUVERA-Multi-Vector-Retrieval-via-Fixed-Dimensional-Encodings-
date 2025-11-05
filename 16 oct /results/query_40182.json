@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the mountain where Monte Cassino was located?",
+    "response": [
+        "doc_23532.txt",
+        "doc_3329.txt",
+        "doc_2273.txt",
+        "doc_23530.txt",
+        "doc_23524.txt"
+    ]
+}

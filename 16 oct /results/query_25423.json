@@ -1,0 +1,10 @@
+{
+    "query": "Where are some specific artworks mentioned, including one from the Metropolitan Museum of Art?",
+    "response": [
+        "doc_14728.txt",
+        "doc_20379.txt",
+        "doc_14742.txt",
+        "doc_14738.txt",
+        "doc_14733.txt"
+    ]
+}

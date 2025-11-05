@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the links, what was Victor Mature\u2019s father\u2019s favorite actor?",
+    "response": [
+        "doc_23196.txt",
+        "doc_9129.txt",
+        "doc_23194.txt",
+        "doc_14871.txt",
+        "doc_5323.txt"
+    ]
+}

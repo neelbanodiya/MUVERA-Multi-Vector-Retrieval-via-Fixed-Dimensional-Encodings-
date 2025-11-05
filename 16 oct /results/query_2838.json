@@ -1,0 +1,10 @@
+{
+    "query": "What specific research area did the Directorate-General for Research (RTD) focus on for fifteen years, as referenced in the document?",
+    "response": [
+        "doc_20126.txt",
+        "doc_22189.txt",
+        "doc_8047.txt",
+        "doc_12144.txt",
+        "doc_21441.txt"
+    ]
+}

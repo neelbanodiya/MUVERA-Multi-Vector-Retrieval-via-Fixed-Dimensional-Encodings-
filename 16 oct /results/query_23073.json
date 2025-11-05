@@ -1,0 +1,10 @@
+{
+    "query": "What types of documents can the European Parliament request access to, besides summary records?",
+    "response": [
+        "doc_13236.txt",
+        "doc_13347.txt",
+        "doc_13340.txt",
+        "doc_13316.txt",
+        "doc_13258.txt"
+    ]
+}

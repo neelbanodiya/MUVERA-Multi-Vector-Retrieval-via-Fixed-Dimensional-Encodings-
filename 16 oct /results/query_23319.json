@@ -1,0 +1,10 @@
+{
+    "query": "What geographical area did Austin map in 1840, and what type of maps were included in his survey?",
+    "response": [
+        "doc_13606.txt",
+        "doc_19365.txt",
+        "doc_6898.txt",
+        "doc_18977.txt",
+        "doc_4289.txt"
+    ]
+}

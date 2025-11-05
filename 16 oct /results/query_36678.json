@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is happening with the Sugababes?",
+    "response": [
+        "doc_21766.txt",
+        "doc_9988.txt",
+        "doc_1849.txt",
+        "doc_7743.txt",
+        "doc_11500.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many of the first seven Olympic tournaments did Canada win?",
+    "response": [
+        "doc_15506.txt",
+        "doc_15505.txt",
+        "doc_15504.txt",
+        "doc_15512.txt",
+        "doc_15508.txt"
+    ]
+}

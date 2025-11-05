@@ -1,0 +1,10 @@
+{
+    "query": "In 1972, Richard Nixon became the first U.S. president to visit China.",
+    "response": [
+        "doc_1662.txt",
+        "doc_1661.txt",
+        "doc_12519.txt",
+        "doc_2296.txt",
+        "doc_12531.txt"
+    ]
+}

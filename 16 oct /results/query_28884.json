@@ -1,0 +1,10 @@
+{
+    "query": "Besides Treasure Island, what other Las Vegas resorts have Steve Wynn previously developed?",
+    "response": [
+        "doc_16831.txt",
+        "doc_16827.txt",
+        "doc_16834.txt",
+        "doc_16830.txt",
+        "doc_16826.txt"
+    ]
+}

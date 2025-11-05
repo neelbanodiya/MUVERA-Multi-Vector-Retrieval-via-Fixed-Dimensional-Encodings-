@@ -1,0 +1,10 @@
+{
+    "query": "Approximately what percentage of California\u2019s economy is accounted for by agriculture, despite using 80% of the state\u2019s water?",
+    "response": [
+        "doc_3146.txt",
+        "doc_3160.txt",
+        "doc_18720.txt",
+        "doc_3156.txt",
+        "doc_3144.txt"
+    ]
+}

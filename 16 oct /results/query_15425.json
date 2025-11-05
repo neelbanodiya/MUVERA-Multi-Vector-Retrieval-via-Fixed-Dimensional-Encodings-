@@ -1,0 +1,10 @@
+{
+    "query": "What was the average real GDP growth rate for Greece between 2001 and 2004?",
+    "response": [
+        "doc_15378.txt",
+        "doc_8933.txt",
+        "doc_131.txt",
+        "doc_17529.txt",
+        "doc_18381.txt"
+    ]
+}

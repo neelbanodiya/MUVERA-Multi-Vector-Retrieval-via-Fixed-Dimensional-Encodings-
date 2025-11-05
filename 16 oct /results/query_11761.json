@@ -1,0 +1,10 @@
+{
+    "query": "Where was Truman Capote born?",
+    "response": [
+        "doc_3564.txt",
+        "doc_6842.txt",
+        "doc_3570.txt",
+        "doc_21108.txt",
+        "doc_3572.txt"
+    ]
+}

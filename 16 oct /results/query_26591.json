@@ -1,0 +1,10 @@
+{
+    "query": "What type of instrument is the bouzouki, and when was it introduced to Greece?",
+    "response": [
+        "doc_15378.txt",
+        "doc_15462.txt",
+        "doc_5245.txt",
+        "doc_6978.txt",
+        "doc_15464.txt"
+    ]
+}

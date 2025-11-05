@@ -1,0 +1,9 @@
+{
+    "query": "Which teams contested the 2012 World Club Challenge?",
+    "response": [
+        "doc_18657.txt",
+        "doc_18656.txt",
+        "doc_18658.txt",
+        "doc_24229.txt"
+    ]
+}

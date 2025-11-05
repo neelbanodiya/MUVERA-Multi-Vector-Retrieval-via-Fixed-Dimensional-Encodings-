@@ -1,0 +1,10 @@
+{
+    "query": "Against which teams did the U.S. win, scoring 4 goals?",
+    "response": [
+        "doc_11339.txt",
+        "doc_11343.txt",
+        "doc_11352.txt",
+        "doc_11344.txt",
+        "doc_11347.txt"
+    ]
+}

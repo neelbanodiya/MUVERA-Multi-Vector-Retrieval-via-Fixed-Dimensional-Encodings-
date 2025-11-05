@@ -1,0 +1,10 @@
+{
+    "query": "What role does Mr. Kurtz fulfill within the Belgian trading company?",
+    "response": [
+        "doc_2832.txt",
+        "doc_2030.txt",
+        "doc_7772.txt",
+        "doc_2830.txt",
+        "doc_2420.txt"
+    ]
+}

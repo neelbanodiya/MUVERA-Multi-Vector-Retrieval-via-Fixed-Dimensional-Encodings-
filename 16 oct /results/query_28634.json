@@ -1,0 +1,10 @@
+{
+    "query": "What was the Presidio of San Francisco formerly used as?",
+    "response": [
+        "doc_16681.txt",
+        "doc_16683.txt",
+        "doc_16685.txt",
+        "doc_16693.txt",
+        "doc_16686.txt"
+    ]
+}

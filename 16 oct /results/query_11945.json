@@ -1,0 +1,10 @@
+{
+    "query": "What type of activity is depicted in paintings found within Egyptian houses?",
+    "response": [
+        "doc_6962.txt",
+        "doc_18488.txt",
+        "doc_5419.txt",
+        "doc_13957.txt",
+        "doc_1299.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the Economist article, what percentage of single women in East and South-East Asian countries reported having cohabitated between 1987 and 2002?",
+    "response": [
+        "doc_6622.txt",
+        "doc_1661.txt",
+        "doc_1538.txt",
+        "doc_541.txt",
+        "doc_14801.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of government was declared in Iran in April 1979?",
+    "response": [
+        "doc_9582.txt",
+        "doc_9574.txt",
+        "doc_9577.txt",
+        "doc_9584.txt",
+        "doc_9571.txt"
+    ]
+}

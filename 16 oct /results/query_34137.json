@@ -1,0 +1,10 @@
+{
+    "query": "Where did Dian Fossey establish the Karisoke Research Center?",
+    "response": [
+        "doc_19858.txt",
+        "doc_19863.txt",
+        "doc_19868.txt",
+        "doc_19861.txt",
+        "doc_19864.txt"
+    ]
+}

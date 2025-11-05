@@ -1,0 +1,10 @@
+{
+    "query": "What is the significance of the Amazon queen Hippolyte?",
+    "response": [
+        "doc_23543.txt",
+        "doc_10867.txt",
+        "doc_10870.txt",
+        "doc_10866.txt",
+        "doc_12553.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the Veil of Veronica believed to be?",
+    "response": [
+        "doc_9302.txt",
+        "doc_9303.txt",
+        "doc_9308.txt",
+        "doc_9314.txt",
+        "doc_9311.txt"
+    ]
+}

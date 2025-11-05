@@ -1,0 +1,10 @@
+{
+    "query": "What type of content is available related to Shadrach, Meshach, and Abednego (as indicated by the last URL)?",
+    "response": [
+        "doc_10204.txt",
+        "doc_10205.txt",
+        "doc_10203.txt",
+        "doc_10445.txt",
+        "doc_4880.txt"
+    ]
+}

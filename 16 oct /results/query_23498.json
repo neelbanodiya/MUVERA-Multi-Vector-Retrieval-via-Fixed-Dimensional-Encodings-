@@ -1,0 +1,10 @@
+{
+    "query": "What is Diane Baker\u2019s hair color?",
+    "response": [
+        "doc_10639.txt",
+        "doc_10640.txt",
+        "doc_1109.txt",
+        "doc_10807.txt",
+        "doc_1081.txt"
+    ]
+}

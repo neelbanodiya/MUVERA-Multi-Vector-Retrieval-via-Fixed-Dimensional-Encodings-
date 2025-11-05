@@ -1,0 +1,10 @@
+{
+    "query": "Who mentored Jonas Salk during the development of the polio vaccine, according to one of the linked articles?",
+    "response": [
+        "doc_20551.txt",
+        "doc_23698.txt",
+        "doc_20569.txt",
+        "doc_2231.txt",
+        "doc_4482.txt"
+    ]
+}

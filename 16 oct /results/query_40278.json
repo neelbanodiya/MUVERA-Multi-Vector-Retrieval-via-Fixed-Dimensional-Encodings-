@@ -1,0 +1,10 @@
+{
+    "query": "What year was the film \"Bette Davis stars as stage actress in love with a beautiful young woman\" released?",
+    "response": [
+        "doc_23558.txt",
+        "doc_23563.txt",
+        "doc_14780.txt",
+        "doc_22840.txt",
+        "doc_23866.txt"
+    ]
+}

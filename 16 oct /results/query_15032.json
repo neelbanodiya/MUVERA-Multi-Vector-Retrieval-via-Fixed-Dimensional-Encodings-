@@ -1,0 +1,10 @@
+{
+    "query": "Besides *Wild Man Blues*, which other European directors did Woody Allen admire?",
+    "response": [
+        "doc_8710.txt",
+        "doc_8713.txt",
+        "doc_8711.txt",
+        "doc_8714.txt",
+        "doc_8709.txt"
+    ]
+}

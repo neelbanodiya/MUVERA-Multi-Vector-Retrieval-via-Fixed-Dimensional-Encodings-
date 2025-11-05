@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked articles, what is a notable characteristic of people in Kotla, Delhi?",
+    "response": [
+        "doc_2526.txt",
+        "doc_15846.txt",
+        "doc_7648.txt",
+        "doc_4544.txt",
+        "doc_4545.txt"
+    ]
+}

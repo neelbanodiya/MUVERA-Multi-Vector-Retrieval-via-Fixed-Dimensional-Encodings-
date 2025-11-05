@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary subject of the documentary film \u201cBeyond the Call\u201d?",
+    "response": [
+        "doc_400.txt",
+        "doc_17247.txt",
+        "doc_9893.txt",
+        "doc_2231.txt",
+        "doc_23672.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which cartoon series featuring Franklin has returned to Nickelodeon in a new CGI format?",
+    "response": [
+        "doc_20439.txt",
+        "doc_20436.txt",
+        "doc_20440.txt",
+        "doc_20437.txt",
+        "doc_20438.txt"
+    ]
+}

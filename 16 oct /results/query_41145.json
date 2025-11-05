@@ -1,0 +1,10 @@
+{
+    "query": "How many music videos does Whitney Houston have in her videography?",
+    "response": [
+        "doc_24093.txt",
+        "doc_24094.txt",
+        "doc_12043.txt",
+        "doc_12046.txt",
+        "doc_24091.txt"
+    ]
+}

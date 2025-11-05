@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what coastline does Iran have?",
+    "response": [
+        "doc_22937.txt",
+        "doc_22940.txt",
+        "doc_22945.txt",
+        "doc_22949.txt",
+        "doc_3267.txt"
+    ]
+}

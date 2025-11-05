@@ -1,0 +1,10 @@
+{
+    "query": "What was the total amount available for allocation in 2006, in EUR?",
+    "response": [
+        "doc_17540.txt",
+        "doc_17541.txt",
+        "doc_17539.txt",
+        "doc_3251.txt",
+        "doc_17615.txt"
+    ]
+}

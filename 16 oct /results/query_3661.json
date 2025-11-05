@@ -1,0 +1,10 @@
+{
+    "query": "What decision did the Spanish Government take regarding the Cubamed project?",
+    "response": [
+        "doc_5494.txt",
+        "doc_2145.txt",
+        "doc_2146.txt",
+        "doc_21498.txt",
+        "doc_12223.txt"
+    ]
+}

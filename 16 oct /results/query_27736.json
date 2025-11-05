@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what book did Ray Bradbury write?",
+    "response": [
+        "doc_9247.txt",
+        "doc_3712.txt",
+        "doc_20131.txt",
+        "doc_9401.txt",
+        "doc_16131.txt"
+    ]
+}

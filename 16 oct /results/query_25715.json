@@ -1,0 +1,10 @@
+{
+    "query": "Where was Mugabe\u2019s last posting located?",
+    "response": [
+        "doc_1898.txt",
+        "doc_5115.txt",
+        "doc_16168.txt",
+        "doc_9015.txt",
+        "doc_7059.txt"
+    ]
+}

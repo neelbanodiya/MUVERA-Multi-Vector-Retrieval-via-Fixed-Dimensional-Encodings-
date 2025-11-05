@@ -1,0 +1,10 @@
+{
+    "query": "What was the initial sentence imposed on Andrzej Poczobut?",
+    "response": [
+        "doc_23576.txt",
+        "doc_4159.txt",
+        "doc_8051.txt",
+        "doc_34.txt",
+        "doc_6490.txt"
+    ]
+}

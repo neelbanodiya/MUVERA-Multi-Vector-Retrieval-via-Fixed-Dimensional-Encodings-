@@ -1,0 +1,10 @@
+{
+    "query": "Has the Commission engaged in discussions with the US Administration concerning travel arrangements for family members of Cuban detainees?",
+    "response": [
+        "doc_1762.txt",
+        "doc_20570.txt",
+        "doc_17442.txt",
+        "doc_10337.txt",
+        "doc_13134.txt"
+    ]
+}

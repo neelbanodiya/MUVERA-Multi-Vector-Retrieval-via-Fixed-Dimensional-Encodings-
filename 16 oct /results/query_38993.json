@@ -1,0 +1,10 @@
+{
+    "query": "What architectural style is Trinity\u2019s Church in New Haven?",
+    "response": [
+        "doc_16630.txt",
+        "doc_22826.txt",
+        "doc_22812.txt",
+        "doc_22829.txt",
+        "doc_22827.txt"
+    ]
+}

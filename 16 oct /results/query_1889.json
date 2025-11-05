@@ -1,0 +1,10 @@
+{
+    "query": "What was Janis Joplin\u2019s date of birth?",
+    "response": [
+        "doc_1128.txt",
+        "doc_4646.txt",
+        "doc_6380.txt",
+        "doc_8365.txt",
+        "doc_6296.txt"
+    ]
+}

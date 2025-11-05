@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the whale that swallows Geppetto, Figaro, and Cleo?",
+    "response": [
+        "doc_5095.txt",
+        "doc_21129.txt",
+        "doc_2336.txt",
+        "doc_5091.txt",
+        "doc_5092.txt"
+    ]
+}

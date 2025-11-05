@@ -1,0 +1,10 @@
+{
+    "query": "What kind of research is conducted at the Massachusetts Institute of Technology\u2019s Science and Artificial Intelligence Laboratory (CSAIL)?",
+    "response": [
+        "doc_4805.txt",
+        "doc_4806.txt",
+        "doc_4803.txt",
+        "doc_4804.txt",
+        "doc_4808.txt"
+    ]
+}

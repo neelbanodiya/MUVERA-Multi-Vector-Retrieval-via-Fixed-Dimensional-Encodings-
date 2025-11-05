@@ -1,0 +1,10 @@
+{
+    "query": "What is Mrs. Bacon\u2019s self-referential title?",
+    "response": [
+        "doc_1182.txt",
+        "doc_1185.txt",
+        "doc_12945.txt",
+        "doc_12950.txt",
+        "doc_12949.txt"
+    ]
+}

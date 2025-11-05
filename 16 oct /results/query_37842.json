@@ -1,0 +1,10 @@
+{
+    "query": "Which hotel is located near Stephansplatz in Vienna?",
+    "response": [
+        "doc_22183.txt",
+        "doc_22182.txt",
+        "doc_22184.txt",
+        "doc_22181.txt",
+        "doc_8639.txt"
+    ]
+}

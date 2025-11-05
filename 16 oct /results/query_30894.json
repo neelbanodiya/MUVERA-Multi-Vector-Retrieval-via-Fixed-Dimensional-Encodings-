@@ -1,0 +1,10 @@
+{
+    "query": "When was the Director General\u2019s letter informing the Greek Permanent Representation sent?",
+    "response": [
+        "doc_6425.txt",
+        "doc_6027.txt",
+        "doc_3828.txt",
+        "doc_15070.txt",
+        "doc_17964.txt"
+    ]
+}

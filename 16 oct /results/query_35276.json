@@ -1,0 +1,10 @@
+{
+    "query": "Which studio produced \u201cThe Shaggy D.A.\u201d?",
+    "response": [
+        "doc_1231.txt",
+        "doc_11678.txt",
+        "doc_19583.txt",
+        "doc_14363.txt",
+        "doc_20569.txt"
+    ]
+}

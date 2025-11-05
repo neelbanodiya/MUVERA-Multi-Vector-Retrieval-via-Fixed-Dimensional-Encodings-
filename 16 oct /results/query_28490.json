@@ -1,0 +1,10 @@
+{
+    "query": "What was the context surrounding Paul Wellstone\u2019s entry into Minnesota\u2019s Senate race in 2002?",
+    "response": [
+        "doc_16616.txt",
+        "doc_16623.txt",
+        "doc_16622.txt",
+        "doc_16611.txt",
+        "doc_16624.txt"
+    ]
+}

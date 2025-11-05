@@ -1,0 +1,10 @@
+{
+    "query": "What was the British government\u2019s policy regarding the production and sale of salt in India?",
+    "response": [
+        "doc_1404.txt",
+        "doc_1402.txt",
+        "doc_2030.txt",
+        "doc_21685.txt",
+        "doc_11117.txt"
+    ]
+}

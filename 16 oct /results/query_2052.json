@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cWar of the Colossal Beast\u201d released?",
+    "response": [
+        "doc_1231.txt",
+        "doc_1229.txt",
+        "doc_1560.txt",
+        "doc_2925.txt",
+        "doc_4434.txt"
+    ]
+}

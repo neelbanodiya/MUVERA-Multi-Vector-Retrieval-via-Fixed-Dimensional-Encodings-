@@ -1,0 +1,10 @@
+{
+    "query": "In 2013, what was the primary economic challenge facing Yemen?",
+    "response": [
+        "doc_1853.txt",
+        "doc_23843.txt",
+        "doc_23090.txt",
+        "doc_9923.txt",
+        "doc_10385.txt"
+    ]
+}

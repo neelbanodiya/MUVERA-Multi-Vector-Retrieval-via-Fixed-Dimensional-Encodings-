@@ -1,0 +1,9 @@
+{
+    "query": "Which hotel is located at Wildpretmarkt 5 in Vienna?",
+    "response": [
+        "doc_22180.txt",
+        "doc_22182.txt",
+        "doc_22183.txt",
+        "doc_22179.txt"
+    ]
+}

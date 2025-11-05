@@ -1,0 +1,10 @@
+{
+    "query": "What is one location where Hieronymus Bosch\u2019s work can be found, besides the Prado Museum?",
+    "response": [
+        "doc_4560.txt",
+        "doc_4553.txt",
+        "doc_4562.txt",
+        "doc_4556.txt",
+        "doc_4552.txt"
+    ]
+}

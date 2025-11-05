@@ -1,0 +1,10 @@
+{
+    "query": "How many music videos has Nina appeared in?",
+    "response": [
+        "doc_24095.txt",
+        "doc_17110.txt",
+        "doc_24094.txt",
+        "doc_20315.txt",
+        "doc_12043.txt"
+    ]
+}

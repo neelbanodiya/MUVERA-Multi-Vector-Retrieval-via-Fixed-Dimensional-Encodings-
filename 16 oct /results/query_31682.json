@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is a notable element of a scene from *Goodfellas* involving Joe Pesci\u2019s character?",
+    "response": [
+        "doc_14830.txt",
+        "doc_2526.txt",
+        "doc_20134.txt",
+        "doc_14236.txt",
+        "doc_18215.txt"
+    ]
+}

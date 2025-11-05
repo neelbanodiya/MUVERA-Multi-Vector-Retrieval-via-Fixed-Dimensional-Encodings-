@@ -1,0 +1,10 @@
+{
+    "query": "What is the estimated financial cost associated with EU road safety efforts, and what percentage of EU GDP does it represent?",
+    "response": [
+        "doc_21790.txt",
+        "doc_21789.txt",
+        "doc_21791.txt",
+        "doc_15493.txt",
+        "doc_20347.txt"
+    ]
+}

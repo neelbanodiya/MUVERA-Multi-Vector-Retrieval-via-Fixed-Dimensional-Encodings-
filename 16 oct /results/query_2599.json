@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the movie released in both Taiwan and Hong Kong?",
+    "response": [
+        "doc_1562.txt",
+        "doc_1561.txt",
+        "doc_1560.txt",
+        "doc_8184.txt",
+        "doc_22835.txt"
+    ]
+}

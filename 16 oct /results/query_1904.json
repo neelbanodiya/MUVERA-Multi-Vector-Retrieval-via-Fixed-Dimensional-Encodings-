@@ -1,0 +1,10 @@
+{
+    "query": "Where has Lindsay established herself?",
+    "response": [
+        "doc_1232.txt",
+        "doc_23796.txt",
+        "doc_9249.txt",
+        "doc_16168.txt",
+        "doc_11021.txt"
+    ]
+}

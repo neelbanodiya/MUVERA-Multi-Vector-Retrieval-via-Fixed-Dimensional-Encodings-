@@ -1,0 +1,10 @@
+{
+    "query": "What was the Qianlong Emperor building in 1755?",
+    "response": [
+        "doc_22152.txt",
+        "doc_1046.txt",
+        "doc_16758.txt",
+        "doc_12342.txt",
+        "doc_3994.txt"
+    ]
+}

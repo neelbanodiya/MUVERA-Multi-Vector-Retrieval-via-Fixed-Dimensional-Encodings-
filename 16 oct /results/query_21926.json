@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Thomas Boteler become the sole heir to the Baron Sudeley title?",
+    "response": [
+        "doc_431.txt",
+        "doc_16127.txt",
+        "doc_16128.txt",
+        "doc_12642.txt",
+        "doc_12641.txt"
+    ]
+}

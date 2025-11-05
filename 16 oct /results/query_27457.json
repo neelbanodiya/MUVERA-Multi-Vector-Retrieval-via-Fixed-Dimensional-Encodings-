@@ -1,0 +1,10 @@
+{
+    "query": "What geographical feature does Bangladesh share a coastline with, and how long is that coastline?",
+    "response": [
+        "doc_3268.txt",
+        "doc_3280.txt",
+        "doc_3271.txt",
+        "doc_8431.txt",
+        "doc_3274.txt"
+    ]
+}

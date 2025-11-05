@@ -1,0 +1,10 @@
+{
+    "query": "Is Steven Spielberg currently considering a remake of *West Side Story*?",
+    "response": [
+        "doc_8897.txt",
+        "doc_8898.txt",
+        "doc_8895.txt",
+        "doc_8899.txt",
+        "doc_8896.txt"
+    ]
+}

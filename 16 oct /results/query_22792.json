@@ -1,0 +1,10 @@
+{
+    "query": "What color barrier is saluted in the new two-part bio-doc \u201cJackie Robinson\u201d?",
+    "response": [
+        "doc_18463.txt",
+        "doc_17763.txt",
+        "doc_17754.txt",
+        "doc_22737.txt",
+        "doc_18444.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where was the Titanic Quarter planned to be built?",
+    "response": [
+        "doc_8512.txt",
+        "doc_397.txt",
+        "doc_17370.txt",
+        "doc_6668.txt",
+        "doc_16787.txt"
+    ]
+}

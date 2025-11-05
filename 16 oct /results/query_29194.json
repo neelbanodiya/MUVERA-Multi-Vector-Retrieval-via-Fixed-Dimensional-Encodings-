@@ -1,0 +1,10 @@
+{
+    "query": "When did the article \"Keep an Eye on the Sky\" by Big Star publish?",
+    "response": [
+        "doc_16995.txt",
+        "doc_1288.txt",
+        "doc_23571.txt",
+        "doc_18583.txt",
+        "doc_19458.txt"
+    ]
+}

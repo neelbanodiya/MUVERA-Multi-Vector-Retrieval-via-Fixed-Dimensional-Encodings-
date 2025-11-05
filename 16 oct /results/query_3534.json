@@ -1,0 +1,10 @@
+{
+    "query": "What event is referred to as the \u201cRed Scare\u201d in the provided texts?",
+    "response": [
+        "doc_20311.txt",
+        "doc_9667.txt",
+        "doc_20628.txt",
+        "doc_102.txt",
+        "doc_8400.txt"
+    ]
+}

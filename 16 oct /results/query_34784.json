@@ -1,0 +1,10 @@
+{
+    "query": "What century did a portrait of Queen Elizabeth I appear?",
+    "response": [
+        "doc_24099.txt",
+        "doc_24100.txt",
+        "doc_24102.txt",
+        "doc_20407.txt",
+        "doc_20415.txt"
+    ]
+}

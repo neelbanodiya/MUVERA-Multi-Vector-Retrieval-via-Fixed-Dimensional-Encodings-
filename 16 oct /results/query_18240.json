@@ -1,0 +1,10 @@
+{
+    "query": "Which character does Junko Takeuchi voice in \u201cNaruto\u201d?",
+    "response": [
+        "doc_11179.txt",
+        "doc_10567.txt",
+        "doc_20140.txt",
+        "doc_8183.txt",
+        "doc_595.txt"
+    ]
+}

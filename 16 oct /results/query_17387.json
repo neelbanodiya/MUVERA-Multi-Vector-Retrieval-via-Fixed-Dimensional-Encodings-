@@ -1,0 +1,10 @@
+{
+    "query": "Which actors starred in \u201cFriend Request Pending\u201d?",
+    "response": [
+        "doc_10061.txt",
+        "doc_6005.txt",
+        "doc_19283.txt",
+        "doc_4462.txt",
+        "doc_18755.txt"
+    ]
+}

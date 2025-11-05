@@ -1,0 +1,10 @@
+{
+    "query": "What international court issued a judgment in 1962 regarding the temple of Preah Vihear?",
+    "response": [
+        "doc_4061.txt",
+        "doc_22579.txt",
+        "doc_4063.txt",
+        "doc_4062.txt",
+        "doc_19044.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What titles are associated with the knights mentioned (e.g., Lancelot, Gawain)?",
+    "response": [
+        "doc_1833.txt",
+        "doc_1848.txt",
+        "doc_1847.txt",
+        "doc_1842.txt",
+        "doc_1846.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who organized Live Aid to raise funds for famine relief in Africa?",
+    "response": [
+        "doc_12016.txt",
+        "doc_12023.txt",
+        "doc_12008.txt",
+        "doc_12012.txt",
+        "doc_12009.txt"
+    ]
+}

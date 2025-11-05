@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what ship does Jim Hawkins sail on in search of treasure?",
+    "response": [
+        "doc_20008.txt",
+        "doc_20018.txt",
+        "doc_20021.txt",
+        "doc_20014.txt",
+        "doc_20016.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What action did Parliament call for regarding the treatment of Roma, specifically mentioning countries?",
+    "response": [
+        "doc_3090.txt",
+        "doc_3091.txt",
+        "doc_12932.txt",
+        "doc_23403.txt",
+        "doc_3587.txt"
+    ]
+}

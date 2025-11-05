@@ -1,0 +1,10 @@
+{
+    "query": "What years did Luke Perry appear on the television series *Beverly Hills, 90210*?",
+    "response": [
+        "doc_15007.txt",
+        "doc_5202.txt",
+        "doc_3720.txt",
+        "doc_10553.txt",
+        "doc_5297.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What famous line from the James Bond film \u201cGoldfinger\u201d is mentioned in the Rotten Tomatoes review?",
+    "response": [
+        "doc_9793.txt",
+        "doc_9794.txt",
+        "doc_9792.txt",
+        "doc_9790.txt",
+        "doc_18757.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the duration of Marine Corps boot camp, as described in one of the linked articles?",
+    "response": [
+        "doc_13427.txt",
+        "doc_207.txt",
+        "doc_13429.txt",
+        "doc_13430.txt",
+        "doc_919.txt"
+    ]
+}

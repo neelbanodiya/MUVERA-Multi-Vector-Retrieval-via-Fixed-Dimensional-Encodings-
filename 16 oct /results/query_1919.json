@@ -1,0 +1,10 @@
+{
+    "query": "What workshop is being held in Brussels on May 11, 2010, focusing on the impact of EU standards?",
+    "response": [
+        "doc_4749.txt",
+        "doc_1211.txt",
+        "doc_4750.txt",
+        "doc_12145.txt",
+        "doc_2485.txt"
+    ]
+}

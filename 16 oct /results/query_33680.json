@@ -1,0 +1,10 @@
+{
+    "query": "What college did Tiger Woods attend before turning professional in 1996?",
+    "response": [
+        "doc_19634.txt",
+        "doc_19624.txt",
+        "doc_19625.txt",
+        "doc_19623.txt",
+        "doc_19631.txt"
+    ]
+}

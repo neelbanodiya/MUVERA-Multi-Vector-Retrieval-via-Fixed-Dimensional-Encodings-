@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, how did the Israelites traditionally seek guidance from God?",
+    "response": [
+        "doc_7914.txt",
+        "doc_1251.txt",
+        "doc_7918.txt",
+        "doc_1817.txt",
+        "doc_7913.txt"
+    ]
+}

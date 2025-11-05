@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate distance between the Hotel Aviano Pension and the Best Western Premier Schlosshotel Romischer Kaiser?",
+    "response": [
+        "doc_22181.txt",
+        "doc_22182.txt",
+        "doc_22183.txt",
+        "doc_22179.txt",
+        "doc_22180.txt"
+    ]
+}

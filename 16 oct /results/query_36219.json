@@ -1,0 +1,10 @@
+{
+    "query": "When did the Titanic strike an iceberg?",
+    "response": [
+        "doc_21106.txt",
+        "doc_18157.txt",
+        "doc_21098.txt",
+        "doc_15504.txt",
+        "doc_5191.txt"
+    ]
+}

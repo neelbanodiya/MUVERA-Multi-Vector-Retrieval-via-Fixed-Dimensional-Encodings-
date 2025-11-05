@@ -1,0 +1,10 @@
+{
+    "query": "Which players did the Kings acquire to win the Stanley Cup?",
+    "response": [
+        "doc_15535.txt",
+        "doc_15536.txt",
+        "doc_1997.txt",
+        "doc_15541.txt",
+        "doc_15538.txt"
+    ]
+}

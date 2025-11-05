@@ -1,0 +1,10 @@
+{
+    "query": "What is the largest city in Brazil?",
+    "response": [
+        "doc_23425.txt",
+        "doc_21464.txt",
+        "doc_23424.txt",
+        "doc_16284.txt",
+        "doc_23421.txt"
+    ]
+}

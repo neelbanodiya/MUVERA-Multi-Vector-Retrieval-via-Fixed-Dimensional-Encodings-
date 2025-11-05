@@ -1,0 +1,10 @@
+{
+    "query": "What specific countries is the EU urged to cooperate with regarding energy policy?",
+    "response": [
+        "doc_24177.txt",
+        "doc_24183.txt",
+        "doc_24182.txt",
+        "doc_24180.txt",
+        "doc_14332.txt"
+    ]
+}

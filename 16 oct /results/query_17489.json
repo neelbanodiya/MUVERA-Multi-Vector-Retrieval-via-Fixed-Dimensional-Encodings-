@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the articles, what cities were visited during a FRANCE 24 tour through the Maghreb region?",
+    "response": [
+        "doc_10128.txt",
+        "doc_10127.txt",
+        "doc_10129.txt",
+        "doc_3668.txt",
+        "doc_10133.txt"
+    ]
+}

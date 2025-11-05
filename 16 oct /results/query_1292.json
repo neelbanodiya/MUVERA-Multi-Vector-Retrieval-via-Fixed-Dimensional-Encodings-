@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the film *Return to Peyton Place* released?",
+    "response": [
+        "doc_1230.txt",
+        "doc_582.txt",
+        "doc_8393.txt",
+        "doc_23795.txt",
+        "doc_8391.txt"
+    ]
+}

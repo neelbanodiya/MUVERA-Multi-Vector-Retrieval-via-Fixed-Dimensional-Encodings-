@@ -1,0 +1,10 @@
+{
+    "query": "What awards did Jamie Foxx win for his role as Ray Charles?",
+    "response": [
+        "doc_19777.txt",
+        "doc_20159.txt",
+        "doc_23290.txt",
+        "doc_23280.txt",
+        "doc_23289.txt"
+    ]
+}

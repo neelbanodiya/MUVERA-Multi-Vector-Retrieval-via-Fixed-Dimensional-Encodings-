@@ -1,0 +1,10 @@
+{
+    "query": "What type of building was constructed in 1810 for John Brown Craighead, and where was it located?",
+    "response": [
+        "doc_20219.txt",
+        "doc_3187.txt",
+        "doc_10884.txt",
+        "doc_23260.txt",
+        "doc_10093.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of Region II\u2019s GDP in Chile comes from the mining industry?",
+    "response": [
+        "doc_5150.txt",
+        "doc_536.txt",
+        "doc_5152.txt",
+        "doc_5154.txt",
+        "doc_5155.txt"
+    ]
+}

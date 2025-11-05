@@ -1,0 +1,10 @@
+{
+    "query": "What types of birds can be found in the highest areas of Costa Rica?",
+    "response": [
+        "doc_6639.txt",
+        "doc_6640.txt",
+        "doc_6631.txt",
+        "doc_6641.txt",
+        "doc_845.txt"
+    ]
+}

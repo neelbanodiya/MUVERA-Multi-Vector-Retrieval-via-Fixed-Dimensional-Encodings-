@@ -1,0 +1,10 @@
+{
+    "query": "Where did Hunter S. Thompson spend the majority of his adult life?",
+    "response": [
+        "doc_16326.txt",
+        "doc_8998.txt",
+        "doc_20257.txt",
+        "doc_16168.txt",
+        "doc_3071.txt"
+    ]
+}

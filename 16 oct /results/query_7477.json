@@ -1,0 +1,10 @@
+{
+    "query": "What forms the natural boundary between Argentina and Uruguay?",
+    "response": [
+        "doc_4336.txt",
+        "doc_8850.txt",
+        "doc_4340.txt",
+        "doc_4339.txt",
+        "doc_9295.txt"
+    ]
+}

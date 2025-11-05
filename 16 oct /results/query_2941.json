@@ -1,0 +1,10 @@
+{
+    "query": "Which Queensland cities are mentioned in relation to regional development?",
+    "response": [
+        "doc_1780.txt",
+        "doc_17360.txt",
+        "doc_22191.txt",
+        "doc_22998.txt",
+        "doc_1764.txt"
+    ]
+}

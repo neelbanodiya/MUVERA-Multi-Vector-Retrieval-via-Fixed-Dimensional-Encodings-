@@ -1,0 +1,10 @@
+{
+    "query": "In what film did James Stewart and Grace Kelly appear?",
+    "response": [
+        "doc_18828.txt",
+        "doc_18822.txt",
+        "doc_18823.txt",
+        "doc_18825.txt",
+        "doc_18829.txt"
+    ]
+}

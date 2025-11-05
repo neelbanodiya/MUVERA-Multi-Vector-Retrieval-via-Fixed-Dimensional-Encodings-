@@ -1,0 +1,10 @@
+{
+    "query": "What event was commemorated on the Eisenhower dollar struck in 1969?",
+    "response": [
+        "doc_5910.txt",
+        "doc_5919.txt",
+        "doc_5923.txt",
+        "doc_5911.txt",
+        "doc_5912.txt"
+    ]
+}

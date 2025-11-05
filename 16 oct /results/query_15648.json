@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what was at the top of Santa\u2019s deliveries in 1996?",
+    "response": [
+        "doc_15807.txt",
+        "doc_6195.txt",
+        "doc_22000.txt",
+        "doc_3699.txt",
+        "doc_12870.txt"
+    ]
+}

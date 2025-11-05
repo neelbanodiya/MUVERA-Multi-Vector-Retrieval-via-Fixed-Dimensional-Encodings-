@@ -1,0 +1,10 @@
+{
+    "query": "What is the procedure for handling confidential documents communicated to the European Parliament?",
+    "response": [
+        "doc_13312.txt",
+        "doc_13369.txt",
+        "doc_13347.txt",
+        "doc_13315.txt",
+        "doc_13188.txt"
+    ]
+}

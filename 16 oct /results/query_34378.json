@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which song was performed by Joe Tex in 1966?",
+    "response": [
+        "doc_12339.txt",
+        "doc_20001.txt",
+        "doc_10594.txt",
+        "doc_20002.txt",
+        "doc_19991.txt"
+    ]
+}

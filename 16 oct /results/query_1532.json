@@ -1,0 +1,10 @@
+{
+    "query": "How many tons of cargo were carried to Berlin within the first 10 days of the airlift?",
+    "response": [
+        "doc_870.txt",
+        "doc_875.txt",
+        "doc_872.txt",
+        "doc_871.txt",
+        "doc_876.txt"
+    ]
+}

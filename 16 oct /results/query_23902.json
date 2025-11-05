@@ -1,0 +1,10 @@
+{
+    "query": "Which actors starred in \u201cLes Mis\u00e9rables: The Dream Cast in Concert\u201d?",
+    "response": [
+        "doc_1967.txt",
+        "doc_9837.txt",
+        "doc_4873.txt",
+        "doc_18858.txt",
+        "doc_5054.txt"
+    ]
+}

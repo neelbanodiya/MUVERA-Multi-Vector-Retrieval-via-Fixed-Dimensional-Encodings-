@@ -1,0 +1,10 @@
+{
+    "query": "What type of ceramics were produced in Staffordshire during the mid-18th century?",
+    "response": [
+        "doc_15842.txt",
+        "doc_15841.txt",
+        "doc_15836.txt",
+        "doc_15845.txt",
+        "doc_22412.txt"
+    ]
+}

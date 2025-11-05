@@ -1,0 +1,10 @@
+{
+    "query": "In what work did Alexander Pope write the phrase \u201cAll seems infected that the infected spy\u201d?",
+    "response": [
+        "doc_12324.txt",
+        "doc_12322.txt",
+        "doc_12326.txt",
+        "doc_12323.txt",
+        "doc_18794.txt"
+    ]
+}

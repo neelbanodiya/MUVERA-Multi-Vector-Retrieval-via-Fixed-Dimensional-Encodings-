@@ -1,0 +1,10 @@
+{
+    "query": "What disease is caused by the bacterium Bordetella pertussis?",
+    "response": [
+        "doc_11388.txt",
+        "doc_11386.txt",
+        "doc_11391.txt",
+        "doc_11384.txt",
+        "doc_11385.txt"
+    ]
+}

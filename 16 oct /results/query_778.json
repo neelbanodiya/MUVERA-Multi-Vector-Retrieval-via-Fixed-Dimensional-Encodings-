@@ -1,0 +1,10 @@
+{
+    "query": "What was the Betty Ford Center established to assist?",
+    "response": [
+        "doc_433.txt",
+        "doc_438.txt",
+        "doc_450.txt",
+        "doc_440.txt",
+        "doc_444.txt"
+    ]
+}

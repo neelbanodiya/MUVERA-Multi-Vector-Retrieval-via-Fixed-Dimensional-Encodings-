@@ -1,0 +1,10 @@
+{
+    "query": "What was the year in which a person became a naturalized U.S. citizen, according to one of the linked documents?",
+    "response": [
+        "doc_18664.txt",
+        "doc_1856.txt",
+        "doc_14703.txt",
+        "doc_20300.txt",
+        "doc_19843.txt"
+    ]
+}

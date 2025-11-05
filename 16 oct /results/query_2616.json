@@ -1,0 +1,10 @@
+{
+    "query": "What role did Jim Lovell play in the recovery of the crew after the Apollo 13 mission?",
+    "response": [
+        "doc_1566.txt",
+        "doc_1567.txt",
+        "doc_1569.txt",
+        "doc_12272.txt",
+        "doc_4846.txt"
+    ]
+}

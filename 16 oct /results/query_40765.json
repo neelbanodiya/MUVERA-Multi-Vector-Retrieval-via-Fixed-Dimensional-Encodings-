@@ -1,0 +1,10 @@
+{
+    "query": "In 1962, what Las Vegas hotel presented \u201cBye, Bye, Birdie\u201d?",
+    "response": [
+        "doc_23840.txt",
+        "doc_23833.txt",
+        "doc_23837.txt",
+        "doc_734.txt",
+        "doc_23418.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which hotel did Steve Wynn build next to the Mirage?",
+    "response": [
+        "doc_16828.txt",
+        "doc_16830.txt",
+        "doc_16831.txt",
+        "doc_16827.txt",
+        "doc_16832.txt"
+    ]
+}

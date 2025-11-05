@@ -1,0 +1,10 @@
+{
+    "query": "In what year was *The Teahouse of the August Moon* first performed?",
+    "response": [
+        "doc_8796.txt",
+        "doc_8797.txt",
+        "doc_15244.txt",
+        "doc_5518.txt",
+        "doc_167.txt"
+    ]
+}

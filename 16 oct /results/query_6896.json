@@ -1,0 +1,10 @@
+{
+    "query": "What happened to the supply of beer on the Mayflower voyage?",
+    "response": [
+        "doc_3945.txt",
+        "doc_3951.txt",
+        "doc_3948.txt",
+        "doc_3946.txt",
+        "doc_3950.txt"
+    ]
+}

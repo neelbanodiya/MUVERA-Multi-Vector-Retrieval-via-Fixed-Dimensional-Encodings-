@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is the approximate cost of a used recording of Mahler\u2019s Symphony No. 1?",
+    "response": [
+        "doc_19612.txt",
+        "doc_19616.txt",
+        "doc_19615.txt",
+        "doc_19620.txt",
+        "doc_19618.txt"
+    ]
+}

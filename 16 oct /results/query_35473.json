@@ -1,0 +1,10 @@
+{
+    "query": "What mechanic is central to the game \"Hungry Hungry Hippos\"?",
+    "response": [
+        "doc_20659.txt",
+        "doc_20665.txt",
+        "doc_20664.txt",
+        "doc_20666.txt",
+        "doc_20661.txt"
+    ]
+}

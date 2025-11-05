@@ -1,0 +1,10 @@
+{
+    "query": "Is pertussis a reportable disease in Oklahoma?",
+    "response": [
+        "doc_11391.txt",
+        "doc_3539.txt",
+        "doc_23215.txt",
+        "doc_13448.txt",
+        "doc_14567.txt"
+    ]
+}

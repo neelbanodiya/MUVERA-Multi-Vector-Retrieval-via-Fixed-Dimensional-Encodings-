@@ -1,0 +1,10 @@
+{
+    "query": "Where is King Abdulaziz International Airport (KAIA) located?",
+    "response": [
+        "doc_15716.txt",
+        "doc_15729.txt",
+        "doc_15717.txt",
+        "doc_15721.txt",
+        "doc_15730.txt"
+    ]
+}

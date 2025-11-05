@@ -1,0 +1,10 @@
+{
+    "query": "Which musical features a cast including Michael Crawford and Steve Barton?",
+    "response": [
+        "doc_10901.txt",
+        "doc_1964.txt",
+        "doc_17097.txt",
+        "doc_10594.txt",
+        "doc_18858.txt"
+    ]
+}

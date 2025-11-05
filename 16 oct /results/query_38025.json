@@ -1,0 +1,10 @@
+{
+    "query": "What is the Russian internal name for the aircraft described in the passage?",
+    "response": [
+        "doc_4764.txt",
+        "doc_22299.txt",
+        "doc_2540.txt",
+        "doc_7302.txt",
+        "doc_14427.txt"
+    ]
+}

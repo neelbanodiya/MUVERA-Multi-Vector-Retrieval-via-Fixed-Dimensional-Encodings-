@@ -1,0 +1,10 @@
+{
+    "query": "Who donated the carillon at Nazarene Bible College?",
+    "response": [
+        "doc_4614.txt",
+        "doc_9025.txt",
+        "doc_9024.txt",
+        "doc_19974.txt",
+        "doc_10760.txt"
+    ]
+}

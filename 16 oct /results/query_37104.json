@@ -1,0 +1,9 @@
+{
+    "query": "What is the approximate length of New Mexico State Road 48?",
+    "response": [
+        "doc_21711.txt",
+        "doc_21709.txt",
+        "doc_21712.txt",
+        "doc_22539.txt"
+    ]
+}

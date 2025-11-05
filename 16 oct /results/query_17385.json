@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the film \u201cKokow\u00e4\u00e4h\u201d released?",
+    "response": [
+        "doc_1231.txt",
+        "doc_1229.txt",
+        "doc_10060.txt",
+        "doc_18373.txt",
+        "doc_1560.txt"
+    ]
+}

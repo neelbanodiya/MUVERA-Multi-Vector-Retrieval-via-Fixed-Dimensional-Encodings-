@@ -1,0 +1,10 @@
+{
+    "query": "What year was Giovanni Ribisi born?",
+    "response": [
+        "doc_15474.txt",
+        "doc_4475.txt",
+        "doc_15616.txt",
+        "doc_20423.txt",
+        "doc_15475.txt"
+    ]
+}

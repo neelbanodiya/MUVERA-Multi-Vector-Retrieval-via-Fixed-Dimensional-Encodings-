@@ -1,0 +1,10 @@
+{
+    "query": "In what decade did *Vriesea splendens* first become available in Europe?",
+    "response": [
+        "doc_6975.txt",
+        "doc_15392.txt",
+        "doc_21108.txt",
+        "doc_22782.txt",
+        "doc_8127.txt"
+    ]
+}

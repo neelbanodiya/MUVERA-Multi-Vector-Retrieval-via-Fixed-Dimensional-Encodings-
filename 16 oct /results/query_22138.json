@@ -1,0 +1,10 @@
+{
+    "query": "Who is the second-all-time leader in regular-season goals scored in Major League Soccer?",
+    "response": [
+        "doc_21627.txt",
+        "doc_8627.txt",
+        "doc_21628.txt",
+        "doc_15543.txt",
+        "doc_6829.txt"
+    ]
+}

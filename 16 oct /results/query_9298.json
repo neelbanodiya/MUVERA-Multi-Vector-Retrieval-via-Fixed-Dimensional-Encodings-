@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was Pocahontas\u2019s relationship with John Smith described as, and what consequence followed?",
+    "response": [
+        "doc_12227.txt",
+        "doc_23697.txt",
+        "doc_7648.txt",
+        "doc_15265.txt",
+        "doc_10673.txt"
+    ]
+}

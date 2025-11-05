@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate timeframe during which the monastery of St. Theodosius was founded?",
+    "response": [
+        "doc_23684.txt",
+        "doc_23689.txt",
+        "doc_23686.txt",
+        "doc_23678.txt",
+        "doc_4961.txt"
+    ]
+}

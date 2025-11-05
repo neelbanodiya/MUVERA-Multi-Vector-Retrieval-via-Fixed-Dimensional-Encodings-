@@ -1,0 +1,10 @@
+{
+    "query": "What year was Molde Fotballklubb founded?",
+    "response": [
+        "doc_10884.txt",
+        "doc_10885.txt",
+        "doc_18715.txt",
+        "doc_19473.txt",
+        "doc_16350.txt"
+    ]
+}

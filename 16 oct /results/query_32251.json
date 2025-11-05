@@ -1,0 +1,10 @@
+{
+    "query": "What is the etymology (origin of the word) of the term \"cryptography,\" as described in the Citizendium article?",
+    "response": [
+        "doc_12132.txt",
+        "doc_4404.txt",
+        "doc_4321.txt",
+        "doc_4324.txt",
+        "doc_12128.txt"
+    ]
+}

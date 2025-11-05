@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked articles, what was a common practice in the Middle East regarding meat preparation?",
+    "response": [
+        "doc_20875.txt",
+        "doc_9978.txt",
+        "doc_15454.txt",
+        "doc_5417.txt",
+        "doc_14874.txt"
+    ]
+}

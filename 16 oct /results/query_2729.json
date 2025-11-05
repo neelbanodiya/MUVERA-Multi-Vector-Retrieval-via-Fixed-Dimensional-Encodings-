@@ -1,0 +1,10 @@
+{
+    "query": "What body of water connects Lake Superior to Lake Huron, and through which does Sault Saint Marie lie?",
+    "response": [
+        "doc_1636.txt",
+        "doc_1645.txt",
+        "doc_1633.txt",
+        "doc_1642.txt",
+        "doc_1647.txt"
+    ]
+}

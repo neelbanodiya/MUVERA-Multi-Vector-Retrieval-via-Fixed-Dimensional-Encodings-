@@ -1,0 +1,10 @@
+{
+    "query": "Who was named Sheriff of Otsego County?",
+    "response": [
+        "doc_15197.txt",
+        "doc_15196.txt",
+        "doc_2176.txt",
+        "doc_15339.txt",
+        "doc_10451.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the connection of Mackay to other towns in Queensland, such as Rockhampton and Townsville?",
+    "response": [
+        "doc_1764.txt",
+        "doc_1778.txt",
+        "doc_1771.txt",
+        "doc_1765.txt",
+        "doc_1768.txt"
+    ]
+}

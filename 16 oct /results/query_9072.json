@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of Americans are declining slightly as a percentage of the U.S. public?",
+    "response": [
+        "doc_5220.txt",
+        "doc_5221.txt",
+        "doc_12888.txt",
+        "doc_22238.txt",
+        "doc_3935.txt"
+    ]
+}

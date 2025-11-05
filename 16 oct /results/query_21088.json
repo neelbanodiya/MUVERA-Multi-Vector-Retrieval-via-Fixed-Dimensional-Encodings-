@@ -1,0 +1,10 @@
+{
+    "query": "Which country is Henrik Ibsen associated with as a playwright?",
+    "response": [
+        "doc_12169.txt",
+        "doc_12171.txt",
+        "doc_12172.txt",
+        "doc_12168.txt",
+        "doc_12170.txt"
+    ]
+}

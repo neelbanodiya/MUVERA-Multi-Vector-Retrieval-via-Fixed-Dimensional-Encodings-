@@ -1,0 +1,10 @@
+{
+    "query": "When was *The Generall Historie of Virginia* first published?",
+    "response": [
+        "doc_14861.txt",
+        "doc_14862.txt",
+        "doc_14858.txt",
+        "doc_14859.txt",
+        "doc_14860.txt"
+    ]
+}

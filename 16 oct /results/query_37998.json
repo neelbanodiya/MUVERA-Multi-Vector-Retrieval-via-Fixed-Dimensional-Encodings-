@@ -1,0 +1,10 @@
+{
+    "query": "What was the speed limit described in the NHRA blog post?",
+    "response": [
+        "doc_7788.txt",
+        "doc_23086.txt",
+        "doc_23077.txt",
+        "doc_8746.txt",
+        "doc_2180.txt"
+    ]
+}

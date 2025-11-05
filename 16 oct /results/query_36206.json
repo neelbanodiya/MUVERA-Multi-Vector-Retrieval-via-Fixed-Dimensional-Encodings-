@@ -1,0 +1,10 @@
+{
+    "query": "Who directed the expedition that led to the discovery of the Titanic?",
+    "response": [
+        "doc_21113.txt",
+        "doc_21094.txt",
+        "doc_21099.txt",
+        "doc_21107.txt",
+        "doc_13912.txt"
+    ]
+}

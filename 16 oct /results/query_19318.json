@@ -1,0 +1,10 @@
+{
+    "query": "In what year did \u201cBorn to Rebel\u201d feature \u201cPulp Fiction\u201d star\u2019s \u201cPropeller One-Way Night Coach\u201d?",
+    "response": [
+        "doc_11196.txt",
+        "doc_18455.txt",
+        "doc_5278.txt",
+        "doc_2800.txt",
+        "doc_13076.txt"
+    ]
+}

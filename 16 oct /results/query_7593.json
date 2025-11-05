@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Antigua and Barbuda achieve full independent status?",
+    "response": [
+        "doc_4421.txt",
+        "doc_4412.txt",
+        "doc_4416.txt",
+        "doc_4414.txt",
+        "doc_4422.txt"
+    ]
+}

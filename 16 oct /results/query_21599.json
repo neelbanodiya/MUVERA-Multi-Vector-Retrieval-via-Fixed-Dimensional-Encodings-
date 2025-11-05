@@ -1,0 +1,10 @@
+{
+    "query": "How many Yankees players and managers have been inducted into the Hall of Fame, according to the text?",
+    "response": [
+        "doc_7435.txt",
+        "doc_3295.txt",
+        "doc_9092.txt",
+        "doc_15505.txt",
+        "doc_14946.txt"
+    ]
+}

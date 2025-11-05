@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the United Nations experience a growth?",
+    "response": [
+        "doc_22757.txt",
+        "doc_20154.txt",
+        "doc_12629.txt",
+        "doc_9896.txt",
+        "doc_21971.txt"
+    ]
+}

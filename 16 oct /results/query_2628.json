@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the astronaut played by Tom Hanks in the movie referenced?",
+    "response": [
+        "doc_16653.txt",
+        "doc_12759.txt",
+        "doc_13535.txt",
+        "doc_8067.txt",
+        "doc_4581.txt"
+    ]
+}

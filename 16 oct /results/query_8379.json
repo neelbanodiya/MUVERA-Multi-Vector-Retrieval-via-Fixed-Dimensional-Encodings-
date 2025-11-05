@@ -1,0 +1,10 @@
+{
+    "query": "Who was hired to review the allegations against Koko?",
+    "response": [
+        "doc_24067.txt",
+        "doc_490.txt",
+        "doc_11948.txt",
+        "doc_16654.txt",
+        "doc_1321.txt"
+    ]
+}

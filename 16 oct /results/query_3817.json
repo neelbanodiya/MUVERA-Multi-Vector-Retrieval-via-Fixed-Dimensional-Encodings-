@@ -1,0 +1,10 @@
+{
+    "query": "What groups of people immigrated to Easter Island?",
+    "response": [
+        "doc_2235.txt",
+        "doc_11457.txt",
+        "doc_11460.txt",
+        "doc_20937.txt",
+        "doc_23896.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the original purpose of the building located at 68 High Street?",
+    "response": [
+        "doc_28.txt",
+        "doc_19972.txt",
+        "doc_19971.txt",
+        "doc_12227.txt",
+        "doc_19970.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what denominations of coins were circulated in Dahlonega, Georgia, between 1838 and 1861?",
+    "response": [
+        "doc_8356.txt",
+        "doc_13605.txt",
+        "doc_13482.txt",
+        "doc_2714.txt",
+        "doc_21211.txt"
+    ]
+}

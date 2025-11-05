@@ -1,0 +1,10 @@
+{
+    "query": "In what year did John Smith marry Mary or Elizabeth Betsy Williams?",
+    "response": [
+        "doc_17292.txt",
+        "doc_1395.txt",
+        "doc_1755.txt",
+        "doc_22466.txt",
+        "doc_22467.txt"
+    ]
+}

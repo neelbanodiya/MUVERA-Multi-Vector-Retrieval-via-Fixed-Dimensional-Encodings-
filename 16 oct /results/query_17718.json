@@ -1,0 +1,10 @@
+{
+    "query": "Where was Polly born?",
+    "response": [
+        "doc_14666.txt",
+        "doc_8376.txt",
+        "doc_9273.txt",
+        "doc_22872.txt",
+        "doc_8368.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which video game publisher is mentioned in relation to \u201cProject X Zone\u201d?",
+    "response": [
+        "doc_10865.txt",
+        "doc_22191.txt",
+        "doc_12802.txt",
+        "doc_23113.txt",
+        "doc_11120.txt"
+    ]
+}

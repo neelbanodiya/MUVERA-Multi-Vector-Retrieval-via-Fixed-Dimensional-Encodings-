@@ -1,0 +1,10 @@
+{
+    "query": "What discussions occurred in November 2007 involving the Turkish Foreign Minister and the EU troika?",
+    "response": [
+        "doc_14346.txt",
+        "doc_7120.txt",
+        "doc_15578.txt",
+        "doc_12938.txt",
+        "doc_17403.txt"
+    ]
+}

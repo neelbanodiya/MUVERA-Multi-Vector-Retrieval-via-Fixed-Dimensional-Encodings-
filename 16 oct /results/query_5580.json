@@ -1,0 +1,10 @@
+{
+    "query": "When was the application for EGF financial contribution submitted by the Danish authorities?",
+    "response": [
+        "doc_3248.txt",
+        "doc_10890.txt",
+        "doc_3246.txt",
+        "doc_3253.txt",
+        "doc_5633.txt"
+    ]
+}

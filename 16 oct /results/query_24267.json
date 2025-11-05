@@ -1,0 +1,10 @@
+{
+    "query": "What city was Ralph Waldo Ellison born in, and what was his father\u2019s name?",
+    "response": [
+        "doc_14072.txt",
+        "doc_14074.txt",
+        "doc_14088.txt",
+        "doc_14087.txt",
+        "doc_14086.txt"
+    ]
+}

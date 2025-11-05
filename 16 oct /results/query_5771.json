@@ -1,0 +1,10 @@
+{
+    "query": "What is mentioned as a location in the Philippines that is considered mystical?",
+    "response": [
+        "doc_11635.txt",
+        "doc_5420.txt",
+        "doc_5565.txt",
+        "doc_8862.txt",
+        "doc_2252.txt"
+    ]
+}

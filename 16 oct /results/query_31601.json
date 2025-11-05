@@ -1,0 +1,10 @@
+{
+    "query": "What is Christian\u2019s described personality?",
+    "response": [
+        "doc_20503.txt",
+        "doc_20510.txt",
+        "doc_20504.txt",
+        "doc_9450.txt",
+        "doc_2915.txt"
+    ]
+}

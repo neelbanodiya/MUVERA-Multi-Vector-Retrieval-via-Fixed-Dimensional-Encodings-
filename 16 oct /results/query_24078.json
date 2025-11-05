@@ -1,0 +1,10 @@
+{
+    "query": "Where in Texas can one find large fields in bloom, as mentioned in a wildflower sightings report?",
+    "response": [
+        "doc_13965.txt",
+        "doc_13967.txt",
+        "doc_13963.txt",
+        "doc_13969.txt",
+        "doc_13977.txt"
+    ]
+}

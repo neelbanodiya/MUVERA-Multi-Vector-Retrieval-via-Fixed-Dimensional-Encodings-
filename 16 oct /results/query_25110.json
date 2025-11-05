@@ -1,0 +1,10 @@
+{
+    "query": "What was the initial purpose of the \u201cJane Arden\u201d comic strip?",
+    "response": [
+        "doc_14577.txt",
+        "doc_19982.txt",
+        "doc_2329.txt",
+        "doc_16752.txt",
+        "doc_644.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year did Tommy Chong and Michael Thomas appear together in an episode of *Wild Card*?",
+    "response": [
+        "doc_5203.txt",
+        "doc_5205.txt",
+        "doc_5202.txt",
+        "doc_5207.txt",
+        "doc_5201.txt"
+    ]
+}

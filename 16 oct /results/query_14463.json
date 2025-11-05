@@ -1,0 +1,10 @@
+{
+    "query": "What year was Josephine born?",
+    "response": [
+        "doc_8370.txt",
+        "doc_8367.txt",
+        "doc_8376.txt",
+        "doc_8372.txt",
+        "doc_8369.txt"
+    ]
+}

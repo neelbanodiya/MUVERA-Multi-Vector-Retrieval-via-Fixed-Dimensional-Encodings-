@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, why is the speaker stealing the Declaration of Independence?",
+    "response": [
+        "doc_7157.txt",
+        "doc_7158.txt",
+        "doc_7162.txt",
+        "doc_7161.txt",
+        "doc_23876.txt"
+    ]
+}

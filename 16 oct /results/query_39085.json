@@ -1,0 +1,10 @@
+{
+    "query": "What specific legal issue is the EU attempting to address regarding women\u2019s rights, citing an example?",
+    "response": [
+        "doc_5182.txt",
+        "doc_3091.txt",
+        "doc_23111.txt",
+        "doc_17630.txt",
+        "doc_3683.txt"
+    ]
+}

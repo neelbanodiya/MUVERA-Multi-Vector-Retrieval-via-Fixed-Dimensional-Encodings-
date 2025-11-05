@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the band \"Alive Like Me\"?",
+    "response": [
+        "doc_20047.txt",
+        "doc_20041.txt",
+        "doc_22030.txt",
+        "doc_1857.txt",
+        "doc_22374.txt"
+    ]
+}

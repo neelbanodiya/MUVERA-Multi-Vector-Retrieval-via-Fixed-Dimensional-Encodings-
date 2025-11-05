@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Manish Jain born?",
+    "response": [
+        "doc_21706.txt",
+        "doc_21707.txt",
+        "doc_1192.txt",
+        "doc_12973.txt",
+        "doc_9865.txt"
+    ]
+}

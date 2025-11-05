@@ -1,0 +1,10 @@
+{
+    "query": "What type of person was Francois Truffaut described as in the passage?",
+    "response": [
+        "doc_22913.txt",
+        "doc_14626.txt",
+        "doc_9190.txt",
+        "doc_17272.txt",
+        "doc_12350.txt"
+    ]
+}

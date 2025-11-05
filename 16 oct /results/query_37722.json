@@ -1,0 +1,10 @@
+{
+    "query": "What was the price of Disney\u2019s *Kidnapped* on Videodisc?",
+    "response": [
+        "doc_22115.txt",
+        "doc_18109.txt",
+        "doc_5332.txt",
+        "doc_9976.txt",
+        "doc_2667.txt"
+    ]
+}

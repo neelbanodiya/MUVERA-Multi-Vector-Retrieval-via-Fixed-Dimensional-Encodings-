@@ -1,0 +1,10 @@
+{
+    "query": "Which committee is responsible for examining a proposal for codification of Union legislation?",
+    "response": [
+        "doc_13227.txt",
+        "doc_13194.txt",
+        "doc_13310.txt",
+        "doc_13217.txt",
+        "doc_13193.txt"
+    ]
+}

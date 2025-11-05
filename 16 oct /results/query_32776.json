@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the movie featuring Johnny Depp and Maria Bello, and who are some of the other actors in it?",
+    "response": [
+        "doc_6005.txt",
+        "doc_7652.txt",
+        "doc_14684.txt",
+        "doc_14780.txt",
+        "doc_6339.txt"
+    ]
+}

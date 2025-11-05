@@ -1,0 +1,10 @@
+{
+    "query": "Which baseball organization did Danny Sheaffer coach within prior to becoming a manager?",
+    "response": [
+        "doc_2410.txt",
+        "doc_23059.txt",
+        "doc_12447.txt",
+        "doc_9158.txt",
+        "doc_18911.txt"
+    ]
+}

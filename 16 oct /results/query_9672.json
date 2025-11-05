@@ -1,0 +1,10 @@
+{
+    "query": "What television shows were influenced by *Hill Street Blues*?",
+    "response": [
+        "doc_5604.txt",
+        "doc_5596.txt",
+        "doc_5593.txt",
+        "doc_5595.txt",
+        "doc_5600.txt"
+    ]
+}

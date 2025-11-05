@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Jeff Probst born?",
+    "response": [
+        "doc_2562.txt",
+        "doc_16329.txt",
+        "doc_2559.txt",
+        "doc_3710.txt",
+        "doc_16345.txt"
+    ]
+}

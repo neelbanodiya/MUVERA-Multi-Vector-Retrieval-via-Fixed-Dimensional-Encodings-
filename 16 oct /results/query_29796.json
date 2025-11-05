@@ -1,0 +1,10 @@
+{
+    "query": "According to one article, what was Jimmy Fallon\u2019s primary focus when casting roles?",
+    "response": [
+        "doc_18873.txt",
+        "doc_16594.txt",
+        "doc_17778.txt",
+        "doc_18482.txt",
+        "doc_19283.txt"
+    ]
+}

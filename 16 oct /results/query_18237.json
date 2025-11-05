@@ -1,0 +1,10 @@
+{
+    "query": "Which companies are listed as clients of CommerceHub?",
+    "response": [
+        "doc_10563.txt",
+        "doc_18306.txt",
+        "doc_3678.txt",
+        "doc_12645.txt",
+        "doc_3679.txt"
+    ]
+}

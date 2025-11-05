@@ -1,0 +1,10 @@
+{
+    "query": "By what date must contracts related to Iranian oil be executed if they were established before January 23, 2012?",
+    "response": [
+        "doc_6488.txt",
+        "doc_5519.txt",
+        "doc_3062.txt",
+        "doc_19899.txt",
+        "doc_2063.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Does the Commission believe it should participate in an EU-wide campaign?",
+    "response": [
+        "doc_24206.txt",
+        "doc_5369.txt",
+        "doc_6863.txt",
+        "doc_12328.txt",
+        "doc_10189.txt"
+    ]
+}

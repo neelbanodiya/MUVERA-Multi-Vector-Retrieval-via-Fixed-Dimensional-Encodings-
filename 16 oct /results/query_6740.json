@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the sequel, *Son of Rosemary*, published?",
+    "response": [
+        "doc_3861.txt",
+        "doc_3869.txt",
+        "doc_3862.txt",
+        "doc_3864.txt",
+        "doc_3863.txt"
+    ]
+}

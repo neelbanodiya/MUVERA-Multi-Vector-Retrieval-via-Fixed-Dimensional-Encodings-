@@ -1,0 +1,10 @@
+{
+    "query": "What year was George W. Bush born?",
+    "response": [
+        "doc_3571.txt",
+        "doc_3570.txt",
+        "doc_3569.txt",
+        "doc_2559.txt",
+        "doc_3563.txt"
+    ]
+}

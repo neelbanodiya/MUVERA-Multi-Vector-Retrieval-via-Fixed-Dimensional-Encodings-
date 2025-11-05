@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked articles, what was a notable change in the appearance of the Superman series?",
+    "response": [
+        "doc_21371.txt",
+        "doc_423.txt",
+        "doc_21364.txt",
+        "doc_21358.txt",
+        "doc_6752.txt"
+    ]
+}

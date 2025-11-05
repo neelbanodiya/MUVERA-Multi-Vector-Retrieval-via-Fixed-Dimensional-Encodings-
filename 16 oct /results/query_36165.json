@@ -1,0 +1,10 @@
+{
+    "query": "Which writer\u2019s stories served as the basis for the film *My Sister Eileen*?",
+    "response": [
+        "doc_21091.txt",
+        "doc_21090.txt",
+        "doc_21087.txt",
+        "doc_21086.txt",
+        "doc_1812.txt"
+    ]
+}

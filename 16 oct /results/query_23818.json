@@ -1,0 +1,10 @@
+{
+    "query": "Which actors starred in \u201cGet Him to the Greek\u201d?",
+    "response": [
+        "doc_9555.txt",
+        "doc_4193.txt",
+        "doc_18484.txt",
+        "doc_1967.txt",
+        "doc_4874.txt"
+    ]
+}

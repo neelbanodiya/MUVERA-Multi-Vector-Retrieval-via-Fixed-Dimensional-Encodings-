@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, what was the U.S. Navy aircraft involved in the Hainan Island incident doing at the time of the collision?",
+    "response": [
+        "doc_16036.txt",
+        "doc_13901.txt",
+        "doc_16038.txt",
+        "doc_16039.txt",
+        "doc_6217.txt"
+    ]
+}

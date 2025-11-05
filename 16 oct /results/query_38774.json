@@ -1,0 +1,10 @@
+{
+    "query": "What was the population increase in the 15-34 age group between 2001 and 2011 in India?",
+    "response": [
+        "doc_22711.txt",
+        "doc_15636.txt",
+        "doc_5221.txt",
+        "doc_2523.txt",
+        "doc_15632.txt"
+    ]
+}

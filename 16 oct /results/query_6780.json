@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what concerns were raised regarding visits to Andargachew by UK consular officials?",
+    "response": [
+        "doc_5727.txt",
+        "doc_12515.txt",
+        "doc_20320.txt",
+        "doc_12516.txt",
+        "doc_10288.txt"
+    ]
+}

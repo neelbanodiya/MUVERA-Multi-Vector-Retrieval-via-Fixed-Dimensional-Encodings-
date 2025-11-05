@@ -1,0 +1,10 @@
+{
+    "query": "In 1930, what specific protest did Mahatma Gandhi lead, involving a march to the sea?",
+    "response": [
+        "doc_1405.txt",
+        "doc_1404.txt",
+        "doc_1414.txt",
+        "doc_1409.txt",
+        "doc_1411.txt"
+    ]
+}

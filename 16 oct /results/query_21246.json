@@ -1,0 +1,9 @@
+{
+    "query": "What was unique about WrestleMania XXVI compared to previous events regarding the main event?",
+    "response": [
+        "doc_12260.txt",
+        "doc_12259.txt",
+        "doc_12258.txt",
+        "doc_20955.txt"
+    ]
+}

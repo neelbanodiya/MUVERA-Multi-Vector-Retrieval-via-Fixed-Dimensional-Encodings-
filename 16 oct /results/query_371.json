@@ -1,0 +1,10 @@
+{
+    "query": "In what town was the Battle of Sharpsburg located?",
+    "response": [
+        "doc_199.txt",
+        "doc_193.txt",
+        "doc_190.txt",
+        "doc_201.txt",
+        "doc_191.txt"
+    ]
+}

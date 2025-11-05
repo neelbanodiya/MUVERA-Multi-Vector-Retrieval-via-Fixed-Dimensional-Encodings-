@@ -1,0 +1,10 @@
+{
+    "query": "Which family, besides the Bardi and Peruzzi, contributed to the growth of Florence in the 14th century?",
+    "response": [
+        "doc_10759.txt",
+        "doc_23761.txt",
+        "doc_23747.txt",
+        "doc_10765.txt",
+        "doc_10764.txt"
+    ]
+}

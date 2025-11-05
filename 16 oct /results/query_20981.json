@@ -1,0 +1,10 @@
+{
+    "query": "For Member States with very low quotas, what type of penalty system is proposed to be used instead of a percentage-based system?",
+    "response": [
+        "doc_12096.txt",
+        "doc_4600.txt",
+        "doc_226.txt",
+        "doc_18127.txt",
+        "doc_5287.txt"
+    ]
+}

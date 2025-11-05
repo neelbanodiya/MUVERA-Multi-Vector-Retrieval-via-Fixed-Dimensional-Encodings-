@@ -1,0 +1,10 @@
+{
+    "query": "What was the original title of the film \u201cAliens in the Attic\u201d?",
+    "response": [
+        "doc_2434.txt",
+        "doc_14626.txt",
+        "doc_598.txt",
+        "doc_18947.txt",
+        "doc_1230.txt"
+    ]
+}

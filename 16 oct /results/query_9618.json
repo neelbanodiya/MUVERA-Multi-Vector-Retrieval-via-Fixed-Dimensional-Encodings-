@@ -1,0 +1,10 @@
+{
+    "query": "What is the current risk estimate, including in the context of US tax legislation?",
+    "response": [
+        "doc_5560.txt",
+        "doc_22217.txt",
+        "doc_9672.txt",
+        "doc_22336.txt",
+        "doc_20760.txt"
+    ]
+}

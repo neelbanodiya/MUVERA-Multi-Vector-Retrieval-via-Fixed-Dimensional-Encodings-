@@ -1,0 +1,10 @@
+{
+    "query": "Which countries are scheduled to graduate from the Generalized System of Preferences (GSP) in 2006?",
+    "response": [
+        "doc_15027.txt",
+        "doc_1214.txt",
+        "doc_5374.txt",
+        "doc_5373.txt",
+        "doc_14159.txt"
+    ]
+}

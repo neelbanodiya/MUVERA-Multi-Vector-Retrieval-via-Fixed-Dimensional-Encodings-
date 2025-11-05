@@ -1,0 +1,10 @@
+{
+    "query": "What types of businesses are typically associated with the donations received at the Salvation Army center?",
+    "response": [
+        "doc_5665.txt",
+        "doc_1795.txt",
+        "doc_2466.txt",
+        "doc_18266.txt",
+        "doc_23318.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How tall is the Bennington Battle Monument?",
+    "response": [
+        "doc_7952.txt",
+        "doc_7953.txt",
+        "doc_7954.txt",
+        "doc_7957.txt",
+        "doc_7955.txt"
+    ]
+}

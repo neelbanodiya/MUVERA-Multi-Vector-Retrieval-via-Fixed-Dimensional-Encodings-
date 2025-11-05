@@ -1,0 +1,10 @@
+{
+    "query": "On what date did \u201cToy Story of Terror!\u201d premiere on ABC?",
+    "response": [
+        "doc_6604.txt",
+        "doc_3700.txt",
+        "doc_16729.txt",
+        "doc_23418.txt",
+        "doc_2117.txt"
+    ]
+}

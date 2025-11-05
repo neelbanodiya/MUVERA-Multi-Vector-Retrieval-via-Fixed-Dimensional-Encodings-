@@ -1,0 +1,10 @@
+{
+    "query": "What country did the swimmer represent at the Olympics?",
+    "response": [
+        "doc_22767.txt",
+        "doc_24158.txt",
+        "doc_22768.txt",
+        "doc_22769.txt",
+        "doc_2061.txt"
+    ]
+}

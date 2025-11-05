@@ -1,0 +1,10 @@
+{
+    "query": "What transition period did MEPs call for regarding the new regulation?",
+    "response": [
+        "doc_19837.txt",
+        "doc_17236.txt",
+        "doc_10910.txt",
+        "doc_18021.txt",
+        "doc_20803.txt"
+    ]
+}

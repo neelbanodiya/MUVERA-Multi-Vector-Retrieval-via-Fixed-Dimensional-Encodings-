@@ -1,0 +1,10 @@
+{
+    "query": "When was the Old Post Office in Albuquerque, New Mexico, built?",
+    "response": [
+        "doc_19969.txt",
+        "doc_19970.txt",
+        "doc_21710.txt",
+        "doc_19972.txt",
+        "doc_19971.txt"
+    ]
+}

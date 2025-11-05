@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the L.A.-based amateur basketball team featured in \u201cThe Pistol Shrimps\u201d?",
+    "response": [
+        "doc_10508.txt",
+        "doc_8053.txt",
+        "doc_10507.txt",
+        "doc_8052.txt",
+        "doc_10509.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Nirvana albums were released before *Nevermind*?",
+    "response": [
+        "doc_19005.txt",
+        "doc_19007.txt",
+        "doc_19009.txt",
+        "doc_16313.txt",
+        "doc_8469.txt"
+    ]
+}

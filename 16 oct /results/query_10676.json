@@ -1,0 +1,10 @@
+{
+    "query": "Besides Baden-Baden, what other city is located on the edge of the Black Forest and known for being walkable?",
+    "response": [
+        "doc_6193.txt",
+        "doc_6189.txt",
+        "doc_6188.txt",
+        "doc_6190.txt",
+        "doc_6187.txt"
+    ]
+}

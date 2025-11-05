@@ -1,0 +1,10 @@
+{
+    "query": "In what month and year did Patrycja first appear in *Playboy* magazine?",
+    "response": [
+        "doc_5491.txt",
+        "doc_18215.txt",
+        "doc_3071.txt",
+        "doc_19216.txt",
+        "doc_18211.txt"
+    ]
+}

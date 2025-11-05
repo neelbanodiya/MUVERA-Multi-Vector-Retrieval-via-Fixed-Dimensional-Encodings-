@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate timeframe of the \u201c8th Founding\u201d mentioned in one of the linked documents?",
+    "response": [
+        "doc_8358.txt",
+        "doc_5425.txt",
+        "doc_459.txt",
+        "doc_8343.txt",
+        "doc_21730.txt"
+    ]
+}

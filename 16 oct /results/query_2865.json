@@ -1,0 +1,10 @@
+{
+    "query": "When were Daniel Boone and Rebecca Bryan married?",
+    "response": [
+        "doc_1741.txt",
+        "doc_1742.txt",
+        "doc_1749.txt",
+        "doc_1746.txt",
+        "doc_1740.txt"
+    ]
+}

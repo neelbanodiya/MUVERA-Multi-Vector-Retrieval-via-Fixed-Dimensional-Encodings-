@@ -1,0 +1,10 @@
+{
+    "query": "Which album did Michael Jackson\u2019s song \u201c(I Can\u2019t Make It) Another Day\u201d appear on?",
+    "response": [
+        "doc_5179.txt",
+        "doc_5278.txt",
+        "doc_12571.txt",
+        "doc_901.txt",
+        "doc_14727.txt"
+    ]
+}

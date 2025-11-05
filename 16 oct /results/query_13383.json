@@ -1,0 +1,10 @@
+{
+    "query": "What year did Jeff Smith host \u201cThe Frugal Gourmet\u201d?",
+    "response": [
+        "doc_7822.txt",
+        "doc_7816.txt",
+        "doc_7823.txt",
+        "doc_7819.txt",
+        "doc_7817.txt"
+    ]
+}

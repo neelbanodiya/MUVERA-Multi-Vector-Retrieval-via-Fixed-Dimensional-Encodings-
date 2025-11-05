@@ -1,0 +1,10 @@
+{
+    "query": "According to the committee, what should be done regarding the ratification process of the Treaty establishing a Constitution for Europe?",
+    "response": [
+        "doc_17252.txt",
+        "doc_17370.txt",
+        "doc_17368.txt",
+        "doc_17343.txt",
+        "doc_17351.txt"
+    ]
+}

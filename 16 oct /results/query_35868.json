@@ -1,0 +1,10 @@
+{
+    "query": "What album featured an old strat pic on Derek and the Dominoes\u2019 album?",
+    "response": [
+        "doc_5278.txt",
+        "doc_12713.txt",
+        "doc_12338.txt",
+        "doc_14187.txt",
+        "doc_2676.txt"
+    ]
+}

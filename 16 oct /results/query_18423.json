@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is Barbara Pierre\u2019s specialty in track and field?",
+    "response": [
+        "doc_8547.txt",
+        "doc_10078.txt",
+        "doc_14229.txt",
+        "doc_19913.txt",
+        "doc_19954.txt"
+    ]
+}

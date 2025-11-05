@@ -1,0 +1,10 @@
+{
+    "query": "To whom did the President of the European Parliament instruct the Decision to be forwarded?",
+    "response": [
+        "doc_7810.txt",
+        "doc_22583.txt",
+        "doc_5237.txt",
+        "doc_59.txt",
+        "doc_165.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was the Great Conestoga Road opened?",
+    "response": [
+        "doc_23217.txt",
+        "doc_22764.txt",
+        "doc_9775.txt",
+        "doc_23261.txt",
+        "doc_21710.txt"
+    ]
+}

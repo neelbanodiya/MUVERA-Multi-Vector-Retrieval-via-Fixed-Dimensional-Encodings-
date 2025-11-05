@@ -1,0 +1,10 @@
+{
+    "query": "Which regulation applies if reference is made to Article 15, paragraph 1a?",
+    "response": [
+        "doc_20830.txt",
+        "doc_20848.txt",
+        "doc_20779.txt",
+        "doc_20813.txt",
+        "doc_20752.txt"
+    ]
+}

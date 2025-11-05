@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was the estimated number of copies published of \u201cThe Little Red Book\u201d between 1964 and 2009?",
+    "response": [
+        "doc_20985.txt",
+        "doc_4168.txt",
+        "doc_4654.txt",
+        "doc_11314.txt",
+        "doc_19140.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What phrase did James Carville coin for Bill Clinton\u2019s 1992 presidential campaign?",
+    "response": [
+        "doc_15748.txt",
+        "doc_15746.txt",
+        "doc_15749.txt",
+        "doc_15177.txt",
+        "doc_3851.txt"
+    ]
+}

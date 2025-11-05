@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary focus of NGOs mentioned in Annex I, point 1(a)?",
+    "response": [
+        "doc_8888.txt",
+        "doc_13367.txt",
+        "doc_13351.txt",
+        "doc_13369.txt",
+        "doc_13366.txt"
+    ]
+}

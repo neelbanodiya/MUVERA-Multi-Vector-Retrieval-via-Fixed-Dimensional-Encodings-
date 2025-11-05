@@ -1,0 +1,10 @@
+{
+    "query": "Comedy in which Benedick says Beatrice exceeds Hero \u201cin beauty as the first of May doth the last of December\u201d?",
+    "response": [
+        "doc_14826.txt",
+        "doc_14829.txt",
+        "doc_14830.txt",
+        "doc_14827.txt",
+        "doc_14828.txt"
+    ]
+}

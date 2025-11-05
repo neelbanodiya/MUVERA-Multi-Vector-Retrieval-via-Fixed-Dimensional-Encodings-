@@ -1,0 +1,10 @@
+{
+    "query": "According to one source, what demographic shift is occurring in America regarding the working class?",
+    "response": [
+        "doc_2187.txt",
+        "doc_2188.txt",
+        "doc_2184.txt",
+        "doc_12883.txt",
+        "doc_2183.txt"
+    ]
+}

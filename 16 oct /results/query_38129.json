@@ -1,0 +1,10 @@
+{
+    "query": "What is a \u201cfirth\u201d in Scottish terms?",
+    "response": [
+        "doc_22367.txt",
+        "doc_22375.txt",
+        "doc_13366.txt",
+        "doc_21006.txt",
+        "doc_21020.txt"
+    ]
+}

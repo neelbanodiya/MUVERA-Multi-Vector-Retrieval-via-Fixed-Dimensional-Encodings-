@@ -1,0 +1,10 @@
+{
+    "query": "In *Miami Vice*, which actors besides Don Johnson and Philip Michael Thomas were guest stars?",
+    "response": [
+        "doc_5203.txt",
+        "doc_5211.txt",
+        "doc_5209.txt",
+        "doc_5204.txt",
+        "doc_5201.txt"
+    ]
+}

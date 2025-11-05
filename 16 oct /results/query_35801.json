@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what was William Gill\u2019s role in Maine?",
+    "response": [
+        "doc_10897.txt",
+        "doc_3389.txt",
+        "doc_22250.txt",
+        "doc_1451.txt",
+        "doc_11011.txt"
+    ]
+}

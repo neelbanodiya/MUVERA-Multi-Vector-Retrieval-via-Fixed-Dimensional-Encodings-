@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 70(1) of Directive 2001/83/EC, what are the two classifications a medicinal product can be assigned upon receiving a marketing authorization?",
+    "response": [
+        "doc_9188.txt",
+        "doc_17891.txt",
+        "doc_17893.txt",
+        "doc_24003.txt",
+        "doc_17899.txt"
+    ]
+}

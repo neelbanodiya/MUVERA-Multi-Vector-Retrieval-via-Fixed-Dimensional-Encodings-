@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how long does it take a soldier to progress from a basic rank to a leadership position like squad leader, based on the Reddit discussion?",
+    "response": [
+        "doc_2969.txt",
+        "doc_2970.txt",
+        "doc_2982.txt",
+        "doc_2979.txt",
+        "doc_2968.txt"
+    ]
+}

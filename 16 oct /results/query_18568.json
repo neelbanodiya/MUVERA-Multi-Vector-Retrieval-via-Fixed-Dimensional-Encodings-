@@ -1,0 +1,10 @@
+{
+    "query": "What was the fight against Nazi forces called?",
+    "response": [
+        "doc_22581.txt",
+        "doc_23518.txt",
+        "doc_416.txt",
+        "doc_10769.txt",
+        "doc_12630.txt"
+    ]
+}

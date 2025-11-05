@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the twentieth book in the Jack Aubrey series?",
+    "response": [
+        "doc_9032.txt",
+        "doc_4654.txt",
+        "doc_9035.txt",
+        "doc_22259.txt",
+        "doc_22261.txt"
+    ]
+}

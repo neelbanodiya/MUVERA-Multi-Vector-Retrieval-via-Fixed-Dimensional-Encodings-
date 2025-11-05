@@ -1,0 +1,10 @@
+{
+    "query": "Who is the main character in *Riding the Bullet*, and what is his relationship to his mother?",
+    "response": [
+        "doc_2164.txt",
+        "doc_297.txt",
+        "doc_23558.txt",
+        "doc_19692.txt",
+        "doc_14531.txt"
+    ]
+}

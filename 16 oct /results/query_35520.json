@@ -1,0 +1,10 @@
+{
+    "query": "Which Catholic nations were primarily associated with the majority of individuals involved in attempts to assassinate Pope John Paul II?",
+    "response": [
+        "doc_22862.txt",
+        "doc_13531.txt",
+        "doc_23548.txt",
+        "doc_23552.txt",
+        "doc_23317.txt"
+    ]
+}

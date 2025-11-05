@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was Denis Diderot\u2019s profession besides being a theoretician and art critic?",
+    "response": [
+        "doc_20265.txt",
+        "doc_21384.txt",
+        "doc_7648.txt",
+        "doc_10759.txt",
+        "doc_3935.txt"
+    ]
+}

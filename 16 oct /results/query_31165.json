@@ -1,0 +1,10 @@
+{
+    "query": "In what county is the Elias H. Geiger House located?",
+    "response": [
+        "doc_18154.txt",
+        "doc_18155.txt",
+        "doc_18156.txt",
+        "doc_20219.txt",
+        "doc_337.txt"
+    ]
+}

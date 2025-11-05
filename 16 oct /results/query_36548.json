@@ -1,0 +1,10 @@
+{
+    "query": "Which committee is responsible for the \u201cAgreement between the EC and Armenia on certain aspects of air services\u201d?",
+    "response": [
+        "doc_23541.txt",
+        "doc_7966.txt",
+        "doc_2227.txt",
+        "doc_23542.txt",
+        "doc_5453.txt"
+    ]
+}

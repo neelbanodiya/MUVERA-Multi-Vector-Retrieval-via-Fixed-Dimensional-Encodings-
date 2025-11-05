@@ -1,0 +1,10 @@
+{
+    "query": "What year was WrestleMania 2 held, and what was unusual about its timing compared to other WrestleManias?",
+    "response": [
+        "doc_12260.txt",
+        "doc_12258.txt",
+        "doc_12259.txt",
+        "doc_13010.txt",
+        "doc_13008.txt"
+    ]
+}

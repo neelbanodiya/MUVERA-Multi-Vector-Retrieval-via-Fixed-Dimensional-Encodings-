@@ -1,0 +1,10 @@
+{
+    "query": "Which specific funds are included within the Structural and Cohesion Funds, and what is their overall purpose?",
+    "response": [
+        "doc_17499.txt",
+        "doc_3247.txt",
+        "doc_10889.txt",
+        "doc_12943.txt",
+        "doc_5288.txt"
+    ]
+}

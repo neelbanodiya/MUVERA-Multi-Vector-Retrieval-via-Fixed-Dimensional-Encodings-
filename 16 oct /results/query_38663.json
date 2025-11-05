@@ -1,0 +1,10 @@
+{
+    "query": "Besides the Parthenon, what other ancient structures were located on the south slope of the Acropolis hill?",
+    "response": [
+        "doc_22658.txt",
+        "doc_22657.txt",
+        "doc_5417.txt",
+        "doc_8683.txt",
+        "doc_5418.txt"
+    ]
+}

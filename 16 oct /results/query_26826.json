@@ -1,0 +1,10 @@
+{
+    "query": "Which committee has Jo Leinen as its Constitutional Affairs Chair?",
+    "response": [
+        "doc_15568.txt",
+        "doc_17348.txt",
+        "doc_17349.txt",
+        "doc_15569.txt",
+        "doc_12314.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Following \u201cSaludos Amigos,\u201d what was the order of the subsequent Disney package films released in the 1940s?",
+    "response": [
+        "doc_9892.txt",
+        "doc_9894.txt",
+        "doc_9893.txt",
+        "doc_9891.txt",
+        "doc_10968.txt"
+    ]
+}

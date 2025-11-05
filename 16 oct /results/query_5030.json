@@ -1,0 +1,10 @@
+{
+    "query": "What was the length of copper\u2019s rule in Malta?",
+    "response": [
+        "doc_20843.txt",
+        "doc_2935.txt",
+        "doc_13182.txt",
+        "doc_5489.txt",
+        "doc_6172.txt"
+    ]
+}

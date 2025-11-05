@@ -1,0 +1,10 @@
+{
+    "query": "What was the date of the parliamentary debate and vote regarding Afghanistan?",
+    "response": [
+        "doc_13255.txt",
+        "doc_5135.txt",
+        "doc_5134.txt",
+        "doc_20521.txt",
+        "doc_1035.txt"
+    ]
+}

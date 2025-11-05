@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of the film starring Matt Damon that involved \u201cThe Monuments Men\u201d?",
+    "response": [
+        "doc_14684.txt",
+        "doc_2231.txt",
+        "doc_14626.txt",
+        "doc_14685.txt",
+        "doc_22120.txt"
+    ]
+}

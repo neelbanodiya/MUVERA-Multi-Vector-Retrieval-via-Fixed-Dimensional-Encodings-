@@ -1,0 +1,10 @@
+{
+    "query": "What is the source of four mighty rivers of Asia, as described in one of the passages?",
+    "response": [
+        "doc_4335.txt",
+        "doc_4336.txt",
+        "doc_19234.txt",
+        "doc_22491.txt",
+        "doc_8686.txt"
+    ]
+}

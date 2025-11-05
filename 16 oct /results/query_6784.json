@@ -1,0 +1,10 @@
+{
+    "query": "According to the articles, what is one of the top targets for potential terrorist attacks in Europe?",
+    "response": [
+        "doc_14344.txt",
+        "doc_15131.txt",
+        "doc_22581.txt",
+        "doc_22580.txt",
+        "doc_15493.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate percentage of oil production in Saudi Arabia coming from its giant oil fields?",
+    "response": [
+        "doc_10385.txt",
+        "doc_21441.txt",
+        "doc_16656.txt",
+        "doc_15731.txt",
+        "doc_12031.txt"
+    ]
+}

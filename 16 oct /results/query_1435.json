@@ -1,0 +1,10 @@
+{
+    "query": "What material did Perri use to create a porch trim?",
+    "response": [
+        "doc_10787.txt",
+        "doc_21616.txt",
+        "doc_24106.txt",
+        "doc_20220.txt",
+        "doc_20130.txt"
+    ]
+}

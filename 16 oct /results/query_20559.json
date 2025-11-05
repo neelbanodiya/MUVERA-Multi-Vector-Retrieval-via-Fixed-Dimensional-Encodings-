@@ -1,0 +1,10 @@
+{
+    "query": "What kind of aid was the US military open to providing to Iraq\u2019s government?",
+    "response": [
+        "doc_5139.txt",
+        "doc_4626.txt",
+        "doc_5075.txt",
+        "doc_16482.txt",
+        "doc_4752.txt"
+    ]
+}

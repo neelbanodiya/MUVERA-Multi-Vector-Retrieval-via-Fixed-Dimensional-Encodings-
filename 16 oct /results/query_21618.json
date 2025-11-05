@@ -1,0 +1,10 @@
+{
+    "query": "What type of objects are featured in the Smithsonian Institution\u2019s collection, according to the passage?",
+    "response": [
+        "doc_11054.txt",
+        "doc_8508.txt",
+        "doc_16485.txt",
+        "doc_1298.txt",
+        "doc_8505.txt"
+    ]
+}

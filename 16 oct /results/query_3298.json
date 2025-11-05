@@ -1,0 +1,10 @@
+{
+    "query": "What significant events led to the formation of Lynyrd Skynyrd 1991?",
+    "response": [
+        "doc_9673.txt",
+        "doc_1976.txt",
+        "doc_1483.txt",
+        "doc_20208.txt",
+        "doc_7260.txt"
+    ]
+}

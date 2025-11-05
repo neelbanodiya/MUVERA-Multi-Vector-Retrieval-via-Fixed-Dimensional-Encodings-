@@ -1,0 +1,10 @@
+{
+    "query": "Which Member States are currently facing infringement proceedings from the Commission regarding the transposition of Directive 92/100/EEC?",
+    "response": [
+        "doc_21813.txt",
+        "doc_15125.txt",
+        "doc_9770.txt",
+        "doc_21806.txt",
+        "doc_9884.txt"
+    ]
+}

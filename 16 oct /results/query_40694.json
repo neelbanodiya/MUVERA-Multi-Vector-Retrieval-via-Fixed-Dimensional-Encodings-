@@ -1,0 +1,10 @@
+{
+    "query": "In what film did Pierce Brosnan first play James Bond?",
+    "response": [
+        "doc_23806.txt",
+        "doc_23802.txt",
+        "doc_23803.txt",
+        "doc_23801.txt",
+        "doc_23804.txt"
+    ]
+}

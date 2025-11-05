@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many gallons of water does Los Angeles use annually?",
+    "response": [
+        "doc_3160.txt",
+        "doc_3144.txt",
+        "doc_3146.txt",
+        "doc_3159.txt",
+        "doc_19484.txt"
+    ]
+}

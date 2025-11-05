@@ -1,0 +1,10 @@
+{
+    "query": "Which political movie earned Sean Penn an Oscar win?",
+    "response": [
+        "doc_16179.txt",
+        "doc_16177.txt",
+        "doc_23287.txt",
+        "doc_23280.txt",
+        "doc_23283.txt"
+    ]
+}

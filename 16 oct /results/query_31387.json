@@ -1,0 +1,10 @@
+{
+    "query": "Which teams played in the 1978 NBA Finals, and who won?",
+    "response": [
+        "doc_18338.txt",
+        "doc_18335.txt",
+        "doc_18336.txt",
+        "doc_18337.txt",
+        "doc_10507.txt"
+    ]
+}

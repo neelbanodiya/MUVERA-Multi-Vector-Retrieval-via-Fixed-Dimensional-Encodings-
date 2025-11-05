@@ -1,0 +1,10 @@
+{
+    "query": "What were some of the supplies delivered during the Berlin Airlift (list at least three)?",
+    "response": [
+        "doc_875.txt",
+        "doc_870.txt",
+        "doc_871.txt",
+        "doc_873.txt",
+        "doc_874.txt"
+    ]
+}

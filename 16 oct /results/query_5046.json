@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was a traditional practice during Ancient Roman festivals?",
+    "response": [
+        "doc_3508.txt",
+        "doc_19757.txt",
+        "doc_19770.txt",
+        "doc_20491.txt",
+        "doc_20488.txt"
+    ]
+}

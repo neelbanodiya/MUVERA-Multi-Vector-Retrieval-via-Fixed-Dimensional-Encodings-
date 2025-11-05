@@ -1,0 +1,10 @@
+{
+    "query": "What architectural style emerged in Chicago following the Great Fire of 1871?",
+    "response": [
+        "doc_10086.txt",
+        "doc_10089.txt",
+        "doc_10088.txt",
+        "doc_10087.txt",
+        "doc_6896.txt"
+    ]
+}

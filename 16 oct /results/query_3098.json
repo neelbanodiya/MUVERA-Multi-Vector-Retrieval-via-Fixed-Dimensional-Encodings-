@@ -1,0 +1,10 @@
+{
+    "query": "Which movies were mentioned as having scenes influenced by Harold Lloyd, *What\u2019s Up, Doc?*, and *4 Superman* movies?",
+    "response": [
+        "doc_11147.txt",
+        "doc_18944.txt",
+        "doc_4194.txt",
+        "doc_14577.txt",
+        "doc_19688.txt"
+    ]
+}

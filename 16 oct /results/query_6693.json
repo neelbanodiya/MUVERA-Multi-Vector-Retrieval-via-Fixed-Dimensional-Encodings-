@@ -1,0 +1,10 @@
+{
+    "query": "What musical work did Sergei Rachmaninoff compose, and when did he live in exile?",
+    "response": [
+        "doc_3846.txt",
+        "doc_14187.txt",
+        "doc_20429.txt",
+        "doc_10759.txt",
+        "doc_14188.txt"
+    ]
+}

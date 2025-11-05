@@ -1,0 +1,10 @@
+{
+    "query": "What feature was present at the Liberty Baptist Church?",
+    "response": [
+        "doc_2603.txt",
+        "doc_8696.txt",
+        "doc_8697.txt",
+        "doc_22811.txt",
+        "doc_16630.txt"
+    ]
+}

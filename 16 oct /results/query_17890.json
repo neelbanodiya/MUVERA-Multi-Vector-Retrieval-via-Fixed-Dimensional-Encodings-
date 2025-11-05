@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what television show featured a character named Mr. Mooney?",
+    "response": [
+        "doc_10363.txt",
+        "doc_10349.txt",
+        "doc_9893.txt",
+        "doc_10552.txt",
+        "doc_10553.txt"
+    ]
+}

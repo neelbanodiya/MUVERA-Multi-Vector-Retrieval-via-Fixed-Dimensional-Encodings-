@@ -1,0 +1,10 @@
+{
+    "query": "What specific pilot projects has the Council agreed to support, as outlined in the passage?",
+    "response": [
+        "doc_22188.txt",
+        "doc_17473.txt",
+        "doc_17478.txt",
+        "doc_17510.txt",
+        "doc_13351.txt"
+    ]
+}

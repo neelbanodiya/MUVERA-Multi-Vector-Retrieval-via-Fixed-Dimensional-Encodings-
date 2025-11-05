@@ -1,0 +1,10 @@
+{
+    "query": "Which Regulation was deleted as part of Amendment 136?",
+    "response": [
+        "doc_20779.txt",
+        "doc_20792.txt",
+        "doc_20791.txt",
+        "doc_20774.txt",
+        "doc_20778.txt"
+    ]
+}

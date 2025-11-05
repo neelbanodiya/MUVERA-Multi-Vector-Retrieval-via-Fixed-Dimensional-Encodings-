@@ -1,0 +1,10 @@
+{
+    "query": "What mnemonic device is suggested in the passage to help with learning Roman numerals?",
+    "response": [
+        "doc_14593.txt",
+        "doc_14097.txt",
+        "doc_14589.txt",
+        "doc_14582.txt",
+        "doc_14585.txt"
+    ]
+}

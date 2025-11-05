@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the Mexican beer that is closely related to \u201cCasablanca\u201d?",
+    "response": [
+        "doc_10210.txt",
+        "doc_10209.txt",
+        "doc_10214.txt",
+        "doc_15190.txt",
+        "doc_8789.txt"
+    ]
+}

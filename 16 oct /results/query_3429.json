@@ -1,0 +1,10 @@
+{
+    "query": "Who else died in the 1991 plane crash along with Heinz?",
+    "response": [
+        "doc_2035.txt",
+        "doc_2031.txt",
+        "doc_2033.txt",
+        "doc_2042.txt",
+        "doc_2038.txt"
+    ]
+}

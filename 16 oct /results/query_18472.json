@@ -1,0 +1,10 @@
+{
+    "query": "According to the Salvation Army, what are the key points of their belief system?",
+    "response": [
+        "doc_207.txt",
+        "doc_15757.txt",
+        "doc_22922.txt",
+        "doc_5043.txt",
+        "doc_6325.txt"
+    ]
+}

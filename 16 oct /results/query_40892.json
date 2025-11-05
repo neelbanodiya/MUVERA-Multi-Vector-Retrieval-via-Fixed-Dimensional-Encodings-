@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many Havasupai Indians lived at the location of Supai village?",
+    "response": [
+        "doc_23894.txt",
+        "doc_23889.txt",
+        "doc_23888.txt",
+        "doc_23890.txt",
+        "doc_23893.txt"
+    ]
+}

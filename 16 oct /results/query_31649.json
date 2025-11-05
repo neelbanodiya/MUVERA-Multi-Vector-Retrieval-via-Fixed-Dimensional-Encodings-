@@ -1,0 +1,10 @@
+{
+    "query": "What was Robinson Crusoe focused on thinking about?",
+    "response": [
+        "doc_18463.txt",
+        "doc_17763.txt",
+        "doc_18445.txt",
+        "doc_18451.txt",
+        "doc_18453.txt"
+    ]
+}

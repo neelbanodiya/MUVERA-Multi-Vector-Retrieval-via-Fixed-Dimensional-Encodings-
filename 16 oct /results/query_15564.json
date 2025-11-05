@@ -1,0 +1,10 @@
+{
+    "query": "Charlie lived with Kathleen\u2019s sister, Joanne, while her mom was in prison.",
+    "response": [
+        "doc_19546.txt",
+        "doc_10677.txt",
+        "doc_10551.txt",
+        "doc_16335.txt",
+        "doc_10278.txt"
+    ]
+}

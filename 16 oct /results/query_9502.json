@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what are some of the potential symptoms experienced by individuals sensitive to MSG?",
+    "response": [
+        "doc_10665.txt",
+        "doc_21950.txt",
+        "doc_21955.txt",
+        "doc_22954.txt",
+        "doc_5560.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Besides playing Cosmo Kramer on *Seinfeld*, what other role did Michael Richards take on?",
+    "response": [
+        "doc_4465.txt",
+        "doc_4461.txt",
+        "doc_4463.txt",
+        "doc_4469.txt",
+        "doc_4471.txt"
+    ]
+}

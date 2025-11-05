@@ -1,0 +1,10 @@
+{
+    "query": "When did Pete Rose admit to betting on baseball games?",
+    "response": [
+        "doc_10958.txt",
+        "doc_10957.txt",
+        "doc_10960.txt",
+        "doc_10951.txt",
+        "doc_12447.txt"
+    ]
+}

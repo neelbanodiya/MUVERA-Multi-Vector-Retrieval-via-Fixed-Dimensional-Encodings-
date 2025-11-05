@@ -1,0 +1,10 @@
+{
+    "query": "What type of Camellia varieties are described in the passage?",
+    "response": [
+        "doc_6810.txt",
+        "doc_13154.txt",
+        "doc_19030.txt",
+        "doc_6636.txt",
+        "doc_3691.txt"
+    ]
+}

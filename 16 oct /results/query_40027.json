@@ -1,0 +1,10 @@
+{
+    "query": "When were the jazz drummer Elvin Jones\u2019 performances recorded?",
+    "response": [
+        "doc_9456.txt",
+        "doc_23435.txt",
+        "doc_23434.txt",
+        "doc_9455.txt",
+        "doc_1961.txt"
+    ]
+}

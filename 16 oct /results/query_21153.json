@@ -1,0 +1,10 @@
+{
+    "query": "What is the current status of the former Danish ferry \u2018Kong Frederik IX\u2019 now known as \u2018Ricky\u2019?",
+    "response": [
+        "doc_12225.txt",
+        "doc_12034.txt",
+        "doc_21082.txt",
+        "doc_12035.txt",
+        "doc_4682.txt"
+    ]
+}

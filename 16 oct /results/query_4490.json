@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of young people infected with HIV are women and girls?",
+    "response": [
+        "doc_3935.txt",
+        "doc_3683.txt",
+        "doc_14158.txt",
+        "doc_3252.txt",
+        "doc_17261.txt"
+    ]
+}

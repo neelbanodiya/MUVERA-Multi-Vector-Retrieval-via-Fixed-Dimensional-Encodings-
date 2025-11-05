@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was Markus Wolf\u2019s assessment of Willy Brandt\u2019s downfall?",
+    "response": [
+        "doc_16997.txt",
+        "doc_14185.txt",
+        "doc_554.txt",
+        "doc_20569.txt",
+        "doc_14184.txt"
+    ]
+}

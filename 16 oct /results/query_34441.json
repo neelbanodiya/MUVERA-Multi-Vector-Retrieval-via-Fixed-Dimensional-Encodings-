@@ -1,0 +1,10 @@
+{
+    "query": "What actions has the European Commission taken to address high cereal prices within the EU market?",
+    "response": [
+        "doc_20028.txt",
+        "doc_15032.txt",
+        "doc_24185.txt",
+        "doc_16227.txt",
+        "doc_2551.txt"
+    ]
+}

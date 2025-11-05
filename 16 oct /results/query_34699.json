@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Nike become a struggling shoe company?",
+    "response": [
+        "doc_20203.txt",
+        "doc_12193.txt",
+        "doc_12645.txt",
+        "doc_3676.txt",
+        "doc_12191.txt"
+    ]
+}

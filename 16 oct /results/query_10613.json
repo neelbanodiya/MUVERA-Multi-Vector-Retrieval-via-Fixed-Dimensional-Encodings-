@@ -1,0 +1,10 @@
+{
+    "query": "What was Freud working on during some sleepless nights between 1896 and 1899?",
+    "response": [
+        "doc_6142.txt",
+        "doc_6144.txt",
+        "doc_6143.txt",
+        "doc_6146.txt",
+        "doc_6147.txt"
+    ]
+}

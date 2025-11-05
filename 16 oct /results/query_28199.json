@@ -1,0 +1,10 @@
+{
+    "query": "What food item is named after a botanist and Anaheim park superintendent?",
+    "response": [
+        "doc_14367.txt",
+        "doc_16380.txt",
+        "doc_2859.txt",
+        "doc_8749.txt",
+        "doc_18266.txt"
+    ]
+}

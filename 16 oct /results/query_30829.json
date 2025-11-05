@@ -1,0 +1,10 @@
+{
+    "query": "The passage mentions the United States invaded which country twice?",
+    "response": [
+        "doc_17954.txt",
+        "doc_17955.txt",
+        "doc_9990.txt",
+        "doc_8938.txt",
+        "doc_6502.txt"
+    ]
+}

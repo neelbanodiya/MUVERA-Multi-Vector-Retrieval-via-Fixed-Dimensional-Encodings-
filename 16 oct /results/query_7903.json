@@ -1,0 +1,10 @@
+{
+    "query": "What film was released in 1951 and featured the title \"Fourteen Hours\"?",
+    "response": [
+        "doc_4587.txt",
+        "doc_14780.txt",
+        "doc_7765.txt",
+        "doc_5324.txt",
+        "doc_12347.txt"
+    ]
+}

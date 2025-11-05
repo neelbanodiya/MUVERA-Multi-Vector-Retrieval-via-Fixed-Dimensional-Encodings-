@@ -1,0 +1,10 @@
+{
+    "query": "What is the bark of the Texas sugarberry described as?",
+    "response": [
+        "doc_4226.txt",
+        "doc_2271.txt",
+        "doc_15189.txt",
+        "doc_4220.txt",
+        "doc_15190.txt"
+    ]
+}

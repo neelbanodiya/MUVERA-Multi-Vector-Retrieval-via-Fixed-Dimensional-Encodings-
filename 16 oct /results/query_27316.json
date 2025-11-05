@@ -1,0 +1,10 @@
+{
+    "query": "What was the estimated population of Amarillo, Texas, in 2016?",
+    "response": [
+        "doc_15881.txt",
+        "doc_15882.txt",
+        "doc_15880.txt",
+        "doc_22507.txt",
+        "doc_2259.txt"
+    ]
+}

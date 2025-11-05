@@ -1,0 +1,10 @@
+{
+    "query": "Besides *Citizen Kane*, what other films directed by Orson Welles are specifically mentioned in the provided text?",
+    "response": [
+        "doc_7767.txt",
+        "doc_7768.txt",
+        "doc_7766.txt",
+        "doc_4916.txt",
+        "doc_7765.txt"
+    ]
+}

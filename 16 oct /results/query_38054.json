@@ -1,0 +1,10 @@
+{
+    "query": "Which fairy tales are featured in the musical *Into the Woods*?",
+    "response": [
+        "doc_22312.txt",
+        "doc_22316.txt",
+        "doc_22313.txt",
+        "doc_22319.txt",
+        "doc_22308.txt"
+    ]
+}

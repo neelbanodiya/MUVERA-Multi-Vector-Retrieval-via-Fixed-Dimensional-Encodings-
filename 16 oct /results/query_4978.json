@@ -1,0 +1,10 @@
+{
+    "query": "What types of U.S. currency were issued between August 1861 and August 5th last?",
+    "response": [
+        "doc_2904.txt",
+        "doc_2947.txt",
+        "doc_5912.txt",
+        "doc_19842.txt",
+        "doc_21641.txt"
+    ]
+}

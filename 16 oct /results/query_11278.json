@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many gallons of crude oil were spilled as a result of the Exxon Valdez grounding?",
+    "response": [
+        "doc_6530.txt",
+        "doc_10694.txt",
+        "doc_10695.txt",
+        "doc_6531.txt",
+        "doc_6533.txt"
+    ]
+}

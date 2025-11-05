@@ -1,0 +1,10 @@
+{
+    "query": "What position did Richard Nixon hold after losing the 1960 presidential election to John F. Kennedy?",
+    "response": [
+        "doc_22759.txt",
+        "doc_3807.txt",
+        "doc_22755.txt",
+        "doc_22758.txt",
+        "doc_22756.txt"
+    ]
+}

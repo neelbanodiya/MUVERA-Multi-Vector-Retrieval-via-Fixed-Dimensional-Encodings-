@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what role did African-Americans play during the American Civil War?",
+    "response": [
+        "doc_4977.txt",
+        "doc_5882.txt",
+        "doc_4968.txt",
+        "doc_12531.txt",
+        "doc_4505.txt"
+    ]
+}

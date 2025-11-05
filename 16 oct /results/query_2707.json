@@ -1,0 +1,10 @@
+{
+    "query": "On what date did the war in the Pacific officially end, as mentioned in the passage?",
+    "response": [
+        "doc_207.txt",
+        "doc_23877.txt",
+        "doc_16466.txt",
+        "doc_10049.txt",
+        "doc_20526.txt"
+    ]
+}

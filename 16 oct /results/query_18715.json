@@ -1,0 +1,10 @@
+{
+    "query": "What role did Hippolyta play in the Amazon nation, according to the provided text?",
+    "response": [
+        "doc_10866.txt",
+        "doc_1306.txt",
+        "doc_23036.txt",
+        "doc_14775.txt",
+        "doc_16560.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was a characteristic of the opening paragraph of *The Big Sleep*?",
+    "response": [
+        "doc_19142.txt",
+        "doc_1125.txt",
+        "doc_1849.txt",
+        "doc_12597.txt",
+        "doc_18245.txt"
+    ]
+}

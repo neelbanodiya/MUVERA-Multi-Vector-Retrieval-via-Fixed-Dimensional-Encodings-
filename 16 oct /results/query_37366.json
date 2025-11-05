@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Alexander Calder paint a fish on a Braniff Douglas DC-8?",
+    "response": [
+        "doc_21888.txt",
+        "doc_21894.txt",
+        "doc_21887.txt",
+        "doc_21893.txt",
+        "doc_21892.txt"
+    ]
+}

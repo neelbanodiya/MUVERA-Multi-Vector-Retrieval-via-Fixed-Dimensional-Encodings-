@@ -1,0 +1,10 @@
+{
+    "query": "What type of natural treasures can be found on Florida beaches, according to one of the linked articles?",
+    "response": [
+        "doc_14196.txt",
+        "doc_7275.txt",
+        "doc_4896.txt",
+        "doc_2749.txt",
+        "doc_16911.txt"
+    ]
+}

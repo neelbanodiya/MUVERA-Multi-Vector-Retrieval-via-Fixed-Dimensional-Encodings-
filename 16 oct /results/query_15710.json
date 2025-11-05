@@ -1,0 +1,10 @@
+{
+    "query": "What is Fort Pickering, and when was its construction begun?",
+    "response": [
+        "doc_10049.txt",
+        "doc_9109.txt",
+        "doc_19974.txt",
+        "doc_16690.txt",
+        "doc_19971.txt"
+    ]
+}

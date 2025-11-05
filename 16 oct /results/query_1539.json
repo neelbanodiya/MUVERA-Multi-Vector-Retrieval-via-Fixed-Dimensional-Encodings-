@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many people were reliant on the supplies delivered during the Berlin Airlift?",
+    "response": [
+        "doc_875.txt",
+        "doc_882.txt",
+        "doc_881.txt",
+        "doc_874.txt",
+        "doc_871.txt"
+    ]
+}

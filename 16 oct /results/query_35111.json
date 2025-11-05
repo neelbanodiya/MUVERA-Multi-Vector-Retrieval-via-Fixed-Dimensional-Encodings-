@@ -1,0 +1,10 @@
+{
+    "query": "What is the birthplace of the lyric poet Sappho?",
+    "response": [
+        "doc_20466.txt",
+        "doc_20467.txt",
+        "doc_20482.txt",
+        "doc_20470.txt",
+        "doc_20472.txt"
+    ]
+}

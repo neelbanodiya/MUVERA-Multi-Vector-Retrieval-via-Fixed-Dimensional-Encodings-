@@ -1,0 +1,10 @@
+{
+    "query": "Besides *Citizen Kane* and *The Magnificent Ambersons*, which other film was considered \u201cpopular\u201d by one source?",
+    "response": [
+        "doc_7766.txt",
+        "doc_7768.txt",
+        "doc_7767.txt",
+        "doc_4194.txt",
+        "doc_22108.txt"
+    ]
+}

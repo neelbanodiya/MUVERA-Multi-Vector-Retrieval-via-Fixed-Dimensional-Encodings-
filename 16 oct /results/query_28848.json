@@ -1,0 +1,10 @@
+{
+    "query": "According to the agreement, what percentage of imports from the Republic of C\u00f4te d'Ivoire will be liberalized over the next 15 years?",
+    "response": [
+        "doc_16819.txt",
+        "doc_16821.txt",
+        "doc_16822.txt",
+        "doc_4034.txt",
+        "doc_16818.txt"
+    ]
+}

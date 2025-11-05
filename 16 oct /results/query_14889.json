@@ -1,0 +1,10 @@
+{
+    "query": "Besides the Hofburg Palace, what other former imperial property are state-owned and now available for regular people to live in?",
+    "response": [
+        "doc_8643.txt",
+        "doc_8647.txt",
+        "doc_8645.txt",
+        "doc_8633.txt",
+        "doc_8637.txt"
+    ]
+}

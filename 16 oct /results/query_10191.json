@@ -1,0 +1,10 @@
+{
+    "query": "What event in 1969 led to the proposal for a coin honoring Dwight D. Eisenhower?",
+    "response": [
+        "doc_5910.txt",
+        "doc_5912.txt",
+        "doc_5911.txt",
+        "doc_5925.txt",
+        "doc_5926.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which country claims the area west of the Essequibo River?",
+    "response": [
+        "doc_12986.txt",
+        "doc_12985.txt",
+        "doc_4336.txt",
+        "doc_4340.txt",
+        "doc_4335.txt"
+    ]
+}

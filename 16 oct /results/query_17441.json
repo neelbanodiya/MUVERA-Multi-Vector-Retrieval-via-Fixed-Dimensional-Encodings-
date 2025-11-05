@@ -1,0 +1,10 @@
+{
+    "query": "What method was used to excavate shafts for the new structures in Chicago?",
+    "response": [
+        "doc_5418.txt",
+        "doc_10091.txt",
+        "doc_9595.txt",
+        "doc_5420.txt",
+        "doc_3878.txt"
+    ]
+}

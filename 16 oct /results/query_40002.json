@@ -1,0 +1,10 @@
+{
+    "query": "What is the official language spoken in Brazil?",
+    "response": [
+        "doc_10934.txt",
+        "doc_23854.txt",
+        "doc_1227.txt",
+        "doc_23850.txt",
+        "doc_23848.txt"
+    ]
+}

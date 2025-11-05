@@ -1,0 +1,10 @@
+{
+    "query": "Steve Fox works with the History Channel camera crew, specifically on an episode about what crop?",
+    "response": [
+        "doc_2124.txt",
+        "doc_15702.txt",
+        "doc_17422.txt",
+        "doc_5216.txt",
+        "doc_10580.txt"
+    ]
+}

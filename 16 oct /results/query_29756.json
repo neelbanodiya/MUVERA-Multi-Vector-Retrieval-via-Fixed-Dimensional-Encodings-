@@ -1,0 +1,10 @@
+{
+    "query": "What college did both Randolph and Monroe attend?",
+    "response": [
+        "doc_2651.txt",
+        "doc_17282.txt",
+        "doc_14753.txt",
+        "doc_17285.txt",
+        "doc_14754.txt"
+    ]
+}

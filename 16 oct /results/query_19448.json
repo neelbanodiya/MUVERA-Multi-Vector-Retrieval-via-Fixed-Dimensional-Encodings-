@@ -1,0 +1,10 @@
+{
+    "query": "When did the Sugar Bowl move from Tulane Stadium to the Louisiana Superdome?",
+    "response": [
+        "doc_11259.txt",
+        "doc_11255.txt",
+        "doc_11268.txt",
+        "doc_11258.txt",
+        "doc_11257.txt"
+    ]
+}

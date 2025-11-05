@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cThe Girl on the Train\u201d (the film) released?",
+    "response": [
+        "doc_18659.txt",
+        "doc_14780.txt",
+        "doc_7513.txt",
+        "doc_9892.txt",
+        "doc_1811.txt"
+    ]
+}

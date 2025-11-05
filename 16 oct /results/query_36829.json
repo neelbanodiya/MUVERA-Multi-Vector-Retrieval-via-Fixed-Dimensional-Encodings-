@@ -1,0 +1,10 @@
+{
+    "query": "How many years did Hans Holbein the Younger work at the court of Henry VIII?",
+    "response": [
+        "doc_21505.txt",
+        "doc_21500.txt",
+        "doc_21504.txt",
+        "doc_21503.txt",
+        "doc_21516.txt"
+    ]
+}

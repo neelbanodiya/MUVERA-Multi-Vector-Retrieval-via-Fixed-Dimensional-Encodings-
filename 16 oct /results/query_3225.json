@@ -1,0 +1,10 @@
+{
+    "query": "What specific contest did John Henry participate in, and what was he attempting to do?",
+    "response": [
+        "doc_1941.txt",
+        "doc_1954.txt",
+        "doc_1953.txt",
+        "doc_1945.txt",
+        "doc_1950.txt"
+    ]
+}

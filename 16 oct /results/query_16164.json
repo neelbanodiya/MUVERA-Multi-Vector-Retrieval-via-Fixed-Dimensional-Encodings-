@@ -1,0 +1,10 @@
+{
+    "query": "What unifying characteristic do Bacillus species share according to the provided text?",
+    "response": [
+        "doc_2271.txt",
+        "doc_21353.txt",
+        "doc_9343.txt",
+        "doc_8225.txt",
+        "doc_12885.txt"
+    ]
+}

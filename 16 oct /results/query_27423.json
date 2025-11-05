@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what was the official Israeli position regarding the displacement of Palestinian refugees?",
+    "response": [
+        "doc_12515.txt",
+        "doc_14638.txt",
+        "doc_14055.txt",
+        "doc_6668.txt",
+        "doc_22719.txt"
+    ]
+}

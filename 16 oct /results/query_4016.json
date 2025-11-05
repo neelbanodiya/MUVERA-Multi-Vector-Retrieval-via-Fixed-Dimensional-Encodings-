@@ -1,0 +1,10 @@
+{
+    "query": "Which song inspired Taylor Swift to title her second studio album, \u201cFearless\u201d?",
+    "response": [
+        "doc_2347.txt",
+        "doc_2346.txt",
+        "doc_3339.txt",
+        "doc_6766.txt",
+        "doc_14724.txt"
+    ]
+}

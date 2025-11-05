@@ -1,0 +1,10 @@
+{
+    "query": "What is the book \u201cMidnight in the Garden of Good and Evil\u201d based on, and who wrote it?",
+    "response": [
+        "doc_9598.txt",
+        "doc_9600.txt",
+        "doc_1294.txt",
+        "doc_9599.txt",
+        "doc_9601.txt"
+    ]
+}

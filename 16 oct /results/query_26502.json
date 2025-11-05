@@ -1,0 +1,10 @@
+{
+    "query": "Which authors are mentioned alongside the name \"Cooper\"?",
+    "response": [
+        "doc_17762.txt",
+        "doc_20130.txt",
+        "doc_1450.txt",
+        "doc_14082.txt",
+        "doc_14088.txt"
+    ]
+}

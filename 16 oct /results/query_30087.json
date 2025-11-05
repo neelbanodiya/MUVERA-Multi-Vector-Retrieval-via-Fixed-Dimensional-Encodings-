@@ -1,0 +1,10 @@
+{
+    "query": "Which action related to the audiovisual industry had a 100% funding rate in the \u201cMedia Plus\u201d category?",
+    "response": [
+        "doc_23001.txt",
+        "doc_19418.txt",
+        "doc_6658.txt",
+        "doc_22227.txt",
+        "doc_22981.txt"
+    ]
+}

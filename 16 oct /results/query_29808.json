@@ -1,0 +1,10 @@
+{
+    "query": "What was the record price paid for Bank of America Plaza?",
+    "response": [
+        "doc_17317.txt",
+        "doc_17314.txt",
+        "doc_17313.txt",
+        "doc_17315.txt",
+        "doc_17316.txt"
+    ]
+}

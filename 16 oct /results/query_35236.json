@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, in what year did Charles Dickens begin publishing *Oliver Twist*?",
+    "response": [
+        "doc_20552.txt",
+        "doc_20549.txt",
+        "doc_20548.txt",
+        "doc_11911.txt",
+        "doc_20551.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What organizations fund the International Council on Clean Transportation?",
+    "response": [
+        "doc_12225.txt",
+        "doc_21726.txt",
+        "doc_4626.txt",
+        "doc_4697.txt",
+        "doc_22712.txt"
+    ]
+}

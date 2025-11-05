@@ -1,0 +1,10 @@
+{
+    "query": "In 2013, what were The Beach Boys doing in celebration of a 50th anniversary?",
+    "response": [
+        "doc_21147.txt",
+        "doc_1882.txt",
+        "doc_19392.txt",
+        "doc_97.txt",
+        "doc_102.txt"
+    ]
+}

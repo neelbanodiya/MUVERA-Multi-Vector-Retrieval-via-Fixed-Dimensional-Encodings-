@@ -1,0 +1,10 @@
+{
+    "query": "How did Dr. McCoy unintentionally contribute to a situation involving a fake GPS signal?",
+    "response": [
+        "doc_5674.txt",
+        "doc_1480.txt",
+        "doc_5686.txt",
+        "doc_22918.txt",
+        "doc_19090.txt"
+    ]
+}

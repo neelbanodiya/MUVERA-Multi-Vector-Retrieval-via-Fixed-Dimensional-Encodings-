@@ -1,0 +1,10 @@
+{
+    "query": "What types of research are requested to be conducted under the Seventh Framework Programme, with the goal of reducing pollutant emissions?",
+    "response": [
+        "doc_181.txt",
+        "doc_12936.txt",
+        "doc_5232.txt",
+        "doc_21120.txt",
+        "doc_23639.txt"
+    ]
+}

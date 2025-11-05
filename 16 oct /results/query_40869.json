@@ -1,0 +1,10 @@
+{
+    "query": "What phrases are repeatedly associated with the signing of the Declaration of Independence, referencing reliance on \u201cdivine Providence\u201d and pledges of \u201cLives, Fortunes, and sacred Honor\u201d?",
+    "response": [
+        "doc_23881.txt",
+        "doc_23875.txt",
+        "doc_23877.txt",
+        "doc_9442.txt",
+        "doc_15286.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "For what television series did Michael Richards wear the same shoes as on *Curb Your Enthusiasm*?",
+    "response": [
+        "doc_4459.txt",
+        "doc_4466.txt",
+        "doc_19608.txt",
+        "doc_15063.txt",
+        "doc_18840.txt"
+    ]
+}

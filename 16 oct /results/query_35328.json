@@ -1,0 +1,10 @@
+{
+    "query": "What is Mrs. Claus\u2019s profession, according to the provided text?",
+    "response": [
+        "doc_12949.txt",
+        "doc_12953.txt",
+        "doc_16710.txt",
+        "doc_14546.txt",
+        "doc_3533.txt"
+    ]
+}

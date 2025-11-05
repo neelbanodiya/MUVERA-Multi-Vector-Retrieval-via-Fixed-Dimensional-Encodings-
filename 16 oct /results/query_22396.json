@@ -1,0 +1,10 @@
+{
+    "query": "From whose perspective is the \u201cBurke\u201d series written?",
+    "response": [
+        "doc_12903.txt",
+        "doc_4654.txt",
+        "doc_7878.txt",
+        "doc_20546.txt",
+        "doc_14860.txt"
+    ]
+}

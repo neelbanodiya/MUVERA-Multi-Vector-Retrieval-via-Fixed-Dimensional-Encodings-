@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what types of media were associated with the film *The Big Fisherman*?",
+    "response": [
+        "doc_13075.txt",
+        "doc_10027.txt",
+        "doc_8801.txt",
+        "doc_14577.txt",
+        "doc_5323.txt"
+    ]
+}

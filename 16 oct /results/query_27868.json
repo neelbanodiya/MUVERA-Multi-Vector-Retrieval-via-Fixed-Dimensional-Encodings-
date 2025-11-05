@@ -1,0 +1,10 @@
+{
+    "query": "What architectural landmark is located at the top of Wenceslas Square in Prague?",
+    "response": [
+        "doc_16211.txt",
+        "doc_2539.txt",
+        "doc_16209.txt",
+        "doc_16214.txt",
+        "doc_16213.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What event draws thousands of tourists to a northern Philippine village, where devotees crucify themselves on Good Friday?",
+    "response": [
+        "doc_102.txt",
+        "doc_6835.txt",
+        "doc_96.txt",
+        "doc_13527.txt",
+        "doc_94.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who directed *The Lost World: Jurassic Park* (1997)?",
+    "response": [
+        "doc_12878.txt",
+        "doc_12879.txt",
+        "doc_12869.txt",
+        "doc_12876.txt",
+        "doc_12872.txt"
+    ]
+}

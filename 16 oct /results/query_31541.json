@@ -1,0 +1,10 @@
+{
+    "query": "What hymn did Martin Luther write, and what is its title?",
+    "response": [
+        "doc_18403.txt",
+        "doc_18414.txt",
+        "doc_18419.txt",
+        "doc_18408.txt",
+        "doc_18404.txt"
+    ]
+}

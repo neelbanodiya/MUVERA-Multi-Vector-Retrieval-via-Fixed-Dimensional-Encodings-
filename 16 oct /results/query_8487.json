@@ -1,0 +1,10 @@
+{
+    "query": "Which category did the Coen brothers win an Academy Award for in 1996?",
+    "response": [
+        "doc_23281.txt",
+        "doc_4919.txt",
+        "doc_23282.txt",
+        "doc_4909.txt",
+        "doc_23284.txt"
+    ]
+}

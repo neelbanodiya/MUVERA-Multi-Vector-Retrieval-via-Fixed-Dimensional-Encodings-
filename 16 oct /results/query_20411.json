@@ -1,0 +1,10 @@
+{
+    "query": "According to the CoroCoro Comic article, what is a key factor in the success of the *Pok\u00e9mon* franchise in Japan?",
+    "response": [
+        "doc_792.txt",
+        "doc_788.txt",
+        "doc_7145.txt",
+        "doc_2246.txt",
+        "doc_7130.txt"
+    ]
+}

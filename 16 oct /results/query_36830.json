@@ -1,0 +1,10 @@
+{
+    "query": "Who was named one of Henry VIII\u2019s counselors and served as his ambassador for three years?",
+    "response": [
+        "doc_21514.txt",
+        "doc_21513.txt",
+        "doc_21515.txt",
+        "doc_21518.txt",
+        "doc_21252.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who did Jerry live across the hall from in the pilot of \"Seinfeld\"?",
+    "response": [
+        "doc_478.txt",
+        "doc_479.txt",
+        "doc_487.txt",
+        "doc_480.txt",
+        "doc_481.txt"
+    ]
+}

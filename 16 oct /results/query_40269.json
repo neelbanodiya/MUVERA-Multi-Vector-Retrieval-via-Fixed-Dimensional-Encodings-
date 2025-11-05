@@ -1,0 +1,10 @@
+{
+    "query": "Which actors appeared in the film *Hush, Sweet Charlotte*?",
+    "response": [
+        "doc_23557.txt",
+        "doc_23558.txt",
+        "doc_16653.txt",
+        "doc_6005.txt",
+        "doc_14576.txt"
+    ]
+}

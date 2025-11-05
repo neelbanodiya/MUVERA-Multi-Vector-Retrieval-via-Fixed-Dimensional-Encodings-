@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which Democratic candidate ran for Vice President in 1856, and what was his previous political role?",
+    "response": [
+        "doc_16806.txt",
+        "doc_2763.txt",
+        "doc_16811.txt",
+        "doc_16810.txt",
+        "doc_16807.txt"
+    ]
+}

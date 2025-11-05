@@ -1,0 +1,10 @@
+{
+    "query": "Where was Porter Wagoner born, and what rivers roughly bound the Ozark region?",
+    "response": [
+        "doc_16340.txt",
+        "doc_19205.txt",
+        "doc_23888.txt",
+        "doc_1654.txt",
+        "doc_8925.txt"
+    ]
+}

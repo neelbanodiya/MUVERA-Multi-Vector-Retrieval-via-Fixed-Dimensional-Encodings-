@@ -1,0 +1,10 @@
+{
+    "query": "Victor Sifuentes played on \u201cL.A. Law\u201d.",
+    "response": [
+        "doc_10722.txt",
+        "doc_10719.txt",
+        "doc_10723.txt",
+        "doc_10720.txt",
+        "doc_10727.txt"
+    ]
+}

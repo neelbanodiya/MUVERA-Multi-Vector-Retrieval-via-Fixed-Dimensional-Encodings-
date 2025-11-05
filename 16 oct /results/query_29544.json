@@ -1,0 +1,10 @@
+{
+    "query": "What song did Granny frequently mention as her favorite?",
+    "response": [
+        "doc_17181.txt",
+        "doc_17179.txt",
+        "doc_17177.txt",
+        "doc_17172.txt",
+        "doc_22737.txt"
+    ]
+}

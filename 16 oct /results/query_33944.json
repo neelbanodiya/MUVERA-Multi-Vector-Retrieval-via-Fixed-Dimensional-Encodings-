@@ -1,0 +1,10 @@
+{
+    "query": "What historical event does Hanukkah commemorate?",
+    "response": [
+        "doc_19768.txt",
+        "doc_19761.txt",
+        "doc_19770.txt",
+        "doc_19765.txt",
+        "doc_19756.txt"
+    ]
+}

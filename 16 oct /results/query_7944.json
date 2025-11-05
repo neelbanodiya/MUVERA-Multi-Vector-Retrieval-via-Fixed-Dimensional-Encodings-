@@ -1,0 +1,10 @@
+{
+    "query": "Besides being a university, what is Oral Roberts University described as in relation to Tulsa?",
+    "response": [
+        "doc_4609.txt",
+        "doc_4608.txt",
+        "doc_4610.txt",
+        "doc_4607.txt",
+        "doc_4614.txt"
+    ]
+}

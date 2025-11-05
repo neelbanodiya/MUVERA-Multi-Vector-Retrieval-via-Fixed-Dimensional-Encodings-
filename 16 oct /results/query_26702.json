@@ -1,0 +1,10 @@
+{
+    "query": "How many gold medals did Team Canada win at the Vancouver Winter Olympics?",
+    "response": [
+        "doc_15506.txt",
+        "doc_15504.txt",
+        "doc_15505.txt",
+        "doc_15508.txt",
+        "doc_15512.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of item did the ceramic Dalmatians become after the format change?",
+    "response": [
+        "doc_20875.txt",
+        "doc_5081.txt",
+        "doc_3692.txt",
+        "doc_3872.txt",
+        "doc_18500.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary focus of the book \u201cSpain in Our Hearts\u201d?",
+    "response": [
+        "doc_5100.txt",
+        "doc_5101.txt",
+        "doc_17879.txt",
+        "doc_15890.txt",
+        "doc_1002.txt"
+    ]
+}

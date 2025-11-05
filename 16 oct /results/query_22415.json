@@ -1,0 +1,10 @@
+{
+    "query": "What happened in Paris on October 1, 1997 regarding motorists?",
+    "response": [
+        "doc_20187.txt",
+        "doc_17636.txt",
+        "doc_24066.txt",
+        "doc_9675.txt",
+        "doc_18574.txt"
+    ]
+}

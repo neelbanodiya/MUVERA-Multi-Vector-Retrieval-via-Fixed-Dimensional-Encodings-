@@ -1,0 +1,10 @@
+{
+    "query": "What region\u2019s trade relations was the EU discussing?",
+    "response": [
+        "doc_12781.txt",
+        "doc_19523.txt",
+        "doc_3209.txt",
+        "doc_17208.txt",
+        "doc_8716.txt"
+    ]
+}

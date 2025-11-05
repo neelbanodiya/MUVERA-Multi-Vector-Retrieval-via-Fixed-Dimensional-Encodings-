@@ -1,0 +1,10 @@
+{
+    "query": "What Ramones albums were released in 1977?",
+    "response": [
+        "doc_16702.txt",
+        "doc_16703.txt",
+        "doc_16701.txt",
+        "doc_16704.txt",
+        "doc_16705.txt"
+    ]
+}

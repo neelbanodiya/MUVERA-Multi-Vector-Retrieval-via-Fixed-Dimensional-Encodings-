@@ -1,0 +1,10 @@
+{
+    "query": "What are the names of William Blake\u2019s two famous collections of poetry mentioned in the text?",
+    "response": [
+        "doc_3820.txt",
+        "doc_14658.txt",
+        "doc_19952.txt",
+        "doc_4170.txt",
+        "doc_5507.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What does the passage call on the Commission to do regarding environmental protection in China?",
+    "response": [
+        "doc_18122.txt",
+        "doc_18121.txt",
+        "doc_12897.txt",
+        "doc_18123.txt",
+        "doc_22390.txt"
+    ]
+}

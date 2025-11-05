@@ -1,0 +1,10 @@
+{
+    "query": "In *Superman III*, what character did Kristin Kreuk portray?",
+    "response": [
+        "doc_501.txt",
+        "doc_6751.txt",
+        "doc_7071.txt",
+        "doc_7769.txt",
+        "doc_22746.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What task did Laurence Housman undertake regarding Christina Rossetti\u2019s poems?",
+    "response": [
+        "doc_6305.txt",
+        "doc_6298.txt",
+        "doc_6312.txt",
+        "doc_6303.txt",
+        "doc_6300.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the texts, what is the Latin equivalent of adding \"-ly\" to an adjective base, and how does it function?",
+    "response": [
+        "doc_20883.txt",
+        "doc_20876.txt",
+        "doc_20891.txt",
+        "doc_20889.txt",
+        "doc_9042.txt"
+    ]
+}

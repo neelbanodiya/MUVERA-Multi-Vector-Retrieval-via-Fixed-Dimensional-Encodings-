@@ -1,0 +1,10 @@
+{
+    "query": "What specific measures are supported by an appropriation of EUR 5,000, according to the Financial Regulation?",
+    "response": [
+        "doc_22205.txt",
+        "doc_22204.txt",
+        "doc_22224.txt",
+        "doc_22228.txt",
+        "doc_22213.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate cost per year to operate the yacht owned by Donald Trump, as mentioned in a Boston Globe article?",
+    "response": [
+        "doc_21341.txt",
+        "doc_7368.txt",
+        "doc_21112.txt",
+        "doc_6856.txt",
+        "doc_16834.txt"
+    ]
+}

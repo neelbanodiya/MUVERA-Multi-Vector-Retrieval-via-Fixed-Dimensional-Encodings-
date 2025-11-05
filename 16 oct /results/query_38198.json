@@ -1,0 +1,10 @@
+{
+    "query": "For how many years did Egypt dominate the cities mentioned in the passage?",
+    "response": [
+        "doc_11055.txt",
+        "doc_22403.txt",
+        "doc_8792.txt",
+        "doc_8351.txt",
+        "doc_512.txt"
+    ]
+}

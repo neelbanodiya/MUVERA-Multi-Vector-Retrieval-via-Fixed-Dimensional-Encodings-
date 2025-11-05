@@ -1,0 +1,10 @@
+{
+    "query": "What happened to a Chinese junk carrying an embassy off the coast of Calicut in 1342?",
+    "response": [
+        "doc_19234.txt",
+        "doc_19238.txt",
+        "doc_19236.txt",
+        "doc_19233.txt",
+        "doc_19235.txt"
+    ]
+}

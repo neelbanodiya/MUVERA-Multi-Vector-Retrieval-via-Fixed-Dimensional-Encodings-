@@ -1,0 +1,10 @@
+{
+    "query": "During which war did George Washington gain command experience?",
+    "response": [
+        "doc_4016.txt",
+        "doc_46.txt",
+        "doc_4017.txt",
+        "doc_4023.txt",
+        "doc_4022.txt"
+    ]
+}

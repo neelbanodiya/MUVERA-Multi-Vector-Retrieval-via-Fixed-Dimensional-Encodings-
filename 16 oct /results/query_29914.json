@@ -1,0 +1,10 @@
+{
+    "query": "What is highlighted as a fundamental challenge facing the European Union, as stated in the EESC opinion?",
+    "response": [
+        "doc_17361.txt",
+        "doc_20033.txt",
+        "doc_17365.txt",
+        "doc_17373.txt",
+        "doc_17340.txt"
+    ]
+}

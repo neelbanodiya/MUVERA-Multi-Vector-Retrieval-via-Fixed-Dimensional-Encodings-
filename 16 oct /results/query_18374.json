@@ -1,0 +1,10 @@
+{
+    "query": "Why was the title of the novel \u201cCatch-22\u201d changed?",
+    "response": [
+        "doc_10616.txt",
+        "doc_10622.txt",
+        "doc_10613.txt",
+        "doc_10630.txt",
+        "doc_10626.txt"
+    ]
+}

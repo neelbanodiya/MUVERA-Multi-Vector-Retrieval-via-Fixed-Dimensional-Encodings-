@@ -1,0 +1,9 @@
+{
+    "query": "What is the name of a youth-basketball program based in Los Angeles that honors middle school student-athletes?",
+    "response": [
+        "doc_10511.txt",
+        "doc_8056.txt",
+        "doc_10507.txt",
+        "doc_8052.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the UC Davis Mathematics lecture notes, what is the probability of getting at least one 6 in four rolls of a fair die?",
+    "response": [
+        "doc_13703.txt",
+        "doc_268.txt",
+        "doc_21671.txt",
+        "doc_23877.txt",
+        "doc_20364.txt"
+    ]
+}

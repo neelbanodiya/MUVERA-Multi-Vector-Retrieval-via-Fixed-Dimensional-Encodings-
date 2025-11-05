@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of Hulk Hogan\u2019s musical group, and when was their only album released?",
+    "response": [
+        "doc_6337.txt",
+        "doc_4606.txt",
+        "doc_16311.txt",
+        "doc_20955.txt",
+        "doc_12713.txt"
+    ]
+}

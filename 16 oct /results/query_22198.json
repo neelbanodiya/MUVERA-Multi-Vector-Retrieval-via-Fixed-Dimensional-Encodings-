@@ -1,0 +1,10 @@
+{
+    "query": "When were the last technical discussions between the US and the EU?",
+    "response": [
+        "doc_17403.txt",
+        "doc_14789.txt",
+        "doc_19523.txt",
+        "doc_15935.txt",
+        "doc_16787.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of team does Walter Matthau coach in one of the films referenced?",
+    "response": [
+        "doc_5324.txt",
+        "doc_5323.txt",
+        "doc_14685.txt",
+        "doc_23558.txt",
+        "doc_22120.txt"
+    ]
+}

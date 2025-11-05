@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was Stan Laurel an avid fan of?",
+    "response": [
+        "doc_2514.txt",
+        "doc_9423.txt",
+        "doc_10963.txt",
+        "doc_8173.txt",
+        "doc_20466.txt"
+    ]
+}

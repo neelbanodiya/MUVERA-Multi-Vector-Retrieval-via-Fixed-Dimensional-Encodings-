@@ -1,0 +1,10 @@
+{
+    "query": "What type of education was specifically targeted by Proposition 227?",
+    "response": [
+        "doc_11400.txt",
+        "doc_4538.txt",
+        "doc_4535.txt",
+        "doc_4536.txt",
+        "doc_9743.txt"
+    ]
+}

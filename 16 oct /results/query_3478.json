@@ -1,0 +1,10 @@
+{
+    "query": "When were the presidential elections held in Mauritania?",
+    "response": [
+        "doc_8724.txt",
+        "doc_22700.txt",
+        "doc_6491.txt",
+        "doc_1852.txt",
+        "doc_8770.txt"
+    ]
+}

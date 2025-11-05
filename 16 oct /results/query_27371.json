@@ -1,0 +1,10 @@
+{
+    "query": "What happened to aircraft from the entire country in relation to the Stalingrad region?",
+    "response": [
+        "doc_15924.txt",
+        "doc_15913.txt",
+        "doc_87.txt",
+        "doc_4764.txt",
+        "doc_8005.txt"
+    ]
+}

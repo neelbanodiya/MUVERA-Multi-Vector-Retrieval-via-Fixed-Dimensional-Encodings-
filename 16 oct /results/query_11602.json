@@ -1,0 +1,10 @@
+{
+    "query": "What year was \u201cA Turtle\u2019s Tale: Sammy\u2019s Adventures\u201d released?",
+    "response": [
+        "doc_20309.txt",
+        "doc_6752.txt",
+        "doc_6751.txt",
+        "doc_22567.txt",
+        "doc_18455.txt"
+    ]
+}

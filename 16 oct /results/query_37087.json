@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of West Bengal\u2019s population is Muslim, according to the 2011 Census?",
+    "response": [
+        "doc_21705.txt",
+        "doc_21704.txt",
+        "doc_21708.txt",
+        "doc_12142.txt",
+        "doc_20060.txt"
+    ]
+}

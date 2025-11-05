@@ -1,0 +1,10 @@
+{
+    "query": "When was The Cab\u2019s album, \u201cSymphony Soldier,\u201d released?",
+    "response": [
+        "doc_8468.txt",
+        "doc_8467.txt",
+        "doc_2416.txt",
+        "doc_2417.txt",
+        "doc_2415.txt"
+    ]
+}

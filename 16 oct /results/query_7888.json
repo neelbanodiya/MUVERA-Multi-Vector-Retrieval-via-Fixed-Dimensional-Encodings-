@@ -1,0 +1,10 @@
+{
+    "query": "What role did Tom Sharkey have in the Toronto Police Services' Emergency Task Force?",
+    "response": [
+        "doc_4584.txt",
+        "doc_4577.txt",
+        "doc_4579.txt",
+        "doc_4583.txt",
+        "doc_4582.txt"
+    ]
+}

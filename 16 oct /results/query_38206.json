@@ -1,0 +1,10 @@
+{
+    "query": "Who delivered a lecture in Nashville in 1924 entitled \u201cIs the Bible true\u201d?",
+    "response": [
+        "doc_345.txt",
+        "doc_22415.txt",
+        "doc_1527.txt",
+        "doc_338.txt",
+        "doc_20265.txt"
+    ]
+}

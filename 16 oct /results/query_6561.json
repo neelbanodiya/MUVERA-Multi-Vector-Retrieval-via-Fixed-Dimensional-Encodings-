@@ -1,0 +1,10 @@
+{
+    "query": "In May 1846, what country did the U.S. declare war on?",
+    "response": [
+        "doc_3755.txt",
+        "doc_3767.txt",
+        "doc_3759.txt",
+        "doc_3758.txt",
+        "doc_3764.txt"
+    ]
+}

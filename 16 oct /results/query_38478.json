@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is one of Tommy James and The Shondells' songs listed?",
+    "response": [
+        "doc_13104.txt",
+        "doc_12338.txt",
+        "doc_14485.txt",
+        "doc_5278.txt",
+        "doc_1982.txt"
+    ]
+}

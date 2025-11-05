@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the business hotel located at 3000 South Dirksen Parkway in Springfield, IL?",
+    "response": [
+        "doc_12165.txt",
+        "doc_12166.txt",
+        "doc_4820.txt",
+        "doc_4819.txt",
+        "doc_12164.txt"
+    ]
+}

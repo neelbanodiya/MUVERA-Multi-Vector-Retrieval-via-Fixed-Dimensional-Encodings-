@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Jane Campion win the Palme d'Or at Cannes, and what was the name of the film for which she received the award?",
+    "response": [
+        "doc_3219.txt",
+        "doc_3218.txt",
+        "doc_3221.txt",
+        "doc_3220.txt",
+        "doc_3223.txt"
+    ]
+}

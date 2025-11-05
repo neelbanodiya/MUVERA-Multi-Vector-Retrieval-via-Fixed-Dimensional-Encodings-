@@ -1,0 +1,10 @@
+{
+    "query": "Which countries are included in the ecoregion of Northern Africa as described in the passage?",
+    "response": [
+        "doc_8789.txt",
+        "doc_3270.txt",
+        "doc_3269.txt",
+        "doc_8784.txt",
+        "doc_2592.txt"
+    ]
+}

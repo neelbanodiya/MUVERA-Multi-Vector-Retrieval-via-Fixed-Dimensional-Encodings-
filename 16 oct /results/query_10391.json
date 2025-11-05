@@ -1,0 +1,10 @@
+{
+    "query": "What is the capacity of Miami Valley Hospital\u2019s emergency and trauma center?",
+    "response": [
+        "doc_6025.txt",
+        "doc_6026.txt",
+        "doc_12228.txt",
+        "doc_6024.txt",
+        "doc_12229.txt"
+    ]
+}

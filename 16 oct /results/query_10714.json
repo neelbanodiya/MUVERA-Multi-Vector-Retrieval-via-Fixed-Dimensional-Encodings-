@@ -1,0 +1,10 @@
+{
+    "query": "What was Brett Favre's role in the Green Bay Packers?",
+    "response": [
+        "doc_6199.txt",
+        "doc_6200.txt",
+        "doc_6201.txt",
+        "doc_2420.txt",
+        "doc_20608.txt"
+    ]
+}

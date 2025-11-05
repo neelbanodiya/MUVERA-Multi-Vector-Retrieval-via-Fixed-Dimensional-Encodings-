@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked documents, what considerations are required when managing natural resources in relation to Indigenous law and custom?",
+    "response": [
+        "doc_20093.txt",
+        "doc_5522.txt",
+        "doc_12471.txt",
+        "doc_22191.txt",
+        "doc_6166.txt"
+    ]
+}

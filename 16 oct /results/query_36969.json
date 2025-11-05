@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the arena where the Pittsburgh Penguins currently play?",
+    "response": [
+        "doc_17677.txt",
+        "doc_21628.txt",
+        "doc_17678.txt",
+        "doc_17681.txt",
+        "doc_17689.txt"
+    ]
+}

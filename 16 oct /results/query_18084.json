@@ -1,0 +1,10 @@
+{
+    "query": "Which composer is frequently associated with being American, according to the provided text?",
+    "response": [
+        "doc_10463.txt",
+        "doc_10464.txt",
+        "doc_6552.txt",
+        "doc_1906.txt",
+        "doc_23901.txt"
+    ]
+}

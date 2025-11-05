@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate percentage of Senators (30%) who had more than 2 years of House experience?",
+    "response": [
+        "doc_9117.txt",
+        "doc_9116.txt",
+        "doc_1925.txt",
+        "doc_5966.txt",
+        "doc_8652.txt"
+    ]
+}

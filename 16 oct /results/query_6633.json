@@ -1,0 +1,10 @@
+{
+    "query": "How many electoral votes did George W. Bush receive in his re-election in 2004?",
+    "response": [
+        "doc_3807.txt",
+        "doc_2477.txt",
+        "doc_3811.txt",
+        "doc_3808.txt",
+        "doc_2476.txt"
+    ]
+}

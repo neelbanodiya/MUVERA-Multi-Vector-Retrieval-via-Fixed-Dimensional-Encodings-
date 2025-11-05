@@ -1,0 +1,10 @@
+{
+    "query": "What regulation, besides REACH, was amended by Regulation (EC) No 1272/2008?",
+    "response": [
+        "doc_18738.txt",
+        "doc_4701.txt",
+        "doc_23974.txt",
+        "doc_20812.txt",
+        "doc_6417.txt"
+    ]
+}

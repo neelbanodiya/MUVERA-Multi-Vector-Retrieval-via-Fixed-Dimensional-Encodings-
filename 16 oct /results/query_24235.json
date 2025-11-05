@@ -1,0 +1,10 @@
+{
+    "query": "When did Cornelius Matelief arrive at Mauritius?",
+    "response": [
+        "doc_2309.txt",
+        "doc_24012.txt",
+        "doc_24011.txt",
+        "doc_2305.txt",
+        "doc_2306.txt"
+    ]
+}

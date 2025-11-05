@@ -1,0 +1,10 @@
+{
+    "query": "Could the Commission clarify its position on these discrimination issues?",
+    "response": [
+        "doc_14459.txt",
+        "doc_14460.txt",
+        "doc_19046.txt",
+        "doc_16105.txt",
+        "doc_12312.txt"
+    ]
+}

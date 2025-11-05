@@ -1,0 +1,10 @@
+{
+    "query": "What is a rumor circulating about Led Zeppelin?",
+    "response": [
+        "doc_19461.txt",
+        "doc_10075.txt",
+        "doc_2472.txt",
+        "doc_11951.txt",
+        "doc_14004.txt"
+    ]
+}

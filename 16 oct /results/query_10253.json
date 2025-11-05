@@ -1,0 +1,10 @@
+{
+    "query": "What locations are mentioned in the CSX system map?",
+    "response": [
+        "doc_1005.txt",
+        "doc_4522.txt",
+        "doc_21614.txt",
+        "doc_3666.txt",
+        "doc_1782.txt"
+    ]
+}

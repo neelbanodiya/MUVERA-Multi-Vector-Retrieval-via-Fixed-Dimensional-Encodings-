@@ -1,0 +1,10 @@
+{
+    "query": "According to John Boardman, how many of the early verses of a song were composed by someone?",
+    "response": [
+        "doc_19137.txt",
+        "doc_13852.txt",
+        "doc_7783.txt",
+        "doc_17758.txt",
+        "doc_19995.txt"
+    ]
+}

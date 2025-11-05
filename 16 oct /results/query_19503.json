@@ -1,0 +1,10 @@
+{
+    "query": "How many times did Summers run the ball in 2012?",
+    "response": [
+        "doc_2447.txt",
+        "doc_13769.txt",
+        "doc_1064.txt",
+        "doc_9090.txt",
+        "doc_9099.txt"
+    ]
+}

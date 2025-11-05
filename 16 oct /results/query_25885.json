@@ -1,0 +1,10 @@
+{
+    "query": "What title was granted to Kemal in 1934?",
+    "response": [
+        "doc_15052.txt",
+        "doc_15051.txt",
+        "doc_15058.txt",
+        "doc_15050.txt",
+        "doc_15046.txt"
+    ]
+}

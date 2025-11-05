@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Joe Louis defeat Max Schmeling?",
+    "response": [
+        "doc_15329.txt",
+        "doc_6794.txt",
+        "doc_15330.txt",
+        "doc_15332.txt",
+        "doc_7238.txt"
+    ]
+}

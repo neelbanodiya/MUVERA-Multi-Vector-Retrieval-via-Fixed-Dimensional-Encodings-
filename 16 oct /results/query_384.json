@@ -1,0 +1,10 @@
+{
+    "query": "What was the governor\u2019s action regarding the General Assembly, and where did he call them to meet?",
+    "response": [
+        "doc_5727.txt",
+        "doc_13397.txt",
+        "doc_13261.txt",
+        "doc_17367.txt",
+        "doc_17266.txt"
+    ]
+}

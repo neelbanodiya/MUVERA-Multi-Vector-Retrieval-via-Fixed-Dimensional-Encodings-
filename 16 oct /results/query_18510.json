@@ -1,0 +1,10 @@
+{
+    "query": "What types of businesses are mentioned in the Seattle business news article?",
+    "response": [
+        "doc_23502.txt",
+        "doc_12736.txt",
+        "doc_23495.txt",
+        "doc_7258.txt",
+        "doc_12645.txt"
+    ]
+}

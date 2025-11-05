@@ -1,0 +1,10 @@
+{
+    "query": "What organizations are mentioned in the provided text, such as the \u201cEuropean Museum of the Year Award\u201d or the \u201cOpen Society of Authors\u201d?",
+    "response": [
+        "doc_11909.txt",
+        "doc_16931.txt",
+        "doc_17477.txt",
+        "doc_17754.txt",
+        "doc_21936.txt"
+    ]
+}

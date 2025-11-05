@@ -1,0 +1,10 @@
+{
+    "query": "Since 1999, how many northern states in Nigeria have implemented strict Islamic Sharia law?",
+    "response": [
+        "doc_9156.txt",
+        "doc_2315.txt",
+        "doc_4665.txt",
+        "doc_9921.txt",
+        "doc_17823.txt"
+    ]
+}

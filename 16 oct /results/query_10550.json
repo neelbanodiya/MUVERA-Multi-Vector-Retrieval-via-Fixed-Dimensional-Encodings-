@@ -1,0 +1,10 @@
+{
+    "query": "What locations are mentioned as having CNN offices?",
+    "response": [
+        "doc_12645.txt",
+        "doc_17313.txt",
+        "doc_22691.txt",
+        "doc_9920.txt",
+        "doc_6430.txt"
+    ]
+}

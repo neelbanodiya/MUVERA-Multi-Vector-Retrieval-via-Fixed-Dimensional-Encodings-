@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the person featured in the passage become the spokesperson for \u201cI Can\u2019t Believe It\u2019s Not Butter\u201d?",
+    "response": [
+        "doc_7838.txt",
+        "doc_21885.txt",
+        "doc_14703.txt",
+        "doc_15775.txt",
+        "doc_10963.txt"
+    ]
+}

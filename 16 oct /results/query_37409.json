@@ -1,0 +1,10 @@
+{
+    "query": "What band did C. Z. Bronson join in New York City?",
+    "response": [
+        "doc_21908.txt",
+        "doc_15317.txt",
+        "doc_4735.txt",
+        "doc_12337.txt",
+        "doc_22805.txt"
+    ]
+}

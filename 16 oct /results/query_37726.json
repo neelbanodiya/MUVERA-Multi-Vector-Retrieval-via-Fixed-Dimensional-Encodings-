@@ -1,0 +1,10 @@
+{
+    "query": "Which movie features Mel Fisher as the main character, and in what year was it released?",
+    "response": [
+        "doc_18482.txt",
+        "doc_22109.txt",
+        "doc_4194.txt",
+        "doc_11495.txt",
+        "doc_7513.txt"
+    ]
+}

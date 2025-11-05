@@ -1,0 +1,10 @@
+{
+    "query": "In *Richard III*, Act I, Scene 2, what specific line is referenced in a Constant Reader discussion (line number)?",
+    "response": [
+        "doc_19422.txt",
+        "doc_19421.txt",
+        "doc_19420.txt",
+        "doc_19429.txt",
+        "doc_19425.txt"
+    ]
+}

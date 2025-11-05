@@ -1,0 +1,10 @@
+{
+    "query": "In which region were the complaints regarding Directive 2001/77/EC filed?",
+    "response": [
+        "doc_9622.txt",
+        "doc_23887.txt",
+        "doc_16161.txt",
+        "doc_17890.txt",
+        "doc_9188.txt"
+    ]
+}

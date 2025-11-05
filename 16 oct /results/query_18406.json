@@ -1,0 +1,10 @@
+{
+    "query": "Which U.S. President did Charles Dickens meet, according to a passage referencing a visit to the Senate chamber?",
+    "response": [
+        "doc_10670.txt",
+        "doc_10671.txt",
+        "doc_10673.txt",
+        "doc_20128.txt",
+        "doc_20134.txt"
+    ]
+}

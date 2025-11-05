@@ -1,0 +1,10 @@
+{
+    "query": "Where was the \u201cIch bin ein Berliner\u201d speech delivered?",
+    "response": [
+        "doc_3336.txt",
+        "doc_3332.txt",
+        "doc_3331.txt",
+        "doc_3335.txt",
+        "doc_3334.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who starred alongside Bob Hope in \u201cThe Seven Little Foys\u201d?",
+    "response": [
+        "doc_18856.txt",
+        "doc_18855.txt",
+        "doc_18862.txt",
+        "doc_18857.txt",
+        "doc_18861.txt"
+    ]
+}

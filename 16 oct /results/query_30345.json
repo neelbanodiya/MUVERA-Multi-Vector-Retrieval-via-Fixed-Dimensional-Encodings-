@@ -1,0 +1,10 @@
+{
+    "query": "What is the length of the Estoril railway (Lisbon-Cascais)?",
+    "response": [
+        "doc_17642.txt",
+        "doc_17641.txt",
+        "doc_17639.txt",
+        "doc_1914.txt",
+        "doc_72.txt"
+    ]
+}

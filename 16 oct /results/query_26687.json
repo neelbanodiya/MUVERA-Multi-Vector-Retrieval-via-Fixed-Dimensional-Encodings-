@@ -1,0 +1,10 @@
+{
+    "query": "How many medals did the Netherlands win at the 2014 Winter Olympics?",
+    "response": [
+        "doc_15509.txt",
+        "doc_15507.txt",
+        "doc_15508.txt",
+        "doc_15517.txt",
+        "doc_15512.txt"
+    ]
+}

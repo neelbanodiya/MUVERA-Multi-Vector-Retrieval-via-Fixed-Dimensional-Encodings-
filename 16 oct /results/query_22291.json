@@ -1,0 +1,10 @@
+{
+    "query": "To whom did William H. Rehnquist serve as a clerk?",
+    "response": [
+        "doc_12831.txt",
+        "doc_12833.txt",
+        "doc_12845.txt",
+        "doc_12840.txt",
+        "doc_12846.txt"
+    ]
+}

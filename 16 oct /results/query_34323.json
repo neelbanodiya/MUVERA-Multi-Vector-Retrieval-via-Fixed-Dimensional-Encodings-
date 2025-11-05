@@ -1,0 +1,10 @@
+{
+    "query": "In what city and state is the Kingfisher Post Office located?",
+    "response": [
+        "doc_19972.txt",
+        "doc_19971.txt",
+        "doc_19970.txt",
+        "doc_16252.txt",
+        "doc_19969.txt"
+    ]
+}

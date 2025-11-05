@@ -1,0 +1,10 @@
+{
+    "query": "Who co-created \u201cHill Street Blues\u201d and \u201cNYPD Blue\u201d?",
+    "response": [
+        "doc_5597.txt",
+        "doc_5596.txt",
+        "doc_5599.txt",
+        "doc_5595.txt",
+        "doc_5598.txt"
+    ]
+}

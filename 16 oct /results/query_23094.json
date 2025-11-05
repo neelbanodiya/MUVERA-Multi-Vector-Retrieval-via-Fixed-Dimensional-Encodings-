@@ -1,0 +1,10 @@
+{
+    "query": "What is the deadline for a Parliament delegation to be sent to a Union delegation, and what information must be included?",
+    "response": [
+        "doc_13357.txt",
+        "doc_13358.txt",
+        "doc_13366.txt",
+        "doc_13204.txt",
+        "doc_13214.txt"
+    ]
+}

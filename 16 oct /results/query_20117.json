@@ -1,0 +1,10 @@
+{
+    "query": "On what show did Julia Sweeney appear from 1989-1994, and what was her role on that show?",
+    "response": [
+        "doc_11623.txt",
+        "doc_11622.txt",
+        "doc_11621.txt",
+        "doc_11627.txt",
+        "doc_11625.txt"
+    ]
+}

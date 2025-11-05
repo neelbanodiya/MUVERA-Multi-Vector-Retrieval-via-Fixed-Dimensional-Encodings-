@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate ratio of Hurricanes to Spitfires during the Battle of Britain?",
+    "response": [
+        "doc_12766.txt",
+        "doc_12764.txt",
+        "doc_12768.txt",
+        "doc_12762.txt",
+        "doc_207.txt"
+    ]
+}

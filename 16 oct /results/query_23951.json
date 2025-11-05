@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of boys and girls in the U.S. are sexually abused before the age of 18, according to the \u201cRoad to Recovery News\u201d article?",
+    "response": [
+        "doc_9567.txt",
+        "doc_9742.txt",
+        "doc_1738.txt",
+        "doc_8119.txt",
+        "doc_17901.txt"
+    ]
+}

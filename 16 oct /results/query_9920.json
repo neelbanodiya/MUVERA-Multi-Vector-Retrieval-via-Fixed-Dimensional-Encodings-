@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what type of books has Taylor written (e.g., literary journalism, children's books)?",
+    "response": [
+        "doc_11324.txt",
+        "doc_14658.txt",
+        "doc_22536.txt",
+        "doc_22535.txt",
+        "doc_5050.txt"
+    ]
+}

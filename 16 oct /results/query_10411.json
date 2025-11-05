@@ -1,0 +1,10 @@
+{
+    "query": "What event prompted Toby and Spencer to team up?",
+    "response": [
+        "doc_20956.txt",
+        "doc_1317.txt",
+        "doc_309.txt",
+        "doc_19273.txt",
+        "doc_14246.txt"
+    ]
+}

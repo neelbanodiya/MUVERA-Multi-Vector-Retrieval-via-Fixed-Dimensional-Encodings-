@@ -1,0 +1,10 @@
+{
+    "query": "Within what range is Israel\u2019s military located?",
+    "response": [
+        "doc_9295.txt",
+        "doc_7258.txt",
+        "doc_5822.txt",
+        "doc_18900.txt",
+        "doc_15478.txt"
+    ]
+}

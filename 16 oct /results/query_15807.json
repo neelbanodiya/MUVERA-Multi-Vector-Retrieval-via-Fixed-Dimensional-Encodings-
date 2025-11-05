@@ -1,0 +1,10 @@
+{
+    "query": "What specific audit is the passage calling for regarding EIB-financed projects in developing countries?",
+    "response": [
+        "doc_9154.txt",
+        "doc_9155.txt",
+        "doc_22992.txt",
+        "doc_3247.txt",
+        "doc_15388.txt"
+    ]
+}

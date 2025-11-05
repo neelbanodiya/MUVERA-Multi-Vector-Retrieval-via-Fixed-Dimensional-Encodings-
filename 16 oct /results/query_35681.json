@@ -1,0 +1,10 @@
+{
+    "query": "What agreements or documents, besides the Interim Agreement and SAA, can trigger the adoption of measures as described in Article 5?",
+    "response": [
+        "doc_20804.txt",
+        "doc_20812.txt",
+        "doc_20803.txt",
+        "doc_20792.txt",
+        "doc_20749.txt"
+    ]
+}

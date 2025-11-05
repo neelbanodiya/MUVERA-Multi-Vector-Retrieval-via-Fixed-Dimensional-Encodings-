@@ -1,0 +1,10 @@
+{
+    "query": "What is the tail of a Conger conger (European conger) like?",
+    "response": [
+        "doc_21779.txt",
+        "doc_404.txt",
+        "doc_403.txt",
+        "doc_1105.txt",
+        "doc_12583.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How is the square occupied by the King\u2019s Rook identified in descriptive notation?",
+    "response": [
+        "doc_8733.txt",
+        "doc_8736.txt",
+        "doc_8732.txt",
+        "doc_8734.txt",
+        "doc_8731.txt"
+    ]
+}

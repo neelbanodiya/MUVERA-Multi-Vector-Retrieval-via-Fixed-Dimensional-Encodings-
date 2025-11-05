@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred in Mexico City in September 1847?",
+    "response": [
+        "doc_1483.txt",
+        "doc_19974.txt",
+        "doc_20373.txt",
+        "doc_18155.txt",
+        "doc_4237.txt"
+    ]
+}

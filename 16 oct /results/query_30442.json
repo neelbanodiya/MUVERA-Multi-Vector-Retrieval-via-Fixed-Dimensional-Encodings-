@@ -1,0 +1,10 @@
+{
+    "query": "What was Pablo Neruda doing before he retired?",
+    "response": [
+        "doc_9676.txt",
+        "doc_23066.txt",
+        "doc_9675.txt",
+        "doc_4273.txt",
+        "doc_7628.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Besides \u201cI Love Rock \u2018N\u2019 Roll\u201d and \u201cCrimson and Clover,\u201d what other song was mentioned as a hit for Joan Jett and the Blackhearts?",
+    "response": [
+        "doc_22547.txt",
+        "doc_22548.txt",
+        "doc_22559.txt",
+        "doc_22554.txt",
+        "doc_22565.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What team did the Pittsburgh Penguins lose to in the Eastern Conference Semifinals?",
+    "response": [
+        "doc_21626.txt",
+        "doc_2700.txt",
+        "doc_2703.txt",
+        "doc_21627.txt",
+        "doc_2701.txt"
+    ]
+}

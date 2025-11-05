@@ -1,0 +1,10 @@
+{
+    "query": "Which actors starred in the 1983 film adaptation of *The Outsiders* alongside Matt Dillon and C. Thomas Howell?",
+    "response": [
+        "doc_3519.txt",
+        "doc_3520.txt",
+        "doc_3518.txt",
+        "doc_3522.txt",
+        "doc_5158.txt"
+    ]
+}

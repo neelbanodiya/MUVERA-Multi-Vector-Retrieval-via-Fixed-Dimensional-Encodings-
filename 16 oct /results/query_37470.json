@@ -1,0 +1,10 @@
+{
+    "query": "Which NFL team drafted Troy Davis, and in what round was he selected?",
+    "response": [
+        "doc_5390.txt",
+        "doc_20936.txt",
+        "doc_21944.txt",
+        "doc_5391.txt",
+        "doc_20937.txt"
+    ]
+}

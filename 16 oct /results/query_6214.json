@@ -1,0 +1,10 @@
+{
+    "query": "Who was Isaac Babel, and what was his nationality and language?",
+    "response": [
+        "doc_1240.txt",
+        "doc_1246.txt",
+        "doc_13056.txt",
+        "doc_10400.txt",
+        "doc_2420.txt"
+    ]
+}

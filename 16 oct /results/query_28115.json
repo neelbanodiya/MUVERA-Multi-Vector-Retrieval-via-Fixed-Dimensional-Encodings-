@@ -1,0 +1,10 @@
+{
+    "query": "Which codes of the United States Code primarily deal with Federal contracts?",
+    "response": [
+        "doc_16328.txt",
+        "doc_4668.txt",
+        "doc_2839.txt",
+        "doc_17443.txt",
+        "doc_2838.txt"
+    ]
+}

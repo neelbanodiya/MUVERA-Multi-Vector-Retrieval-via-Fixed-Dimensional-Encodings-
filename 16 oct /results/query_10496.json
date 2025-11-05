@@ -1,0 +1,10 @@
+{
+    "query": "What is Thor\u2019s role according to the passage?",
+    "response": [
+        "doc_13334.txt",
+        "doc_21379.txt",
+        "doc_632.txt",
+        "doc_23625.txt",
+        "doc_13339.txt"
+    ]
+}

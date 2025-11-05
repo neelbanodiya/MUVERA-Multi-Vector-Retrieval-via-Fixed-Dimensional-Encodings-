@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Swedish film \u201cDear John\u201d released?",
+    "response": [
+        "doc_23433.txt",
+        "doc_23434.txt",
+        "doc_23435.txt",
+        "doc_23279.txt",
+        "doc_14780.txt"
+    ]
+}

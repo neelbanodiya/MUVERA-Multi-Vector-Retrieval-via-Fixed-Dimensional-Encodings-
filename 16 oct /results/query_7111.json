@@ -1,0 +1,10 @@
+{
+    "query": "Where was the Battle of Cowpens located?",
+    "response": [
+        "doc_4066.txt",
+        "doc_850.txt",
+        "doc_4069.txt",
+        "doc_4068.txt",
+        "doc_191.txt"
+    ]
+}

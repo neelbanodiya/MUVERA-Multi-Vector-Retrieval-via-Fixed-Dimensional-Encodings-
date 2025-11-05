@@ -1,0 +1,10 @@
+{
+    "query": "Who compiled the poetic collection of legends about King Arthur?",
+    "response": [
+        "doc_22258.txt",
+        "doc_22256.txt",
+        "doc_22260.txt",
+        "doc_22251.txt",
+        "doc_1838.txt"
+    ]
+}

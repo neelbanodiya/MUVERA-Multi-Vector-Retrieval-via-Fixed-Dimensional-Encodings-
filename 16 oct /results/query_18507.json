@@ -1,0 +1,10 @@
+{
+    "query": "What specific hazard has historically impacted Western Washington, leading to the creation of a risk gauge?",
+    "response": [
+        "doc_5560.txt",
+        "doc_4696.txt",
+        "doc_3589.txt",
+        "doc_11117.txt",
+        "doc_6223.txt"
+    ]
+}

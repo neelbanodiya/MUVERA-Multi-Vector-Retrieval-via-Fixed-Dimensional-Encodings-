@@ -1,0 +1,10 @@
+{
+    "query": "What type of questions did Game Masters consider using, according to the passage?",
+    "response": [
+        "doc_11054.txt",
+        "doc_16485.txt",
+        "doc_19205.txt",
+        "doc_21379.txt",
+        "doc_7648.txt"
+    ]
+}

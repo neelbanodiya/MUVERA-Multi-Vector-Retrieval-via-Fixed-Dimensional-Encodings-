@@ -1,0 +1,10 @@
+{
+    "query": "When did Union Graduate College merge into Clarkson University?",
+    "response": [
+        "doc_134.txt",
+        "doc_9024.txt",
+        "doc_5310.txt",
+        "doc_4741.txt",
+        "doc_4289.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the subject of the report titled \"Participation of non-state actors in EC development policy\"?",
+    "response": [
+        "doc_22982.txt",
+        "doc_9026.txt",
+        "doc_9782.txt",
+        "doc_14215.txt",
+        "doc_8385.txt"
+    ]
+}

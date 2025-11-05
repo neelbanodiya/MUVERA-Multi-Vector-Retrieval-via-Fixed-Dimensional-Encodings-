@@ -1,0 +1,10 @@
+{
+    "query": "What surnames are shared by the fashion designers Anne and Calvin?",
+    "response": [
+        "doc_6729.txt",
+        "doc_6731.txt",
+        "doc_6732.txt",
+        "doc_6733.txt",
+        "doc_6740.txt"
+    ]
+}

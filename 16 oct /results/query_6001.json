@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the first American Mardi Gras reportedly take place?",
+    "response": [
+        "doc_3508.txt",
+        "doc_3502.txt",
+        "doc_3514.txt",
+        "doc_3513.txt",
+        "doc_3510.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is Scotland\u2019s connection to St. Andrew, as reflected in its national flag?",
+    "response": [
+        "doc_16447.txt",
+        "doc_16450.txt",
+        "doc_16448.txt",
+        "doc_16456.txt",
+        "doc_16463.txt"
+    ]
+}

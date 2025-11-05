@@ -1,0 +1,10 @@
+{
+    "query": "On what date did approximately one million Beijingers gather in Tiananmen Square?",
+    "response": [
+        "doc_10988.txt",
+        "doc_10970.txt",
+        "doc_10987.txt",
+        "doc_10981.txt",
+        "doc_10979.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to some sources, what was the significance of Hippolyta\u2019s belt?",
+    "response": [
+        "doc_13724.txt",
+        "doc_10866.txt",
+        "doc_9856.txt",
+        "doc_5584.txt",
+        "doc_3878.txt"
+    ]
+}

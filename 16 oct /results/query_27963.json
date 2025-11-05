@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Pope Francis claim to have experienced a vision while visiting Rome?",
+    "response": [
+        "doc_16247.txt",
+        "doc_16356.txt",
+        "doc_16243.txt",
+        "doc_20246.txt",
+        "doc_18489.txt"
+    ]
+}

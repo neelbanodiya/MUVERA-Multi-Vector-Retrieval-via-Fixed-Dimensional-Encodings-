@@ -1,0 +1,10 @@
+{
+    "query": "What is the setting for the men\u2019s final Olympic hockey game?",
+    "response": [
+        "doc_11357.txt",
+        "doc_19388.txt",
+        "doc_11342.txt",
+        "doc_16877.txt",
+        "doc_24227.txt"
+    ]
+}

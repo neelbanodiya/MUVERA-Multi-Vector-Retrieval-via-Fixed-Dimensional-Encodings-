@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred between East and West Germany during Willy Brandt\u2019s time as chancellor?",
+    "response": [
+        "doc_21730.txt",
+        "doc_21729.txt",
+        "doc_21739.txt",
+        "doc_21738.txt",
+        "doc_21731.txt"
+    ]
+}

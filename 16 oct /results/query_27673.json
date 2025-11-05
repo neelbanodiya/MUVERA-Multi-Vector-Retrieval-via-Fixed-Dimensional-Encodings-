@@ -1,0 +1,10 @@
+{
+    "query": "Why was Mel Gibson not in *Mad Max: Fury Road*?",
+    "response": [
+        "doc_16097.txt",
+        "doc_16096.txt",
+        "doc_16102.txt",
+        "doc_16093.txt",
+        "doc_16099.txt"
+    ]
+}

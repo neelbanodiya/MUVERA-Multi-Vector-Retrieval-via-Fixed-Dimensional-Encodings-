@@ -1,0 +1,10 @@
+{
+    "query": "What is a tradition associated with Memorial Day that involves decorating graves?",
+    "response": [
+        "doc_13032.txt",
+        "doc_13039.txt",
+        "doc_13040.txt",
+        "doc_13033.txt",
+        "doc_13034.txt"
+    ]
+}

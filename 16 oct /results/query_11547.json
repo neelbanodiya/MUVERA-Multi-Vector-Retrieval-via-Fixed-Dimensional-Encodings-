@@ -1,0 +1,10 @@
+{
+    "query": "What was Kobe Bryant's average point total during his 20-year career with the Los Angeles Lakers?",
+    "response": [
+        "doc_6712.txt",
+        "doc_6713.txt",
+        "doc_1995.txt",
+        "doc_6715.txt",
+        "doc_18336.txt"
+    ]
+}

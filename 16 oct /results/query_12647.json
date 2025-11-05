@@ -1,0 +1,10 @@
+{
+    "query": "Which country is associated with \u201cGeorgia\u201d?",
+    "response": [
+        "doc_22969.txt",
+        "doc_23235.txt",
+        "doc_22686.txt",
+        "doc_22970.txt",
+        "doc_9920.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was one of Ben\u2019s gimmicks regarding peanuts?",
+    "response": [
+        "doc_18850.txt",
+        "doc_11889.txt",
+        "doc_12734.txt",
+        "doc_12191.txt",
+        "doc_15760.txt"
+    ]
+}

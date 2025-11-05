@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked documents, what is the title of a study examining R.S. Thomas\u2019s poetry?",
+    "response": [
+        "doc_10393.txt",
+        "doc_21315.txt",
+        "doc_16010.txt",
+        "doc_17758.txt",
+        "doc_20490.txt"
+    ]
+}

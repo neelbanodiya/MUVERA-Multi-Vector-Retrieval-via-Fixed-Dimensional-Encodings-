@@ -1,0 +1,10 @@
+{
+    "query": "What is the date of the next European Parliament meeting?",
+    "response": [
+        "doc_21038.txt",
+        "doc_8028.txt",
+        "doc_14820.txt",
+        "doc_11035.txt",
+        "doc_12318.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the highest civilian award in Japan, after the Order of the Golden Kite?",
+    "response": [
+        "doc_22013.txt",
+        "doc_22025.txt",
+        "doc_22010.txt",
+        "doc_22011.txt",
+        "doc_22021.txt"
+    ]
+}

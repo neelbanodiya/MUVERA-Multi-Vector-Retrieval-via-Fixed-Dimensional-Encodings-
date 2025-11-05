@@ -1,0 +1,10 @@
+{
+    "query": "What information must the requested authority notify the applicant authority, the competent authorities of other Member States, and the Commission regarding enforcement measures?",
+    "response": [
+        "doc_3011.txt",
+        "doc_3010.txt",
+        "doc_3012.txt",
+        "doc_3017.txt",
+        "doc_12486.txt"
+    ]
+}

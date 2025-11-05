@@ -1,0 +1,10 @@
+{
+    "query": "At what geographical line was the Korean peninsula divided following the end of World War II?",
+    "response": [
+        "doc_16199.txt",
+        "doc_16206.txt",
+        "doc_16201.txt",
+        "doc_16204.txt",
+        "doc_16203.txt"
+    ]
+}

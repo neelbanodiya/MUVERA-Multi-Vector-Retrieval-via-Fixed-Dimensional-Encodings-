@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of Directive 2003/30/EC?",
+    "response": [
+        "doc_22528.txt",
+        "doc_21032.txt",
+        "doc_16708.txt",
+        "doc_10405.txt",
+        "doc_2831.txt"
+    ]
+}

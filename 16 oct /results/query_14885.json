@@ -1,0 +1,10 @@
+{
+    "query": "What was the Hofburg Imperial Palace the center of until 1918?",
+    "response": [
+        "doc_8644.txt",
+        "doc_8636.txt",
+        "doc_8633.txt",
+        "doc_8634.txt",
+        "doc_8643.txt"
+    ]
+}

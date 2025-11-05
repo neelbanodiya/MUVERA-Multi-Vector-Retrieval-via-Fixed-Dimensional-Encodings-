@@ -1,0 +1,10 @@
+{
+    "query": "Can you identify a project involving an LNG jetty mentioned in the provided links?",
+    "response": [
+        "doc_7365.txt",
+        "doc_7364.txt",
+        "doc_7367.txt",
+        "doc_14366.txt",
+        "doc_7361.txt"
+    ]
+}

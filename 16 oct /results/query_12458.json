@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Gene Tunney defeat Jack Dempsey?",
+    "response": [
+        "doc_7229.txt",
+        "doc_7220.txt",
+        "doc_7235.txt",
+        "doc_7226.txt",
+        "doc_7232.txt"
+    ]
+}

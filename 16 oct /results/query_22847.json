@@ -1,0 +1,10 @@
+{
+    "query": "Which plant variety is associated with the name \"Playgirl\"?",
+    "response": [
+        "doc_13156.txt",
+        "doc_23543.txt",
+        "doc_771.txt",
+        "doc_15415.txt",
+        "doc_20057.txt"
+    ]
+}

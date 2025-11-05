@@ -1,0 +1,10 @@
+{
+    "query": "Which committee was responsible for the discussion of the Anti-Counterfeiting Trade Agreement?",
+    "response": [
+        "doc_11019.txt",
+        "doc_13194.txt",
+        "doc_5572.txt",
+        "doc_14124.txt",
+        "doc_13814.txt"
+    ]
+}

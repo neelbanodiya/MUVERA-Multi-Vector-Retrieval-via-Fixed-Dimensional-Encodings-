@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, who were two Nobel prize winners involved in economic research?",
+    "response": [
+        "doc_7252.txt",
+        "doc_4261.txt",
+        "doc_2610.txt",
+        "doc_12812.txt",
+        "doc_3037.txt"
+    ]
+}

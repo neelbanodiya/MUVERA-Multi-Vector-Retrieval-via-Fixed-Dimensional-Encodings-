@@ -1,0 +1,10 @@
+{
+    "query": "Which royal family did Catherine de Medici belong to, and what was her role within that family?",
+    "response": [
+        "doc_23753.txt",
+        "doc_23746.txt",
+        "doc_23748.txt",
+        "doc_23745.txt",
+        "doc_23754.txt"
+    ]
+}

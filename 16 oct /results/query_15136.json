@@ -1,0 +1,10 @@
+{
+    "query": "For how many years did the Los Angeles River supply the town with water?",
+    "response": [
+        "doc_8782.txt",
+        "doc_3144.txt",
+        "doc_3146.txt",
+        "doc_3157.txt",
+        "doc_3152.txt"
+    ]
+}

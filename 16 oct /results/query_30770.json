@@ -1,0 +1,10 @@
+{
+    "query": "When did Brooke Shields appear on Broadway in a revival of *Wonderful Town*?",
+    "response": [
+        "doc_17918.txt",
+        "doc_17919.txt",
+        "doc_17922.txt",
+        "doc_17921.txt",
+        "doc_17925.txt"
+    ]
+}

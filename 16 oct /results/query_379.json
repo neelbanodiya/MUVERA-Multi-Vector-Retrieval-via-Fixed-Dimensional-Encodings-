@@ -1,0 +1,10 @@
+{
+    "query": "What was the Battle of Antietam (also known as the Battle of Sharpsburg) fought near?",
+    "response": [
+        "doc_193.txt",
+        "doc_198.txt",
+        "doc_197.txt",
+        "doc_199.txt",
+        "doc_206.txt"
+    ]
+}

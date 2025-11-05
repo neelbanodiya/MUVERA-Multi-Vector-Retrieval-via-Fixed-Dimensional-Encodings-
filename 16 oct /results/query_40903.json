@@ -1,0 +1,10 @@
+{
+    "query": "What song was written by Elaine Griffin about Lyme Disease?",
+    "response": [
+        "doc_23913.txt",
+        "doc_23914.txt",
+        "doc_10595.txt",
+        "doc_12573.txt",
+        "doc_129.txt"
+    ]
+}

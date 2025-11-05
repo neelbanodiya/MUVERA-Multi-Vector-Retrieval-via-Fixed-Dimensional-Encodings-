@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate population of Patagonia?",
+    "response": [
+        "doc_8839.txt",
+        "doc_8851.txt",
+        "doc_8841.txt",
+        "doc_15881.txt",
+        "doc_8845.txt"
+    ]
+}

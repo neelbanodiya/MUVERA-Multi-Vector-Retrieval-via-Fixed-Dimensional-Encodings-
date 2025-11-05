@@ -1,0 +1,10 @@
+{
+    "query": "How much did an Oscar for a screenplay about lost innocence sell for?",
+    "response": [
+        "doc_4911.txt",
+        "doc_4919.txt",
+        "doc_4918.txt",
+        "doc_4915.txt",
+        "doc_23292.txt"
+    ]
+}

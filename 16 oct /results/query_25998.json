@@ -1,0 +1,10 @@
+{
+    "query": "In what classic television episode did William Shatner appear as a passenger on an airplane?",
+    "response": [
+        "doc_15116.txt",
+        "doc_15119.txt",
+        "doc_15114.txt",
+        "doc_15110.txt",
+        "doc_15113.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where were the \u201cRed Car Trolley\u201d cars built?",
+    "response": [
+        "doc_23262.txt",
+        "doc_23263.txt",
+        "doc_6888.txt",
+        "doc_17158.txt",
+        "doc_23261.txt"
+    ]
+}

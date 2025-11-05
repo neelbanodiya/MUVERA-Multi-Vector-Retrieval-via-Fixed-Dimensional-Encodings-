@@ -1,0 +1,10 @@
+{
+    "query": "What was Jennifer Parker\u2019s role in *Back to the Future Part II*?",
+    "response": [
+        "doc_8392.txt",
+        "doc_8386.txt",
+        "doc_8387.txt",
+        "doc_8388.txt",
+        "doc_8396.txt"
+    ]
+}

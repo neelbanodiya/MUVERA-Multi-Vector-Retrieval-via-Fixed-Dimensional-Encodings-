@@ -1,0 +1,10 @@
+{
+    "query": "When did Dickens begin his own journalistic endeavor, specifically mentioning a magazine he founded?",
+    "response": [
+        "doc_11910.txt",
+        "doc_11914.txt",
+        "doc_11913.txt",
+        "doc_11909.txt",
+        "doc_11911.txt"
+    ]
+}

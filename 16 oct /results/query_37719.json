@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Christopher Reeve have a role in the film \u201cAdventures of Superman\u201d?",
+    "response": [
+        "doc_22118.txt",
+        "doc_22114.txt",
+        "doc_22122.txt",
+        "doc_22110.txt",
+        "doc_22117.txt"
+    ]
+}

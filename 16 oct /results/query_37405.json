@@ -1,0 +1,10 @@
+{
+    "query": "After leaving the Marine Band, what did Sousa do?",
+    "response": [
+        "doc_21912.txt",
+        "doc_21906.txt",
+        "doc_21907.txt",
+        "doc_21913.txt",
+        "doc_21909.txt"
+    ]
+}

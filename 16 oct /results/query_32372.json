@@ -1,0 +1,10 @@
+{
+    "query": "Which television series featured the character Lindsey McDonald, and in what seasons was he prominently featured?",
+    "response": [
+        "doc_18873.txt",
+        "doc_15025.txt",
+        "doc_11625.txt",
+        "doc_15395.txt",
+        "doc_19273.txt"
+    ]
+}

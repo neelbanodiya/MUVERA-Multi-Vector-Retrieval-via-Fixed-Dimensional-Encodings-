@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what qualities did Walt Disney possess that contributed to his success?",
+    "response": [
+        "doc_17206.txt",
+        "doc_17207.txt",
+        "doc_17204.txt",
+        "doc_17200.txt",
+        "doc_17199.txt"
+    ]
+}

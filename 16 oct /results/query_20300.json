@@ -1,0 +1,10 @@
+{
+    "query": "According to the LaGuardia Community College catalog, what types of assistance might students receive?",
+    "response": [
+        "doc_20153.txt",
+        "doc_11706.txt",
+        "doc_22091.txt",
+        "doc_11705.txt",
+        "doc_18084.txt"
+    ]
+}

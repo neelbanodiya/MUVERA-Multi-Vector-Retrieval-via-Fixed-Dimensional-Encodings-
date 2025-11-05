@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is a common occurrence at Highlandville pond?",
+    "response": [
+        "doc_7341.txt",
+        "doc_7357.txt",
+        "doc_14300.txt",
+        "doc_20873.txt",
+        "doc_19749.txt"
+    ]
+}

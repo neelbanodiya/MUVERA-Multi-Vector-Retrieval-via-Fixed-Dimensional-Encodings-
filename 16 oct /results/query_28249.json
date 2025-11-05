@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, who is considered the patron saint of Scotland and what is associated with him?",
+    "response": [
+        "doc_16447.txt",
+        "doc_16460.txt",
+        "doc_16446.txt",
+        "doc_16463.txt",
+        "doc_16452.txt"
+    ]
+}

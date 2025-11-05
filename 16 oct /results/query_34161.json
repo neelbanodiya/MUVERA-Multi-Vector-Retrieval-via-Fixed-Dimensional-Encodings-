@@ -1,0 +1,10 @@
+{
+    "query": "What resolutions did the European Parliament pass on March 15, 2012?",
+    "response": [
+        "doc_15469.txt",
+        "doc_15472.txt",
+        "doc_4749.txt",
+        "doc_19872.txt",
+        "doc_488.txt"
+    ]
+}

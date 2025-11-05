@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what two musical influences did The Prodigy cite?",
+    "response": [
+        "doc_12713.txt",
+        "doc_1982.txt",
+        "doc_18912.txt",
+        "doc_1021.txt",
+        "doc_1986.txt"
+    ]
+}

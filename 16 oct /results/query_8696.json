@@ -1,0 +1,10 @@
+{
+    "query": "In what river did Columbus\u2019 ships anchor during his third voyage in 1498?",
+    "response": [
+        "doc_5027.txt",
+        "doc_5025.txt",
+        "doc_5024.txt",
+        "doc_5026.txt",
+        "doc_5031.txt"
+    ]
+}

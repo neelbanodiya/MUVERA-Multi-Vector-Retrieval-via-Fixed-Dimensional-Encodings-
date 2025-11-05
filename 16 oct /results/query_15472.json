@@ -1,0 +1,10 @@
+{
+    "query": "What city is associated with the Rocky Mountain Arsenal National Wildlife Refuge?",
+    "response": [
+        "doc_9327.txt",
+        "doc_18154.txt",
+        "doc_9335.txt",
+        "doc_18155.txt",
+        "doc_9328.txt"
+    ]
+}

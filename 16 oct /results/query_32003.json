@@ -1,0 +1,10 @@
+{
+    "query": "What specific action does a Street Fighter character perform when a player presses the punch button?",
+    "response": [
+        "doc_18644.txt",
+        "doc_3.txt",
+        "doc_18645.txt",
+        "doc_6757.txt",
+        "doc_18642.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where does Frasier Crane live, according to the passage?",
+    "response": [
+        "doc_369.txt",
+        "doc_16168.txt",
+        "doc_9610.txt",
+        "doc_10611.txt",
+        "doc_20371.txt"
+    ]
+}

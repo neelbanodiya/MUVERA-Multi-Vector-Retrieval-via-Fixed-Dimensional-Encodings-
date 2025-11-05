@@ -1,0 +1,10 @@
+{
+    "query": "Which Russian leader oversaw the initial invasion of Chechnya in 1994?",
+    "response": [
+        "doc_23266.txt",
+        "doc_23270.txt",
+        "doc_23268.txt",
+        "doc_23265.txt",
+        "doc_23273.txt"
+    ]
+}

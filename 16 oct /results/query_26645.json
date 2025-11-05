@@ -1,0 +1,10 @@
+{
+    "query": "In what classic film did Joseph E. Henabery play Abraham Lincoln?",
+    "response": [
+        "doc_15485.txt",
+        "doc_15486.txt",
+        "doc_15489.txt",
+        "doc_15482.txt",
+        "doc_15488.txt"
+    ]
+}

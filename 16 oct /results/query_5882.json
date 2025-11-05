@@ -1,0 +1,10 @@
+{
+    "query": "What problem was affecting the Air Force radar facilities?",
+    "response": [
+        "doc_7292.txt",
+        "doc_3410.txt",
+        "doc_16467.txt",
+        "doc_7004.txt",
+        "doc_6371.txt"
+    ]
+}

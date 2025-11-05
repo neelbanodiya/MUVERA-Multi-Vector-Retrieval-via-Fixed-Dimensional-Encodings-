@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what type of film was *All the King\u2019s Men*?",
+    "response": [
+        "doc_16185.txt",
+        "doc_22830.txt",
+        "doc_21487.txt",
+        "doc_14685.txt",
+        "doc_2231.txt"
+    ]
+}

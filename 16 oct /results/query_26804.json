@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote *The Lord of the Rings*?",
+    "response": [
+        "doc_15545.txt",
+        "doc_15549.txt",
+        "doc_15560.txt",
+        "doc_15555.txt",
+        "doc_15550.txt"
+    ]
+}

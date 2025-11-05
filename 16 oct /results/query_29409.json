@@ -1,0 +1,10 @@
+{
+    "query": "Which chef served as the head judge for \u201cTop Chef Suomi\u201d?",
+    "response": [
+        "doc_23417.txt",
+        "doc_17116.txt",
+        "doc_23419.txt",
+        "doc_22011.txt",
+        "doc_137.txt"
+    ]
+}

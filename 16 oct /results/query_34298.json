@@ -1,0 +1,10 @@
+{
+    "query": "What was the meeting about that top Republican leaders held at the White House?",
+    "response": [
+        "doc_20318.txt",
+        "doc_13387.txt",
+        "doc_13388.txt",
+        "doc_8384.txt",
+        "doc_22187.txt"
+    ]
+}

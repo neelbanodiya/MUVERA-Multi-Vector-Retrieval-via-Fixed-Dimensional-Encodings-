@@ -1,0 +1,10 @@
+{
+    "query": "How many fraternal twins play the role of Tabitha?",
+    "response": [
+        "doc_7075.txt",
+        "doc_7076.txt",
+        "doc_7070.txt",
+        "doc_7071.txt",
+        "doc_1624.txt"
+    ]
+}

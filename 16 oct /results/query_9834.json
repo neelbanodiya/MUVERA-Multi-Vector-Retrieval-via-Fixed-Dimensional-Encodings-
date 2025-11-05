@@ -1,0 +1,10 @@
+{
+    "query": "The article from Salon discusses how video evidence can help police, what is one way it assists them?",
+    "response": [
+        "doc_9752.txt",
+        "doc_3427.txt",
+        "doc_3434.txt",
+        "doc_8341.txt",
+        "doc_9753.txt"
+    ]
+}

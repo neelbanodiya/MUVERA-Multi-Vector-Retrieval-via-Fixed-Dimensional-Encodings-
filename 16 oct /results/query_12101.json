@@ -1,0 +1,10 @@
+{
+    "query": "What role did Erin Murphy play in the television show *Bewitched*?",
+    "response": [
+        "doc_7070.txt",
+        "doc_7073.txt",
+        "doc_7071.txt",
+        "doc_7074.txt",
+        "doc_7072.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what was a specific target of a terrorist plot involving Barbra Streisand?",
+    "response": [
+        "doc_2231.txt",
+        "doc_14830.txt",
+        "doc_21170.txt",
+        "doc_18215.txt",
+        "doc_8400.txt"
+    ]
+}

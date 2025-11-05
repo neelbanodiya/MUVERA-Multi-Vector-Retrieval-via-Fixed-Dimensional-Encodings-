@@ -1,0 +1,10 @@
+{
+    "query": "What did the President of UEFA suggest the EU should do?",
+    "response": [
+        "doc_22583.txt",
+        "doc_20037.txt",
+        "doc_13226.txt",
+        "doc_7810.txt",
+        "doc_5237.txt"
+    ]
+}

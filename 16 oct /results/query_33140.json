@@ -1,0 +1,10 @@
+{
+    "query": "In the \u201cTeen Wolf\u201d series, who mentored Tyler Posey\u2019s character Scott?",
+    "response": [
+        "doc_19273.txt",
+        "doc_6073.txt",
+        "doc_22329.txt",
+        "doc_6074.txt",
+        "doc_11327.txt"
+    ]
+}

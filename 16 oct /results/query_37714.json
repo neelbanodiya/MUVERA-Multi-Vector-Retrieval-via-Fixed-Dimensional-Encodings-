@@ -1,0 +1,10 @@
+{
+    "query": "Which Mel Gibson films are mentioned in the provided text?",
+    "response": [
+        "doc_22108.txt",
+        "doc_7767.txt",
+        "doc_16730.txt",
+        "doc_21246.txt",
+        "doc_9792.txt"
+    ]
+}

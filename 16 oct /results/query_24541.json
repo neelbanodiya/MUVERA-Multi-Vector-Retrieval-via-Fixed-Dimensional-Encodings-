@@ -1,0 +1,10 @@
+{
+    "query": "In what city is *Brave New World* primarily set?",
+    "response": [
+        "doc_24098.txt",
+        "doc_22585.txt",
+        "doc_18481.txt",
+        "doc_21994.txt",
+        "doc_16374.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What are the typical weather conditions found in Patagonia, Argentina?",
+    "response": [
+        "doc_8842.txt",
+        "doc_8850.txt",
+        "doc_8851.txt",
+        "doc_8847.txt",
+        "doc_8836.txt"
+    ]
+}

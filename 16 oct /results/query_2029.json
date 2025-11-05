@@ -1,0 +1,10 @@
+{
+    "query": "In what city did the Los Angeles Chargers originally play before moving to San Diego?",
+    "response": [
+        "doc_1221.txt",
+        "doc_1222.txt",
+        "doc_19165.txt",
+        "doc_19166.txt",
+        "doc_11263.txt"
+    ]
+}

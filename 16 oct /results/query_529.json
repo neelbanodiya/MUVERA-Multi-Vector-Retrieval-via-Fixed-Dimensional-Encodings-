@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what movement is Pietro Mascagni associated with?",
+    "response": [
+        "doc_17271.txt",
+        "doc_12903.txt",
+        "doc_10759.txt",
+        "doc_17763.txt",
+        "doc_17916.txt"
+    ]
+}

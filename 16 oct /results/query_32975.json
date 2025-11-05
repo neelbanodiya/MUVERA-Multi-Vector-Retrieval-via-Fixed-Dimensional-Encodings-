@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what does the term \u201cWile E.\u201d signify?",
+    "response": [
+        "doc_23176.txt",
+        "doc_16109.txt",
+        "doc_4400.txt",
+        "doc_2380.txt",
+        "doc_17773.txt"
+    ]
+}

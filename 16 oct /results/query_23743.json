@@ -1,0 +1,10 @@
+{
+    "query": "Which Catholic parish is Father Dowling associated with?",
+    "response": [
+        "doc_13782.txt",
+        "doc_13781.txt",
+        "doc_2920.txt",
+        "doc_5311.txt",
+        "doc_23322.txt"
+    ]
+}

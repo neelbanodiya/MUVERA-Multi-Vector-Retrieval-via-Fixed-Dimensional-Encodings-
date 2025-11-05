@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of a biography about Ray \u201cBoom Boom\u201d Mancini, and what does it describe?",
+    "response": [
+        "doc_21161.txt",
+        "doc_2338.txt",
+        "doc_20503.txt",
+        "doc_20569.txt",
+        "doc_7826.txt"
+    ]
+}

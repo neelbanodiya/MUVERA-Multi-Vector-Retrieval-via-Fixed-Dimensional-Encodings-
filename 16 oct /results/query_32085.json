@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what colors were used in the first flag of Romania?",
+    "response": [
+        "doc_3891.txt",
+        "doc_11050.txt",
+        "doc_792.txt",
+        "doc_7150.txt",
+        "doc_15378.txt"
+    ]
+}

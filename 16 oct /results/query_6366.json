@@ -1,0 +1,10 @@
+{
+    "query": "What type of art was Benvenuto Cellini known for creating?",
+    "response": [
+        "doc_3684.txt",
+        "doc_10759.txt",
+        "doc_3692.txt",
+        "doc_3691.txt",
+        "doc_3689.txt"
+    ]
+}

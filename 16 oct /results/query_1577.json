@@ -1,0 +1,10 @@
+{
+    "query": "Which river is the Rogue Valley located along?",
+    "response": [
+        "doc_890.txt",
+        "doc_3153.txt",
+        "doc_22541.txt",
+        "doc_22543.txt",
+        "doc_22542.txt"
+    ]
+}

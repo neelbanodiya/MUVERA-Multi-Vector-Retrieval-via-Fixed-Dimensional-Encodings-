@@ -1,0 +1,10 @@
+{
+    "query": "What was Russia associated with, according to the passage?",
+    "response": [
+        "doc_18363.txt",
+        "doc_17271.txt",
+        "doc_21379.txt",
+        "doc_20309.txt",
+        "doc_15890.txt"
+    ]
+}

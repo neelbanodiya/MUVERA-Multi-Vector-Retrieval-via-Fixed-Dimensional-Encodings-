@@ -1,0 +1,10 @@
+{
+    "query": "How many copies of *Presumed Innocent* did Scott Turow\u2019s first novel sell in the U.S.?",
+    "response": [
+        "doc_16218.txt",
+        "doc_8337.txt",
+        "doc_4654.txt",
+        "doc_22261.txt",
+        "doc_7122.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What specific trade deficit with Japan is the U.S. complaining about?",
+    "response": [
+        "doc_10601.txt",
+        "doc_10602.txt",
+        "doc_10600.txt",
+        "doc_10604.txt",
+        "doc_16477.txt"
+    ]
+}

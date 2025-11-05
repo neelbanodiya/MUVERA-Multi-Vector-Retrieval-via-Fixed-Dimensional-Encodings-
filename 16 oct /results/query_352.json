@@ -1,0 +1,10 @@
+{
+    "query": "Which general sent two corps across Antietam Creek near Sharpsburg?",
+    "response": [
+        "doc_191.txt",
+        "doc_190.txt",
+        "doc_192.txt",
+        "doc_203.txt",
+        "doc_22448.txt"
+    ]
+}

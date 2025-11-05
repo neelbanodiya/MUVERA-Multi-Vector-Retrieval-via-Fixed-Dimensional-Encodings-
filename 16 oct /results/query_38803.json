@@ -1,0 +1,10 @@
+{
+    "query": "According to the International Herald Tribune article, what type of sensitive profile information might advertisers potentially learn from Facebook users?",
+    "response": [
+        "doc_22725.txt",
+        "doc_12888.txt",
+        "doc_5402.txt",
+        "doc_11951.txt",
+        "doc_19270.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many employees does the Empire State Plaza house, as stated in the text?",
+    "response": [
+        "doc_22433.txt",
+        "doc_22423.txt",
+        "doc_22426.txt",
+        "doc_22431.txt",
+        "doc_22424.txt"
+    ]
+}

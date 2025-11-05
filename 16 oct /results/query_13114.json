@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is mentioned in Revelation 8:1?",
+    "response": [
+        "doc_1240.txt",
+        "doc_20631.txt",
+        "doc_5042.txt",
+        "doc_20643.txt",
+        "doc_8909.txt"
+    ]
+}

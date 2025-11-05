@@ -1,0 +1,10 @@
+{
+    "query": "In which county is Dania Beach, Florida located?",
+    "response": [
+        "doc_22792.txt",
+        "doc_23216.txt",
+        "doc_23217.txt",
+        "doc_22790.txt",
+        "doc_3833.txt"
+    ]
+}

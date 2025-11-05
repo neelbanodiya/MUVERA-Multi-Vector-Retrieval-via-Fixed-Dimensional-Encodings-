@@ -1,0 +1,10 @@
+{
+    "query": "What type of vehicle was the first Chevrolet Suburban based on?",
+    "response": [
+        "doc_17148.txt",
+        "doc_17153.txt",
+        "doc_17162.txt",
+        "doc_17161.txt",
+        "doc_17152.txt"
+    ]
+}

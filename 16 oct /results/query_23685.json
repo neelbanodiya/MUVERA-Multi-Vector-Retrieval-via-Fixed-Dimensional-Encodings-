@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cThe Second Time Around\u201d released as a film?",
+    "response": [
+        "doc_19140.txt",
+        "doc_2324.txt",
+        "doc_4587.txt",
+        "doc_582.txt",
+        "doc_15488.txt"
+    ]
+}

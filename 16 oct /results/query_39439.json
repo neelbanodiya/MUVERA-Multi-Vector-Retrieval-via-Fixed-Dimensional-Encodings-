@@ -1,0 +1,10 @@
+{
+    "query": "What is the Oktoberfest associated with?",
+    "response": [
+        "doc_3509.txt",
+        "doc_23357.txt",
+        "doc_6835.txt",
+        "doc_21755.txt",
+        "doc_103.txt"
+    ]
+}

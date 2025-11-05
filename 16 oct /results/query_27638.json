@@ -1,0 +1,10 @@
+{
+    "query": "What position did President Lincoln appoint McClellan to?",
+    "response": [
+        "doc_7939.txt",
+        "doc_12314.txt",
+        "doc_21249.txt",
+        "doc_10450.txt",
+        "doc_19681.txt"
+    ]
+}

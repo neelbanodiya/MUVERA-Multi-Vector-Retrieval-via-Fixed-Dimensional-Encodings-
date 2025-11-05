@@ -1,0 +1,10 @@
+{
+    "query": "Which Gospel accounts mention the rooster crowing twice?",
+    "response": [
+        "doc_23702.txt",
+        "doc_23703.txt",
+        "doc_23700.txt",
+        "doc_23697.txt",
+        "doc_23698.txt"
+    ]
+}

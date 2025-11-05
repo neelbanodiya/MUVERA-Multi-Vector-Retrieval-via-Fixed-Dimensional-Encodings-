@@ -1,0 +1,10 @@
+{
+    "query": "What types of motifs are found in the Basque country, according to the provided links?",
+    "response": [
+        "doc_1005.txt",
+        "doc_5864.txt",
+        "doc_7353.txt",
+        "doc_20387.txt",
+        "doc_7341.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the largest sealoch system in Scotland?",
+    "response": [
+        "doc_8432.txt",
+        "doc_8440.txt",
+        "doc_139.txt",
+        "doc_138.txt",
+        "doc_368.txt"
+    ]
+}

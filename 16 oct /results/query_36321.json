@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which Mexican newspapers are mentioned as sources of information?",
+    "response": [
+        "doc_14704.txt",
+        "doc_15416.txt",
+        "doc_19118.txt",
+        "doc_10219.txt",
+        "doc_12883.txt"
+    ]
+}

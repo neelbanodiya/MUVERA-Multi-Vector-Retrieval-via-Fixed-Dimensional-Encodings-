@@ -1,0 +1,10 @@
+{
+    "query": "In what body of water did the Exxon Valdez run aground?",
+    "response": [
+        "doc_6530.txt",
+        "doc_6536.txt",
+        "doc_6531.txt",
+        "doc_6533.txt",
+        "doc_6532.txt"
+    ]
+}

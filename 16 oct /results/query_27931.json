@@ -1,0 +1,10 @@
+{
+    "query": "What event took place at the White House during Pope Francis\u2019s visit to the United States?",
+    "response": [
+        "doc_16239.txt",
+        "doc_16234.txt",
+        "doc_16232.txt",
+        "doc_16233.txt",
+        "doc_16240.txt"
+    ]
+}

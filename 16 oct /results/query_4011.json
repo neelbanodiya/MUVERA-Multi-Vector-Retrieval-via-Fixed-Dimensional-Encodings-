@@ -1,0 +1,10 @@
+{
+    "query": "What awards did the Blond Ambition World Tour receive?",
+    "response": [
+        "doc_22622.txt",
+        "doc_15319.txt",
+        "doc_14341.txt",
+        "doc_2264.txt",
+        "doc_13852.txt"
+    ]
+}

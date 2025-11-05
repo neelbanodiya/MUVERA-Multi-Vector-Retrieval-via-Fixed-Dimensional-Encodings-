@@ -1,0 +1,10 @@
+{
+    "query": "What phrase is described as Florida\u2019s state motto and the U.S. motto?",
+    "response": [
+        "doc_10699.txt",
+        "doc_10702.txt",
+        "doc_10704.txt",
+        "doc_10703.txt",
+        "doc_10701.txt"
+    ]
+}

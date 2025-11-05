@@ -1,0 +1,10 @@
+{
+    "query": "What company initially wanted to sign Michael Jordan to a contract before Nike?",
+    "response": [
+        "doc_20203.txt",
+        "doc_24139.txt",
+        "doc_8008.txt",
+        "doc_1885.txt",
+        "doc_279.txt"
+    ]
+}

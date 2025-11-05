@@ -1,0 +1,10 @@
+{
+    "query": "When did Chrysler's Highway Hi-Fi first appear in automobiles?",
+    "response": [
+        "doc_24118.txt",
+        "doc_23485.txt",
+        "doc_23478.txt",
+        "doc_24116.txt",
+        "doc_23475.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to Mr. Fischler, what is the Commission\u2019s preferred approach to managing sea angling?",
+    "response": [
+        "doc_10572.txt",
+        "doc_4495.txt",
+        "doc_12161.txt",
+        "doc_2459.txt",
+        "doc_22799.txt"
+    ]
+}

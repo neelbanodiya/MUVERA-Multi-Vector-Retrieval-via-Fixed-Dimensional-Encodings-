@@ -1,0 +1,10 @@
+{
+    "query": "What type of rock formations are featured in the Sedona, Arizona image?",
+    "response": [
+        "doc_9327.txt",
+        "doc_9326.txt",
+        "doc_9331.txt",
+        "doc_9325.txt",
+        "doc_7259.txt"
+    ]
+}

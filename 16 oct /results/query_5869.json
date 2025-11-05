@@ -1,0 +1,10 @@
+{
+    "query": "What geographical area was the DEW Line designed to monitor for incoming threats?",
+    "response": [
+        "doc_3405.txt",
+        "doc_3408.txt",
+        "doc_3404.txt",
+        "doc_3412.txt",
+        "doc_3407.txt"
+    ]
+}

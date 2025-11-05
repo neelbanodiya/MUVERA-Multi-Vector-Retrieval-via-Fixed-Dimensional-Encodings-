@@ -1,0 +1,10 @@
+{
+    "query": "What genre of music did Aretha Franklin initially perform before transitioning to a secular career?",
+    "response": [
+        "doc_907.txt",
+        "doc_906.txt",
+        "doc_7783.txt",
+        "doc_19139.txt",
+        "doc_19136.txt"
+    ]
+}

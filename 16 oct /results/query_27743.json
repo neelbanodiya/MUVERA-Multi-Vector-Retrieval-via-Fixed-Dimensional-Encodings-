@@ -1,0 +1,10 @@
+{
+    "query": "Which novel by L\u2019Engle is described as having elements that characterize her young adult novels?",
+    "response": [
+        "doc_14548.txt",
+        "doc_14980.txt",
+        "doc_19142.txt",
+        "doc_14658.txt",
+        "doc_19952.txt"
+    ]
+}

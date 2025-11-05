@@ -1,0 +1,10 @@
+{
+    "query": "Besides Carthage, what other Phoenician colony is mentioned as being located in North Africa?",
+    "response": [
+        "doc_8345.txt",
+        "doc_8355.txt",
+        "doc_8349.txt",
+        "doc_8344.txt",
+        "doc_8351.txt"
+    ]
+}

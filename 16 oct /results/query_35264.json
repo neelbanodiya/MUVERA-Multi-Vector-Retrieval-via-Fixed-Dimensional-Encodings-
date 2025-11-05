@@ -1,0 +1,10 @@
+{
+    "query": "According to one source, how does \u201cDo That to Me One More Time\u201d resemble another song\u2019s melody?",
+    "response": [
+        "doc_18883.txt",
+        "doc_18894.txt",
+        "doc_18882.txt",
+        "doc_20277.txt",
+        "doc_18896.txt"
+    ]
+}

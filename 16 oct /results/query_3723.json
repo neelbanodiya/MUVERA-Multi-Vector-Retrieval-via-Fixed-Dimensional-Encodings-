@@ -1,0 +1,10 @@
+{
+    "query": "What was Johnny Depp\u2019s role in the film *Edward Scissorhands*?",
+    "response": [
+        "doc_16925.txt",
+        "doc_2192.txt",
+        "doc_18484.txt",
+        "doc_15278.txt",
+        "doc_18482.txt"
+    ]
+}

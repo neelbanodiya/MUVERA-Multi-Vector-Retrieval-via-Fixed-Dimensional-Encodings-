@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what type of plants were found in Vinland?",
+    "response": [
+        "doc_7346.txt",
+        "doc_6502.txt",
+        "doc_7347.txt",
+        "doc_6499.txt",
+        "doc_7340.txt"
+    ]
+}

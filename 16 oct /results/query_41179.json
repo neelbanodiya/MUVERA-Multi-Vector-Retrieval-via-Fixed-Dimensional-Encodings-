@@ -1,0 +1,10 @@
+{
+    "query": "Who consults the European Parliament regarding a new Protocol?",
+    "response": [
+        "doc_24110.txt",
+        "doc_13217.txt",
+        "doc_19804.txt",
+        "doc_13316.txt",
+        "doc_13248.txt"
+    ]
+}

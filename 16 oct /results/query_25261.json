@@ -1,0 +1,10 @@
+{
+    "query": "What was a characteristic of the people living in Eastwood, Nottinghamshire?",
+    "response": [
+        "doc_14654.txt",
+        "doc_2692.txt",
+        "doc_12641.txt",
+        "doc_17338.txt",
+        "doc_20608.txt"
+    ]
+}

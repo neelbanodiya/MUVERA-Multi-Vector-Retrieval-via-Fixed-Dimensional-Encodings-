@@ -1,0 +1,10 @@
+{
+    "query": "What type of sword was recovered from the Culloden battle site and sold by The Lanes Armoury?",
+    "response": [
+        "doc_10500.txt",
+        "doc_23877.txt",
+        "doc_1848.txt",
+        "doc_16485.txt",
+        "doc_6342.txt"
+    ]
+}

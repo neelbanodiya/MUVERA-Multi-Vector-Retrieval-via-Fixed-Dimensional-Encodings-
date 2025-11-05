@@ -1,0 +1,10 @@
+{
+    "query": "What was Jimmie Wedell famous for designing?",
+    "response": [
+        "doc_20220.txt",
+        "doc_15335.txt",
+        "doc_3979.txt",
+        "doc_6959.txt",
+        "doc_3684.txt"
+    ]
+}

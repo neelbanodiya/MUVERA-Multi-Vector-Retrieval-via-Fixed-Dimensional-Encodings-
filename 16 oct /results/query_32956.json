@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, who was elected to the Board of Directors in 2013?",
+    "response": [
+        "doc_14624.txt",
+        "doc_4529.txt",
+        "doc_17998.txt",
+        "doc_18785.txt",
+        "doc_14283.txt"
+    ]
+}

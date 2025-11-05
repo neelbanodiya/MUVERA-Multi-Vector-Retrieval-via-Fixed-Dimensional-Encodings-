@@ -1,0 +1,10 @@
+{
+    "query": "When did Janis Joplin make her debut with Big Brother at the Avalon Ballroom?",
+    "response": [
+        "doc_8010.txt",
+        "doc_8019.txt",
+        "doc_8020.txt",
+        "doc_8017.txt",
+        "doc_8016.txt"
+    ]
+}

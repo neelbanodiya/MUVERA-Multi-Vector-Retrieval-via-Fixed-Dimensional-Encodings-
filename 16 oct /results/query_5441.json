@@ -1,0 +1,10 @@
+{
+    "query": "Through which bay do the Sacramento and San Joaquin Rivers flow?",
+    "response": [
+        "doc_3146.txt",
+        "doc_3145.txt",
+        "doc_3143.txt",
+        "doc_3157.txt",
+        "doc_3148.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did *The Beverly Hillbillies* originally air?",
+    "response": [
+        "doc_17176.txt",
+        "doc_17177.txt",
+        "doc_17186.txt",
+        "doc_17175.txt",
+        "doc_17173.txt"
+    ]
+}

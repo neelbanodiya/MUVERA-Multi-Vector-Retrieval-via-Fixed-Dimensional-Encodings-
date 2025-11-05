@@ -1,0 +1,10 @@
+{
+    "query": "Where was Chef Anthony Lamas\u2019 favorite cheese made?",
+    "response": [
+        "doc_8951.txt",
+        "doc_6699.txt",
+        "doc_23417.txt",
+        "doc_7083.txt",
+        "doc_14362.txt"
+    ]
+}

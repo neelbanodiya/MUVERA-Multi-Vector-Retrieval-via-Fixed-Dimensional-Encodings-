@@ -1,0 +1,10 @@
+{
+    "query": "Who did Nicolas Poussin adopt as his son?",
+    "response": [
+        "doc_16316.txt",
+        "doc_10139.txt",
+        "doc_10149.txt",
+        "doc_2223.txt",
+        "doc_4815.txt"
+    ]
+}

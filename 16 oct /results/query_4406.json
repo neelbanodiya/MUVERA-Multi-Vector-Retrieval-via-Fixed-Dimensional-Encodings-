@@ -1,0 +1,8 @@
+{
+    "query": "Where did Dick Cheney spend his childhood and what were his parents\u2019 occupations?",
+    "response": [
+        "doc_2561.txt",
+        "doc_2562.txt",
+        "doc_2560.txt"
+    ]
+}

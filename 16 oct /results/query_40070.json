@@ -1,0 +1,10 @@
+{
+    "query": "What flavor coffee is described as combining Irish cream with hazelnut?",
+    "response": [
+        "doc_23462.txt",
+        "doc_23456.txt",
+        "doc_19642.txt",
+        "doc_23957.txt",
+        "doc_23960.txt"
+    ]
+}

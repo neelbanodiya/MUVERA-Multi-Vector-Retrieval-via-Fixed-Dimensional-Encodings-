@@ -1,0 +1,10 @@
+{
+    "query": "What is Dante doing for Ari?",
+    "response": [
+        "doc_13334.txt",
+        "doc_20931.txt",
+        "doc_4734.txt",
+        "doc_10680.txt",
+        "doc_6492.txt"
+    ]
+}

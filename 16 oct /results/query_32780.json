@@ -1,0 +1,10 @@
+{
+    "query": "What brand of luggage was featured in the commercial that Paul Guerette worked on?",
+    "response": [
+        "doc_20931.txt",
+        "doc_22900.txt",
+        "doc_21161.txt",
+        "doc_12320.txt",
+        "doc_2231.txt"
+    ]
+}

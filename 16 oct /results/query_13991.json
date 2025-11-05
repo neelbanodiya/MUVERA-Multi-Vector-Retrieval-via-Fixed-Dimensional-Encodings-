@@ -1,0 +1,10 @@
+{
+    "query": "What type of music did Katy Perry initially pursue as a teenager?",
+    "response": [
+        "doc_8122.txt",
+        "doc_8121.txt",
+        "doc_19136.txt",
+        "doc_19138.txt",
+        "doc_18839.txt"
+    ]
+}

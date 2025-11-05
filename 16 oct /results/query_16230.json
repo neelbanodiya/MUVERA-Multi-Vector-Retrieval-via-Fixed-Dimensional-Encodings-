@@ -1,0 +1,10 @@
+{
+    "query": "What type of literary work is \u201cUp from the Bottomless Pit and Other Stories\u201d?",
+    "response": [
+        "doc_9402.txt",
+        "doc_20495.txt",
+        "doc_16009.txt",
+        "doc_23901.txt",
+        "doc_14236.txt"
+    ]
+}

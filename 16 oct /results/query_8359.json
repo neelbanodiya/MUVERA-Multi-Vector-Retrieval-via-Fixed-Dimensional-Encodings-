@@ -1,0 +1,10 @@
+{
+    "query": "What EU measures are the Commission referring to in relation to the Israeli-Palestinian conflict?",
+    "response": [
+        "doc_16748.txt",
+        "doc_9671.txt",
+        "doc_8443.txt",
+        "doc_18589.txt",
+        "doc_22676.txt"
+    ]
+}

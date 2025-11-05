@@ -1,0 +1,10 @@
+{
+    "query": "What is the central conflict of the *Tomorrow Never Dies* movie, according to the Golden Globes review?",
+    "response": [
+        "doc_17071.txt",
+        "doc_17074.txt",
+        "doc_1580.txt",
+        "doc_17073.txt",
+        "doc_17070.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was Marge and Lisa searching for?",
+    "response": [
+        "doc_753.txt",
+        "doc_6682.txt",
+        "doc_5794.txt",
+        "doc_16485.txt",
+        "doc_2658.txt"
+    ]
+}

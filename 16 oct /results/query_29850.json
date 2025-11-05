@@ -1,0 +1,10 @@
+{
+    "query": "What is the European Union currently facing regarding public confidence?",
+    "response": [
+        "doc_17382.txt",
+        "doc_14837.txt",
+        "doc_21335.txt",
+        "doc_18360.txt",
+        "doc_2824.txt"
+    ]
+}

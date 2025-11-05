@@ -1,0 +1,10 @@
+{
+    "query": "In 1994, what action did Boris Yeltsin take regarding the breakaway republic of Chechnya?",
+    "response": [
+        "doc_23268.txt",
+        "doc_23270.txt",
+        "doc_23272.txt",
+        "doc_23273.txt",
+        "doc_23265.txt"
+    ]
+}

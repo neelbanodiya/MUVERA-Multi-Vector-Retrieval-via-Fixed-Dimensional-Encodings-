@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what significant historical event occurred during the Seven Years War?",
+    "response": [
+        "doc_4066.txt",
+        "doc_507.txt",
+        "doc_15922.txt",
+        "doc_21978.txt",
+        "doc_207.txt"
+    ]
+}

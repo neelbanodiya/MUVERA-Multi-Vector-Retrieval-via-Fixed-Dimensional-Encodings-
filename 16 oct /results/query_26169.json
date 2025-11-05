@@ -1,0 +1,10 @@
+{
+    "query": "What was the result of the match between Dong Nai and Dong Thap on July 12, 2015?",
+    "response": [
+        "doc_15216.txt",
+        "doc_15217.txt",
+        "doc_15213.txt",
+        "doc_15214.txt",
+        "doc_15211.txt"
+    ]
+}

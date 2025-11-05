@@ -1,0 +1,10 @@
+{
+    "query": "What was the volume of timber harvested from the Tongass National Forest until April 2004?",
+    "response": [
+        "doc_16488.txt",
+        "doc_16487.txt",
+        "doc_18426.txt",
+        "doc_5564.txt",
+        "doc_8232.txt"
+    ]
+}

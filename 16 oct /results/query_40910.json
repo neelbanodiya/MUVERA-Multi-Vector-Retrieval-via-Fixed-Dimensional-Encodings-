@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the ResearchGate article related to repeat victimization?",
+    "response": [
+        "doc_18225.txt",
+        "doc_21014.txt",
+        "doc_18150.txt",
+        "doc_14410.txt",
+        "doc_18928.txt"
+    ]
+}

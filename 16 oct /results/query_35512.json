@@ -1,0 +1,10 @@
+{
+    "query": "In 1981, what type of attempt was made against President Reagan?",
+    "response": [
+        "doc_20670.txt",
+        "doc_20673.txt",
+        "doc_20680.txt",
+        "doc_20688.txt",
+        "doc_20671.txt"
+    ]
+}

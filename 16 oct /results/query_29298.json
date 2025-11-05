@@ -1,0 +1,10 @@
+{
+    "query": "What organization manages the fountains in Kansas City?",
+    "response": [
+        "doc_17060.txt",
+        "doc_17059.txt",
+        "doc_14324.txt",
+        "doc_5559.txt",
+        "doc_16149.txt"
+    ]
+}

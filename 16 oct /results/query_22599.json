@@ -1,0 +1,10 @@
+{
+    "query": "What Hall of Famers were associated with the Pittsburgh Steelers?",
+    "response": [
+        "doc_12992.txt",
+        "doc_12991.txt",
+        "doc_12987.txt",
+        "doc_13004.txt",
+        "doc_12993.txt"
+    ]
+}

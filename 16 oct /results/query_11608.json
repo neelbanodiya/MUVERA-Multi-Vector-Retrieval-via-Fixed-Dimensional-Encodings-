@@ -1,0 +1,10 @@
+{
+    "query": "When was the Volkswagen Beetle manufactured and marketed?",
+    "response": [
+        "doc_23481.txt",
+        "doc_6756.txt",
+        "doc_23479.txt",
+        "doc_23480.txt",
+        "doc_11551.txt"
+    ]
+}

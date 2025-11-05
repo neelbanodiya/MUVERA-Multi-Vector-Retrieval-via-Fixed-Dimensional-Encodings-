@@ -1,0 +1,10 @@
+{
+    "query": "What is the Spanish expression used to describe the practice of \u201cBig Bottle\u201d mentioned in one of the linked articles?",
+    "response": [
+        "doc_957.txt",
+        "doc_7368.txt",
+        "doc_1167.txt",
+        "doc_17884.txt",
+        "doc_21180.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When did the ceasefire agreement between the Ugandan government and the LRA expire?",
+    "response": [
+        "doc_10801.txt",
+        "doc_16821.txt",
+        "doc_8113.txt",
+        "doc_16466.txt",
+        "doc_3247.txt"
+    ]
+}

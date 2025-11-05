@@ -1,0 +1,10 @@
+{
+    "query": "How many people died as a result of the toxic waste dumping in Abidjan?",
+    "response": [
+        "doc_20648.txt",
+        "doc_15998.txt",
+        "doc_9672.txt",
+        "doc_4550.txt",
+        "doc_23673.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "At what age was Joan Jett performing with the Blackhearts?",
+    "response": [
+        "doc_22564.txt",
+        "doc_22558.txt",
+        "doc_22557.txt",
+        "doc_22551.txt",
+        "doc_22555.txt"
+    ]
+}

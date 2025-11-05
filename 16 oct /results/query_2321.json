@@ -1,0 +1,10 @@
+{
+    "query": "What type of music is described as creating a sense of unpredictability, similar to certain West African music?",
+    "response": [
+        "doc_19461.txt",
+        "doc_15612.txt",
+        "doc_10112.txt",
+        "doc_19462.txt",
+        "doc_18896.txt"
+    ]
+}

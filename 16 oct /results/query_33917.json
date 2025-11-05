@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Peace Corps establish its program in Mongolia?",
+    "response": [
+        "doc_19744.txt",
+        "doc_19743.txt",
+        "doc_19730.txt",
+        "doc_12607.txt",
+        "doc_8237.txt"
+    ]
+}

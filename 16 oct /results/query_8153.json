@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what crime was Kenneth Eric Jackson charged with?",
+    "response": [
+        "doc_4719.txt",
+        "doc_4721.txt",
+        "doc_4722.txt",
+        "doc_4724.txt",
+        "doc_8573.txt"
+    ]
+}

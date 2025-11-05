@@ -1,0 +1,10 @@
+{
+    "query": "What are the five letters considered vowel letters in the English alphabet?",
+    "response": [
+        "doc_12379.txt",
+        "doc_12392.txt",
+        "doc_12395.txt",
+        "doc_12380.txt",
+        "doc_949.txt"
+    ]
+}

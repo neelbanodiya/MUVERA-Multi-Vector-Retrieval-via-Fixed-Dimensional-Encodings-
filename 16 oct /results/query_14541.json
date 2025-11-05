@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how much did it cost to see \u201cStar Wars\u201d in 1977?",
+    "response": [
+        "doc_8403.txt",
+        "doc_2103.txt",
+        "doc_23510.txt",
+        "doc_23511.txt",
+        "doc_3060.txt"
+    ]
+}

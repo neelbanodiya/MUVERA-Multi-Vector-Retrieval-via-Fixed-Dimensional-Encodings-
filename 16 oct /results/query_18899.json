@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Pete Rose\u2019s book, \u201cMy Prison Without Bars,\u201d published?",
+    "response": [
+        "doc_10952.txt",
+        "doc_10951.txt",
+        "doc_10954.txt",
+        "doc_10953.txt",
+        "doc_10965.txt"
+    ]
+}

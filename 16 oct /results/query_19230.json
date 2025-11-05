@@ -1,0 +1,10 @@
+{
+    "query": "Which Filipino movie title, as listed on DefinitelyFilipino.com, translates to \u201cHard Bread in Hot Coffee\u201d?",
+    "response": [
+        "doc_18844.txt",
+        "doc_4880.txt",
+        "doc_5794.txt",
+        "doc_10427.txt",
+        "doc_20610.txt"
+    ]
+}

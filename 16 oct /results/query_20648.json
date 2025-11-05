@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of a novel Charles Dickens called his \u201cfavorite\u201d?",
+    "response": [
+        "doc_20542.txt",
+        "doc_11909.txt",
+        "doc_20546.txt",
+        "doc_20538.txt",
+        "doc_20544.txt"
+    ]
+}

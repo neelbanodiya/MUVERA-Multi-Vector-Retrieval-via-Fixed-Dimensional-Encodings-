@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was the source proposed for the architectural elements of a mosque in Java in the early 15th century?",
+    "response": [
+        "doc_15847.txt",
+        "doc_15843.txt",
+        "doc_15846.txt",
+        "doc_23683.txt",
+        "doc_1193.txt"
+    ]
+}

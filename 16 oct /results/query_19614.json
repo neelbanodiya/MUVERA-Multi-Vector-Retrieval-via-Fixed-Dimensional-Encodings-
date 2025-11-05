@@ -1,0 +1,10 @@
+{
+    "query": "What was the final score of the U.S. hockey team\u2019s victory over the Soviet Union?",
+    "response": [
+        "doc_11357.txt",
+        "doc_11338.txt",
+        "doc_11341.txt",
+        "doc_11342.txt",
+        "doc_11339.txt"
+    ]
+}

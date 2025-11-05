@@ -1,0 +1,10 @@
+{
+    "query": "What type of play did Paul Green co-write in 1941, based on Richard Wright\u2019s novel *Native Son*?",
+    "response": [
+        "doc_5293.txt",
+        "doc_5294.txt",
+        "doc_5298.txt",
+        "doc_5296.txt",
+        "doc_5299.txt"
+    ]
+}

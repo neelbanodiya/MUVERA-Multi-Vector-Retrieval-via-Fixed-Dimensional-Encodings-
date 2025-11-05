@@ -1,0 +1,8 @@
+{
+    "query": "Which town in Massachusetts owns the Chatham airport?",
+    "response": [
+        "doc_4958.txt",
+        "doc_4959.txt",
+        "doc_11493.txt"
+    ]
+}

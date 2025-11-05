@@ -1,0 +1,10 @@
+{
+    "query": "What role is the woman understudying in *The Seagull*?",
+    "response": [
+        "doc_4846.txt",
+        "doc_1306.txt",
+        "doc_4631.txt",
+        "doc_2528.txt",
+        "doc_3228.txt"
+    ]
+}

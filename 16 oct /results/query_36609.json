@@ -1,0 +1,10 @@
+{
+    "query": "What specific nature restoration measure was initially planned for the Western Scheldt, and how much land was to be affected by it?",
+    "response": [
+        "doc_10500.txt",
+        "doc_10818.txt",
+        "doc_5721.txt",
+        "doc_16485.txt",
+        "doc_9671.txt"
+    ]
+}

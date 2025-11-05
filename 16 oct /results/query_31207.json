@@ -1,0 +1,10 @@
+{
+    "query": "Where was Daedalus and his son Icarus initially confined?",
+    "response": [
+        "doc_18192.txt",
+        "doc_18207.txt",
+        "doc_18209.txt",
+        "doc_18196.txt",
+        "doc_18193.txt"
+    ]
+}

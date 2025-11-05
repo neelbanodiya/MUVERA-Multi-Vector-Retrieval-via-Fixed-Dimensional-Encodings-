@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was the subject of a doctoral thesis for someone who knew Jane Austen?",
+    "response": [
+        "doc_2318.txt",
+        "doc_2334.txt",
+        "doc_11297.txt",
+        "doc_2321.txt",
+        "doc_4655.txt"
+    ]
+}

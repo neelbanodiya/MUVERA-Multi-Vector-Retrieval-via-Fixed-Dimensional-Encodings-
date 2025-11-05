@@ -1,0 +1,10 @@
+{
+    "query": "When did Catherine become queen consort of France?",
+    "response": [
+        "doc_23751.txt",
+        "doc_23746.txt",
+        "doc_23755.txt",
+        "doc_23750.txt",
+        "doc_23754.txt"
+    ]
+}

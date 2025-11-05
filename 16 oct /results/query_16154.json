@@ -1,0 +1,10 @@
+{
+    "query": "What two locations are encompassed by the National Park Service bill, besides the Grand Canyon?",
+    "response": [
+        "doc_9327.txt",
+        "doc_18154.txt",
+        "doc_4336.txt",
+        "doc_11120.txt",
+        "doc_10500.txt"
+    ]
+}

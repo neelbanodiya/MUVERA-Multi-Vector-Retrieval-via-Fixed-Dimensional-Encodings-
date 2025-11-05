@@ -1,0 +1,10 @@
+{
+    "query": "What European Council meetings and resolutions are referenced in this document?",
+    "response": [
+        "doc_13384.txt",
+        "doc_17348.txt",
+        "doc_20749.txt",
+        "doc_4133.txt",
+        "doc_8385.txt"
+    ]
+}

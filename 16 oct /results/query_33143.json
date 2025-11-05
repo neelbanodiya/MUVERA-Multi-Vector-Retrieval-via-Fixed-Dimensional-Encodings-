@@ -1,0 +1,10 @@
+{
+    "query": "When did Allison die?",
+    "response": [
+        "doc_2047.txt",
+        "doc_19287.txt",
+        "doc_5785.txt",
+        "doc_1066.txt",
+        "doc_17174.txt"
+    ]
+}

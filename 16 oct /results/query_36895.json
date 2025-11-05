@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, what are some examples of animals that belong to the phylum Arthropoda?",
+    "response": [
+        "doc_21569.txt",
+        "doc_21574.txt",
+        "doc_21571.txt",
+        "doc_21575.txt",
+        "doc_21568.txt"
+    ]
+}

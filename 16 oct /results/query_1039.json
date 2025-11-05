@@ -1,0 +1,10 @@
+{
+    "query": "In what month and year was Stephen shooting scenes for the film \u2018Whiteblade\u2019?",
+    "response": [
+        "doc_2231.txt",
+        "doc_1812.txt",
+        "doc_14685.txt",
+        "doc_2680.txt",
+        "doc_20958.txt"
+    ]
+}

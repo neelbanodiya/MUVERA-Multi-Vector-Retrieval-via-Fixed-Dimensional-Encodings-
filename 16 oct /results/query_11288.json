@@ -1,0 +1,10 @@
+{
+    "query": "What happened to a cable in Kansas City on February 6, 2016?",
+    "response": [
+        "doc_6530.txt",
+        "doc_22918.txt",
+        "doc_2739.txt",
+        "doc_22917.txt",
+        "doc_22912.txt"
+    ]
+}

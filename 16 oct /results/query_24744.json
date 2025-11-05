@@ -1,0 +1,10 @@
+{
+    "query": "Which classic comedy aired on TCM in September 2015, featuring W.C. Fields?",
+    "response": [
+        "doc_10014.txt",
+        "doc_14257.txt",
+        "doc_14817.txt",
+        "doc_9395.txt",
+        "doc_22741.txt"
+    ]
+}

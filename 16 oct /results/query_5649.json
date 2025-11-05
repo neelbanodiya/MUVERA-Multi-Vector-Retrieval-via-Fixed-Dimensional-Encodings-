@@ -1,0 +1,10 @@
+{
+    "query": "Besides the Golden Bear nickname, what other titles did Jack Nicklaus receive, such as \u201cGolfer of the Century\u201d?",
+    "response": [
+        "doc_3286.txt",
+        "doc_1842.txt",
+        "doc_19627.txt",
+        "doc_1848.txt",
+        "doc_1849.txt"
+    ]
+}

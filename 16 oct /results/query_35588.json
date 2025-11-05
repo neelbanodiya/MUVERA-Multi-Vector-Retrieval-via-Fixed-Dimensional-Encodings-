@@ -1,0 +1,10 @@
+{
+    "query": "Which regulation, (EU) No 182/2011, is referenced when a specific paragraph of Regulation (EEC) No 2841/72 is invoked?",
+    "response": [
+        "doc_20750.txt",
+        "doc_20813.txt",
+        "doc_20752.txt",
+        "doc_20835.txt",
+        "doc_20848.txt"
+    ]
+}

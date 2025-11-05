@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Vincent Foster in 1994?",
+    "response": [
+        "doc_11154.txt",
+        "doc_7628.txt",
+        "doc_17888.txt",
+        "doc_4740.txt",
+        "doc_7734.txt"
+    ]
+}

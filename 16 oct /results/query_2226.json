@@ -1,0 +1,10 @@
+{
+    "query": "Which television drama was based on the story of Koi Kei Bakery?",
+    "response": [
+        "doc_1318.txt",
+        "doc_1319.txt",
+        "doc_7546.txt",
+        "doc_13737.txt",
+        "doc_2185.txt"
+    ]
+}

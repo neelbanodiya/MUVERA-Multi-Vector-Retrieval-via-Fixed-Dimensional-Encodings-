@@ -1,0 +1,10 @@
+{
+    "query": "How did Pope Boniface IV influence the celebration of All Saints\u2019 Day?",
+    "response": [
+        "doc_105.txt",
+        "doc_101.txt",
+        "doc_93.txt",
+        "doc_96.txt",
+        "doc_97.txt"
+    ]
+}

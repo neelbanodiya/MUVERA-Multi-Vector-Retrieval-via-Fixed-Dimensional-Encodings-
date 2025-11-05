@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was John Hope Franklin\u2019s role in President Clinton\u2019s Initiative?",
+    "response": [
+        "doc_7524.txt",
+        "doc_11916.txt",
+        "doc_17353.txt",
+        "doc_22250.txt",
+        "doc_20540.txt"
+    ]
+}

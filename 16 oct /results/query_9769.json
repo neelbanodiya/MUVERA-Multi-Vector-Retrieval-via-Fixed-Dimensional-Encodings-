@@ -1,0 +1,10 @@
+{
+    "query": "According to the Parliament\u2019s report, how many flights operated by the CIA flew into European airspace between 2001 and 2005?",
+    "response": [
+        "doc_5637.txt",
+        "doc_14427.txt",
+        "doc_6374.txt",
+        "doc_16841.txt",
+        "doc_16847.txt"
+    ]
+}

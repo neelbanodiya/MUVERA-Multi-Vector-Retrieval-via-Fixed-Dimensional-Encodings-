@@ -1,0 +1,10 @@
+{
+    "query": "How many goals did Canada score in their seven games at the Vancouver Olympics?",
+    "response": [
+        "doc_15505.txt",
+        "doc_15508.txt",
+        "doc_15514.txt",
+        "doc_15515.txt",
+        "doc_15512.txt"
+    ]
+}

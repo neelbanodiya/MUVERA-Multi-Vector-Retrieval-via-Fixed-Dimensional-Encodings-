@@ -1,0 +1,10 @@
+{
+    "query": "What awards did Marvin Hamlisch receive for his work on \u201cThe Sting\u201d?",
+    "response": [
+        "doc_12358.txt",
+        "doc_12359.txt",
+        "doc_2264.txt",
+        "doc_15278.txt",
+        "doc_19013.txt"
+    ]
+}

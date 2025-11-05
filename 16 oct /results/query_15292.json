@@ -1,0 +1,10 @@
+{
+    "query": "From which regions do people make pilgrimages to Mt. Kailash, including Tibet, India, Bhutan, and Central Asia?",
+    "response": [
+        "doc_8860.txt",
+        "doc_8857.txt",
+        "doc_8859.txt",
+        "doc_8863.txt",
+        "doc_8864.txt"
+    ]
+}

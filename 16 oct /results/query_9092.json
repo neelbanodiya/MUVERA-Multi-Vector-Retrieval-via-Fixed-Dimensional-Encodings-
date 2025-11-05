@@ -1,0 +1,10 @@
+{
+    "query": "What specific technological areas should Member States prioritize for improvement, according to the passage?",
+    "response": [
+        "doc_4710.txt",
+        "doc_14215.txt",
+        "doc_21335.txt",
+        "doc_14129.txt",
+        "doc_18017.txt"
+    ]
+}

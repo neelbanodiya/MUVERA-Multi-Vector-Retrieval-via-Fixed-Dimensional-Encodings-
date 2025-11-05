@@ -1,0 +1,10 @@
+{
+    "query": "Besides painting, in what other art form did Leonardo da Vinci actively work?",
+    "response": [
+        "doc_10760.txt",
+        "doc_10763.txt",
+        "doc_10762.txt",
+        "doc_15475.txt",
+        "doc_10761.txt"
+    ]
+}

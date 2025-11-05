@@ -1,0 +1,10 @@
+{
+    "query": "According to the United States Stamp Values guide, what is the listed price for the 20 cent Golden Gate Bridge stamp?",
+    "response": [
+        "doc_19671.txt",
+        "doc_7469.txt",
+        "doc_7458.txt",
+        "doc_6888.txt",
+        "doc_2116.txt"
+    ]
+}

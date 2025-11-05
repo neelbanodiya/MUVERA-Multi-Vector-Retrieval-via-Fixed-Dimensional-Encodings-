@@ -1,0 +1,10 @@
+{
+    "query": "What opera, translated by Da Ponte, was considered by some to be Salieri\u2019s finest achievement?",
+    "response": [
+        "doc_14188.txt",
+        "doc_14184.txt",
+        "doc_14183.txt",
+        "doc_14189.txt",
+        "doc_14182.txt"
+    ]
+}

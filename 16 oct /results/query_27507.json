@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, what was Thomas More\u2019s primary motivation for writing *Utopia*?",
+    "response": [
+        "doc_15999.txt",
+        "doc_16006.txt",
+        "doc_16000.txt",
+        "doc_16010.txt",
+        "doc_16008.txt"
+    ]
+}

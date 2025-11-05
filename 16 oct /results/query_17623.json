@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of Stephen Foster\u2019s first published song?",
+    "response": [
+        "doc_10202.txt",
+        "doc_10194.txt",
+        "doc_5318.txt",
+        "doc_17090.txt",
+        "doc_2374.txt"
+    ]
+}

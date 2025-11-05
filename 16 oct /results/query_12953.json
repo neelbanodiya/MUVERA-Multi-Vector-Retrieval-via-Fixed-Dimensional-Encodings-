@@ -1,0 +1,10 @@
+{
+    "query": "What film featured Nicolas Coppola, also known as Cage, in 1984 and was directed by Francis Ford Coppola?",
+    "response": [
+        "doc_22837.txt",
+        "doc_14626.txt",
+        "doc_8693.txt",
+        "doc_14684.txt",
+        "doc_14257.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Ennis win an NBL championship?",
+    "response": [
+        "doc_6528.txt",
+        "doc_6529.txt",
+        "doc_18657.txt",
+        "doc_22767.txt",
+        "doc_21707.txt"
+    ]
+}

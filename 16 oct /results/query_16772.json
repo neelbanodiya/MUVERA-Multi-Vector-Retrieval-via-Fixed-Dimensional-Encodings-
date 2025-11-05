@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what are some ingredients commonly found in a traditional Caesar salad dressing?",
+    "response": [
+        "doc_9714.txt",
+        "doc_9721.txt",
+        "doc_9712.txt",
+        "doc_9715.txt",
+        "doc_9728.txt"
+    ]
+}

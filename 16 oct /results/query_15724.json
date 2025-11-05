@@ -1,0 +1,10 @@
+{
+    "query": "What was the maximum amount of Senate experience held by Senators between 1949 and 2011?",
+    "response": [
+        "doc_9117.txt",
+        "doc_2177.txt",
+        "doc_2088.txt",
+        "doc_2101.txt",
+        "doc_15077.txt"
+    ]
+}

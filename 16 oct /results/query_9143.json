@@ -1,0 +1,10 @@
+{
+    "query": "What was Thomas Dewey\u2019s position when the Paynesville Press event occurred?",
+    "response": [
+        "doc_12844.txt",
+        "doc_15195.txt",
+        "doc_1222.txt",
+        "doc_2920.txt",
+        "doc_19090.txt"
+    ]
+}

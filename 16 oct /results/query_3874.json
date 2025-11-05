@@ -1,0 +1,10 @@
+{
+    "query": "What is the highest point in Chad?",
+    "response": [
+        "doc_2273.txt",
+        "doc_2278.txt",
+        "doc_2276.txt",
+        "doc_2274.txt",
+        "doc_2279.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is Mount Elbert\u2019s ranking in terms of the highest peaks in the lower 48 states?",
+    "response": [
+        "doc_18552.txt",
+        "doc_18535.txt",
+        "doc_18536.txt",
+        "doc_18551.txt",
+        "doc_18534.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In 1990, what was Brian Mulroney attempting to achieve through his call to the First Minister\u2019s conference?",
+    "response": [
+        "doc_21259.txt",
+        "doc_19803.txt",
+        "doc_21260.txt",
+        "doc_21252.txt",
+        "doc_4778.txt"
+    ]
+}

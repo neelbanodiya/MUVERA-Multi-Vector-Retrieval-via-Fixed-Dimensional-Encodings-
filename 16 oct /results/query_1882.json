@@ -1,0 +1,10 @@
+{
+    "query": "What is the connection between the French phrase \"caillou du Rhin\" and the description of \"Austrian\" cut-crystal rhinestones?",
+    "response": [
+        "doc_23535.txt",
+        "doc_1112.txt",
+        "doc_1113.txt",
+        "doc_1484.txt",
+        "doc_9979.txt"
+    ]
+}

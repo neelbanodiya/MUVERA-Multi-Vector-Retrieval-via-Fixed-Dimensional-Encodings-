@@ -1,0 +1,10 @@
+{
+    "query": "What is described in the Easy Cover - Aero Industries passage as potentially causing a tarp to sail?",
+    "response": [
+        "doc_13989.txt",
+        "doc_584.txt",
+        "doc_21864.txt",
+        "doc_15590.txt",
+        "doc_12419.txt"
+    ]
+}

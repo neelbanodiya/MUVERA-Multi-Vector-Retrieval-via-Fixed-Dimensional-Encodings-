@@ -1,0 +1,10 @@
+{
+    "query": "What year was Daphne du Maurier born?",
+    "response": [
+        "doc_7884.txt",
+        "doc_7883.txt",
+        "doc_7882.txt",
+        "doc_7881.txt",
+        "doc_7880.txt"
+    ]
+}

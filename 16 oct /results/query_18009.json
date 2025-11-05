@@ -1,0 +1,10 @@
+{
+    "query": "Who was killed at Fort Griswold?",
+    "response": [
+        "doc_10408.txt",
+        "doc_10410.txt",
+        "doc_10409.txt",
+        "doc_18155.txt",
+        "doc_10449.txt"
+    ]
+}

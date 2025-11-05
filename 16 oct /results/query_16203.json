@@ -1,0 +1,10 @@
+{
+    "query": "What song, originally written by Leonard Cohen, was frequently played with its English lyrics despite the show being in French?",
+    "response": [
+        "doc_8812.txt",
+        "doc_14824.txt",
+        "doc_23472.txt",
+        "doc_2478.txt",
+        "doc_13104.txt"
+    ]
+}

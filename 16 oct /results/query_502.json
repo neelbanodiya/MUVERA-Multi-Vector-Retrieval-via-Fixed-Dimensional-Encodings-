@@ -1,0 +1,10 @@
+{
+    "query": "Who trademarked the trade name \u201cSe\u00f1orita Mexico\u201d in the United States, and where are their headquarters located?",
+    "response": [
+        "doc_308.txt",
+        "doc_13055.txt",
+        "doc_10216.txt",
+        "doc_4059.txt",
+        "doc_22423.txt"
+    ]
+}

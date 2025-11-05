@@ -1,0 +1,10 @@
+{
+    "query": "Which order is the Grand Cordon of the Order of the Paulownia Flowers a part of?",
+    "response": [
+        "doc_22012.txt",
+        "doc_22010.txt",
+        "doc_20055.txt",
+        "doc_20057.txt",
+        "doc_3204.txt"
+    ]
+}

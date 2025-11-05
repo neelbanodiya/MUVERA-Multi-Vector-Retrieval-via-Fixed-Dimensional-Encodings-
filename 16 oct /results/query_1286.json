@@ -1,0 +1,10 @@
+{
+    "query": "What was the relationship between the writers of *Rubble on the Flintstones*?",
+    "response": [
+        "doc_7743.txt",
+        "doc_2678.txt",
+        "doc_22244.txt",
+        "doc_1306.txt",
+        "doc_13852.txt"
+    ]
+}

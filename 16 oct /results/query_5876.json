@@ -1,0 +1,10 @@
+{
+    "query": "Which U.S. and Canadian organizations are mentioned in relation to naval operations in the Arctic?",
+    "response": [
+        "doc_3416.txt",
+        "doc_3405.txt",
+        "doc_3412.txt",
+        "doc_3414.txt",
+        "doc_17960.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to critics, what did \u201cThe Lost World: Jurassic Park\u201d demonstrate compared to \u201cJurassic Park\u201d?",
+    "response": [
+        "doc_12872.txt",
+        "doc_12869.txt",
+        "doc_12871.txt",
+        "doc_12868.txt",
+        "doc_12874.txt"
+    ]
+}

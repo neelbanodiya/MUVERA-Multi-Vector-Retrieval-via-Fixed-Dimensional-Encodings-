@@ -1,0 +1,10 @@
+{
+    "query": "What ship does young Jim Hawkins initially board?",
+    "response": [
+        "doc_13912.txt",
+        "doc_20014.txt",
+        "doc_23249.txt",
+        "doc_15292.txt",
+        "doc_21112.txt"
+    ]
+}

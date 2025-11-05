@@ -1,0 +1,10 @@
+{
+    "query": "Since 1898, which city has served as the actual center of government in Bolivia, despite Sucre being the official capital?",
+    "response": [
+        "doc_6514.txt",
+        "doc_6515.txt",
+        "doc_6518.txt",
+        "doc_6523.txt",
+        "doc_6522.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Black Forest located geographically?",
+    "response": [
+        "doc_6193.txt",
+        "doc_6190.txt",
+        "doc_6187.txt",
+        "doc_9327.txt",
+        "doc_13757.txt"
+    ]
+}

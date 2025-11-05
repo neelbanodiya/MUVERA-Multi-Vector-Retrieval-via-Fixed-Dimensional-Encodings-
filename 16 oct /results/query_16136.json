@@ -1,0 +1,10 @@
+{
+    "query": "Which national forest lies in Central Arizona and boasts a significant feature?",
+    "response": [
+        "doc_9331.txt",
+        "doc_9327.txt",
+        "doc_9328.txt",
+        "doc_9330.txt",
+        "doc_9324.txt"
+    ]
+}

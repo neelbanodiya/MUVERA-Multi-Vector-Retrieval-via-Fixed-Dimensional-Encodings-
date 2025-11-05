@@ -1,0 +1,10 @@
+{
+    "query": "In what year was *Paradise Lost* originally published?",
+    "response": [
+        "doc_8729.txt",
+        "doc_8728.txt",
+        "doc_8694.txt",
+        "doc_14261.txt",
+        "doc_14264.txt"
+    ]
+}

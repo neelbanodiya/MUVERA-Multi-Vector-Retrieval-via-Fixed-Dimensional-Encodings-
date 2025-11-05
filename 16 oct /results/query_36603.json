@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of a DVD set related to Superman\u2019s story, as mentioned in the passage?",
+    "response": [
+        "doc_21371.txt",
+        "doc_5278.txt",
+        "doc_8692.txt",
+        "doc_16729.txt",
+        "doc_16517.txt"
+    ]
+}

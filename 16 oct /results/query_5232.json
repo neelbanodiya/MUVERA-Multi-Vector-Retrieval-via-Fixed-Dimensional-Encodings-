@@ -1,0 +1,10 @@
+{
+    "query": "What Pontiac model was featured in the 1998 Looney Tunes commercial?",
+    "response": [
+        "doc_3047.txt",
+        "doc_3044.txt",
+        "doc_3045.txt",
+        "doc_3046.txt",
+        "doc_10808.txt"
+    ]
+}

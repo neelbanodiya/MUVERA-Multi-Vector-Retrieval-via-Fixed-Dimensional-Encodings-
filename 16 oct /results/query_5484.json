@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the historical museum located in Arbor Hill, and what was the estate that gave the neighborhood its name?",
+    "response": [
+        "doc_20940.txt",
+        "doc_3206.txt",
+        "doc_7401.txt",
+        "doc_4509.txt",
+        "doc_14728.txt"
+    ]
+}

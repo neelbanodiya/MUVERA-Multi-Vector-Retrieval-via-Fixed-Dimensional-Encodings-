@@ -1,0 +1,10 @@
+{
+    "query": "How is Southern Country Ham and Red Eye Gravy typically served?",
+    "response": [
+        "doc_10426.txt",
+        "doc_10435.txt",
+        "doc_10427.txt",
+        "doc_10436.txt",
+        "doc_10434.txt"
+    ]
+}

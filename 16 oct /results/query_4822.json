@@ -1,0 +1,10 @@
+{
+    "query": "Who inducted Darlene Love into the Rock and Roll Hall of Fame?",
+    "response": [
+        "doc_2797.txt",
+        "doc_2786.txt",
+        "doc_2796.txt",
+        "doc_2793.txt",
+        "doc_2791.txt"
+    ]
+}

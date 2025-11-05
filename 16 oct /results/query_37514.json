@@ -1,0 +1,10 @@
+{
+    "query": "What geographical area is Billie Jo\u2019s family farm located in?",
+    "response": [
+        "doc_9960.txt",
+        "doc_1652.txt",
+        "doc_14209.txt",
+        "doc_4338.txt",
+        "doc_7344.txt"
+    ]
+}

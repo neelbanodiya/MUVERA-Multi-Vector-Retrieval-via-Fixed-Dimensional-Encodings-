@@ -1,0 +1,10 @@
+{
+    "query": "What type of organization owns the Bernama News Channel?",
+    "response": [
+        "doc_2023.txt",
+        "doc_2024.txt",
+        "doc_2025.txt",
+        "doc_8364.txt",
+        "doc_14642.txt"
+    ]
+}

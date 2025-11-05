@@ -1,0 +1,10 @@
+{
+    "query": "What was a reported consequence of Japanese soldiers\u2019 actions in Nanking, as described in one of the linked articles?",
+    "response": [
+        "doc_12607.txt",
+        "doc_9843.txt",
+        "doc_10500.txt",
+        "doc_805.txt",
+        "doc_9848.txt"
+    ]
+}

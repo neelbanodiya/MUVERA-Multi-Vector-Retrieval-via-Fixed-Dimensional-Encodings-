@@ -1,0 +1,10 @@
+{
+    "query": "Which films did James Cameron direct, according to the provided text?",
+    "response": [
+        "doc_4994.txt",
+        "doc_4983.txt",
+        "doc_20567.txt",
+        "doc_4988.txt",
+        "doc_21391.txt"
+    ]
+}

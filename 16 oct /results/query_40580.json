@@ -1,0 +1,10 @@
+{
+    "query": "What phrase is used to describe the premise of \u201cJurassic Park\u201d in several of the linked resources?",
+    "response": [
+        "doc_5414.txt",
+        "doc_8615.txt",
+        "doc_22575.txt",
+        "doc_8622.txt",
+        "doc_5419.txt"
+    ]
+}

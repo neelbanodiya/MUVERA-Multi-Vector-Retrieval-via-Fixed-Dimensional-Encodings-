@@ -1,0 +1,10 @@
+{
+    "query": "For which movie did *Citizen Kane* win the Best Original Screenplay Oscar?",
+    "response": [
+        "doc_4925.txt",
+        "doc_4927.txt",
+        "doc_4912.txt",
+        "doc_4919.txt",
+        "doc_4924.txt"
+    ]
+}

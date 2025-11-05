@@ -1,0 +1,10 @@
+{
+    "query": "According to the Rules of Procedure, what is the primary purpose of Parliament when exercising powers related to privileges and immunities?",
+    "response": [
+        "doc_20105.txt",
+        "doc_8362.txt",
+        "doc_13178.txt",
+        "doc_13180.txt",
+        "doc_13403.txt"
+    ]
+}

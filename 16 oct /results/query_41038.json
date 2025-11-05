@@ -1,0 +1,10 @@
+{
+    "query": "What action does the European Parliament call on the Commission to take if the Commission intends to substantially amend the proposal?",
+    "response": [
+        "doc_12415.txt",
+        "doc_3243.txt",
+        "doc_18092.txt",
+        "doc_23613.txt",
+        "doc_20691.txt"
+    ]
+}

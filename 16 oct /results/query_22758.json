@@ -1,0 +1,10 @@
+{
+    "query": "Which actors were featured prominently in the 1940 film *Santa Fe Trail*?",
+    "response": [
+        "doc_13089.txt",
+        "doc_17778.txt",
+        "doc_5158.txt",
+        "doc_14392.txt",
+        "doc_1886.txt"
+    ]
+}

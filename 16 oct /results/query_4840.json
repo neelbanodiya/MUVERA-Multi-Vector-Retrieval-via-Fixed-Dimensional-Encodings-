@@ -1,0 +1,10 @@
+{
+    "query": "According to Tina Turner, who considered his work to be his best?",
+    "response": [
+        "doc_14184.txt",
+        "doc_4920.txt",
+        "doc_4939.txt",
+        "doc_14185.txt",
+        "doc_22803.txt"
+    ]
+}

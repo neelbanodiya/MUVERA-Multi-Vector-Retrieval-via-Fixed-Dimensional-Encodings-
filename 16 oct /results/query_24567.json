@@ -1,0 +1,10 @@
+{
+    "query": "Which author published *The Handmaid\u2019s Tale* and *Oryx*?",
+    "response": [
+        "doc_642.txt",
+        "doc_17758.txt",
+        "doc_19983.txt",
+        "doc_3561.txt",
+        "doc_19952.txt"
+    ]
+}

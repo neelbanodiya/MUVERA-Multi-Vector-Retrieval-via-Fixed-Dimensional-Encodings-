@@ -1,0 +1,10 @@
+{
+    "query": "Who was Ezra Pound\u2019s lawyer?",
+    "response": [
+        "doc_3063.txt",
+        "doc_2477.txt",
+        "doc_12843.txt",
+        "doc_19874.txt",
+        "doc_8363.txt"
+    ]
+}

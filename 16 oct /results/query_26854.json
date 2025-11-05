@@ -1,0 +1,10 @@
+{
+    "query": "What is the Council\u2019s position regarding the use of public transport and information systems for passengers?",
+    "response": [
+        "doc_16860.txt",
+        "doc_15586.txt",
+        "doc_15587.txt",
+        "doc_15601.txt",
+        "doc_15600.txt"
+    ]
+}

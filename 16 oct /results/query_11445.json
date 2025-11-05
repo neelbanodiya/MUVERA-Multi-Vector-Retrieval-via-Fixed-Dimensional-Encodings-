@@ -1,0 +1,10 @@
+{
+    "query": "What value is associated with the ID 100999?",
+    "response": [
+        "doc_22613.txt",
+        "doc_17546.txt",
+        "doc_13331.txt",
+        "doc_21814.txt",
+        "doc_12422.txt"
+    ]
+}

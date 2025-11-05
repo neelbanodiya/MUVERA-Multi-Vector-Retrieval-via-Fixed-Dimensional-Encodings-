@@ -1,0 +1,10 @@
+{
+    "query": "What event took place in Lake Placid in February 1980 involving the U.S. and Soviet hockey teams?",
+    "response": [
+        "doc_11343.txt",
+        "doc_11351.txt",
+        "doc_11350.txt",
+        "doc_11352.txt",
+        "doc_11342.txt"
+    ]
+}

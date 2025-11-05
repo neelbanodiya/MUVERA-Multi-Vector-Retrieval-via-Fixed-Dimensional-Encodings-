@@ -1,0 +1,10 @@
+{
+    "query": "What is one of the aliases Paul Simon used when recording music before Simon & Garfunkel\u2019s first album?",
+    "response": [
+        "doc_8007.txt",
+        "doc_8008.txt",
+        "doc_6337.txt",
+        "doc_3077.txt",
+        "doc_6336.txt"
+    ]
+}

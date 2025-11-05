@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Norman Parkinson photograph of Wedding day at the Chteau de Cand taken?",
+    "response": [
+        "doc_2218.txt",
+        "doc_628.txt",
+        "doc_4039.txt",
+        "doc_2152.txt",
+        "doc_19681.txt"
+    ]
+}

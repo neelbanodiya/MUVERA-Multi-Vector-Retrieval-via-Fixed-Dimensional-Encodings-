@@ -1,0 +1,10 @@
+{
+    "query": "In what year was John Heinz, the Heinz food fortune heir, killed?",
+    "response": [
+        "doc_2032.txt",
+        "doc_2041.txt",
+        "doc_2033.txt",
+        "doc_2038.txt",
+        "doc_2042.txt"
+    ]
+}

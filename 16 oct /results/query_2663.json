@@ -1,0 +1,10 @@
+{
+    "query": "Can you name any hotels located in Back Bay?",
+    "response": [
+        "doc_1607.txt",
+        "doc_1609.txt",
+        "doc_1610.txt",
+        "doc_1616.txt",
+        "doc_17816.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What did Betty Ford Center help Elizabeth Taylor with?",
+    "response": [
+        "doc_450.txt",
+        "doc_447.txt",
+        "doc_446.txt",
+        "doc_433.txt",
+        "doc_436.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Richard Henry Lee present his motion to declare independence?",
+    "response": [
+        "doc_19844.txt",
+        "doc_18663.txt",
+        "doc_19841.txt",
+        "doc_19845.txt",
+        "doc_10067.txt"
+    ]
+}

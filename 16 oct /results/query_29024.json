@@ -1,0 +1,10 @@
+{
+    "query": "What was the length of Mamenchisaurus?",
+    "response": [
+        "doc_16914.txt",
+        "doc_16915.txt",
+        "doc_16916.txt",
+        "doc_16918.txt",
+        "doc_16917.txt"
+    ]
+}

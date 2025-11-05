@@ -1,0 +1,10 @@
+{
+    "query": "What is one specific connection or reference between *Batman Forever* and another Batman film, as noted in the provided links?",
+    "response": [
+        "doc_21621.txt",
+        "doc_21617.txt",
+        "doc_21620.txt",
+        "doc_19671.txt",
+        "doc_15552.txt"
+    ]
+}

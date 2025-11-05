@@ -1,0 +1,10 @@
+{
+    "query": "What are the two geometries based on axioms that fall under the category of \u201cnon-Euclidean\u201d geometry?",
+    "response": [
+        "doc_16938.txt",
+        "doc_4327.txt",
+        "doc_16944.txt",
+        "doc_4322.txt",
+        "doc_4325.txt"
+    ]
+}

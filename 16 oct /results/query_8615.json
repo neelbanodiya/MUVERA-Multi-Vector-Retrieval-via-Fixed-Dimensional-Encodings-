@@ -1,0 +1,10 @@
+{
+    "query": "Which films, besides *Piranha II: The Spawning*, were explicitly compared to it in critical reception analyses?",
+    "response": [
+        "doc_4983.txt",
+        "doc_4984.txt",
+        "doc_14685.txt",
+        "doc_1580.txt",
+        "doc_15552.txt"
+    ]
+}

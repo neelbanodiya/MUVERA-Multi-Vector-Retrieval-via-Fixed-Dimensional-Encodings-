@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what is Mount Kailash considered to be?",
+    "response": [
+        "doc_8861.txt",
+        "doc_8856.txt",
+        "doc_8862.txt",
+        "doc_8860.txt",
+        "doc_23688.txt"
+    ]
+}

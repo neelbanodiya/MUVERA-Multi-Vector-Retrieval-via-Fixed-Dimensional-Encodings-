@@ -1,0 +1,10 @@
+{
+    "query": "What did Poe do in a cryptography article he wrote for a weekly paper?",
+    "response": [
+        "doc_14005.txt",
+        "doc_14009.txt",
+        "doc_14010.txt",
+        "doc_14006.txt",
+        "doc_14011.txt"
+    ]
+}

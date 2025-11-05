@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of the Early Warning (DEW) Line mentioned in the document?",
+    "response": [
+        "doc_3407.txt",
+        "doc_7288.txt",
+        "doc_20093.txt",
+        "doc_18001.txt",
+        "doc_132.txt"
+    ]
+}

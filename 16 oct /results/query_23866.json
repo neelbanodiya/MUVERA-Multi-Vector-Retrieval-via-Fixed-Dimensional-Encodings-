@@ -1,0 +1,10 @@
+{
+    "query": "Who was Henry the Navigator?",
+    "response": [
+        "doc_13830.txt",
+        "doc_11917.txt",
+        "doc_12034.txt",
+        "doc_11486.txt",
+        "doc_3550.txt"
+    ]
+}

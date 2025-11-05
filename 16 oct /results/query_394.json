@@ -1,0 +1,10 @@
+{
+    "query": "Where was King John born, according to the provided text?",
+    "response": [
+        "doc_1247.txt",
+        "doc_1243.txt",
+        "doc_1246.txt",
+        "doc_3710.txt",
+        "doc_1241.txt"
+    ]
+}

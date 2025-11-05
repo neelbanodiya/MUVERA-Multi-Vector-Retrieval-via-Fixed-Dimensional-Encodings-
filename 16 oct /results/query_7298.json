@@ -1,0 +1,10 @@
+{
+    "query": "Which species of pine are mentioned in the Alberta Forest Products Buyers Guide?",
+    "response": [
+        "doc_4218.txt",
+        "doc_4228.txt",
+        "doc_4233.txt",
+        "doc_4226.txt",
+        "doc_4220.txt"
+    ]
+}

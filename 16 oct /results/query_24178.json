@@ -1,0 +1,10 @@
+{
+    "query": "How tall is Oahe Dam?",
+    "response": [
+        "doc_14046.txt",
+        "doc_14040.txt",
+        "doc_14051.txt",
+        "doc_14045.txt",
+        "doc_14047.txt"
+    ]
+}

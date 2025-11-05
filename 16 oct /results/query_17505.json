@@ -1,0 +1,10 @@
+{
+    "query": "What was the Brown House in Munich originally known as, and what was its purpose during the Nazi era?",
+    "response": [
+        "doc_10138.txt",
+        "doc_8645.txt",
+        "doc_8643.txt",
+        "doc_8647.txt",
+        "doc_8640.txt"
+    ]
+}

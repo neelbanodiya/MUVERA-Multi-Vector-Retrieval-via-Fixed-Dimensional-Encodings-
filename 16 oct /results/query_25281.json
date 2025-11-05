@@ -1,0 +1,10 @@
+{
+    "query": "According to one article, what is the revenue of the Crane Company that Chevy Chase\u2019s mother was an heir to?",
+    "response": [
+        "doc_1637.txt",
+        "doc_8011.txt",
+        "doc_16485.txt",
+        "doc_10296.txt",
+        "doc_10257.txt"
+    ]
+}

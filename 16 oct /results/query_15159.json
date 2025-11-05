@@ -1,0 +1,10 @@
+{
+    "query": "In what time period did Herodotus write about Arabia?",
+    "response": [
+        "doc_503.txt",
+        "doc_8792.txt",
+        "doc_8352.txt",
+        "doc_23596.txt",
+        "doc_18488.txt"
+    ]
+}

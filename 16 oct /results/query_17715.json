@@ -1,0 +1,10 @@
+{
+    "query": "What role did a character play in a restaurant, as an example used by Sartre?",
+    "response": [
+        "doc_12597.txt",
+        "doc_22131.txt",
+        "doc_11495.txt",
+        "doc_16033.txt",
+        "doc_17883.txt"
+    ]
+}

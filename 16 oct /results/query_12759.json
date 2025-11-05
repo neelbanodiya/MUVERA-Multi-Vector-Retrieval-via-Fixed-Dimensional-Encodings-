@@ -1,0 +1,10 @@
+{
+    "query": "Which scholar, alongside WEB Du Bois, played a key role in the Pan-African movement?",
+    "response": [
+        "doc_7415.txt",
+        "doc_7426.txt",
+        "doc_7421.txt",
+        "doc_7422.txt",
+        "doc_7429.txt"
+    ]
+}

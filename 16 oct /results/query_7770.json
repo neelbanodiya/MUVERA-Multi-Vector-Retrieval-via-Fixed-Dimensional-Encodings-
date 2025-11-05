@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many people arrived in the American colonies according to the passage?",
+    "response": [
+        "doc_6398.txt",
+        "doc_9255.txt",
+        "doc_5074.txt",
+        "doc_6399.txt",
+        "doc_14451.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is Helen Keller\u2019s abbreviated name?",
+    "response": [
+        "doc_23598.txt",
+        "doc_16662.txt",
+        "doc_9342.txt",
+        "doc_12636.txt",
+        "doc_775.txt"
+    ]
+}

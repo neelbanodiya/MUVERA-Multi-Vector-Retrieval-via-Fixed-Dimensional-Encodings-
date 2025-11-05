@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, where is Veronica\u2019s veil currently kept?",
+    "response": [
+        "doc_9311.txt",
+        "doc_9303.txt",
+        "doc_9302.txt",
+        "doc_9314.txt",
+        "doc_9316.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the capital of the Sousse Governorate?",
+    "response": [
+        "doc_6430.txt",
+        "doc_5305.txt",
+        "doc_5306.txt",
+        "doc_21464.txt",
+        "doc_10127.txt"
+    ]
+}

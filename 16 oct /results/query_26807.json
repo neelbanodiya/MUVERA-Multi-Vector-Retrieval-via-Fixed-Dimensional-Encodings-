@@ -1,0 +1,10 @@
+{
+    "query": "What was the timeframe for the writing of *The Lord of the Rings*?",
+    "response": [
+        "doc_15544.txt",
+        "doc_15555.txt",
+        "doc_15559.txt",
+        "doc_15551.txt",
+        "doc_15553.txt"
+    ]
+}

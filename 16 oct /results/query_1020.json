@@ -1,0 +1,10 @@
+{
+    "query": "Which hotel is located in the upper floors of The Waldorf Astoria New York?",
+    "response": [
+        "doc_563.txt",
+        "doc_566.txt",
+        "doc_572.txt",
+        "doc_571.txt",
+        "doc_574.txt"
+    ]
+}

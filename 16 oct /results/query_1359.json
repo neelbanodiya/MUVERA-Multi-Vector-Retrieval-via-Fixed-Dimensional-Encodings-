@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of Leonard\u2019s first published novel?",
+    "response": [
+        "doc_24144.txt",
+        "doc_4655.txt",
+        "doc_20548.txt",
+        "doc_20538.txt",
+        "doc_7862.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what percentage of heading 3 in the Financial Perspective did the agencies account for in PDB 2006?",
+    "response": [
+        "doc_17536.txt",
+        "doc_17612.txt",
+        "doc_11710.txt",
+        "doc_9145.txt",
+        "doc_17483.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What event occurred shortly after the take-off of the US space shuttle Challenger?",
+    "response": [
+        "doc_4162.txt",
+        "doc_23948.txt",
+        "doc_23949.txt",
+        "doc_23953.txt",
+        "doc_23947.txt"
+    ]
+}

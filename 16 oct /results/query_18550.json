@@ -1,0 +1,10 @@
+{
+    "query": "How long did \u201cEat, Pray, Love\u201d remain on the \u201cThe New York Times\u201d Best Seller list?",
+    "response": [
+        "doc_18583.txt",
+        "doc_4654.txt",
+        "doc_7023.txt",
+        "doc_1523.txt",
+        "doc_20896.txt"
+    ]
+}

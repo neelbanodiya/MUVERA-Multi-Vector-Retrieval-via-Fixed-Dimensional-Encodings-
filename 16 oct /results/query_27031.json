@@ -1,0 +1,10 @@
+{
+    "query": "According to Williams, what was planned for Thompson\u2019s ashes?",
+    "response": [
+        "doc_10288.txt",
+        "doc_10500.txt",
+        "doc_20094.txt",
+        "doc_14531.txt",
+        "doc_2177.txt"
+    ]
+}

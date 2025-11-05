@@ -1,0 +1,10 @@
+{
+    "query": "According to one link, what product did Jason Alexander chase down in a Seinfeld episode?",
+    "response": [
+        "doc_478.txt",
+        "doc_22895.txt",
+        "doc_22894.txt",
+        "doc_479.txt",
+        "doc_19273.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year were the remains of Daniel Boone and his wife supposedly disinterred and reburied?",
+    "response": [
+        "doc_1742.txt",
+        "doc_1752.txt",
+        "doc_1745.txt",
+        "doc_1751.txt",
+        "doc_1757.txt"
+    ]
+}

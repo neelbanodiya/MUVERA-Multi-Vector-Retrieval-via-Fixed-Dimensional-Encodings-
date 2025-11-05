@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the Master of Learning mentioned in the passage?",
+    "response": [
+        "doc_18318.txt",
+        "doc_3638.txt",
+        "doc_506.txt",
+        "doc_1243.txt",
+        "doc_5323.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What did Emily Dickinson\u2019s poem \u201cSome keep the Sabbath going to church\u201d include?",
+    "response": [
+        "doc_5507.txt",
+        "doc_5513.txt",
+        "doc_5512.txt",
+        "doc_5514.txt",
+        "doc_5506.txt"
+    ]
+}

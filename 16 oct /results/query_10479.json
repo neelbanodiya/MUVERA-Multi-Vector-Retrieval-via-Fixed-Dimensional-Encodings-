@@ -1,0 +1,10 @@
+{
+    "query": "In what year did \u201cGirl Meets World\u201d premiere on Disney Channel?",
+    "response": [
+        "doc_6072.txt",
+        "doc_3700.txt",
+        "doc_9515.txt",
+        "doc_6584.txt",
+        "doc_22673.txt"
+    ]
+}

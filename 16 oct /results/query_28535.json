@@ -1,0 +1,10 @@
+{
+    "query": "In which region of Kyrgyzstan is the village of Taylan located?",
+    "response": [
+        "doc_16630.txt",
+        "doc_16629.txt",
+        "doc_3658.txt",
+        "doc_19729.txt",
+        "doc_9608.txt"
+    ]
+}

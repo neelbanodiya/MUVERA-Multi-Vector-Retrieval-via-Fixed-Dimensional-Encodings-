@@ -1,0 +1,10 @@
+{
+    "query": "Name one of the three Muses who visited Apollo.",
+    "response": [
+        "doc_15656.txt",
+        "doc_15660.txt",
+        "doc_15650.txt",
+        "doc_10870.txt",
+        "doc_10867.txt"
+    ]
+}

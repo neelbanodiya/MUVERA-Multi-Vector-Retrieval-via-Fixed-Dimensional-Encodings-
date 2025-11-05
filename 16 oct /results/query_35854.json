@@ -1,0 +1,10 @@
+{
+    "query": "Which band was originally named \u201cDerek and the Dominos\u201d?",
+    "response": [
+        "doc_2402.txt",
+        "doc_19461.txt",
+        "doc_8008.txt",
+        "doc_10681.txt",
+        "doc_12713.txt"
+    ]
+}

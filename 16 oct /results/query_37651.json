@@ -1,0 +1,10 @@
+{
+    "query": "What was Vincent van Gogh doing in the Yellow House while trying to impress Paul Gauguin?",
+    "response": [
+        "doc_22071.txt",
+        "doc_22075.txt",
+        "doc_22074.txt",
+        "doc_22069.txt",
+        "doc_22070.txt"
+    ]
+}

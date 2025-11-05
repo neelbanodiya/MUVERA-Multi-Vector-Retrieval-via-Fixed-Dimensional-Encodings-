@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was Samson warned not to do?",
+    "response": [
+        "doc_14525.txt",
+        "doc_14535.txt",
+        "doc_14528.txt",
+        "doc_14532.txt",
+        "doc_14537.txt"
+    ]
+}

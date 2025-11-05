@@ -1,0 +1,10 @@
+{
+    "query": "What kind of films are shown in cinemas in Marseille?",
+    "response": [
+        "doc_18213.txt",
+        "doc_1887.txt",
+        "doc_14494.txt",
+        "doc_13936.txt",
+        "doc_13947.txt"
+    ]
+}

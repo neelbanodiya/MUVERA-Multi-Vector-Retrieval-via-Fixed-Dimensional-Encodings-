@@ -1,0 +1,10 @@
+{
+    "query": "What is the typical greeting method used in Belgium when friends and family meet?",
+    "response": [
+        "doc_6251.txt",
+        "doc_6252.txt",
+        "doc_6261.txt",
+        "doc_4397.txt",
+        "doc_4398.txt"
+    ]
+}

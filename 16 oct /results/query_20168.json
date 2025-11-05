@@ -1,0 +1,10 @@
+{
+    "query": "What historical events took place at Corregidor Island?",
+    "response": [
+        "doc_11638.txt",
+        "doc_11629.txt",
+        "doc_11637.txt",
+        "doc_11642.txt",
+        "doc_11633.txt"
+    ]
+}

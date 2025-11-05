@@ -1,0 +1,10 @@
+{
+    "query": "What is the oldest surviving structure in Jersey City, New Jersey, and where is it located?",
+    "response": [
+        "doc_21401.txt",
+        "doc_21400.txt",
+        "doc_1511.txt",
+        "doc_7403.txt",
+        "doc_15985.txt"
+    ]
+}

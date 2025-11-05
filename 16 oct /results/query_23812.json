@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was a specific example of a delayed transposition of a Directive, and which countries were involved?",
+    "response": [
+        "doc_9884.txt",
+        "doc_9883.txt",
+        "doc_10365.txt",
+        "doc_21813.txt",
+        "doc_20823.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who was the German engineer known for his research into the development of the rotary engine?",
+    "response": [
+        "doc_11181.txt",
+        "doc_11527.txt",
+        "doc_11526.txt",
+        "doc_11534.txt",
+        "doc_11541.txt"
+    ]
+}

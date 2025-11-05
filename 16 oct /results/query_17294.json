@@ -1,0 +1,10 @@
+{
+    "query": "According to the \"Planning for new Ury Estate Jack Nicklaus golf course...\" article, what was a significant event related to the golf course project?",
+    "response": [
+        "doc_10021.txt",
+        "doc_3298.txt",
+        "doc_3287.txt",
+        "doc_410.txt",
+        "doc_23363.txt"
+    ]
+}

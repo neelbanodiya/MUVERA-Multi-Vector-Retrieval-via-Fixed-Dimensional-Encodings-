@@ -1,0 +1,10 @@
+{
+    "query": "What types of events might be associated with a \u201cShip\u201d according to the provided text?",
+    "response": [
+        "doc_6995.txt",
+        "doc_21108.txt",
+        "doc_15301.txt",
+        "doc_12419.txt",
+        "doc_3553.txt"
+    ]
+}

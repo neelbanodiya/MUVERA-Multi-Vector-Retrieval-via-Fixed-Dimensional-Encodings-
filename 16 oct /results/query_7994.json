@@ -1,0 +1,10 @@
+{
+    "query": "Besides \u201cAll in the Family\u201d and \u201cMaude,\u201d what other television show featured Bea Arthur as Dorothy Zbornak?",
+    "response": [
+        "doc_4651.txt",
+        "doc_4649.txt",
+        "doc_4647.txt",
+        "doc_4652.txt",
+        "doc_4646.txt"
+    ]
+}

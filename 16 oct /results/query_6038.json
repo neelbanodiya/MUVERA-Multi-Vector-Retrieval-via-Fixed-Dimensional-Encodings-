@@ -1,0 +1,10 @@
+{
+    "query": "Who starred in \u201cThe Outsiders\u201d (1983)?",
+    "response": [
+        "doc_3519.txt",
+        "doc_5156.txt",
+        "doc_5158.txt",
+        "doc_12613.txt",
+        "doc_16925.txt"
+    ]
+}

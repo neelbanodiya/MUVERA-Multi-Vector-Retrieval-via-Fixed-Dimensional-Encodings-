@@ -1,0 +1,10 @@
+{
+    "query": "For what year did Big Country receive Grammy Award nominations?",
+    "response": [
+        "doc_10071.txt",
+        "doc_2264.txt",
+        "doc_4909.txt",
+        "doc_12253.txt",
+        "doc_20317.txt"
+    ]
+}

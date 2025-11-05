@@ -1,0 +1,10 @@
+{
+    "query": "Which Democrat was elected to a fifth and final term as Speaker of the House?",
+    "response": [
+        "doc_5966.txt",
+        "doc_5972.txt",
+        "doc_5967.txt",
+        "doc_5970.txt",
+        "doc_5965.txt"
+    ]
+}

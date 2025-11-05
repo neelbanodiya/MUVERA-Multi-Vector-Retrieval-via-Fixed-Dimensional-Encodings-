@@ -1,0 +1,10 @@
+{
+    "query": "What company did Don Wetzel work for when he developed the first ATM?",
+    "response": [
+        "doc_6225.txt",
+        "doc_6240.txt",
+        "doc_6238.txt",
+        "doc_6233.txt",
+        "doc_6224.txt"
+    ]
+}

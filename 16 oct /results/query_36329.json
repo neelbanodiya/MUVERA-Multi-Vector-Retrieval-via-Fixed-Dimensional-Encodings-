@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what aspects of Mexico's history are not adequately addressed in its official records?",
+    "response": [
+        "doc_14704.txt",
+        "doc_21181.txt",
+        "doc_6834.txt",
+        "doc_21176.txt",
+        "doc_6897.txt"
+    ]
+}

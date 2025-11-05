@@ -1,0 +1,10 @@
+{
+    "query": "On what date did the U.S. Olympic hockey team defeat the Soviet Union, resulting in a 4-3 victory?",
+    "response": [
+        "doc_11357.txt",
+        "doc_11351.txt",
+        "doc_11342.txt",
+        "doc_11352.txt",
+        "doc_11341.txt"
+    ]
+}

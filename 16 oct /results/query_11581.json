@@ -1,0 +1,10 @@
+{
+    "query": "What fashion designers are mentioned in the passage (e.g., Raf Simons, Martin Margiela, Ann)?",
+    "response": [
+        "doc_21601.txt",
+        "doc_21599.txt",
+        "doc_6740.txt",
+        "doc_6729.txt",
+        "doc_13104.txt"
+    ]
+}

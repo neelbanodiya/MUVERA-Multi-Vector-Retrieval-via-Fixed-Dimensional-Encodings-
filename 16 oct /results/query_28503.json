@@ -1,0 +1,10 @@
+{
+    "query": "How did Paul Wellstone die?",
+    "response": [
+        "doc_16619.txt",
+        "doc_16616.txt",
+        "doc_16614.txt",
+        "doc_16625.txt",
+        "doc_16612.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What TV Guide cover featured Wallace Langham pointing a video camera?",
+    "response": [
+        "doc_1890.txt",
+        "doc_22837.txt",
+        "doc_20608.txt",
+        "doc_18216.txt",
+        "doc_4876.txt"
+    ]
+}

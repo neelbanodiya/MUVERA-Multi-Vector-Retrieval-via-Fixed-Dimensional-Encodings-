@@ -1,0 +1,10 @@
+{
+    "query": "How has the ice spread across the continent of Antarctica over time?",
+    "response": [
+        "doc_10325.txt",
+        "doc_10329.txt",
+        "doc_10320.txt",
+        "doc_10321.txt",
+        "doc_10326.txt"
+    ]
+}

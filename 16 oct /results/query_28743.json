@@ -1,0 +1,10 @@
+{
+    "query": "According to the EU, what is the legal status of Israeli settlements in the West Bank and East Jerusalem?",
+    "response": [
+        "doc_12515.txt",
+        "doc_22676.txt",
+        "doc_16748.txt",
+        "doc_22719.txt",
+        "doc_1213.txt"
+    ]
+}

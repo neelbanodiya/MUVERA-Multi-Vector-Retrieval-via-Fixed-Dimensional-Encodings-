@@ -1,0 +1,10 @@
+{
+    "query": "What movie features Jennifer Jones playing Jennie?",
+    "response": [
+        "doc_22845.txt",
+        "doc_22855.txt",
+        "doc_12759.txt",
+        "doc_90.txt",
+        "doc_5719.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of Bob Dylan\u2019s most famous work?",
+    "response": [
+        "doc_15556.txt",
+        "doc_19424.txt",
+        "doc_6973.txt",
+        "doc_17758.txt",
+        "doc_6066.txt"
+    ]
+}

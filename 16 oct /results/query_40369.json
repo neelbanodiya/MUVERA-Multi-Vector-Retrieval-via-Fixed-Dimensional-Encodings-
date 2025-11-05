@@ -1,0 +1,10 @@
+{
+    "query": "What are the primary responsibilities of the Agency, according to the text?",
+    "response": [
+        "doc_8146.txt",
+        "doc_8141.txt",
+        "doc_17530.txt",
+        "doc_23624.txt",
+        "doc_4529.txt"
+    ]
+}

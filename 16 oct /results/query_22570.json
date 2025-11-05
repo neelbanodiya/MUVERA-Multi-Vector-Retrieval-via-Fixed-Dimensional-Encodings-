@@ -1,0 +1,10 @@
+{
+    "query": "For how many years did Joe Greene play professionally?",
+    "response": [
+        "doc_7628.txt",
+        "doc_5391.txt",
+        "doc_19018.txt",
+        "doc_12778.txt",
+        "doc_7452.txt"
+    ]
+}

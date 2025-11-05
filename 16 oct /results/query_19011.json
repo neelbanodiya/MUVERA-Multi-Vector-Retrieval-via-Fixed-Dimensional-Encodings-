@@ -1,0 +1,10 @@
+{
+    "query": "Which country\u2019s coast does the text state Aniland does not touch?",
+    "response": [
+        "doc_11016.txt",
+        "doc_11015.txt",
+        "doc_4063.txt",
+        "doc_20922.txt",
+        "doc_21425.txt"
+    ]
+}

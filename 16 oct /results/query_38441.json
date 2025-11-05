@@ -1,0 +1,10 @@
+{
+    "query": "Name two songs covered by Joan Jett mentioned in the passage.",
+    "response": [
+        "doc_22547.txt",
+        "doc_22551.txt",
+        "doc_22552.txt",
+        "doc_22550.txt",
+        "doc_22548.txt"
+    ]
+}

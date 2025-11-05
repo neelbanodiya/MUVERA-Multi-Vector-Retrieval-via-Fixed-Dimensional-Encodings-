@@ -1,0 +1,10 @@
+{
+    "query": "What did Ronald Reagan use as the title of his 1965 autobiography?",
+    "response": [
+        "doc_6973.txt",
+        "doc_14269.txt",
+        "doc_22045.txt",
+        "doc_19420.txt",
+        "doc_12353.txt"
+    ]
+}

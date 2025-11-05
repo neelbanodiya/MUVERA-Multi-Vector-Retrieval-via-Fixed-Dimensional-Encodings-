@@ -1,0 +1,10 @@
+{
+    "query": "Which two major rivers flow through the Central region and eventually flow into the San Francisco Bay?",
+    "response": [
+        "doc_3146.txt",
+        "doc_3143.txt",
+        "doc_3153.txt",
+        "doc_3148.txt",
+        "doc_3154.txt"
+    ]
+}

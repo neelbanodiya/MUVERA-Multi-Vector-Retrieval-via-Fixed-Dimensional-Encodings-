@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Populist Party nominate James B. Weaver for president?",
+    "response": [
+        "doc_23157.txt",
+        "doc_23153.txt",
+        "doc_23156.txt",
+        "doc_23150.txt",
+        "doc_23151.txt"
+    ]
+}

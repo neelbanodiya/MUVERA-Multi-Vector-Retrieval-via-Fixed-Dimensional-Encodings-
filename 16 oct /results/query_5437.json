@@ -1,0 +1,10 @@
+{
+    "query": "What is a major source of water quality degradation affecting the San Joaquin River?",
+    "response": [
+        "doc_3159.txt",
+        "doc_3156.txt",
+        "doc_3151.txt",
+        "doc_3153.txt",
+        "doc_3154.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Amelia Earhart disappear?",
+    "response": [
+        "doc_5785.txt",
+        "doc_5792.txt",
+        "doc_5778.txt",
+        "doc_5791.txt",
+        "doc_5788.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was the Aviation Corporation of the Americas founded?",
+    "response": [
+        "doc_1331.txt",
+        "doc_19227.txt",
+        "doc_19229.txt",
+        "doc_2987.txt",
+        "doc_22263.txt"
+    ]
+}

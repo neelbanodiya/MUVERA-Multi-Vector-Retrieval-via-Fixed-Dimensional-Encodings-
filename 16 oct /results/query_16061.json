@@ -1,0 +1,10 @@
+{
+    "query": "What was the focus of the hearing regarding China and the EU?",
+    "response": [
+        "doc_18116.txt",
+        "doc_9300.txt",
+        "doc_14346.txt",
+        "doc_18117.txt",
+        "doc_1277.txt"
+    ]
+}

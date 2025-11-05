@@ -1,0 +1,10 @@
+{
+    "query": "What was Margaret Thatcher promising in the 1966 election?",
+    "response": [
+        "doc_9773.txt",
+        "doc_4772.txt",
+        "doc_4771.txt",
+        "doc_15345.txt",
+        "doc_4751.txt"
+    ]
+}

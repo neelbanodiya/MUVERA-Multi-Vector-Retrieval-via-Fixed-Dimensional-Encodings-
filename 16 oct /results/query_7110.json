@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, where were the Battle of Cowpens and King\u2019s Mountain fought?",
+    "response": [
+        "doc_4069.txt",
+        "doc_4066.txt",
+        "doc_192.txt",
+        "doc_198.txt",
+        "doc_196.txt"
+    ]
+}

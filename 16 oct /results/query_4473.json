@@ -1,0 +1,10 @@
+{
+    "query": "Which draft opinion concerns an amendment to Regulation (EC) No 539/2001?",
+    "response": [
+        "doc_23634.txt",
+        "doc_8139.txt",
+        "doc_20782.txt",
+        "doc_23645.txt",
+        "doc_20774.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What resolutions did the European Parliament adopt regarding the Democratic Republic of Congo in 2008?",
+    "response": [
+        "doc_8111.txt",
+        "doc_12629.txt",
+        "doc_24066.txt",
+        "doc_18513.txt",
+        "doc_15472.txt"
+    ]
+}

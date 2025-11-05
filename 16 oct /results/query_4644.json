@@ -1,0 +1,10 @@
+{
+    "query": "Who volunteered financial support for the Naval Society?",
+    "response": [
+        "doc_1275.txt",
+        "doc_19656.txt",
+        "doc_22207.txt",
+        "doc_19136.txt",
+        "doc_23674.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In which US state is Glacier National Park located?",
+    "response": [
+        "doc_18128.txt",
+        "doc_18131.txt",
+        "doc_18132.txt",
+        "doc_18134.txt",
+        "doc_18142.txt"
+    ]
+}

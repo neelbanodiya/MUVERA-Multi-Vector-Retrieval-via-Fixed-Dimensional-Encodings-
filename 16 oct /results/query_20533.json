@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Ulysses S. Grant\u2019s name legally changed?",
+    "response": [
+        "doc_11835.txt",
+        "doc_11833.txt",
+        "doc_11838.txt",
+        "doc_11837.txt",
+        "doc_11832.txt"
+    ]
+}

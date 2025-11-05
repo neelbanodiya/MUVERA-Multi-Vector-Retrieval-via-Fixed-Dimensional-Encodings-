@@ -1,0 +1,10 @@
+{
+    "query": "What year was \u201cNaruto the Movie: Ninja Clash in the Land of Snow\u201d released in Japan?",
+    "response": [
+        "doc_12870.txt",
+        "doc_18212.txt",
+        "doc_8184.txt",
+        "doc_8183.txt",
+        "doc_18844.txt"
+    ]
+}

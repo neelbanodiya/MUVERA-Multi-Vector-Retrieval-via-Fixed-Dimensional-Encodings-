@@ -1,0 +1,10 @@
+{
+    "query": "What restriction does Polish law place on tax agents communicating with the funding ministry?",
+    "response": [
+        "doc_6429.txt",
+        "doc_4159.txt",
+        "doc_11216.txt",
+        "doc_3015.txt",
+        "doc_3584.txt"
+    ]
+}

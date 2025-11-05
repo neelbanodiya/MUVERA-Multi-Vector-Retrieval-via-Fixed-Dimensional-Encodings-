@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what happened to German medals?",
+    "response": [
+        "doc_9673.txt",
+        "doc_6529.txt",
+        "doc_9674.txt",
+        "doc_23823.txt",
+        "doc_390.txt"
+    ]
+}

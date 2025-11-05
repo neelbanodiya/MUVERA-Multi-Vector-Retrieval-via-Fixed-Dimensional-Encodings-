@@ -1,0 +1,10 @@
+{
+    "query": "For how many years has Tibet been under Chinese rule?",
+    "response": [
+        "doc_2593.txt",
+        "doc_2592.txt",
+        "doc_22703.txt",
+        "doc_22403.txt",
+        "doc_18125.txt"
+    ]
+}

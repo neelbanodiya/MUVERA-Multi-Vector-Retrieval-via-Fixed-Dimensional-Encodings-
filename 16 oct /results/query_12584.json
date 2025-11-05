@@ -1,0 +1,10 @@
+{
+    "query": "What dukedoms were the Kings of England also dukes of?",
+    "response": [
+        "doc_7332.txt",
+        "doc_12642.txt",
+        "doc_7324.txt",
+        "doc_7325.txt",
+        "doc_7336.txt"
+    ]
+}

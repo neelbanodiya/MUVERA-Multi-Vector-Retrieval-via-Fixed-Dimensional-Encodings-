@@ -1,0 +1,10 @@
+{
+    "query": "What denomination of U.S. currency currently features Alexander Hamilton\u2019s portrait?",
+    "response": [
+        "doc_2904.txt",
+        "doc_2918.txt",
+        "doc_24218.txt",
+        "doc_5091.txt",
+        "doc_3381.txt"
+    ]
+}

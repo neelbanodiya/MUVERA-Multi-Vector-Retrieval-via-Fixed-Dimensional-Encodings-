@@ -1,0 +1,10 @@
+{
+    "query": "What event did Ferguson attend, and when did it take place?",
+    "response": [
+        "doc_13009.txt",
+        "doc_13010.txt",
+        "doc_12259.txt",
+        "doc_12258.txt",
+        "doc_8113.txt"
+    ]
+}

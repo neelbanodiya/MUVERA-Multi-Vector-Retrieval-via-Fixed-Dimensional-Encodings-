@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what ideology did the author absorb after reading the Shakur/Davis book?",
+    "response": [
+        "doc_18447.txt",
+        "doc_7532.txt",
+        "doc_5050.txt",
+        "doc_6926.txt",
+        "doc_16848.txt"
+    ]
+}

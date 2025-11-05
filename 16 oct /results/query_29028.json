@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is Seismosaurus described as?",
+    "response": [
+        "doc_3456.txt",
+        "doc_21771.txt",
+        "doc_3464.txt",
+        "doc_14531.txt",
+        "doc_2336.txt"
+    ]
+}

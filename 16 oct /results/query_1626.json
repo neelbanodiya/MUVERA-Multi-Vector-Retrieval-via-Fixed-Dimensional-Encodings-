@@ -1,0 +1,10 @@
+{
+    "query": "What song, besides \"Stayin' Alive,\" was mentioned as being similar to Gloria Gaynor's music?",
+    "response": [
+        "doc_902.txt",
+        "doc_911.txt",
+        "doc_903.txt",
+        "doc_901.txt",
+        "doc_905.txt"
+    ]
+}

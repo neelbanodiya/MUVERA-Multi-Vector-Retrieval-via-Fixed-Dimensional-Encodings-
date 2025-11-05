@@ -1,0 +1,10 @@
+{
+    "query": "What is a significant challenge faced by European citizens living in other EU countries regarding their personal information?",
+    "response": [
+        "doc_17467.txt",
+        "doc_12006.txt",
+        "doc_17468.txt",
+        "doc_10031.txt",
+        "doc_8361.txt"
+    ]
+}

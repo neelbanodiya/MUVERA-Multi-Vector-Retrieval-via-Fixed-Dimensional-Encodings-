@@ -1,0 +1,10 @@
+{
+    "query": "What was Candace\u2019s age and what did Sheriff Barbara Pickens say about her death?",
+    "response": [
+        "doc_13885.txt",
+        "doc_4381.txt",
+        "doc_9997.txt",
+        "doc_15688.txt",
+        "doc_3699.txt"
+    ]
+}

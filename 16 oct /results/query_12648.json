@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what type of housing is offered at \u201cThe Jetty Senior Apartments\u201d?",
+    "response": [
+        "doc_7360.txt",
+        "doc_7368.txt",
+        "doc_7361.txt",
+        "doc_7363.txt",
+        "doc_7369.txt"
+    ]
+}

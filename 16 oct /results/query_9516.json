@@ -1,0 +1,10 @@
+{
+    "query": "What is a common symptom associated with consuming MSG, according to the provided text?",
+    "response": [
+        "doc_5119.txt",
+        "doc_20896.txt",
+        "doc_15265.txt",
+        "doc_2837.txt",
+        "doc_18737.txt"
+    ]
+}

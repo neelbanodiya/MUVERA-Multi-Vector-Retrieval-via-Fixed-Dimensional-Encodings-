@@ -1,0 +1,10 @@
+{
+    "query": "What two actions does the passage call for the Lebanese authorities to undertake?",
+    "response": [
+        "doc_13134.txt",
+        "doc_8770.txt",
+        "doc_5822.txt",
+        "doc_8119.txt",
+        "doc_4131.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What fruit production does China have?",
+    "response": [
+        "doc_9279.txt",
+        "doc_8230.txt",
+        "doc_23084.txt",
+        "doc_67.txt",
+        "doc_23085.txt"
+    ]
+}

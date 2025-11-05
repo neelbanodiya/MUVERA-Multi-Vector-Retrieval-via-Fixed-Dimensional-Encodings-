@@ -1,0 +1,10 @@
+{
+    "query": "Where did Eric fly to by helicopter?",
+    "response": [
+        "doc_14515.txt",
+        "doc_1325.txt",
+        "doc_14516.txt",
+        "doc_24004.txt",
+        "doc_16841.txt"
+    ]
+}

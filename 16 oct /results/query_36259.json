@@ -1,0 +1,10 @@
+{
+    "query": "In 1586, what type of goods were being shipped from Liverpool?",
+    "response": [
+        "doc_3691.txt",
+        "doc_20874.txt",
+        "doc_16485.txt",
+        "doc_19681.txt",
+        "doc_4975.txt"
+    ]
+}

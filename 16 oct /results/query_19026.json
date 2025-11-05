@@ -1,0 +1,10 @@
+{
+    "query": "Besides the town itself, where is the Esker Hills golf club located?",
+    "response": [
+        "doc_11024.txt",
+        "doc_3656.txt",
+        "doc_6346.txt",
+        "doc_24005.txt",
+        "doc_16151.txt"
+    ]
+}

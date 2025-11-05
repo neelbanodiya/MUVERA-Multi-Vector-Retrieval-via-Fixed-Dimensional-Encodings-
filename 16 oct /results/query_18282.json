@@ -1,0 +1,10 @@
+{
+    "query": "Which boxing champions are mentioned in the provided links \u2013 Ray \u201cBoom Boom\u201d Mancini and Roberto Duran?",
+    "response": [
+        "doc_10574.txt",
+        "doc_10578.txt",
+        "doc_10573.txt",
+        "doc_10583.txt",
+        "doc_10576.txt"
+    ]
+}

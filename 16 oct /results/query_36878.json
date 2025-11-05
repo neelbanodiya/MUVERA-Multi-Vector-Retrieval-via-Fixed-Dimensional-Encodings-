@@ -1,0 +1,10 @@
+{
+    "query": "Which actors star together in *The Big Sleep*?",
+    "response": [
+        "doc_12759.txt",
+        "doc_16653.txt",
+        "doc_4873.txt",
+        "doc_13825.txt",
+        "doc_18104.txt"
+    ]
+}

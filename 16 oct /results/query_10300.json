@@ -1,0 +1,10 @@
+{
+    "query": "In 2008, who became the first sitting Speaker of the House in Utah?",
+    "response": [
+        "doc_5972.txt",
+        "doc_5965.txt",
+        "doc_5977.txt",
+        "doc_5970.txt",
+        "doc_1926.txt"
+    ]
+}

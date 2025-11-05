@@ -1,0 +1,10 @@
+{
+    "query": "Which tables, first published in 1757, did Wiley Post and Roscoe Turner rely on for navigation?",
+    "response": [
+        "doc_11011.txt",
+        "doc_11915.txt",
+        "doc_21595.txt",
+        "doc_15208.txt",
+        "doc_8426.txt"
+    ]
+}

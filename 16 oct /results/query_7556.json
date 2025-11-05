@@ -1,0 +1,10 @@
+{
+    "query": "What was the focus of the event that Greg Proops attended, as described in the \u201cleader\u201d article?",
+    "response": [
+        "doc_1011.txt",
+        "doc_625.txt",
+        "doc_16672.txt",
+        "doc_20608.txt",
+        "doc_20944.txt"
+    ]
+}

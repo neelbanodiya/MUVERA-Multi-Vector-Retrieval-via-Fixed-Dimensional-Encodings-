@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is Twitter\u2019s greatest challenge?",
+    "response": [
+        "doc_19216.txt",
+        "doc_15526.txt",
+        "doc_22598.txt",
+        "doc_1167.txt",
+        "doc_15890.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who was ordered to take nearby Big Round Top during the Battle of Gettysburg?",
+    "response": [
+        "doc_22454.txt",
+        "doc_22448.txt",
+        "doc_22444.txt",
+        "doc_22457.txt",
+        "doc_3853.txt"
+    ]
+}

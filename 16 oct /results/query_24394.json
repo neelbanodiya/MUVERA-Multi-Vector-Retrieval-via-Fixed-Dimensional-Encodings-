@@ -1,0 +1,10 @@
+{
+    "query": "What was the World Trade Center\u2019s status before the attacks, in relation to other buildings?",
+    "response": [
+        "doc_14165.txt",
+        "doc_14164.txt",
+        "doc_14166.txt",
+        "doc_14175.txt",
+        "doc_14179.txt"
+    ]
+}

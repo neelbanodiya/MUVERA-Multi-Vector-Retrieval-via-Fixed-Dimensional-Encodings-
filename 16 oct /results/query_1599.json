@@ -1,0 +1,10 @@
+{
+    "query": "When was the city of Medford, Oregon officially named?",
+    "response": [
+        "doc_890.txt",
+        "doc_898.txt",
+        "doc_891.txt",
+        "doc_9024.txt",
+        "doc_16681.txt"
+    ]
+}

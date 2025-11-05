@@ -1,0 +1,10 @@
+{
+    "query": "How many steps were observed by Sherlock Holmes?",
+    "response": [
+        "doc_11916.txt",
+        "doc_166.txt",
+        "doc_7252.txt",
+        "doc_15277.txt",
+        "doc_19130.txt"
+    ]
+}

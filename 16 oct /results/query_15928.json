@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of Jack Kerouac\u2019s famous novel?",
+    "response": [
+        "doc_9247.txt",
+        "doc_9234.txt",
+        "doc_9246.txt",
+        "doc_9229.txt",
+        "doc_9232.txt"
+    ]
+}

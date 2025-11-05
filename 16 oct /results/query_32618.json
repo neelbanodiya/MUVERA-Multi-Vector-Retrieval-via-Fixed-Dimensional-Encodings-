@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Kelsey Grammer host a tribute to Hope?",
+    "response": [
+        "doc_9423.txt",
+        "doc_19011.txt",
+        "doc_19021.txt",
+        "doc_736.txt",
+        "doc_2264.txt"
+    ]
+}

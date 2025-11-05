@@ -1,0 +1,10 @@
+{
+    "query": "If the police fail to read you the Miranda Warning, must your case be dismissed?",
+    "response": [
+        "doc_3426.txt",
+        "doc_8567.txt",
+        "doc_15993.txt",
+        "doc_8582.txt",
+        "doc_8566.txt"
+    ]
+}

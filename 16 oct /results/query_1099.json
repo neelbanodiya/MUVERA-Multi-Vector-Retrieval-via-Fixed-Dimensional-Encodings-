@@ -1,0 +1,10 @@
+{
+    "query": "Who was elected to the U.S. House of Representatives in 1928?",
+    "response": [
+        "doc_5970.txt",
+        "doc_5965.txt",
+        "doc_1924.txt",
+        "doc_19312.txt",
+        "doc_5974.txt"
+    ]
+}

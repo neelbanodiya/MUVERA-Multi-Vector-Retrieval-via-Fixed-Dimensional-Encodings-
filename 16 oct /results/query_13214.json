@@ -1,0 +1,10 @@
+{
+    "query": "For which movie did Sally Field receive multiple awards in 1980?",
+    "response": [
+        "doc_23290.txt",
+        "doc_23289.txt",
+        "doc_23285.txt",
+        "doc_20924.txt",
+        "doc_15278.txt"
+    ]
+}

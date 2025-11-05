@@ -1,0 +1,10 @@
+{
+    "query": "What was the original French film that Gene Wilder adapted for *The Woman in Red*?",
+    "response": [
+        "doc_9707.txt",
+        "doc_9706.txt",
+        "doc_9711.txt",
+        "doc_9705.txt",
+        "doc_20263.txt"
+    ]
+}

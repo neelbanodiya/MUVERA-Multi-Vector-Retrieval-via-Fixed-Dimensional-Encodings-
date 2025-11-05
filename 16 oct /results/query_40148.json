@@ -1,0 +1,10 @@
+{
+    "query": "What geographical feature surrounds Farndale, contributing to its description as having \u201csome of the wildest moorland in England\u201d?",
+    "response": [
+        "doc_23504.txt",
+        "doc_21029.txt",
+        "doc_8441.txt",
+        "doc_5337.txt",
+        "doc_9253.txt"
+    ]
+}

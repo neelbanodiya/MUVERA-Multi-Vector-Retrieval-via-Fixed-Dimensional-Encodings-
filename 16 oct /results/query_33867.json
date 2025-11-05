@@ -1,0 +1,10 @@
+{
+    "query": "What types of texts are included in courses at McHenry County College?",
+    "response": [
+        "doc_16520.txt",
+        "doc_3543.txt",
+        "doc_209.txt",
+        "doc_21614.txt",
+        "doc_22103.txt"
+    ]
+}

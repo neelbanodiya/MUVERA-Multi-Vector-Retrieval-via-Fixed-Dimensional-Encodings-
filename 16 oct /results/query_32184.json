@@ -1,0 +1,10 @@
+{
+    "query": "What does Louis say at the end of *Casablanca*?",
+    "response": [
+        "doc_18755.txt",
+        "doc_18756.txt",
+        "doc_18749.txt",
+        "doc_18747.txt",
+        "doc_18748.txt"
+    ]
+}

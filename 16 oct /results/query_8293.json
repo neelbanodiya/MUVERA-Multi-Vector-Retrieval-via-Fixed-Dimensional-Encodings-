@@ -1,0 +1,10 @@
+{
+    "query": "What degrees did Mr. Zimmerman earn, and from which universities?",
+    "response": [
+        "doc_19136.txt",
+        "doc_4790.txt",
+        "doc_18385.txt",
+        "doc_6805.txt",
+        "doc_3978.txt"
+    ]
+}

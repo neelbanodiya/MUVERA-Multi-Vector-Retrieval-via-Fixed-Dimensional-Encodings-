@@ -1,0 +1,10 @@
+{
+    "query": "What was Wells Fargo & Co.\u2019s stock rating reaffirmed by Wells Fargo & Co.?",
+    "response": [
+        "doc_3679.txt",
+        "doc_3681.txt",
+        "doc_3675.txt",
+        "doc_3682.txt",
+        "doc_3672.txt"
+    ]
+}

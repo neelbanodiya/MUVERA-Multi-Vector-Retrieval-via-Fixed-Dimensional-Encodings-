@@ -1,0 +1,10 @@
+{
+    "query": "What was the outcome of the vote regarding the resolution on Afghanistan in January 2003?",
+    "response": [
+        "doc_17474.txt",
+        "doc_22717.txt",
+        "doc_5134.txt",
+        "doc_17567.txt",
+        "doc_5135.txt"
+    ]
+}

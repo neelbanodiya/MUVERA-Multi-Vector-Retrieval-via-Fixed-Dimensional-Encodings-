@@ -1,0 +1,10 @@
+{
+    "query": "According to one article, what was a key characteristic of the tour described in \u201cThree Grown Men: H.O.R.D.E 2012\u201d?",
+    "response": [
+        "doc_2909.txt",
+        "doc_5167.txt",
+        "doc_2156.txt",
+        "doc_20551.txt",
+        "doc_18447.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the historical connection between the Roman god Mercury and the element mercury?",
+    "response": [
+        "doc_21286.txt",
+        "doc_21297.txt",
+        "doc_21293.txt",
+        "doc_21289.txt",
+        "doc_21295.txt"
+    ]
+}

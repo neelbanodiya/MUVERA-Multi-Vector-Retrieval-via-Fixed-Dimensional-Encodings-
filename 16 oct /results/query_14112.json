@@ -1,0 +1,10 @@
+{
+    "query": "What literary work by Edgar Allan Poe is referenced in the context of a 2011 performance?",
+    "response": [
+        "doc_4151.txt",
+        "doc_8167.txt",
+        "doc_4153.txt",
+        "doc_8178.txt",
+        "doc_8177.txt"
+    ]
+}

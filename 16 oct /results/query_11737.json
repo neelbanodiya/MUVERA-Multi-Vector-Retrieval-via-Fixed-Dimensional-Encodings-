@@ -1,0 +1,10 @@
+{
+    "query": "What is the typical length of a halftime break in an NFL game?",
+    "response": [
+        "doc_6828.txt",
+        "doc_6832.txt",
+        "doc_6826.txt",
+        "doc_6831.txt",
+        "doc_6824.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What historical event is depicted in \"The Birth of a Nation,\" specifically concerning Abraham Lincoln?",
+    "response": [
+        "doc_15480.txt",
+        "doc_6109.txt",
+        "doc_1298.txt",
+        "doc_19368.txt",
+        "doc_9303.txt"
+    ]
+}

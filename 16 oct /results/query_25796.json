@@ -1,0 +1,10 @@
+{
+    "query": "What kind of book is described as making Japanese accessible?",
+    "response": [
+        "doc_14991.txt",
+        "doc_7130.txt",
+        "doc_7132.txt",
+        "doc_7140.txt",
+        "doc_14275.txt"
+    ]
+}

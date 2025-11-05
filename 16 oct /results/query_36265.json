@@ -1,0 +1,10 @@
+{
+    "query": "In the Wilmington Local History Site, what event is being commemorated on June 29, 2005?",
+    "response": [
+        "doc_13032.txt",
+        "doc_13043.txt",
+        "doc_13034.txt",
+        "doc_13033.txt",
+        "doc_13042.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who played drums for The Rats before Rod Rat\u2019s departure?",
+    "response": [
+        "doc_16276.txt",
+        "doc_12714.txt",
+        "doc_5897.txt",
+        "doc_720.txt",
+        "doc_3077.txt"
+    ]
+}

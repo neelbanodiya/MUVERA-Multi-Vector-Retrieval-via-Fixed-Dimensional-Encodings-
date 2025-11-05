@@ -1,0 +1,10 @@
+{
+    "query": "According to the Weight Watchers article, what is a key element of their diet plan?",
+    "response": [
+        "doc_18716.txt",
+        "doc_12680.txt",
+        "doc_18723.txt",
+        "doc_2169.txt",
+        "doc_5803.txt"
+    ]
+}

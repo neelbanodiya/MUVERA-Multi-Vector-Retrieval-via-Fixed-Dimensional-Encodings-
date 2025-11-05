@@ -1,0 +1,10 @@
+{
+    "query": "What genre is *The Teahouse of the August Moon* (film)?",
+    "response": [
+        "doc_8799.txt",
+        "doc_8798.txt",
+        "doc_8797.txt",
+        "doc_8807.txt",
+        "doc_8796.txt"
+    ]
+}

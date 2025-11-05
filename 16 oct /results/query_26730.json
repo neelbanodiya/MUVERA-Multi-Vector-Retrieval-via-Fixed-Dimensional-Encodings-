@@ -1,0 +1,10 @@
+{
+    "query": "What types of texts are referenced in relation to the \u201cRomantic myths of the origin of man\u201d?",
+    "response": [
+        "doc_15529.txt",
+        "doc_18447.txt",
+        "doc_1311.txt",
+        "doc_1310.txt",
+        "doc_9445.txt"
+    ]
+}

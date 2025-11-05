@@ -1,0 +1,10 @@
+{
+    "query": "How many detailed written questions did the EU submit to China regarding the Trade Policy Review?",
+    "response": [
+        "doc_9987.txt",
+        "doc_2492.txt",
+        "doc_2027.txt",
+        "doc_15493.txt",
+        "doc_10073.txt"
+    ]
+}

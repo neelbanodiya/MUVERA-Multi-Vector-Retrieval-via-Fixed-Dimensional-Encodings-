@@ -1,0 +1,10 @@
+{
+    "query": "Which song by The Prodigy reached number 3 in the national charts?",
+    "response": [
+        "doc_20435.txt",
+        "doc_11674.txt",
+        "doc_11425.txt",
+        "doc_17717.txt",
+        "doc_5819.txt"
+    ]
+}

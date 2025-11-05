@@ -1,0 +1,10 @@
+{
+    "query": "Where do most Russians live?",
+    "response": [
+        "doc_20061.txt",
+        "doc_20060.txt",
+        "doc_19810.txt",
+        "doc_3882.txt",
+        "doc_20059.txt"
+    ]
+}

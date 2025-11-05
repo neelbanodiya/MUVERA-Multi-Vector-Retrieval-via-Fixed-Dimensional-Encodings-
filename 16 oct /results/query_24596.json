@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate amount of annual public and private investment in nanotechnologies R&D in the US?",
+    "response": [
+        "doc_14283.txt",
+        "doc_14294.txt",
+        "doc_14293.txt",
+        "doc_14284.txt",
+        "doc_14288.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which heading experienced a reduction of -516 million, as noted by the EP delegation?",
+    "response": [
+        "doc_17548.txt",
+        "doc_17549.txt",
+        "doc_17547.txt",
+        "doc_17546.txt",
+        "doc_17565.txt"
+    ]
+}

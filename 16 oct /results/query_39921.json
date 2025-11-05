@@ -1,0 +1,10 @@
+{
+    "query": "Which groups submitted the joint motion regarding the political situation and media independence in Belarus?",
+    "response": [
+        "doc_23374.txt",
+        "doc_23376.txt",
+        "doc_2260.txt",
+        "doc_4160.txt",
+        "doc_23377.txt"
+    ]
+}

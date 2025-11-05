@@ -1,0 +1,10 @@
+{
+    "query": "What was Rihanna featured in in a music video?",
+    "response": [
+        "doc_24095.txt",
+        "doc_14258.txt",
+        "doc_24091.txt",
+        "doc_8183.txt",
+        "doc_15613.txt"
+    ]
+}

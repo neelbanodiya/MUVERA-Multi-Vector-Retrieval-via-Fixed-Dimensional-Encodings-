@@ -1,0 +1,10 @@
+{
+    "query": "Which film was directed by Guillermo del Toro and released by Universal Pictures in 2008?",
+    "response": [
+        "doc_1231.txt",
+        "doc_12870.txt",
+        "doc_22837.txt",
+        "doc_598.txt",
+        "doc_16095.txt"
+    ]
+}

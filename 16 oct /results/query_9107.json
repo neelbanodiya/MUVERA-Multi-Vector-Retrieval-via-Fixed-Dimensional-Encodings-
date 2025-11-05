@@ -1,0 +1,10 @@
+{
+    "query": "What types of instruments are primarily stringed instruments in traditional Chinese music, according to the provided text?",
+    "response": [
+        "doc_5242.txt",
+        "doc_5252.txt",
+        "doc_5241.txt",
+        "doc_5246.txt",
+        "doc_5248.txt"
+    ]
+}

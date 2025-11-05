@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what astrological correspondence does the Fleur-de-Lys have?",
+    "response": [
+        "doc_1849.txt",
+        "doc_4326.txt",
+        "doc_14771.txt",
+        "doc_11617.txt",
+        "doc_22244.txt"
+    ]
+}

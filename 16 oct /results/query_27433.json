@@ -1,0 +1,10 @@
+{
+    "query": "What themes were discussed at the conclusion of the session with the senior Vatican official?",
+    "response": [
+        "doc_1011.txt",
+        "doc_9316.txt",
+        "doc_9304.txt",
+        "doc_9306.txt",
+        "doc_9305.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many people in the EU are estimated to regularly use a regional or minority language?",
+    "response": [
+        "doc_2201.txt",
+        "doc_9173.txt",
+        "doc_19977.txt",
+        "doc_19978.txt",
+        "doc_2202.txt"
+    ]
+}

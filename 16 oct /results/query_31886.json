@@ -1,0 +1,10 @@
+{
+    "query": "What roles has Arnold Schwarzenegger held besides acting?",
+    "response": [
+        "doc_18585.txt",
+        "doc_18584.txt",
+        "doc_4871.txt",
+        "doc_18873.txt",
+        "doc_5157.txt"
+    ]
+}

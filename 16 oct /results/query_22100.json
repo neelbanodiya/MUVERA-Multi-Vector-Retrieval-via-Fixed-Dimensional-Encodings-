@@ -1,0 +1,9 @@
+{
+    "query": "From what type of aircraft did the Hawker Hurricane initially develop?",
+    "response": [
+        "doc_12762.txt",
+        "doc_12763.txt",
+        "doc_12767.txt",
+        "doc_12769.txt"
+    ]
+}

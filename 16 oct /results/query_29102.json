@@ -1,0 +1,10 @@
+{
+    "query": "What did Sylvester Stallone describe the film *First Blood* as being?",
+    "response": [
+        "doc_14626.txt",
+        "doc_14259.txt",
+        "doc_597.txt",
+        "doc_2680.txt",
+        "doc_1560.txt"
+    ]
+}

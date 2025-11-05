@@ -1,0 +1,10 @@
+{
+    "query": "In \u201cAn Essay On Criticism\u201d, Alexander Pope wrote \u201cAll looks\u201d this color \u201cto the jaundiced eye\u201d?",
+    "response": [
+        "doc_12322.txt",
+        "doc_12324.txt",
+        "doc_12325.txt",
+        "doc_12321.txt",
+        "doc_12326.txt"
+    ]
+}

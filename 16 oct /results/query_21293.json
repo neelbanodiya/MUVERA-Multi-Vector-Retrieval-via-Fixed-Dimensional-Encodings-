@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, how does the Earth\u2019s core generate heat?",
+    "response": [
+        "doc_12279.txt",
+        "doc_12275.txt",
+        "doc_12283.txt",
+        "doc_12274.txt",
+        "doc_12273.txt"
+    ]
+}

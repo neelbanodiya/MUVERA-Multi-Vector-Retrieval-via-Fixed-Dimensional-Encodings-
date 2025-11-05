@@ -1,0 +1,10 @@
+{
+    "query": "What types of DNA were analyzed using the scanning tunneling microscope (STM)?",
+    "response": [
+        "doc_22602.txt",
+        "doc_16485.txt",
+        "doc_21663.txt",
+        "doc_22606.txt",
+        "doc_18681.txt"
+    ]
+}

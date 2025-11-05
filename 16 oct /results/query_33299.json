@@ -1,0 +1,10 @@
+{
+    "query": "What event occurred in 1752 involving the burning of a village and the deaths of Indians?",
+    "response": [
+        "doc_19376.txt",
+        "doc_20875.txt",
+        "doc_14460.txt",
+        "doc_97.txt",
+        "doc_21210.txt"
+    ]
+}

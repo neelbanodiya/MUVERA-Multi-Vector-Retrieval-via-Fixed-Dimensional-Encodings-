@@ -1,0 +1,10 @@
+{
+    "query": "In what year did South Africa gain its own parliament?",
+    "response": [
+        "doc_21272.txt",
+        "doc_21278.txt",
+        "doc_21270.txt",
+        "doc_21268.txt",
+        "doc_21274.txt"
+    ]
+}

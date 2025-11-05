@@ -1,0 +1,10 @@
+{
+    "query": "Which countries participated in the 1986 Goodwill Games?",
+    "response": [
+        "doc_19243.txt",
+        "doc_19242.txt",
+        "doc_24158.txt",
+        "doc_15512.txt",
+        "doc_9172.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "At what university did Bill Cosby attend?",
+    "response": [
+        "doc_4739.txt",
+        "doc_14424.txt",
+        "doc_582.txt",
+        "doc_14753.txt",
+        "doc_20935.txt"
+    ]
+}

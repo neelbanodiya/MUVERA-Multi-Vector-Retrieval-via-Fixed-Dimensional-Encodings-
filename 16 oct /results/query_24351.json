@@ -1,0 +1,10 @@
+{
+    "query": "What is the passage\u2019s recommendation regarding the exchange of information between Member States and social partners?",
+    "response": [
+        "doc_10910.txt",
+        "doc_12108.txt",
+        "doc_21335.txt",
+        "doc_21336.txt",
+        "doc_17374.txt"
+    ]
+}

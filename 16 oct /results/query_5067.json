@@ -1,0 +1,10 @@
+{
+    "query": "How much income did Mohamed Saad earn from the movie?",
+    "response": [
+        "doc_2963.txt",
+        "doc_2964.txt",
+        "doc_14549.txt",
+        "doc_4748.txt",
+        "doc_2230.txt"
+    ]
+}

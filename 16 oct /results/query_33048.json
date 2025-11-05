@@ -1,0 +1,10 @@
+{
+    "query": "When did the Food and Veterinary Office (FVO) conduct an inspection in Greece?",
+    "response": [
+        "doc_19241.txt",
+        "doc_14302.txt",
+        "doc_19061.txt",
+        "doc_11948.txt",
+        "doc_3828.txt"
+    ]
+}

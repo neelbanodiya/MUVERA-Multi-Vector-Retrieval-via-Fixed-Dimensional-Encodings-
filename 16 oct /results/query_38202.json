@@ -1,0 +1,10 @@
+{
+    "query": "What was John Scopes\u2019 profession before he became a teacher?",
+    "response": [
+        "doc_12840.txt",
+        "doc_7628.txt",
+        "doc_14425.txt",
+        "doc_16325.txt",
+        "doc_16326.txt"
+    ]
+}

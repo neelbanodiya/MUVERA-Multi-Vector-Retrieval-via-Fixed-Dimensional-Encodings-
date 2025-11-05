@@ -1,0 +1,10 @@
+{
+    "query": "In what year were South Korea's first circulation coins minted in Philadelphia?",
+    "response": [
+        "doc_12342.txt",
+        "doc_2932.txt",
+        "doc_5912.txt",
+        "doc_2706.txt",
+        "doc_2711.txt"
+    ]
+}

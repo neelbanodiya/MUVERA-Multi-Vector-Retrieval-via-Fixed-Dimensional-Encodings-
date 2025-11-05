@@ -1,0 +1,10 @@
+{
+    "query": "Does the Commission believe this age restriction constitutes discriminatory practice?",
+    "response": [
+        "doc_24161.txt",
+        "doc_23717.txt",
+        "doc_16150.txt",
+        "doc_8513.txt",
+        "doc_4541.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of tool did John Henry use to work the granite?",
+    "response": [
+        "doc_1959.txt",
+        "doc_1941.txt",
+        "doc_1958.txt",
+        "doc_1952.txt",
+        "doc_1953.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the ratio of the female labor force in Japan to Japanese males?",
+    "response": [
+        "doc_14786.txt",
+        "doc_14799.txt",
+        "doc_14797.txt",
+        "doc_14806.txt",
+        "doc_14796.txt"
+    ]
+}

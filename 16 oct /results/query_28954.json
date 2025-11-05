@@ -1,0 +1,10 @@
+{
+    "query": "In 2007, what was the percentage increase in petitions registered with the Committee on Petitions compared to 2006?",
+    "response": [
+        "doc_16884.txt",
+        "doc_23224.txt",
+        "doc_23236.txt",
+        "doc_16893.txt",
+        "doc_23223.txt"
+    ]
+}

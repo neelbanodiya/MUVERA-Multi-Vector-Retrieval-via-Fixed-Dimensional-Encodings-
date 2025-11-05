@@ -1,0 +1,10 @@
+{
+    "query": "When did the demonstrations at Tiananmen Square begin?",
+    "response": [
+        "doc_10970.txt",
+        "doc_10987.txt",
+        "doc_10981.txt",
+        "doc_10971.txt",
+        "doc_10974.txt"
+    ]
+}

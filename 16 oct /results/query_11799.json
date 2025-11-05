@@ -1,0 +1,10 @@
+{
+    "query": "How many times did the Pittsburgh Pirates reach the National League pennant between 1970 and 1979, as highlighted in one of the articles?",
+    "response": [
+        "doc_22500.txt",
+        "doc_12826.txt",
+        "doc_15553.txt",
+        "doc_15807.txt",
+        "doc_7223.txt"
+    ]
+}

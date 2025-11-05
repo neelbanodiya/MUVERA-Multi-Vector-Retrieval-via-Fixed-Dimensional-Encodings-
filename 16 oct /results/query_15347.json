@@ -1,0 +1,10 @@
+{
+    "query": "Which Community financial instruments are explicitly excluded from providing assistance for the same purpose as this Regulation?",
+    "response": [
+        "doc_8884.txt",
+        "doc_15596.txt",
+        "doc_2027.txt",
+        "doc_8876.txt",
+        "doc_3004.txt"
+    ]
+}

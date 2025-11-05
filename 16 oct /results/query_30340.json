@@ -1,0 +1,10 @@
+{
+    "query": "What lines of railroads does the Foz Tua railway station connect?",
+    "response": [
+        "doc_16582.txt",
+        "doc_17641.txt",
+        "doc_6314.txt",
+        "doc_17642.txt",
+        "doc_16254.txt"
+    ]
+}

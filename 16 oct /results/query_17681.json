@@ -1,0 +1,10 @@
+{
+    "query": "What type of store is Costa opening, and what does it offer?",
+    "response": [
+        "doc_20932.txt",
+        "doc_9359.txt",
+        "doc_20933.txt",
+        "doc_23590.txt",
+        "doc_9777.txt"
+    ]
+}

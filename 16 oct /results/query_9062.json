@@ -1,0 +1,10 @@
+{
+    "query": "In the South Park episode from 1997, what topics were explored, including zombies and Tina Yothers?",
+    "response": [
+        "doc_1890.txt",
+        "doc_12265.txt",
+        "doc_1893.txt",
+        "doc_2331.txt",
+        "doc_12877.txt"
+    ]
+}

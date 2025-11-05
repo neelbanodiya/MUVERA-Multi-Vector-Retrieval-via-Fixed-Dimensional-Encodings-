@@ -1,0 +1,10 @@
+{
+    "query": "Which national road connects Lampeia and Ancient Olympia?",
+    "response": [
+        "doc_283.txt",
+        "doc_22652.txt",
+        "doc_22658.txt",
+        "doc_14774.txt",
+        "doc_10128.txt"
+    ]
+}

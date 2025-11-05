@@ -1,0 +1,10 @@
+{
+    "query": "What date was the article about MEPs backing a CO2 cap on cars published?",
+    "response": [
+        "doc_3828.txt",
+        "doc_4482.txt",
+        "doc_8295.txt",
+        "doc_5160.txt",
+        "doc_7360.txt"
+    ]
+}

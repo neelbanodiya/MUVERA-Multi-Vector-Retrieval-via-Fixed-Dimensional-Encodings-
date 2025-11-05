@@ -1,0 +1,10 @@
+{
+    "query": "What is the Scottish National Flag primarily associated with?",
+    "response": [
+        "doc_16453.txt",
+        "doc_16450.txt",
+        "doc_16447.txt",
+        "doc_16446.txt",
+        "doc_16455.txt"
+    ]
+}

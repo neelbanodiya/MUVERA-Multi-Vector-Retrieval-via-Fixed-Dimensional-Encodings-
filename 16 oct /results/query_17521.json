@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, who was the King of France after Louis XVIII?",
+    "response": [
+        "doc_10139.txt",
+        "doc_10151.txt",
+        "doc_10153.txt",
+        "doc_10142.txt",
+        "doc_10146.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What position did Tom Sharkey hold within the Toronto Police Training Academy before his retirement?",
+    "response": [
+        "doc_4584.txt",
+        "doc_4577.txt",
+        "doc_4579.txt",
+        "doc_4583.txt",
+        "doc_4582.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the European Parliament\u2019s instruction regarding the Commission\u2019s potential amendments to the proposal?",
+    "response": [
+        "doc_13217.txt",
+        "doc_22620.txt",
+        "doc_24018.txt",
+        "doc_21804.txt",
+        "doc_19662.txt"
+    ]
+}

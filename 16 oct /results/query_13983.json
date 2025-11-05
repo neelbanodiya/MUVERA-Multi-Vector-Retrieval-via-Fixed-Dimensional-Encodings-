@@ -1,0 +1,10 @@
+{
+    "query": "What specific actions is the Council being called to take regarding the economic agendas of the warring parties?",
+    "response": [
+        "doc_2030.txt",
+        "doc_3794.txt",
+        "doc_9144.txt",
+        "doc_8119.txt",
+        "doc_4012.txt"
+    ]
+}

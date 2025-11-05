@@ -1,0 +1,10 @@
+{
+    "query": "According to the Amazon review, what are some issues associated with video tapes recorded on Hi8 devices?",
+    "response": [
+        "doc_3988.txt",
+        "doc_3981.txt",
+        "doc_3984.txt",
+        "doc_2731.txt",
+        "doc_3982.txt"
+    ]
+}

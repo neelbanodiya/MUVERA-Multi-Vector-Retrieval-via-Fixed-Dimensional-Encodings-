@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the Vice President associated with William McKinley?",
+    "response": [
+        "doc_4812.txt",
+        "doc_4814.txt",
+        "doc_4815.txt",
+        "doc_4813.txt",
+        "doc_16807.txt"
+    ]
+}

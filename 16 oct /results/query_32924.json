@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of biofuel is the European Parliament aiming for by 2020?",
+    "response": [
+        "doc_10597.txt",
+        "doc_5614.txt",
+        "doc_17408.txt",
+        "doc_179.txt",
+        "doc_19176.txt"
+    ]
+}

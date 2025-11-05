@@ -1,0 +1,10 @@
+{
+    "query": "What specific technical element was used in the creation of Stromboli\u2019s cart, as mentioned in the text?",
+    "response": [
+        "doc_7646.txt",
+        "doc_16495.txt",
+        "doc_7648.txt",
+        "doc_16517.txt",
+        "doc_4326.txt"
+    ]
+}

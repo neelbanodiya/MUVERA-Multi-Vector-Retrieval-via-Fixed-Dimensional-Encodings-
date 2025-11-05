@@ -1,0 +1,10 @@
+{
+    "query": "What type of art did Romantic-era artists frequently depict?",
+    "response": [
+        "doc_10100.txt",
+        "doc_20492.txt",
+        "doc_10097.txt",
+        "doc_17272.txt",
+        "doc_3548.txt"
+    ]
+}

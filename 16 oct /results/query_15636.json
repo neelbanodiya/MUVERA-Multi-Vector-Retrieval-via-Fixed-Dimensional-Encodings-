@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the painting \u201cAutumn Rhythm (Number 30)\u201d created?",
+    "response": [
+        "doc_9060.txt",
+        "doc_23543.txt",
+        "doc_21519.txt",
+        "doc_10103.txt",
+        "doc_11941.txt"
+    ]
+}

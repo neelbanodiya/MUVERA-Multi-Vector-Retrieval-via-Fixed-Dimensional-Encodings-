@@ -1,0 +1,10 @@
+{
+    "query": "Who was Jann Wenner?",
+    "response": [
+        "doc_22802.txt",
+        "doc_21901.txt",
+        "doc_9342.txt",
+        "doc_6397.txt",
+        "doc_1979.txt"
+    ]
+}

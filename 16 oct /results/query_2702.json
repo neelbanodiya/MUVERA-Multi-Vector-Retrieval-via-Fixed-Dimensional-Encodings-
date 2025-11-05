@@ -1,0 +1,10 @@
+{
+    "query": "What was the actor known for before adopting a son, Liam?",
+    "response": [
+        "doc_18954.txt",
+        "doc_6557.txt",
+        "doc_19011.txt",
+        "doc_7879.txt",
+        "doc_3077.txt"
+    ]
+}

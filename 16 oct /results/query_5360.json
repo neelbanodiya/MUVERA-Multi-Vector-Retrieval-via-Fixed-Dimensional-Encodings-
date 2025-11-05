@@ -1,0 +1,10 @@
+{
+    "query": "Who is the \"Survivor\" host mentioned in the passage?",
+    "response": [
+        "doc_6401.txt",
+        "doc_9525.txt",
+        "doc_6412.txt",
+        "doc_20006.txt",
+        "doc_21716.txt"
+    ]
+}

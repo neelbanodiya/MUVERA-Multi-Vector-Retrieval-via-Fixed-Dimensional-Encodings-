@@ -1,0 +1,10 @@
+{
+    "query": "What line did Ronald Reagan later entitle his autobiography after?",
+    "response": [
+        "doc_20672.txt",
+        "doc_3567.txt",
+        "doc_726.txt",
+        "doc_45.txt",
+        "doc_18591.txt"
+    ]
+}

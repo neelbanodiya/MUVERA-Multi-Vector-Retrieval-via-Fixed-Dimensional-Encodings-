@@ -1,0 +1,10 @@
+{
+    "query": "On what radio program did Commissioner Wallstr\u00f6m\u2019s comment appear?",
+    "response": [
+        "doc_10858.txt",
+        "doc_14232.txt",
+        "doc_4734.txt",
+        "doc_21623.txt",
+        "doc_23870.txt"
+    ]
+}

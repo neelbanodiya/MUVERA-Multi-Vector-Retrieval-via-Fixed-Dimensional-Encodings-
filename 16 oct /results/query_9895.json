@@ -1,0 +1,10 @@
+{
+    "query": "What was Russia refurbishing in the late 1990s?",
+    "response": [
+        "doc_6800.txt",
+        "doc_19243.txt",
+        "doc_18364.txt",
+        "doc_19697.txt",
+        "doc_6654.txt"
+    ]
+}

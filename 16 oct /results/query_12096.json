@@ -1,0 +1,10 @@
+{
+    "query": "According to Erin Murphy, who was responsible for a specific element related to *Bewitched*\u2019s production?",
+    "response": [
+        "doc_7071.txt",
+        "doc_7070.txt",
+        "doc_7513.txt",
+        "doc_12639.txt",
+        "doc_20569.txt"
+    ]
+}

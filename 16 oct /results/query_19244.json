@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Nobel Prize awarded to John Nash?",
+    "response": [
+        "doc_11670.txt",
+        "doc_11667.txt",
+        "doc_11657.txt",
+        "doc_11668.txt",
+        "doc_11669.txt"
+    ]
+}

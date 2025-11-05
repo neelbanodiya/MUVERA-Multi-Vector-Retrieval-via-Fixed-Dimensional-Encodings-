@@ -1,0 +1,10 @@
+{
+    "query": "Which bodies are involved in discussions about the draft Statute?",
+    "response": [
+        "doc_14255.txt",
+        "doc_13346.txt",
+        "doc_13361.txt",
+        "doc_13217.txt",
+        "doc_13221.txt"
+    ]
+}

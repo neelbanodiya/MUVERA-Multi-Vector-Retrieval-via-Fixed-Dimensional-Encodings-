@@ -1,0 +1,10 @@
+{
+    "query": "What is the maximum length of correspondence sent to federal and state elected officials, U.S. attorneys, U.S. magistrates, and mayors, as outlined in the National Park Service Correspondence Manual?",
+    "response": [
+        "doc_13370.txt",
+        "doc_15985.txt",
+        "doc_15988.txt",
+        "doc_14093.txt",
+        "doc_13331.txt"
+    ]
+}

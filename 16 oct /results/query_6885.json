@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the region where Moldova is located, and what language do the majority of its population speak?",
+    "response": [
+        "doc_1678.txt",
+        "doc_3268.txt",
+        "doc_3937.txt",
+        "doc_22689.txt",
+        "doc_3943.txt"
+    ]
+}

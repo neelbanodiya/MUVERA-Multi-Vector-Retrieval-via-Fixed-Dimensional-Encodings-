@@ -1,0 +1,10 @@
+{
+    "query": "Besides Egypt, in what region was the Virgin Mary worshipped in her Egyptian form (as Isis and Hathor)?",
+    "response": [
+        "doc_12550.txt",
+        "doc_12560.txt",
+        "doc_12561.txt",
+        "doc_12557.txt",
+        "doc_12556.txt"
+    ]
+}

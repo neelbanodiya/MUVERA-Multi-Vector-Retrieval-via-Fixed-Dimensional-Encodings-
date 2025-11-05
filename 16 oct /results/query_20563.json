@@ -1,0 +1,10 @@
+{
+    "query": "For how long has Libya been ruled by a dictator?",
+    "response": [
+        "doc_5345.txt",
+        "doc_5344.txt",
+        "doc_5346.txt",
+        "doc_5349.txt",
+        "doc_5347.txt"
+    ]
+}

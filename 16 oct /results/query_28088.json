@@ -1,0 +1,10 @@
+{
+    "query": "Does the text contain any references to Germany or Japan?",
+    "response": [
+        "doc_1782.txt",
+        "doc_992.txt",
+        "doc_5182.txt",
+        "doc_1458.txt",
+        "doc_20830.txt"
+    ]
+}

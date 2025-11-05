@@ -1,0 +1,10 @@
+{
+    "query": "What architectural style is 252 East 57th Street described as?",
+    "response": [
+        "doc_3380.txt",
+        "doc_28.txt",
+        "doc_3381.txt",
+        "doc_3382.txt",
+        "doc_19972.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was Mr. Christian's Deli and Catering Services founded?",
+    "response": [
+        "doc_18435.txt",
+        "doc_18434.txt",
+        "doc_1319.txt",
+        "doc_10669.txt",
+        "doc_16167.txt"
+    ]
+}

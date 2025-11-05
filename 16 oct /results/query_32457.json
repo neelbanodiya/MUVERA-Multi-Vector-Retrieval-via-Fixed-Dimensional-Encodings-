@@ -1,0 +1,10 @@
+{
+    "query": "Which actor is associated with the character \u201cOliver Wendell Douglas\u201d from *Green Acres* and also had a partnership with his sister Adele Astaire?",
+    "response": [
+        "doc_18937.txt",
+        "doc_20134.txt",
+        "doc_16997.txt",
+        "doc_20019.txt",
+        "doc_751.txt"
+    ]
+}

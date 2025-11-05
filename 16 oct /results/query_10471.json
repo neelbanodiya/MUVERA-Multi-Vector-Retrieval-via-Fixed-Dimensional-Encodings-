@@ -1,0 +1,10 @@
+{
+    "query": "What material is the road to the City of Emeralds paved with?",
+    "response": [
+        "doc_6064.txt",
+        "doc_6063.txt",
+        "doc_9596.txt",
+        "doc_9592.txt",
+        "doc_6062.txt"
+    ]
+}

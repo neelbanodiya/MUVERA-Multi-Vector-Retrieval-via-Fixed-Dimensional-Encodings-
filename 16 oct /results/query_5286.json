@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the song \u201cHawaii\u201d released as a single in Australia?",
+    "response": [
+        "doc_5371.txt",
+        "doc_2415.txt",
+        "doc_5370.txt",
+        "doc_14725.txt",
+        "doc_20314.txt"
+    ]
+}

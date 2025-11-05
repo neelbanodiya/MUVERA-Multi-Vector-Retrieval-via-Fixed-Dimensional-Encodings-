@@ -1,0 +1,10 @@
+{
+    "query": "What action is the Commission planning to take regarding the directive in the future, as outlined in a specific communication?",
+    "response": [
+        "doc_17779.txt",
+        "doc_9669.txt",
+        "doc_13372.txt",
+        "doc_9671.txt",
+        "doc_23886.txt"
+    ]
+}

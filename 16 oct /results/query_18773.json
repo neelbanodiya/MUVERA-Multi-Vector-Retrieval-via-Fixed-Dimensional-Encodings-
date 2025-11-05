@@ -1,0 +1,10 @@
+{
+    "query": "Which film stars Scarlett Johansson and Steve Buscemi, and is based on a comic book by Daniel Clowes?",
+    "response": [
+        "doc_10902.txt",
+        "doc_5239.txt",
+        "doc_17849.txt",
+        "doc_6926.txt",
+        "doc_13535.txt"
+    ]
+}

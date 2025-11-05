@@ -1,0 +1,10 @@
+{
+    "query": "What type of body was offered on the Chevrolet Suburban, and on what type of frame was it built?",
+    "response": [
+        "doc_17149.txt",
+        "doc_17152.txt",
+        "doc_17164.txt",
+        "doc_17163.txt",
+        "doc_17162.txt"
+    ]
+}

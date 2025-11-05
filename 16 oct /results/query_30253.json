@@ -1,0 +1,10 @@
+{
+    "query": "Which committee was responsible for the draft general budget of the European Union for the financial year 2006, and what was the procedure number?",
+    "response": [
+        "doc_17469.txt",
+        "doc_17568.txt",
+        "doc_17585.txt",
+        "doc_17626.txt",
+        "doc_17470.txt"
+    ]
+}

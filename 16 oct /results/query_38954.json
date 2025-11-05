@@ -1,0 +1,10 @@
+{
+    "query": "What country participated in the Eurovision Song Contest in 1978, and what was their placement?",
+    "response": [
+        "doc_19243.txt",
+        "doc_10378.txt",
+        "doc_22804.txt",
+        "doc_19067.txt",
+        "doc_24158.txt"
+    ]
+}

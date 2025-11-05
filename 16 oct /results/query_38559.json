@@ -1,0 +1,10 @@
+{
+    "query": "When was the first image of a DNA segment showing its helical structure taken with an STM?",
+    "response": [
+        "doc_3874.txt",
+        "doc_5084.txt",
+        "doc_8051.txt",
+        "doc_22410.txt",
+        "doc_3872.txt"
+    ]
+}

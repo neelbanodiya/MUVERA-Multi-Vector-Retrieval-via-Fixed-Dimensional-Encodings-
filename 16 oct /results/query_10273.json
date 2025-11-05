@@ -1,0 +1,10 @@
+{
+    "query": "What authors are mentioned in the Hart House document?",
+    "response": [
+        "doc_17758.txt",
+        "doc_14665.txt",
+        "doc_14083.txt",
+        "doc_9990.txt",
+        "doc_8516.txt"
+    ]
+}

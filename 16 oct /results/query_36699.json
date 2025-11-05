@@ -1,0 +1,10 @@
+{
+    "query": "What is the current income inequality situation in the U.S., based on data from the Pew Research Center?",
+    "response": [
+        "doc_5560.txt",
+        "doc_5221.txt",
+        "doc_9118.txt",
+        "doc_11920.txt",
+        "doc_11924.txt"
+    ]
+}

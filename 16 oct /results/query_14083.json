@@ -1,0 +1,10 @@
+{
+    "query": "Besides Philip Glass, what other author\u2019s works have frequently inspired opera compositions?",
+    "response": [
+        "doc_8173.txt",
+        "doc_8172.txt",
+        "doc_8163.txt",
+        "doc_8167.txt",
+        "doc_10465.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where did Nokomis live?",
+    "response": [
+        "doc_369.txt",
+        "doc_3979.txt",
+        "doc_23891.txt",
+        "doc_15754.txt",
+        "doc_20059.txt"
+    ]
+}

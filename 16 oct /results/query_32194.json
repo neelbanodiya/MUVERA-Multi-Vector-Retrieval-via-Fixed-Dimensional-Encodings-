@@ -1,0 +1,10 @@
+{
+    "query": "What is the most famous line from the movie *Casablanca*?",
+    "response": [
+        "doc_18756.txt",
+        "doc_18761.txt",
+        "doc_18760.txt",
+        "doc_18762.txt",
+        "doc_18749.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In the 2012 United States presidential election, who were the Democratic and Republican nominees?",
+    "response": [
+        "doc_2476.txt",
+        "doc_2477.txt",
+        "doc_23154.txt",
+        "doc_2475.txt",
+        "doc_2762.txt"
+    ]
+}

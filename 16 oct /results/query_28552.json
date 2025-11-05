@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the Chinese dragon featured in the Daily Mail article?",
+    "response": [
+        "doc_18298.txt",
+        "doc_19436.txt",
+        "doc_18291.txt",
+        "doc_1048.txt",
+        "doc_792.txt"
+    ]
+}

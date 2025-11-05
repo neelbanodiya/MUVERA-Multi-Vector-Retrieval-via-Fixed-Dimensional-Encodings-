@@ -1,0 +1,10 @@
+{
+    "query": "What geographical region does Darjeeling primarily belong to, and what notable feature is it known for?",
+    "response": [
+        "doc_21704.txt",
+        "doc_1389.txt",
+        "doc_18420.txt",
+        "doc_1388.txt",
+        "doc_7648.txt"
+    ]
+}

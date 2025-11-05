@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was Kate Winslet\u2019s character\u2019s demeanor in the film?",
+    "response": [
+        "doc_1444.txt",
+        "doc_3228.txt",
+        "doc_6557.txt",
+        "doc_2504.txt",
+        "doc_7513.txt"
+    ]
+}

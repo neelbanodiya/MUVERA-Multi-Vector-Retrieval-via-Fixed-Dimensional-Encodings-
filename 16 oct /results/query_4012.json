@@ -1,0 +1,10 @@
+{
+    "query": "Which concert tour did Demi Lovato perform as an opening act for the Jonas Brothers?",
+    "response": [
+        "doc_2345.txt",
+        "doc_2346.txt",
+        "doc_10463.txt",
+        "doc_3257.txt",
+        "doc_8811.txt"
+    ]
+}

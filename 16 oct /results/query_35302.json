@@ -1,0 +1,10 @@
+{
+    "query": "According to the sources, what recognition did Jane Darwell receive for her performance as Ma Joad?",
+    "response": [
+        "doc_4648.txt",
+        "doc_4642.txt",
+        "doc_20418.txt",
+        "doc_7076.txt",
+        "doc_726.txt"
+    ]
+}

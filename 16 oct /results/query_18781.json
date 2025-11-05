@@ -1,0 +1,10 @@
+{
+    "query": "What topics will be debated by the Environment Committee ahead of the UN climate summit?",
+    "response": [
+        "doc_10905.txt",
+        "doc_2050.txt",
+        "doc_454.txt",
+        "doc_19034.txt",
+        "doc_11113.txt"
+    ]
+}

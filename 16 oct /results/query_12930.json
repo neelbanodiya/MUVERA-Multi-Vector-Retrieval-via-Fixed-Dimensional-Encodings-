@@ -1,0 +1,10 @@
+{
+    "query": "What was the original peak position of \u201cEndless Love\u201d by Diana Ross and Lionel Richie on the Billboard Hot 100?",
+    "response": [
+        "doc_7536.txt",
+        "doc_7543.txt",
+        "doc_12407.txt",
+        "doc_13924.txt",
+        "doc_15322.txt"
+    ]
+}

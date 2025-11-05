@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was Beethoven doing in 1802?",
+    "response": [
+        "doc_14551.txt",
+        "doc_14550.txt",
+        "doc_19935.txt",
+        "doc_14563.txt",
+        "doc_19937.txt"
+    ]
+}

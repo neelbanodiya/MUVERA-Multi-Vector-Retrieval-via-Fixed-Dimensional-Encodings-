@@ -1,0 +1,10 @@
+{
+    "query": "According to the December 23, 2015 article, what percentage dividend does Mattel (MAT) pay?",
+    "response": [
+        "doc_3678.txt",
+        "doc_3675.txt",
+        "doc_3681.txt",
+        "doc_17209.txt",
+        "doc_3982.txt"
+    ]
+}

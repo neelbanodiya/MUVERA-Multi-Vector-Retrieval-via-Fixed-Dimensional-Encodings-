@@ -1,0 +1,10 @@
+{
+    "query": "Which European MP supported a European tax, and why did they believe it was the \u201conly option not linked to the competition principle\u201d?",
+    "response": [
+        "doc_4574.txt",
+        "doc_4575.txt",
+        "doc_2254.txt",
+        "doc_16894.txt",
+        "doc_2027.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What weather-related topics did Kepler begin recording in 1593?",
+    "response": [
+        "doc_652.txt",
+        "doc_18619.txt",
+        "doc_5026.txt",
+        "doc_5518.txt",
+        "doc_16083.txt"
+    ]
+}

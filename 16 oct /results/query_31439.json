@@ -1,0 +1,10 @@
+{
+    "query": "Who is the current Adjutant General of North Dakota?",
+    "response": [
+        "doc_18368.txt",
+        "doc_18370.txt",
+        "doc_15223.txt",
+        "doc_18371.txt",
+        "doc_15231.txt"
+    ]
+}

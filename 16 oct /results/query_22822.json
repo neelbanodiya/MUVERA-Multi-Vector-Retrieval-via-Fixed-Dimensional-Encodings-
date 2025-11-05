@@ -1,0 +1,10 @@
+{
+    "query": "In 1880, who declared President Grant would \u201chew to the line of right, let the chips fall where they may\u201d?",
+    "response": [
+        "doc_13136.txt",
+        "doc_338.txt",
+        "doc_22453.txt",
+        "doc_23879.txt",
+        "doc_4304.txt"
+    ]
+}

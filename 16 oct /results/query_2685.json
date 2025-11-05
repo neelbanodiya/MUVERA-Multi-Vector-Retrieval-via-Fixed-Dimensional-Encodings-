@@ -1,0 +1,10 @@
+{
+    "query": "What shuttle service is offered at the Hilton Boston in Back Bay?",
+    "response": [
+        "doc_1617.txt",
+        "doc_1612.txt",
+        "doc_1613.txt",
+        "doc_1616.txt",
+        "doc_1615.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who will participate in the debate regarding the \u201cEurozone\u201d?",
+    "response": [
+        "doc_17399.txt",
+        "doc_17375.txt",
+        "doc_17389.txt",
+        "doc_17374.txt",
+        "doc_8029.txt"
+    ]
+}

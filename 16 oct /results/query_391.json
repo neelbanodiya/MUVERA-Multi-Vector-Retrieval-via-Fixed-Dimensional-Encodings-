@@ -1,0 +1,10 @@
+{
+    "query": "What is \u201cBloody Lane\u201d known as?",
+    "response": [
+        "doc_18914.txt",
+        "doc_18918.txt",
+        "doc_960.txt",
+        "doc_23260.txt",
+        "doc_9228.txt"
+    ]
+}

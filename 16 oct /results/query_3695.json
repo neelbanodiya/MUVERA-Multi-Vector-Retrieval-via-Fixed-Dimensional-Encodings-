@@ -1,0 +1,10 @@
+{
+    "query": "Which New York State Senate district does Andrea Stewart-Cousins represent?",
+    "response": [
+        "doc_2177.txt",
+        "doc_2175.txt",
+        "doc_4522.txt",
+        "doc_20142.txt",
+        "doc_1932.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What geological features are located near Medford, Oregon, including the Table Rocks and Rogue River?",
+    "response": [
+        "doc_890.txt",
+        "doc_895.txt",
+        "doc_898.txt",
+        "doc_892.txt",
+        "doc_23538.txt"
+    ]
+}

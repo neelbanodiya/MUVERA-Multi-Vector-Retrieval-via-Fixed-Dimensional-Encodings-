@@ -1,0 +1,10 @@
+{
+    "query": "What action can be taken in the context of the EU 2020 Strategy to increase equality in the EU?",
+    "response": [
+        "doc_5097.txt",
+        "doc_6803.txt",
+        "doc_14131.txt",
+        "doc_17392.txt",
+        "doc_19918.txt"
+    ]
+}

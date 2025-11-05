@@ -1,0 +1,10 @@
+{
+    "query": "What city was modeled after Philadelphia in the new state?",
+    "response": [
+        "doc_2709.txt",
+        "doc_2710.txt",
+        "doc_13601.txt",
+        "doc_2711.txt",
+        "doc_13599.txt"
+    ]
+}

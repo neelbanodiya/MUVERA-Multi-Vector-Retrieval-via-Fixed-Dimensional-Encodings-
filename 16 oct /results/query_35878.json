@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Guinness widget awarded the Queen\u2019s Award for Technological Achievement?",
+    "response": [
+        "doc_20915.txt",
+        "doc_20920.txt",
+        "doc_10866.txt",
+        "doc_6816.txt",
+        "doc_3992.txt"
+    ]
+}

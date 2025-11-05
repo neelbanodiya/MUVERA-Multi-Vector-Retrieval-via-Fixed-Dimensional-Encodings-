@@ -1,0 +1,10 @@
+{
+    "query": "Besides the Iranian Revolution, what other event mentioned in the text involved the overthrow of a dynasty led by a monarch?",
+    "response": [
+        "doc_5343.txt",
+        "doc_9571.txt",
+        "doc_6339.txt",
+        "doc_9578.txt",
+        "doc_9575.txt"
+    ]
+}

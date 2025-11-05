@@ -1,0 +1,10 @@
+{
+    "query": "Who voices Stromboli in *Pinocchio*?",
+    "response": [
+        "doc_20616.txt",
+        "doc_20614.txt",
+        "doc_20625.txt",
+        "doc_20617.txt",
+        "doc_20619.txt"
+    ]
+}

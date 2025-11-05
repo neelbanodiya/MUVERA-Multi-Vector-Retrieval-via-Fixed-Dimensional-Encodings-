@@ -1,0 +1,10 @@
+{
+    "query": "What city is most closely associated with W.C. Handy\u2019s musical legacy, as evidenced by his song \u201cBeale Street Blues\u201d?",
+    "response": [
+        "doc_1907.txt",
+        "doc_1913.txt",
+        "doc_1908.txt",
+        "doc_1910.txt",
+        "doc_1906.txt"
+    ]
+}

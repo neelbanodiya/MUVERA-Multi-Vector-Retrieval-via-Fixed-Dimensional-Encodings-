@@ -1,0 +1,10 @@
+{
+    "query": "Who plays the role of Trevor Thomas in *A Very Brady Sequel*?",
+    "response": [
+        "doc_16925.txt",
+        "doc_7864.txt",
+        "doc_19283.txt",
+        "doc_19282.txt",
+        "doc_10903.txt"
+    ]
+}

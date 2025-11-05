@@ -1,0 +1,10 @@
+{
+    "query": "Which professional basketball team is based in Los Angeles?",
+    "response": [
+        "doc_10507.txt",
+        "doc_8052.txt",
+        "doc_10511.txt",
+        "doc_8056.txt",
+        "doc_10512.txt"
+    ]
+}

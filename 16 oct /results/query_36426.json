@@ -1,0 +1,10 @@
+{
+    "query": "What type of media did the Canada Post use to promote itself (Board was Mail Early)?",
+    "response": [
+        "doc_19270.txt",
+        "doc_2748.txt",
+        "doc_5407.txt",
+        "doc_5723.txt",
+        "doc_6223.txt"
+    ]
+}

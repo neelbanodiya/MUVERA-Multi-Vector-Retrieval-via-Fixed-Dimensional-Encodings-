@@ -1,0 +1,10 @@
+{
+    "query": "What kind of peak is Mount Rainier described as being?",
+    "response": [
+        "doc_18544.txt",
+        "doc_13848.txt",
+        "doc_18545.txt",
+        "doc_18550.txt",
+        "doc_2277.txt"
+    ]
+}

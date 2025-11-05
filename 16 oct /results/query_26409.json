@@ -1,0 +1,10 @@
+{
+    "query": "Which Narragansett word is the origin of the term \u201cpow wow\u201d?",
+    "response": [
+        "doc_15352.txt",
+        "doc_15351.txt",
+        "doc_15368.txt",
+        "doc_15367.txt",
+        "doc_15359.txt"
+    ]
+}

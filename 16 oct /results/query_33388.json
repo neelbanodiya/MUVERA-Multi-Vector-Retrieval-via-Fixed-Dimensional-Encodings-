@@ -1,0 +1,10 @@
+{
+    "query": "What bird is described as a \u201cstandard Christmas meal\u201d inclusion in Britain?",
+    "response": [
+        "doc_19437.txt",
+        "doc_19436.txt",
+        "doc_18267.txt",
+        "doc_23445.txt",
+        "doc_10095.txt"
+    ]
+}

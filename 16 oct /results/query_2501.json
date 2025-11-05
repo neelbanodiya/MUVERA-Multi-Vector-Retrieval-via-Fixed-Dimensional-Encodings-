@@ -1,0 +1,10 @@
+{
+    "query": "What word was used to describe the \u201ctarget\u201d that Ahab was focused on?",
+    "response": [
+        "doc_21336.txt",
+        "doc_14883.txt",
+        "doc_2950.txt",
+        "doc_23410.txt",
+        "doc_4400.txt"
+    ]
+}

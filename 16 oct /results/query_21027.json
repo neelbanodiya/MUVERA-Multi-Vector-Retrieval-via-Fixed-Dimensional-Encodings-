@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is a common characteristic of countries described as \u201cmore religious country then Western Europe\u201d?",
+    "response": [
+        "doc_8789.txt",
+        "doc_12133.txt",
+        "doc_20384.txt",
+        "doc_7301.txt",
+        "doc_8790.txt"
+    ]
+}

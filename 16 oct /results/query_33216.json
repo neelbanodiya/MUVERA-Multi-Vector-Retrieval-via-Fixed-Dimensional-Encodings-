@@ -1,0 +1,10 @@
+{
+    "query": "Which woman was the first elected from Austin to the Texas House of Representatives?",
+    "response": [
+        "doc_19312.txt",
+        "doc_19316.txt",
+        "doc_19313.txt",
+        "doc_19325.txt",
+        "doc_19319.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which movie starred Harrison Ford based on Scott Turow\u2019s \u201cPresumed Innocent\u201d?",
+    "response": [
+        "doc_16225.txt",
+        "doc_16226.txt",
+        "doc_16219.txt",
+        "doc_16223.txt",
+        "doc_16220.txt"
+    ]
+}

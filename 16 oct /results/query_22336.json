@@ -1,0 +1,10 @@
+{
+    "query": "Which actors are mentioned as starring in \u201cThe Lost World: Jurassic Park\u201d?",
+    "response": [
+        "doc_12869.txt",
+        "doc_12872.txt",
+        "doc_8693.txt",
+        "doc_12877.txt",
+        "doc_14684.txt"
+    ]
+}

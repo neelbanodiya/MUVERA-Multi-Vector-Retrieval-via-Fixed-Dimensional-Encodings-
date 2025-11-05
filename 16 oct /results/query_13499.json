@@ -1,0 +1,10 @@
+{
+    "query": "What was Sir Gerald du Maurier\u2019s profession?",
+    "response": [
+        "doc_19680.txt",
+        "doc_21249.txt",
+        "doc_16126.txt",
+        "doc_9771.txt",
+        "doc_1020.txt"
+    ]
+}

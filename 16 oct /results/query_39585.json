@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what negative qualities are attributed to Donald Trump?",
+    "response": [
+        "doc_18109.txt",
+        "doc_22931.txt",
+        "doc_11077.txt",
+        "doc_23182.txt",
+        "doc_16735.txt"
+    ]
+}

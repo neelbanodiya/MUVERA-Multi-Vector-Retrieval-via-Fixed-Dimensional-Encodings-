@@ -1,0 +1,10 @@
+{
+    "query": "What was the land discovered by Bjarne called?",
+    "response": [
+        "doc_6498.txt",
+        "doc_6507.txt",
+        "doc_6504.txt",
+        "doc_6508.txt",
+        "doc_9252.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which snack food brands are produced under the Frito-Lay name?",
+    "response": [
+        "doc_12645.txt",
+        "doc_12646.txt",
+        "doc_8915.txt",
+        "doc_18266.txt",
+        "doc_8912.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did \u201chit Do That To Me \\nMore Time\u201d reach the number one spot on the Billboard Hot 100?",
+    "response": [
+        "doc_14725.txt",
+        "doc_6689.txt",
+        "doc_13736.txt",
+        "doc_13924.txt",
+        "doc_20435.txt"
+    ]
+}

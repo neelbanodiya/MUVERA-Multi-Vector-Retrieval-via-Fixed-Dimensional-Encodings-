@@ -1,0 +1,10 @@
+{
+    "query": "Which religious groups were represented among the colonists, aside from Anglican/Church of England?",
+    "response": [
+        "doc_8696.txt",
+        "doc_2603.txt",
+        "doc_8697.txt",
+        "doc_2467.txt",
+        "doc_12135.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the town located in the valley associated with Jackson Hole?",
+    "response": [
+        "doc_890.txt",
+        "doc_16252.txt",
+        "doc_3329.txt",
+        "doc_18154.txt",
+        "doc_4509.txt"
+    ]
+}

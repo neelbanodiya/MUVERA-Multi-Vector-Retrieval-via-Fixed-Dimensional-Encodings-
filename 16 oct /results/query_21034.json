@@ -1,0 +1,10 @@
+{
+    "query": "What abbreviation is used in religious publications to represent Christianity?",
+    "response": [
+        "doc_12132.txt",
+        "doc_12128.txt",
+        "doc_12141.txt",
+        "doc_12142.txt",
+        "doc_12129.txt"
+    ]
+}

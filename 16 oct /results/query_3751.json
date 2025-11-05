@@ -1,0 +1,10 @@
+{
+    "query": "What is one free sample being offered at the Brewpub this week?",
+    "response": [
+        "doc_2217.txt",
+        "doc_19413.txt",
+        "doc_8563.txt",
+        "doc_21563.txt",
+        "doc_4895.txt"
+    ]
+}

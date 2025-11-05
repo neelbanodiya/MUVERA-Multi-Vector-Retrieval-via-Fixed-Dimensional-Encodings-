@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was a rare caviar once reserved for Russian czars, Iranian shahs, and Austrian emperors?",
+    "response": [
+        "doc_10685.txt",
+        "doc_10684.txt",
+        "doc_10686.txt",
+        "doc_10687.txt",
+        "doc_627.txt"
+    ]
+}

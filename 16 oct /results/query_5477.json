@@ -1,0 +1,10 @@
+{
+    "query": "What are some of the neighborhoods located north and south of Downtown Albany, New York?",
+    "response": [
+        "doc_3206.txt",
+        "doc_3204.txt",
+        "doc_3205.txt",
+        "doc_13057.txt",
+        "doc_3207.txt"
+    ]
+}

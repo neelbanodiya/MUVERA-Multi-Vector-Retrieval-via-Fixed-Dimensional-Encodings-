@@ -1,0 +1,10 @@
+{
+    "query": "What city is the Waldorf Astoria hotel located in?",
+    "response": [
+        "doc_563.txt",
+        "doc_576.txt",
+        "doc_575.txt",
+        "doc_565.txt",
+        "doc_569.txt"
+    ]
+}

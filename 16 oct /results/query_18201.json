@@ -1,0 +1,10 @@
+{
+    "query": "What was Grantland Rice's nickname for the football player in the movie excerpt?",
+    "response": [
+        "doc_22120.txt",
+        "doc_20610.txt",
+        "doc_23405.txt",
+        "doc_5885.txt",
+        "doc_1580.txt"
+    ]
+}

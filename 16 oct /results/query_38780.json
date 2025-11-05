@@ -1,0 +1,10 @@
+{
+    "query": "At which film festival did Jordan Vogt-Roberts\u2019 feature directorial debut, \u201cThe Kings of Summer,\u201d screen?",
+    "response": [
+        "doc_22834.txt",
+        "doc_22110.txt",
+        "doc_22468.txt",
+        "doc_18749.txt",
+        "doc_18754.txt"
+    ]
+}

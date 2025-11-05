@@ -1,0 +1,10 @@
+{
+    "query": "Is economic growth in the EU weak compared to Asia and the USA?",
+    "response": [
+        "doc_19526.txt",
+        "doc_14836.txt",
+        "doc_19525.txt",
+        "doc_13918.txt",
+        "doc_19898.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which island is considered the heart and origin of Paris?",
+    "response": [
+        "doc_14616.txt",
+        "doc_14620.txt",
+        "doc_8343.txt",
+        "doc_14728.txt",
+        "doc_21922.txt"
+    ]
+}

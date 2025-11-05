@@ -1,0 +1,10 @@
+{
+    "query": "For which club did Erling Meirik play between 1970 and 1976?",
+    "response": [
+        "doc_1884.txt",
+        "doc_6528.txt",
+        "doc_1883.txt",
+        "doc_9360.txt",
+        "doc_1999.txt"
+    ]
+}

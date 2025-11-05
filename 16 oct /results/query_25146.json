@@ -1,0 +1,10 @@
+{
+    "query": "What is the Roman numeral representation for the year 1997, as mentioned in the passage?",
+    "response": [
+        "doc_14582.txt",
+        "doc_14596.txt",
+        "doc_14591.txt",
+        "doc_14583.txt",
+        "doc_14593.txt"
+    ]
+}

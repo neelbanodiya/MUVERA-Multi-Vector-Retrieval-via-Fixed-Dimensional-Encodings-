@@ -1,0 +1,10 @@
+{
+    "query": "What weight hammers did John Henry use during his contest?",
+    "response": [
+        "doc_1943.txt",
+        "doc_1953.txt",
+        "doc_1941.txt",
+        "doc_1945.txt",
+        "doc_1951.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who ordered Snow White to be... ?",
+    "response": [
+        "doc_18364.txt",
+        "doc_21253.txt",
+        "doc_7919.txt",
+        "doc_24067.txt",
+        "doc_5350.txt"
+    ]
+}

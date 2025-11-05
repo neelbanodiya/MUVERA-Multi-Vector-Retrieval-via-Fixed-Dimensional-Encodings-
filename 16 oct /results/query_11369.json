@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the first book in the series that \u201cGame of Thrones\u201d is based on?",
+    "response": [
+        "doc_20485.txt",
+        "doc_22260.txt",
+        "doc_17979.txt",
+        "doc_9126.txt",
+        "doc_8258.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what did Galileo conclude about Copernicus\u2019s theory in 1616?",
+    "response": [
+        "doc_16513.txt",
+        "doc_16506.txt",
+        "doc_16518.txt",
+        "doc_16517.txt",
+        "doc_16511.txt"
+    ]
+}

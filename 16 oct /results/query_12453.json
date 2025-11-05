@@ -1,0 +1,10 @@
+{
+    "query": "Who was boxing champion Sugar Ray Leonard leading in a \u201cHousing Now!\u201d event?",
+    "response": [
+        "doc_10573.txt",
+        "doc_7221.txt",
+        "doc_22046.txt",
+        "doc_22045.txt",
+        "doc_12842.txt"
+    ]
+}

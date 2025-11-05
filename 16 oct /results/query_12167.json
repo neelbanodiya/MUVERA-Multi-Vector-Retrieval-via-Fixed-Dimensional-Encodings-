@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what corruption does Hamlet\u2019s father tell him about?",
+    "response": [
+        "doc_7117.txt",
+        "doc_7106.txt",
+        "doc_7112.txt",
+        "doc_7109.txt",
+        "doc_7102.txt"
+    ]
+}

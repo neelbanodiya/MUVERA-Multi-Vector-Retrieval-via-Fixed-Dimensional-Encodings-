@@ -1,0 +1,10 @@
+{
+    "query": "What was the profession of the woman hired by the businessman in *Pretty Woman*?",
+    "response": [
+        "doc_10829.txt",
+        "doc_1076.txt",
+        "doc_12949.txt",
+        "doc_9117.txt",
+        "doc_9863.txt"
+    ]
+}

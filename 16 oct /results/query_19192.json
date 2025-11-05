@@ -1,0 +1,10 @@
+{
+    "query": "Which band did the person cite as being influenced by Led Zeppelin and Pink Floyd?",
+    "response": [
+        "doc_16349.txt",
+        "doc_1986.txt",
+        "doc_18912.txt",
+        "doc_10075.txt",
+        "doc_11133.txt"
+    ]
+}

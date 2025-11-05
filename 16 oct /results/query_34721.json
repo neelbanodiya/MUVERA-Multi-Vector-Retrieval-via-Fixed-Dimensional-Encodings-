@@ -1,0 +1,10 @@
+{
+    "query": "What type of report was presented by European Commission representatives?",
+    "response": [
+        "doc_20755.txt",
+        "doc_20765.txt",
+        "doc_20849.txt",
+        "doc_20825.txt",
+        "doc_21123.txt"
+    ]
+}

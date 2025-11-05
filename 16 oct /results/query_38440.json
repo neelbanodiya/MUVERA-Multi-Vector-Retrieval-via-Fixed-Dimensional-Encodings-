@@ -1,0 +1,10 @@
+{
+    "query": "What musical scene did Joan Jett originate from?",
+    "response": [
+        "doc_22547.txt",
+        "doc_20489.txt",
+        "doc_20486.txt",
+        "doc_8171.txt",
+        "doc_20487.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Into which bay do the freshwater coming down from Sacramento River flow?",
+    "response": [
+        "doc_3145.txt",
+        "doc_3146.txt",
+        "doc_3148.txt",
+        "doc_3144.txt",
+        "doc_3157.txt"
+    ]
+}

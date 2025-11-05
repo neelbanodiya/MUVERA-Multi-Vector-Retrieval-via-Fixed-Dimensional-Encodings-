@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate percentage of Antarctica covered by the Antarctic ice sheet?",
+    "response": [
+        "doc_10325.txt",
+        "doc_10316.txt",
+        "doc_10329.txt",
+        "doc_10323.txt",
+        "doc_10326.txt"
+    ]
+}

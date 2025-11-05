@@ -1,0 +1,10 @@
+{
+    "query": "Which four Heads of State and of Government proposed the \u2018European Youth Pact\u2019?",
+    "response": [
+        "doc_13316.txt",
+        "doc_5379.txt",
+        "doc_2052.txt",
+        "doc_22982.txt",
+        "doc_18365.txt"
+    ]
+}

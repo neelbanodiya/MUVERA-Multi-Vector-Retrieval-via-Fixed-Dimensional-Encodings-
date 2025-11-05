@@ -1,0 +1,10 @@
+{
+    "query": "What year was the song \u201cCrimson and Clover\u201d originally released?",
+    "response": [
+        "doc_8696.txt",
+        "doc_22547.txt",
+        "doc_16312.txt",
+        "doc_8468.txt",
+        "doc_2675.txt"
+    ]
+}

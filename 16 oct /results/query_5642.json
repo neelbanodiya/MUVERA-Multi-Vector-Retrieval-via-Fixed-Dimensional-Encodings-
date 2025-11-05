@@ -1,0 +1,10 @@
+{
+    "query": "What is NATO currently doing in support of the African Union?",
+    "response": [
+        "doc_14403.txt",
+        "doc_21403.txt",
+        "doc_3282.txt",
+        "doc_1825.txt",
+        "doc_8115.txt"
+    ]
+}

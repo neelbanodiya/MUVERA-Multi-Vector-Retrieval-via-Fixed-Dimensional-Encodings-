@@ -1,0 +1,10 @@
+{
+    "query": "Where was Edmund Randolph educated?",
+    "response": [
+        "doc_17282.txt",
+        "doc_2651.txt",
+        "doc_2652.txt",
+        "doc_16326.txt",
+        "doc_7993.txt"
+    ]
+}

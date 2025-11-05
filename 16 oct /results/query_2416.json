@@ -1,0 +1,10 @@
+{
+    "query": "What types of information does Amnesty International\u2019s website offer, such as news indexes, publications, and fact sheets?",
+    "response": [
+        "doc_1428.txt",
+        "doc_1431.txt",
+        "doc_1150.txt",
+        "doc_18075.txt",
+        "doc_1153.txt"
+    ]
+}

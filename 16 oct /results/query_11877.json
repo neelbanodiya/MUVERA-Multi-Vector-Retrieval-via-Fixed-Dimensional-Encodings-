@@ -1,0 +1,10 @@
+{
+    "query": "What message is inscribed on the wall in front of the National World War II Memorial?",
+    "response": [
+        "doc_13032.txt",
+        "doc_6908.txt",
+        "doc_16169.txt",
+        "doc_207.txt",
+        "doc_11633.txt"
+    ]
+}

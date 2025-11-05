@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was Jane Austen's birthplace and where did she live until the age of 23?",
+    "response": [
+        "doc_2321.txt",
+        "doc_2318.txt",
+        "doc_2319.txt",
+        "doc_2320.txt",
+        "doc_2331.txt"
+    ]
+}

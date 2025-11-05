@@ -1,0 +1,10 @@
+{
+    "query": "Who presided over the Jury of the next Cannes International Film Festival in 2014?",
+    "response": [
+        "doc_3216.txt",
+        "doc_3227.txt",
+        "doc_3225.txt",
+        "doc_3221.txt",
+        "doc_3222.txt"
+    ]
+}

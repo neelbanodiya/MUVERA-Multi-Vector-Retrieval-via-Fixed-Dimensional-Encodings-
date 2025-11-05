@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how long ago was an Ethiopian hyena scavenged?",
+    "response": [
+        "doc_18497.txt",
+        "doc_18496.txt",
+        "doc_18488.txt",
+        "doc_20212.txt",
+        "doc_20058.txt"
+    ]
+}

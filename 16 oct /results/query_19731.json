@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what type of disease is frequently associated with Bordetella bronchiceptica in dogs?",
+    "response": [
+        "doc_11394.txt",
+        "doc_21947.txt",
+        "doc_12121.txt",
+        "doc_21786.txt",
+        "doc_21779.txt"
+    ]
+}

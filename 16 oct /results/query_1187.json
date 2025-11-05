@@ -1,0 +1,10 @@
+{
+    "query": "In what city did the Bishop family move in 1909?",
+    "response": [
+        "doc_668.txt",
+        "doc_1742.txt",
+        "doc_20937.txt",
+        "doc_20257.txt",
+        "doc_1744.txt"
+    ]
+}

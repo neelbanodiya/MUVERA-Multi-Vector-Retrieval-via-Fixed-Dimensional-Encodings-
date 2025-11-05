@@ -1,0 +1,10 @@
+{
+    "query": "On what type of property was Josephine Bonaparte born?",
+    "response": [
+        "doc_8366.txt",
+        "doc_8370.txt",
+        "doc_8378.txt",
+        "doc_8376.txt",
+        "doc_8371.txt"
+    ]
+}

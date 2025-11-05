@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what groups followed the prehistoric trail across the Eurasian steppes?",
+    "response": [
+        "doc_7205.txt",
+        "doc_7203.txt",
+        "doc_7210.txt",
+        "doc_7211.txt",
+        "doc_7213.txt"
+    ]
+}

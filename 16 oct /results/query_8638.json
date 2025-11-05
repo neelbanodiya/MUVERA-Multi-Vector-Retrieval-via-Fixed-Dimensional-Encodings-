@@ -1,0 +1,10 @@
+{
+    "query": "Besides *Terminator 2: Judgment Day*, what other film from 1989 is mentioned in the passages?",
+    "response": [
+        "doc_4995.txt",
+        "doc_4987.txt",
+        "doc_4983.txt",
+        "doc_4992.txt",
+        "doc_4991.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What biblical reference is mentioned in relation to the destruction of Sodom and Gomorrah (specifically, what animals are mentioned)?",
+    "response": [
+        "doc_21755.txt",
+        "doc_21756.txt",
+        "doc_21760.txt",
+        "doc_21762.txt",
+        "doc_21769.txt"
+    ]
+}

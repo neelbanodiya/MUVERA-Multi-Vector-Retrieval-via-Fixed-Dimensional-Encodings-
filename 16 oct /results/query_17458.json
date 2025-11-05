@@ -1,0 +1,10 @@
+{
+    "query": "How did James Joyce describe the beginning of a particular line in his book, \u201cOn the little green grave\u201d?",
+    "response": [
+        "doc_19430.txt",
+        "doc_20540.txt",
+        "doc_20132.txt",
+        "doc_21241.txt",
+        "doc_17763.txt"
+    ]
+}

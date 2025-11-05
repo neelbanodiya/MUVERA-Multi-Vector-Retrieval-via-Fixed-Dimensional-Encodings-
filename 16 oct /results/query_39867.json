@@ -1,0 +1,10 @@
+{
+    "query": "What treaty was signed in Moscow on July 31, 1991, between George Bush and Mikhail Gorbachev?",
+    "response": [
+        "doc_23347.txt",
+        "doc_23346.txt",
+        "doc_23345.txt",
+        "doc_16787.txt",
+        "doc_19244.txt"
+    ]
+}

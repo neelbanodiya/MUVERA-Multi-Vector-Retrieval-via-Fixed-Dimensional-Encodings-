@@ -1,0 +1,10 @@
+{
+    "query": "How many days did American troops hold out on Corregidor Island?",
+    "response": [
+        "doc_11639.txt",
+        "doc_11630.txt",
+        "doc_11637.txt",
+        "doc_11631.txt",
+        "doc_11629.txt"
+    ]
+}

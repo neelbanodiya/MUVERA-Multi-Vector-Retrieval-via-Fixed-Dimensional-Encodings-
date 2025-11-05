@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, when was *Le Morte d'Arthur* completed?",
+    "response": [
+        "doc_22246.txt",
+        "doc_22261.txt",
+        "doc_22245.txt",
+        "doc_22248.txt",
+        "doc_22251.txt"
+    ]
+}

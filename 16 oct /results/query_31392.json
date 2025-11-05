@@ -1,0 +1,10 @@
+{
+    "query": "What is the description of Manhattan Island according to the text?",
+    "response": [
+        "doc_12978.txt",
+        "doc_12057.txt",
+        "doc_14168.txt",
+        "doc_15479.txt",
+        "doc_13057.txt"
+    ]
+}

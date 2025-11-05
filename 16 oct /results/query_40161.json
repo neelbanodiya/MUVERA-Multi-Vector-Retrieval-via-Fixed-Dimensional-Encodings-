@@ -1,0 +1,10 @@
+{
+    "query": "What Academy Award did the film *The Last Emperor* win in 1987?",
+    "response": [
+        "doc_23511.txt",
+        "doc_4909.txt",
+        "doc_4918.txt",
+        "doc_16172.txt",
+        "doc_15278.txt"
+    ]
+}

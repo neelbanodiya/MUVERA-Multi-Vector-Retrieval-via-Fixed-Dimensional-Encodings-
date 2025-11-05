@@ -1,0 +1,10 @@
+{
+    "query": "What voyage led by Captain Robert FitzRoy included Charles Darwin?",
+    "response": [
+        "doc_12034.txt",
+        "doc_12040.txt",
+        "doc_12039.txt",
+        "doc_12035.txt",
+        "doc_12038.txt"
+    ]
+}

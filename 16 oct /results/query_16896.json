@@ -1,0 +1,10 @@
+{
+    "query": "Who is Auric Goldfinger and what is he suspected of doing?",
+    "response": [
+        "doc_13334.txt",
+        "doc_9790.txt",
+        "doc_11218.txt",
+        "doc_23433.txt",
+        "doc_2172.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When between what years did Martin Luther write the words and compose the melody for \u201cA Mighty Fortress Is Our God\u201d?",
+    "response": [
+        "doc_18411.txt",
+        "doc_18401.txt",
+        "doc_18403.txt",
+        "doc_18418.txt",
+        "doc_18409.txt"
+    ]
+}

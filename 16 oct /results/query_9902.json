@@ -1,0 +1,10 @@
+{
+    "query": "How many Grand Slam tournament men\u2019s doubles titles did Roy Emerson win?",
+    "response": [
+        "doc_6289.txt",
+        "doc_6288.txt",
+        "doc_5753.txt",
+        "doc_5755.txt",
+        "doc_1232.txt"
+    ]
+}

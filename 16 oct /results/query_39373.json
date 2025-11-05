@@ -1,0 +1,10 @@
+{
+    "query": "Which player was described as the highest-paid player in Major League Baseball at the time of Hank Aaron's 1972 contract?",
+    "response": [
+        "doc_23045.txt",
+        "doc_23050.txt",
+        "doc_23046.txt",
+        "doc_23048.txt",
+        "doc_23051.txt"
+    ]
+}

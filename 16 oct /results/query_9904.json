@@ -1,0 +1,10 @@
+{
+    "query": "Besides Roy Emerson, which other male tennis player has won six Australian Championships consecutively?",
+    "response": [
+        "doc_5753.txt",
+        "doc_5755.txt",
+        "doc_5754.txt",
+        "doc_6288.txt",
+        "doc_6289.txt"
+    ]
+}

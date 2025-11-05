@@ -1,0 +1,10 @@
+{
+    "query": "What year was the album \u201cSilverfish Trivia\u201d released?",
+    "response": [
+        "doc_7718.txt",
+        "doc_16312.txt",
+        "doc_2675.txt",
+        "doc_8468.txt",
+        "doc_8006.txt"
+    ]
+}

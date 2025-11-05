@@ -1,0 +1,10 @@
+{
+    "query": "What is the estimated amount of popcorn produced in Nebraska annually?",
+    "response": [
+        "doc_23979.txt",
+        "doc_23977.txt",
+        "doc_23980.txt",
+        "doc_23985.txt",
+        "doc_23987.txt"
+    ]
+}

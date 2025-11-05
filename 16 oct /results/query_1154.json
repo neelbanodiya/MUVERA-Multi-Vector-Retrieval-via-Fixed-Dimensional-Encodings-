@@ -1,0 +1,10 @@
+{
+    "query": "Which opera house is located in Graz, Austria?",
+    "response": [
+        "doc_651.txt",
+        "doc_8639.txt",
+        "doc_8648.txt",
+        "doc_8643.txt",
+        "doc_8644.txt"
+    ]
+}

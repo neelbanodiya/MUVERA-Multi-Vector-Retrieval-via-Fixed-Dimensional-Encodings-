@@ -1,0 +1,10 @@
+{
+    "query": "What publication released a book titled \u201cFast-food and Grocery Workplace\u201d in 2001?",
+    "response": [
+        "doc_933.txt",
+        "doc_18583.txt",
+        "doc_8235.txt",
+        "doc_931.txt",
+        "doc_695.txt"
+    ]
+}

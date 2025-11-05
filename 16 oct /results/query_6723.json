@@ -1,0 +1,10 @@
+{
+    "query": "Where did the battle at which Orion Howe received the Medal of Honor take place?",
+    "response": [
+        "doc_850.txt",
+        "doc_3854.txt",
+        "doc_7921.txt",
+        "doc_4304.txt",
+        "doc_4313.txt"
+    ]
+}

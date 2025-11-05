@@ -1,0 +1,10 @@
+{
+    "query": "What actors are portraying Roberto Duran and Ray Arcel in the film *Hands of Stone*?",
+    "response": [
+        "doc_10576.txt",
+        "doc_10575.txt",
+        "doc_5868.txt",
+        "doc_14684.txt",
+        "doc_6368.txt"
+    ]
+}

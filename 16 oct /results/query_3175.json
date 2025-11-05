@@ -1,0 +1,10 @@
+{
+    "query": "Who is the Representative Bill Paxon?",
+    "response": [
+        "doc_1926.txt",
+        "doc_1920.txt",
+        "doc_10895.txt",
+        "doc_5965.txt",
+        "doc_1923.txt"
+    ]
+}

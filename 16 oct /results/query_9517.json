@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary focus of the largest operation against money laundering in Europe last week?",
+    "response": [
+        "doc_5489.txt",
+        "doc_10828.txt",
+        "doc_19590.txt",
+        "doc_21340.txt",
+        "doc_9671.txt"
+    ]
+}

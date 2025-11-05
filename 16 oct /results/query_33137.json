@@ -1,0 +1,10 @@
+{
+    "query": "What actor portrayed Thomas Wolfe in the movie?",
+    "response": [
+        "doc_19282.txt",
+        "doc_19283.txt",
+        "doc_16653.txt",
+        "doc_5158.txt",
+        "doc_21902.txt"
+    ]
+}

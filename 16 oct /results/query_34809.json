@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate age at which Jesus began his public ministry?",
+    "response": [
+        "doc_20262.txt",
+        "doc_23598.txt",
+        "doc_7533.txt",
+        "doc_23597.txt",
+        "doc_11653.txt"
+    ]
+}

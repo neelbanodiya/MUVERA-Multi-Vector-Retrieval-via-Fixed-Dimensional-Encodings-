@@ -1,0 +1,10 @@
+{
+    "query": "What is the Palm Springs Aerial Tram known for regarding its vehicles?",
+    "response": [
+        "doc_13019.txt",
+        "doc_13028.txt",
+        "doc_13023.txt",
+        "doc_13016.txt",
+        "doc_13014.txt"
+    ]
+}

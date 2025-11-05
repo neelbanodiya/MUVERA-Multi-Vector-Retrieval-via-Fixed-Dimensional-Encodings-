@@ -1,0 +1,10 @@
+{
+    "query": "What kind of celebration is planned for Paula\u2019s life?",
+    "response": [
+        "doc_7300.txt",
+        "doc_12398.txt",
+        "doc_14492.txt",
+        "doc_23873.txt",
+        "doc_3262.txt"
+    ]
+}

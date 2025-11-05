@@ -1,0 +1,10 @@
+{
+    "query": "How does \u201cIn Utero\u201d differ from Nirvana\u2019s previous album, \u201cNevermind\u201d?",
+    "response": [
+        "doc_19008.txt",
+        "doc_19009.txt",
+        "doc_19005.txt",
+        "doc_19007.txt",
+        "doc_19006.txt"
+    ]
+}

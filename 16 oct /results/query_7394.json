@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was Dr. Darrow trying to introduce into strawberries?",
+    "response": [
+        "doc_11308.txt",
+        "doc_20134.txt",
+        "doc_11916.txt",
+        "doc_5323.txt",
+        "doc_20133.txt"
+    ]
+}

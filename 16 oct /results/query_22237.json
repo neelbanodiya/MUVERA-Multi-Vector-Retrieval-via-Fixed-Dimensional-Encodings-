@@ -1,0 +1,10 @@
+{
+    "query": "Who won a lawsuit that allowed Meredith to attempt entry onto the University of Mississippi campus?",
+    "response": [
+        "doc_12820.txt",
+        "doc_19359.txt",
+        "doc_12819.txt",
+        "doc_12818.txt",
+        "doc_10314.txt"
+    ]
+}

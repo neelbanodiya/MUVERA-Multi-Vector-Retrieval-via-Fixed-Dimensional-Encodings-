@@ -1,0 +1,10 @@
+{
+    "query": "What role did Boston play in the American Revolution?",
+    "response": [
+        "doc_12368.txt",
+        "doc_19844.txt",
+        "doc_2420.txt",
+        "doc_4301.txt",
+        "doc_4954.txt"
+    ]
+}

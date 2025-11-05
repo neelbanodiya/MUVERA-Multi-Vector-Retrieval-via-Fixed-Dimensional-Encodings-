@@ -1,0 +1,10 @@
+{
+    "query": "What is the legal basis for Directive 98/27/EC?",
+    "response": [
+        "doc_2843.txt",
+        "doc_2842.txt",
+        "doc_21018.txt",
+        "doc_2827.txt",
+        "doc_6412.txt"
+    ]
+}

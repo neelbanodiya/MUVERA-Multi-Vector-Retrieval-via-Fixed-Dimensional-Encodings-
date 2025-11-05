@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is Ekman transport and how was it initially observed?",
+    "response": [
+        "doc_23358.txt",
+        "doc_23359.txt",
+        "doc_3190.txt",
+        "doc_189.txt",
+        "doc_22420.txt"
+    ]
+}

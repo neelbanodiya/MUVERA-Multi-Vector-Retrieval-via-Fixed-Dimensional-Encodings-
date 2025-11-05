@@ -1,0 +1,10 @@
+{
+    "query": "Who founded Public Citizen, and what is their primary focus?",
+    "response": [
+        "doc_10039.txt",
+        "doc_10035.txt",
+        "doc_10043.txt",
+        "doc_10040.txt",
+        "doc_10042.txt"
+    ]
+}

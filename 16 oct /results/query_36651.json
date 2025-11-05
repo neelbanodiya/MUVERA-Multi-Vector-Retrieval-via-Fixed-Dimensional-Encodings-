@@ -1,0 +1,10 @@
+{
+    "query": "Where is Union City High School located, and what organization accredits it?",
+    "response": [
+        "doc_23871.txt",
+        "doc_21400.txt",
+        "doc_4741.txt",
+        "doc_22508.txt",
+        "doc_4738.txt"
+    ]
+}

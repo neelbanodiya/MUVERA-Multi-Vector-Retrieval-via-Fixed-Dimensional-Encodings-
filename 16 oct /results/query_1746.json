@@ -1,0 +1,10 @@
+{
+    "query": "What year was Gyldendal founded?",
+    "response": [
+        "doc_10884.txt",
+        "doc_2602.txt",
+        "doc_997.txt",
+        "doc_19473.txt",
+        "doc_3072.txt"
+    ]
+}

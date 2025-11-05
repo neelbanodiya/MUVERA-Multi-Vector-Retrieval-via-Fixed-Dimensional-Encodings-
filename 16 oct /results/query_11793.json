@@ -1,0 +1,10 @@
+{
+    "query": "Who was Willie Stargell, and what was his nickname?",
+    "response": [
+        "doc_6866.txt",
+        "doc_6867.txt",
+        "doc_12233.txt",
+        "doc_20142.txt",
+        "doc_15329.txt"
+    ]
+}

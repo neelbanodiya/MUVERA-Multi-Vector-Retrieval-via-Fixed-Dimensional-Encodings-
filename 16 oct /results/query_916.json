@@ -1,0 +1,10 @@
+{
+    "query": "What was George Carver\u2019s profession?",
+    "response": [
+        "doc_517.txt",
+        "doc_520.txt",
+        "doc_12840.txt",
+        "doc_1020.txt",
+        "doc_13334.txt"
+    ]
+}

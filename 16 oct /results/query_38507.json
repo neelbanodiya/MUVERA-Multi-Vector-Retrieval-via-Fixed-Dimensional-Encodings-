@@ -1,0 +1,10 @@
+{
+    "query": "J.M. Coetzee won the Nobel Prize for literature marking a very significant ______.",
+    "response": [
+        "doc_22577.txt",
+        "doc_22568.txt",
+        "doc_22570.txt",
+        "doc_22571.txt",
+        "doc_22575.txt"
+    ]
+}

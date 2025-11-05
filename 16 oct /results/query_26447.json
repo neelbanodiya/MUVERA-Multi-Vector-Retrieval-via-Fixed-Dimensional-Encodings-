@@ -1,0 +1,10 @@
+{
+    "query": "What common Greek dialect was based mainly on the Attic dialect?",
+    "response": [
+        "doc_15379.txt",
+        "doc_15382.txt",
+        "doc_15376.txt",
+        "doc_15381.txt",
+        "doc_15380.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What color were the blue lines at Munn Ice Arena before they changed?",
+    "response": [
+        "doc_16877.txt",
+        "doc_16878.txt",
+        "doc_16875.txt",
+        "doc_16876.txt",
+        "doc_16879.txt"
+    ]
+}

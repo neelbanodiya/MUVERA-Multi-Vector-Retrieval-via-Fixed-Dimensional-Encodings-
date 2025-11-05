@@ -1,0 +1,10 @@
+{
+    "query": "What fund was established in Friesland to support farmers affected by the foot-and-mouth disease outbreak?",
+    "response": [
+        "doc_23218.txt",
+        "doc_17241.txt",
+        "doc_4730.txt",
+        "doc_8948.txt",
+        "doc_20122.txt"
+    ]
+}

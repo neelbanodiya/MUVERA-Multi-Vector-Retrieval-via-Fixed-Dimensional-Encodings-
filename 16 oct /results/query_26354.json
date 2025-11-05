@@ -1,0 +1,10 @@
+{
+    "query": "Which committee produced the report on the Agreement between the EC and Mauritius on the short-stay visa waiver?",
+    "response": [
+        "doc_15327.txt",
+        "doc_15328.txt",
+        "doc_11106.txt",
+        "doc_4527.txt",
+        "doc_3247.txt"
+    ]
+}

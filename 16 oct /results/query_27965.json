@@ -1,0 +1,10 @@
+{
+    "query": "What was the Pope looking forward to meeting?",
+    "response": [
+        "doc_19378.txt",
+        "doc_16237.txt",
+        "doc_1011.txt",
+        "doc_16232.txt",
+        "doc_16239.txt"
+    ]
+}

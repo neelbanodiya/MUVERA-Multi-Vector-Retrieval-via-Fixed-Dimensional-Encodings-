@@ -1,0 +1,10 @@
+{
+    "query": "What event will President P\u00f6ttering open on Thursday?",
+    "response": [
+        "doc_2050.txt",
+        "doc_2051.txt",
+        "doc_5267.txt",
+        "doc_12187.txt",
+        "doc_5268.txt"
+    ]
+}

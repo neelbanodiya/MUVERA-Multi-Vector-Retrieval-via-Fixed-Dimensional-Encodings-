@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, who was named Coach of the Year at the 2015 NFL Honors?",
+    "response": [
+        "doc_13005.txt",
+        "doc_24242.txt",
+        "doc_22637.txt",
+        "doc_22645.txt",
+        "doc_2702.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who became king after King Hamlet\u2019s death?",
+    "response": [
+        "doc_7329.txt",
+        "doc_7336.txt",
+        "doc_7323.txt",
+        "doc_7330.txt",
+        "doc_7331.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which countries has the Commission contacted regarding the company in question?",
+    "response": [
+        "doc_22442.txt",
+        "doc_23887.txt",
+        "doc_10520.txt",
+        "doc_18380.txt",
+        "doc_17249.txt"
+    ]
+}

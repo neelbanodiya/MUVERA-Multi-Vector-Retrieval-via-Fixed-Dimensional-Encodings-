@@ -1,0 +1,10 @@
+{
+    "query": "When will French President Nicolas Sarkozy launch the French Presidency of the EU?",
+    "response": [
+        "doc_11108.txt",
+        "doc_2292.txt",
+        "doc_17403.txt",
+        "doc_19378.txt",
+        "doc_18264.txt"
+    ]
+}

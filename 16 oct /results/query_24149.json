@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what implications does Book III of Trithemius\u2019s Steganographia have?",
+    "response": [
+        "doc_16517.txt",
+        "doc_4326.txt",
+        "doc_9127.txt",
+        "doc_11027.txt",
+        "doc_21755.txt"
+    ]
+}

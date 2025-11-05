@@ -1,0 +1,10 @@
+{
+    "query": "What specific costs are included within the appropriation for energy consumption (Item 2 0 2 4)?",
+    "response": [
+        "doc_22214.txt",
+        "doc_22217.txt",
+        "doc_22213.txt",
+        "doc_22216.txt",
+        "doc_10796.txt"
+    ]
+}

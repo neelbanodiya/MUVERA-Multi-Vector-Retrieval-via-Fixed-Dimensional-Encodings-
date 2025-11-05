@@ -1,0 +1,10 @@
+{
+    "query": "What Nickelodeon characters are associated with providing \u201chours of fun\u201d?",
+    "response": [
+        "doc_4463.txt",
+        "doc_9274.txt",
+        "doc_16033.txt",
+        "doc_14187.txt",
+        "doc_497.txt"
+    ]
+}

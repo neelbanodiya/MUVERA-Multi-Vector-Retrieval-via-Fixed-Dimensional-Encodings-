@@ -1,0 +1,10 @@
+{
+    "query": "How does the Indonesian word \u201chalus\u201d relate to the president\u2019s behavior, as described in The New York Times article?",
+    "response": [
+        "doc_15729.txt",
+        "doc_4397.txt",
+        "doc_3689.txt",
+        "doc_21058.txt",
+        "doc_4044.txt"
+    ]
+}

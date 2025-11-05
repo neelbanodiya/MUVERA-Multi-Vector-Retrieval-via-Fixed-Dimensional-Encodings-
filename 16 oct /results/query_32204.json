@@ -1,0 +1,10 @@
+{
+    "query": "Who created the music for Sergei Diaghilev\u2019s ballet company?",
+    "response": [
+        "doc_18768.txt",
+        "doc_18765.txt",
+        "doc_15659.txt",
+        "doc_15653.txt",
+        "doc_23546.txt"
+    ]
+}

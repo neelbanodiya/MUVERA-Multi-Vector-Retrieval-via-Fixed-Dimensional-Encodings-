@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what did Michael Gray call the change in a folk song\u2019s meaning?",
+    "response": [
+        "doc_13852.txt",
+        "doc_7607.txt",
+        "doc_19137.txt",
+        "doc_7857.txt",
+        "doc_1495.txt"
+    ]
+}

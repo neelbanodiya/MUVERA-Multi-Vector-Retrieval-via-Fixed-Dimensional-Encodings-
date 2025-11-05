@@ -1,0 +1,10 @@
+{
+    "query": "According to a 1954 address, what was the prevailing conviction regarding the Soviet government\u2019s objectives?",
+    "response": [
+        "doc_18359.txt",
+        "doc_18361.txt",
+        "doc_18364.txt",
+        "doc_15938.txt",
+        "doc_11839.txt"
+    ]
+}

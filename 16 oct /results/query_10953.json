@@ -1,0 +1,10 @@
+{
+    "query": "What was the \u201cleonine monarch\u201d doing in one of the referenced texts, as described by Erestor?",
+    "response": [
+        "doc_1299.txt",
+        "doc_13954.txt",
+        "doc_13960.txt",
+        "doc_14236.txt",
+        "doc_1844.txt"
+    ]
+}

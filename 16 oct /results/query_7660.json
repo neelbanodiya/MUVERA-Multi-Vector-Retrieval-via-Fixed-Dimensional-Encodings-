@@ -1,0 +1,10 @@
+{
+    "query": "According to Wikipedia, what is the historical reason Hollywood became known as Tinseltown?",
+    "response": [
+        "doc_4454.txt",
+        "doc_4455.txt",
+        "doc_4456.txt",
+        "doc_1297.txt",
+        "doc_18212.txt"
+    ]
+}

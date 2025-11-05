@@ -1,0 +1,10 @@
+{
+    "query": "What musical styles is Frank Macchia known for composing?",
+    "response": [
+        "doc_19136.txt",
+        "doc_3129.txt",
+        "doc_4766.txt",
+        "doc_22803.txt",
+        "doc_14187.txt"
+    ]
+}

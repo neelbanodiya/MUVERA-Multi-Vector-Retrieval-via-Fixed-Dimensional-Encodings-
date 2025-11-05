@@ -1,0 +1,10 @@
+{
+    "query": "What position did Vincent Massey hold, and when was he appointed?",
+    "response": [
+        "doc_21249.txt",
+        "doc_21251.txt",
+        "doc_16807.txt",
+        "doc_20141.txt",
+        "doc_1019.txt"
+    ]
+}

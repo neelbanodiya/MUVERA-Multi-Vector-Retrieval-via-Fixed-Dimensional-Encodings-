@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate ranking of Japan\u2019s economy in the world?",
+    "response": [
+        "doc_5141.txt",
+        "doc_23585.txt",
+        "doc_9621.txt",
+        "doc_5154.txt",
+        "doc_23591.txt"
+    ]
+}

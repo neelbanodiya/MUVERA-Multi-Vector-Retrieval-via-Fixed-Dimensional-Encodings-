@@ -1,0 +1,10 @@
+{
+    "query": "Which NBC police drama, building on \u201cHill Street Blues,\u201d ran for 12 years and featured a character nicknamed \u201cBuck Naked\u201d?",
+    "response": [
+        "doc_5595.txt",
+        "doc_5598.txt",
+        "doc_5602.txt",
+        "doc_7639.txt",
+        "doc_4129.txt"
+    ]
+}

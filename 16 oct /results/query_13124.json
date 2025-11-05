@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what biblical passage inspired the beginning of *The Seventh Seal*?",
+    "response": [
+        "doc_7678.txt",
+        "doc_7677.txt",
+        "doc_7681.txt",
+        "doc_7690.txt",
+        "doc_7692.txt"
+    ]
+}

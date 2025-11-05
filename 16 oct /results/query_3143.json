@@ -1,0 +1,10 @@
+{
+    "query": "In what year did W.C. Handy write the song \u201cMr. Crump\u2019s Blues\u201d?",
+    "response": [
+        "doc_1912.txt",
+        "doc_1910.txt",
+        "doc_1906.txt",
+        "doc_1908.txt",
+        "doc_1911.txt"
+    ]
+}

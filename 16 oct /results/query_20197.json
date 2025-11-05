@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Augustus die?",
+    "response": [
+        "doc_5192.txt",
+        "doc_21067.txt",
+        "doc_5191.txt",
+        "doc_5198.txt",
+        "doc_5200.txt"
+    ]
+}

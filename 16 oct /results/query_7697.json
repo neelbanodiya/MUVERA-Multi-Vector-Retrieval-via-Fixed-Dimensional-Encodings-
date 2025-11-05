@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Kramer in the Seinfeld episode where he demanded something?",
+    "response": [
+        "doc_479.txt",
+        "doc_478.txt",
+        "doc_480.txt",
+        "doc_4467.txt",
+        "doc_22894.txt"
+    ]
+}

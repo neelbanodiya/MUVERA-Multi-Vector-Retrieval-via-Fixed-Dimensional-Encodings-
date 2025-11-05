@@ -1,0 +1,10 @@
+{
+    "query": "For which film did Rod Steiger receive an Academy Award for Best Actor, and what character did he portray in that film?",
+    "response": [
+        "doc_23288.txt",
+        "doc_23277.txt",
+        "doc_23281.txt",
+        "doc_23290.txt",
+        "doc_23284.txt"
+    ]
+}

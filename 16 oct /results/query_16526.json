@@ -1,0 +1,10 @@
+{
+    "query": "What city is famously featured in John Berendt\u2019s book, *Midnight in the Garden of Good and Evil*?",
+    "response": [
+        "doc_9600.txt",
+        "doc_9601.txt",
+        "doc_9607.txt",
+        "doc_9599.txt",
+        "doc_9604.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What are the names of the three Muses featured in Balanchine\u2019s ballet, Apollo?",
+    "response": [
+        "doc_15650.txt",
+        "doc_15649.txt",
+        "doc_15656.txt",
+        "doc_15651.txt",
+        "doc_15652.txt"
+    ]
+}

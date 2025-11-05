@@ -1,0 +1,10 @@
+{
+    "query": "If exceptional and critical circumstances arise, what procedures can the Commission utilize to take immediate measures, as detailed in the text?",
+    "response": [
+        "doc_20820.txt",
+        "doc_20792.txt",
+        "doc_10500.txt",
+        "doc_18443.txt",
+        "doc_10306.txt"
+    ]
+}

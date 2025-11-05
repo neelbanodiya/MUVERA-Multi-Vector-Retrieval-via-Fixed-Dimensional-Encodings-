@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is one notable characteristic of the Metallica double album?",
+    "response": [
+        "doc_11124.txt",
+        "doc_18879.txt",
+        "doc_22373.txt",
+        "doc_12713.txt",
+        "doc_16770.txt"
+    ]
+}

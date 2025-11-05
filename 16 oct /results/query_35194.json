@@ -1,0 +1,10 @@
+{
+    "query": "Who was responsible for the referral concerning the Security of gas supply?",
+    "response": [
+        "doc_16709.txt",
+        "doc_5837.txt",
+        "doc_13814.txt",
+        "doc_13343.txt",
+        "doc_23625.txt"
+    ]
+}

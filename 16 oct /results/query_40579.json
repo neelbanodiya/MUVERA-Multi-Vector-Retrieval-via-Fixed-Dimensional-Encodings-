@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, how long has the adventure depicted in \u201cJurassic Park\u201d been in the making?",
+    "response": [
+        "doc_23741.txt",
+        "doc_23742.txt",
+        "doc_23740.txt",
+        "doc_22575.txt",
+        "doc_9893.txt"
+    ]
+}

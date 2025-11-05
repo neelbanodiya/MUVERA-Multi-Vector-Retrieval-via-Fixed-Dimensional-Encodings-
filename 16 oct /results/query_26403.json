@@ -1,0 +1,10 @@
+{
+    "query": "Which language family did the word \u201cAlgonquin\u201d originate from, as indicated in the provided sources?",
+    "response": [
+        "doc_14703.txt",
+        "doc_16169.txt",
+        "doc_15373.txt",
+        "doc_5850.txt",
+        "doc_21241.txt"
+    ]
+}

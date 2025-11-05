@@ -1,0 +1,10 @@
+{
+    "query": "What city was George Black born in?",
+    "response": [
+        "doc_16331.txt",
+        "doc_21108.txt",
+        "doc_520.txt",
+        "doc_3710.txt",
+        "doc_3819.txt"
+    ]
+}

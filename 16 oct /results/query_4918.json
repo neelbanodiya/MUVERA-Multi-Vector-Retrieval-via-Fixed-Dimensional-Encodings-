@@ -1,0 +1,10 @@
+{
+    "query": "Which Carl Barks comic book story featured a treasure hunt led by Uncle Scrooge through an old castle in Scotland?",
+    "response": [
+        "doc_2857.txt",
+        "doc_1848.txt",
+        "doc_589.txt",
+        "doc_590.txt",
+        "doc_18447.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What kind of activities or services are offered at the Elkins Ranch near Mount?",
+    "response": [
+        "doc_7300.txt",
+        "doc_17816.txt",
+        "doc_15439.txt",
+        "doc_16582.txt",
+        "doc_16584.txt"
+    ]
+}

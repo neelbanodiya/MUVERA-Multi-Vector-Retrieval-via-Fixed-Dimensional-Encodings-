@@ -1,0 +1,10 @@
+{
+    "query": "What is Bloomingdale's known for?",
+    "response": [
+        "doc_1785.txt",
+        "doc_17860.txt",
+        "doc_3837.txt",
+        "doc_16313.txt",
+        "doc_15462.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which film features Mel Gibson in his movie debut as a shy character?",
+    "response": [
+        "doc_18944.txt",
+        "doc_17169.txt",
+        "doc_22107.txt",
+        "doc_19565.txt",
+        "doc_11495.txt"
+    ]
+}

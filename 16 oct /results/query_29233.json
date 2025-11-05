@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what movie is \u201cThe People Vs. Larry Flynt\u201d based on?",
+    "response": [
+        "doc_17025.txt",
+        "doc_17031.txt",
+        "doc_17027.txt",
+        "doc_17021.txt",
+        "doc_17026.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which committee was asked for its opinion regarding the draft general budget of the European Union for 2006?",
+    "response": [
+        "doc_17469.txt",
+        "doc_17568.txt",
+        "doc_17626.txt",
+        "doc_17565.txt",
+        "doc_17470.txt"
+    ]
+}

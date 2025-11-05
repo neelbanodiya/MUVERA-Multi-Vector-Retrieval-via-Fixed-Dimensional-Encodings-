@@ -1,0 +1,10 @@
+{
+    "query": "In what year was *The Political History of the Devil* published?",
+    "response": [
+        "doc_17758.txt",
+        "doc_17765.txt",
+        "doc_17756.txt",
+        "doc_17760.txt",
+        "doc_17757.txt"
+    ]
+}

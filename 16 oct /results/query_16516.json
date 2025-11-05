@@ -1,0 +1,10 @@
+{
+    "query": "What score did \u201cMidnight in the Garden of Good and Evil\u201d receive based on critic reviews?",
+    "response": [
+        "doc_9603.txt",
+        "doc_15552.txt",
+        "doc_8797.txt",
+        "doc_22470.txt",
+        "doc_1580.txt"
+    ]
+}

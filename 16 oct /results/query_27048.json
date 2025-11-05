@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject of the original Star Trek TV series that had its ashes flown into space?",
+    "response": [
+        "doc_23949.txt",
+        "doc_23950.txt",
+        "doc_6031.txt",
+        "doc_12320.txt",
+        "doc_2044.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which NHL players were traded as part of the Calgary Flames trade to the St. Louis Blues?",
+    "response": [
+        "doc_15542.txt",
+        "doc_15539.txt",
+        "doc_24140.txt",
+        "doc_20935.txt",
+        "doc_2747.txt"
+    ]
+}

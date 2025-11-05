@@ -1,0 +1,10 @@
+{
+    "query": "Which magazine recognized Paul Simon\u2019s \u201cBack in the U.S.\u201d tour as \u201cTour of the Year\u201d in 2002?",
+    "response": [
+        "doc_5567.txt",
+        "doc_1527.txt",
+        "doc_3513.txt",
+        "doc_16990.txt",
+        "doc_657.txt"
+    ]
+}

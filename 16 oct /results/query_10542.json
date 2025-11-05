@@ -1,0 +1,10 @@
+{
+    "query": "Which country is mentioned in connection with Javier Jara?",
+    "response": [
+        "doc_4317.txt",
+        "doc_9920.txt",
+        "doc_3127.txt",
+        "doc_22969.txt",
+        "doc_12986.txt"
+    ]
+}

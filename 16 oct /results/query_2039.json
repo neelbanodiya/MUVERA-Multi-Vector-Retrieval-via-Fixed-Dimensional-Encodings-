@@ -1,0 +1,10 @@
+{
+    "query": "Who translated the Bible independently in 1590, as mentioned in one of the documents?",
+    "response": [
+        "doc_1225.txt",
+        "doc_1224.txt",
+        "doc_1227.txt",
+        "doc_5045.txt",
+        "doc_18614.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the WSJ article, what inspired the number of high-voiced songstresses in the opera world?",
+    "response": [
+        "doc_322.txt",
+        "doc_8167.txt",
+        "doc_10458.txt",
+        "doc_9824.txt",
+        "doc_8163.txt"
+    ]
+}

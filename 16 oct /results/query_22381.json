@@ -1,0 +1,10 @@
+{
+    "query": "What specific event served as an example of Chinese expertise highlighted internationally?",
+    "response": [
+        "doc_1011.txt",
+        "doc_12898.txt",
+        "doc_3836.txt",
+        "doc_1672.txt",
+        "doc_137.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the New York Giants' last Super Bowl victory before their recent win?",
+    "response": [
+        "doc_6195.txt",
+        "doc_2703.txt",
+        "doc_3575.txt",
+        "doc_3576.txt",
+        "doc_2702.txt"
+    ]
+}

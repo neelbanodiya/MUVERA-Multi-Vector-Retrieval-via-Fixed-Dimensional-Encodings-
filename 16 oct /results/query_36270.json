@@ -1,0 +1,10 @@
+{
+    "query": "What event is scheduled to take place in Times Square on the 50th anniversary?",
+    "response": [
+        "doc_12174.txt",
+        "doc_1882.txt",
+        "doc_13530.txt",
+        "doc_22587.txt",
+        "doc_12164.txt"
+    ]
+}

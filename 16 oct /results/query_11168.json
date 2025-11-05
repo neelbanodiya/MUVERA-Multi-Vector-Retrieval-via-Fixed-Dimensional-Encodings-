@@ -1,0 +1,10 @@
+{
+    "query": "According to Westmoreland, what was the primary focus of the Vietnamese Communists during the war?",
+    "response": [
+        "doc_8114.txt",
+        "doc_1560.txt",
+        "doc_6482.txt",
+        "doc_16206.txt",
+        "doc_13505.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What document was signed between Turkmenistan and the EU on May 26, 2008?",
+    "response": [
+        "doc_7120.txt",
+        "doc_16787.txt",
+        "doc_23673.txt",
+        "doc_8769.txt",
+        "doc_18357.txt"
+    ]
+}

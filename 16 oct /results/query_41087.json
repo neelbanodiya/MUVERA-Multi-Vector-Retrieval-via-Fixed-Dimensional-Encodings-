@@ -1,0 +1,10 @@
+{
+    "query": "What specific information must be reported under the proposed reporting system outlined in Article 11?",
+    "response": [
+        "doc_6171.txt",
+        "doc_6170.txt",
+        "doc_16414.txt",
+        "doc_2838.txt",
+        "doc_17895.txt"
+    ]
+}

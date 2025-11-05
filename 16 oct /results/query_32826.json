@@ -1,0 +1,10 @@
+{
+    "query": "To whom was the President of the European Parliament instructed to forward the Decision regarding the Foundation\u2019s closure?",
+    "response": [
+        "doc_16894.txt",
+        "doc_13159.txt",
+        "doc_12932.txt",
+        "doc_17393.txt",
+        "doc_13316.txt"
+    ]
+}

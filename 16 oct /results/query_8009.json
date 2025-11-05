@@ -1,0 +1,10 @@
+{
+    "query": "Besides \u201cThe Golden Girls,\u201d what other television show did Bea Arthur appear in before her role as Dorothy Zbornak?",
+    "response": [
+        "doc_4643.txt",
+        "doc_4642.txt",
+        "doc_4646.txt",
+        "doc_4652.txt",
+        "doc_4650.txt"
+    ]
+}

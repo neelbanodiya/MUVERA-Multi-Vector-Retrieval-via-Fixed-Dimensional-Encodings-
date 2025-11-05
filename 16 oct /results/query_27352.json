@@ -1,0 +1,10 @@
+{
+    "query": "What type of work did George Duning do for NBC, alongside Kay Kyser?",
+    "response": [
+        "doc_15110.txt",
+        "doc_5207.txt",
+        "doc_4468.txt",
+        "doc_19023.txt",
+        "doc_10555.txt"
+    ]
+}

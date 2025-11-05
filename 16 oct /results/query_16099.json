@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what did Saint Veronica use her veil to wipe?",
+    "response": [
+        "doc_9307.txt",
+        "doc_9302.txt",
+        "doc_9306.txt",
+        "doc_9303.txt",
+        "doc_9314.txt"
+    ]
+}

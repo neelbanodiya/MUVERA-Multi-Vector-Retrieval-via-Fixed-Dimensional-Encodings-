@@ -1,0 +1,10 @@
+{
+    "query": "In ancient China, what colors were typically worn by most people?",
+    "response": [
+        "doc_11046.txt",
+        "doc_11045.txt",
+        "doc_11047.txt",
+        "doc_11051.txt",
+        "doc_11052.txt"
+    ]
+}

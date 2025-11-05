@@ -1,0 +1,10 @@
+{
+    "query": "Which facility showcases the World War II Manhattan Project?",
+    "response": [
+        "doc_12530.txt",
+        "doc_9421.txt",
+        "doc_23032.txt",
+        "doc_10777.txt",
+        "doc_8807.txt"
+    ]
+}

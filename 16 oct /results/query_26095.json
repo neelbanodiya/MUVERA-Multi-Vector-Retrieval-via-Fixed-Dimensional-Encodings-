@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, how many men and women are working in America today?",
+    "response": [
+        "doc_14795.txt",
+        "doc_14797.txt",
+        "doc_996.txt",
+        "doc_14802.txt",
+        "doc_14806.txt"
+    ]
+}

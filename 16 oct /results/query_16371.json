@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Cornelius paint \u201cDancing Girls (Blacks)\u201d?",
+    "response": [
+        "doc_9492.txt",
+        "doc_20420.txt",
+        "doc_23543.txt",
+        "doc_2152.txt",
+        "doc_20408.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate distance between India and Bangladesh?",
+    "response": [
+        "doc_15952.txt",
+        "doc_15963.txt",
+        "doc_21706.txt",
+        "doc_12749.txt",
+        "doc_22688.txt"
+    ]
+}

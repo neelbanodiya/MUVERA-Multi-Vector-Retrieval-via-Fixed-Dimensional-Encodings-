@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the comic book series where John Carter must fight for his freedom?",
+    "response": [
+        "doc_4654.txt",
+        "doc_18583.txt",
+        "doc_20994.txt",
+        "doc_4757.txt",
+        "doc_587.txt"
+    ]
+}

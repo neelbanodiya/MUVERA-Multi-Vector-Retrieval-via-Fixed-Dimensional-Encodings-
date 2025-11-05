@@ -1,0 +1,10 @@
+{
+    "query": "What is the location of Madison Square Garden\u2019s Box Office?",
+    "response": [
+        "doc_3381.txt",
+        "doc_22423.txt",
+        "doc_22429.txt",
+        "doc_2.txt",
+        "doc_17317.txt"
+    ]
+}

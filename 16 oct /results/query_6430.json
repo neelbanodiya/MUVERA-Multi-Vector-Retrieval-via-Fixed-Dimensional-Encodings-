@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is one common element found in Stephen King adaptations, such as *Needful Things*?",
+    "response": [
+        "doc_19142.txt",
+        "doc_20131.txt",
+        "doc_4142.txt",
+        "doc_22131.txt",
+        "doc_9401.txt"
+    ]
+}

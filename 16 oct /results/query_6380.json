@@ -1,0 +1,10 @@
+{
+    "query": "Which publications did World Publications acquire in 2000?",
+    "response": [
+        "doc_997.txt",
+        "doc_3695.txt",
+        "doc_3696.txt",
+        "doc_23498.txt",
+        "doc_1000.txt"
+    ]
+}

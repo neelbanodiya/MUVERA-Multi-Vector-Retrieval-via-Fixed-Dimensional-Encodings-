@@ -1,0 +1,10 @@
+{
+    "query": "What specific financial aid is the committee urging the Commission to direct towards agricultural growth?",
+    "response": [
+        "doc_17471.txt",
+        "doc_17363.txt",
+        "doc_17581.txt",
+        "doc_14284.txt",
+        "doc_17256.txt"
+    ]
+}

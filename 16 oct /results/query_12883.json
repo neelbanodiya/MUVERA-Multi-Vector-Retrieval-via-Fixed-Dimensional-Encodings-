@@ -1,0 +1,10 @@
+{
+    "query": "What were some of the records set at the California Jam festival in 1974?",
+    "response": [
+        "doc_9871.txt",
+        "doc_9872.txt",
+        "doc_19670.txt",
+        "doc_19668.txt",
+        "doc_9807.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the location of Constitution Island in relation to West Point?",
+    "response": [
+        "doc_12979.txt",
+        "doc_12978.txt",
+        "doc_12980.txt",
+        "doc_2708.txt",
+        "doc_138.txt"
+    ]
+}

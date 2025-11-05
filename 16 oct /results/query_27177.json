@@ -1,0 +1,10 @@
+{
+    "query": "What ingredients are commonly used in a Greek salad, according to the provided links?",
+    "response": [
+        "doc_9713.txt",
+        "doc_9729.txt",
+        "doc_15779.txt",
+        "doc_9720.txt",
+        "doc_9716.txt"
+    ]
+}

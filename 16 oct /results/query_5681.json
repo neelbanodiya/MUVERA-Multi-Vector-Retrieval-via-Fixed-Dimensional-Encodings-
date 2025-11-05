@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the Michigan State women's golf tournament in 1999?",
+    "response": [
+        "doc_15159.txt",
+        "doc_3302.txt",
+        "doc_15158.txt",
+        "doc_3301.txt",
+        "doc_1232.txt"
+    ]
+}

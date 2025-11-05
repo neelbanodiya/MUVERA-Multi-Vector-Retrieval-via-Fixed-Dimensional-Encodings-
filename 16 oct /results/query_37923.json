@@ -1,0 +1,10 @@
+{
+    "query": "What program will the suggestion for an EU road safety ambassador be considered within?",
+    "response": [
+        "doc_23721.txt",
+        "doc_22240.txt",
+        "doc_10911.txt",
+        "doc_6011.txt",
+        "doc_21789.txt"
+    ]
+}

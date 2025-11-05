@@ -1,0 +1,10 @@
+{
+    "query": "What action is the European Council requesting regarding the legislative process?",
+    "response": [
+        "doc_15132.txt",
+        "doc_13210.txt",
+        "doc_22885.txt",
+        "doc_13248.txt",
+        "doc_13226.txt"
+    ]
+}

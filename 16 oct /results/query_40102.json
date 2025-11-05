@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Volvo begin installing safety belts in its cars?",
+    "response": [
+        "doc_23474.txt",
+        "doc_23475.txt",
+        "doc_23480.txt",
+        "doc_23481.txt",
+        "doc_23482.txt"
+    ]
+}

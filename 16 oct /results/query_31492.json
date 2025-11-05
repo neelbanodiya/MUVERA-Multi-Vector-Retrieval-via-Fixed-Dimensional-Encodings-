@@ -1,0 +1,10 @@
+{
+    "query": "What role did General Douglas MacArthur hold during the Korean War, specifically as commander?",
+    "response": [
+        "doc_18389.txt",
+        "doc_18399.txt",
+        "doc_18392.txt",
+        "doc_18400.txt",
+        "doc_18391.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Besides the Venus of Milo, what other types of ancient artifacts were found near the island of Melos?",
+    "response": [
+        "doc_3871.txt",
+        "doc_9928.txt",
+        "doc_11026.txt",
+        "doc_8686.txt",
+        "doc_20468.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What does Billie Jo state about the book \u201cOut of the Dust\u201d?",
+    "response": [
+        "doc_21981.txt",
+        "doc_21983.txt",
+        "doc_21985.txt",
+        "doc_21982.txt",
+        "doc_21986.txt"
+    ]
+}

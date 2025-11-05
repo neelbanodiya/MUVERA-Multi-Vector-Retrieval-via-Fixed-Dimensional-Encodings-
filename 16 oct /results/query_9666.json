@@ -1,0 +1,10 @@
+{
+    "query": "What was a common architectural feature found in European monasteries during the 16th century?",
+    "response": [
+        "doc_23694.txt",
+        "doc_15841.txt",
+        "doc_5855.txt",
+        "doc_15834.txt",
+        "doc_23688.txt"
+    ]
+}

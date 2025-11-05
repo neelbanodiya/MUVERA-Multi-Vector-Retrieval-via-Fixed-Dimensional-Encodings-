@@ -1,0 +1,10 @@
+{
+    "query": "What expenses related to the European Parliament buildings are covered by the appropriations in Title 2?",
+    "response": [
+        "doc_22221.txt",
+        "doc_22212.txt",
+        "doc_22203.txt",
+        "doc_22219.txt",
+        "doc_22215.txt"
+    ]
+}

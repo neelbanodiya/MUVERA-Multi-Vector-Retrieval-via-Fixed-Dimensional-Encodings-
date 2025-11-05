@@ -1,0 +1,10 @@
+{
+    "query": "What archaeological finds are mentioned in relation to Egypt and the Near East?",
+    "response": [
+        "doc_1299.txt",
+        "doc_8789.txt",
+        "doc_8790.txt",
+        "doc_5419.txt",
+        "doc_8508.txt"
+    ]
+}

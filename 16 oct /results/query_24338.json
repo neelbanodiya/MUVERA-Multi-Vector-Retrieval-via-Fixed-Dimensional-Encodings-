@@ -1,0 +1,10 @@
+{
+    "query": "What year was the report \u201cTowards adequate, sustainable and safe European pension systems\u201d initially published?",
+    "response": [
+        "doc_14123.txt",
+        "doc_14143.txt",
+        "doc_10156.txt",
+        "doc_14144.txt",
+        "doc_14161.txt"
+    ]
+}

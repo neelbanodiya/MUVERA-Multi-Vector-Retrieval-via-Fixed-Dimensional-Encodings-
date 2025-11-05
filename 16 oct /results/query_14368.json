@@ -1,0 +1,10 @@
+{
+    "query": "What is the ERA of Detroit starters mentioned in the passage?",
+    "response": [
+        "doc_15297.txt",
+        "doc_22397.txt",
+        "doc_18500.txt",
+        "doc_22853.txt",
+        "doc_12761.txt"
+    ]
+}

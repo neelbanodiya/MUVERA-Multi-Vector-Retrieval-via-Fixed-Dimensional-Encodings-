@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Berlin Airlift begin, and what action prompted its implementation?",
+    "response": [
+        "doc_870.txt",
+        "doc_869.txt",
+        "doc_873.txt",
+        "doc_887.txt",
+        "doc_886.txt"
+    ]
+}

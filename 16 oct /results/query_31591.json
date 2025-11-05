@@ -1,0 +1,10 @@
+{
+    "query": "What was the founding month of \u201cMr Christian\u2019s\u201d?",
+    "response": [
+        "doc_18434.txt",
+        "doc_18435.txt",
+        "doc_97.txt",
+        "doc_101.txt",
+        "doc_92.txt"
+    ]
+}

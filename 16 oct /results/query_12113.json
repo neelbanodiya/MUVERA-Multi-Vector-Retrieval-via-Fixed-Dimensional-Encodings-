@@ -1,0 +1,10 @@
+{
+    "query": "What ingredients are commonly substituted for pecans in Appalachian baking?",
+    "response": [
+        "doc_7080.txt",
+        "doc_10444.txt",
+        "doc_21686.txt",
+        "doc_19441.txt",
+        "doc_13417.txt"
+    ]
+}

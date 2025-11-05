@@ -1,0 +1,10 @@
+{
+    "query": "Where did Santiago own properties?",
+    "response": [
+        "doc_22168.txt",
+        "doc_23260.txt",
+        "doc_4597.txt",
+        "doc_15479.txt",
+        "doc_12986.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the LinkedIn article, what is a characteristic of private clubs?",
+    "response": [
+        "doc_23185.txt",
+        "doc_410.txt",
+        "doc_21020.txt",
+        "doc_23357.txt",
+        "doc_12708.txt"
+    ]
+}

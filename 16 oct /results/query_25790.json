@@ -1,0 +1,10 @@
+{
+    "query": "What award is associated with Nebula (Science Fiction Writers Association) in the context of novel writing?",
+    "response": [
+        "doc_5757.txt",
+        "doc_5765.txt",
+        "doc_9978.txt",
+        "doc_14978.txt",
+        "doc_23404.txt"
+    ]
+}

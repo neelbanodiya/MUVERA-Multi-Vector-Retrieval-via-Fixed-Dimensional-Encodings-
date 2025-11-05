@@ -1,0 +1,10 @@
+{
+    "query": "Which organization created the Codex Alimentarius Commission, and to whom does it report?",
+    "response": [
+        "doc_11117.txt",
+        "doc_9113.txt",
+        "doc_21441.txt",
+        "doc_5721.txt",
+        "doc_12893.txt"
+    ]
+}

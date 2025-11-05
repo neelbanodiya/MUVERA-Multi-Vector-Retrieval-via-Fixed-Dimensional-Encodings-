@@ -1,0 +1,10 @@
+{
+    "query": "What is the objective of the Commission proposal COM(2011)0169?",
+    "response": [
+        "doc_4525.txt",
+        "doc_15456.txt",
+        "doc_16600.txt",
+        "doc_5541.txt",
+        "doc_16744.txt"
+    ]
+}

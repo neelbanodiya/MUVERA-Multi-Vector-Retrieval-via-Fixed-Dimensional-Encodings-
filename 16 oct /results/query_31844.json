@@ -1,0 +1,10 @@
+{
+    "query": "What was the score of San Jose State\u2019s season-opening win?",
+    "response": [
+        "doc_18569.txt",
+        "doc_18570.txt",
+        "doc_18567.txt",
+        "doc_15565.txt",
+        "doc_8873.txt"
+    ]
+}

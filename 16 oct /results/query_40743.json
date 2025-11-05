@@ -1,0 +1,10 @@
+{
+    "query": "What is notable about the structure within the Brandenburg Gate?",
+    "response": [
+        "doc_23822.txt",
+        "doc_23815.txt",
+        "doc_23821.txt",
+        "doc_23816.txt",
+        "doc_23827.txt"
+    ]
+}

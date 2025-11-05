@@ -1,0 +1,10 @@
+{
+    "query": "Between which years did the average number of citizen complaints to the Commission increase significantly?",
+    "response": [
+        "doc_13815.txt",
+        "doc_16884.txt",
+        "doc_14460.txt",
+        "doc_14769.txt",
+        "doc_8295.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the oil of Wintergreen historically used for?",
+    "response": [
+        "doc_18181.txt",
+        "doc_18190.txt",
+        "doc_18184.txt",
+        "doc_18182.txt",
+        "doc_18189.txt"
+    ]
+}

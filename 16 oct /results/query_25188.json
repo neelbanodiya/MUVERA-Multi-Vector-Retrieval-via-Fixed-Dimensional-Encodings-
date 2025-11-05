@@ -1,0 +1,10 @@
+{
+    "query": "What river is the \u201cParis Plage\u201d located on?",
+    "response": [
+        "doc_5459.txt",
+        "doc_14620.txt",
+        "doc_14619.txt",
+        "doc_14617.txt",
+        "doc_14616.txt"
+    ]
+}

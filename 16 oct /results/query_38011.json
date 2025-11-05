@@ -1,0 +1,10 @@
+{
+    "query": "What was the date of the Times of Tunbridge Wells issue referenced in the passage?",
+    "response": [
+        "doc_20526.txt",
+        "doc_18619.txt",
+        "doc_19392.txt",
+        "doc_505.txt",
+        "doc_14707.txt"
+    ]
+}

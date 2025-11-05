@@ -1,0 +1,10 @@
+{
+    "query": "What is the publication information for *Sir Gawain and the Green Knight*?",
+    "response": [
+        "doc_1848.txt",
+        "doc_1843.txt",
+        "doc_1842.txt",
+        "doc_1838.txt",
+        "doc_1844.txt"
+    ]
+}

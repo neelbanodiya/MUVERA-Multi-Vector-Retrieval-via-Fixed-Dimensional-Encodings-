@@ -1,0 +1,10 @@
+{
+    "query": "According to Wikipedia, which city is the largest city in the U.S. state of Missouri?",
+    "response": [
+        "doc_17057.txt",
+        "doc_21162.txt",
+        "doc_17058.txt",
+        "doc_20937.txt",
+        "doc_23215.txt"
+    ]
+}

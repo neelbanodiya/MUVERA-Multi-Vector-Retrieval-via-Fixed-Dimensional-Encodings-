@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was a common courtesy in Bible times regarding offering water to strangers?",
+    "response": [
+        "doc_8109.txt",
+        "doc_8102.txt",
+        "doc_8107.txt",
+        "doc_15149.txt",
+        "doc_8099.txt"
+    ]
+}

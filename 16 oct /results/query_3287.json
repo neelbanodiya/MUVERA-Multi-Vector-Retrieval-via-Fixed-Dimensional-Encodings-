@@ -1,0 +1,10 @@
+{
+    "query": "What was a notable event related to children on Christmas Day in 1988, according to one of the linked articles?",
+    "response": [
+        "doc_102.txt",
+        "doc_13527.txt",
+        "doc_97.txt",
+        "doc_18106.txt",
+        "doc_104.txt"
+    ]
+}

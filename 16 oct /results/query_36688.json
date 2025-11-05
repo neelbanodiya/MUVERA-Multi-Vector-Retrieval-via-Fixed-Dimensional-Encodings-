@@ -1,0 +1,10 @@
+{
+    "query": "Which specific product categories are subject to the mandatory country of origin marking system in the EU?",
+    "response": [
+        "doc_21426.txt",
+        "doc_21427.txt",
+        "doc_21425.txt",
+        "doc_19533.txt",
+        "doc_17244.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of a famous poem written by Christina Rossetti?",
+    "response": [
+        "doc_6300.txt",
+        "doc_6305.txt",
+        "doc_6296.txt",
+        "doc_6297.txt",
+        "doc_6311.txt"
+    ]
+}

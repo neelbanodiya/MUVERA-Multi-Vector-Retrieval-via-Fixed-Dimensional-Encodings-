@@ -1,0 +1,10 @@
+{
+    "query": "Which companies developed and published *The Intruder* on the Nintendo Entertainment System?",
+    "response": [
+        "doc_12414.txt",
+        "doc_10865.txt",
+        "doc_10083.txt",
+        "doc_22046.txt",
+        "doc_3050.txt"
+    ]
+}

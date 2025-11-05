@@ -1,0 +1,10 @@
+{
+    "query": "What treaty was signed in Tashkent in May 1993?",
+    "response": [
+        "doc_15257.txt",
+        "doc_1987.txt",
+        "doc_2485.txt",
+        "doc_10889.txt",
+        "doc_2484.txt"
+    ]
+}

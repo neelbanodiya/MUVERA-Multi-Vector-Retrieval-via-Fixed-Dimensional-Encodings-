@@ -1,0 +1,10 @@
+{
+    "query": "What award did Clarissa Pinkola Est\u00e9s receive, and from which organization?",
+    "response": [
+        "doc_2263.txt",
+        "doc_4261.txt",
+        "doc_749.txt",
+        "doc_763.txt",
+        "doc_12637.txt"
+    ]
+}

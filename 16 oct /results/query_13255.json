@@ -1,0 +1,10 @@
+{
+    "query": "Which of Orson Welles\u2019 films did Welles himself consider to be the finest he had ever made?",
+    "response": [
+        "doc_7768.txt",
+        "doc_7767.txt",
+        "doc_4926.txt",
+        "doc_7765.txt",
+        "doc_4920.txt"
+    ]
+}

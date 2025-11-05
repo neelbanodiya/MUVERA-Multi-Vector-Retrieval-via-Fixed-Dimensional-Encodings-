@@ -1,0 +1,10 @@
+{
+    "query": "Which organization presents the Edgar Award?",
+    "response": [
+        "doc_5757.txt",
+        "doc_17912.txt",
+        "doc_13633.txt",
+        "doc_22960.txt",
+        "doc_22012.txt"
+    ]
+}

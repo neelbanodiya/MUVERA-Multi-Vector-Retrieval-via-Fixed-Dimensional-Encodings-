@@ -1,0 +1,10 @@
+{
+    "query": "What phrase is suggested for asking if someone speaks English, according to Monica and Jack?",
+    "response": [
+        "doc_20165.txt",
+        "doc_14480.txt",
+        "doc_14029.txt",
+        "doc_1669.txt",
+        "doc_23903.txt"
+    ]
+}

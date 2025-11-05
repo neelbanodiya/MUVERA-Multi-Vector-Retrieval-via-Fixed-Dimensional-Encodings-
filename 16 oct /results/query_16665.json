@@ -1,0 +1,10 @@
+{
+    "query": "What symbols are represented by the candles on an Advent wreath, as described in the passages?",
+    "response": [
+        "doc_9649.txt",
+        "doc_9648.txt",
+        "doc_9650.txt",
+        "doc_9667.txt",
+        "doc_9653.txt"
+    ]
+}

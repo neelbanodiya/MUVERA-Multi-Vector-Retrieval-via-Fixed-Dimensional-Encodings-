@@ -1,0 +1,10 @@
+{
+    "query": "Who are some famous people who stutter, according to the Stuttering Foundation?",
+    "response": [
+        "doc_2044.txt",
+        "doc_23185.txt",
+        "doc_5543.txt",
+        "doc_11151.txt",
+        "doc_1538.txt"
+    ]
+}

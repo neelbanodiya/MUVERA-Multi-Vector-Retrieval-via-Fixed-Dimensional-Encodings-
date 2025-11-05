@@ -1,0 +1,10 @@
+{
+    "query": "Which films received multiple nominations at the 54th Academy Awards?",
+    "response": [
+        "doc_4909.txt",
+        "doc_21157.txt",
+        "doc_4923.txt",
+        "doc_4919.txt",
+        "doc_23283.txt"
+    ]
+}

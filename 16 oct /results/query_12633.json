@@ -1,0 +1,10 @@
+{
+    "query": "Where is Lake Neuchatel located within Switzerland?",
+    "response": [
+        "doc_7348.txt",
+        "doc_7343.txt",
+        "doc_7342.txt",
+        "doc_1646.txt",
+        "doc_18133.txt"
+    ]
+}

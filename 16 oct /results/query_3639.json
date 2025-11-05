@@ -1,0 +1,10 @@
+{
+    "query": "When was Joseph Conrad\u2019s novella, *Heart of Darkness*, written in relation to his time in the Belgian Congo?",
+    "response": [
+        "doc_2127.txt",
+        "doc_2135.txt",
+        "doc_2132.txt",
+        "doc_2142.txt",
+        "doc_2136.txt"
+    ]
+}

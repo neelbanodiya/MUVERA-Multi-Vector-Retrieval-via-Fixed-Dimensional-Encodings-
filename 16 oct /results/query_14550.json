@@ -1,0 +1,10 @@
+{
+    "query": "How much revenue did the Transformers franchise earn worldwide?",
+    "response": [
+        "doc_8404.txt",
+        "doc_8411.txt",
+        "doc_8410.txt",
+        "doc_14549.txt",
+        "doc_8407.txt"
+    ]
+}

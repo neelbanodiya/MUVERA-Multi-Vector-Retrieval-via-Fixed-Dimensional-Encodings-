@@ -1,0 +1,10 @@
+{
+    "query": "What did the President of Mexico compare Donald Trump to?",
+    "response": [
+        "doc_12518.txt",
+        "doc_914.txt",
+        "doc_11077.txt",
+        "doc_15259.txt",
+        "doc_22927.txt"
+    ]
+}

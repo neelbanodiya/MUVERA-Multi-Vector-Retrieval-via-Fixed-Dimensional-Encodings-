@@ -1,0 +1,10 @@
+{
+    "query": "Which barangays are listed as being located in Bataraza, Palawan, according to the provided text?",
+    "response": [
+        "doc_5565.txt",
+        "doc_5563.txt",
+        "doc_5562.txt",
+        "doc_5566.txt",
+        "doc_5564.txt"
+    ]
+}

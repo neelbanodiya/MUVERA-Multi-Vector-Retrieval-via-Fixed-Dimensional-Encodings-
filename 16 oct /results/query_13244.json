@@ -1,0 +1,10 @@
+{
+    "query": "What does Ada specifically request in one of her quotes?",
+    "response": [
+        "doc_3016.txt",
+        "doc_3014.txt",
+        "doc_3010.txt",
+        "doc_13248.txt",
+        "doc_3017.txt"
+    ]
+}

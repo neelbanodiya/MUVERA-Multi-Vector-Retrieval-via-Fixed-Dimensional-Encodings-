@@ -1,0 +1,10 @@
+{
+    "query": "What action did GCHQ take regarding Amnesty International, according to one news report?",
+    "response": [
+        "doc_1436.txt",
+        "doc_13569.txt",
+        "doc_5727.txt",
+        "doc_22149.txt",
+        "doc_13132.txt"
+    ]
+}

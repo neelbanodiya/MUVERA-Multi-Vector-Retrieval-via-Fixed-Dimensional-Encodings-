@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the book series written by Stan Nicholls that focuses on conflicts between orcs and humans?",
+    "response": [
+        "doc_587.txt",
+        "doc_18447.txt",
+        "doc_5323.txt",
+        "doc_6785.txt",
+        "doc_9450.txt"
+    ]
+}

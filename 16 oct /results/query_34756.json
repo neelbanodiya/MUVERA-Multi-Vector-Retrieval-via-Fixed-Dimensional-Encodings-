@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of the world\u2019s population lives in China?",
+    "response": [
+        "doc_541.txt",
+        "doc_12896.txt",
+        "doc_9923.txt",
+        "doc_14804.txt",
+        "doc_22711.txt"
+    ]
+}

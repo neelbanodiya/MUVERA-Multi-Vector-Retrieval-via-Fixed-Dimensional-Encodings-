@@ -1,0 +1,10 @@
+{
+    "query": "Which song, released in 1963, is listed as a \u201ctop 10 tune\u201d for that summer according to Billboard?",
+    "response": [
+        "doc_19992.txt",
+        "doc_11427.txt",
+        "doc_19991.txt",
+        "doc_22547.txt",
+        "doc_7542.txt"
+    ]
+}

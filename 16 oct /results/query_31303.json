@@ -1,0 +1,10 @@
+{
+    "query": "What historical event is linked to the concept of \u201cchaos\u201d as presented in *Paradise Lost*?",
+    "response": [
+        "doc_18194.txt",
+        "doc_18246.txt",
+        "doc_12463.txt",
+        "doc_15890.txt",
+        "doc_12761.txt"
+    ]
+}

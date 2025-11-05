@@ -1,0 +1,10 @@
+{
+    "query": "In what neighborhoods are most of Boston\u2019s skyscrapers and high-rises clustered?",
+    "response": [
+        "doc_3.txt",
+        "doc_13053.txt",
+        "doc_1610.txt",
+        "doc_2.txt",
+        "doc_3204.txt"
+    ]
+}

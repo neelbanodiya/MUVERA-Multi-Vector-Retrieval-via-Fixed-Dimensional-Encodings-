@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the biography about James Cameron?",
+    "response": [
+        "doc_20006.txt",
+        "doc_4656.txt",
+        "doc_17755.txt",
+        "doc_4655.txt",
+        "doc_14975.txt"
+    ]
+}

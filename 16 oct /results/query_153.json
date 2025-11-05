@@ -1,0 +1,10 @@
+{
+    "query": "In what year did SMU finish their first winning season since the football program resumed operations?",
+    "response": [
+        "doc_74.txt",
+        "doc_75.txt",
+        "doc_6209.txt",
+        "doc_8503.txt",
+        "doc_19122.txt"
+    ]
+}

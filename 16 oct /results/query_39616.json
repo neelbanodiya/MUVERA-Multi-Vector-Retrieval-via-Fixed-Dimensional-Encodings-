@@ -1,0 +1,10 @@
+{
+    "query": "What is Drew Barrymore\u2019s grandfather known for?",
+    "response": [
+        "doc_23198.txt",
+        "doc_23194.txt",
+        "doc_23196.txt",
+        "doc_23201.txt",
+        "doc_23195.txt"
+    ]
+}

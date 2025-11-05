@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of one of W.C. Handy\u2019s most famous compositions?",
+    "response": [
+        "doc_1906.txt",
+        "doc_1908.txt",
+        "doc_17758.txt",
+        "doc_6336.txt",
+        "doc_14101.txt"
+    ]
+}

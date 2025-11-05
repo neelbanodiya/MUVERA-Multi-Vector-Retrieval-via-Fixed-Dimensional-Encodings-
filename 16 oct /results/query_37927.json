@@ -1,0 +1,10 @@
+{
+    "query": "When did Dolly Parton make her album debut?",
+    "response": [
+        "doc_15240.txt",
+        "doc_22242.txt",
+        "doc_22241.txt",
+        "doc_9464.txt",
+        "doc_15241.txt"
+    ]
+}

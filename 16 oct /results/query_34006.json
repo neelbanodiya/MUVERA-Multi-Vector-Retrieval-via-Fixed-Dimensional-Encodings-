@@ -1,0 +1,10 @@
+{
+    "query": "According to the documents, what specific regulations are in place to reduce sulfur dioxide emissions in New York?",
+    "response": [
+        "doc_18019.txt",
+        "doc_12488.txt",
+        "doc_22423.txt",
+        "doc_5836.txt",
+        "doc_12031.txt"
+    ]
+}

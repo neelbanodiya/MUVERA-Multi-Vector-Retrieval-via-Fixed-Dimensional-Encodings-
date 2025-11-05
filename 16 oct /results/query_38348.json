@@ -1,0 +1,10 @@
+{
+    "query": "According to multiple sources, where was the poem \"Song of Hiawatha\" set?",
+    "response": [
+        "doc_22491.txt",
+        "doc_10200.txt",
+        "doc_9564.txt",
+        "doc_1294.txt",
+        "doc_13798.txt"
+    ]
+}

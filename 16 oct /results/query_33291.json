@@ -1,0 +1,10 @@
+{
+    "query": "In what year did a legislative act open the University in Oxford, Ohio?",
+    "response": [
+        "doc_19366.txt",
+        "doc_19359.txt",
+        "doc_19367.txt",
+        "doc_19368.txt",
+        "doc_19363.txt"
+    ]
+}

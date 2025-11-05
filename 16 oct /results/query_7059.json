@@ -1,0 +1,10 @@
+{
+    "query": "To whom should the European Parliament\u2019s President forward this resolution?",
+    "response": [
+        "doc_5237.txt",
+        "doc_23676.txt",
+        "doc_22801.txt",
+        "doc_5894.txt",
+        "doc_17348.txt"
+    ]
+}

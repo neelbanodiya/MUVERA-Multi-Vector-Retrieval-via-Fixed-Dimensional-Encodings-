@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what types of buildings were present in the area surrounding the Empire State Plaza before its redevelopment?",
+    "response": [
+        "doc_9776.txt",
+        "doc_22424.txt",
+        "doc_22428.txt",
+        "doc_22432.txt",
+        "doc_22426.txt"
+    ]
+}

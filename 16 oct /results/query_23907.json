@@ -1,0 +1,10 @@
+{
+    "query": "Where did Gavroche live according to \u201cLes Mis\u00e9rables\u201d?",
+    "response": [
+        "doc_13868.txt",
+        "doc_8367.txt",
+        "doc_22494.txt",
+        "doc_369.txt",
+        "doc_8997.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many races did Richard Petty win at NASCAR's highest level?",
+    "response": [
+        "doc_9090.txt",
+        "doc_9091.txt",
+        "doc_9083.txt",
+        "doc_9098.txt",
+        "doc_9099.txt"
+    ]
+}

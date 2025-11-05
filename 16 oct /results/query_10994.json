@@ -1,0 +1,10 @@
+{
+    "query": "What action did Renault take to address the potential bonnet catch issue with its customers?",
+    "response": [
+        "doc_6371.txt",
+        "doc_6372.txt",
+        "doc_4706.txt",
+        "doc_7962.txt",
+        "doc_3880.txt"
+    ]
+}

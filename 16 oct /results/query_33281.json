@@ -1,0 +1,10 @@
+{
+    "query": "What was Captain Thomas Webb\u2019s military experience?",
+    "response": [
+        "doc_16325.txt",
+        "doc_4656.txt",
+        "doc_7629.txt",
+        "doc_4017.txt",
+        "doc_851.txt"
+    ]
+}

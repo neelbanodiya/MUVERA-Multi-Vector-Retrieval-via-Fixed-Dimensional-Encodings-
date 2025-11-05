@@ -1,0 +1,10 @@
+{
+    "query": "Who designed the Home Insurance Building in Chicago?",
+    "response": [
+        "doc_10087.txt",
+        "doc_10085.txt",
+        "doc_10088.txt",
+        "doc_10086.txt",
+        "doc_10094.txt"
+    ]
+}

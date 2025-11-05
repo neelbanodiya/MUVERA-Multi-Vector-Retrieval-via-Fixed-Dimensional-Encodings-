@@ -1,0 +1,10 @@
+{
+    "query": "With whom did Hitler fly to Berlin on April 26, 1945?",
+    "response": [
+        "doc_4349.txt",
+        "doc_4344.txt",
+        "doc_4345.txt",
+        "doc_4347.txt",
+        "doc_4348.txt"
+    ]
+}

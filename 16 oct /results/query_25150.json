@@ -1,0 +1,10 @@
+{
+    "query": "What Roman numeral represents the number 90?",
+    "response": [
+        "doc_14582.txt",
+        "doc_14587.txt",
+        "doc_14583.txt",
+        "doc_14596.txt",
+        "doc_14589.txt"
+    ]
+}

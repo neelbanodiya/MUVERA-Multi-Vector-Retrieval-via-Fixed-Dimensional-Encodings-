@@ -1,0 +1,10 @@
+{
+    "query": "Who was Bill Bowerman, and what was his connection to Nike?",
+    "response": [
+        "doc_14537.txt",
+        "doc_5444.txt",
+        "doc_4275.txt",
+        "doc_14531.txt",
+        "doc_14184.txt"
+    ]
+}

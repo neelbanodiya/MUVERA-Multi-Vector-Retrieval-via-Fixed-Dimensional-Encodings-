@@ -1,0 +1,10 @@
+{
+    "query": "Besides Roberto Duran, which other boxers are listed as being part of the boxing roster referenced?",
+    "response": [
+        "doc_10573.txt",
+        "doc_22046.txt",
+        "doc_7221.txt",
+        "doc_22045.txt",
+        "doc_12299.txt"
+    ]
+}

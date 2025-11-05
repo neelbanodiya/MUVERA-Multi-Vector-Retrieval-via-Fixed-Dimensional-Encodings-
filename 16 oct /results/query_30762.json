@@ -1,0 +1,10 @@
+{
+    "query": "Who hosted the 62nd Tony Awards?",
+    "response": [
+        "doc_17914.txt",
+        "doc_17912.txt",
+        "doc_16990.txt",
+        "doc_17913.txt",
+        "doc_2264.txt"
+    ]
+}

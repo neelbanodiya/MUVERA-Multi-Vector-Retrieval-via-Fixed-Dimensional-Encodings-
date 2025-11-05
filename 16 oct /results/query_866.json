@@ -1,0 +1,10 @@
+{
+    "query": "Who played Lana Lang in *Smallville*?",
+    "response": [
+        "doc_499.txt",
+        "doc_22330.txt",
+        "doc_495.txt",
+        "doc_493.txt",
+        "doc_501.txt"
+    ]
+}

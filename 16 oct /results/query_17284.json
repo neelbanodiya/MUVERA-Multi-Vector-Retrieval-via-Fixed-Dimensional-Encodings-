@@ -1,0 +1,10 @@
+{
+    "query": "How many elderly women did Hicks attack?",
+    "response": [
+        "doc_10013.txt",
+        "doc_10014.txt",
+        "doc_18155.txt",
+        "doc_1180.txt",
+        "doc_23673.txt"
+    ]
+}

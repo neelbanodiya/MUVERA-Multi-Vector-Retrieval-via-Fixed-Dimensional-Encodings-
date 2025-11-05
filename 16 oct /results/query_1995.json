@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the estimated timeframe for the existence of Magars of Nepal?",
+    "response": [
+        "doc_1205.txt",
+        "doc_18910.txt",
+        "doc_4544.txt",
+        "doc_22403.txt",
+        "doc_1198.txt"
+    ]
+}

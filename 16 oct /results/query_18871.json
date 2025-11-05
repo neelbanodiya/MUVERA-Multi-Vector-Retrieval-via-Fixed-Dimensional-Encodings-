@@ -1,0 +1,10 @@
+{
+    "query": "When was Pete Rose\u2019s autobiography, \u201cMy Prison Without Bars,\u201d published?",
+    "response": [
+        "doc_10956.txt",
+        "doc_10959.txt",
+        "doc_10951.txt",
+        "doc_10957.txt",
+        "doc_10958.txt"
+    ]
+}

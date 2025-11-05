@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the Commission currently doing to support the implementation of the Habitats Directive?",
+    "response": [
+        "doc_10135.txt",
+        "doc_10425.txt",
+        "doc_7764.txt",
+        "doc_23314.txt",
+        "doc_14946.txt"
+    ]
+}

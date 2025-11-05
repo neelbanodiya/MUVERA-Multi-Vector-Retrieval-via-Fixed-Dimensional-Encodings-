@@ -1,0 +1,10 @@
+{
+    "query": "In what month was the Proposal for a White Paper on European defence presented?",
+    "response": [
+        "doc_24172.txt",
+        "doc_5230.txt",
+        "doc_5229.txt",
+        "doc_17476.txt",
+        "doc_22298.txt"
+    ]
+}

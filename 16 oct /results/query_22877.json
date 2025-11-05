@@ -1,0 +1,10 @@
+{
+    "query": "What types of decisions does the Bureau take concerning Members of Parliament?",
+    "response": [
+        "doc_13188.txt",
+        "doc_13292.txt",
+        "doc_13293.txt",
+        "doc_13187.txt",
+        "doc_13192.txt"
+    ]
+}

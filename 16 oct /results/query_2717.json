@@ -1,0 +1,10 @@
+{
+    "query": "What types of actions are supported by the financial instrument established by Regulation (EC) No 1905/2006?",
+    "response": [
+        "doc_15900.txt",
+        "doc_9150.txt",
+        "doc_23109.txt",
+        "doc_20748.txt",
+        "doc_13915.txt"
+    ]
+}

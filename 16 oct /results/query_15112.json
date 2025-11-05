@@ -1,0 +1,10 @@
+{
+    "query": "Which organizations are being supported in their dialogue with the Azerbaijani government?",
+    "response": [
+        "doc_4902.txt",
+        "doc_8771.txt",
+        "doc_13813.txt",
+        "doc_8769.txt",
+        "doc_4132.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the first US president forced to resign after the Watergate Scandal?",
+    "response": [
+        "doc_10670.txt",
+        "doc_11482.txt",
+        "doc_7939.txt",
+        "doc_19160.txt",
+        "doc_16475.txt"
+    ]
+}

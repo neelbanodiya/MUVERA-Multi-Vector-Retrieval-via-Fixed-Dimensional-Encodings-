@@ -1,0 +1,10 @@
+{
+    "query": "What type of boss is Lana\u2019thel in the Crimson Hall wing of Icecrown Citadel, as described in the WoWWiki article?",
+    "response": [
+        "doc_15571.txt",
+        "doc_11516.txt",
+        "doc_18218.txt",
+        "doc_4831.txt",
+        "doc_11497.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the Complex article about scary movie monsters?",
+    "response": [
+        "doc_18934.txt",
+        "doc_18844.txt",
+        "doc_90.txt",
+        "doc_3740.txt",
+        "doc_18847.txt"
+    ]
+}

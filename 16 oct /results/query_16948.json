@@ -1,0 +1,10 @@
+{
+    "query": "What musical did Marvin Hamlisch win a Tony Award for?",
+    "response": [
+        "doc_9822.txt",
+        "doc_9826.txt",
+        "doc_12358.txt",
+        "doc_9819.txt",
+        "doc_9824.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to one article, what percentage of U.S. Supreme Court justices since 1910 have been fraternity members?",
+    "response": [
+        "doc_12833.txt",
+        "doc_14761.txt",
+        "doc_12842.txt",
+        "doc_21936.txt",
+        "doc_4257.txt"
+    ]
+}

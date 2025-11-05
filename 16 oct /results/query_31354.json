@@ -1,0 +1,10 @@
+{
+    "query": "What type of forum is being suggested to enhance cooperation among European supervisors?",
+    "response": [
+        "doc_18309.txt",
+        "doc_18310.txt",
+        "doc_20033.txt",
+        "doc_17384.txt",
+        "doc_14152.txt"
+    ]
+}

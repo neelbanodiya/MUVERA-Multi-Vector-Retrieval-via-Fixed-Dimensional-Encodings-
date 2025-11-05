@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what UNESCO World Heritage site is located in central Italy?",
+    "response": [
+        "doc_18212.txt",
+        "doc_16161.txt",
+        "doc_14192.txt",
+        "doc_18491.txt",
+        "doc_15475.txt"
+    ]
+}

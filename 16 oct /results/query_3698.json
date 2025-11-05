@@ -1,0 +1,10 @@
+{
+    "query": "How many Republican elected officials are in Brooklyn, according to the passage?",
+    "response": [
+        "doc_13258.txt",
+        "doc_20142.txt",
+        "doc_3123.txt",
+        "doc_8513.txt",
+        "doc_8912.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the IMDb article, what was Bob Dylan\u2019s original name before becoming Bob Dylan?",
+    "response": [
+        "doc_11825.txt",
+        "doc_521.txt",
+        "doc_5125.txt",
+        "doc_7301.txt",
+        "doc_22046.txt"
+    ]
+}

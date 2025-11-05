@@ -1,0 +1,10 @@
+{
+    "query": "When was the Federal Home Loan Mortgage Corporation (Freddie Mac) established?",
+    "response": [
+        "doc_5007.txt",
+        "doc_5008.txt",
+        "doc_5009.txt",
+        "doc_5019.txt",
+        "doc_5013.txt"
+    ]
+}

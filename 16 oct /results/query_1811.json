@@ -1,0 +1,10 @@
+{
+    "query": "Who inaugurated the road-cum-rail bridge on the River Godadvari?",
+    "response": [
+        "doc_1023.txt",
+        "doc_1024.txt",
+        "doc_13148.txt",
+        "doc_5187.txt",
+        "doc_5658.txt"
+    ]
+}

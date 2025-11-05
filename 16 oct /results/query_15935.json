@@ -1,0 +1,10 @@
+{
+    "query": "What mode of transportation was prevalent during the road trips described in *On the Road* in 1957?",
+    "response": [
+        "doc_1513.txt",
+        "doc_17743.txt",
+        "doc_17742.txt",
+        "doc_5165.txt",
+        "doc_12932.txt"
+    ]
+}

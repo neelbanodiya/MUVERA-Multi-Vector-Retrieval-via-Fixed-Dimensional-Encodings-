@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of all energy used in the EU is currently consumed by Europe\u2019s buildings?",
+    "response": [
+        "doc_20347.txt",
+        "doc_175.txt",
+        "doc_19176.txt",
+        "doc_12811.txt",
+        "doc_24186.txt"
+    ]
+}

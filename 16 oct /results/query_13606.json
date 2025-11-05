@@ -1,0 +1,10 @@
+{
+    "query": "What general led Union forces that captured the nearby city of Petersburg?",
+    "response": [
+        "doc_20718.txt",
+        "doc_20717.txt",
+        "doc_20723.txt",
+        "doc_20721.txt",
+        "doc_3857.txt"
+    ]
+}

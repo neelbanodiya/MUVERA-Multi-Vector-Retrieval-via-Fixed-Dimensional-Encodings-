@@ -1,0 +1,10 @@
+{
+    "query": "What does the passage describe being likened to in Switzerland?",
+    "response": [
+        "doc_7343.txt",
+        "doc_23543.txt",
+        "doc_4402.txt",
+        "doc_1984.txt",
+        "doc_23847.txt"
+    ]
+}

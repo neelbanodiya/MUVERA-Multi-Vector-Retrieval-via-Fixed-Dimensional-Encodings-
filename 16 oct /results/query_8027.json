@@ -1,0 +1,10 @@
+{
+    "query": "What was Bea Arthur\u2019s birth year, as indicated in one of the linked articles?",
+    "response": [
+        "doc_4646.txt",
+        "doc_2785.txt",
+        "doc_3543.txt",
+        "doc_21771.txt",
+        "doc_19860.txt"
+    ]
+}

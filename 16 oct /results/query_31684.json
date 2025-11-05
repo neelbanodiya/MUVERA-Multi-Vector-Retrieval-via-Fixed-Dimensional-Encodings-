@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Peter explain Joe was considered a tough guy?",
+    "response": [
+        "doc_18478.txt",
+        "doc_23697.txt",
+        "doc_12734.txt",
+        "doc_23698.txt",
+        "doc_16647.txt"
+    ]
+}

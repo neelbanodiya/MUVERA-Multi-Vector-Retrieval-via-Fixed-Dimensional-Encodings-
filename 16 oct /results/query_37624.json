@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of a book mentioned that features George Foreman?",
+    "response": [
+        "doc_22060.txt",
+        "doc_22046.txt",
+        "doc_22045.txt",
+        "doc_20538.txt",
+        "doc_19420.txt"
+    ]
+}

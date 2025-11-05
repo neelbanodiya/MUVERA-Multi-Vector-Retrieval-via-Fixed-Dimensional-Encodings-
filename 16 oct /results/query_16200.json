@@ -1,0 +1,10 @@
+{
+    "query": "What type of artwork is Carl Milles known for creating?",
+    "response": [
+        "doc_9069.txt",
+        "doc_4283.txt",
+        "doc_6959.txt",
+        "doc_5294.txt",
+        "doc_22074.txt"
+    ]
+}

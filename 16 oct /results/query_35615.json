@@ -1,0 +1,10 @@
+{
+    "query": "Which article of Regulation (EC) No 3286/94 does Amendment 53 reference?",
+    "response": [
+        "doc_20764.txt",
+        "doc_20813.txt",
+        "doc_23645.txt",
+        "doc_20848.txt",
+        "doc_20835.txt"
+    ]
+}

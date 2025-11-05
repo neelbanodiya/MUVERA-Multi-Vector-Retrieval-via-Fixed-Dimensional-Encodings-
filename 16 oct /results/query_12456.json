@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Jack Dempsey first hold the heavyweight title?",
+    "response": [
+        "doc_7222.txt",
+        "doc_7229.txt",
+        "doc_7233.txt",
+        "doc_7227.txt",
+        "doc_7224.txt"
+    ]
+}

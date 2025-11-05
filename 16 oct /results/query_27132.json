@@ -1,0 +1,10 @@
+{
+    "query": "What was the Democratic campaign catchphrase used in 1992?",
+    "response": [
+        "doc_15746.txt",
+        "doc_15748.txt",
+        "doc_15747.txt",
+        "doc_15749.txt",
+        "doc_15750.txt"
+    ]
+}

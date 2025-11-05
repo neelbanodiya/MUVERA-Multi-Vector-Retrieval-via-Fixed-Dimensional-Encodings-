@@ -1,0 +1,10 @@
+{
+    "query": "Which state was the second to be admitted to the Union, and what was its capital during the period of 1790-1800?",
+    "response": [
+        "doc_2708.txt",
+        "doc_2714.txt",
+        "doc_2706.txt",
+        "doc_2713.txt",
+        "doc_2709.txt"
+    ]
+}

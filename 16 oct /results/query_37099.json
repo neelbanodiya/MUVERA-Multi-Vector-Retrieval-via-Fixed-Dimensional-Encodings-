@@ -1,0 +1,10 @@
+{
+    "query": "Where does New Mexico State Road 501 end, and what security measures are in place when entering that area?",
+    "response": [
+        "doc_21709.txt",
+        "doc_21711.txt",
+        "doc_21712.txt",
+        "doc_15104.txt",
+        "doc_2631.txt"
+    ]
+}

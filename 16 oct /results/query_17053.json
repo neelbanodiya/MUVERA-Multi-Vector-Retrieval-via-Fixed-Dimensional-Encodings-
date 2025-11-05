@@ -1,0 +1,10 @@
+{
+    "query": "Who directed \u201cHigh School Musical: The Music in You,\u201d and what was the subject of the documentary?",
+    "response": [
+        "doc_9872.txt",
+        "doc_20896.txt",
+        "doc_15440.txt",
+        "doc_1580.txt",
+        "doc_15903.txt"
+    ]
+}

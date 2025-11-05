@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the book \u201cExperiments in Ethics\u201d published?",
+    "response": [
+        "doc_350.txt",
+        "doc_14274.txt",
+        "doc_7862.txt",
+        "doc_14268.txt",
+        "doc_14279.txt"
+    ]
+}

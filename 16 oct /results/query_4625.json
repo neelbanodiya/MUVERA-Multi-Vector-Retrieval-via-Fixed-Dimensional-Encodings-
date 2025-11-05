@@ -1,0 +1,10 @@
+{
+    "query": "What year was the album re-released, and what was its position in the UK charts?",
+    "response": [
+        "doc_16312.txt",
+        "doc_4606.txt",
+        "doc_22673.txt",
+        "doc_8006.txt",
+        "doc_4603.txt"
+    ]
+}

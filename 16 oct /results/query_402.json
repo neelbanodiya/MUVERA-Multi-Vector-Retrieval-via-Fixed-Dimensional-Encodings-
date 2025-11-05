@@ -1,0 +1,10 @@
+{
+    "query": "What film starred Samuel L Jackson?",
+    "response": [
+        "doc_14684.txt",
+        "doc_5867.txt",
+        "doc_1229.txt",
+        "doc_21902.txt",
+        "doc_14388.txt"
+    ]
+}

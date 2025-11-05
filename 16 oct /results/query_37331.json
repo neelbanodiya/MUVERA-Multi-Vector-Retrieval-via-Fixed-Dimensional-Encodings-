@@ -1,0 +1,10 @@
+{
+    "query": "What types of recreational vehicles does Fleetwood Enterprises Inc. produce, as listed in the provided documents?",
+    "response": [
+        "doc_21857.txt",
+        "doc_21858.txt",
+        "doc_21856.txt",
+        "doc_21859.txt",
+        "doc_21861.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the film based on John Grisham\u2019s novel released?",
+    "response": [
+        "doc_2231.txt",
+        "doc_1231.txt",
+        "doc_1812.txt",
+        "doc_24254.txt",
+        "doc_19141.txt"
+    ]
+}

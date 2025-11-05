@@ -1,0 +1,10 @@
+{
+    "query": "Where is Brussels situated?",
+    "response": [
+        "doc_3657.txt",
+        "doc_15475.txt",
+        "doc_23872.txt",
+        "doc_20161.txt",
+        "doc_15880.txt"
+    ]
+}

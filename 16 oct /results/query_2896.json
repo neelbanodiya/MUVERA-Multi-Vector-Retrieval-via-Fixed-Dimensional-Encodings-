@@ -1,0 +1,10 @@
+{
+    "query": "Where were Daniel Boone and his wife\u2019s original graves located?",
+    "response": [
+        "doc_1751.txt",
+        "doc_1743.txt",
+        "doc_1746.txt",
+        "doc_1752.txt",
+        "doc_1742.txt"
+    ]
+}

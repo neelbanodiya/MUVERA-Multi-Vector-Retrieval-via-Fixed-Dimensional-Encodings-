@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the song by classical composer Franz Schubert?",
+    "response": [
+        "doc_168.txt",
+        "doc_14564.txt",
+        "doc_19613.txt",
+        "doc_21967.txt",
+        "doc_19620.txt"
+    ]
+}

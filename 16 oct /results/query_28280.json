@@ -1,0 +1,10 @@
+{
+    "query": "What cross is associated with the Patron Saint of Scotland?",
+    "response": [
+        "doc_16447.txt",
+        "doc_16454.txt",
+        "doc_16460.txt",
+        "doc_16463.txt",
+        "doc_16450.txt"
+    ]
+}

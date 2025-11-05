@@ -1,0 +1,10 @@
+{
+    "query": "What musical styles did Tav Falco's Panther Burns draw inspiration from?",
+    "response": [
+        "doc_18912.txt",
+        "doc_18913.txt",
+        "doc_12713.txt",
+        "doc_19461.txt",
+        "doc_16633.txt"
+    ]
+}

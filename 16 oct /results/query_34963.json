@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of the world\u2019s astronomical infrastructure is projected to be located in Chile by 2020?",
+    "response": [
+        "doc_20402.txt",
+        "doc_20401.txt",
+        "doc_5141.txt",
+        "doc_5142.txt",
+        "doc_5149.txt"
+    ]
+}

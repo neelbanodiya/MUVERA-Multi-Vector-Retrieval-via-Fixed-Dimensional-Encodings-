@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of the electorate in Nevada is comprised of Latino voters and members of the Mormon church?",
+    "response": [
+        "doc_5034.txt",
+        "doc_5039.txt",
+        "doc_5035.txt",
+        "doc_5048.txt",
+        "doc_5033.txt"
+    ]
+}

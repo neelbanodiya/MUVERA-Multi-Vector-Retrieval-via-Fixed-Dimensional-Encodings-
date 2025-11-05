@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Peg Entwistle die?",
+    "response": [
+        "doc_11744.txt",
+        "doc_11743.txt",
+        "doc_11750.txt",
+        "doc_11754.txt",
+        "doc_11757.txt"
+    ]
+}

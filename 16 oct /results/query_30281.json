@@ -1,0 +1,10 @@
+{
+    "query": "What is the total amount allocated to the Community contribution to the International Fund for Ireland?",
+    "response": [
+        "doc_22712.txt",
+        "doc_1255.txt",
+        "doc_4146.txt",
+        "doc_17605.txt",
+        "doc_8795.txt"
+    ]
+}

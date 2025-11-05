@@ -1,0 +1,10 @@
+{
+    "query": "Which period saw a revival of ancient Chinese arts and crafts, initiated by a particular dynasty?",
+    "response": [
+        "doc_15836.txt",
+        "doc_15835.txt",
+        "doc_15838.txt",
+        "doc_15843.txt",
+        "doc_15833.txt"
+    ]
+}

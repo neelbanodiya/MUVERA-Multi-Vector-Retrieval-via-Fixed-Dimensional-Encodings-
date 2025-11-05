@@ -1,0 +1,10 @@
+{
+    "query": "In what year did John Heinz die, and how did it occur?",
+    "response": [
+        "doc_2041.txt",
+        "doc_2031.txt",
+        "doc_2032.txt",
+        "doc_2037.txt",
+        "doc_2035.txt"
+    ]
+}

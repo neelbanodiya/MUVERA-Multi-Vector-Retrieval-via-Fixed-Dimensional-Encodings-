@@ -1,0 +1,10 @@
+{
+    "query": "How high does the Palm Springs Aerial Tram take passengers?",
+    "response": [
+        "doc_13017.txt",
+        "doc_13023.txt",
+        "doc_13026.txt",
+        "doc_13028.txt",
+        "doc_13016.txt"
+    ]
+}

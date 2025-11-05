@@ -1,0 +1,10 @@
+{
+    "query": "Approximately when in the religious year does Hanukkah occur?",
+    "response": [
+        "doc_19768.txt",
+        "doc_19766.txt",
+        "doc_19756.txt",
+        "doc_19769.txt",
+        "doc_19761.txt"
+    ]
+}

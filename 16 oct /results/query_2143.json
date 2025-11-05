@@ -1,0 +1,10 @@
+{
+    "query": "Who replaced Michael Holmes in the EDD group?",
+    "response": [
+        "doc_20520.txt",
+        "doc_11479.txt",
+        "doc_5434.txt",
+        "doc_12714.txt",
+        "doc_76.txt"
+    ]
+}

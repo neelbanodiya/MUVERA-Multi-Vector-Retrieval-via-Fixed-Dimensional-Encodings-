@@ -1,0 +1,10 @@
+{
+    "query": "According to the explanatory statement, what is a key expectation of European citizens regarding EU institutions?",
+    "response": [
+        "doc_10031.txt",
+        "doc_7772.txt",
+        "doc_20033.txt",
+        "doc_17396.txt",
+        "doc_17379.txt"
+    ]
+}

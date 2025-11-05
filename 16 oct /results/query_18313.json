@@ -1,0 +1,10 @@
+{
+    "query": "What statute was used by Eastman Kodak to file a complaint regarding Japanese trade practices in 1995?",
+    "response": [
+        "doc_10602.txt",
+        "doc_10603.txt",
+        "doc_2841.txt",
+        "doc_799.txt",
+        "doc_10500.txt"
+    ]
+}

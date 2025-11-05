@@ -1,0 +1,10 @@
+{
+    "query": "What types of awards were recognized in Mexico according to the provided text?",
+    "response": [
+        "doc_14341.txt",
+        "doc_21182.txt",
+        "doc_11398.txt",
+        "doc_22012.txt",
+        "doc_15993.txt"
+    ]
+}

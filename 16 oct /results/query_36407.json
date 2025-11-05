@@ -1,0 +1,10 @@
+{
+    "query": "Who was the first Canadian to hold the office of Governor General, according to the provided text?",
+    "response": [
+        "doc_21250.txt",
+        "doc_21249.txt",
+        "doc_21259.txt",
+        "doc_21257.txt",
+        "doc_21260.txt"
+    ]
+}

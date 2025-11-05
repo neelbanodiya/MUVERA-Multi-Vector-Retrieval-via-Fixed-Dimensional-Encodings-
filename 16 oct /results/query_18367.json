@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of Leon Uris\u2019s novel published around the time Joseph Heller released *Catch-22*?",
+    "response": [
+        "doc_10621.txt",
+        "doc_10614.txt",
+        "doc_10627.txt",
+        "doc_10615.txt",
+        "doc_10630.txt"
+    ]
+}

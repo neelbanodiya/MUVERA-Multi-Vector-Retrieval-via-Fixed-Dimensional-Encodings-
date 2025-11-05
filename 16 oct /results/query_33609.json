@@ -1,0 +1,10 @@
+{
+    "query": "What was the outcome of the court ruling in The Hague regarding the PNVD party?",
+    "response": [
+        "doc_6370.txt",
+        "doc_19582.txt",
+        "doc_3539.txt",
+        "doc_5899.txt",
+        "doc_14253.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what slogan did British Airways use?",
+    "response": [
+        "doc_14885.txt",
+        "doc_14884.txt",
+        "doc_14879.txt",
+        "doc_14882.txt",
+        "doc_14886.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What television show features a character named Kramer played by Michael Richards?",
+    "response": [
+        "doc_478.txt",
+        "doc_4471.txt",
+        "doc_4472.txt",
+        "doc_481.txt",
+        "doc_4462.txt"
+    ]
+}

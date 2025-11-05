@@ -1,0 +1,10 @@
+{
+    "query": "What is the distance between Philadelphia, USA and Port-au-Prince, Haiti?",
+    "response": [
+        "doc_4932.txt",
+        "doc_21161.txt",
+        "doc_4931.txt",
+        "doc_4929.txt",
+        "doc_21164.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Carl Pettersson face charges related to the assassination of Olof Palme?",
+    "response": [
+        "doc_15494.txt",
+        "doc_15496.txt",
+        "doc_15497.txt",
+        "doc_15502.txt",
+        "doc_15500.txt"
+    ]
+}

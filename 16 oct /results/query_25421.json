@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what are the time periods covered in a Lincoln College thesis?",
+    "response": [
+        "doc_6170.txt",
+        "doc_16520.txt",
+        "doc_21979.txt",
+        "doc_8887.txt",
+        "doc_459.txt"
+    ]
+}

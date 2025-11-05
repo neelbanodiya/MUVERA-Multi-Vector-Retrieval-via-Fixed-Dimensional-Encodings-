@@ -1,0 +1,10 @@
+{
+    "query": "What is the EU\u2019s typical approach when addressing human rights concerns with the Chinese authorities?",
+    "response": [
+        "doc_12898.txt",
+        "doc_5645.txt",
+        "doc_5129.txt",
+        "doc_18123.txt",
+        "doc_19522.txt"
+    ]
+}

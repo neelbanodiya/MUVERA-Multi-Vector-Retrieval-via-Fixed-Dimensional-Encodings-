@@ -1,0 +1,10 @@
+{
+    "query": "What franchise is \u201cThe Lost World\u201d a part of?",
+    "response": [
+        "doc_2925.txt",
+        "doc_4475.txt",
+        "doc_3272.txt",
+        "doc_3164.txt",
+        "doc_2928.txt"
+    ]
+}

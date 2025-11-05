@@ -1,0 +1,10 @@
+{
+    "query": "Could you provide me with the GHG emission forecast data for 2011, broken down by countries?",
+    "response": [
+        "doc_4667.txt",
+        "doc_5560.txt",
+        "doc_16114.txt",
+        "doc_15957.txt",
+        "doc_2450.txt"
+    ]
+}

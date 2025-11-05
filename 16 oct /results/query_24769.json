@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Mae West appear with W.C. Fields in the film *My Little Chickadee*?",
+    "response": [
+        "doc_14400.txt",
+        "doc_14388.txt",
+        "doc_14387.txt",
+        "doc_14395.txt",
+        "doc_14396.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what region was the Buddha born, according to the text?",
+    "response": [
+        "doc_1192.txt",
+        "doc_1203.txt",
+        "doc_1193.txt",
+        "doc_1198.txt",
+        "doc_5713.txt"
+    ]
+}

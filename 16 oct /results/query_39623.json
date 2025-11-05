@@ -1,0 +1,10 @@
+{
+    "query": "What is Dwayne \u201cThe Rock\u201d Johnson\u2019s mother\u2019s nationality?",
+    "response": [
+        "doc_23204.txt",
+        "doc_21156.txt",
+        "doc_14056.txt",
+        "doc_15351.txt",
+        "doc_17172.txt"
+    ]
+}

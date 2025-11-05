@@ -1,0 +1,10 @@
+{
+    "query": "What is Judy doing before she goes home?",
+    "response": [
+        "doc_91.txt",
+        "doc_9566.txt",
+        "doc_2956.txt",
+        "doc_1731.txt",
+        "doc_4845.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When did the United States Mint produce silver dollar coins?",
+    "response": [
+        "doc_2930.txt",
+        "doc_2947.txt",
+        "doc_5922.txt",
+        "doc_5910.txt",
+        "doc_5927.txt"
+    ]
+}

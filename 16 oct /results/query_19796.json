@@ -1,0 +1,10 @@
+{
+    "query": "Which song, written by Carole King and Gerry Goffin, became a hit for The Drifters?",
+    "response": [
+        "doc_11416.txt",
+        "doc_11431.txt",
+        "doc_11423.txt",
+        "doc_11418.txt",
+        "doc_11429.txt"
+    ]
+}

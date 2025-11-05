@@ -1,0 +1,10 @@
+{
+    "query": "What is the current trend regarding daily homicides in Venezuela?",
+    "response": [
+        "doc_14722.txt",
+        "doc_24067.txt",
+        "doc_3124.txt",
+        "doc_12630.txt",
+        "doc_21191.txt"
+    ]
+}

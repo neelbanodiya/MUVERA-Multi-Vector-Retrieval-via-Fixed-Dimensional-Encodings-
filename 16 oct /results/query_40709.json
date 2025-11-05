@@ -1,0 +1,10 @@
+{
+    "query": "Before becoming an actor, where did Pierce Brosnan live for 12 years, and what county was it in?",
+    "response": [
+        "doc_23810.txt",
+        "doc_23799.txt",
+        "doc_23809.txt",
+        "doc_23804.txt",
+        "doc_23802.txt"
+    ]
+}

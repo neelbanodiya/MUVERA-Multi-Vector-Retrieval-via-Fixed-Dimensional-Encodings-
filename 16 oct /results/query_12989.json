@@ -1,0 +1,10 @@
+{
+    "query": "What was the magnitude of the largest U.S. earthquake that struck Alaska in 1964?",
+    "response": [
+        "doc_16671.txt",
+        "doc_7566.txt",
+        "doc_16672.txt",
+        "doc_7565.txt",
+        "doc_7567.txt"
+    ]
+}

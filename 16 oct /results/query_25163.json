@@ -1,0 +1,10 @@
+{
+    "query": "What is Jessica Alba\u2019s current estimated personal fortune?",
+    "response": [
+        "doc_14601.txt",
+        "doc_7513.txt",
+        "doc_18586.txt",
+        "doc_22217.txt",
+        "doc_270.txt"
+    ]
+}

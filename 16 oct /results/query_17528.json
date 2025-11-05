@@ -1,0 +1,10 @@
+{
+    "query": "What role did Louis-Napoleon Bonaparte play in the French Republic?",
+    "response": [
+        "doc_10148.txt",
+        "doc_10139.txt",
+        "doc_10142.txt",
+        "doc_10141.txt",
+        "doc_10150.txt"
+    ]
+}

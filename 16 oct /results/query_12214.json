@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate timeframe of the earliest Japanese classics mentioned in the texts?",
+    "response": [
+        "doc_7136.txt",
+        "doc_7132.txt",
+        "doc_7140.txt",
+        "doc_7144.txt",
+        "doc_7143.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which groups submitted motions regarding Bahrain?",
+    "response": [
+        "doc_9926.txt",
+        "doc_9925.txt",
+        "doc_6489.txt",
+        "doc_9923.txt",
+        "doc_6491.txt"
+    ]
+}

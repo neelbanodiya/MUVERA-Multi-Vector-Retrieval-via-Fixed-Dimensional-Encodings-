@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate area covered by Nepal in square kilometers?",
+    "response": [
+        "doc_4338.txt",
+        "doc_23421.txt",
+        "doc_3267.txt",
+        "doc_4544.txt",
+        "doc_2588.txt"
+    ]
+}

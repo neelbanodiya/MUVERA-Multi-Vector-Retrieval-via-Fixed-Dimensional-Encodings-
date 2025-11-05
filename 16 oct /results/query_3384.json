@@ -1,0 +1,10 @@
+{
+    "query": "Who was the head coach of the Oklahoma State Cowboys football teams during the 2005, 2006, 2013, and 2009 seasons?",
+    "response": [
+        "doc_2011.txt",
+        "doc_2010.txt",
+        "doc_11114.txt",
+        "doc_2012.txt",
+        "doc_19125.txt"
+    ]
+}

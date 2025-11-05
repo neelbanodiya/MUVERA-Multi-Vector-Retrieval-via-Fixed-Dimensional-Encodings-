@@ -1,0 +1,10 @@
+{
+    "query": "How many films did T-Man Brass Bancroft appear in?",
+    "response": [
+        "doc_599.txt",
+        "doc_23283.txt",
+        "doc_23287.txt",
+        "doc_15277.txt",
+        "doc_17171.txt"
+    ]
+}

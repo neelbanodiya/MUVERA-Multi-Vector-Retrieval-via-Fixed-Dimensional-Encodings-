@@ -1,0 +1,10 @@
+{
+    "query": "Which song was another hit for Joan Jett, as mentioned in the \u201cL Files SEPTEMBER 06\u201d link?",
+    "response": [
+        "doc_22551.txt",
+        "doc_22547.txt",
+        "doc_22548.txt",
+        "doc_22549.txt",
+        "doc_22554.txt"
+    ]
+}

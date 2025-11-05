@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Willy Brandt resign from his position?",
+    "response": [
+        "doc_21729.txt",
+        "doc_21730.txt",
+        "doc_21732.txt",
+        "doc_21737.txt",
+        "doc_21735.txt"
+    ]
+}

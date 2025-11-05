@@ -1,0 +1,10 @@
+{
+    "query": "What type of work did James Talley perform besides music, as described in the passage?",
+    "response": [
+        "doc_22803.txt",
+        "doc_17763.txt",
+        "doc_3820.txt",
+        "doc_19421.txt",
+        "doc_11939.txt"
+    ]
+}

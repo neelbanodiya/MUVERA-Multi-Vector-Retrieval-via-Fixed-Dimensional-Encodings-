@@ -1,0 +1,10 @@
+{
+    "query": "What is Brazil\u2019s approximate land area size in comparison to the eastern United States?",
+    "response": [
+        "doc_23422.txt",
+        "doc_23426.txt",
+        "doc_23423.txt",
+        "doc_23421.txt",
+        "doc_23420.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of file formats were introduced in the 2007 release of Microsoft Office?",
+    "response": [
+        "doc_21470.txt",
+        "doc_21472.txt",
+        "doc_21469.txt",
+        "doc_21475.txt",
+        "doc_21471.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred shortly after Princess Elizabeth ascended to the throne, as described in one of the links?",
+    "response": [
+        "doc_20418.txt",
+        "doc_24100.txt",
+        "doc_9489.txt",
+        "doc_23759.txt",
+        "doc_24099.txt"
+    ]
+}

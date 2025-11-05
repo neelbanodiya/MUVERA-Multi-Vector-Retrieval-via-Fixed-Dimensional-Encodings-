@@ -1,0 +1,10 @@
+{
+    "query": "What did the three dots on the Domino\u2019s logo originally represent, as indicated in the Pizza Hut article?",
+    "response": [
+        "doc_10227.txt",
+        "doc_10228.txt",
+        "doc_10229.txt",
+        "doc_10236.txt",
+        "doc_792.txt"
+    ]
+}

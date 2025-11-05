@@ -1,0 +1,10 @@
+{
+    "query": "In what century did the Black Death occur in Europe?",
+    "response": [
+        "doc_7217.txt",
+        "doc_21351.txt",
+        "doc_15834.txt",
+        "doc_18073.txt",
+        "doc_11983.txt"
+    ]
+}

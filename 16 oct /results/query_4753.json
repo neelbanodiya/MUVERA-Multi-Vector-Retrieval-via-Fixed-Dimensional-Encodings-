@@ -1,0 +1,10 @@
+{
+    "query": "What party was elected with the Taylor-Fillmore ticket?",
+    "response": [
+        "doc_2761.txt",
+        "doc_2762.txt",
+        "doc_2774.txt",
+        "doc_2766.txt",
+        "doc_2764.txt"
+    ]
+}

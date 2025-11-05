@@ -1,0 +1,10 @@
+{
+    "query": "What is the minimum age required to drink alcohol in a pub, bar, or club in London?",
+    "response": [
+        "doc_16947.txt",
+        "doc_11725.txt",
+        "doc_2222.txt",
+        "doc_16948.txt",
+        "doc_14777.txt"
+    ]
+}

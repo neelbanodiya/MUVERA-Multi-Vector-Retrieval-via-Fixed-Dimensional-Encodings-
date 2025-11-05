@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, how many people were killed in the Messina earthquake in Sicily in 1908?",
+    "response": [
+        "doc_7567.txt",
+        "doc_7566.txt",
+        "doc_7565.txt",
+        "doc_15952.txt",
+        "doc_7572.txt"
+    ]
+}

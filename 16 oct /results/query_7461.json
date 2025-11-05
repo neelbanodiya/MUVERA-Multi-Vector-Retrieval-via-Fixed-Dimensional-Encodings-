@@ -1,0 +1,10 @@
+{
+    "query": "What did the Commission state regarding the existence of an illegal waste dump in the Charorche ravine?",
+    "response": [
+        "doc_4317.txt",
+        "doc_9162.txt",
+        "doc_22167.txt",
+        "doc_14513.txt",
+        "doc_16161.txt"
+    ]
+}

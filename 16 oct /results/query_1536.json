@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many people were deprived of food, heating fuel, and other crucial supplies during the period of the Berlin Airlift?",
+    "response": [
+        "doc_869.txt",
+        "doc_881.txt",
+        "doc_873.txt",
+        "doc_882.txt",
+        "doc_878.txt"
+    ]
+}

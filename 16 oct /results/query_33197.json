@@ -1,0 +1,10 @@
+{
+    "query": "When was Barbara Mikulski first elected to the House of Representatives?",
+    "response": [
+        "doc_19316.txt",
+        "doc_19325.txt",
+        "doc_19318.txt",
+        "doc_19319.txt",
+        "doc_19314.txt"
+    ]
+}

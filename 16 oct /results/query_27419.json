@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of the Helsinki Final Act as originally conceived?",
+    "response": [
+        "doc_15934.txt",
+        "doc_20104.txt",
+        "doc_13159.txt",
+        "doc_9670.txt",
+        "doc_18359.txt"
+    ]
+}

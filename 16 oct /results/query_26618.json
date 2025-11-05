@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate length of the Vigo estuary?",
+    "response": [
+        "doc_12079.txt",
+        "doc_15477.txt",
+        "doc_15478.txt",
+        "doc_12112.txt",
+        "doc_12075.txt"
+    ]
+}

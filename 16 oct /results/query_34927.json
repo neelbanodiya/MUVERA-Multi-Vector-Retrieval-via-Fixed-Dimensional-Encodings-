@@ -1,0 +1,10 @@
+{
+    "query": "From what was The Cloisters museum and gardens assembled?",
+    "response": [
+        "doc_20380.txt",
+        "doc_20379.txt",
+        "doc_20388.txt",
+        "doc_20382.txt",
+        "doc_14728.txt"
+    ]
+}

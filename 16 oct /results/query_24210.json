@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Fort Peck Dam located?",
+    "response": [
+        "doc_14040.txt",
+        "doc_14053.txt",
+        "doc_14048.txt",
+        "doc_14050.txt",
+        "doc_14051.txt"
+    ]
+}

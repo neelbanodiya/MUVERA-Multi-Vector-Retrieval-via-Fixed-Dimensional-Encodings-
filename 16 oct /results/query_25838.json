@@ -1,0 +1,10 @@
+{
+    "query": "In 2008, what was Britney Spears described as in a review on \u201cHow I Met Your Mother\u201d?",
+    "response": [
+        "doc_6559.txt",
+        "doc_19611.txt",
+        "doc_19272.txt",
+        "doc_736.txt",
+        "doc_9125.txt"
+    ]
+}

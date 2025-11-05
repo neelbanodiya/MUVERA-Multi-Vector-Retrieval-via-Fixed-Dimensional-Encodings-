@@ -1,0 +1,10 @@
+{
+    "query": "In 1998, what two films did Jennifer Lopez star in, and how were both of them received?",
+    "response": [
+        "doc_7513.txt",
+        "doc_22745.txt",
+        "doc_22747.txt",
+        "doc_1893.txt",
+        "doc_14780.txt"
+    ]
+}

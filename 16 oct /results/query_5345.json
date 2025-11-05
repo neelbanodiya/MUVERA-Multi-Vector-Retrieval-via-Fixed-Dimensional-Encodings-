@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is Gustavus confronting?",
+    "response": [
+        "doc_17916.txt",
+        "doc_17271.txt",
+        "doc_14522.txt",
+        "doc_9988.txt",
+        "doc_20310.txt"
+    ]
+}

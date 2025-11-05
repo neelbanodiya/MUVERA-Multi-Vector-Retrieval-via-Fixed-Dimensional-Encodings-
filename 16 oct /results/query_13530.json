@@ -1,0 +1,10 @@
+{
+    "query": "What symbol is specifically identified as a distinctly Canadian emblem on the coat of arms?",
+    "response": [
+        "doc_7890.txt",
+        "doc_7894.txt",
+        "doc_7893.txt",
+        "doc_7889.txt",
+        "doc_7898.txt"
+    ]
+}

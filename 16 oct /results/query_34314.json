@@ -1,0 +1,10 @@
+{
+    "query": "What did Joan Didion explore in her novel *Democracy*?",
+    "response": [
+        "doc_14977.txt",
+        "doc_641.txt",
+        "doc_7887.txt",
+        "doc_20025.txt",
+        "doc_642.txt"
+    ]
+}

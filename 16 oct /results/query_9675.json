@@ -1,0 +1,10 @@
+{
+    "query": "What other television shows did Steven Bochco create after *Hill Street Blues*?",
+    "response": [
+        "doc_5597.txt",
+        "doc_5601.txt",
+        "doc_5600.txt",
+        "doc_5596.txt",
+        "doc_5599.txt"
+    ]
+}

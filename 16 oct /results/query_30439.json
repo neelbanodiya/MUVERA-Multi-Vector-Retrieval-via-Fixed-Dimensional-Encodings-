@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between Mario (the postman) and Pablo Neruda?",
+    "response": [
+        "doc_17702.txt",
+        "doc_17712.txt",
+        "doc_17711.txt",
+        "doc_17703.txt",
+        "doc_17705.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who assassinated Philip II, and what was his status at the time of the event?",
+    "response": [
+        "doc_5191.txt",
+        "doc_5192.txt",
+        "doc_5198.txt",
+        "doc_5194.txt",
+        "doc_7325.txt"
+    ]
+}

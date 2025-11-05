@@ -1,0 +1,10 @@
+{
+    "query": "What kind of relationship do Lorelai and Rory have, as described in the provided information?",
+    "response": [
+        "doc_6073.txt",
+        "doc_22142.txt",
+        "doc_19273.txt",
+        "doc_1623.txt",
+        "doc_19913.txt"
+    ]
+}

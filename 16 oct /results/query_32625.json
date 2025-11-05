@@ -1,0 +1,10 @@
+{
+    "query": "What is the year in which Roger Daltrey appeared in the Freddie Mercury Tribute Concert?",
+    "response": [
+        "doc_19016.txt",
+        "doc_19017.txt",
+        "doc_19029.txt",
+        "doc_19020.txt",
+        "doc_19019.txt"
+    ]
+}

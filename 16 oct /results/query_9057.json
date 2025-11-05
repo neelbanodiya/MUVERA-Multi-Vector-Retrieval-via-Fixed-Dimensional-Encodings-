@@ -1,0 +1,10 @@
+{
+    "query": "What role did Don Johnson have in the show *Nash Bridges*?",
+    "response": [
+        "doc_5209.txt",
+        "doc_5214.txt",
+        "doc_5208.txt",
+        "doc_5201.txt",
+        "doc_16925.txt"
+    ]
+}

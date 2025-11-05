@@ -1,0 +1,10 @@
+{
+    "query": "What television series did Mia Farrow star in, featuring the character Allison Mackenzie?",
+    "response": [
+        "doc_730.txt",
+        "doc_736.txt",
+        "doc_7072.txt",
+        "doc_7744.txt",
+        "doc_7070.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is Rambo\u2019s relationship to the character Baby Creed, as described in the passage?",
+    "response": [
+        "doc_16033.txt",
+        "doc_21379.txt",
+        "doc_21870.txt",
+        "doc_18447.txt",
+        "doc_21755.txt"
+    ]
+}

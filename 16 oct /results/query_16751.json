@@ -1,0 +1,10 @@
+{
+    "query": "What French film did \u201cThe Woman in Red\u201d (1984) remake?",
+    "response": [
+        "doc_9705.txt",
+        "doc_9707.txt",
+        "doc_9706.txt",
+        "doc_9711.txt",
+        "doc_14780.txt"
+    ]
+}

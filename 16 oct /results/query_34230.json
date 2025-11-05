@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what percentage of world energy consumption do the EU and the US represent?",
+    "response": [
+        "doc_175.txt",
+        "doc_19904.txt",
+        "doc_19898.txt",
+        "doc_13918.txt",
+        "doc_19176.txt"
+    ]
+}

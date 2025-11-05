@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary reason for the passage of the Major Crimes Act?",
+    "response": [
+        "doc_9672.txt",
+        "doc_18917.txt",
+        "doc_21002.txt",
+        "doc_555.txt",
+        "doc_21017.txt"
+    ]
+}

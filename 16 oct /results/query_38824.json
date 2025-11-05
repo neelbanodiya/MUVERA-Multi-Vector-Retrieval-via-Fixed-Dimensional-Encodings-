@@ -1,0 +1,10 @@
+{
+    "query": "What song did Jo Stafford release that was a memorable childhood experience for the author?",
+    "response": [
+        "doc_726.txt",
+        "doc_23252.txt",
+        "doc_2330.txt",
+        "doc_3339.txt",
+        "doc_5959.txt"
+    ]
+}

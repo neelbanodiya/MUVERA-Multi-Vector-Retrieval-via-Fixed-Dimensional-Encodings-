@@ -1,0 +1,10 @@
+{
+    "query": "What prompted the initial incident involving a Romanian national in Fabrica de Roma?",
+    "response": [
+        "doc_242.txt",
+        "doc_8051.txt",
+        "doc_14460.txt",
+        "doc_2601.txt",
+        "doc_22934.txt"
+    ]
+}

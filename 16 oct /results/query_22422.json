@@ -1,0 +1,10 @@
+{
+    "query": "What is Dick\u2019s brother\u2019s name?",
+    "response": [
+        "doc_5444.txt",
+        "doc_5320.txt",
+        "doc_7639.txt",
+        "doc_2266.txt",
+        "doc_16653.txt"
+    ]
+}

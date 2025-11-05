@@ -1,0 +1,10 @@
+{
+    "query": "How much humanitarian aid was allocated to the Horn of Africa from the 2002 budget?",
+    "response": [
+        "doc_1363.txt",
+        "doc_17257.txt",
+        "doc_17258.txt",
+        "doc_19034.txt",
+        "doc_10124.txt"
+    ]
+}

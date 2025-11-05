@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the second volume of J.R.R. Tolkien\u2019s *The Lord of the Rings*?",
+    "response": [
+        "doc_15544.txt",
+        "doc_15559.txt",
+        "doc_15557.txt",
+        "doc_15551.txt",
+        "doc_4436.txt"
+    ]
+}

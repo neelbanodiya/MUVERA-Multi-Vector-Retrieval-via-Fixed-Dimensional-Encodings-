@@ -1,0 +1,10 @@
+{
+    "query": "Who was the original producer behind the Technotronic project?",
+    "response": [
+        "doc_1422.txt",
+        "doc_2780.txt",
+        "doc_4445.txt",
+        "doc_20569.txt",
+        "doc_12737.txt"
+    ]
+}

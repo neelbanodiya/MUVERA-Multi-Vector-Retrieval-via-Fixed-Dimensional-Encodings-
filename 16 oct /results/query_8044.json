@@ -1,0 +1,10 @@
+{
+    "query": "What specific areas has the Commission identified as having significant advances?",
+    "response": [
+        "doc_11329.txt",
+        "doc_13551.txt",
+        "doc_17549.txt",
+        "doc_14094.txt",
+        "doc_23124.txt"
+    ]
+}

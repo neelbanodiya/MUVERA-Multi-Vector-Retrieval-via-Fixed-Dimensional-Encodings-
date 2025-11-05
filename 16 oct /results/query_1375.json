@@ -1,0 +1,10 @@
+{
+    "query": "When did the TV series *Phyllis* originally air?",
+    "response": [
+        "doc_775.txt",
+        "doc_22860.txt",
+        "doc_9516.txt",
+        "doc_6604.txt",
+        "doc_23435.txt"
+    ]
+}

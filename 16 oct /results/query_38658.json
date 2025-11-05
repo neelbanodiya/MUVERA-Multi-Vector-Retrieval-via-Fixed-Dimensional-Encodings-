@@ -1,0 +1,10 @@
+{
+    "query": "Which gate is mentioned as being part of the Roman section of the city?",
+    "response": [
+        "doc_5420.txt",
+        "doc_22665.txt",
+        "doc_22658.txt",
+        "doc_5425.txt",
+        "doc_5423.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of government replaced the French monarchy after the fall of the First French Empire?",
+    "response": [
+        "doc_10146.txt",
+        "doc_10139.txt",
+        "doc_10145.txt",
+        "doc_10144.txt",
+        "doc_10143.txt"
+    ]
+}

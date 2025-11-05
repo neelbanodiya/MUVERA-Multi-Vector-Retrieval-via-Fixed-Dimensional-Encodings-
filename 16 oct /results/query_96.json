@@ -1,0 +1,10 @@
+{
+    "query": "What was Alexander Hamilton\u2019s position after the Revolutionary War?",
+    "response": [
+        "doc_44.txt",
+        "doc_40.txt",
+        "doc_42.txt",
+        "doc_19683.txt",
+        "doc_19875.txt"
+    ]
+}

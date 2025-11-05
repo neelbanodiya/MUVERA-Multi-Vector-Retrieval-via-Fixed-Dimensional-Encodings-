@@ -1,0 +1,10 @@
+{
+    "query": "What role did Tim Matheson play in the movie *A Very Brady Sequel*?",
+    "response": [
+        "doc_15854.txt",
+        "doc_15856.txt",
+        "doc_15852.txt",
+        "doc_16925.txt",
+        "doc_22118.txt"
+    ]
+}

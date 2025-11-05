@@ -1,0 +1,10 @@
+{
+    "query": "What type of events did the Bryans host at Villa Serena?",
+    "response": [
+        "doc_12177.txt",
+        "doc_17677.txt",
+        "doc_14492.txt",
+        "doc_14363.txt",
+        "doc_13800.txt"
+    ]
+}

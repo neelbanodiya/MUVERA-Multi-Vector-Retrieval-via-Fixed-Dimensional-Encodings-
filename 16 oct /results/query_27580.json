@@ -1,0 +1,10 @@
+{
+    "query": "What was Lois Johnson\u2019s professional name?",
+    "response": [
+        "doc_16035.txt",
+        "doc_9772.txt",
+        "doc_14072.txt",
+        "doc_17170.txt",
+        "doc_9771.txt"
+    ]
+}

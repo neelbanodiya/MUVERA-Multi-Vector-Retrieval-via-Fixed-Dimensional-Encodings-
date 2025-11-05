@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many cubic yards of earth fill were used in the construction of the Oahe Dam?",
+    "response": [
+        "doc_14037.txt",
+        "doc_14047.txt",
+        "doc_14046.txt",
+        "doc_14049.txt",
+        "doc_14034.txt"
+    ]
+}

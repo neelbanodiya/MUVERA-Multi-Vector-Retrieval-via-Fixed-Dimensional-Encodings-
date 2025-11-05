@@ -1,0 +1,10 @@
+{
+    "query": "Who founded the LONE STAR BREWERY along with a group of San Antonio individuals?",
+    "response": [
+        "doc_7176.txt",
+        "doc_7175.txt",
+        "doc_7173.txt",
+        "doc_7174.txt",
+        "doc_7177.txt"
+    ]
+}

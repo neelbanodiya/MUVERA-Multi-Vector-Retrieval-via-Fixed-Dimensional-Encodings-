@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the first Republican national convention held?",
+    "response": [
+        "doc_16805.txt",
+        "doc_16809.txt",
+        "doc_16807.txt",
+        "doc_16812.txt",
+        "doc_16808.txt"
+    ]
+}

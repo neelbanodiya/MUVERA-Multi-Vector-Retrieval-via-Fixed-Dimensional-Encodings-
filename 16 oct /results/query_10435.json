@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what action did Juno take regarding the infant Seamus Heaney?",
+    "response": [
+        "doc_9551.txt",
+        "doc_15679.txt",
+        "doc_10056.txt",
+        "doc_15669.txt",
+        "doc_10673.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was a fashion trend introduced at the emperor\u2019s court in ancient China around 1100 AD?",
+    "response": [
+        "doc_11046.txt",
+        "doc_15835.txt",
+        "doc_15847.txt",
+        "doc_15843.txt",
+        "doc_1048.txt"
+    ]
+}

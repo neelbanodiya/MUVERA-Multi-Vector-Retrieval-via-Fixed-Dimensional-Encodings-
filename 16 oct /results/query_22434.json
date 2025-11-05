@@ -1,0 +1,10 @@
+{
+    "query": "Name three actors listed in the cast of the 1982 film \u201cSatte Pe Satta\u201d.",
+    "response": [
+        "doc_12934.txt",
+        "doc_22116.txt",
+        "doc_22117.txt",
+        "doc_18482.txt",
+        "doc_5158.txt"
+    ]
+}

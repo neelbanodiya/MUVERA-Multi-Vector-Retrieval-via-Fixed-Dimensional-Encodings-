@@ -1,0 +1,10 @@
+{
+    "query": "Which dancers are specifically listed as having performed the role of Cleopatra?",
+    "response": [
+        "doc_9887.txt",
+        "doc_18768.txt",
+        "doc_18769.txt",
+        "doc_18766.txt",
+        "doc_15653.txt"
+    ]
+}

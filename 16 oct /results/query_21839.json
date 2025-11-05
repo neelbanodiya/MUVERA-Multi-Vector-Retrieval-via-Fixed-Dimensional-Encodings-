@@ -1,0 +1,10 @@
+{
+    "query": "For whom was Stevie Wonder originally intending to write the song \u201cSuperstition\u201d?",
+    "response": [
+        "doc_12570.txt",
+        "doc_12572.txt",
+        "doc_12577.txt",
+        "doc_12571.txt",
+        "doc_12578.txt"
+    ]
+}

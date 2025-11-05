@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, how many songs did Carole King write or co-write?",
+    "response": [
+        "doc_11434.txt",
+        "doc_11435.txt",
+        "doc_11421.txt",
+        "doc_11417.txt",
+        "doc_11426.txt"
+    ]
+}

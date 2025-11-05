@@ -1,0 +1,10 @@
+{
+    "query": "In what conference did the 1995 Wisconsin Badgers football team compete?",
+    "response": [
+        "doc_1879.txt",
+        "doc_11114.txt",
+        "doc_1880.txt",
+        "doc_15563.txt",
+        "doc_11116.txt"
+    ]
+}

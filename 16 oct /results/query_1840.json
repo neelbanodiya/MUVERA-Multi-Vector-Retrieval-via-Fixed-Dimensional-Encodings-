@@ -1,0 +1,10 @@
+{
+    "query": "In what year did student leaders occupy Tiananmen Square?",
+    "response": [
+        "doc_10981.txt",
+        "doc_10971.txt",
+        "doc_10970.txt",
+        "doc_10972.txt",
+        "doc_10973.txt"
+    ]
+}

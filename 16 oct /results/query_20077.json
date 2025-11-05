@@ -1,0 +1,9 @@
+{
+    "query": "What materials were used as rocket propellant for the Able rocket stage?",
+    "response": [
+        "doc_11587.txt",
+        "doc_11586.txt",
+        "doc_11585.txt",
+        "doc_24020.txt"
+    ]
+}

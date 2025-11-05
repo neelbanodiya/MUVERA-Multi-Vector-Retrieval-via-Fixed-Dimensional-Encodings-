@@ -1,0 +1,10 @@
+{
+    "query": "Which Spanish word is used to describe a mountain chain?",
+    "response": [
+        "doc_23530.txt",
+        "doc_12751.txt",
+        "doc_12626.txt",
+        "doc_21180.txt",
+        "doc_23532.txt"
+    ]
+}

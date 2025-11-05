@@ -1,0 +1,10 @@
+{
+    "query": "What musical instruments did the person who was born in Brighton in 1942 play?",
+    "response": [
+        "doc_5252.txt",
+        "doc_5249.txt",
+        "doc_12775.txt",
+        "doc_18215.txt",
+        "doc_7783.txt"
+    ]
+}

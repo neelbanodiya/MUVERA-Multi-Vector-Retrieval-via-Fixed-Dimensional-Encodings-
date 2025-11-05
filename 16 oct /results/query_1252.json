@@ -1,0 +1,10 @@
+{
+    "query": "Which band did Mosley previously work as a session drummer for?",
+    "response": [
+        "doc_719.txt",
+        "doc_720.txt",
+        "doc_12714.txt",
+        "doc_5897.txt",
+        "doc_16276.txt"
+    ]
+}

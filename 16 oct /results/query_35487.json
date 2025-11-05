@@ -1,0 +1,10 @@
+{
+    "query": "In 1959, who escaped into India with the help of the CIA?",
+    "response": [
+        "doc_20673.txt",
+        "doc_1417.txt",
+        "doc_18156.txt",
+        "doc_21681.txt",
+        "doc_17636.txt"
+    ]
+}

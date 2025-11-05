@@ -1,0 +1,10 @@
+{
+    "query": "On which island was Sappho born?",
+    "response": [
+        "doc_20466.txt",
+        "doc_20467.txt",
+        "doc_20468.txt",
+        "doc_20476.txt",
+        "doc_20470.txt"
+    ]
+}

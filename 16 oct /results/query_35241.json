@@ -1,0 +1,10 @@
+{
+    "query": "What year was *Oliver Twist* published?",
+    "response": [
+        "doc_20549.txt",
+        "doc_20539.txt",
+        "doc_20552.txt",
+        "doc_14261.txt",
+        "doc_20551.txt"
+    ]
+}

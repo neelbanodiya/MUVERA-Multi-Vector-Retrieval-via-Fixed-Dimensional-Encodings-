@@ -1,0 +1,10 @@
+{
+    "query": "Over which geographical feature did the French retreat from the Iberian peninsula?",
+    "response": [
+        "doc_10369.txt",
+        "doc_10367.txt",
+        "doc_10371.txt",
+        "doc_17639.txt",
+        "doc_23525.txt"
+    ]
+}

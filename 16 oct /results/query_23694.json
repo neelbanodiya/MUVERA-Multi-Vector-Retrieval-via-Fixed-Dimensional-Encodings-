@@ -1,0 +1,10 @@
+{
+    "query": "Besides being an Alaskan explorer, what organization did John Muir found?",
+    "response": [
+        "doc_6509.txt",
+        "doc_13510.txt",
+        "doc_6503.txt",
+        "doc_6495.txt",
+        "doc_6497.txt"
+    ]
+}

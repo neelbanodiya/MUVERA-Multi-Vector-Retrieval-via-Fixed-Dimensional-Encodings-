@@ -1,0 +1,10 @@
+{
+    "query": "What role did Nils Bohlin play in the development of the seat belt?",
+    "response": [
+        "doc_15277.txt",
+        "doc_5325.txt",
+        "doc_15278.txt",
+        "doc_11916.txt",
+        "doc_17778.txt"
+    ]
+}

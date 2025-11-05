@@ -1,0 +1,10 @@
+{
+    "query": "Which U.S. state adopted the sunflower as its state flower?",
+    "response": [
+        "doc_6808.txt",
+        "doc_1347.txt",
+        "doc_1349.txt",
+        "doc_1345.txt",
+        "doc_972.txt"
+    ]
+}

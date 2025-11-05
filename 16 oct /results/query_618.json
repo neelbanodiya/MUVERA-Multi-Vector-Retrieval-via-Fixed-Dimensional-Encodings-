@@ -1,0 +1,10 @@
+{
+    "query": "What was Carlton Fisk known for in the 1975 World Series?",
+    "response": [
+        "doc_15278.txt",
+        "doc_18479.txt",
+        "doc_5754.txt",
+        "doc_15277.txt",
+        "doc_22341.txt"
+    ]
+}

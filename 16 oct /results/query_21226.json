@@ -1,0 +1,10 @@
+{
+    "query": "In the article from August/September 1998, what song did Michael Montgomery and Tim McGraw perform together?",
+    "response": [
+        "doc_12252.txt",
+        "doc_9459.txt",
+        "doc_9470.txt",
+        "doc_11427.txt",
+        "doc_3471.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the first season of \u201cThe Simpsons\u201d episode \u201cKrusty Gets Busted\u201d originally broadcast on?",
+    "response": [
+        "doc_12732.txt",
+        "doc_12733.txt",
+        "doc_17776.txt",
+        "doc_19703.txt",
+        "doc_19704.txt"
+    ]
+}

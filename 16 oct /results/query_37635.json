@@ -1,0 +1,10 @@
+{
+    "query": "What type of measures did the Commission suggest for Portugal to address its fiscal target?",
+    "response": [
+        "doc_22063.txt",
+        "doc_22065.txt",
+        "doc_16816.txt",
+        "doc_15136.txt",
+        "doc_6429.txt"
+    ]
+}

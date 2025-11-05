@@ -1,0 +1,10 @@
+{
+    "query": "What specific human rights article is the Anti-Conversion Bill said to violate?",
+    "response": [
+        "doc_13153.txt",
+        "doc_4734.txt",
+        "doc_20930.txt",
+        "doc_22363.txt",
+        "doc_3092.txt"
+    ]
+}

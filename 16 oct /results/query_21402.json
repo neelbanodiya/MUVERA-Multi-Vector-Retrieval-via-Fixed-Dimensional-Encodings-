@@ -1,0 +1,10 @@
+{
+    "query": "What was the last occasion Congress declared war on any country?",
+    "response": [
+        "doc_12345.txt",
+        "doc_1627.txt",
+        "doc_19845.txt",
+        "doc_19844.txt",
+        "doc_18986.txt"
+    ]
+}

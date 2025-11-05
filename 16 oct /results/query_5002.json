@@ -1,0 +1,10 @@
+{
+    "query": "What Roman numeral is found around the border of the note?",
+    "response": [
+        "doc_14582.txt",
+        "doc_13406.txt",
+        "doc_14583.txt",
+        "doc_14593.txt",
+        "doc_7641.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which record labels, besides The End Records, promote avant-garde metal?",
+    "response": [
+        "doc_19460.txt",
+        "doc_10077.txt",
+        "doc_10078.txt",
+        "doc_8469.txt",
+        "doc_18879.txt"
+    ]
+}

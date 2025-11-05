@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of the vote did Thomas receive in Cleveland?",
+    "response": [
+        "doc_23156.txt",
+        "doc_23155.txt",
+        "doc_2476.txt",
+        "doc_3811.txt",
+        "doc_2774.txt"
+    ]
+}

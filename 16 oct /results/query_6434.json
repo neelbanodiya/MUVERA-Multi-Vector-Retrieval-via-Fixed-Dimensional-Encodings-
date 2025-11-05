@@ -1,0 +1,10 @@
+{
+    "query": "What fictional town is the story \u201cThe Fog\u201d set in?",
+    "response": [
+        "doc_23796.txt",
+        "doc_1980.txt",
+        "doc_11487.txt",
+        "doc_3543.txt",
+        "doc_1984.txt"
+    ]
+}

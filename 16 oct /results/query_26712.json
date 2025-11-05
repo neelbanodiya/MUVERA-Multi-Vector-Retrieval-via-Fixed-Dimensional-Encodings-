@@ -1,0 +1,10 @@
+{
+    "query": "How many sports were represented by Team USA at the 2014 U.S. Olympic Team?",
+    "response": [
+        "doc_15509.txt",
+        "doc_15519.txt",
+        "doc_15518.txt",
+        "doc_15520.txt",
+        "doc_13774.txt"
+    ]
+}

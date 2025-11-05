@@ -1,0 +1,10 @@
+{
+    "query": "Which NHL team selected Thornton as the first overall pick in 1997?",
+    "response": [
+        "doc_21628.txt",
+        "doc_1996.txt",
+        "doc_1990.txt",
+        "doc_2002.txt",
+        "doc_21627.txt"
+    ]
+}

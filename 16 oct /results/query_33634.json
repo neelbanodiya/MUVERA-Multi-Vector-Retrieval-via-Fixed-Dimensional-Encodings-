@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many years had passed since Arthur\u2019s death in the story involving Merlin?",
+    "response": [
+        "doc_22256.txt",
+        "doc_20260.txt",
+        "doc_22255.txt",
+        "doc_22257.txt",
+        "doc_16326.txt"
+    ]
+}

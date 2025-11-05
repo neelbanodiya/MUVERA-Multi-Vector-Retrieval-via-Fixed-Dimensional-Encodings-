@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is the approximate tidal range at the estuary of the River Severn?",
+    "response": [
+        "doc_3444.txt",
+        "doc_3268.txt",
+        "doc_14023.txt",
+        "doc_22218.txt",
+        "doc_5721.txt"
+    ]
+}

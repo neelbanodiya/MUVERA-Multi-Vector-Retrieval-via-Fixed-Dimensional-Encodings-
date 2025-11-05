@@ -1,0 +1,10 @@
+{
+    "query": "Who commissioned the Taj Mahal, and in what year did construction begin?",
+    "response": [
+        "doc_3994.txt",
+        "doc_3992.txt",
+        "doc_3991.txt",
+        "doc_3990.txt",
+        "doc_19971.txt"
+    ]
+}

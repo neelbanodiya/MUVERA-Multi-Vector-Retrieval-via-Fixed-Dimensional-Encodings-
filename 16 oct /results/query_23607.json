@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is a notable challenge associated with crossing Lake Erie?",
+    "response": [
+        "doc_1638.txt",
+        "doc_4302.txt",
+        "doc_18420.txt",
+        "doc_20940.txt",
+        "doc_1635.txt"
+    ]
+}

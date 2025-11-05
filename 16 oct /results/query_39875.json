@@ -1,0 +1,10 @@
+{
+    "query": "What treaty was signed in Moscow between the United States and the Soviet Union, and when did it expire?",
+    "response": [
+        "doc_16787.txt",
+        "doc_18357.txt",
+        "doc_19244.txt",
+        "doc_19243.txt",
+        "doc_17781.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is Black Pete\u2019s role?",
+    "response": [
+        "doc_1479.txt",
+        "doc_21379.txt",
+        "doc_2420.txt",
+        "doc_4274.txt",
+        "doc_15277.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what percentage of additional staffing needs for new tasks is intended to be covered through internal redeployment by the Agency?",
+    "response": [
+        "doc_23652.txt",
+        "doc_23615.txt",
+        "doc_8133.txt",
+        "doc_8134.txt",
+        "doc_23614.txt"
+    ]
+}

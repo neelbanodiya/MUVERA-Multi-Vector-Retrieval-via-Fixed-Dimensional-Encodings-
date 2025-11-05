@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what practice is central to the Unification Church?",
+    "response": [
+        "doc_2460.txt",
+        "doc_2466.txt",
+        "doc_2464.txt",
+        "doc_5034.txt",
+        "doc_12131.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the original body style of the Chevrolet Suburban when it was first introduced in 1935?",
+    "response": [
+        "doc_17149.txt",
+        "doc_17151.txt",
+        "doc_17162.txt",
+        "doc_17161.txt",
+        "doc_17158.txt"
+    ]
+}

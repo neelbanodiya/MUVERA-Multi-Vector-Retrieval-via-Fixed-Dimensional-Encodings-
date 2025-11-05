@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Frank Capra win his first Oscar, and for which film?",
+    "response": [
+        "doc_23279.txt",
+        "doc_23292.txt",
+        "doc_23277.txt",
+        "doc_16172.txt",
+        "doc_23278.txt"
+    ]
+}

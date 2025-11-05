@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how much paper is used each year by the Commission (including in various publications)?",
+    "response": [
+        "doc_8768.txt",
+        "doc_23919.txt",
+        "doc_20126.txt",
+        "doc_11437.txt",
+        "doc_9693.txt"
+    ]
+}

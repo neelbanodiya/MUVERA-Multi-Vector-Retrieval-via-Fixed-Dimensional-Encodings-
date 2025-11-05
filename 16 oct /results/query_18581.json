@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate thickness of gold leaf created by the Egyptians in 1200 B.C.?",
+    "response": [
+        "doc_22412.txt",
+        "doc_8351.txt",
+        "doc_22400.txt",
+        "doc_7211.txt",
+        "doc_5799.txt"
+    ]
+}

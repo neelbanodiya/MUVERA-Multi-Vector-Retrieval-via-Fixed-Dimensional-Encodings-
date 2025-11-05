@@ -1,0 +1,10 @@
+{
+    "query": "What year was Gallaudet University authorized by the Education of the Deaf Act of 1986?",
+    "response": [
+        "doc_10309.txt",
+        "doc_10310.txt",
+        "doc_10313.txt",
+        "doc_10312.txt",
+        "doc_135.txt"
+    ]
+}

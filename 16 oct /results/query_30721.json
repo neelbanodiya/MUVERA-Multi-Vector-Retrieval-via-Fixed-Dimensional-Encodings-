@@ -1,0 +1,10 @@
+{
+    "query": "What was the ratio of Asians to whites in the class of 2019, as mentioned in one of the linked articles?",
+    "response": [
+        "doc_12890.txt",
+        "doc_21972.txt",
+        "doc_12884.txt",
+        "doc_4250.txt",
+        "doc_23152.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What action is the European Parliament calling for the Commission and the Council to undertake, based on the \u2018blue pass\u2019 example?",
+    "response": [
+        "doc_9144.txt",
+        "doc_20690.txt",
+        "doc_17391.txt",
+        "doc_17390.txt",
+        "doc_3243.txt"
+    ]
+}

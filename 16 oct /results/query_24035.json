@@ -1,0 +1,10 @@
+{
+    "query": "What was Don Rickles\u2019 military service?",
+    "response": [
+        "doc_13934.txt",
+        "doc_10448.txt",
+        "doc_4577.txt",
+        "doc_18898.txt",
+        "doc_4656.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Approximately what percentage of popcorn production in the U.S. takes place in the Midwest?",
+    "response": [
+        "doc_23977.txt",
+        "doc_23979.txt",
+        "doc_23990.txt",
+        "doc_23983.txt",
+        "doc_23984.txt"
+    ]
+}

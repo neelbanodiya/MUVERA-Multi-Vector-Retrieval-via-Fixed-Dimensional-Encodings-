@@ -1,0 +1,10 @@
+{
+    "query": "Does the passage suggest that a vehicle inspection performed in Greece or another Member State is invalid if the vehicle is registered in Belgium?",
+    "response": [
+        "doc_13952.txt",
+        "doc_10226.txt",
+        "doc_10989.txt",
+        "doc_19459.txt",
+        "doc_24002.txt"
+    ]
+}

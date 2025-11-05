@@ -1,0 +1,10 @@
+{
+    "query": "Which song, written by Gerry Goffin and Carole King, was the subject of the Broadway musical \u201cBeautiful\u201d?",
+    "response": [
+        "doc_11429.txt",
+        "doc_11417.txt",
+        "doc_11427.txt",
+        "doc_11419.txt",
+        "doc_11434.txt"
+    ]
+}

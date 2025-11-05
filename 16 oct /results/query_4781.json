@@ -1,0 +1,10 @@
+{
+    "query": "Which political party experienced a decline in following after the 1860 presidential election, particularly in Philadelphia and Lancaster?",
+    "response": [
+        "doc_3807.txt",
+        "doc_2774.txt",
+        "doc_2761.txt",
+        "doc_16805.txt",
+        "doc_23154.txt"
+    ]
+}

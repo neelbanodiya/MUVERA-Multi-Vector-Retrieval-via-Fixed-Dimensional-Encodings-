@@ -1,0 +1,10 @@
+{
+    "query": "According to legend, what were the expected activities of members of the Know Nothing organization?",
+    "response": [
+        "doc_15104.txt",
+        "doc_23357.txt",
+        "doc_4797.txt",
+        "doc_15773.txt",
+        "doc_16070.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the Council\u2019s position regarding the situation in Cyprus?",
+    "response": [
+        "doc_6140.txt",
+        "doc_16105.txt",
+        "doc_7265.txt",
+        "doc_13211.txt",
+        "doc_16748.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "By what date will the Commission submit a report to the European Parliament and the Council regarding the Framework Decision?",
+    "response": [
+        "doc_21025.txt",
+        "doc_21011.txt",
+        "doc_6173.txt",
+        "doc_23644.txt",
+        "doc_13349.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was the reason given by an angry mob for the actions of Jesus\u2019 followers?",
+    "response": [
+        "doc_5041.txt",
+        "doc_9686.txt",
+        "doc_21756.txt",
+        "doc_9445.txt",
+        "doc_5036.txt"
+    ]
+}

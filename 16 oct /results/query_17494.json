@@ -1,0 +1,10 @@
+{
+    "query": "In what years did the current threat resemble that of many capital cities in Europe?",
+    "response": [
+        "doc_5560.txt",
+        "doc_10452.txt",
+        "doc_16485.txt",
+        "doc_8361.txt",
+        "doc_10828.txt"
+    ]
+}

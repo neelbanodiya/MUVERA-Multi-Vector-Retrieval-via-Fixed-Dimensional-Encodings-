@@ -1,0 +1,10 @@
+{
+    "query": "What type of food is served at restaurants near Ulup\u0131nar?",
+    "response": [
+        "doc_15787.txt",
+        "doc_15785.txt",
+        "doc_15786.txt",
+        "doc_7092.txt",
+        "doc_4892.txt"
+    ]
+}

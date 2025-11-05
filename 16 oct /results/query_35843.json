@@ -1,0 +1,10 @@
+{
+    "query": "Which band did Eric Clapton form with Bobby Whitlock, Carl Radle, and Jim Gordon?",
+    "response": [
+        "doc_20895.txt",
+        "doc_20898.txt",
+        "doc_20901.txt",
+        "doc_20896.txt",
+        "doc_20897.txt"
+    ]
+}

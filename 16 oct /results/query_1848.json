@@ -1,0 +1,10 @@
+{
+    "query": "How many acres did the purchases in Illinois total?",
+    "response": [
+        "doc_1061.txt",
+        "doc_7499.txt",
+        "doc_18420.txt",
+        "doc_22231.txt",
+        "doc_7431.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the initial premise of the original script for *Pretty Woman*, involving a Los Angeles hooker and a businessman?",
+    "response": [
+        "doc_22843.txt",
+        "doc_20412.txt",
+        "doc_7181.txt",
+        "doc_3543.txt",
+        "doc_23363.txt"
+    ]
+}

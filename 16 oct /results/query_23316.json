@@ -1,0 +1,10 @@
+{
+    "query": "What was the role of the speaker in the Marine Corps?",
+    "response": [
+        "doc_16647.txt",
+        "doc_2420.txt",
+        "doc_13332.txt",
+        "doc_5371.txt",
+        "doc_20608.txt"
+    ]
+}

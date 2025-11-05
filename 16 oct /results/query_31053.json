@@ -1,0 +1,10 @@
+{
+    "query": "Which television series did Trey Parker and Matt Stone list \u201cMake Love, Not Warcraft\u201d as their third favorite episode of?",
+    "response": [
+        "doc_19273.txt",
+        "doc_12639.txt",
+        "doc_2264.txt",
+        "doc_493.txt",
+        "doc_19272.txt"
+    ]
+}

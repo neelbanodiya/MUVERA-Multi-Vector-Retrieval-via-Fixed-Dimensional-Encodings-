@@ -1,0 +1,10 @@
+{
+    "query": "What was Paul Daniels\u2019 profession, according to the article about his death?",
+    "response": [
+        "doc_12227.txt",
+        "doc_16615.txt",
+        "doc_3077.txt",
+        "doc_1941.txt",
+        "doc_18607.txt"
+    ]
+}

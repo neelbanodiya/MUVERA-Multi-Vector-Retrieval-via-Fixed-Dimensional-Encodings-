@@ -1,0 +1,10 @@
+{
+    "query": "When was The Who formed?",
+    "response": [
+        "doc_18621.txt",
+        "doc_23440.txt",
+        "doc_19982.txt",
+        "doc_5841.txt",
+        "doc_9294.txt"
+    ]
+}

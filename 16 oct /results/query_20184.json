@@ -1,0 +1,10 @@
+{
+    "query": "What event occurred in 64 A.D. involving Rome?",
+    "response": [
+        "doc_20843.txt",
+        "doc_23357.txt",
+        "doc_20298.txt",
+        "doc_8113.txt",
+        "doc_14401.txt"
+    ]
+}

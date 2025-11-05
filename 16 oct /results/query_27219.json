@@ -1,0 +1,10 @@
+{
+    "query": "What type of plant was Margot growing in during the fire, and where was it located?",
+    "response": [
+        "doc_7347.txt",
+        "doc_7346.txt",
+        "doc_20875.txt",
+        "doc_7341.txt",
+        "doc_4233.txt"
+    ]
+}

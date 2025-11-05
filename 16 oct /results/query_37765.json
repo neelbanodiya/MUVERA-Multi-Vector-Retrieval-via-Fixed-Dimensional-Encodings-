@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what did the Nazis make Jewish people wear?",
+    "response": [
+        "doc_21599.txt",
+        "doc_21598.txt",
+        "doc_1082.txt",
+        "doc_1088.txt",
+        "doc_1085.txt"
+    ]
+}

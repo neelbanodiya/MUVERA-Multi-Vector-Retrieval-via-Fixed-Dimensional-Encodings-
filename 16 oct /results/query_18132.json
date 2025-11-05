@@ -1,0 +1,10 @@
+{
+    "query": "Which Virginia counties are listed in the text that are northwest of I-81?",
+    "response": [
+        "doc_10504.txt",
+        "doc_10505.txt",
+        "doc_10506.txt",
+        "doc_24077.txt",
+        "doc_14859.txt"
+    ]
+}

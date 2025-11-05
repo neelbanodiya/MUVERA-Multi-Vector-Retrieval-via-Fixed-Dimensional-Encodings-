@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what kind of fame is likened to Mick Jagger\u2019s?",
+    "response": [
+        "doc_4939.txt",
+        "doc_1986.txt",
+        "doc_5323.txt",
+        "doc_21605.txt",
+        "doc_3820.txt"
+    ]
+}

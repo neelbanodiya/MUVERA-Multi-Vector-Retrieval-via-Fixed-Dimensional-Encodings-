@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what novel was inspired by a line from Shakespeare\u2019s *Richard III*?",
+    "response": [
+        "doc_19420.txt",
+        "doc_19422.txt",
+        "doc_19419.txt",
+        "doc_19425.txt",
+        "doc_19430.txt"
+    ]
+}

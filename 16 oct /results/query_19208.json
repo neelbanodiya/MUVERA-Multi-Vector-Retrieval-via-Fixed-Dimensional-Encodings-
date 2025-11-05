@@ -1,0 +1,10 @@
+{
+    "query": "Which band did Jimmy Page play guitar on for The Who\u2019s hit song \u201cI Can\u2019t Explain\u201d?",
+    "response": [
+        "doc_11122.txt",
+        "doc_11123.txt",
+        "doc_11130.txt",
+        "doc_11135.txt",
+        "doc_11132.txt"
+    ]
+}

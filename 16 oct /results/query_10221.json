@@ -1,0 +1,10 @@
+{
+    "query": "Which U.S. Presidents are commemorated on Eisenhower dollar coins?",
+    "response": [
+        "doc_5911.txt",
+        "doc_5927.txt",
+        "doc_5928.txt",
+        "doc_5921.txt",
+        "doc_5912.txt"
+    ]
+}

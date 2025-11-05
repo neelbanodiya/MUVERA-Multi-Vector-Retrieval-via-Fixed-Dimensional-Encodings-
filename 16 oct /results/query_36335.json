@@ -1,0 +1,10 @@
+{
+    "query": "Which political party dominated twentieth-century politics in Mexico, according to one of the documents?",
+    "response": [
+        "doc_21181.txt",
+        "doc_21180.txt",
+        "doc_21190.txt",
+        "doc_16809.txt",
+        "doc_21183.txt"
+    ]
+}

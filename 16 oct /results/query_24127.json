@@ -1,0 +1,10 @@
+{
+    "query": "What story did Edgar Allan Poe write that prominently featured ciphers?",
+    "response": [
+        "doc_14006.txt",
+        "doc_14011.txt",
+        "doc_14008.txt",
+        "doc_14007.txt",
+        "doc_14004.txt"
+    ]
+}

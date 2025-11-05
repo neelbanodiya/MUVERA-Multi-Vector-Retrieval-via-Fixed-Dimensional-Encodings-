@@ -1,0 +1,10 @@
+{
+    "query": "What was the original title of *Pride and Prejudice*?",
+    "response": [
+        "doc_2324.txt",
+        "doc_11297.txt",
+        "doc_1533.txt",
+        "doc_2467.txt",
+        "doc_8400.txt"
+    ]
+}

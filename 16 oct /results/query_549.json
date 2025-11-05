@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what does the word \u201copera\u201d mean in Latin?",
+    "response": [
+        "doc_329.txt",
+        "doc_321.txt",
+        "doc_333.txt",
+        "doc_323.txt",
+        "doc_5848.txt"
+    ]
+}

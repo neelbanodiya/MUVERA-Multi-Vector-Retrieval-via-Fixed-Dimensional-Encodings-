@@ -1,0 +1,10 @@
+{
+    "query": "What type of book was \u201cJurassic Park\u201d re-published as in 1997?",
+    "response": [
+        "doc_8692.txt",
+        "doc_8694.txt",
+        "doc_12873.txt",
+        "doc_12872.txt",
+        "doc_12869.txt"
+    ]
+}

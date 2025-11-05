@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Nureyev after he arrived in the West?",
+    "response": [
+        "doc_9902.txt",
+        "doc_9900.txt",
+        "doc_9898.txt",
+        "doc_9904.txt",
+        "doc_9901.txt"
+    ]
+}

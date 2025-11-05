@@ -1,0 +1,10 @@
+{
+    "query": "During which year did Amelia Earhart attempt her second and fatal flight?",
+    "response": [
+        "doc_5784.txt",
+        "doc_5783.txt",
+        "doc_5789.txt",
+        "doc_5778.txt",
+        "doc_5790.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who is Amphitrite?",
+    "response": [
+        "doc_10875.txt",
+        "doc_21293.txt",
+        "doc_349.txt",
+        "doc_4764.txt",
+        "doc_16631.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what happened to the third of the angels who followed Satan?",
+    "response": [
+        "doc_20630.txt",
+        "doc_20645.txt",
+        "doc_14526.txt",
+        "doc_14537.txt",
+        "doc_9127.txt"
+    ]
+}

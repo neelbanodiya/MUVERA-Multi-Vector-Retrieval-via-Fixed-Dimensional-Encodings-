@@ -1,0 +1,10 @@
+{
+    "query": "What play did Bergman develop the film \u201cThe Seventh Seal\u201d from?",
+    "response": [
+        "doc_7687.txt",
+        "doc_7681.txt",
+        "doc_7676.txt",
+        "doc_7690.txt",
+        "doc_7691.txt"
+    ]
+}

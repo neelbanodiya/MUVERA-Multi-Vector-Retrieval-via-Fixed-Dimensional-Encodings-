@@ -1,0 +1,10 @@
+{
+    "query": "When and where was the first Playboy Club located?",
+    "response": [
+        "doc_5490.txt",
+        "doc_4515.txt",
+        "doc_14307.txt",
+        "doc_10558.txt",
+        "doc_8343.txt"
+    ]
+}

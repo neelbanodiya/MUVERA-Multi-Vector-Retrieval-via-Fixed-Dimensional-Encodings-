@@ -1,0 +1,10 @@
+{
+    "query": "What was Isaac Newton known for building, besides reflecting telescopes?",
+    "response": [
+        "doc_11876.txt",
+        "doc_11884.txt",
+        "doc_11877.txt",
+        "doc_11882.txt",
+        "doc_11883.txt"
+    ]
+}

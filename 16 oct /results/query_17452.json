@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is a key aspect of an artist\u2019s work, as exemplified by the reference to Pablo Picasso?",
+    "response": [
+        "doc_7648.txt",
+        "doc_22070.txt",
+        "doc_11787.txt",
+        "doc_11783.txt",
+        "doc_21242.txt"
+    ]
+}

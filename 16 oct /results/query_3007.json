@@ -1,0 +1,10 @@
+{
+    "query": "Who did Roger Federer lose to in the second round of the 2013 Wimbledon Championships?",
+    "response": [
+        "doc_11440.txt",
+        "doc_1830.txt",
+        "doc_1233.txt",
+        "doc_15160.txt",
+        "doc_11462.txt"
+    ]
+}

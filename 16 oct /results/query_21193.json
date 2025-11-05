@@ -1,0 +1,10 @@
+{
+    "query": "What nickname was Al Capone given, and did he dislike it?",
+    "response": [
+        "doc_12240.txt",
+        "doc_12235.txt",
+        "doc_12238.txt",
+        "doc_12233.txt",
+        "doc_12245.txt"
+    ]
+}

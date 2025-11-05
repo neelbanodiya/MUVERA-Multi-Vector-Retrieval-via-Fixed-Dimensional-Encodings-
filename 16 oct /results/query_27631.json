@@ -1,0 +1,10 @@
+{
+    "query": "Which President Lincoln instructed McClellan regarding the supreme command of the Army?",
+    "response": [
+        "doc_7058.txt",
+        "doc_3849.txt",
+        "doc_18391.txt",
+        "doc_18399.txt",
+        "doc_22458.txt"
+    ]
+}

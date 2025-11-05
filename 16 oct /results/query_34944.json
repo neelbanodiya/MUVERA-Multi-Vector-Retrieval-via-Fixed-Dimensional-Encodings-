@@ -1,0 +1,10 @@
+{
+    "query": "What happened to the Jewish religious buildings in Vilnius, Lithuania?",
+    "response": [
+        "doc_20393.txt",
+        "doc_23679.txt",
+        "doc_19756.txt",
+        "doc_1277.txt",
+        "doc_11988.txt"
+    ]
+}

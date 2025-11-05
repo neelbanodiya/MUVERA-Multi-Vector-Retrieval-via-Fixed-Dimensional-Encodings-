@@ -1,0 +1,10 @@
+{
+    "query": "Who voiced the character Kent Brockman in \u201cThe Simpsons\u201d?",
+    "response": [
+        "doc_12732.txt",
+        "doc_6682.txt",
+        "doc_9274.txt",
+        "doc_19014.txt",
+        "doc_12734.txt"
+    ]
+}

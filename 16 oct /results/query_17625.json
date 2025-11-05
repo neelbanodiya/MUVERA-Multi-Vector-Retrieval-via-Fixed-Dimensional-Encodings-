@@ -1,0 +1,10 @@
+{
+    "query": "What biblical story does the Beastie Boys song \u201cShadrach\u201d reference?",
+    "response": [
+        "doc_22491.txt",
+        "doc_10203.txt",
+        "doc_13104.txt",
+        "doc_1982.txt",
+        "doc_1811.txt"
+    ]
+}

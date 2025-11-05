@@ -1,0 +1,10 @@
+{
+    "query": "What types of natural hazards are associated with Houghton Lake?",
+    "response": [
+        "doc_16444.txt",
+        "doc_16253.txt",
+        "doc_15800.txt",
+        "doc_1635.txt",
+        "doc_12070.txt"
+    ]
+}

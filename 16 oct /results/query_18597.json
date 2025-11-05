@@ -1,0 +1,10 @@
+{
+    "query": "Which entities are exempt from notification requirements according to Article 88(3) of the Treaty?",
+    "response": [
+        "doc_10800.txt",
+        "doc_10795.txt",
+        "doc_10799.txt",
+        "doc_21813.txt",
+        "doc_10791.txt"
+    ]
+}

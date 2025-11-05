@@ -1,0 +1,10 @@
+{
+    "query": "Which hotels are mentioned in connection with tours to Muir Woods and Sausalito?",
+    "response": [
+        "doc_17811.txt",
+        "doc_17814.txt",
+        "doc_17809.txt",
+        "doc_17816.txt",
+        "doc_17807.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What town is associated with the production of Pendleton blankets?",
+    "response": [
+        "doc_7406.txt",
+        "doc_666.txt",
+        "doc_662.txt",
+        "doc_674.txt",
+        "doc_675.txt"
+    ]
+}

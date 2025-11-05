@@ -1,0 +1,10 @@
+{
+    "query": "What happened to the cable cars in San Francisco, as mentioned in the passage?",
+    "response": [
+        "doc_6886.txt",
+        "doc_23261.txt",
+        "doc_6901.txt",
+        "doc_6888.txt",
+        "doc_6887.txt"
+    ]
+}

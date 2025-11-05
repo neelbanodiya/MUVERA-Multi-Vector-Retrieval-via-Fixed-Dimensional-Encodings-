@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between Jack Aubrey and Stephen Maturin?",
+    "response": [
+        "doc_4654.txt",
+        "doc_9030.txt",
+        "doc_16872.txt",
+        "doc_12034.txt",
+        "doc_22248.txt"
+    ]
+}

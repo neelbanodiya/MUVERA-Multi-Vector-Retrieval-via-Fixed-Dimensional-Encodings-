@@ -1,0 +1,10 @@
+{
+    "query": "What agreement has the Castro government maintained regarding a base?",
+    "response": [
+        "doc_1211.txt",
+        "doc_15817.txt",
+        "doc_13132.txt",
+        "doc_19246.txt",
+        "doc_22395.txt"
+    ]
+}

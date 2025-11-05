@@ -1,0 +1,10 @@
+{
+    "query": "What was the central slogan of the Communist Manifesto?",
+    "response": [
+        "doc_113.txt",
+        "doc_110.txt",
+        "doc_112.txt",
+        "doc_109.txt",
+        "doc_120.txt"
+    ]
+}

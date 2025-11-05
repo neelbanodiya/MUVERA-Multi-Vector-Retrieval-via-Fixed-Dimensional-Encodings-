@@ -1,0 +1,10 @@
+{
+    "query": "What materials were used in the construction of the Crystal Palace?",
+    "response": [
+        "doc_14407.txt",
+        "doc_14414.txt",
+        "doc_18498.txt",
+        "doc_10787.txt",
+        "doc_8640.txt"
+    ]
+}

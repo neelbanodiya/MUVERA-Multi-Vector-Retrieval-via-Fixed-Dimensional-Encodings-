@@ -1,0 +1,10 @@
+{
+    "query": "The article \u201cAmerican Wartime Indifference to the Plight of the European Jews\u201d discusses a historical myth, what was that myth?",
+    "response": [
+        "doc_20458.txt",
+        "doc_21714.txt",
+        "doc_11990.txt",
+        "doc_2897.txt",
+        "doc_11457.txt"
+    ]
+}

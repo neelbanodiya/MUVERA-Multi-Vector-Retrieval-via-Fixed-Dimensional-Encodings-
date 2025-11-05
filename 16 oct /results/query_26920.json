@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what are the three functions of the Muses in Balanchine\u2019s ballet *Apollo*?",
+    "response": [
+        "doc_15650.txt",
+        "doc_15651.txt",
+        "doc_15649.txt",
+        "doc_15656.txt",
+        "doc_15664.txt"
+    ]
+}

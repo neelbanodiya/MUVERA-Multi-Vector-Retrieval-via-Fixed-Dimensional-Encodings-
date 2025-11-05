@@ -1,0 +1,10 @@
+{
+    "query": "Which country was Karl Kaufmann an architect and landscape painter from, and what decade did he primarily work in?",
+    "response": [
+        "doc_10759.txt",
+        "doc_11581.txt",
+        "doc_16106.txt",
+        "doc_10761.txt",
+        "doc_10192.txt"
+    ]
+}

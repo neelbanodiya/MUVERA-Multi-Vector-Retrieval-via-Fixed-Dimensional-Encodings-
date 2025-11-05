@@ -1,0 +1,10 @@
+{
+    "query": "What type of game is Drakengard 3, and on what console was it released?",
+    "response": [
+        "doc_10865.txt",
+        "doc_2925.txt",
+        "doc_7654.txt",
+        "doc_10862.txt",
+        "doc_10292.txt"
+    ]
+}

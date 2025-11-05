@@ -1,0 +1,10 @@
+{
+    "query": "What principle of physics is illustrated by the description of forces canceling each other out on a webpage related to NASA?",
+    "response": [
+        "doc_13982.txt",
+        "doc_23950.txt",
+        "doc_2868.txt",
+        "doc_21670.txt",
+        "doc_1680.txt"
+    ]
+}

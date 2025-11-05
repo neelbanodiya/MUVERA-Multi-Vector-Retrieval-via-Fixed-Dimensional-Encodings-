@@ -1,0 +1,10 @@
+{
+    "query": "What historical period is referenced in the passage regarding the acquisition of illuminated manuscripts and their connection to Western European and Byzantine art?",
+    "response": [
+        "doc_20390.txt",
+        "doc_8505.txt",
+        "doc_20387.txt",
+        "doc_1310.txt",
+        "doc_20393.txt"
+    ]
+}

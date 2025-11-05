@@ -1,0 +1,10 @@
+{
+    "query": "Which actors starred in the 1974 Broadway production of *Mack & Mabel*?",
+    "response": [
+        "doc_7024.txt",
+        "doc_7020.txt",
+        "doc_7021.txt",
+        "doc_7023.txt",
+        "doc_7022.txt"
+    ]
+}

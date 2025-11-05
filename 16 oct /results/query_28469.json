@@ -1,0 +1,10 @@
+{
+    "query": "Besides the Tennessee Valley Railroad Museum, what other attraction is mentioned in the Chattanooga area?",
+    "response": [
+        "doc_16577.txt",
+        "doc_16584.txt",
+        "doc_16585.txt",
+        "doc_16580.txt",
+        "doc_16587.txt"
+    ]
+}

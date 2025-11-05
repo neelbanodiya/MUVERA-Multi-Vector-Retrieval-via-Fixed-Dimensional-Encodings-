@@ -1,0 +1,10 @@
+{
+    "query": "What was the initial year of production for \"Jaane Jaan,\" despite its release in 1983?",
+    "response": [
+        "doc_14685.txt",
+        "doc_5318.txt",
+        "doc_1560.txt",
+        "doc_9892.txt",
+        "doc_6926.txt"
+    ]
+}

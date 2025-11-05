@@ -1,0 +1,10 @@
+{
+    "query": "What album by The Beatles did Sean Lennon celebrate the 50th anniversary of?",
+    "response": [
+        "doc_5127.txt",
+        "doc_6337.txt",
+        "doc_21147.txt",
+        "doc_6335.txt",
+        "doc_6336.txt"
+    ]
+}

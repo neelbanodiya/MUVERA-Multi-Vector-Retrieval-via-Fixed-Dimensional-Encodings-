@@ -1,0 +1,10 @@
+{
+    "query": "Who directed \u201cFriend Request Pending\u201d?",
+    "response": [
+        "doc_6403.txt",
+        "doc_2231.txt",
+        "doc_5839.txt",
+        "doc_3517.txt",
+        "doc_3016.txt"
+    ]
+}

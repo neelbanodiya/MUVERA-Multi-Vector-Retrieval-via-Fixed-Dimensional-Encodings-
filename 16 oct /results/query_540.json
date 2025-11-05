@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the opera that Mascagni considered his most popular?",
+    "response": [
+        "doc_332.txt",
+        "doc_15392.txt",
+        "doc_328.txt",
+        "doc_320.txt",
+        "doc_330.txt"
+    ]
+}

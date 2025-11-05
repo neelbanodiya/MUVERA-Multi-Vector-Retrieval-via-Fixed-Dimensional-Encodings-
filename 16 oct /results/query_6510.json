@@ -1,0 +1,10 @@
+{
+    "query": "On what date did the United States declare war on Mexico?",
+    "response": [
+        "doc_3758.txt",
+        "doc_3759.txt",
+        "doc_3751.txt",
+        "doc_3767.txt",
+        "doc_3754.txt"
+    ]
+}

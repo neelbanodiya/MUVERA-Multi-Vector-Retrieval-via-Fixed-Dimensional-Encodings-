@@ -1,0 +1,10 @@
+{
+    "query": "Which of the following poems is mentioned in the passage: \u201cBirches,\u201d \u201cStopping by Woods,\u201d or \u201cDust of Snow\u201d?",
+    "response": [
+        "doc_6548.txt",
+        "doc_6547.txt",
+        "doc_6549.txt",
+        "doc_6551.txt",
+        "doc_6550.txt"
+    ]
+}

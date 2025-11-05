@@ -1,0 +1,10 @@
+{
+    "query": "What film is associated with Ronald Reagan\u2019s line, \u201cWhere\u2019s the rest of me?\u201d",
+    "response": [
+        "doc_18597.txt",
+        "doc_18593.txt",
+        "doc_6926.txt",
+        "doc_18762.txt",
+        "doc_7767.txt"
+    ]
+}

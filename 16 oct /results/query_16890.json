@@ -1,0 +1,10 @@
+{
+    "query": "According to the information available, in what year was the James Bond novel \u201cGoldfinger\u201d first published?",
+    "response": [
+        "doc_9791.txt",
+        "doc_9792.txt",
+        "doc_9786.txt",
+        "doc_9793.txt",
+        "doc_9794.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What items decorate the shield featuring Oklahoma symbols?",
+    "response": [
+        "doc_7895.txt",
+        "doc_7904.txt",
+        "doc_7890.txt",
+        "doc_7897.txt",
+        "doc_7903.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the author\u2019s earlier work mentioned in relation to *Robinson Crusoe*?",
+    "response": [
+        "doc_17753.txt",
+        "doc_17755.txt",
+        "doc_17763.txt",
+        "doc_17762.txt",
+        "doc_18452.txt"
+    ]
+}

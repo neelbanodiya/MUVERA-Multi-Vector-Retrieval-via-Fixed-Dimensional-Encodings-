@@ -1,0 +1,10 @@
+{
+    "query": "Approximately when did Switzerland begin its industrialization?",
+    "response": [
+        "doc_5167.txt",
+        "doc_7217.txt",
+        "doc_9107.txt",
+        "doc_8280.txt",
+        "doc_19473.txt"
+    ]
+}

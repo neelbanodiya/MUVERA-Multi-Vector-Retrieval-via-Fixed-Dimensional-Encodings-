@@ -1,0 +1,10 @@
+{
+    "query": "What is Buffalo, New York\u2019s location in relation to Lake Erie and the Niagara River?",
+    "response": [
+        "doc_11304.txt",
+        "doc_11303.txt",
+        "doc_1646.txt",
+        "doc_1647.txt",
+        "doc_11307.txt"
+    ]
+}

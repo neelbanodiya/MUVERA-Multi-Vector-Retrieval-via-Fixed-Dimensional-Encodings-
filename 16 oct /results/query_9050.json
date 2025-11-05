@@ -1,0 +1,10 @@
+{
+    "query": "Which actor appeared as Inspector Bryn Carson?",
+    "response": [
+        "doc_21899.txt",
+        "doc_4871.txt",
+        "doc_4475.txt",
+        "doc_15278.txt",
+        "doc_18954.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What role does Kristin Kreuk play in the television series *Smallville*?",
+    "response": [
+        "doc_496.txt",
+        "doc_499.txt",
+        "doc_497.txt",
+        "doc_493.txt",
+        "doc_498.txt"
+    ]
+}

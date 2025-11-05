@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote the book for *Mack & Mabel*?",
+    "response": [
+        "doc_7020.txt",
+        "doc_7023.txt",
+        "doc_7024.txt",
+        "doc_7026.txt",
+        "doc_7021.txt"
+    ]
+}

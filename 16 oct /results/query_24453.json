@@ -1,0 +1,10 @@
+{
+    "query": "Which coastline does the \u201cOasi Naturale di Vendicari\u201d lie along, and what is the approximate distance from Trapani to Cape Bon in Tunisia?",
+    "response": [
+        "doc_14192.txt",
+        "doc_14195.txt",
+        "doc_14209.txt",
+        "doc_14200.txt",
+        "doc_14191.txt"
+    ]
+}

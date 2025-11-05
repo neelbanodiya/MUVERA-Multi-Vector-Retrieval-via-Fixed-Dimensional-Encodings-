@@ -1,0 +1,10 @@
+{
+    "query": "According to the Court of Justice of the European Union, what conditions must be met for a restriction on fundamental freedoms, such as those related to quotas, to be justified?",
+    "response": [
+        "doc_6669.txt",
+        "doc_6475.txt",
+        "doc_21003.txt",
+        "doc_6653.txt",
+        "doc_21004.txt"
+    ]
+}

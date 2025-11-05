@@ -1,0 +1,10 @@
+{
+    "query": "Which African country is currently the largest economy according to the provided links?",
+    "response": [
+        "doc_3283.txt",
+        "doc_3274.txt",
+        "doc_3281.txt",
+        "doc_3268.txt",
+        "doc_3273.txt"
+    ]
+}

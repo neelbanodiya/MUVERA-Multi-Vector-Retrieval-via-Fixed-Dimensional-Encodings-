@@ -1,0 +1,10 @@
+{
+    "query": "Who play the main characters, Jack Dawson and Rose DeWitt, in *Titanic*?",
+    "response": [
+        "doc_8488.txt",
+        "doc_8476.txt",
+        "doc_8480.txt",
+        "doc_8477.txt",
+        "doc_8482.txt"
+    ]
+}

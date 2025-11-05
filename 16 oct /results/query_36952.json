@@ -1,0 +1,10 @@
+{
+    "query": "What were the dimensions (length and width) of the Batskiboat manufactured for *Batman Returns*?",
+    "response": [
+        "doc_21620.txt",
+        "doc_21619.txt",
+        "doc_24107.txt",
+        "doc_16917.txt",
+        "doc_1698.txt"
+    ]
+}

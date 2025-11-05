@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, which artists\u2019 work influenced later painters like Corot?",
+    "response": [
+        "doc_10759.txt",
+        "doc_10763.txt",
+        "doc_22070.txt",
+        "doc_11787.txt",
+        "doc_11780.txt"
+    ]
+}

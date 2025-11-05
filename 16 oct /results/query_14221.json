@@ -1,0 +1,10 @@
+{
+    "query": "What letter was Sophocles known to use frequently in his plays?",
+    "response": [
+        "doc_8270.txt",
+        "doc_8262.txt",
+        "doc_8260.txt",
+        "doc_8268.txt",
+        "doc_8263.txt"
+    ]
+}

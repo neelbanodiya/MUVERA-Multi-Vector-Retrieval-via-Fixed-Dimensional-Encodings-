@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is \u201cThe Stephen King Universe\u201d primarily concerned with?",
+    "response": [
+        "doc_5041.txt",
+        "doc_13337.txt",
+        "doc_6618.txt",
+        "doc_4939.txt",
+        "doc_10253.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the restaurant in Heidelberg, Germany, referenced in the issuu article?",
+    "response": [
+        "doc_6188.txt",
+        "doc_8650.txt",
+        "doc_18082.txt",
+        "doc_21922.txt",
+        "doc_8927.txt"
+    ]
+}

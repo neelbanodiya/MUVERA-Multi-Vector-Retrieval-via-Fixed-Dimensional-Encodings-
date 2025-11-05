@@ -1,0 +1,10 @@
+{
+    "query": "What television role did Sheryl Gascoigne have?",
+    "response": [
+        "doc_4643.txt",
+        "doc_4007.txt",
+        "doc_5719.txt",
+        "doc_16925.txt",
+        "doc_19023.txt"
+    ]
+}

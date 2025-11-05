@@ -1,0 +1,10 @@
+{
+    "query": "What role does the EU play according to the provided documents?",
+    "response": [
+        "doc_14822.txt",
+        "doc_18524.txt",
+        "doc_14823.txt",
+        "doc_17353.txt",
+        "doc_4868.txt"
+    ]
+}

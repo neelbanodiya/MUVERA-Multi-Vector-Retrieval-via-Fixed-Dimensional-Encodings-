@@ -1,0 +1,10 @@
+{
+    "query": "What famous quote does Auntie Mame say?",
+    "response": [
+        "doc_15084.txt",
+        "doc_15083.txt",
+        "doc_15085.txt",
+        "doc_13885.txt",
+        "doc_9990.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which musical composer won an Academy Award for composing the score of \u201cThe Sting\u201d?",
+    "response": [
+        "doc_12358.txt",
+        "doc_12359.txt",
+        "doc_9831.txt",
+        "doc_7456.txt",
+        "doc_3838.txt"
+    ]
+}

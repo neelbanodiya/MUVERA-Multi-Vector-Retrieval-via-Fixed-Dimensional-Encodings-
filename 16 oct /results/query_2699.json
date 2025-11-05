@@ -1,0 +1,10 @@
+{
+    "query": "What is the maximum value of a single EIB loan that an SME can receive?",
+    "response": [
+        "doc_1620.txt",
+        "doc_15388.txt",
+        "doc_19723.txt",
+        "doc_22524.txt",
+        "doc_12152.txt"
+    ]
+}

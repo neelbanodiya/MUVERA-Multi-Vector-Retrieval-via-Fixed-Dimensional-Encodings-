@@ -1,0 +1,10 @@
+{
+    "query": "Which song released in 1997 was a significant hit within the British rave scene?",
+    "response": [
+        "doc_17726.txt",
+        "doc_17722.txt",
+        "doc_17731.txt",
+        "doc_901.txt",
+        "doc_17730.txt"
+    ]
+}

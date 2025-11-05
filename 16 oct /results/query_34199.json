@@ -1,0 +1,10 @@
+{
+    "query": "Which book, published in 1997, was listed as a bestseller according to the San Francisco Chronicle?",
+    "response": [
+        "doc_4654.txt",
+        "doc_15557.txt",
+        "doc_7862.txt",
+        "doc_3712.txt",
+        "doc_8694.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was Kyrgyzstan\u2019s constitution adopted?",
+    "response": [
+        "doc_19729.txt",
+        "doc_19726.txt",
+        "doc_19727.txt",
+        "doc_19730.txt",
+        "doc_19731.txt"
+    ]
+}

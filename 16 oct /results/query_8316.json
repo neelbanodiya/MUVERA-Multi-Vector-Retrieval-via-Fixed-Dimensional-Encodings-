@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what are some of the areas of research happening in Boston tech related to artificial intelligence, specifically involving robot cars?",
+    "response": [
+        "doc_4806.txt",
+        "doc_4808.txt",
+        "doc_4803.txt",
+        "doc_4807.txt",
+        "doc_4804.txt"
+    ]
+}

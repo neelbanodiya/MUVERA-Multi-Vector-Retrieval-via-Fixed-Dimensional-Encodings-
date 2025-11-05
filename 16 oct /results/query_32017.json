@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Roosters win the match played at Allianz Stadium in Sydney?",
+    "response": [
+        "doc_18657.txt",
+        "doc_18656.txt",
+        "doc_1901.txt",
+        "doc_2956.txt",
+        "doc_2957.txt"
+    ]
+}

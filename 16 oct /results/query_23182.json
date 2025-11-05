@@ -1,0 +1,10 @@
+{
+    "query": "According to Mr. McCreevy, what key information regarding performers\u2019 remuneration was missing from the Gowers Review?",
+    "response": [
+        "doc_13425.txt",
+        "doc_16735.txt",
+        "doc_1479.txt",
+        "doc_3988.txt",
+        "doc_20134.txt"
+    ]
+}

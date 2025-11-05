@@ -1,0 +1,10 @@
+{
+    "query": "Who was Kish, and what was he described as?",
+    "response": [
+        "doc_1236.txt",
+        "doc_1253.txt",
+        "doc_1249.txt",
+        "doc_1235.txt",
+        "doc_1247.txt"
+    ]
+}

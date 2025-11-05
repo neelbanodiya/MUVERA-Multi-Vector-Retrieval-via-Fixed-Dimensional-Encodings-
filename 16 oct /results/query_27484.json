@@ -1,0 +1,10 @@
+{
+    "query": "Which venue hosted the \u201cThriller in Manila\u201d fight featuring Mohamed Ali and Joe Frazier, and later hosted Daryl Peach\u2019s WPA World Nine-ball Championship victory?",
+    "response": [
+        "doc_15971.txt",
+        "doc_19242.txt",
+        "doc_15972.txt",
+        "doc_15973.txt",
+        "doc_11270.txt"
+    ]
+}

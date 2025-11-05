@@ -1,0 +1,10 @@
+{
+    "query": "How did Team USA win their game against the other team?",
+    "response": [
+        "doc_11351.txt",
+        "doc_11338.txt",
+        "doc_11349.txt",
+        "doc_11357.txt",
+        "doc_24227.txt"
+    ]
+}

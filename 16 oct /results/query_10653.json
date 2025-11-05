@@ -1,0 +1,10 @@
+{
+    "query": "What magazine was featured on the cover in September 1953 with the headline \u201cWhy Hollywood won\u2019t glamorize Negro girls\u201d?",
+    "response": [
+        "doc_6183.txt",
+        "doc_19458.txt",
+        "doc_19457.txt",
+        "doc_5490.txt",
+        "doc_21368.txt"
+    ]
+}

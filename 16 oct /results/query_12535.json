@@ -1,0 +1,10 @@
+{
+    "query": "Which Florida city was named after a Miami River, and who named it after that river?",
+    "response": [
+        "doc_7301.txt",
+        "doc_19361.txt",
+        "doc_19360.txt",
+        "doc_21168.txt",
+        "doc_14643.txt"
+    ]
+}

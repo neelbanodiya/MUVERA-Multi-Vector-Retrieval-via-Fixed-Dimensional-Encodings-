@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, what king\u2019s reign coincided with the completion of Malory\u2019s work?",
+    "response": [
+        "doc_22244.txt",
+        "doc_22250.txt",
+        "doc_22256.txt",
+        "doc_22260.txt",
+        "doc_22257.txt"
+    ]
+}

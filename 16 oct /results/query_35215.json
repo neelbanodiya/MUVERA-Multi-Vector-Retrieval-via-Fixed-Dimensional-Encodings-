@@ -1,0 +1,10 @@
+{
+    "query": "What question does Blake pose regarding the creator of the Tyger?",
+    "response": [
+        "doc_20530.txt",
+        "doc_20533.txt",
+        "doc_20537.txt",
+        "doc_20534.txt",
+        "doc_20535.txt"
+    ]
+}

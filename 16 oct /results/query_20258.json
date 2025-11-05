@@ -1,0 +1,10 @@
+{
+    "query": "What musical influences are described as being present in the song \u201cThis Is How We Do\u201d?",
+    "response": [
+        "doc_19137.txt",
+        "doc_10112.txt",
+        "doc_19711.txt",
+        "doc_19712.txt",
+        "doc_22131.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the difference in appearance between Mina and Izuko as depicted in the film?",
+    "response": [
+        "doc_12052.txt",
+        "doc_14531.txt",
+        "doc_8693.txt",
+        "doc_9125.txt",
+        "doc_2231.txt"
+    ]
+}

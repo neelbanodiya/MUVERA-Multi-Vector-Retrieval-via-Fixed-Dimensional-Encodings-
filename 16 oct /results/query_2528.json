@@ -1,0 +1,10 @@
+{
+    "query": "For which film did George Segal receive an Oscar nomination in 1966?",
+    "response": [
+        "doc_1485.txt",
+        "doc_1486.txt",
+        "doc_23290.txt",
+        "doc_23287.txt",
+        "doc_23281.txt"
+    ]
+}

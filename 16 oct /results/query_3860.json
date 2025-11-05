@@ -1,0 +1,10 @@
+{
+    "query": "Where were fossil leaves of *F. malloryi* found, and what geological formation did they come from?",
+    "response": [
+        "doc_2270.txt",
+        "doc_2269.txt",
+        "doc_8622.txt",
+        "doc_8615.txt",
+        "doc_8611.txt"
+    ]
+}

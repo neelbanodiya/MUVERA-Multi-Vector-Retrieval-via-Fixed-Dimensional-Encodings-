@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of Charles Lindbergh\u2019s mother?",
+    "response": [
+        "doc_15405.txt",
+        "doc_15404.txt",
+        "doc_15407.txt",
+        "doc_15411.txt",
+        "doc_15414.txt"
+    ]
+}

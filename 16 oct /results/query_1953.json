@@ -1,0 +1,10 @@
+{
+    "query": "What type of regional initiatives does the Council advise supporting?",
+    "response": [
+        "doc_22883.txt",
+        "doc_11870.txt",
+        "doc_6292.txt",
+        "doc_17396.txt",
+        "doc_17359.txt"
+    ]
+}

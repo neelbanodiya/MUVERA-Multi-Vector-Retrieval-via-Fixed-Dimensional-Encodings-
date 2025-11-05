@@ -1,0 +1,10 @@
+{
+    "query": "How many pop hits did Carole King write or co-write between 1960 and 1990?",
+    "response": [
+        "doc_11421.txt",
+        "doc_11434.txt",
+        "doc_11419.txt",
+        "doc_11423.txt",
+        "doc_11417.txt"
+    ]
+}

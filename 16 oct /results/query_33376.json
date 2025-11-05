@@ -1,0 +1,10 @@
+{
+    "query": "What types of food are traditionally associated with Christmas celebrations in Europe?",
+    "response": [
+        "doc_15447.txt",
+        "doc_9654.txt",
+        "doc_8926.txt",
+        "doc_6701.txt",
+        "doc_23445.txt"
+    ]
+}

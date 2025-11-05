@@ -1,0 +1,10 @@
+{
+    "query": "Though it had only about 20% of the required population, Nevada was made a state during this war?",
+    "response": [
+        "doc_20226.txt",
+        "doc_20227.txt",
+        "doc_23362.txt",
+        "doc_23215.txt",
+        "doc_397.txt"
+    ]
+}

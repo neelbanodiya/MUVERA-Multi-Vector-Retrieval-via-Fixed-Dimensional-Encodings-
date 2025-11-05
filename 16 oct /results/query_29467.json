@@ -1,0 +1,10 @@
+{
+    "query": "Which actors star alongside Tom Hanks in the film described as the third installment of the \u201cRobert Langdon\u201d film series?",
+    "response": [
+        "doc_17142.txt",
+        "doc_784.txt",
+        "doc_18482.txt",
+        "doc_21902.txt",
+        "doc_18858.txt"
+    ]
+}

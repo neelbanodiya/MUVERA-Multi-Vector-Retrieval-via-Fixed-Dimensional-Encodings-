@@ -1,0 +1,10 @@
+{
+    "query": "How long did \u201cDrawing on the Right Side of the Brain\u201d remain on the New York Times Best Sellers List?",
+    "response": [
+        "doc_18583.txt",
+        "doc_7041.txt",
+        "doc_18582.txt",
+        "doc_1523.txt",
+        "doc_2858.txt"
+    ]
+}

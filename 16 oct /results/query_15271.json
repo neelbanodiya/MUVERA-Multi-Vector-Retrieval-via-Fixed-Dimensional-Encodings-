@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary reason for rainfall in regions like the Patagonian desert?",
+    "response": [
+        "doc_4335.txt",
+        "doc_8842.txt",
+        "doc_4336.txt",
+        "doc_23533.txt",
+        "doc_16253.txt"
+    ]
+}

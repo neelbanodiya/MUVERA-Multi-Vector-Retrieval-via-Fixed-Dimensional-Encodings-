@@ -1,0 +1,10 @@
+{
+    "query": "How many films had Truffaut made at the time of making *Motor Psycho*?",
+    "response": [
+        "doc_21655.txt",
+        "doc_21654.txt",
+        "doc_5325.txt",
+        "doc_22833.txt",
+        "doc_15484.txt"
+    ]
+}

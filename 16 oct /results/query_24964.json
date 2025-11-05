@@ -1,0 +1,10 @@
+{
+    "query": "What year was Robert Oberst awarded his \u201cPro Card\u201d?",
+    "response": [
+        "doc_15278.txt",
+        "doc_21061.txt",
+        "doc_8598.txt",
+        "doc_8087.txt",
+        "doc_24160.txt"
+    ]
+}

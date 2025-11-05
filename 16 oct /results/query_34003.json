@@ -1,0 +1,10 @@
+{
+    "query": "What percentage decrease in sulfur dioxide and nitrogen-oxide emissions has been implemented in the Adirondack Park?",
+    "response": [
+        "doc_19784.txt",
+        "doc_19798.txt",
+        "doc_20110.txt",
+        "doc_19787.txt",
+        "doc_22168.txt"
+    ]
+}

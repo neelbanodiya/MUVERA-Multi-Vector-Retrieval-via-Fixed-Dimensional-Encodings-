@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what was a significant part of Emily Dickinson\u2019s poetry around the time of the Civil War?",
+    "response": [
+        "doc_5511.txt",
+        "doc_5516.txt",
+        "doc_5510.txt",
+        "doc_5509.txt",
+        "doc_5505.txt"
+    ]
+}

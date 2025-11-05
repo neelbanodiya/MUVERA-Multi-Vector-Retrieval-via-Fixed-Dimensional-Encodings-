@@ -1,0 +1,10 @@
+{
+    "query": "When were the Milan canals documented?",
+    "response": [
+        "doc_23400.txt",
+        "doc_23363.txt",
+        "doc_20235.txt",
+        "doc_20242.txt",
+        "doc_23369.txt"
+    ]
+}

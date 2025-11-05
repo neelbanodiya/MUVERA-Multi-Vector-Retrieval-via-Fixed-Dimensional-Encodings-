@@ -1,0 +1,10 @@
+{
+    "query": "What year did the Texas Tech Red Raiders finish the season with a 9-4 record?",
+    "response": [
+        "doc_14817.txt",
+        "doc_14818.txt",
+        "doc_2010.txt",
+        "doc_2011.txt",
+        "doc_2012.txt"
+    ]
+}

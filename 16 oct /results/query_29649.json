@@ -1,0 +1,10 @@
+{
+    "query": "What is the size of the bed in a bedroom at the Century 21 hotel?",
+    "response": [
+        "doc_17231.txt",
+        "doc_17648.txt",
+        "doc_3624.txt",
+        "doc_3625.txt",
+        "doc_23011.txt"
+    ]
+}

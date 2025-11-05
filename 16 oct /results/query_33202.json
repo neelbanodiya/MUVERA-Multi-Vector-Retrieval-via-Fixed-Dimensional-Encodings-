@@ -1,0 +1,10 @@
+{
+    "query": "How many female senators were present in the 114th Congress?",
+    "response": [
+        "doc_9116.txt",
+        "doc_19322.txt",
+        "doc_9117.txt",
+        "doc_19314.txt",
+        "doc_19324.txt"
+    ]
+}

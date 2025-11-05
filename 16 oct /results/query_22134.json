@@ -1,0 +1,10 @@
+{
+    "query": "What significant achievements did the player described in the passage accomplish during his time as Stanley Cup champions?",
+    "response": [
+        "doc_12779.txt",
+        "doc_20608.txt",
+        "doc_2264.txt",
+        "doc_21264.txt",
+        "doc_76.txt"
+    ]
+}

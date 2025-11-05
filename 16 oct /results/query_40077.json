@@ -1,0 +1,10 @@
+{
+    "query": "Who co-created Woodsy Owl and when was he originally created?",
+    "response": [
+        "doc_20132.txt",
+        "doc_9893.txt",
+        "doc_18778.txt",
+        "doc_12037.txt",
+        "doc_22073.txt"
+    ]
+}

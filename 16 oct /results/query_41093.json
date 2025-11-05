@@ -1,0 +1,10 @@
+{
+    "query": "Who confessed to ordering the killing of Mr. Chebeya Bahizire?",
+    "response": [
+        "doc_24067.txt",
+        "doc_24068.txt",
+        "doc_24066.txt",
+        "doc_24069.txt",
+        "doc_4809.txt"
+    ]
+}

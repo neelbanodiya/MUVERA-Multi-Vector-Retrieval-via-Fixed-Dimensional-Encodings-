@@ -1,0 +1,10 @@
+{
+    "query": "What activities are featured at the 2016 Salmon Festival in Mendocino County?",
+    "response": [
+        "doc_16375.txt",
+        "doc_23032.txt",
+        "doc_12182.txt",
+        "doc_22540.txt",
+        "doc_5259.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was the document referencing the Community method first mentioned?",
+    "response": [
+        "doc_13391.txt",
+        "doc_1782.txt",
+        "doc_13390.txt",
+        "doc_5425.txt",
+        "doc_16883.txt"
+    ]
+}

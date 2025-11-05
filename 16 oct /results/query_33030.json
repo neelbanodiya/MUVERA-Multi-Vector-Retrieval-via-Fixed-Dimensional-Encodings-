@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Chinese explorers reach the shores of the Indian Ocean?",
+    "response": [
+        "doc_19234.txt",
+        "doc_19235.txt",
+        "doc_19237.txt",
+        "doc_19238.txt",
+        "doc_19233.txt"
+    ]
+}

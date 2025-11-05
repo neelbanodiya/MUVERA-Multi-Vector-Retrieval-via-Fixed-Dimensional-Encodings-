@@ -1,0 +1,10 @@
+{
+    "query": "What is the estimated overall budget for the European Institute of Technology (EIT) for the first six years?",
+    "response": [
+        "doc_5643.txt",
+        "doc_14968.txt",
+        "doc_2053.txt",
+        "doc_12318.txt",
+        "doc_12546.txt"
+    ]
+}

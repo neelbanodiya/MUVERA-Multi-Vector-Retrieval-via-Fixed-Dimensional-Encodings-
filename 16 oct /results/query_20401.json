@@ -1,0 +1,10 @@
+{
+    "query": "What type of toy is described as being \u201c3D printed Pokemon sex toys\u201d?",
+    "response": [
+        "doc_11766.txt",
+        "doc_9529.txt",
+        "doc_14889.txt",
+        "doc_6159.txt",
+        "doc_5402.txt"
+    ]
+}

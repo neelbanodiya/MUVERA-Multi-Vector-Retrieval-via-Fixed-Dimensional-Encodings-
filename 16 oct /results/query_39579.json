@@ -1,0 +1,10 @@
+{
+    "query": "What is the original French meaning of the word \u201cLa Manche\u201d?",
+    "response": [
+        "doc_23173.txt",
+        "doc_23170.txt",
+        "doc_23169.txt",
+        "doc_23174.txt",
+        "doc_23175.txt"
+    ]
+}

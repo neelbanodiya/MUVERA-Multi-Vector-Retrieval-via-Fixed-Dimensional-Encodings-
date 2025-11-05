@@ -1,0 +1,10 @@
+{
+    "query": "What musical works are mentioned alongside Wagner, and in what year was *Parsifal* composed?",
+    "response": [
+        "doc_19612.txt",
+        "doc_21961.txt",
+        "doc_19620.txt",
+        "doc_12713.txt",
+        "doc_323.txt"
+    ]
+}

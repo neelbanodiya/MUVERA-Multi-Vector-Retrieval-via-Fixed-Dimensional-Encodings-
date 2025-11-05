@@ -1,0 +1,10 @@
+{
+    "query": "In which film franchise did a new James Bond gambling with a license to kill first appear?",
+    "response": [
+        "doc_9792.txt",
+        "doc_23794.txt",
+        "doc_1478.txt",
+        "doc_22834.txt",
+        "doc_11733.txt"
+    ]
+}

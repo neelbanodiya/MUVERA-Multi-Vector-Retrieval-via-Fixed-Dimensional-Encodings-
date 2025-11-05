@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the texts, what does the analysis of literature involving figures like Jacques Derrida aim to do?",
+    "response": [
+        "doc_15532.txt",
+        "doc_15534.txt",
+        "doc_17271.txt",
+        "doc_17916.txt",
+        "doc_19430.txt"
+    ]
+}

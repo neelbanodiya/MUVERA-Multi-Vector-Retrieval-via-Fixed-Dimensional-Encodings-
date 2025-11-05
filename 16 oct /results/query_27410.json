@@ -1,0 +1,10 @@
+{
+    "query": "Which organization was established as a result of the Helsinki Final Act?",
+    "response": [
+        "doc_15930.txt",
+        "doc_15948.txt",
+        "doc_13159.txt",
+        "doc_1630.txt",
+        "doc_13133.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the original purpose of the Presidio according to the provided sources?",
+    "response": [
+        "doc_16687.txt",
+        "doc_93.txt",
+        "doc_23318.txt",
+        "doc_21440.txt",
+        "doc_18923.txt"
+    ]
+}

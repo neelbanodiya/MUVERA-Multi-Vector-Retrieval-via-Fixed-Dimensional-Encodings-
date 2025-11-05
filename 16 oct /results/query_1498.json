@@ -1,0 +1,10 @@
+{
+    "query": "Where can you find a veterinarian list for bovine TB testing in Southeast Indiana?",
+    "response": [
+        "doc_854.txt",
+        "doc_853.txt",
+        "doc_2498.txt",
+        "doc_5950.txt",
+        "doc_897.txt"
+    ]
+}

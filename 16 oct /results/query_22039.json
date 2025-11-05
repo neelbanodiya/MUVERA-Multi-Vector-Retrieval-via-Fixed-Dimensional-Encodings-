@@ -1,0 +1,10 @@
+{
+    "query": "According to the 2017 Guinness World Records, who holds the record for most tricks performed by a dog in one minute?",
+    "response": [
+        "doc_12724.txt",
+        "doc_12722.txt",
+        "doc_12723.txt",
+        "doc_12728.txt",
+        "doc_2337.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who played Max in the original *Mad Max* film, and who played him in *Mad Max: Fury Road*?",
+    "response": [
+        "doc_16729.txt",
+        "doc_14399.txt",
+        "doc_19272.txt",
+        "doc_1580.txt",
+        "doc_20659.txt"
+    ]
+}

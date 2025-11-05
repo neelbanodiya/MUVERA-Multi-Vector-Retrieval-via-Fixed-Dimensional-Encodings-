@@ -1,0 +1,10 @@
+{
+    "query": "What geological feature is associated with Loch Ness\u2019s location and is believed to be responsible for the legend\u2019s origins?",
+    "response": [
+        "doc_370.txt",
+        "doc_371.txt",
+        "doc_369.txt",
+        "doc_376.txt",
+        "doc_381.txt"
+    ]
+}

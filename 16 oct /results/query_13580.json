@@ -1,0 +1,10 @@
+{
+    "query": "How many people turned down President Lincoln\u2019s invitation to Ford\u2019s Theatre?",
+    "response": [
+        "doc_7923.txt",
+        "doc_7921.txt",
+        "doc_7935.txt",
+        "doc_7922.txt",
+        "doc_7931.txt"
+    ]
+}

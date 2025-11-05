@@ -1,0 +1,10 @@
+{
+    "query": "What form of insurance is obtainable in Antigua?",
+    "response": [
+        "doc_22511.txt",
+        "doc_4424.txt",
+        "doc_4425.txt",
+        "doc_226.txt",
+        "doc_4420.txt"
+    ]
+}

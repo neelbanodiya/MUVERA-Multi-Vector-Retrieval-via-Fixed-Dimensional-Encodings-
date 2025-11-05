@@ -1,0 +1,10 @@
+{
+    "query": "How many medals did Canada collect at the Winter X Games in 2016?",
+    "response": [
+        "doc_15512.txt",
+        "doc_15506.txt",
+        "doc_15517.txt",
+        "doc_15505.txt",
+        "doc_15519.txt"
+    ]
+}

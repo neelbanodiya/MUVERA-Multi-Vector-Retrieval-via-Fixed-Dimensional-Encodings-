@@ -1,0 +1,10 @@
+{
+    "query": "Which U.S. state does Bob Smith currently represent in the State Senate?",
+    "response": [
+        "doc_19036.txt",
+        "doc_2175.txt",
+        "doc_2176.txt",
+        "doc_4522.txt",
+        "doc_6024.txt"
+    ]
+}

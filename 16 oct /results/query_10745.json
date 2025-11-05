@@ -1,0 +1,10 @@
+{
+    "query": "When was the Japanese naval spy reported to the FBI?",
+    "response": [
+        "doc_21681.txt",
+        "doc_6218.txt",
+        "doc_6216.txt",
+        "doc_21731.txt",
+        "doc_2977.txt"
+    ]
+}

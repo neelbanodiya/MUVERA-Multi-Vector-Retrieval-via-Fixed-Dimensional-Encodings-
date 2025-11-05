@@ -1,0 +1,10 @@
+{
+    "query": "Which committees were asked for opinions on the \u201cNanosciences and nanotechnologies: An action plan for Europe 2005-2009\u201d procedure?",
+    "response": [
+        "doc_14283.txt",
+        "doc_14295.txt",
+        "doc_14297.txt",
+        "doc_14298.txt",
+        "doc_14284.txt"
+    ]
+}

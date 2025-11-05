@@ -1,0 +1,10 @@
+{
+    "query": "How do EU Companies compare to U.S. companies in terms of competition?",
+    "response": [
+        "doc_18717.txt",
+        "doc_19898.txt",
+        "doc_13918.txt",
+        "doc_14836.txt",
+        "doc_19526.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where is Wood Street railway station located, and what transportation network is it a part of?",
+    "response": [
+        "doc_28.txt",
+        "doc_22766.txt",
+        "doc_22765.txt",
+        "doc_22764.txt",
+        "doc_16784.txt"
+    ]
+}

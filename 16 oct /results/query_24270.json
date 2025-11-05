@@ -1,0 +1,10 @@
+{
+    "query": "Which two American essayists are specifically named as setting out the principles of Transcendentalism?",
+    "response": [
+        "doc_12350.txt",
+        "doc_14077.txt",
+        "doc_19430.txt",
+        "doc_18976.txt",
+        "doc_20265.txt"
+    ]
+}

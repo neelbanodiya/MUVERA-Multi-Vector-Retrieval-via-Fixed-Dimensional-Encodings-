@@ -1,0 +1,10 @@
+{
+    "query": "What film stars Cornel Wilde as Robert...?",
+    "response": [
+        "doc_7652.txt",
+        "doc_16925.txt",
+        "doc_18753.txt",
+        "doc_8518.txt",
+        "doc_2231.txt"
+    ]
+}

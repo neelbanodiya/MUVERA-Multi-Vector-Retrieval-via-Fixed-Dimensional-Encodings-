@@ -1,0 +1,10 @@
+{
+    "query": "How does the Bay Delta form, according to the passage?",
+    "response": [
+        "doc_20885.txt",
+        "doc_3147.txt",
+        "doc_20892.txt",
+        "doc_20886.txt",
+        "doc_12597.txt"
+    ]
+}

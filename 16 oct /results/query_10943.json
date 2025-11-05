@@ -1,0 +1,10 @@
+{
+    "query": "Which artists contributed artwork to the Liverpool 08 Collection?",
+    "response": [
+        "doc_6335.txt",
+        "doc_4813.txt",
+        "doc_20416.txt",
+        "doc_20411.txt",
+        "doc_20421.txt"
+    ]
+}

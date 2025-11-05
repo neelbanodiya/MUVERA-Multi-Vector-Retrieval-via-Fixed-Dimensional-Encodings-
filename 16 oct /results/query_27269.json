@@ -1,0 +1,10 @@
+{
+    "query": "Which countries engaged in regular trade with Japan in the 16th and 17th centuries?",
+    "response": [
+        "doc_15837.txt",
+        "doc_19238.txt",
+        "doc_15839.txt",
+        "doc_5591.txt",
+        "doc_2590.txt"
+    ]
+}

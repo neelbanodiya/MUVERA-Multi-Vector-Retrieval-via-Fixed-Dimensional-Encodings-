@@ -1,0 +1,10 @@
+{
+    "query": "What is the height of Mt. San Jacinto State Park, as reached by the Palm Springs Aerial Tramway?",
+    "response": [
+        "doc_13028.txt",
+        "doc_13019.txt",
+        "doc_13022.txt",
+        "doc_13013.txt",
+        "doc_13025.txt"
+    ]
+}

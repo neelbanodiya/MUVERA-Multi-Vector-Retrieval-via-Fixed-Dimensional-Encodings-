@@ -1,0 +1,10 @@
+{
+    "query": "On what network did \u201cGotham\u201d premiere in the United States?",
+    "response": [
+        "doc_6683.txt",
+        "doc_19703.txt",
+        "doc_19058.txt",
+        "doc_6604.txt",
+        "doc_6684.txt"
+    ]
+}

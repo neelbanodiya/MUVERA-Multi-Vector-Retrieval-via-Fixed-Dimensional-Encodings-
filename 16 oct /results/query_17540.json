@@ -1,0 +1,10 @@
+{
+    "query": "Who was King Albrecht?",
+    "response": [
+        "doc_88.txt",
+        "doc_10139.txt",
+        "doc_10145.txt",
+        "doc_783.txt",
+        "doc_7332.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What historical significance is associated with the Brandenburg Gate, as described in the provided sources?",
+    "response": [
+        "doc_23814.txt",
+        "doc_23825.txt",
+        "doc_23824.txt",
+        "doc_23823.txt",
+        "doc_23821.txt"
+    ]
+}

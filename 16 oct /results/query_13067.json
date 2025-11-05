@@ -1,0 +1,10 @@
+{
+    "query": "On what television network is the series \u201cPawn Stars\u201d shown, and when did it premiere?",
+    "response": [
+        "doc_7639.txt",
+        "doc_6684.txt",
+        "doc_14817.txt",
+        "doc_493.txt",
+        "doc_12719.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "From which location can you enjoy Mediterranean vistas from a mountain walking trail?",
+    "response": [
+        "doc_19445.txt",
+        "doc_23537.txt",
+        "doc_22652.txt",
+        "doc_22151.txt",
+        "doc_23539.txt"
+    ]
+}

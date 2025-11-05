@@ -1,0 +1,10 @@
+{
+    "query": "What was the Civic Arena used as from 1967 to 2010?",
+    "response": [
+        "doc_10558.txt",
+        "doc_17677.txt",
+        "doc_10560.txt",
+        "doc_12600.txt",
+        "doc_11228.txt"
+    ]
+}

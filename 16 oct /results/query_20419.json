@@ -1,0 +1,10 @@
+{
+    "query": "How can Digimon compete in tournaments?",
+    "response": [
+        "doc_1868.txt",
+        "doc_6756.txt",
+        "doc_8855.txt",
+        "doc_1864.txt",
+        "doc_6448.txt"
+    ]
+}

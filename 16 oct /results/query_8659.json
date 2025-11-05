@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, how did the ancient Greeks view the composition of the human body?",
+    "response": [
+        "doc_3874.txt",
+        "doc_11048.txt",
+        "doc_6053.txt",
+        "doc_21870.txt",
+        "doc_11047.txt"
+    ]
+}

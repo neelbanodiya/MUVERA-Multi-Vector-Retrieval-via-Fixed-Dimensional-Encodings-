@@ -1,0 +1,10 @@
+{
+    "query": "Which regulation does the Commission need to adhere to when adopting various measures?",
+    "response": [
+        "doc_20762.txt",
+        "doc_20767.txt",
+        "doc_6170.txt",
+        "doc_23718.txt",
+        "doc_8878.txt"
+    ]
+}

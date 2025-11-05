@@ -1,0 +1,10 @@
+{
+    "query": "What is the largest owner of Capital, and what is their ownership amount?",
+    "response": [
+        "doc_22889.txt",
+        "doc_572.txt",
+        "doc_14641.txt",
+        "doc_12717.txt",
+        "doc_3430.txt"
+    ]
+}

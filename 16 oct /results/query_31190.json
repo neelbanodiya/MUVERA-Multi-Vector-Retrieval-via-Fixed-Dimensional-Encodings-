@@ -1,0 +1,10 @@
+{
+    "query": "Where was the RMS Titanic visited by an archaeologist, as mentioned in the passage?",
+    "response": [
+        "doc_21094.txt",
+        "doc_21108.txt",
+        "doc_21112.txt",
+        "doc_21103.txt",
+        "doc_21098.txt"
+    ]
+}

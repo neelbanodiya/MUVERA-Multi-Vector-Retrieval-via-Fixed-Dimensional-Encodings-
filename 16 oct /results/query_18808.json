@@ -1,0 +1,10 @@
+{
+    "query": "Who is Talia Shire\u2019s brother, as mentioned in one of the linked articles?",
+    "response": [
+        "doc_14531.txt",
+        "doc_19708.txt",
+        "doc_9552.txt",
+        "doc_14412.txt",
+        "doc_8011.txt"
+    ]
+}

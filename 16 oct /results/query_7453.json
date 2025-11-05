@@ -1,0 +1,10 @@
+{
+    "query": "What date did Ethan Allen and Benedict Arnold capture Fort Ticonderoga?",
+    "response": [
+        "doc_4302.txt",
+        "doc_4313.txt",
+        "doc_4301.txt",
+        "doc_4304.txt",
+        "doc_4310.txt"
+    ]
+}

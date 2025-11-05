@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was a significant characteristic of women in Spain during the Spanish-American War?",
+    "response": [
+        "doc_12952.txt",
+        "doc_12953.txt",
+        "doc_10366.txt",
+        "doc_10374.txt",
+        "doc_10221.txt"
+    ]
+}

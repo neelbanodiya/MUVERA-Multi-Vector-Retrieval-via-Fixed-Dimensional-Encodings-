@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what role did Debra Winger play in *Urban Cowboy*?",
+    "response": [
+        "doc_21991.txt",
+        "doc_1623.txt",
+        "doc_1969.txt",
+        "doc_7076.txt",
+        "doc_1968.txt"
+    ]
+}

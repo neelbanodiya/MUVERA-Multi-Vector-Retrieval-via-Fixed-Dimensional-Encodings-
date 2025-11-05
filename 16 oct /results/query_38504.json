@@ -1,0 +1,10 @@
+{
+    "query": "What prize did J.M. Coetzee\u2019s novel *Disgrace* win in 1999?",
+    "response": [
+        "doc_22574.txt",
+        "doc_22568.txt",
+        "doc_22577.txt",
+        "doc_22570.txt",
+        "doc_22572.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What nickname did Joe Walcott have?",
+    "response": [
+        "doc_11219.txt",
+        "doc_12235.txt",
+        "doc_15329.txt",
+        "doc_12245.txt",
+        "doc_12233.txt"
+    ]
+}

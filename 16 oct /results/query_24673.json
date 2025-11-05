@@ -1,0 +1,10 @@
+{
+    "query": "What type of show does Curry host on Sirius Satellite Radio?",
+    "response": [
+        "doc_6806.txt",
+        "doc_6807.txt",
+        "doc_14336.txt",
+        "doc_3077.txt",
+        "doc_6805.txt"
+    ]
+}

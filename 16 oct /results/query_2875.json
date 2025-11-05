@@ -1,0 +1,10 @@
+{
+    "query": "In what year were Daniel and Rebecca Boone\u2019s remains moved from Missouri to Kentucky?",
+    "response": [
+        "doc_1745.txt",
+        "doc_1757.txt",
+        "doc_1751.txt",
+        "doc_1744.txt",
+        "doc_1752.txt"
+    ]
+}

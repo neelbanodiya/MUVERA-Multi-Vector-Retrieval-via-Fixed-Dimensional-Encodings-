@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the news article about a New Balance Celtic jersey?",
+    "response": [
+        "doc_5273.txt",
+        "doc_22365.txt",
+        "doc_19447.txt",
+        "doc_10700.txt",
+        "doc_2422.txt"
+    ]
+}

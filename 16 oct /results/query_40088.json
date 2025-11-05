@@ -1,0 +1,10 @@
+{
+    "query": "Which French author did Marcel Schwob dedicate his short story collection, *C\u0153ur double*, to?",
+    "response": [
+        "doc_23469.txt",
+        "doc_20265.txt",
+        "doc_4148.txt",
+        "doc_14412.txt",
+        "doc_2883.txt"
+    ]
+}

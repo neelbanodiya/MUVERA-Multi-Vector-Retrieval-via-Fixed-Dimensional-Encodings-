@@ -1,0 +1,10 @@
+{
+    "query": "What are some of the facilities located within the Empire State Plaza?",
+    "response": [
+        "doc_22425.txt",
+        "doc_22431.txt",
+        "doc_22428.txt",
+        "doc_22433.txt",
+        "doc_22432.txt"
+    ]
+}

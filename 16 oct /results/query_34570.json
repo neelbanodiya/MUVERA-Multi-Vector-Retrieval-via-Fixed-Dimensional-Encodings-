@@ -1,0 +1,10 @@
+{
+    "query": "What was the total amount of funding provided by the Commission to support the EHU between 2005 and 2007?",
+    "response": [
+        "doc_19702.txt",
+        "doc_1363.txt",
+        "doc_24205.txt",
+        "doc_19948.txt",
+        "doc_22712.txt"
+    ]
+}

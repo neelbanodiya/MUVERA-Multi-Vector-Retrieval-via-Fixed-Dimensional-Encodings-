@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary objective of the NAFO (Northwest Atlantic Fisheries Organization)?",
+    "response": [
+        "doc_19979.txt",
+        "doc_19980.txt",
+        "doc_22161.txt",
+        "doc_22162.txt",
+        "doc_13310.txt"
+    ]
+}

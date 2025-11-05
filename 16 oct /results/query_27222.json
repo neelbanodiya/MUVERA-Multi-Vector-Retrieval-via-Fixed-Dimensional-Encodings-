@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the stadium located in Baltimore, Maryland, that was formerly used by the Colts?",
+    "response": [
+        "doc_15814.txt",
+        "doc_15807.txt",
+        "doc_15809.txt",
+        "doc_15812.txt",
+        "doc_11256.txt"
+    ]
+}

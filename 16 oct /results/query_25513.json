@@ -1,0 +1,10 @@
+{
+    "query": "According to the Economist Intelligence Unit, what was the value of gas exports from Burma between 2003 and 2004?",
+    "response": [
+        "doc_14791.txt",
+        "doc_2372.txt",
+        "doc_10385.txt",
+        "doc_18993.txt",
+        "doc_5895.txt"
+    ]
+}

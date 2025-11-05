@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what is Isis known as?",
+    "response": [
+        "doc_12557.txt",
+        "doc_12550.txt",
+        "doc_12556.txt",
+        "doc_12567.txt",
+        "doc_12551.txt"
+    ]
+}

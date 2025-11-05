@@ -1,0 +1,10 @@
+{
+    "query": "When does Michael Jordan supposedly get \u201cridiculed\u201d?",
+    "response": [
+        "doc_6490.txt",
+        "doc_242.txt",
+        "doc_15258.txt",
+        "doc_7623.txt",
+        "doc_23204.txt"
+    ]
+}

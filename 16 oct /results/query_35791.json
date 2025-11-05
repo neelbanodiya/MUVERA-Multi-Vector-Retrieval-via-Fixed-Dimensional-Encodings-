@@ -1,0 +1,10 @@
+{
+    "query": "Which country\u2019s ballet was imported to France?",
+    "response": [
+        "doc_3971.txt",
+        "doc_3975.txt",
+        "doc_9906.txt",
+        "doc_12705.txt",
+        "doc_9888.txt"
+    ]
+}

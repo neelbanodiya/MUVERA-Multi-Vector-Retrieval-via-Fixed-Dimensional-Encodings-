@@ -1,0 +1,10 @@
+{
+    "query": "When was the Home Insurance Building, considered the first skyscraper, built?",
+    "response": [
+        "doc_10087.txt",
+        "doc_10085.txt",
+        "doc_10088.txt",
+        "doc_10089.txt",
+        "doc_10094.txt"
+    ]
+}

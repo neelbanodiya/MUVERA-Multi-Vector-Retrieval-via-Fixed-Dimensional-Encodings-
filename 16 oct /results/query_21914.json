@@ -1,0 +1,10 @@
+{
+    "query": "Which actor won the Academy Award for Best Actress in 2007 for their performance as Queen Elizabeth II?",
+    "response": [
+        "doc_12637.txt",
+        "doc_21156.txt",
+        "doc_12638.txt",
+        "doc_21157.txt",
+        "doc_16171.txt"
+    ]
+}

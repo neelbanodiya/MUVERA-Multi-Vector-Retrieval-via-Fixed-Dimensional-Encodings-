@@ -1,0 +1,10 @@
+{
+    "query": "What is the Cornish flag\u2019s design?",
+    "response": [
+        "doc_16453.txt",
+        "doc_16459.txt",
+        "doc_16455.txt",
+        "doc_16464.txt",
+        "doc_16457.txt"
+    ]
+}

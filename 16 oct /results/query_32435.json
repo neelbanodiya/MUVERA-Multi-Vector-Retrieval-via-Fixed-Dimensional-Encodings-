@@ -1,0 +1,10 @@
+{
+    "query": "What two categories of offenses does the California law differentiate based on the use of specific words?",
+    "response": [
+        "doc_11004.txt",
+        "doc_18919.txt",
+        "doc_20885.txt",
+        "doc_18917.txt",
+        "doc_1495.txt"
+    ]
+}

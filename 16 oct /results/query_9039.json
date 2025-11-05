@@ -1,0 +1,10 @@
+{
+    "query": "What television show featured shout-outs to Calgary, Quebec, and Toronto?",
+    "response": [
+        "doc_11488.txt",
+        "doc_12645.txt",
+        "doc_17954.txt",
+        "doc_19011.txt",
+        "doc_15542.txt"
+    ]
+}

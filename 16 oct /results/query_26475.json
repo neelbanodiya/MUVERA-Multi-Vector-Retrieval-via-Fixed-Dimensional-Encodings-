@@ -1,0 +1,10 @@
+{
+    "query": "Which actors portrayed Chloe O\u2019Brian and Jack Bauer, and how do their episode counts compare?",
+    "response": [
+        "doc_13619.txt",
+        "doc_4462.txt",
+        "doc_7076.txt",
+        "doc_7075.txt",
+        "doc_4464.txt"
+    ]
+}

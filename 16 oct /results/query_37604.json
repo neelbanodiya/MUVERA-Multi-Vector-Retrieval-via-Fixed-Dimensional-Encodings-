@@ -1,0 +1,10 @@
+{
+    "query": "What instrument was prominently featured in the Marienkirche where Dietrich Buxtehude performed?",
+    "response": [
+        "doc_22033.txt",
+        "doc_13800.txt",
+        "doc_13808.txt",
+        "doc_23546.txt",
+        "doc_16782.txt"
+    ]
+}

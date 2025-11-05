@@ -1,0 +1,10 @@
+{
+    "query": "Which artists are listed as being part of the Country Music Hall of Fame?",
+    "response": [
+        "doc_18850.txt",
+        "doc_1962.txt",
+        "doc_12339.txt",
+        "doc_15505.txt",
+        "doc_12713.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the belief held by conservative Christians regarding maintaining something?",
+    "response": [
+        "doc_8400.txt",
+        "doc_5034.txt",
+        "doc_488.txt",
+        "doc_12135.txt",
+        "doc_5037.txt"
+    ]
+}

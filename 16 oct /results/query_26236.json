@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Defauw have a successful concert with the NBC Symphony?",
+    "response": [
+        "doc_14561.txt",
+        "doc_13801.txt",
+        "doc_14556.txt",
+        "doc_16774.txt",
+        "doc_14553.txt"
+    ]
+}

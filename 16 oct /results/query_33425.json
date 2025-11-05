@@ -1,0 +1,10 @@
+{
+    "query": "What was the capital of Jamaica in the 1690s?",
+    "response": [
+        "doc_19464.txt",
+        "doc_19475.txt",
+        "doc_19476.txt",
+        "doc_19465.txt",
+        "doc_19471.txt"
+    ]
+}

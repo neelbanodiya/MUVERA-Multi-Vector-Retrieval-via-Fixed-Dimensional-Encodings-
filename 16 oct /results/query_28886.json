@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Treasure Island Hotel & Casino sold?",
+    "response": [
+        "doc_16829.txt",
+        "doc_16828.txt",
+        "doc_16834.txt",
+        "doc_16830.txt",
+        "doc_16836.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which companies were mentioned in a 2016 article regarding analyst upgrades and downgrades, alongside Mattel, Altria, and Wells Fargo?",
+    "response": [
+        "doc_3671.txt",
+        "doc_3672.txt",
+        "doc_3680.txt",
+        "doc_3675.txt",
+        "doc_3674.txt"
+    ]
+}

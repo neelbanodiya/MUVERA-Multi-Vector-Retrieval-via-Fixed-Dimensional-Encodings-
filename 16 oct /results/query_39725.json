@@ -1,0 +1,10 @@
+{
+    "query": "Who represented Madonna professionally, according to the text?",
+    "response": [
+        "doc_13682.txt",
+        "doc_23039.txt",
+        "doc_24145.txt",
+        "doc_22960.txt",
+        "doc_20409.txt"
+    ]
+}

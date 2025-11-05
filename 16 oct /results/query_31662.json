@@ -1,0 +1,10 @@
+{
+    "query": "Who succeeded Felix Frankfurter on the Supreme Court, and what was Arthur Goldberg\u2019s role in that appointment?",
+    "response": [
+        "doc_12840.txt",
+        "doc_18468.txt",
+        "doc_18469.txt",
+        "doc_18465.txt",
+        "doc_18464.txt"
+    ]
+}

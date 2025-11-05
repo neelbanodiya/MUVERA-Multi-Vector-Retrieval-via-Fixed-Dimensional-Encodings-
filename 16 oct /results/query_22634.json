@@ -1,0 +1,10 @@
+{
+    "query": "What is the size of the Palm Springs Aerial Tramway\u2019s route?",
+    "response": [
+        "doc_13022.txt",
+        "doc_13013.txt",
+        "doc_13020.txt",
+        "doc_13017.txt",
+        "doc_13023.txt"
+    ]
+}

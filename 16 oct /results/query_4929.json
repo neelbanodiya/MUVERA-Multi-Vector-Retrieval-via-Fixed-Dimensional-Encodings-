@@ -1,0 +1,10 @@
+{
+    "query": "What astronomical theory is mentioned regarding the Earth\u2019s second pass by a celestial body?",
+    "response": [
+        "doc_21838.txt",
+        "doc_15890.txt",
+        "doc_21844.txt",
+        "doc_21830.txt",
+        "doc_4827.txt"
+    ]
+}

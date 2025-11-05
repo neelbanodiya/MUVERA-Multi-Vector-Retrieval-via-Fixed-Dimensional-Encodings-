@@ -1,0 +1,10 @@
+{
+    "query": "What event involved 13 rowers from the University of Washington?",
+    "response": [
+        "doc_13765.txt",
+        "doc_19122.txt",
+        "doc_13773.txt",
+        "doc_19036.txt",
+        "doc_10288.txt"
+    ]
+}

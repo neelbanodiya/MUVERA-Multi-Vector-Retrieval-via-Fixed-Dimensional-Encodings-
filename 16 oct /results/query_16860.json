@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Sandy Martin elected as the Member of Parliament for Ipswich?",
+    "response": [
+        "doc_1019.txt",
+        "doc_21070.txt",
+        "doc_9771.txt",
+        "doc_1767.txt",
+        "doc_17124.txt"
+    ]
+}

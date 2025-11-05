@@ -1,0 +1,10 @@
+{
+    "query": "What is Staten Island\u2019s population according to the 2016 Census estimate?",
+    "response": [
+        "doc_1510.txt",
+        "doc_11464.txt",
+        "doc_8283.txt",
+        "doc_1512.txt",
+        "doc_2257.txt"
+    ]
+}

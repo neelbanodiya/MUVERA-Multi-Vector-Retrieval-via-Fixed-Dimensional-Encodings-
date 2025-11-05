@@ -1,0 +1,10 @@
+{
+    "query": "Which city in Scotland is associated with the Tea Leaf family and its pottery traditions?",
+    "response": [
+        "doc_15842.txt",
+        "doc_7353.txt",
+        "doc_8435.txt",
+        "doc_5416.txt",
+        "doc_5419.txt"
+    ]
+}

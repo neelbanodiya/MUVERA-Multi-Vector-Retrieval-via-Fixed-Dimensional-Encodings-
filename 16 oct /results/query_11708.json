@@ -1,0 +1,10 @@
+{
+    "query": "Who is described as Mississippi\u2019s gracious first lady of letters?",
+    "response": [
+        "doc_12949.txt",
+        "doc_748.txt",
+        "doc_12903.txt",
+        "doc_18150.txt",
+        "doc_22470.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Kyrgyz Soviet Socialist Republic (SSR) established?",
+    "response": [
+        "doc_19726.txt",
+        "doc_19729.txt",
+        "doc_19732.txt",
+        "doc_19743.txt",
+        "doc_19737.txt"
+    ]
+}

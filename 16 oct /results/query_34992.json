@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the portrait Sarah Siddons is depicted in, and who painted it?",
+    "response": [
+        "doc_20409.txt",
+        "doc_20417.txt",
+        "doc_20410.txt",
+        "doc_20406.txt",
+        "doc_20412.txt"
+    ]
+}

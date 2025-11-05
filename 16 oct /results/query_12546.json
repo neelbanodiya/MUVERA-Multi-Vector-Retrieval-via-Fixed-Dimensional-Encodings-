@@ -1,0 +1,10 @@
+{
+    "query": "What was the original purpose of the Plant-Sumner House?",
+    "response": [
+        "doc_20219.txt",
+        "doc_10884.txt",
+        "doc_15208.txt",
+        "doc_3613.txt",
+        "doc_3187.txt"
+    ]
+}

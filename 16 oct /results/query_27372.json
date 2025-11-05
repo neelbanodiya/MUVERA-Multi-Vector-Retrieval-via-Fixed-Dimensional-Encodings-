@@ -1,0 +1,10 @@
+{
+    "query": "Which nation won \u201cseveral accolades\u201d during the Battle of Stalingrad?",
+    "response": [
+        "doc_15914.txt",
+        "doc_15919.txt",
+        "doc_15916.txt",
+        "doc_15913.txt",
+        "doc_15912.txt"
+    ]
+}

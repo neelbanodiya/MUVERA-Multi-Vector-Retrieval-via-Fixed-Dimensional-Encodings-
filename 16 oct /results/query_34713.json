@@ -1,0 +1,10 @@
+{
+    "query": "What was the Palace of Minos primarily associated with?",
+    "response": [
+        "doc_5414.txt",
+        "doc_506.txt",
+        "doc_13957.txt",
+        "doc_5305.txt",
+        "doc_13955.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many cartel-related killings occurred during the Pea Nieto administration?",
+    "response": [
+        "doc_6759.txt",
+        "doc_21190.txt",
+        "doc_21191.txt",
+        "doc_18155.txt",
+        "doc_8681.txt"
+    ]
+}

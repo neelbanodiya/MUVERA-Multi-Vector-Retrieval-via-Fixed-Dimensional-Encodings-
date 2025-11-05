@@ -1,0 +1,10 @@
+{
+    "query": "What type of geometry is named after a Greek mathematician?",
+    "response": [
+        "doc_16938.txt",
+        "doc_16943.txt",
+        "doc_16941.txt",
+        "doc_16939.txt",
+        "doc_16946.txt"
+    ]
+}

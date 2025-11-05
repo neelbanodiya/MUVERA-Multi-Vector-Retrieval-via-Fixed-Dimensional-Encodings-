@@ -1,0 +1,10 @@
+{
+    "query": "According to the Kennesaw State University newsletter, what was one example of a famous actor who experienced initial failure?",
+    "response": [
+        "doc_19434.txt",
+        "doc_20195.txt",
+        "doc_7607.txt",
+        "doc_23204.txt",
+        "doc_23286.txt"
+    ]
+}

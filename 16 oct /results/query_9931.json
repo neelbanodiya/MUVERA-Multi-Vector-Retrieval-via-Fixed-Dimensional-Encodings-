@@ -1,0 +1,10 @@
+{
+    "query": "What award did Dr. Poe win in 2009 for his book *Edgar Allan Poe: An Illustrated Companion*?",
+    "response": [
+        "doc_5766.txt",
+        "doc_5759.txt",
+        "doc_5767.txt",
+        "doc_5763.txt",
+        "doc_5762.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was Ralph Sr.'s role in the Chicago mob?",
+    "response": [
+        "doc_4275.txt",
+        "doc_12734.txt",
+        "doc_9001.txt",
+        "doc_4273.txt",
+        "doc_20608.txt"
+    ]
+}

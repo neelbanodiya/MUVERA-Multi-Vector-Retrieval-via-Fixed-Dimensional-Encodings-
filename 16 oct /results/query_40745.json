@@ -1,0 +1,10 @@
+{
+    "query": "What type of establishment is located in Wannsee, dedicated to local history?",
+    "response": [
+        "doc_20241.txt",
+        "doc_5756.txt",
+        "doc_20242.txt",
+        "doc_3206.txt",
+        "doc_7351.txt"
+    ]
+}

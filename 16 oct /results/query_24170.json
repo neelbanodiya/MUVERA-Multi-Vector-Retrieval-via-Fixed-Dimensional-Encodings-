@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the state capital located near Lake Oahe?",
+    "response": [
+        "doc_23215.txt",
+        "doc_1654.txt",
+        "doc_2709.txt",
+        "doc_11198.txt",
+        "doc_36.txt"
+    ]
+}

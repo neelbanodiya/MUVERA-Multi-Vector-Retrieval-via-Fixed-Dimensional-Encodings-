@@ -1,0 +1,10 @@
+{
+    "query": "What impact will the new agreement have on EU banana producers?",
+    "response": [
+        "doc_2556.txt",
+        "doc_10789.txt",
+        "doc_12160.txt",
+        "doc_2486.txt",
+        "doc_3930.txt"
+    ]
+}

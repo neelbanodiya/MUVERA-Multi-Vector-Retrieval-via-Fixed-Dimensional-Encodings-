@@ -1,0 +1,10 @@
+{
+    "query": "How do the tails of New World monkeys differ from the tails of Old World monkeys?",
+    "response": [
+        "doc_21583.txt",
+        "doc_21584.txt",
+        "doc_21579.txt",
+        "doc_21576.txt",
+        "doc_21586.txt"
+    ]
+}

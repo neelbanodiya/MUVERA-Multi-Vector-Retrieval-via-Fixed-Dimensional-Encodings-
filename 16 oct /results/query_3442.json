@@ -1,0 +1,10 @@
+{
+    "query": "How did John Heinz die, and what was his family\u2019s business?",
+    "response": [
+        "doc_2041.txt",
+        "doc_2032.txt",
+        "doc_2038.txt",
+        "doc_2037.txt",
+        "doc_2045.txt"
+    ]
+}

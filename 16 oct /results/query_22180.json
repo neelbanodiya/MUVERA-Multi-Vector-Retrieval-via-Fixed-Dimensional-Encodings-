@@ -1,0 +1,10 @@
+{
+    "query": "What is the central event depicted in *The Ox-Bow Incident*?",
+    "response": [
+        "doc_12790.txt",
+        "doc_12782.txt",
+        "doc_12795.txt",
+        "doc_12800.txt",
+        "doc_805.txt"
+    ]
+}

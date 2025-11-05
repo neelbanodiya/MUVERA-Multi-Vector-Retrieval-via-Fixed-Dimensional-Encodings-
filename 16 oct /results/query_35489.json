@@ -1,0 +1,10 @@
+{
+    "query": "What happened to John Paul II in 1981, and what was the impact of this event?",
+    "response": [
+        "doc_20683.txt",
+        "doc_20670.txt",
+        "doc_20688.txt",
+        "doc_20680.txt",
+        "doc_3572.txt"
+    ]
+}

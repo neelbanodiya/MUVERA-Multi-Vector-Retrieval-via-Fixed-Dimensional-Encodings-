@@ -1,0 +1,10 @@
+{
+    "query": "According to the article, what is one of the essential myths of French culture?",
+    "response": [
+        "doc_11456.txt",
+        "doc_5854.txt",
+        "doc_8683.txt",
+        "doc_3692.txt",
+        "doc_7350.txt"
+    ]
+}

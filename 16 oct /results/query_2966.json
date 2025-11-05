@@ -1,0 +1,10 @@
+{
+    "query": "According to the Legacy Health article, what is the best way to manage weight and stay healthy?",
+    "response": [
+        "doc_7031.txt",
+        "doc_7032.txt",
+        "doc_7033.txt",
+        "doc_7030.txt",
+        "doc_10962.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which teams did Joe Greene coach for after playing as a player?",
+    "response": [
+        "doc_12987.txt",
+        "doc_5392.txt",
+        "doc_75.txt",
+        "doc_76.txt",
+        "doc_5437.txt"
+    ]
+}

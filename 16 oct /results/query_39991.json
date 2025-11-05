@@ -1,0 +1,10 @@
+{
+    "query": "When did Season 10 of *Hell's Kitchen* premiere and conclude?",
+    "response": [
+        "doc_6683.txt",
+        "doc_23419.txt",
+        "doc_23417.txt",
+        "doc_23418.txt",
+        "doc_395.txt"
+    ]
+}

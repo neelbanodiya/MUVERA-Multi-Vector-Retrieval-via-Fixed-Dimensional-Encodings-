@@ -1,0 +1,10 @@
+{
+    "query": "What is the highest number of years a woman has served in the cabinet of the UK Parliament?",
+    "response": [
+        "doc_9118.txt",
+        "doc_9116.txt",
+        "doc_9123.txt",
+        "doc_9122.txt",
+        "doc_9124.txt"
+    ]
+}

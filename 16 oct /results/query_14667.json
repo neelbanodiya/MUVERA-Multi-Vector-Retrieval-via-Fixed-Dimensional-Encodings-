@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what color is the fictional diamond, the \u201cHeart of the Ocean\u201d?",
+    "response": [
+        "doc_8478.txt",
+        "doc_9621.txt",
+        "doc_19671.txt",
+        "doc_3267.txt",
+        "doc_22575.txt"
+    ]
+}

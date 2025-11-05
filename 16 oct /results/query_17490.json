@@ -1,0 +1,10 @@
+{
+    "query": "Which countries border Tunisia, according to the provided text?",
+    "response": [
+        "doc_3268.txt",
+        "doc_22688.txt",
+        "doc_1210.txt",
+        "doc_22691.txt",
+        "doc_22689.txt"
+    ]
+}

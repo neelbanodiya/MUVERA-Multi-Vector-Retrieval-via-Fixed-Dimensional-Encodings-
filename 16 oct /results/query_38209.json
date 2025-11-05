@@ -1,0 +1,10 @@
+{
+    "query": "Which national authority should be the competent NEB in the case being discussed?",
+    "response": [
+        "doc_22421.txt",
+        "doc_3005.txt",
+        "doc_22233.txt",
+        "doc_3018.txt",
+        "doc_3009.txt"
+    ]
+}

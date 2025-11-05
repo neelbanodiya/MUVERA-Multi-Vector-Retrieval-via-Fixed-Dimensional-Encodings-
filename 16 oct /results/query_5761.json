@@ -1,0 +1,10 @@
+{
+    "query": "What specific general interest recognized by the European Court of Justice can justify restrictions on capital movements related to construction?",
+    "response": [
+        "doc_21003.txt",
+        "doc_4600.txt",
+        "doc_3341.txt",
+        "doc_3425.txt",
+        "doc_9671.txt"
+    ]
+}

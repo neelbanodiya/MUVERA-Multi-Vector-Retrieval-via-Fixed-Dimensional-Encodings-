@@ -1,0 +1,10 @@
+{
+    "query": "With which bands did Eric Clapton play guitar before joining The Yardbirds?",
+    "response": [
+        "doc_20902.txt",
+        "doc_20900.txt",
+        "doc_20898.txt",
+        "doc_20899.txt",
+        "doc_20896.txt"
+    ]
+}

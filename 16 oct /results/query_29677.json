@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what role does the Committee of the Regions play within the EU framework?",
+    "response": [
+        "doc_17251.txt",
+        "doc_17360.txt",
+        "doc_17393.txt",
+        "doc_17370.txt",
+        "doc_9742.txt"
+    ]
+}

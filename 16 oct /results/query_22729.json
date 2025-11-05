@@ -1,0 +1,10 @@
+{
+    "query": "What was New York City\u2019s role as the first capital of the United States?",
+    "response": [
+        "doc_2706.txt",
+        "doc_5160.txt",
+        "doc_2713.txt",
+        "doc_2710.txt",
+        "doc_2711.txt"
+    ]
+}

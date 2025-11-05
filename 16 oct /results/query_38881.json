@@ -1,0 +1,8 @@
+{
+    "query": "What competition did Ross Murdoch win the gold medal in the 200 metre breaststroke at?",
+    "response": [
+        "doc_22767.txt",
+        "doc_22768.txt",
+        "doc_22769.txt"
+    ]
+}

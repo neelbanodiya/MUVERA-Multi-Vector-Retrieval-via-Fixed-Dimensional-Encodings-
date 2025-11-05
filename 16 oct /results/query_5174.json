@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the subject of Directive 1999/44/EC?",
+    "response": [
+        "doc_21815.txt",
+        "doc_21805.txt",
+        "doc_21814.txt",
+        "doc_21816.txt",
+        "doc_3021.txt"
+    ]
+}

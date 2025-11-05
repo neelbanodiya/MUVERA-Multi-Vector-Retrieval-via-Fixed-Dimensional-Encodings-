@@ -1,0 +1,10 @@
+{
+    "query": "When was Yale University founded?",
+    "response": [
+        "doc_9024.txt",
+        "doc_14449.txt",
+        "doc_135.txt",
+        "doc_4608.txt",
+        "doc_19359.txt"
+    ]
+}

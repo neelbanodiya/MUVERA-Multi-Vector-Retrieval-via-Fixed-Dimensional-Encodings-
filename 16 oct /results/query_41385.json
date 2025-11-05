@@ -1,0 +1,10 @@
+{
+    "query": "Which Big Ten basketball programs have a winning record against each other?",
+    "response": [
+        "doc_24244.txt",
+        "doc_24245.txt",
+        "doc_24239.txt",
+        "doc_24247.txt",
+        "doc_8502.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What seat has been held by Rod Skoe since 1998, and in which town was he formerly located?",
+    "response": [
+        "doc_19090.txt",
+        "doc_4524.txt",
+        "doc_1773.txt",
+        "doc_1032.txt",
+        "doc_12931.txt"
+    ]
+}

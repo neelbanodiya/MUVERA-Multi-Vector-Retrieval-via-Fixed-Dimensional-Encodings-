@@ -1,0 +1,10 @@
+{
+    "query": "Where is the American population primarily located, according to the text?",
+    "response": [
+        "doc_23889.txt",
+        "doc_8837.txt",
+        "doc_539.txt",
+        "doc_534.txt",
+        "doc_541.txt"
+    ]
+}

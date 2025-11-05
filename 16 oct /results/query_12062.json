@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was the initial intention regarding the military that Barack Obama sought to achieve?",
+    "response": [
+        "doc_20676.txt",
+        "doc_22459.txt",
+        "doc_9921.txt",
+        "doc_22189.txt",
+        "doc_4103.txt"
+    ]
+}

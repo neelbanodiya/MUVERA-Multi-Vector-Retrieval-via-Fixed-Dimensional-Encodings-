@@ -1,0 +1,10 @@
+{
+    "query": "Which US Admiral is associated with Roxas Boulevard and its historical significance?",
+    "response": [
+        "doc_2620.txt",
+        "doc_2632.txt",
+        "doc_2618.txt",
+        "doc_2628.txt",
+        "doc_2627.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which rivers are located between the Tigris and Euphrates Rivers (Shat-al-Arab)?",
+    "response": [
+        "doc_4335.txt",
+        "doc_4336.txt",
+        "doc_4337.txt",
+        "doc_4338.txt",
+        "doc_4341.txt"
+    ]
+}

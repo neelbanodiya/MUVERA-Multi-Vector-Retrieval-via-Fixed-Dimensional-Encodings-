@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the fictional blue diamond featured in the film *Titanic*?",
+    "response": [
+        "doc_8478.txt",
+        "doc_8475.txt",
+        "doc_8485.txt",
+        "doc_8487.txt",
+        "doc_8490.txt"
+    ]
+}

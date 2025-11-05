@@ -1,0 +1,10 @@
+{
+    "query": "What is mentioned as a characteristic of William Shakespeare, according to one of the provided links?",
+    "response": [
+        "doc_19430.txt",
+        "doc_19425.txt",
+        "doc_3820.txt",
+        "doc_24107.txt",
+        "doc_20542.txt"
+    ]
+}

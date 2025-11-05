@@ -1,0 +1,10 @@
+{
+    "query": "How many states does the Kansas City metropolitan area straddle?",
+    "response": [
+        "doc_17057.txt",
+        "doc_17060.txt",
+        "doc_2259.txt",
+        "doc_20937.txt",
+        "doc_16254.txt"
+    ]
+}

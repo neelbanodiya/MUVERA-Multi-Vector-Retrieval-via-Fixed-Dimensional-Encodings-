@@ -1,0 +1,10 @@
+{
+    "query": "For which video game did Gustavo Santaolalla recently compose the original score?",
+    "response": [
+        "doc_6046.txt",
+        "doc_19272.txt",
+        "doc_1580.txt",
+        "doc_14616.txt",
+        "doc_4336.txt"
+    ]
+}

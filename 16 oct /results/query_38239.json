@@ -1,0 +1,10 @@
+{
+    "query": "What events are regularly held at the Empire State Plaza?",
+    "response": [
+        "doc_22435.txt",
+        "doc_22425.txt",
+        "doc_12177.txt",
+        "doc_22423.txt",
+        "doc_22434.txt"
+    ]
+}

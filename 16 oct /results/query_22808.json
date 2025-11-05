@@ -1,0 +1,10 @@
+{
+    "query": "When were the United States troops scheduled to withdraw from Iraqi towns and cities, according to the Status of Forces Agreement?",
+    "response": [
+        "doc_13132.txt",
+        "doc_13133.txt",
+        "doc_4810.txt",
+        "doc_6491.txt",
+        "doc_16466.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which NHL team drafted Sidney Crosby, and in what year?",
+    "response": [
+        "doc_21628.txt",
+        "doc_1991.txt",
+        "doc_1998.txt",
+        "doc_2001.txt",
+        "doc_1999.txt"
+    ]
+}

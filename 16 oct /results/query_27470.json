@@ -1,0 +1,10 @@
+{
+    "query": "How far is Tettegouche State Park from the city of Two Winona?",
+    "response": [
+        "doc_3656.txt",
+        "doc_2879.txt",
+        "doc_1654.txt",
+        "doc_9962.txt",
+        "doc_23872.txt"
+    ]
+}

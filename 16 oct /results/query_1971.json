@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate year of birth for Siddhartha Gautama, commonly known as the Buddha?",
+    "response": [
+        "doc_5710.txt",
+        "doc_5711.txt",
+        "doc_1192.txt",
+        "doc_5713.txt",
+        "doc_5709.txt"
+    ]
+}

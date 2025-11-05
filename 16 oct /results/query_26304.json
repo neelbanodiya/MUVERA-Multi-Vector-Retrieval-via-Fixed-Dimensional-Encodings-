@@ -1,0 +1,10 @@
+{
+    "query": "What event in 1943 involved a \u201cred-letter day\u201d in Peru, as described in one of the linked documents?",
+    "response": [
+        "doc_21185.txt",
+        "doc_21175.txt",
+        "doc_20875.txt",
+        "doc_21972.txt",
+        "doc_5333.txt"
+    ]
+}

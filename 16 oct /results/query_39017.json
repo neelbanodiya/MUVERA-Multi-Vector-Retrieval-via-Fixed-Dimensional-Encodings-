@@ -1,0 +1,10 @@
+{
+    "query": "When did Cecil B. DeMille\u2019s *The Squaw Man* debut?",
+    "response": [
+        "doc_22830.txt",
+        "doc_22834.txt",
+        "doc_22832.txt",
+        "doc_22836.txt",
+        "doc_22837.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which city is South Portland Bus Service located in, and what is a key feature of its bus routes?",
+    "response": [
+        "doc_18577.txt",
+        "doc_7401.txt",
+        "doc_5501.txt",
+        "doc_3204.txt",
+        "doc_10696.txt"
+    ]
+}

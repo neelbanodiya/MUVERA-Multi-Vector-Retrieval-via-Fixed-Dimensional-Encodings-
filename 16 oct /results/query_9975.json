@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Amelia Earhart disappear while attempting to set another flying record?",
+    "response": [
+        "doc_5785.txt",
+        "doc_5777.txt",
+        "doc_5784.txt",
+        "doc_5778.txt",
+        "doc_5789.txt"
+    ]
+}

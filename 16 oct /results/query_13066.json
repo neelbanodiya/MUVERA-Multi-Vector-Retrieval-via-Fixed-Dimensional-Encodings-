@@ -1,0 +1,10 @@
+{
+    "query": "When was the World Famous Gold & Silver Pawn Shop opened, and who co-owned it initially?",
+    "response": [
+        "doc_23923.txt",
+        "doc_8912.txt",
+        "doc_4482.txt",
+        "doc_19671.txt",
+        "doc_10815.txt"
+    ]
+}

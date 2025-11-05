@@ -1,0 +1,10 @@
+{
+    "query": "During which year did the British troops under the command of a \u201ctraitor\u201d massacre the American militia at Fort Griswold?",
+    "response": [
+        "doc_10419.txt",
+        "doc_10408.txt",
+        "doc_10407.txt",
+        "doc_10410.txt",
+        "doc_10417.txt"
+    ]
+}

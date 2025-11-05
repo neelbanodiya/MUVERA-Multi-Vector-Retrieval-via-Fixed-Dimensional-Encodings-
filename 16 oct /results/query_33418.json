@@ -1,0 +1,10 @@
+{
+    "query": "In what city was Kingston designated as the capital in 1872?",
+    "response": [
+        "doc_19464.txt",
+        "doc_19476.txt",
+        "doc_19475.txt",
+        "doc_2716.txt",
+        "doc_2706.txt"
+    ]
+}

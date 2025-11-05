@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the work Harold Innis wrote?",
+    "response": [
+        "doc_4939.txt",
+        "doc_22665.txt",
+        "doc_19420.txt",
+        "doc_6973.txt",
+        "doc_22247.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, how successful are NFL teams at converting two-point conversion attempts?",
+    "response": [
+        "doc_8624.txt",
+        "doc_8631.txt",
+        "doc_8627.txt",
+        "doc_8628.txt",
+        "doc_8630.txt"
+    ]
+}

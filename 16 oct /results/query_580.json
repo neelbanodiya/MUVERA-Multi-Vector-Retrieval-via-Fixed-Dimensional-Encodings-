@@ -1,0 +1,10 @@
+{
+    "query": "What question does Patrick Henry pose in his speech regarding military action, asking if \u201cfleets and armies\u201d are necessary?",
+    "response": [
+        "doc_340.txt",
+        "doc_342.txt",
+        "doc_347.txt",
+        "doc_341.txt",
+        "doc_338.txt"
+    ]
+}

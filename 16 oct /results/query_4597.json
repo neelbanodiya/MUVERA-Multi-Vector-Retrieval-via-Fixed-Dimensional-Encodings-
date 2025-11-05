@@ -1,0 +1,10 @@
+{
+    "query": "What was the value of the \u2018British rebate\u2019 for each year since 1982?",
+    "response": [
+        "doc_2664.txt",
+        "doc_11710.txt",
+        "doc_18671.txt",
+        "doc_17887.txt",
+        "doc_13855.txt"
+    ]
+}

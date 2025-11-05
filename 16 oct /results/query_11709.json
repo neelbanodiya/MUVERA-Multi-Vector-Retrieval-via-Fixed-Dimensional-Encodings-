@@ -1,0 +1,10 @@
+{
+    "query": "What type of flower is mentioned in relation to Dumas?",
+    "response": [
+        "doc_21541.txt",
+        "doc_13957.txt",
+        "doc_4220.txt",
+        "doc_1844.txt",
+        "doc_20311.txt"
+    ]
+}

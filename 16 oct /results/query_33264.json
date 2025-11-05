@@ -1,0 +1,10 @@
+{
+    "query": "What building is reminiscent of Lewis\u2019 previous Florida home?",
+    "response": [
+        "doc_20219.txt",
+        "doc_19360.txt",
+        "doc_21401.txt",
+        "doc_10093.txt",
+        "doc_19970.txt"
+    ]
+}

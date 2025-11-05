@@ -1,0 +1,10 @@
+{
+    "query": "What distinctive feature was portrayed by John Wayne in his Oscar-winning role?",
+    "response": [
+        "doc_23288.txt",
+        "doc_23286.txt",
+        "doc_23279.txt",
+        "doc_23292.txt",
+        "doc_23291.txt"
+    ]
+}

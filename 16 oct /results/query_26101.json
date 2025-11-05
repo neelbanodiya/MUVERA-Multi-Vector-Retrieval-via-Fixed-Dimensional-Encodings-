@@ -1,0 +1,10 @@
+{
+    "query": "Which former U.S. president utilized the \u201cMorning in America\u201d theme in a previous campaign?",
+    "response": [
+        "doc_15167.txt",
+        "doc_15171.txt",
+        "doc_15173.txt",
+        "doc_15177.txt",
+        "doc_15174.txt"
+    ]
+}

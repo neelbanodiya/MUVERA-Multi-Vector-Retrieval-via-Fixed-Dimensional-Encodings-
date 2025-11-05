@@ -1,0 +1,10 @@
+{
+    "query": "What action did the BBC take regarding its online services (the BBC I Player) to address potential competition concerns, as indicated by the Commission?",
+    "response": [
+        "doc_19004.txt",
+        "doc_16814.txt",
+        "doc_11117.txt",
+        "doc_9056.txt",
+        "doc_10818.txt"
+    ]
+}

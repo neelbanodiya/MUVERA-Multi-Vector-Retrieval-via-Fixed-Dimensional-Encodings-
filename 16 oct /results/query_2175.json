@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided articles, what is the temperature of the region above the Great Red Spot on Jupiter?",
+    "response": [
+        "doc_1282.txt",
+        "doc_1283.txt",
+        "doc_1287.txt",
+        "doc_1291.txt",
+        "doc_1285.txt"
+    ]
+}

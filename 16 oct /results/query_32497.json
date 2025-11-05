@@ -1,0 +1,10 @@
+{
+    "query": "In 1987, what song reached No. 6 on the Billboard pop charts, featuring Vonda Shepard?",
+    "response": [
+        "doc_11425.txt",
+        "doc_7542.txt",
+        "doc_18973.txt",
+        "doc_6383.txt",
+        "doc_5445.txt"
+    ]
+}

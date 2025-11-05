@@ -1,0 +1,10 @@
+{
+    "query": "What is the current situation regarding freedom of movement for EU citizens within the Schengen countries?",
+    "response": [
+        "doc_14947.txt",
+        "doc_7293.txt",
+        "doc_7291.txt",
+        "doc_11815.txt",
+        "doc_7432.txt"
+    ]
+}

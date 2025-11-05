@@ -1,0 +1,10 @@
+{
+    "query": "Where was the Karisoke Research Centre located?",
+    "response": [
+        "doc_19864.txt",
+        "doc_19868.txt",
+        "doc_16591.txt",
+        "doc_5152.txt",
+        "doc_6315.txt"
+    ]
+}

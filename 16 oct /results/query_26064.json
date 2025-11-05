@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was King David doing when he encountered a situation similar to an animal defending its young?",
+    "response": [
+        "doc_15149.txt",
+        "doc_15148.txt",
+        "doc_1820.txt",
+        "doc_1819.txt",
+        "doc_21870.txt"
+    ]
+}

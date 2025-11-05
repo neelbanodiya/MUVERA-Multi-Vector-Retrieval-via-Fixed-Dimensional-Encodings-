@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of John Steinbeck\u2019s last novel?",
+    "response": [
+        "doc_19420.txt",
+        "doc_19425.txt",
+        "doc_642.txt",
+        "doc_20538.txt",
+        "doc_22665.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What happened in Okinawa after World War II, according to the provided information?",
+    "response": [
+        "doc_16206.txt",
+        "doc_16207.txt",
+        "doc_2977.txt",
+        "doc_16200.txt",
+        "doc_16199.txt"
+    ]
+}

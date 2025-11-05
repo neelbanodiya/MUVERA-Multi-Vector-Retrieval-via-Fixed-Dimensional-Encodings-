@@ -1,0 +1,10 @@
+{
+    "query": "According to the World Health Organization, what are some of the health consequences associated with the practice of female genital mutilation?",
+    "response": [
+        "doc_14874.txt",
+        "doc_16710.txt",
+        "doc_7834.txt",
+        "doc_8316.txt",
+        "doc_5287.txt"
+    ]
+}

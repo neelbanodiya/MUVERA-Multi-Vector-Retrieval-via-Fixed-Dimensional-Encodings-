@@ -1,0 +1,10 @@
+{
+    "query": "What does the name \"Zimmerman\" mean in German?",
+    "response": [
+        "doc_8296.txt",
+        "doc_12501.txt",
+        "doc_23595.txt",
+        "doc_1073.txt",
+        "doc_12503.txt"
+    ]
+}

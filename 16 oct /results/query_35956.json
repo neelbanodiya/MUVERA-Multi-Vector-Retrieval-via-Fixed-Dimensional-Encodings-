@@ -1,0 +1,10 @@
+{
+    "query": "Which film was produced by the World Wrestling Federation to boost Hulk Hogan\u2019s acting career?",
+    "response": [
+        "doc_20955.txt",
+        "doc_20957.txt",
+        "doc_20956.txt",
+        "doc_13007.txt",
+        "doc_12258.txt"
+    ]
+}

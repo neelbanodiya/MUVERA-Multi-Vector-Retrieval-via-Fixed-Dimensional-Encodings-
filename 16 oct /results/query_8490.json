@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was a notable outcome of *Citizen Kane*'s Oscar nominations?",
+    "response": [
+        "doc_4925.txt",
+        "doc_4924.txt",
+        "doc_4911.txt",
+        "doc_4919.txt",
+        "doc_4920.txt"
+    ]
+}

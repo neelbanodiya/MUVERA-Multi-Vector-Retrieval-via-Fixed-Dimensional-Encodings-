@@ -1,0 +1,10 @@
+{
+    "query": "What goods did East Africans export from the coast?",
+    "response": [
+        "doc_8791.txt",
+        "doc_10932.txt",
+        "doc_15839.txt",
+        "doc_15838.txt",
+        "doc_10166.txt"
+    ]
+}

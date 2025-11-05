@@ -1,0 +1,10 @@
+{
+    "query": "According to Nelson Mandela, what is a \u201cformidable combination\u201d?",
+    "response": [
+        "doc_1484.txt",
+        "doc_6821.txt",
+        "doc_20301.txt",
+        "doc_16005.txt",
+        "doc_4235.txt"
+    ]
+}

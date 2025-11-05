@@ -1,0 +1,10 @@
+{
+    "query": "What is located on the hill known as the Acropolis?",
+    "response": [
+        "doc_22657.txt",
+        "doc_5416.txt",
+        "doc_8682.txt",
+        "doc_3870.txt",
+        "doc_5413.txt"
+    ]
+}

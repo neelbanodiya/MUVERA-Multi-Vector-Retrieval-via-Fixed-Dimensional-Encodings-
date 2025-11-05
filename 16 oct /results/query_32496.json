@@ -1,0 +1,10 @@
+{
+    "query": "Besides appearing in *Ally McBeal*, what other television show did Vonda Shepard work on as a regular?",
+    "response": [
+        "doc_18966.txt",
+        "doc_18967.txt",
+        "doc_18972.txt",
+        "doc_18969.txt",
+        "doc_18971.txt"
+    ]
+}

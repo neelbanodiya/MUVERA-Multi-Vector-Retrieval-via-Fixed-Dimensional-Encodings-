@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Sir Joshua Reynolds paint Sarah Siddons as the Tragic Muse?",
+    "response": [
+        "doc_20405.txt",
+        "doc_20408.txt",
+        "doc_20418.txt",
+        "doc_20417.txt",
+        "doc_20422.txt"
+    ]
+}

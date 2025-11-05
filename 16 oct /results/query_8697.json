@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Christopher Columbus first encounter land he called Trinidad?",
+    "response": [
+        "doc_5025.txt",
+        "doc_5026.txt",
+        "doc_5030.txt",
+        "doc_13475.txt",
+        "doc_5024.txt"
+    ]
+}

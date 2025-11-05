@@ -1,0 +1,10 @@
+{
+    "query": "What happened during the 2016 House sit-in regarding the Democratic majority?",
+    "response": [
+        "doc_5967.txt",
+        "doc_5980.txt",
+        "doc_6491.txt",
+        "doc_20514.txt",
+        "doc_22700.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which three Muses are mentioned in the passage?",
+    "response": [
+        "doc_15660.txt",
+        "doc_15662.txt",
+        "doc_15658.txt",
+        "doc_15663.txt",
+        "doc_7105.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which countries within the Sahel-Saharan region are specifically mentioned as being important for security and development?",
+    "response": [
+        "doc_1179.txt",
+        "doc_7833.txt",
+        "doc_17360.txt",
+        "doc_7294.txt",
+        "doc_22999.txt"
+    ]
+}

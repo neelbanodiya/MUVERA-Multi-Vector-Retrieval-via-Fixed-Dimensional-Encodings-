@@ -1,0 +1,10 @@
+{
+    "query": "What was Mr. Kurtz\u2019s role in the trading company described in the passages?",
+    "response": [
+        "doc_2139.txt",
+        "doc_312.txt",
+        "doc_20608.txt",
+        "doc_313.txt",
+        "doc_2837.txt"
+    ]
+}

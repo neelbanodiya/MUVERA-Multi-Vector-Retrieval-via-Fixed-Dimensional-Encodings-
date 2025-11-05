@@ -1,0 +1,10 @@
+{
+    "query": "When did production begin at the Chuquicamata copper mine?",
+    "response": [
+        "doc_5142.txt",
+        "doc_5145.txt",
+        "doc_5151.txt",
+        "doc_5155.txt",
+        "doc_5154.txt"
+    ]
+}

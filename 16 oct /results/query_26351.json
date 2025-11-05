@@ -1,0 +1,10 @@
+{
+    "query": "According to Mr. Verheugen, what role does the tourism sector play within the European Union?",
+    "response": [
+        "doc_7949.txt",
+        "doc_15326.txt",
+        "doc_12615.txt",
+        "doc_17600.txt",
+        "doc_17580.txt"
+    ]
+}

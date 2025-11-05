@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate number of internally displaced persons (IDPs) in Turkey between 1986 and 2005, according to the 2006 survey?",
+    "response": [
+        "doc_1939.txt",
+        "doc_13132.txt",
+        "doc_21976.txt",
+        "doc_3098.txt",
+        "doc_15051.txt"
+    ]
+}

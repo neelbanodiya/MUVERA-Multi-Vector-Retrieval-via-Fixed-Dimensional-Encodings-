@@ -1,0 +1,10 @@
+{
+    "query": "How did the plan following WWI aim to change a nation\u2019s power?",
+    "response": [
+        "doc_586.txt",
+        "doc_13812.txt",
+        "doc_10774.txt",
+        "doc_16628.txt",
+        "doc_4346.txt"
+    ]
+}

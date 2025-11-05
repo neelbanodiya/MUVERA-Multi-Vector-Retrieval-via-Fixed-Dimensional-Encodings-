@@ -1,0 +1,10 @@
+{
+    "query": "How many members are in the US House of Representatives?",
+    "response": [
+        "doc_8652.txt",
+        "doc_8653.txt",
+        "doc_9116.txt",
+        "doc_5966.txt",
+        "doc_13263.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what song reached number one on the Billboard Hot 100 in 1989?",
+    "response": [
+        "doc_6689.txt",
+        "doc_7542.txt",
+        "doc_15322.txt",
+        "doc_6770.txt",
+        "doc_13736.txt"
+    ]
+}

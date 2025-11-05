@@ -1,0 +1,10 @@
+{
+    "query": "Who is credited with the common name \u201cBook of the Dead,\u201d and what was their profession?",
+    "response": [
+        "doc_8258.txt",
+        "doc_1723.txt",
+        "doc_11909.txt",
+        "doc_2422.txt",
+        "doc_12463.txt"
+    ]
+}

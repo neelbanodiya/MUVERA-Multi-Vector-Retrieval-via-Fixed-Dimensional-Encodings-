@@ -1,0 +1,10 @@
+{
+    "query": "Approximately what percentage of species went extinct at the end of the Cretaceous period?",
+    "response": [
+        "doc_8614.txt",
+        "doc_8615.txt",
+        "doc_8613.txt",
+        "doc_8611.txt",
+        "doc_23877.txt"
+    ]
+}

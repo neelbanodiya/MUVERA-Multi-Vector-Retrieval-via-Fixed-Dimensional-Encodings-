@@ -1,0 +1,10 @@
+{
+    "query": "What specific types of seafood are explicitly permitted for import into the EU according to Commission Decision 2006/766/EC?",
+    "response": [
+        "doc_17301.txt",
+        "doc_12103.txt",
+        "doc_17268.txt",
+        "doc_12101.txt",
+        "doc_6414.txt"
+    ]
+}

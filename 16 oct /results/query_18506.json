@@ -1,0 +1,10 @@
+{
+    "query": "Monica Ryan hired him to handle her divorce.",
+    "response": [
+        "doc_2550.txt",
+        "doc_9183.txt",
+        "doc_22178.txt",
+        "doc_24167.txt",
+        "doc_32.txt"
+    ]
+}

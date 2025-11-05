@@ -1,0 +1,10 @@
+{
+    "query": "On which television anthology series was \u201cLittle House on the Prairie\u201d broadcast?",
+    "response": [
+        "doc_12613.txt",
+        "doc_12612.txt",
+        "doc_9515.txt",
+        "doc_23435.txt",
+        "doc_9000.txt"
+    ]
+}

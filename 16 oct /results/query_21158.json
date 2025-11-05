@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Mercy Hospital and Medical Center established?",
+    "response": [
+        "doc_12227.txt",
+        "doc_5496.txt",
+        "doc_12229.txt",
+        "doc_12230.txt",
+        "doc_12228.txt"
+    ]
+}

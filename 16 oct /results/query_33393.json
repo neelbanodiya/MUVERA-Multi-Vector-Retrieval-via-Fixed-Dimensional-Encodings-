@@ -1,0 +1,10 @@
+{
+    "query": "What types of sports did \u201cSports Illustrated for Women\u201d cover?",
+    "response": [
+        "doc_19456.txt",
+        "doc_19458.txt",
+        "doc_21601.txt",
+        "doc_21599.txt",
+        "doc_6460.txt"
+    ]
+}

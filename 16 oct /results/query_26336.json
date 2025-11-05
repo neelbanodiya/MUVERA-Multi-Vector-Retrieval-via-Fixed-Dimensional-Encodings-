@@ -1,0 +1,10 @@
+{
+    "query": "What was the first album released by The Kingbees, and when was it released?",
+    "response": [
+        "doc_22673.txt",
+        "doc_2675.txt",
+        "doc_17091.txt",
+        "doc_8006.txt",
+        "doc_5318.txt"
+    ]
+}

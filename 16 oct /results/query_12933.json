@@ -1,0 +1,10 @@
+{
+    "query": "What duet did Luther Vandross and Mariah Carey release in 1994?",
+    "response": [
+        "doc_7538.txt",
+        "doc_7542.txt",
+        "doc_7539.txt",
+        "doc_7543.txt",
+        "doc_7536.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What style of architecture is the 70 Pine Street building?",
+    "response": [
+        "doc_28.txt",
+        "doc_29.txt",
+        "doc_19972.txt",
+        "doc_4177.txt",
+        "doc_10089.txt"
+    ]
+}

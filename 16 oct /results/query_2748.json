@@ -1,0 +1,10 @@
+{
+    "query": "What river flows between the twin cities of Sault Ste. Marie?",
+    "response": [
+        "doc_1633.txt",
+        "doc_1645.txt",
+        "doc_1650.txt",
+        "doc_1647.txt",
+        "doc_1641.txt"
+    ]
+}

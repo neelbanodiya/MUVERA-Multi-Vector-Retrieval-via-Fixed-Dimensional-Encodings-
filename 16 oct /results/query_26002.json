@@ -1,0 +1,10 @@
+{
+    "query": "What event led William Shatner to believe a Star Trek movie might be possible?",
+    "response": [
+        "doc_4925.txt",
+        "doc_17181.txt",
+        "doc_2173.txt",
+        "doc_10967.txt",
+        "doc_17072.txt"
+    ]
+}

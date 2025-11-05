@@ -1,0 +1,10 @@
+{
+    "query": "What controversial practice was employed in the production of \"The Birth of a Nation\" regarding the portrayal of Black characters?",
+    "response": [
+        "doc_1678.txt",
+        "doc_2517.txt",
+        "doc_2526.txt",
+        "doc_8400.txt",
+        "doc_1298.txt"
+    ]
+}

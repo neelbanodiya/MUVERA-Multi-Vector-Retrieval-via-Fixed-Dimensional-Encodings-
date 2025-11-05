@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what are some ingredients used in Greek yogurt-based sauces?",
+    "response": [
+        "doc_15779.txt",
+        "doc_15787.txt",
+        "doc_15786.txt",
+        "doc_15784.txt",
+        "doc_15778.txt"
+    ]
+}

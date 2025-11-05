@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what items are included in a basket for a Batman-themed promotion?",
+    "response": [
+        "doc_21619.txt",
+        "doc_22131.txt",
+        "doc_14871.txt",
+        "doc_21601.txt",
+        "doc_8337.txt"
+    ]
+}

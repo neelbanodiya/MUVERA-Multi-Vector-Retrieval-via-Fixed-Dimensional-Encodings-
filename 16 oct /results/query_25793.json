@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the science fiction novel \u201cStand On Zanzibar\u201d published?",
+    "response": [
+        "doc_20297.txt",
+        "doc_14975.txt",
+        "doc_11488.txt",
+        "doc_15551.txt",
+        "doc_8694.txt"
+    ]
+}

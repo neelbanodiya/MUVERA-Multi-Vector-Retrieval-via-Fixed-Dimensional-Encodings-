@@ -1,0 +1,10 @@
+{
+    "query": "What was the Earl Carroll Theater designed to hold?",
+    "response": [
+        "doc_10560.txt",
+        "doc_3970.txt",
+        "doc_23030.txt",
+        "doc_3976.txt",
+        "doc_20008.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Khan return home?",
+    "response": [
+        "doc_16326.txt",
+        "doc_2299.txt",
+        "doc_1402.txt",
+        "doc_15348.txt",
+        "doc_18156.txt"
+    ]
+}

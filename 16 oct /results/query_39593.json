@@ -1,0 +1,10 @@
+{
+    "query": "What is the dummy associated with Edgar Bergen and Charlie McCarthy known for?",
+    "response": [
+        "doc_15277.txt",
+        "doc_20408.txt",
+        "doc_18954.txt",
+        "doc_1848.txt",
+        "doc_5372.txt"
+    ]
+}

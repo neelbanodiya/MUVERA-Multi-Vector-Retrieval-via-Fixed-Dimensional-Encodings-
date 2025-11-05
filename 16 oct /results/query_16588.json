@@ -1,0 +1,10 @@
+{
+    "query": "What was the timeframe of the Battle of Jutland?",
+    "response": [
+        "doc_1483.txt",
+        "doc_4066.txt",
+        "doc_15924.txt",
+        "doc_15912.txt",
+        "doc_207.txt"
+    ]
+}

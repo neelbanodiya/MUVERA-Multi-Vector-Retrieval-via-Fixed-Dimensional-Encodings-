@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided information, what was Al Capone\u2019s first mobster job?",
+    "response": [
+        "doc_12233.txt",
+        "doc_12239.txt",
+        "doc_12245.txt",
+        "doc_12236.txt",
+        "doc_12237.txt"
+    ]
+}

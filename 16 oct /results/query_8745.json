@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what does Mormonism state about the Bible?",
+    "response": [
+        "doc_5033.txt",
+        "doc_5036.txt",
+        "doc_5044.txt",
+        "doc_5034.txt",
+        "doc_5037.txt"
+    ]
+}

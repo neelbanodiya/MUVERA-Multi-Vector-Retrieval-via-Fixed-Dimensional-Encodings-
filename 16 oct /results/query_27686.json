@@ -1,0 +1,10 @@
+{
+    "query": "Who directed the original *Mad Max* film starring Mel Gibson?",
+    "response": [
+        "doc_16096.txt",
+        "doc_16093.txt",
+        "doc_16095.txt",
+        "doc_16101.txt",
+        "doc_16099.txt"
+    ]
+}

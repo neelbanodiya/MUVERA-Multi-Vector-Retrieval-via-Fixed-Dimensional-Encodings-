@@ -1,0 +1,10 @@
+{
+    "query": "What anniversary did the Coca-Cola Company celebrate in 2003?",
+    "response": [
+        "doc_21133.txt",
+        "doc_21137.txt",
+        "doc_12646.txt",
+        "doc_397.txt",
+        "doc_10527.txt"
+    ]
+}

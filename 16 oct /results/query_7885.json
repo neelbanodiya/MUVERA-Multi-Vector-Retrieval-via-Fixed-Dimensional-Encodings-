@@ -1,0 +1,10 @@
+{
+    "query": "What was Tom Sharky\u2019s profession in the 1918 article from the New York Times?",
+    "response": [
+        "doc_12227.txt",
+        "doc_7152.txt",
+        "doc_14383.txt",
+        "doc_2139.txt",
+        "doc_1222.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What types of paintings did Cornelius create besides portraits?",
+    "response": [
+        "doc_21518.txt",
+        "doc_4283.txt",
+        "doc_21506.txt",
+        "doc_21501.txt",
+        "doc_24106.txt"
+    ]
+}

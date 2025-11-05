@@ -1,0 +1,10 @@
+{
+    "query": "What is the French translation of \u201cthe English Channel\u201d?",
+    "response": [
+        "doc_23167.txt",
+        "doc_23170.txt",
+        "doc_23172.txt",
+        "doc_23173.txt",
+        "doc_23169.txt"
+    ]
+}

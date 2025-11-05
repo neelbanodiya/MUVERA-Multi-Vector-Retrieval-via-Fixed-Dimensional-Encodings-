@@ -1,0 +1,10 @@
+{
+    "query": "Which song by Big Country became a major hit in the UK and internationally?",
+    "response": [
+        "doc_15738.txt",
+        "doc_15739.txt",
+        "doc_5370.txt",
+        "doc_15322.txt",
+        "doc_11672.txt"
+    ]
+}

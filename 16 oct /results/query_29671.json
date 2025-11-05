@@ -1,0 +1,10 @@
+{
+    "query": "What is the current policy regarding visa requirements for Hong Kong citizens entering the EU for stays of no more than three months?",
+    "response": [
+        "doc_11808.txt",
+        "doc_18576.txt",
+        "doc_17249.txt",
+        "doc_1276.txt",
+        "doc_12905.txt"
+    ]
+}

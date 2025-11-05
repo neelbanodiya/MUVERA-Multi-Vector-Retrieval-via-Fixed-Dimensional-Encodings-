@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what was Hiram Ulysses Grant\u2019s maternal grandfather\u2019s name?",
+    "response": [
+        "doc_11837.txt",
+        "doc_11829.txt",
+        "doc_11836.txt",
+        "doc_11831.txt",
+        "doc_11834.txt"
+    ]
+}

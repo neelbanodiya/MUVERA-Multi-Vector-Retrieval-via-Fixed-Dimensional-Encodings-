@@ -1,0 +1,10 @@
+{
+    "query": "What are some differences noted between British and American English, according to the provided texts?",
+    "response": [
+        "doc_19708.txt",
+        "doc_2885.txt",
+        "doc_14711.txt",
+        "doc_971.txt",
+        "doc_951.txt"
+    ]
+}

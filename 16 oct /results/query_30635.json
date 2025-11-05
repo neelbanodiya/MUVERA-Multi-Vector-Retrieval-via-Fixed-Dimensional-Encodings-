@@ -1,0 +1,10 @@
+{
+    "query": "What is the recommended way to get to Tower Tours for Wharf hotels?",
+    "response": [
+        "doc_17807.txt",
+        "doc_17813.txt",
+        "doc_17815.txt",
+        "doc_17816.txt",
+        "doc_17806.txt"
+    ]
+}

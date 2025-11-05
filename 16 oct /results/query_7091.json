@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the second-largest city in Arizona?",
+    "response": [
+        "doc_21464.txt",
+        "doc_4059.txt",
+        "doc_2257.txt",
+        "doc_67.txt",
+        "doc_6514.txt"
+    ]
+}

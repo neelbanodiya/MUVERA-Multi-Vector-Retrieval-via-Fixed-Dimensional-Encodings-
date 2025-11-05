@@ -1,0 +1,10 @@
+{
+    "query": "Which islands, specifically in Mindanao and the Sulu Sea, are mentioned as areas to avoid due to political instability?",
+    "response": [
+        "doc_12058.txt",
+        "doc_12062.txt",
+        "doc_12063.txt",
+        "doc_12064.txt",
+        "doc_12060.txt"
+    ]
+}

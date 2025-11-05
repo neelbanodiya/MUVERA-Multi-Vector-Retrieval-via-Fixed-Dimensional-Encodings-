@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what happened to inhabitants of Eldorado?",
+    "response": [
+        "doc_6834.txt",
+        "doc_857.txt",
+        "doc_14526.txt",
+        "doc_14524.txt",
+        "doc_18155.txt"
+    ]
+}

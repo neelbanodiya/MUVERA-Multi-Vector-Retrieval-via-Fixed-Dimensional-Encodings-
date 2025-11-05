@@ -1,0 +1,10 @@
+{
+    "query": "Which report was presented by Reimer B\u00f6ge regarding the multiannual financial framework?",
+    "response": [
+        "doc_19293.txt",
+        "doc_12615.txt",
+        "doc_3247.txt",
+        "doc_20096.txt",
+        "doc_9745.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, which countries experienced the highest casualty counts in World War I?",
+    "response": [
+        "doc_1627.txt",
+        "doc_23516.txt",
+        "doc_21351.txt",
+        "doc_3548.txt",
+        "doc_3579.txt"
+    ]
+}

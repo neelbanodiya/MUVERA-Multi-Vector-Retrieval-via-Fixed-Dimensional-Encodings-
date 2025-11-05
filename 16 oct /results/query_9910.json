@@ -1,0 +1,10 @@
+{
+    "query": "What type of produce is unique to Penang and sold at Chowrasta Market?",
+    "response": [
+        "doc_5756.txt",
+        "doc_5755.txt",
+        "doc_1319.txt",
+        "doc_10433.txt",
+        "doc_18270.txt"
+    ]
+}

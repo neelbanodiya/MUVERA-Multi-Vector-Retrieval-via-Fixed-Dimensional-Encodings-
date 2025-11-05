@@ -1,0 +1,10 @@
+{
+    "query": "Who imprisoned Daedalus and his son Icarus?",
+    "response": [
+        "doc_18192.txt",
+        "doc_18195.txt",
+        "doc_18193.txt",
+        "doc_18196.txt",
+        "doc_18207.txt"
+    ]
+}

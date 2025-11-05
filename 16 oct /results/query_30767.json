@@ -1,0 +1,10 @@
+{
+    "query": "What is the \u201cr\u00e9cit\u201d subgenre of French novels, as described by Roger Shattuck?",
+    "response": [
+        "doc_17271.txt",
+        "doc_20263.txt",
+        "doc_15532.txt",
+        "doc_18151.txt",
+        "doc_20265.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is a common exclamation when seeing Superman?",
+    "response": [
+        "doc_21371.txt",
+        "doc_21369.txt",
+        "doc_21368.txt",
+        "doc_9445.txt",
+        "doc_5041.txt"
+    ]
+}

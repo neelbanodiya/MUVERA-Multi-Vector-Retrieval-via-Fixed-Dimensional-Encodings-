@@ -1,0 +1,10 @@
+{
+    "query": "Which museum features an exhibition showcasing the Powerhouse Museum\u2019s work?",
+    "response": [
+        "doc_20379.txt",
+        "doc_22790.txt",
+        "doc_16724.txt",
+        "doc_8507.txt",
+        "doc_14728.txt"
+    ]
+}

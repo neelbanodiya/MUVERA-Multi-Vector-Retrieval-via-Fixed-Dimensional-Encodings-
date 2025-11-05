@@ -1,0 +1,10 @@
+{
+    "query": "According to multiple sources, what has Patrick Jake O'Rourke been described as by publications like Time and The Wall Street Journal?",
+    "response": [
+        "doc_18583.txt",
+        "doc_1725.txt",
+        "doc_19456.txt",
+        "doc_3935.txt",
+        "doc_20914.txt"
+    ]
+}

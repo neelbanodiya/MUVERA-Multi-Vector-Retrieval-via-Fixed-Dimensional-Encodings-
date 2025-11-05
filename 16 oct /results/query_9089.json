@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what are some of the priority areas that the future European security research programme should include?",
+    "response": [
+        "doc_5232.txt",
+        "doc_17346.txt",
+        "doc_21026.txt",
+        "doc_5235.txt",
+        "doc_10592.txt"
+    ]
+}

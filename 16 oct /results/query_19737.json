@@ -1,0 +1,10 @@
+{
+    "query": "What was the impact of Proposition 227 in California?",
+    "response": [
+        "doc_11398.txt",
+        "doc_11400.txt",
+        "doc_5697.txt",
+        "doc_11404.txt",
+        "doc_24030.txt"
+    ]
+}

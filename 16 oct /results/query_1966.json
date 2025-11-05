@@ -1,0 +1,10 @@
+{
+    "query": "According to legend, what was the first exposure to Buddhist teaching for Siddhartha Gautama?",
+    "response": [
+        "doc_1193.txt",
+        "doc_5710.txt",
+        "doc_5713.txt",
+        "doc_1191.txt",
+        "doc_1192.txt"
+    ]
+}

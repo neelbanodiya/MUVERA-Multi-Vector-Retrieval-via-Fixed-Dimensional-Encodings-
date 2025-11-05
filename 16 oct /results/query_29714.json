@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, how much did the administration costs of the European Schools amount to in 2000?",
+    "response": [
+        "doc_14283.txt",
+        "doc_17267.txt",
+        "doc_22221.txt",
+        "doc_16895.txt",
+        "doc_14123.txt"
+    ]
+}

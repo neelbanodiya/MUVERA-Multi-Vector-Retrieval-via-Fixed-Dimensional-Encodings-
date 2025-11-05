@@ -1,0 +1,10 @@
+{
+    "query": "What did Dirty Harry forget himself to do regarding the number of shots fired?",
+    "response": [
+        "doc_19686.txt",
+        "doc_19692.txt",
+        "doc_6759.txt",
+        "doc_287.txt",
+        "doc_22072.txt"
+    ]
+}

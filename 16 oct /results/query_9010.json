@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of Alexander the Great\u2019s horse?",
+    "response": [
+        "doc_5192.txt",
+        "doc_5198.txt",
+        "doc_1834.txt",
+        "doc_6834.txt",
+        "doc_5194.txt"
+    ]
+}

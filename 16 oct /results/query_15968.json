@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is the origin of the name \u201cCanada\u201d?",
+    "response": [
+        "doc_9250.txt",
+        "doc_9249.txt",
+        "doc_9251.txt",
+        "doc_23167.txt",
+        "doc_9979.txt"
+    ]
+}

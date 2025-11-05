@@ -1,0 +1,10 @@
+{
+    "query": "How much of the world\u2019s land area does the Sahara Desert currently comprise?",
+    "response": [
+        "doc_3268.txt",
+        "doc_3280.txt",
+        "doc_2277.txt",
+        "doc_3272.txt",
+        "doc_3267.txt"
+    ]
+}

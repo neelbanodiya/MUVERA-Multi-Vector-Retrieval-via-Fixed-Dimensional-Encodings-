@@ -1,0 +1,10 @@
+{
+    "query": "What role did Ayatollah Khomeini play in the establishment of the Islamic Republic of Iran?",
+    "response": [
+        "doc_9584.txt",
+        "doc_9571.txt",
+        "doc_9579.txt",
+        "doc_9582.txt",
+        "doc_9580.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what is the relationship between Jeremiah and Josiah?",
+    "response": [
+        "doc_14532.txt",
+        "doc_14522.txt",
+        "doc_13130.txt",
+        "doc_14531.txt",
+        "doc_15681.txt"
+    ]
+}

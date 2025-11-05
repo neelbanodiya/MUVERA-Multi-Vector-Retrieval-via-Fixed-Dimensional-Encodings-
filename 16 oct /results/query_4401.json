@@ -1,0 +1,10 @@
+{
+    "query": "On what date was Dick Cheney born?",
+    "response": [
+        "doc_2562.txt",
+        "doc_2560.txt",
+        "doc_2561.txt",
+        "doc_2565.txt",
+        "doc_2564.txt"
+    ]
+}

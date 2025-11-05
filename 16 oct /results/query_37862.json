@@ -1,0 +1,10 @@
+{
+    "query": "What is the source of information regarding contributions by members of the European Parliament to a retirement pension scheme?",
+    "response": [
+        "doc_14134.txt",
+        "doc_14152.txt",
+        "doc_22197.txt",
+        "doc_22205.txt",
+        "doc_22193.txt"
+    ]
+}

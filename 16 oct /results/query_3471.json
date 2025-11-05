@@ -1,0 +1,10 @@
+{
+    "query": "How can visitors reach the European Parliament in Strasbourg?",
+    "response": [
+        "doc_2051.txt",
+        "doc_2050.txt",
+        "doc_13539.txt",
+        "doc_13316.txt",
+        "doc_2058.txt"
+    ]
+}

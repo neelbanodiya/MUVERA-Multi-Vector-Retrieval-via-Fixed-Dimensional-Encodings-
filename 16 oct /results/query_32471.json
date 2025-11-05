@@ -1,0 +1,10 @@
+{
+    "query": "What film did Oliver Stone ask Emilio Estevez to star in?",
+    "response": [
+        "doc_18944.txt",
+        "doc_18940.txt",
+        "doc_17169.txt",
+        "doc_23279.txt",
+        "doc_17778.txt"
+    ]
+}

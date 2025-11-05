@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what are some potential risks associated with medical imaging procedures like X-rays and CT scans?",
+    "response": [
+        "doc_21214.txt",
+        "doc_8962.txt",
+        "doc_11605.txt",
+        "doc_21220.txt",
+        "doc_21846.txt"
+    ]
+}

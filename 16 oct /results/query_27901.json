@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Scott Turow\u2019s \u201cPresumed Innocent\u201d published?",
+    "response": [
+        "doc_16223.txt",
+        "doc_16218.txt",
+        "doc_16220.txt",
+        "doc_16219.txt",
+        "doc_16224.txt"
+    ]
+}

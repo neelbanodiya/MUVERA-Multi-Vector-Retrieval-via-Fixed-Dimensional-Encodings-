@@ -1,0 +1,10 @@
+{
+    "query": "Can you identify any specific dates associated with mentions of the Declaration of Independence in the text?",
+    "response": [
+        "doc_19850.txt",
+        "doc_19845.txt",
+        "doc_13247.txt",
+        "doc_19852.txt",
+        "doc_19853.txt"
+    ]
+}

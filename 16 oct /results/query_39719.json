@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote the memoir \u201cBlack, White, and Jewish: Autobiography of a Shifting Self\u201d?",
+    "response": [
+        "doc_23254.txt",
+        "doc_23251.txt",
+        "doc_23253.txt",
+        "doc_23252.txt",
+        "doc_23259.txt"
+    ]
+}

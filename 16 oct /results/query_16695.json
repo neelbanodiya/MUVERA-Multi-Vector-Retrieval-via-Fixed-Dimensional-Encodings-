@@ -1,0 +1,10 @@
+{
+    "query": "According to the ICTY, what element of the Prijedor events in 1992 met the \u201cactus reus\u201d requirement?",
+    "response": [
+        "doc_9673.txt",
+        "doc_22712.txt",
+        "doc_8113.txt",
+        "doc_19832.txt",
+        "doc_5367.txt"
+    ]
+}

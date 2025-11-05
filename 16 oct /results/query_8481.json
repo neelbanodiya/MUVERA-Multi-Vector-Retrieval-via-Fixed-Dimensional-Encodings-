@@ -1,0 +1,10 @@
+{
+    "query": "What film received Oscar nominations for Best Director and Screenplay Adaptation?",
+    "response": [
+        "doc_4909.txt",
+        "doc_4919.txt",
+        "doc_4917.txt",
+        "doc_4918.txt",
+        "doc_14342.txt"
+    ]
+}

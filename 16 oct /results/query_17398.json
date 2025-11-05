@@ -1,0 +1,10 @@
+{
+    "query": "What significant document did Thomas Jefferson present in 1776?",
+    "response": [
+        "doc_19852.txt",
+        "doc_19845.txt",
+        "doc_18663.txt",
+        "doc_19842.txt",
+        "doc_19366.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What time is the 5:45pm return from Pier 33 available for customers?",
+    "response": [
+        "doc_17806.txt",
+        "doc_17815.txt",
+        "doc_17808.txt",
+        "doc_7368.txt",
+        "doc_16912.txt"
+    ]
+}

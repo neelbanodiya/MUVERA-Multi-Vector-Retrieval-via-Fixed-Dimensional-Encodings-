@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what role do fairies typically play in stories like *Sleeping Beauty* and *Cinderella*?",
+    "response": [
+        "doc_6018.txt",
+        "doc_6021.txt",
+        "doc_23545.txt",
+        "doc_6014.txt",
+        "doc_6022.txt"
+    ]
+}

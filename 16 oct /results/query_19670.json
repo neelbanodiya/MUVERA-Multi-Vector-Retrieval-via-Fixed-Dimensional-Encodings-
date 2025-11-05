@@ -1,0 +1,10 @@
+{
+    "query": "Who was the goaltender for the U.S. Olympic hockey team in 1980?",
+    "response": [
+        "doc_11342.txt",
+        "doc_11341.txt",
+        "doc_11350.txt",
+        "doc_11343.txt",
+        "doc_11358.txt"
+    ]
+}

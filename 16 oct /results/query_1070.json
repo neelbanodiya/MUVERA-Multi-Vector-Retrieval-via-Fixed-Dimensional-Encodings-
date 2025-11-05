@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the documentary film \u201cThe Judge and the General\u201d released, and what was its subject matter?",
+    "response": [
+        "doc_140.txt",
+        "doc_8423.txt",
+        "doc_16.txt",
+        "doc_458.txt",
+        "doc_1580.txt"
+    ]
+}

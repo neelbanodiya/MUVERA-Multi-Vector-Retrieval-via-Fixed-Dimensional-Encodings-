@@ -1,0 +1,10 @@
+{
+    "query": "What kind of vodka was frequently served at Catherine the Great\u2019s Jubilee celebrations?",
+    "response": [
+        "doc_16603.txt",
+        "doc_4947.txt",
+        "doc_4942.txt",
+        "doc_16601.txt",
+        "doc_16608.txt"
+    ]
+}

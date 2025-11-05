@@ -1,0 +1,10 @@
+{
+    "query": "Where is wheat primarily grown in China?",
+    "response": [
+        "doc_9289.txt",
+        "doc_9281.txt",
+        "doc_9280.txt",
+        "doc_9291.txt",
+        "doc_9277.txt"
+    ]
+}

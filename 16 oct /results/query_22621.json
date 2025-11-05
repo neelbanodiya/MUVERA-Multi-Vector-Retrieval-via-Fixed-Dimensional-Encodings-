@@ -1,0 +1,10 @@
+{
+    "query": "Besides the tramway, what other activity is mentioned as being available near the Palm Springs Aerial Tramway?",
+    "response": [
+        "doc_13015.txt",
+        "doc_13019.txt",
+        "doc_13023.txt",
+        "doc_13022.txt",
+        "doc_13014.txt"
+    ]
+}

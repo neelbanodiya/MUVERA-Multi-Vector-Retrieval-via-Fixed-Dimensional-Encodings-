@@ -1,0 +1,10 @@
+{
+    "query": "Which musical ensembles was Malcolm Sargent associated with?",
+    "response": [
+        "doc_22803.txt",
+        "doc_3128.txt",
+        "doc_4766.txt",
+        "doc_19136.txt",
+        "doc_16769.txt"
+    ]
+}

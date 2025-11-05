@@ -1,0 +1,10 @@
+{
+    "query": "Which hotels are listed as being near Charles Playhouse Lounge?",
+    "response": [
+        "doc_1604.txt",
+        "doc_1606.txt",
+        "doc_1614.txt",
+        "doc_1611.txt",
+        "doc_1612.txt"
+    ]
+}

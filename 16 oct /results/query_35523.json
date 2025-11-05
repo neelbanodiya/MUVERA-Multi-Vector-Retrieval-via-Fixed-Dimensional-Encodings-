@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 133 of the EC Treaty, when was Parliament consulted on the proposal?",
+    "response": [
+        "doc_4525.txt",
+        "doc_12065.txt",
+        "doc_5948.txt",
+        "doc_10048.txt",
+        "doc_15419.txt"
+    ]
+}

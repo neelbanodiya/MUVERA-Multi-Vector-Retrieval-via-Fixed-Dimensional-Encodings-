@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, what was the outcome for Shadrach, Meshach, and Abednego after they were in the furnace?",
+    "response": [
+        "doc_10206.txt",
+        "doc_10203.txt",
+        "doc_10204.txt",
+        "doc_21765.txt",
+        "doc_21767.txt"
+    ]
+}

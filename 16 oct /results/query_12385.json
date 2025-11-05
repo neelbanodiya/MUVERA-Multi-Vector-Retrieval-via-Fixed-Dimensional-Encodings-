@@ -1,0 +1,10 @@
+{
+    "query": "In what year did King Stephen defeat the Emperor, and which group did he defeat?",
+    "response": [
+        "doc_7325.txt",
+        "doc_7335.txt",
+        "doc_7328.txt",
+        "doc_5195.txt",
+        "doc_5192.txt"
+    ]
+}

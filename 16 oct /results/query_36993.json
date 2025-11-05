@@ -1,0 +1,10 @@
+{
+    "query": "Nelson Mandela used a particular phrase in his early speeches, reflecting a sentiment about achieving freedom. What was that phrase?",
+    "response": [
+        "doc_9449.txt",
+        "doc_338.txt",
+        "doc_7417.txt",
+        "doc_14534.txt",
+        "doc_16737.txt"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "query": "For which team did Arthur Bell play first-class cricket?",
+    "response": [
+        "doc_7629.txt",
+        "doc_7628.txt",
+        "doc_7630.txt",
+        "doc_15163.txt"
+    ]
+}

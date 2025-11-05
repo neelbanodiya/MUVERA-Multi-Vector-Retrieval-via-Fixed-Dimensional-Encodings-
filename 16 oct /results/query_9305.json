@@ -1,0 +1,10 @@
+{
+    "query": "What specific type of equidae received a derogation in the draft Regulation?",
+    "response": [
+        "doc_7016.txt",
+        "doc_11802.txt",
+        "doc_19130.txt",
+        "doc_21020.txt",
+        "doc_3431.txt"
+    ]
+}

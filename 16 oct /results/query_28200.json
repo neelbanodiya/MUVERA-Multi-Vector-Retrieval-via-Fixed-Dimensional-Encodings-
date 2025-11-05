@@ -1,0 +1,10 @@
+{
+    "query": "What type of pump is used in many parts of Africa?",
+    "response": [
+        "doc_9896.txt",
+        "doc_16384.txt",
+        "doc_16383.txt",
+        "doc_22689.txt",
+        "doc_10169.txt"
+    ]
+}

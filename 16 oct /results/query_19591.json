@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission currently reviewing to improve consumer protection?",
+    "response": [
+        "doc_18744.txt",
+        "doc_16439.txt",
+        "doc_18441.txt",
+        "doc_15030.txt",
+        "doc_4012.txt"
+    ]
+}

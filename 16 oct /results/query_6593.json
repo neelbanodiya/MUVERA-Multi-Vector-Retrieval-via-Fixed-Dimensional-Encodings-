@@ -1,0 +1,10 @@
+{
+    "query": "What type of team did Walter Matthau coach?",
+    "response": [
+        "doc_75.txt",
+        "doc_1974.txt",
+        "doc_9158.txt",
+        "doc_76.txt",
+        "doc_8502.txt"
+    ]
+}

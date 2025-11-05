@@ -1,0 +1,10 @@
+{
+    "query": "Which family moved from Lewis County, Kentucky, to Alexandria in the early days following the Revolutionary War?",
+    "response": [
+        "doc_1753.txt",
+        "doc_1747.txt",
+        "doc_1756.txt",
+        "doc_1755.txt",
+        "doc_2434.txt"
+    ]
+}

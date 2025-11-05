@@ -1,0 +1,10 @@
+{
+    "query": "In 2014, who was the highest paid person at Prudential plc and how much did they earn?",
+    "response": [
+        "doc_2664.txt",
+        "doc_1011.txt",
+        "doc_466.txt",
+        "doc_4482.txt",
+        "doc_14946.txt"
+    ]
+}

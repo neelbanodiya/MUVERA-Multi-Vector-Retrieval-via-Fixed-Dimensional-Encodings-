@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, who was Li Ta-chao\u2019s counterpart in the KMT?",
+    "response": [
+        "doc_9856.txt",
+        "doc_9850.txt",
+        "doc_10449.txt",
+        "doc_4743.txt",
+        "doc_15221.txt"
+    ]
+}

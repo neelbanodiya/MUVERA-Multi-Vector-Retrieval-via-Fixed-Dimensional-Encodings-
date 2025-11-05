@@ -1,0 +1,10 @@
+{
+    "query": "Are there any other venomous lizards besides the Gila Monster and Mexican Beaded Lizard?",
+    "response": [
+        "doc_12294.txt",
+        "doc_12304.txt",
+        "doc_12298.txt",
+        "doc_12297.txt",
+        "doc_12300.txt"
+    ]
+}

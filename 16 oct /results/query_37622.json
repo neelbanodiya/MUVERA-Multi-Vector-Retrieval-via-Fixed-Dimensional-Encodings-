@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the autobiography by George Foreman?",
+    "response": [
+        "doc_22045.txt",
+        "doc_22051.txt",
+        "doc_22060.txt",
+        "doc_22049.txt",
+        "doc_6973.txt"
+    ]
+}

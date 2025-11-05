@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the play by Henrik Ibsen that the passage references?",
+    "response": [
+        "doc_12171.txt",
+        "doc_12172.txt",
+        "doc_12169.txt",
+        "doc_12168.txt",
+        "doc_10454.txt"
+    ]
+}

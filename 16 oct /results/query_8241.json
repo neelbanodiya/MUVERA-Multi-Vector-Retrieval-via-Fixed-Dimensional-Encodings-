@@ -1,0 +1,10 @@
+{
+    "query": "What year did Labour return to power after the general election?",
+    "response": [
+        "doc_9773.txt",
+        "doc_4768.txt",
+        "doc_4770.txt",
+        "doc_4771.txt",
+        "doc_4776.txt"
+    ]
+}

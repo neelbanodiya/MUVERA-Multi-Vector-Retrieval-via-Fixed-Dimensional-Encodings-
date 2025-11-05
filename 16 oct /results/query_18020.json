@@ -1,0 +1,10 @@
+{
+    "query": "What measures were taken to bring the militia into immediate service in Pennsylvania in 1781?",
+    "response": [
+        "doc_10422.txt",
+        "doc_22456.txt",
+        "doc_10415.txt",
+        "doc_22444.txt",
+        "doc_10414.txt"
+    ]
+}

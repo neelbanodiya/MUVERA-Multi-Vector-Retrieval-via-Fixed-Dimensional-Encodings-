@@ -1,0 +1,10 @@
+{
+    "query": "In 2009, how many petitions did the European Parliament receive, and how did this compare to the number received in 2008?",
+    "response": [
+        "doc_23234.txt",
+        "doc_23224.txt",
+        "doc_16893.txt",
+        "doc_16884.txt",
+        "doc_17820.txt"
+    ]
+}

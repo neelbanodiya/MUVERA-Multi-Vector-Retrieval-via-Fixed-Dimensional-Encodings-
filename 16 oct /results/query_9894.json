@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what specific event occurred in France in 1995?",
+    "response": [
+        "doc_13820.txt",
+        "doc_14460.txt",
+        "doc_13821.txt",
+        "doc_17975.txt",
+        "doc_1483.txt"
+    ]
+}

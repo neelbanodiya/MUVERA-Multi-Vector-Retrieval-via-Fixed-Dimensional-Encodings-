@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, what other plant is sometimes referred to as \u201cCheckerberry,\u201d and what is another name for that plant?",
+    "response": [
+        "doc_18183.txt",
+        "doc_18176.txt",
+        "doc_18185.txt",
+        "doc_18190.txt",
+        "doc_20057.txt"
+    ]
+}

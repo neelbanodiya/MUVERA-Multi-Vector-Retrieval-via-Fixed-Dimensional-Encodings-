@@ -1,0 +1,10 @@
+{
+    "query": "Which actors appeared in *The Outsiders* alongside Matt Dillon?",
+    "response": [
+        "doc_3519.txt",
+        "doc_3522.txt",
+        "doc_22677.txt",
+        "doc_5158.txt",
+        "doc_16653.txt"
+    ]
+}

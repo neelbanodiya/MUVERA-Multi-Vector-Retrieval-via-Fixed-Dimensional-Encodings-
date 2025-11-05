@@ -1,0 +1,10 @@
+{
+    "query": "What is the central story of \u201cHanging Up\u201d regarding the relationship between Eve and her father?",
+    "response": [
+        "doc_15669.txt",
+        "doc_18096.txt",
+        "doc_9551.txt",
+        "doc_9131.txt",
+        "doc_14526.txt"
+    ]
+}

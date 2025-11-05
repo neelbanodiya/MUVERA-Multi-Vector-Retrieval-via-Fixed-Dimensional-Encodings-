@@ -1,0 +1,10 @@
+{
+    "query": "What action did Admiral Yamamoto direct the Japanese fleet to take on the day of the attack?",
+    "response": [
+        "doc_6217.txt",
+        "doc_6213.txt",
+        "doc_6220.txt",
+        "doc_6215.txt",
+        "doc_6221.txt"
+    ]
+}

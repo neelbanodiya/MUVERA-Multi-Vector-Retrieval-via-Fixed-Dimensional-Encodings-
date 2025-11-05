@@ -1,0 +1,10 @@
+{
+    "query": "In what decade did Bobby tour with the band Endless Flight?",
+    "response": [
+        "doc_19669.txt",
+        "doc_15319.txt",
+        "doc_8710.txt",
+        "doc_20558.txt",
+        "doc_18845.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How old is Rory when she first appears in the show?",
+    "response": [
+        "doc_17174.txt",
+        "doc_15394.txt",
+        "doc_13619.txt",
+        "doc_5356.txt",
+        "doc_20008.txt"
+    ]
+}

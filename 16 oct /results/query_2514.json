@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Alec Guinness appear in the film *Who\u2019s Afraid of Virginia Woolf?*",
+    "response": [
+        "doc_1487.txt",
+        "doc_20960.txt",
+        "doc_2509.txt",
+        "doc_18755.txt",
+        "doc_5323.txt"
+    ]
+}

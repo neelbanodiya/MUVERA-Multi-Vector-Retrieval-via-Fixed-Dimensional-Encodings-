@@ -1,0 +1,10 @@
+{
+    "query": "What are some of the ways doctors might use X-rays or scans to diagnose conditions, as described in the documents?",
+    "response": [
+        "doc_17448.txt",
+        "doc_17460.txt",
+        "doc_17447.txt",
+        "doc_17452.txt",
+        "doc_17453.txt"
+    ]
+}

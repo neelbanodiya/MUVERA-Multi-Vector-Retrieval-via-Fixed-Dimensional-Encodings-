@@ -1,0 +1,10 @@
+{
+    "query": "Who was elected as U.N. Secretary General, such as the Norwegian Trigveli?",
+    "response": [
+        "doc_15224.txt",
+        "doc_15223.txt",
+        "doc_15236.txt",
+        "doc_15225.txt",
+        "doc_11965.txt"
+    ]
+}

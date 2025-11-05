@@ -1,0 +1,10 @@
+{
+    "query": "What is Jason Alexander\u2019s concern regarding the name of his date?",
+    "response": [
+        "doc_21683.txt",
+        "doc_23671.txt",
+        "doc_20526.txt",
+        "doc_20515.txt",
+        "doc_13261.txt"
+    ]
+}

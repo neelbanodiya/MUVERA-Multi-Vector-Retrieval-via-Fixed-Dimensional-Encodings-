@@ -1,0 +1,10 @@
+{
+    "query": "What is the projected ratio of working-age citizens to pensioners in the EU by 2020, as stated in the passage?",
+    "response": [
+        "doc_14146.txt",
+        "doc_14147.txt",
+        "doc_14155.txt",
+        "doc_14131.txt",
+        "doc_14137.txt"
+    ]
+}

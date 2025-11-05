@@ -1,0 +1,10 @@
+{
+    "query": "What style of painting was Jackson Pollock known for?",
+    "response": [
+        "doc_9065.txt",
+        "doc_9066.txt",
+        "doc_9069.txt",
+        "doc_9060.txt",
+        "doc_9068.txt"
+    ]
+}

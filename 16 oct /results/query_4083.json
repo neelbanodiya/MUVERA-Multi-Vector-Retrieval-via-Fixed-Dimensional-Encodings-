@@ -1,0 +1,10 @@
+{
+    "query": "When did Jason Bonham play with Led Zeppelin alongside Page, Plant, and Jones?",
+    "response": [
+        "doc_2391.txt",
+        "doc_2394.txt",
+        "doc_2389.txt",
+        "doc_2395.txt",
+        "doc_2404.txt"
+    ]
+}

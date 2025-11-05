@@ -1,0 +1,10 @@
+{
+    "query": "In what year was a Zevon \u201cbest-of\u201d compilation released?",
+    "response": [
+        "doc_4603.txt",
+        "doc_8468.txt",
+        "doc_9871.txt",
+        "doc_21619.txt",
+        "doc_6919.txt"
+    ]
+}

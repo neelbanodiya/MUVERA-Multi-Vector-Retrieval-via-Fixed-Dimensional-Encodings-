@@ -1,0 +1,10 @@
+{
+    "query": "When did Charles receive his CIB?",
+    "response": [
+        "doc_21249.txt",
+        "doc_10450.txt",
+        "doc_21061.txt",
+        "doc_16127.txt",
+        "doc_10683.txt"
+    ]
+}

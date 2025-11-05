@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the galaxy known as Stephan's Quintet discovered?",
+    "response": [
+        "doc_23604.txt",
+        "doc_23602.txt",
+        "doc_23605.txt",
+        "doc_23603.txt",
+        "doc_13867.txt"
+    ]
+}

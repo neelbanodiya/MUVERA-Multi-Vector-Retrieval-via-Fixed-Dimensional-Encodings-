@@ -1,0 +1,10 @@
+{
+    "query": "Where was the 1974 NBA All-Star Game held?",
+    "response": [
+        "doc_12260.txt",
+        "doc_11228.txt",
+        "doc_8074.txt",
+        "doc_19244.txt",
+        "doc_15971.txt"
+    ]
+}

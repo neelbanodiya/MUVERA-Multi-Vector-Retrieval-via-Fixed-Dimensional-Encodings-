@@ -1,0 +1,10 @@
+{
+    "query": "According to the UNWIND Magazine article, what are some methods for preventing shoes from slipping off your feet?",
+    "response": [
+        "doc_1730.txt",
+        "doc_14229.txt",
+        "doc_12122.txt",
+        "doc_15722.txt",
+        "doc_10192.txt"
+    ]
+}

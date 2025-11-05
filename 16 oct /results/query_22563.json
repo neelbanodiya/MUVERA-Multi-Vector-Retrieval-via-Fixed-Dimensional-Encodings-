@@ -1,0 +1,10 @@
+{
+    "query": "Which NFL team is associated with drafting four future Hall of Famers?",
+    "response": [
+        "doc_13005.txt",
+        "doc_13000.txt",
+        "doc_22642.txt",
+        "doc_12999.txt",
+        "doc_13001.txt"
+    ]
+}

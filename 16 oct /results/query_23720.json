@@ -1,0 +1,10 @@
+{
+    "query": "What medal did Albert receive?",
+    "response": [
+        "doc_15819.txt",
+        "doc_10450.txt",
+        "doc_15820.txt",
+        "doc_21684.txt",
+        "doc_15822.txt"
+    ]
+}

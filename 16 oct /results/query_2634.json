@@ -1,0 +1,10 @@
+{
+    "query": "What film features a character named Jim Lovell, referencing the Apollo 13 mission?",
+    "response": [
+        "doc_1566.txt",
+        "doc_1569.txt",
+        "doc_2231.txt",
+        "doc_14626.txt",
+        "doc_9193.txt"
+    ]
+}

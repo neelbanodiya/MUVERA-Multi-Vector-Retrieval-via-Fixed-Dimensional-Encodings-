@@ -1,0 +1,10 @@
+{
+    "query": "How long did Coetzee\u2019s *Crusoe* live on the island compared to Defoe\u2019s *Crusoe*?",
+    "response": [
+        "doc_18462.txt",
+        "doc_18461.txt",
+        "doc_18452.txt",
+        "doc_18445.txt",
+        "doc_18444.txt"
+    ]
+}

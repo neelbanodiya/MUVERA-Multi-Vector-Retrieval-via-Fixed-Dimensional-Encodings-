@@ -1,0 +1,10 @@
+{
+    "query": "For which film did Tom Noonan win the Grand Prize at the 1995 Sundance Film Festival?",
+    "response": [
+        "doc_23287.txt",
+        "doc_23292.txt",
+        "doc_4918.txt",
+        "doc_16872.txt",
+        "doc_23286.txt"
+    ]
+}

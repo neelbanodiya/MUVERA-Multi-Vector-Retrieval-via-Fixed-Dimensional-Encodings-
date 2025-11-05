@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the individual attend the Horace Mann School for Boys?",
+    "response": [
+        "doc_2567.txt",
+        "doc_4739.txt",
+        "doc_582.txt",
+        "doc_4741.txt",
+        "doc_9158.txt"
+    ]
+}

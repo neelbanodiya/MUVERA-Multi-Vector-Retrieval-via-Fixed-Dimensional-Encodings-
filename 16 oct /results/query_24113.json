@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what did Poe write about in his article for Graham\u2019s Magazine in 1840?",
+    "response": [
+        "doc_14009.txt",
+        "doc_12355.txt",
+        "doc_18975.txt",
+        "doc_24144.txt",
+        "doc_4166.txt"
+    ]
+}

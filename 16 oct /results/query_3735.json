@@ -1,0 +1,10 @@
+{
+    "query": "What nightclub did Johnny Depp co-own in Los Angeles?",
+    "response": [
+        "doc_2190.txt",
+        "doc_2193.txt",
+        "doc_2194.txt",
+        "doc_2191.txt",
+        "doc_2195.txt"
+    ]
+}

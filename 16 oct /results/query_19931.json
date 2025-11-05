@@ -1,0 +1,10 @@
+{
+    "query": "In what year did William Moran appear as one of the two lead characters in \u201cA Film with Me in It\u201d?",
+    "response": [
+        "doc_11495.txt",
+        "doc_16925.txt",
+        "doc_18482.txt",
+        "doc_16737.txt",
+        "doc_1479.txt"
+    ]
+}

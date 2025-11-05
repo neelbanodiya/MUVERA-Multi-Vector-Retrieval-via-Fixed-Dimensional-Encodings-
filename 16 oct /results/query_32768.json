@@ -1,0 +1,10 @@
+{
+    "query": "According to the \u201cSchool and Town Gross Wages 2013 - North Andover\u201d document, what is Alyssa Dalton\u2019s wage?",
+    "response": [
+        "doc_11925.txt",
+        "doc_5540.txt",
+        "doc_9118.txt",
+        "doc_11924.txt",
+        "doc_5273.txt"
+    ]
+}

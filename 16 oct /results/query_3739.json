@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Johnny Depp co-own The Viper Room nightclub?",
+    "response": [
+        "doc_2190.txt",
+        "doc_2193.txt",
+        "doc_2194.txt",
+        "doc_2191.txt",
+        "doc_2195.txt"
+    ]
+}

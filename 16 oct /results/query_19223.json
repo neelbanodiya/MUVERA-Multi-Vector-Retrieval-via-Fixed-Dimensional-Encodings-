@@ -1,0 +1,10 @@
+{
+    "query": "According to the second URL, what is the alternative title of the movie \u201cAn Innocent Heart\u201d?",
+    "response": [
+        "doc_323.txt",
+        "doc_1580.txt",
+        "doc_12761.txt",
+        "doc_1811.txt",
+        "doc_15903.txt"
+    ]
+}

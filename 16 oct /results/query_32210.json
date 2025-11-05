@@ -1,0 +1,10 @@
+{
+    "query": "When did Anna Pavlova die, and in which city did it occur?",
+    "response": [
+        "doc_18154.txt",
+        "doc_5778.txt",
+        "doc_9865.txt",
+        "doc_4351.txt",
+        "doc_9864.txt"
+    ]
+}

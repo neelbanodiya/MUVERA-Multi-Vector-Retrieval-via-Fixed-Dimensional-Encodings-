@@ -1,0 +1,10 @@
+{
+    "query": "Which legal instrument is experiencing delays in implementation by five Member States, and what action is being requested of the Commission regarding it?",
+    "response": [
+        "doc_15132.txt",
+        "doc_20803.txt",
+        "doc_6170.txt",
+        "doc_20816.txt",
+        "doc_21479.txt"
+    ]
+}

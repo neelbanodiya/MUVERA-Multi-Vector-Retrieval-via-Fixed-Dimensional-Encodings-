@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, at what age were people living next to Ronald Reagan when he lived in Illinois?",
+    "response": [
+        "doc_14914.txt",
+        "doc_14917.txt",
+        "doc_3567.txt",
+        "doc_3565.txt",
+        "doc_3571.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What scandal led to Richard M. Nixon\u2019s resignation?",
+    "response": [
+        "doc_9674.txt",
+        "doc_21737.txt",
+        "doc_14692.txt",
+        "doc_22758.txt",
+        "doc_4181.txt"
+    ]
+}

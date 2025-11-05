@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate population of College Station, Texas, as of August 2017?",
+    "response": [
+        "doc_22507.txt",
+        "doc_15882.txt",
+        "doc_15880.txt",
+        "doc_23216.txt",
+        "doc_22508.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what county in Pennsylvania is the Muddy Creek Forks Historic District located?",
+    "response": [
+        "doc_850.txt",
+        "doc_7408.txt",
+        "doc_7407.txt",
+        "doc_7401.txt",
+        "doc_12856.txt"
+    ]
+}

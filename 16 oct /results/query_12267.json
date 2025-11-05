@@ -1,0 +1,10 @@
+{
+    "query": "In what context did Andy Samberg use the phrase \u201cI\u2019m going to steal the Declaration of Independence\u201d during a school event?",
+    "response": [
+        "doc_7161.txt",
+        "doc_7157.txt",
+        "doc_7160.txt",
+        "doc_7162.txt",
+        "doc_7158.txt"
+    ]
+}

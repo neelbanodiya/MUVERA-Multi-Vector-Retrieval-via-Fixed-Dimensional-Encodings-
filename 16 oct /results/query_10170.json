@@ -1,0 +1,10 @@
+{
+    "query": "Besides The Libertines, for which band was Anthony Rossomando a live member?",
+    "response": [
+        "doc_5897.txt",
+        "doc_7505.txt",
+        "doc_22804.txt",
+        "doc_12713.txt",
+        "doc_19669.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to Bob Dylan, what did he consider his recent award to be?",
+    "response": [
+        "doc_23284.txt",
+        "doc_4928.txt",
+        "doc_4918.txt",
+        "doc_5758.txt",
+        "doc_2264.txt"
+    ]
+}

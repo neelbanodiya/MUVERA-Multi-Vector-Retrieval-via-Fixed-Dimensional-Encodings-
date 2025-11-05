@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what dietary approach does Dr. Dean Ornish promote?",
+    "response": [
+        "doc_7030.txt",
+        "doc_19413.txt",
+        "doc_10542.txt",
+        "doc_8912.txt",
+        "doc_5323.txt"
+    ]
+}

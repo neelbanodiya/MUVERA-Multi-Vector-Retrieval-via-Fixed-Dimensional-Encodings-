@@ -1,0 +1,10 @@
+{
+    "query": "Which Supreme Court Justice hosted a reunion for law clerks?",
+    "response": [
+        "doc_12834.txt",
+        "doc_12832.txt",
+        "doc_12833.txt",
+        "doc_12839.txt",
+        "doc_12835.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What crisis did Clinton briefly mention in a campaign speech, but only made \u201cpassing reference\u201d to?",
+    "response": [
+        "doc_7846.txt",
+        "doc_5727.txt",
+        "doc_23715.txt",
+        "doc_8189.txt",
+        "doc_13337.txt"
+    ]
+}

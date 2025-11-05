@@ -1,0 +1,10 @@
+{
+    "query": "Where did Candide briefly travel to in South America according to the provided text?",
+    "response": [
+        "doc_5098.txt",
+        "doc_8840.txt",
+        "doc_5030.txt",
+        "doc_8847.txt",
+        "doc_16006.txt"
+    ]
+}

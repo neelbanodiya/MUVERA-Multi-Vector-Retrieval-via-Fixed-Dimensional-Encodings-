@@ -1,0 +1,10 @@
+{
+    "query": "When did Santa Anna sign the document mentioned in the passage?",
+    "response": [
+        "doc_3756.txt",
+        "doc_19849.txt",
+        "doc_5518.txt",
+        "doc_19845.txt",
+        "doc_19852.txt"
+    ]
+}

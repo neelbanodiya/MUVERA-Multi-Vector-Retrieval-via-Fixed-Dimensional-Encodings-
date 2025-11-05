@@ -1,0 +1,10 @@
+{
+    "query": "What year did Super Furry Animals form?",
+    "response": [
+        "doc_17202.txt",
+        "doc_16372.txt",
+        "doc_9383.txt",
+        "doc_17192.txt",
+        "doc_20567.txt"
+    ]
+}

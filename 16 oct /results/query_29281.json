@@ -1,0 +1,10 @@
+{
+    "query": "For what TV show was Olivia d\u2019Abo best known, and what was her character\u2019s relationship to another prominent figure?",
+    "response": [
+        "doc_2263.txt",
+        "doc_19272.txt",
+        "doc_4648.txt",
+        "doc_4631.txt",
+        "doc_4463.txt"
+    ]
+}

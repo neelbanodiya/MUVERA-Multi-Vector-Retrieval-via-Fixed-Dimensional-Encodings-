@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, how did written language come to Russia?",
+    "response": [
+        "doc_3307.txt",
+        "doc_20270.txt",
+        "doc_10389.txt",
+        "doc_5108.txt",
+        "doc_3306.txt"
+    ]
+}

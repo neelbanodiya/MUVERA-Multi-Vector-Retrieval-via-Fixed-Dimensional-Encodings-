@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate length of the movie \u201cLetters from Iwo Jima\u201d?",
+    "response": [
+        "doc_18754.txt",
+        "doc_18756.txt",
+        "doc_18757.txt",
+        "doc_18752.txt",
+        "doc_18747.txt"
+    ]
+}

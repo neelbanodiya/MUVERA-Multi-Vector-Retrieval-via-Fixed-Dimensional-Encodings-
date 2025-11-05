@@ -1,0 +1,10 @@
+{
+    "query": "What specific theatrical production was performed in the courtyard of the University in Heidelberg?",
+    "response": [
+        "doc_7878.txt",
+        "doc_5588.txt",
+        "doc_18212.txt",
+        "doc_8642.txt",
+        "doc_14728.txt"
+    ]
+}

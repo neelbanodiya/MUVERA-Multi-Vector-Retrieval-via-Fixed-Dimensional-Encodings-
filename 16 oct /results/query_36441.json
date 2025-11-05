@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was disallowed regarding African franchise prior to the formation of the Union?",
+    "response": [
+        "doc_4502.txt",
+        "doc_10525.txt",
+        "doc_21017.txt",
+        "doc_19917.txt",
+        "doc_8513.txt"
+    ]
+}

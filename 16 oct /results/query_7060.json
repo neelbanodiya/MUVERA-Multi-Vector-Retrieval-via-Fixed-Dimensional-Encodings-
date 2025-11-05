@@ -1,0 +1,10 @@
+{
+    "query": "Where were the Impressionist paintings recovered after being stolen?",
+    "response": [
+        "doc_4037.txt",
+        "doc_4040.txt",
+        "doc_23543.txt",
+        "doc_3689.txt",
+        "doc_22068.txt"
+    ]
+}

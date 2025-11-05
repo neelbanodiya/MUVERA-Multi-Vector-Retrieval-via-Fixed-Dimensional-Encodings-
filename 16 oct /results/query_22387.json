@@ -1,0 +1,10 @@
+{
+    "query": "What recommendation did the UNHCR and UN-HABITAT offer to the Mayor of Podgorica regarding the displaced persons from Kosovo?",
+    "response": [
+        "doc_12900.txt",
+        "doc_13134.txt",
+        "doc_23791.txt",
+        "doc_399.txt",
+        "doc_13720.txt"
+    ]
+}

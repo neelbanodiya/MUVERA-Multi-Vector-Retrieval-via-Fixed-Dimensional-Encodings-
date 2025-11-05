@@ -1,0 +1,10 @@
+{
+    "query": "What is the location of the Bloomingdale's store mentioned in the text?",
+    "response": [
+        "doc_18434.txt",
+        "doc_22365.txt",
+        "doc_20119.txt",
+        "doc_2422.txt",
+        "doc_6202.txt"
+    ]
+}

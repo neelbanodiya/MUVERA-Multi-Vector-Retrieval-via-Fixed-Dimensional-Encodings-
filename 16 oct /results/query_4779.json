@@ -1,0 +1,10 @@
+{
+    "query": "What party did Millard Fillmore represent as a presidential candidate in 1860?",
+    "response": [
+        "doc_2765.txt",
+        "doc_2763.txt",
+        "doc_2768.txt",
+        "doc_2762.txt",
+        "doc_2766.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What publication is cited as a prominent source for Biblical research in Europe, and when was it published?",
+    "response": [
+        "doc_1224.txt",
+        "doc_18614.txt",
+        "doc_18406.txt",
+        "doc_1306.txt",
+        "doc_20265.txt"
+    ]
+}

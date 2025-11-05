@@ -1,0 +1,10 @@
+{
+    "query": "What is the Japanese word for sulfur, and where is it found?",
+    "response": [
+        "doc_16032.txt",
+        "doc_5143.txt",
+        "doc_23961.txt",
+        "doc_1484.txt",
+        "doc_20399.txt"
+    ]
+}

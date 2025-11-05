@@ -1,0 +1,10 @@
+{
+    "query": "What is Marty McFly\u2019s girlfriend\u2019s name in the film?",
+    "response": [
+        "doc_10730.txt",
+        "doc_2062.txt",
+        "doc_8067.txt",
+        "doc_20587.txt",
+        "doc_22329.txt"
+    ]
+}

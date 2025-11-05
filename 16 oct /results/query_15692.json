@@ -1,0 +1,10 @@
+{
+    "query": "What year was the European Union\u2019s general budget for which discharge is being considered?",
+    "response": [
+        "doc_13223.txt",
+        "doc_9140.txt",
+        "doc_19127.txt",
+        "doc_9134.txt",
+        "doc_9139.txt"
+    ]
+}

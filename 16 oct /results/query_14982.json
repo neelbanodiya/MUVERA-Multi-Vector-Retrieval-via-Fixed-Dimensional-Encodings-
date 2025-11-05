@@ -1,0 +1,10 @@
+{
+    "query": "The passage mentions that the ancient Greeks believed the Pillars of Hercules marked the edge of their known world \u2013 what two regions did they consider to be at the eastern edge of that world?",
+    "response": [
+        "doc_8685.txt",
+        "doc_8684.txt",
+        "doc_8682.txt",
+        "doc_8689.txt",
+        "doc_8686.txt"
+    ]
+}

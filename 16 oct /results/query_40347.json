@@ -1,0 +1,10 @@
+{
+    "query": "What specific example of a task does the passage cite as being more efficiently undertaken at the European level?",
+    "response": [
+        "doc_14366.txt",
+        "doc_23661.txt",
+        "doc_16485.txt",
+        "doc_17364.txt",
+        "doc_8157.txt"
+    ]
+}

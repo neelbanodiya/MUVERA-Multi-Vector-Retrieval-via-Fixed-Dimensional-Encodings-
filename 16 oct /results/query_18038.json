@@ -1,0 +1,10 @@
+{
+    "query": "Where is the restaurant, Sea Bar, located?",
+    "response": [
+        "doc_16638.txt",
+        "doc_23417.txt",
+        "doc_3380.txt",
+        "doc_17057.txt",
+        "doc_22585.txt"
+    ]
+}

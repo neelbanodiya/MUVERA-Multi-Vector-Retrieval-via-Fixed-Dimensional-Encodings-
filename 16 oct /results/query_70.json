@@ -1,0 +1,10 @@
+{
+    "query": "What is Valenzuela City\u2019s population according to data from August 2015?",
+    "response": [
+        "doc_15882.txt",
+        "doc_38.txt",
+        "doc_8283.txt",
+        "doc_15881.txt",
+        "doc_2259.txt"
+    ]
+}

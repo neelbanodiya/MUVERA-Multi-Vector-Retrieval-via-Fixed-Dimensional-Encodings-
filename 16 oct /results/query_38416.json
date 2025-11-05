@@ -1,0 +1,10 @@
+{
+    "query": "When does the Minnesota State Fair typically run?",
+    "response": [
+        "doc_22540.txt",
+        "doc_22539.txt",
+        "doc_6836.txt",
+        "doc_2616.txt",
+        "doc_22700.txt"
+    ]
+}

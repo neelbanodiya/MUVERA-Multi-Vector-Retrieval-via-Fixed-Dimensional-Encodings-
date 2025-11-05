@@ -1,0 +1,10 @@
+{
+    "query": "Which film was released after *Piranha II: The Spawning* (1981)?",
+    "response": [
+        "doc_4991.txt",
+        "doc_4983.txt",
+        "doc_4984.txt",
+        "doc_4986.txt",
+        "doc_4987.txt"
+    ]
+}

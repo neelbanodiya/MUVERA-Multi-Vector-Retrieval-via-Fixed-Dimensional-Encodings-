@@ -1,0 +1,10 @@
+{
+    "query": "Which Argentine author, alongside Benito Lynch, is mentioned as writing about Argentinian gauchos?",
+    "response": [
+        "doc_16975.txt",
+        "doc_18579.txt",
+        "doc_16971.txt",
+        "doc_16974.txt",
+        "doc_16972.txt"
+    ]
+}

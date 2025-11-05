@@ -1,0 +1,10 @@
+{
+    "query": "What action did the Spanish authorities agree to take regarding the infringement?",
+    "response": [
+        "doc_12431.txt",
+        "doc_6370.txt",
+        "doc_476.txt",
+        "doc_7973.txt",
+        "doc_20105.txt"
+    ]
+}

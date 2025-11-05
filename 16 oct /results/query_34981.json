@@ -1,0 +1,10 @@
+{
+    "query": "What is Sir Joshua Reynolds primarily known for?",
+    "response": [
+        "doc_20408.txt",
+        "doc_349.txt",
+        "doc_20220.txt",
+        "doc_3077.txt",
+        "doc_4939.txt"
+    ]
+}

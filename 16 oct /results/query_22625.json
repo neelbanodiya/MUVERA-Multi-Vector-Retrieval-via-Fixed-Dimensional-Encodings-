@@ -1,0 +1,10 @@
+{
+    "query": "What is a unique feature of the Palm Springs Aerial Tramway\u2019s vehicles?",
+    "response": [
+        "doc_13016.txt",
+        "doc_13022.txt",
+        "doc_13013.txt",
+        "doc_13023.txt",
+        "doc_13019.txt"
+    ]
+}

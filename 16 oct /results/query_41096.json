@@ -1,0 +1,10 @@
+{
+    "query": "What specific killings were investigated by the Congolese military authorities, and when did they occur?",
+    "response": [
+        "doc_24068.txt",
+        "doc_1825.txt",
+        "doc_24069.txt",
+        "doc_8113.txt",
+        "doc_20154.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What did Ged do in *A Wizard of Earthsea* to defend his village?",
+    "response": [
+        "doc_14975.txt",
+        "doc_14976.txt",
+        "doc_14977.txt",
+        "doc_1310.txt",
+        "doc_6053.txt"
+    ]
+}

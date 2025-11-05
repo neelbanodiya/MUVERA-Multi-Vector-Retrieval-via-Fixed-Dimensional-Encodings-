@@ -1,0 +1,9 @@
+{
+    "query": "In what year was Dosan Seowon established?",
+    "response": [
+        "doc_12342.txt",
+        "doc_12344.txt",
+        "doc_12343.txt",
+        "doc_15833.txt"
+    ]
+}

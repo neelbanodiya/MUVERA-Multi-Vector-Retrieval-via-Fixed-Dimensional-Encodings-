@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the Stanford University search results related to \u201cBlackwell companions to literature and culture\u201d?",
+    "response": [
+        "doc_15375.txt",
+        "doc_11909.txt",
+        "doc_5505.txt",
+        "doc_7527.txt",
+        "doc_2422.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How long does a regulation NFL game last?",
+    "response": [
+        "doc_6826.txt",
+        "doc_6828.txt",
+        "doc_6827.txt",
+        "doc_6832.txt",
+        "doc_6829.txt"
+    ]
+}

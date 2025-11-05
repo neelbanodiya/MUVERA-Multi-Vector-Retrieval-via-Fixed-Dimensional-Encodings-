@@ -1,0 +1,10 @@
+{
+    "query": "When was the song \u201cI Like It, I Love It\u201d released?",
+    "response": [
+        "doc_12251.txt",
+        "doc_2557.txt",
+        "doc_14727.txt",
+        "doc_12258.txt",
+        "doc_14724.txt"
+    ]
+}

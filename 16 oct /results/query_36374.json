@@ -1,0 +1,10 @@
+{
+    "query": "What type of clothing did Melania Trump wear when photographed with her mother?",
+    "response": [
+        "doc_14600.txt",
+        "doc_8825.txt",
+        "doc_8827.txt",
+        "doc_1088.txt",
+        "doc_8831.txt"
+    ]
+}

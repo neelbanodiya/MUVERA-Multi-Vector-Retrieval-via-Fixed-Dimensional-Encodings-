@@ -1,0 +1,10 @@
+{
+    "query": "What type of assessment will be performed regarding the Kr\u0161ko nuclear power plant as part of the broader EU safety review?",
+    "response": [
+        "doc_16104.txt",
+        "doc_3254.txt",
+        "doc_133.txt",
+        "doc_14296.txt",
+        "doc_20347.txt"
+    ]
+}

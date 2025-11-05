@@ -1,0 +1,10 @@
+{
+    "query": "Which Committee considered the Commission\u2019s proposal for transfer of appropriations DEC 36/2009?",
+    "response": [
+        "doc_20517.txt",
+        "doc_20516.txt",
+        "doc_6837.txt",
+        "doc_16744.txt",
+        "doc_22620.txt"
+    ]
+}

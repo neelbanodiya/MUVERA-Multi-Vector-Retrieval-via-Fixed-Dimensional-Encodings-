@@ -1,0 +1,10 @@
+{
+    "query": "Did the British actively engage in slave-trading?",
+    "response": [
+        "doc_2901.txt",
+        "doc_16361.txt",
+        "doc_3588.txt",
+        "doc_20320.txt",
+        "doc_20321.txt"
+    ]
+}

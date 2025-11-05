@@ -1,0 +1,10 @@
+{
+    "query": "What was the Foundation\u2019s activity in 2007 related to evaluating past work?",
+    "response": [
+        "doc_19131.txt",
+        "doc_19132.txt",
+        "doc_5541.txt",
+        "doc_11437.txt",
+        "doc_23644.txt"
+    ]
+}

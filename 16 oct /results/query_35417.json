@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the \u201creturn of Jesus\u201d referred to as, and what is its purpose?",
+    "response": [
+        "doc_20636.txt",
+        "doc_5040.txt",
+        "doc_6318.txt",
+        "doc_6326.txt",
+        "doc_6321.txt"
+    ]
+}

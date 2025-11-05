@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Richard Evelyn Byrd receive the Silver Buffalo Award?",
+    "response": [
+        "doc_15822.txt",
+        "doc_15821.txt",
+        "doc_15819.txt",
+        "doc_15823.txt",
+        "doc_15820.txt"
+    ]
+}

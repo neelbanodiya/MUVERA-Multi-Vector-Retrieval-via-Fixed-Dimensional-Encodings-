@@ -1,0 +1,10 @@
+{
+    "query": "What role did the Medici family play in European politics, according to the text?",
+    "response": [
+        "doc_23747.txt",
+        "doc_23755.txt",
+        "doc_23761.txt",
+        "doc_23746.txt",
+        "doc_23760.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What genres of writing did Gore Vidal explore?",
+    "response": [
+        "doc_18579.txt",
+        "doc_14547.txt",
+        "doc_22536.txt",
+        "doc_14658.txt",
+        "doc_17758.txt"
+    ]
+}

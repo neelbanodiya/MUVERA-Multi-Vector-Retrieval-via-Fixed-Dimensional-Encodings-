@@ -1,0 +1,10 @@
+{
+    "query": "What is the Dynamic Plaque, and what organization created it?",
+    "response": [
+        "doc_19270.txt",
+        "doc_8679.txt",
+        "doc_12367.txt",
+        "doc_9754.txt",
+        "doc_23357.txt"
+    ]
+}

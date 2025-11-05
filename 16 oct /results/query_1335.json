@@ -1,0 +1,10 @@
+{
+    "query": "What novel did Owen Wister author, and in what year was it published?",
+    "response": [
+        "doc_7862.txt",
+        "doc_4655.txt",
+        "doc_24144.txt",
+        "doc_15276.txt",
+        "doc_22246.txt"
+    ]
+}

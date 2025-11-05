@@ -1,0 +1,10 @@
+{
+    "query": "What biblical passage is central to the title and opening/closing of *The Seventh Seal*?",
+    "response": [
+        "doc_7678.txt",
+        "doc_7677.txt",
+        "doc_7692.txt",
+        "doc_20636.txt",
+        "doc_20631.txt"
+    ]
+}

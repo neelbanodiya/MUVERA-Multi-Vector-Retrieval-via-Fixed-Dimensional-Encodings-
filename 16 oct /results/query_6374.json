@@ -1,0 +1,10 @@
+{
+    "query": "Name some of the European artists and craftsmen featured in the collection.",
+    "response": [
+        "doc_3686.txt",
+        "doc_6972.txt",
+        "doc_2059.txt",
+        "doc_24106.txt",
+        "doc_17829.txt"
+    ]
+}

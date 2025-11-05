@@ -1,0 +1,10 @@
+{
+    "query": "On which Greek island was Sappho born, and what is a notable aspect of her poetry as described in the passage?",
+    "response": [
+        "doc_20466.txt",
+        "doc_20472.txt",
+        "doc_20481.txt",
+        "doc_20474.txt",
+        "doc_20468.txt"
+    ]
+}

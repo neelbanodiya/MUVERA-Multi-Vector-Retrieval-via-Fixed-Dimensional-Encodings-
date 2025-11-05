@@ -1,0 +1,10 @@
+{
+    "query": "Which novel by Romain Rolland was translated into English by Gilbert Cannan?",
+    "response": [
+        "doc_20263.txt",
+        "doc_20265.txt",
+        "doc_20266.txt",
+        "doc_20271.txt",
+        "doc_13869.txt"
+    ]
+}

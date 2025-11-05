@@ -1,0 +1,10 @@
+{
+    "query": "What was Ralph Waldo Emerson\u2019s middle name?",
+    "response": [
+        "doc_14072.txt",
+        "doc_14088.txt",
+        "doc_14086.txt",
+        "doc_14087.txt",
+        "doc_14073.txt"
+    ]
+}

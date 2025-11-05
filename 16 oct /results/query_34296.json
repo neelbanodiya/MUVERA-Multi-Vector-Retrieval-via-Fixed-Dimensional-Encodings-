@@ -1,0 +1,10 @@
+{
+    "query": "What event led Magician Emery Thane to return to his past?",
+    "response": [
+        "doc_22072.txt",
+        "doc_18939.txt",
+        "doc_13511.txt",
+        "doc_14525.txt",
+        "doc_14536.txt"
+    ]
+}

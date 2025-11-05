@@ -1,0 +1,10 @@
+{
+    "query": "What specific programs, besides the European Social Fund, provided funding for Roma projects between 2000 and 2005?",
+    "response": [
+        "doc_3791.txt",
+        "doc_19518.txt",
+        "doc_169.txt",
+        "doc_8187.txt",
+        "doc_21442.txt"
+    ]
+}

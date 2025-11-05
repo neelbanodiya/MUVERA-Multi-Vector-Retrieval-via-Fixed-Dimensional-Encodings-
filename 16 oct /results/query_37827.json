@@ -1,0 +1,10 @@
+{
+    "query": "When was the University of Dhaka established?",
+    "response": [
+        "doc_22174.txt",
+        "doc_22173.txt",
+        "doc_22171.txt",
+        "doc_135.txt",
+        "doc_22170.txt"
+    ]
+}

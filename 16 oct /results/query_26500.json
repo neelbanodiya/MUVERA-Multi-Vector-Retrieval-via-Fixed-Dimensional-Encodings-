@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the French colony in Eastern Canada mentioned in one of the excerpts?",
+    "response": [
+        "doc_9250.txt",
+        "doc_13481.txt",
+        "doc_9251.txt",
+        "doc_9249.txt",
+        "doc_3407.txt"
+    ]
+}

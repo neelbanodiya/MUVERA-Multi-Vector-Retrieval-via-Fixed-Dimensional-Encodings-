@@ -1,0 +1,10 @@
+{
+    "query": "Which committees will assist the Commission in carrying out the measures described in Article 8a, paragraph 1?",
+    "response": [
+        "doc_9749.txt",
+        "doc_3018.txt",
+        "doc_23638.txt",
+        "doc_3019.txt",
+        "doc_13346.txt"
+    ]
+}

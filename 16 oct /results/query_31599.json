@@ -1,0 +1,10 @@
+{
+    "query": "According to Business Insider, what did Donald Trump refuse to do regarding his favorite Bible verse?",
+    "response": [
+        "doc_18438.txt",
+        "doc_7912.txt",
+        "doc_7916.txt",
+        "doc_7918.txt",
+        "doc_7917.txt"
+    ]
+}

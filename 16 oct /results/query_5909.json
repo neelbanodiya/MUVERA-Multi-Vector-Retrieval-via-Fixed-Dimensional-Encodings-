@@ -1,0 +1,10 @@
+{
+    "query": "On what date did this Regulation enter into force?",
+    "response": [
+        "doc_13335.txt",
+        "doc_3439.txt",
+        "doc_3020.txt",
+        "doc_16409.txt",
+        "doc_20692.txt"
+    ]
+}

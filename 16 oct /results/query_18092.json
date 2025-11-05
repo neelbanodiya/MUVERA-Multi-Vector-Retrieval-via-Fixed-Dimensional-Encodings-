@@ -1,0 +1,10 @@
+{
+    "query": "What type of opera is \u201cAmahl and the Night Visitors\u201d?",
+    "response": [
+        "doc_332.txt",
+        "doc_10454.txt",
+        "doc_10457.txt",
+        "doc_10455.txt",
+        "doc_10465.txt"
+    ]
+}

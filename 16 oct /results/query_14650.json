@@ -1,0 +1,10 @@
+{
+    "query": "Where was \"Hammer and Tongs\" recorded, and when did this recording take place?",
+    "response": [
+        "doc_18894.txt",
+        "doc_4066.txt",
+        "doc_5249.txt",
+        "doc_20212.txt",
+        "doc_97.txt"
+    ]
+}

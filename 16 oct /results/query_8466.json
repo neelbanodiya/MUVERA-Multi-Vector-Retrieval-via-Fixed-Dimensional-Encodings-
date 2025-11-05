@@ -1,0 +1,10 @@
+{
+    "query": "What other item related to *Citizen Kane* did Orson Welles reportedly own?",
+    "response": [
+        "doc_4911.txt",
+        "doc_7766.txt",
+        "doc_4925.txt",
+        "doc_971.txt",
+        "doc_739.txt"
+    ]
+}

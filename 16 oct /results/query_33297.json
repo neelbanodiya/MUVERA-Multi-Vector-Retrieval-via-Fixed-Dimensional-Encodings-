@@ -1,0 +1,10 @@
+{
+    "query": "Which Ohio county did Mr. Pathe purchase land in in 1896?",
+    "response": [
+        "doc_19375.txt",
+        "doc_19376.txt",
+        "doc_15206.txt",
+        "doc_3556.txt",
+        "doc_15209.txt"
+    ]
+}

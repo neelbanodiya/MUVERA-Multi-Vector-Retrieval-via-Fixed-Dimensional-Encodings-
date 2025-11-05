@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the song featured in the film \u201cBrokeback Mountain,\u201d and who composed it?",
+    "response": [
+        "doc_1811.txt",
+        "doc_7762.txt",
+        "doc_7456.txt",
+        "doc_17144.txt",
+        "doc_7656.txt"
+    ]
+}

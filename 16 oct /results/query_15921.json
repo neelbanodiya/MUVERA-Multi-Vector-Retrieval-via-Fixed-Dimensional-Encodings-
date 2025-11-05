@@ -1,0 +1,10 @@
+{
+    "query": "According to the sources, when was Jack Kerouac\u2019s novel *On the Road* first published?",
+    "response": [
+        "doc_9236.txt",
+        "doc_9234.txt",
+        "doc_9229.txt",
+        "doc_9235.txt",
+        "doc_9228.txt"
+    ]
+}

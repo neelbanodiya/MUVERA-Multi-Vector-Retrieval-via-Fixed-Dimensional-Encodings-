@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Craig Belden play the role in *Train from Gun Hill*?",
+    "response": [
+        "doc_22117.txt",
+        "doc_18591.txt",
+        "doc_16925.txt",
+        "doc_15278.txt",
+        "doc_21391.txt"
+    ]
+}

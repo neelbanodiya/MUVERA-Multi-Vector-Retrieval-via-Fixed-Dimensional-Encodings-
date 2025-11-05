@@ -1,0 +1,10 @@
+{
+    "query": "Are European road accidents increased in number and severity because some countries drive on the right and others on the left?",
+    "response": [
+        "doc_19816.txt",
+        "doc_12154.txt",
+        "doc_21793.txt",
+        "doc_10910.txt",
+        "doc_8746.txt"
+    ]
+}

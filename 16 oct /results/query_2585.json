@@ -1,0 +1,9 @@
+{
+    "query": "Which city does Abilene Regional Airport serve?",
+    "response": [
+        "doc_1554.txt",
+        "doc_1557.txt",
+        "doc_1558.txt",
+        "doc_1559.txt"
+    ]
+}

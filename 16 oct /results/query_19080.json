@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 28(f) of the Staff Regulations, what are the required language skills for European Commission officials?",
+    "response": [
+        "doc_11065.txt",
+        "doc_13371.txt",
+        "doc_3438.txt",
+        "doc_3447.txt",
+        "doc_1678.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was Detective Senior Sergeant Mark Greene involved in?",
+    "response": [
+        "doc_4582.txt",
+        "doc_2172.txt",
+        "doc_4585.txt",
+        "doc_4476.txt",
+        "doc_8581.txt"
+    ]
+}

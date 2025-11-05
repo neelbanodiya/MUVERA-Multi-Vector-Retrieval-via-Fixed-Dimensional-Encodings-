@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Joan Jett and the Blackhearts release the cover of \u201cCrimson and Clover\u201d?",
+    "response": [
+        "doc_22552.txt",
+        "doc_22547.txt",
+        "doc_22564.txt",
+        "doc_22551.txt",
+        "doc_22554.txt"
+    ]
+}

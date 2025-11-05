@@ -1,0 +1,10 @@
+{
+    "query": "What was the central theme in the 1992 Clinton campaign?",
+    "response": [
+        "doc_15750.txt",
+        "doc_15749.txt",
+        "doc_15751.txt",
+        "doc_15748.txt",
+        "doc_15746.txt"
+    ]
+}

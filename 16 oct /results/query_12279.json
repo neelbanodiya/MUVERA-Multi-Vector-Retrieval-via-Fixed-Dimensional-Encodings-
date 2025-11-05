@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, in what year was Ivan Pavlov\u2019s book \u201cConditioned Reflexes\u201d published?",
+    "response": [
+        "doc_7164.txt",
+        "doc_7163.txt",
+        "doc_7167.txt",
+        "doc_7169.txt",
+        "doc_7166.txt"
+    ]
+}

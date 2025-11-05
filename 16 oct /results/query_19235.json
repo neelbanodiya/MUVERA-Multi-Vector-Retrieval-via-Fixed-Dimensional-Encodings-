@@ -1,0 +1,10 @@
+{
+    "query": "What is mentioned as a notable characteristic of the film *Pulp Fiction* according to the passage?",
+    "response": [
+        "doc_5504.txt",
+        "doc_21379.txt",
+        "doc_12598.txt",
+        "doc_7648.txt",
+        "doc_2680.txt"
+    ]
+}

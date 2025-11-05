@@ -1,0 +1,10 @@
+{
+    "query": "Which Dutch settlers named the sea now known as the White Sea?",
+    "response": [
+        "doc_23408.txt",
+        "doc_12056.txt",
+        "doc_1654.txt",
+        "doc_15361.txt",
+        "doc_22342.txt"
+    ]
+}

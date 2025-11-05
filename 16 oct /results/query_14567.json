@@ -1,0 +1,10 @@
+{
+    "query": "What type of publication is *Naturen*, and where is it based?",
+    "response": [
+        "doc_8422.txt",
+        "doc_16752.txt",
+        "doc_21236.txt",
+        "doc_22773.txt",
+        "doc_21235.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where can you meet for pickup on the Luxembourg Tours tour?",
+    "response": [
+        "doc_17807.txt",
+        "doc_17815.txt",
+        "doc_17813.txt",
+        "doc_17811.txt",
+        "doc_6192.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was *Snowman* first published?",
+    "response": [
+        "doc_5357.txt",
+        "doc_7862.txt",
+        "doc_24144.txt",
+        "doc_15830.txt",
+        "doc_8336.txt"
+    ]
+}

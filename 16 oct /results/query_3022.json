@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is a key characteristic of the knights at the Round Table?",
+    "response": [
+        "doc_1833.txt",
+        "doc_1834.txt",
+        "doc_1841.txt",
+        "doc_1837.txt",
+        "doc_1836.txt"
+    ]
+}

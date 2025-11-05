@@ -1,0 +1,10 @@
+{
+    "query": "What did the person in the article \"Meet the Philly genius who turned a dumpster into a pool - Billy Penn\" put on the dumpster?",
+    "response": [
+        "doc_15669.txt",
+        "doc_11928.txt",
+        "doc_16345.txt",
+        "doc_7822.txt",
+        "doc_18808.txt"
+    ]
+}

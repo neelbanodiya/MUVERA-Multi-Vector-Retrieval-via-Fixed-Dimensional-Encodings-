@@ -1,0 +1,10 @@
+{
+    "query": "How long did Alice Roosevelt live after her father, Theodore Roosevelt, died?",
+    "response": [
+        "doc_19538.txt",
+        "doc_19536.txt",
+        "doc_19537.txt",
+        "doc_12673.txt",
+        "doc_19552.txt"
+    ]
+}

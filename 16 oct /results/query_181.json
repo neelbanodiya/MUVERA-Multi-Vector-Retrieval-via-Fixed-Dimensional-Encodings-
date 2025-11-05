@@ -1,0 +1,10 @@
+{
+    "query": "What is the Extra 260 aircraft derived from?",
+    "response": [
+        "doc_12763.txt",
+        "doc_22504.txt",
+        "doc_88.txt",
+        "doc_22301.txt",
+        "doc_22505.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of Diane Johnson\u2019s follow-up to *Le Divorce*?",
+    "response": [
+        "doc_19908.txt",
+        "doc_19913.txt",
+        "doc_19912.txt",
+        "doc_19914.txt",
+        "doc_19909.txt"
+    ]
+}

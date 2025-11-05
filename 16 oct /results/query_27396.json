@@ -1,0 +1,10 @@
+{
+    "query": "By 1942, what territory did Germany already control?",
+    "response": [
+        "doc_15923.txt",
+        "doc_15924.txt",
+        "doc_13737.txt",
+        "doc_13739.txt",
+        "doc_20958.txt"
+    ]
+}

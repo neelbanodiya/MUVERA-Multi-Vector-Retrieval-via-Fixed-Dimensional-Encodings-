@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is King Dasaratha\u2019s role in the story?",
+    "response": [
+        "doc_13954.txt",
+        "doc_21379.txt",
+        "doc_1297.txt",
+        "doc_506.txt",
+        "doc_15774.txt"
+    ]
+}

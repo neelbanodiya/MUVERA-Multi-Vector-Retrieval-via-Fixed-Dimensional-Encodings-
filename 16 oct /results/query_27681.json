@@ -1,0 +1,10 @@
+{
+    "query": "According to the articles, what was George Miller\u2019s initial plan in 2001 regarding filming a new Mad Max movie?",
+    "response": [
+        "doc_16093.txt",
+        "doc_16099.txt",
+        "doc_16100.txt",
+        "doc_16095.txt",
+        "doc_16101.txt"
+    ]
+}

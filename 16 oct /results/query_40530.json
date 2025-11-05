@@ -1,0 +1,10 @@
+{
+    "query": "According to multiple sources, what was the exact wording of Jesus\u2019s prediction regarding Peter and the rooster?",
+    "response": [
+        "doc_23697.txt",
+        "doc_23701.txt",
+        "doc_23698.txt",
+        "doc_23702.txt",
+        "doc_23704.txt"
+    ]
+}

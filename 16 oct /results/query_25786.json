@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the boy in Ursula LeGuin\u2019s *Wizard of Earthsea*?",
+    "response": [
+        "doc_10561.txt",
+        "doc_14775.txt",
+        "doc_22245.txt",
+        "doc_2464.txt",
+        "doc_20188.txt"
+    ]
+}

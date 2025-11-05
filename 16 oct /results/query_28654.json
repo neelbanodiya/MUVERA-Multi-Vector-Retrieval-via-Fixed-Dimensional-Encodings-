@@ -1,0 +1,10 @@
+{
+    "query": "Which city is the Presidio located near?",
+    "response": [
+        "doc_16687.txt",
+        "doc_16681.txt",
+        "doc_8343.txt",
+        "doc_6886.txt",
+        "doc_11198.txt"
+    ]
+}

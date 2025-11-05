@@ -1,0 +1,10 @@
+{
+    "query": "When was Lance Armstrong dropped from his first professional cycling team?",
+    "response": [
+        "doc_19164.txt",
+        "doc_19163.txt",
+        "doc_19166.txt",
+        "doc_19165.txt",
+        "doc_19169.txt"
+    ]
+}

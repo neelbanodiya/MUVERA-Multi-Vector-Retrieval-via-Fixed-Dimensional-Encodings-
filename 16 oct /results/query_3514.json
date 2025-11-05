@@ -1,0 +1,10 @@
+{
+    "query": "What was the date of the June 9, 2010 Congressional Record mentioned in one of the links?",
+    "response": [
+        "doc_1920.txt",
+        "doc_20521.txt",
+        "doc_1035.txt",
+        "doc_23671.txt",
+        "doc_19843.txt"
+    ]
+}

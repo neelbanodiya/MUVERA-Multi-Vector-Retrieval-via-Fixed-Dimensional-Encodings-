@@ -1,0 +1,10 @@
+{
+    "query": "What is the largest native toad species in the United States?",
+    "response": [
+        "doc_12298.txt",
+        "doc_12294.txt",
+        "doc_12300.txt",
+        "doc_19032.txt",
+        "doc_20055.txt"
+    ]
+}

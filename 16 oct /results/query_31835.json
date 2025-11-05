@@ -1,0 +1,10 @@
+{
+    "query": "How many points did Utah score in its season-opener against the opponent?",
+    "response": [
+        "doc_18569.txt",
+        "doc_18567.txt",
+        "doc_18566.txt",
+        "doc_18565.txt",
+        "doc_15564.txt"
+    ]
+}

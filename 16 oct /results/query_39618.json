@@ -1,0 +1,10 @@
+{
+    "query": "Who is Nicky Henson related to?",
+    "response": [
+        "doc_4275.txt",
+        "doc_23201.txt",
+        "doc_23196.txt",
+        "doc_4274.txt",
+        "doc_8086.txt"
+    ]
+}

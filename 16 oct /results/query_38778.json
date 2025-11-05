@@ -1,0 +1,10 @@
+{
+    "query": "In what city and state does the Sundance Film Festival take place annually?",
+    "response": [
+        "doc_22713.txt",
+        "doc_12735.txt",
+        "doc_22540.txt",
+        "doc_13065.txt",
+        "doc_11305.txt"
+    ]
+}

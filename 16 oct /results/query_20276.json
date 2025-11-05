@@ -1,0 +1,10 @@
+{
+    "query": "What term did H.L. Mencken use to describe President Harding\u2019s English?",
+    "response": [
+        "doc_11682.txt",
+        "doc_11686.txt",
+        "doc_11318.txt",
+        "doc_11835.txt",
+        "doc_23405.txt"
+    ]
+}

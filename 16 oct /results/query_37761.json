@@ -1,0 +1,10 @@
+{
+    "query": "What did Alice do to engage in a conversation in the passage from *Alice's Adventures in Wonderland*?",
+    "response": [
+        "doc_20310.txt",
+        "doc_20309.txt",
+        "doc_22141.txt",
+        "doc_22140.txt",
+        "doc_18447.txt"
+    ]
+}

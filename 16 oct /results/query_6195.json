@@ -1,0 +1,10 @@
+{
+    "query": "What action did MEPs take regarding the initiative suggesting a reduction in the Community budget for the period 2007-2013?",
+    "response": [
+        "doc_14304.txt",
+        "doc_22188.txt",
+        "doc_17470.txt",
+        "doc_21334.txt",
+        "doc_22190.txt"
+    ]
+}

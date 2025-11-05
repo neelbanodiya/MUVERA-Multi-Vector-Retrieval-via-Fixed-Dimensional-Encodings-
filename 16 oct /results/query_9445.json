@@ -1,0 +1,10 @@
+{
+    "query": "In what timeframe was the EU expected to provide substantial support for the aid plan?",
+    "response": [
+        "doc_14403.txt",
+        "doc_5894.txt",
+        "doc_14347.txt",
+        "doc_23627.txt",
+        "doc_18513.txt"
+    ]
+}

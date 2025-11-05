@@ -1,0 +1,10 @@
+{
+    "query": "Which province has won all six gold medals in women\u2019s hockey at the Canada Winter Games since 1991?",
+    "response": [
+        "doc_15506.txt",
+        "doc_15507.txt",
+        "doc_15505.txt",
+        "doc_15518.txt",
+        "doc_15516.txt"
+    ]
+}

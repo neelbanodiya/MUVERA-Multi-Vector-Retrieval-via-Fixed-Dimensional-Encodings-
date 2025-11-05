@@ -1,0 +1,10 @@
+{
+    "query": "What is the New York State Capitol located within, and what is another significant feature of the Empire State Plaza?",
+    "response": [
+        "doc_22431.txt",
+        "doc_22432.txt",
+        "doc_22423.txt",
+        "doc_22425.txt",
+        "doc_22429.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Linsell House donated to the university?",
+    "response": [
+        "doc_3979.txt",
+        "doc_3978.txt",
+        "doc_9025.txt",
+        "doc_9024.txt",
+        "doc_19221.txt"
+    ]
+}

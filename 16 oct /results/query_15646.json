@@ -1,0 +1,10 @@
+{
+    "query": "What colors of paint did Pollock use when applying his \"drip\" technique?",
+    "response": [
+        "doc_9065.txt",
+        "doc_9067.txt",
+        "doc_9066.txt",
+        "doc_9061.txt",
+        "doc_9070.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the novel that \u201cThe Ox-Bow Incident\u201d is based on?",
+    "response": [
+        "doc_12800.txt",
+        "doc_12796.txt",
+        "doc_12790.txt",
+        "doc_12797.txt",
+        "doc_12782.txt"
+    ]
+}

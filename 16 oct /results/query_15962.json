@@ -1,0 +1,10 @@
+{
+    "query": "Who are the protagonists of *On the Road*, and what are their names?",
+    "response": [
+        "doc_9232.txt",
+        "doc_9245.txt",
+        "doc_9242.txt",
+        "doc_9229.txt",
+        "doc_9228.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many engineers are currently part of the Ampyx Power team?",
+    "response": [
+        "doc_1903.txt",
+        "doc_1904.txt",
+        "doc_3457.txt",
+        "doc_12714.txt",
+        "doc_12713.txt"
+    ]
+}

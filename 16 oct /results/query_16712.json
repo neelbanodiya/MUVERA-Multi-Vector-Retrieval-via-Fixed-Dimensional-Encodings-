@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what phrase is associated with Drake\u2019s song \u201cPsalms of the 6 God\u201d?",
+    "response": [
+        "doc_7527.txt",
+        "doc_2479.txt",
+        "doc_1307.txt",
+        "doc_1295.txt",
+        "doc_2478.txt"
+    ]
+}

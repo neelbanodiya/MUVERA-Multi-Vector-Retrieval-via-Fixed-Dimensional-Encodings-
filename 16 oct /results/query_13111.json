@@ -1,0 +1,10 @@
+{
+    "query": "According to the Wikipedia article on \u201cThe Seventh Seal,\u201d what event is referenced in Revelation 8:1?",
+    "response": [
+        "doc_7677.txt",
+        "doc_15670.txt",
+        "doc_7442.txt",
+        "doc_1306.txt",
+        "doc_7444.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of animal did Dian Fossey primarily study?",
+    "response": [
+        "doc_3456.txt",
+        "doc_19858.txt",
+        "doc_3458.txt",
+        "doc_21582.txt",
+        "doc_3461.txt"
+    ]
+}

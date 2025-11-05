@@ -1,0 +1,10 @@
+{
+    "query": "Besides Iraq, what other region does the passage call for continued financial support for, and what specific goals are associated with that support?",
+    "response": [
+        "doc_4824.txt",
+        "doc_22796.txt",
+        "doc_12615.txt",
+        "doc_22998.txt",
+        "doc_22999.txt"
+    ]
+}

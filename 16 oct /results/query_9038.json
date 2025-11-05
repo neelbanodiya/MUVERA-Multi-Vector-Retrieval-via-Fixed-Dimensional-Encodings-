@@ -1,0 +1,10 @@
+{
+    "query": "Which actors appeared as guest stars on the show *Nash Bridges*?",
+    "response": [
+        "doc_5207.txt",
+        "doc_5201.txt",
+        "doc_5214.txt",
+        "doc_5202.txt",
+        "doc_5209.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to one source, what type of actor was John Wayne described as in \u201cTrue Grit\u201d?",
+    "response": [
+        "doc_23283.txt",
+        "doc_23287.txt",
+        "doc_23286.txt",
+        "doc_23278.txt",
+        "doc_23280.txt"
+    ]
+}

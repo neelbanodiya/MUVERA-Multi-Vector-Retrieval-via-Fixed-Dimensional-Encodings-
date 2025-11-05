@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is a \"literal\" in the context of Swift?",
+    "response": [
+        "doc_23903.txt",
+        "doc_8260.txt",
+        "doc_9053.txt",
+        "doc_12626.txt",
+        "doc_9445.txt"
+    ]
+}

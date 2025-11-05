@@ -1,0 +1,10 @@
+{
+    "query": "What is Laertes\u2019s full name, as mentioned in one of the sources?",
+    "response": [
+        "doc_23167.txt",
+        "doc_3543.txt",
+        "doc_12597.txt",
+        "doc_2949.txt",
+        "doc_19983.txt"
+    ]
+}

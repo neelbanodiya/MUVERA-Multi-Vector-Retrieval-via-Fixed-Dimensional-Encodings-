@@ -1,0 +1,10 @@
+{
+    "query": "What song did Gerry Goffin consider his favorite?",
+    "response": [
+        "doc_11416.txt",
+        "doc_11424.txt",
+        "doc_12338.txt",
+        "doc_10096.txt",
+        "doc_19996.txt"
+    ]
+}

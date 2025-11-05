@@ -1,0 +1,10 @@
+{
+    "query": "When was the Ukrainian Parliament\u2019s resolution on the Holodomor adopted?",
+    "response": [
+        "doc_21971.txt",
+        "doc_17868.txt",
+        "doc_14687.txt",
+        "doc_15469.txt",
+        "doc_4130.txt"
+    ]
+}

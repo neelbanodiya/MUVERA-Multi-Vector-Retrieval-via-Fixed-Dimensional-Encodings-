@@ -1,0 +1,10 @@
+{
+    "query": "Which Prime Ministers are specifically referenced in relation to Britain\u2019s international competitiveness?",
+    "response": [
+        "doc_5498.txt",
+        "doc_17353.txt",
+        "doc_4750.txt",
+        "doc_14283.txt",
+        "doc_17398.txt"
+    ]
+}

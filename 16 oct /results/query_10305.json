@@ -1,0 +1,10 @@
+{
+    "query": "In 2016, which Illinois House seat did Ken Dunkin compete for?",
+    "response": [
+        "doc_5974.txt",
+        "doc_5969.txt",
+        "doc_1932.txt",
+        "doc_1924.txt",
+        "doc_4524.txt"
+    ]
+}

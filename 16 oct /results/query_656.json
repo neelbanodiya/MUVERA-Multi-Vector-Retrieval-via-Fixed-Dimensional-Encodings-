@@ -1,0 +1,10 @@
+{
+    "query": "What geological feature is Loch Ness located within?",
+    "response": [
+        "doc_9295.txt",
+        "doc_368.txt",
+        "doc_8426.txt",
+        "doc_374.txt",
+        "doc_8428.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the Council\u2019s adopted level of budgetary appropriations in 2006, according to the text?",
+    "response": [
+        "doc_17541.txt",
+        "doc_17469.txt",
+        "doc_17470.txt",
+        "doc_14304.txt",
+        "doc_9103.txt"
+    ]
+}

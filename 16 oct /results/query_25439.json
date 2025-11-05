@@ -1,0 +1,10 @@
+{
+    "query": "When did George Rosener write and act in the Frank Buck serial \u201cJungle Menace\u201d?",
+    "response": [
+        "doc_16136.txt",
+        "doc_16130.txt",
+        "doc_12783.txt",
+        "doc_12787.txt",
+        "doc_12784.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is mentioned as a reason Euripides might have used an example like Pasiphae?",
+    "response": [
+        "doc_19776.txt",
+        "doc_8265.txt",
+        "doc_18210.txt",
+        "doc_11029.txt",
+        "doc_18209.txt"
+    ]
+}

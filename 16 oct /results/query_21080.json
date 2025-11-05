@@ -1,0 +1,10 @@
+{
+    "query": "What airport serves Springfield, IL, and to which other major airport does it offer flights?",
+    "response": [
+        "doc_12165.txt",
+        "doc_4819.txt",
+        "doc_11492.txt",
+        "doc_1557.txt",
+        "doc_1554.txt"
+    ]
+}

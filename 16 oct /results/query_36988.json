@@ -1,0 +1,10 @@
+{
+    "query": "What event in 1960 marked the first time the 50-star American flag was flown?",
+    "response": [
+        "doc_21634.txt",
+        "doc_21637.txt",
+        "doc_21635.txt",
+        "doc_21640.txt",
+        "doc_21644.txt"
+    ]
+}

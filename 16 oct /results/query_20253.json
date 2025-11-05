@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Abdelwareth win gold at the World Championships?",
+    "response": [
+        "doc_11674.txt",
+        "doc_14520.txt",
+        "doc_22767.txt",
+        "doc_11356.txt",
+        "doc_15504.txt"
+    ]
+}

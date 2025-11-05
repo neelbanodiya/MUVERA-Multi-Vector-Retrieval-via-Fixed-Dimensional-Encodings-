@@ -1,0 +1,10 @@
+{
+    "query": "According to the Daily Mail article, what type of machine was developed by British scientists?",
+    "response": [
+        "doc_12772.txt",
+        "doc_20270.txt",
+        "doc_22602.txt",
+        "doc_11530.txt",
+        "doc_7387.txt"
+    ]
+}

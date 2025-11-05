@@ -1,0 +1,10 @@
+{
+    "query": "At what age was the current Dalai Lama enthroned?",
+    "response": [
+        "doc_22702.txt",
+        "doc_22703.txt",
+        "doc_22707.txt",
+        "doc_22705.txt",
+        "doc_22711.txt"
+    ]
+}

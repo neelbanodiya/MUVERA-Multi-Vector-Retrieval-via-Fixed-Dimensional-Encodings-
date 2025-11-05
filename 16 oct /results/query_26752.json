@@ -1,0 +1,10 @@
+{
+    "query": "According to the Hockey-Reference.com website, what were Brett Hull\u2019s and Dave Andreychuk\u2019s point totals in the 1992-93 NHL season?",
+    "response": [
+        "doc_15538.txt",
+        "doc_15541.txt",
+        "doc_15542.txt",
+        "doc_15539.txt",
+        "doc_15543.txt"
+    ]
+}

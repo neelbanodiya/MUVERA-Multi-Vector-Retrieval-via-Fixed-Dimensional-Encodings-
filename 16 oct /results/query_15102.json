@@ -1,0 +1,10 @@
+{
+    "query": "Besides French onion soup, what other soup is available?",
+    "response": [
+        "doc_7084.txt",
+        "doc_8751.txt",
+        "doc_8756.txt",
+        "doc_16762.txt",
+        "doc_8749.txt"
+    ]
+}

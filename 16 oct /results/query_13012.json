@@ -1,0 +1,10 @@
+{
+    "query": "How was Michael Lewis\u2019s bestseller, \u201cThe Big Short,\u201d used?",
+    "response": [
+        "doc_20543.txt",
+        "doc_20541.txt",
+        "doc_15276.txt",
+        "doc_11313.txt",
+        "doc_20545.txt"
+    ]
+}

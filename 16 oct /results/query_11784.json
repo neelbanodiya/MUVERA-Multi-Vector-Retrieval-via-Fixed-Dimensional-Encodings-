@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what specific British directors\u2019 films are no longer shown on the BBC?",
+    "response": [
+        "doc_6862.txt",
+        "doc_18216.txt",
+        "doc_21160.txt",
+        "doc_7753.txt",
+        "doc_5323.txt"
+    ]
+}

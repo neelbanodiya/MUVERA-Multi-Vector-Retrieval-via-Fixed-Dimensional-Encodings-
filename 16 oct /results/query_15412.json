@@ -1,0 +1,10 @@
+{
+    "query": "What action did the High Representative/Vice-President Ashton call for regarding executions in Iran?",
+    "response": [
+        "doc_8911.txt",
+        "doc_995.txt",
+        "doc_19695.txt",
+        "doc_17975.txt",
+        "doc_5817.txt"
+    ]
+}

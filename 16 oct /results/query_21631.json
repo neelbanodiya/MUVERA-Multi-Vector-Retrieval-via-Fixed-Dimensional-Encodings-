@@ -1,0 +1,10 @@
+{
+    "query": "What is Katy from?",
+    "response": [
+        "doc_12612.txt",
+        "doc_7198.txt",
+        "doc_775.txt",
+        "doc_20497.txt",
+        "doc_8678.txt"
+    ]
+}

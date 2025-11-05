@@ -1,0 +1,10 @@
+{
+    "query": "What role does the European Parliament and the Council play in revising Article 4 of the Directive?",
+    "response": [
+        "doc_18009.txt",
+        "doc_18008.txt",
+        "doc_13316.txt",
+        "doc_17253.txt",
+        "doc_7294.txt"
+    ]
+}

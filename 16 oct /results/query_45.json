@@ -1,0 +1,10 @@
+{
+    "query": "When did the Pine Street Railway change its name?",
+    "response": [
+        "doc_28.txt",
+        "doc_22764.txt",
+        "doc_23400.txt",
+        "doc_23261.txt",
+        "doc_10696.txt"
+    ]
+}

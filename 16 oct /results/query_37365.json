@@ -1,0 +1,10 @@
+{
+    "query": "What type of aircraft did Eastern Air Lines become the first to fly in 1964?",
+    "response": [
+        "doc_21887.txt",
+        "doc_11365.txt",
+        "doc_15404.txt",
+        "doc_11370.txt",
+        "doc_1326.txt"
+    ]
+}

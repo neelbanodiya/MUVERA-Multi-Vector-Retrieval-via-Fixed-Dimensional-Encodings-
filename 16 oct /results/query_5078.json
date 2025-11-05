@@ -1,0 +1,10 @@
+{
+    "query": "What was Sgt. Robert Takeo\u2019s role in the 100th Infantry Battalion?",
+    "response": [
+        "doc_2970.txt",
+        "doc_22448.txt",
+        "doc_18399.txt",
+        "doc_18898.txt",
+        "doc_2420.txt"
+    ]
+}

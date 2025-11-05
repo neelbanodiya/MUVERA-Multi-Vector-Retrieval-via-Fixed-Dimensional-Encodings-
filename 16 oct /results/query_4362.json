@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the cathedral that is located at the southeast end of Red Square?",
+    "response": [
+        "doc_2531.txt",
+        "doc_2543.txt",
+        "doc_2538.txt",
+        "doc_2542.txt",
+        "doc_2533.txt"
+    ]
+}

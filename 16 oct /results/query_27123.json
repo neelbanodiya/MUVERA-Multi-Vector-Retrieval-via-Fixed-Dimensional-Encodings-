@@ -1,0 +1,10 @@
+{
+    "query": "What city is Big Country from?",
+    "response": [
+        "doc_3882.txt",
+        "doc_6430.txt",
+        "doc_3883.txt",
+        "doc_957.txt",
+        "doc_23079.txt"
+    ]
+}

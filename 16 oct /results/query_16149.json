@@ -1,0 +1,10 @@
+{
+    "query": "Besides the Grand Canyon, what other locations in Arizona are mentioned as worthwhile places to visit?",
+    "response": [
+        "doc_9331.txt",
+        "doc_23891.txt",
+        "doc_14224.txt",
+        "doc_9336.txt",
+        "doc_4896.txt"
+    ]
+}

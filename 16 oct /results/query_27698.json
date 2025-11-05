@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is Toyota aiming to improve globally?",
+    "response": [
+        "doc_16107.txt",
+        "doc_16114.txt",
+        "doc_13647.txt",
+        "doc_8044.txt",
+        "doc_3046.txt"
+    ]
+}

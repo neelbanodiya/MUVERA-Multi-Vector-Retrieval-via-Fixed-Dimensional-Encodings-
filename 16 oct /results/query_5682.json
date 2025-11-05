@@ -1,0 +1,10 @@
+{
+    "query": "How many NCAA tournaments has Matt Hopper lettered in?",
+    "response": [
+        "doc_19170.txt",
+        "doc_18334.txt",
+        "doc_13766.txt",
+        "doc_3295.txt",
+        "doc_1221.txt"
+    ]
+}

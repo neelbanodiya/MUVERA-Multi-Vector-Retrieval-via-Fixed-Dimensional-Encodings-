@@ -1,0 +1,10 @@
+{
+    "query": "What is the current situation in Greek slaughterhouses?",
+    "response": [
+        "doc_14302.txt",
+        "doc_20101.txt",
+        "doc_22676.txt",
+        "doc_20320.txt",
+        "doc_12449.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how much revenue did \u201cStar Wars Episode I\u201d generate?",
+    "response": [
+        "doc_8403.txt",
+        "doc_8404.txt",
+        "doc_8416.txt",
+        "doc_8412.txt",
+        "doc_8407.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Of the total Community financial contributions to Senegal between 2002 and 2006, how much was allocated to conservation of resources and sustainable development annually?",
+    "response": [
+        "doc_1363.txt",
+        "doc_23029.txt",
+        "doc_7760.txt",
+        "doc_10524.txt",
+        "doc_17474.txt"
+    ]
+}

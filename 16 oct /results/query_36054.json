@@ -1,0 +1,10 @@
+{
+    "query": "What specific concern does the passage raise regarding access to medicines for the treatment of AIDS?",
+    "response": [
+        "doc_9692.txt",
+        "doc_23109.txt",
+        "doc_5750.txt",
+        "doc_3597.txt",
+        "doc_5751.txt"
+    ]
+}

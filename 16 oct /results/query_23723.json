@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the National Track and Field Hall of Fame established?",
+    "response": [
+        "doc_15160.txt",
+        "doc_24238.txt",
+        "doc_19243.txt",
+        "doc_20937.txt",
+        "doc_13036.txt"
+    ]
+}

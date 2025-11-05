@@ -1,0 +1,10 @@
+{
+    "query": "What is the definition of the acronym \"BTA\" according to the passage?",
+    "response": [
+        "doc_12129.txt",
+        "doc_1589.txt",
+        "doc_13216.txt",
+        "doc_12384.txt",
+        "doc_4321.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which actor starred as Rusty Sabich in the 1990 film adaptation of *Presumed Innocent*?",
+    "response": [
+        "doc_18482.txt",
+        "doc_16218.txt",
+        "doc_16225.txt",
+        "doc_16594.txt",
+        "doc_23290.txt"
+    ]
+}

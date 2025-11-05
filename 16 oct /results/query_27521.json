@@ -1,0 +1,10 @@
+{
+    "query": "What is the origin of the word \"Utopia,\" and who coined it?",
+    "response": [
+        "doc_16001.txt",
+        "doc_16005.txt",
+        "doc_16004.txt",
+        "doc_16002.txt",
+        "doc_16008.txt"
+    ]
+}

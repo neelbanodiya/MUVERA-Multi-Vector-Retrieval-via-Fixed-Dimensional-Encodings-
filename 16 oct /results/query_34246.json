@@ -1,0 +1,10 @@
+{
+    "query": "What was Diane Johnson\u2019s 1997 novel titled \u201cLe Divorce\u201d?",
+    "response": [
+        "doc_19908.txt",
+        "doc_19909.txt",
+        "doc_19913.txt",
+        "doc_19914.txt",
+        "doc_19911.txt"
+    ]
+}

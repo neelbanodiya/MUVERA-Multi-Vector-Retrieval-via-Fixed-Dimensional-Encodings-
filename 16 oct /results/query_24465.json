@@ -1,0 +1,10 @@
+{
+    "query": "What country\u2019s forces were involved in the Italian force that was sunk?",
+    "response": [
+        "doc_9779.txt",
+        "doc_10288.txt",
+        "doc_14202.txt",
+        "doc_14201.txt",
+        "doc_10818.txt"
+    ]
+}

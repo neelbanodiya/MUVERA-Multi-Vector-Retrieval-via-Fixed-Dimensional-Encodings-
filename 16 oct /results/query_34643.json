@@ -1,0 +1,10 @@
+{
+    "query": "What award did R. Lee Ermey receive for his role as Gunnery Sergeant Hartman?",
+    "response": [
+        "doc_20159.txt",
+        "doc_20158.txt",
+        "doc_851.txt",
+        "doc_4584.txt",
+        "doc_4583.txt"
+    ]
+}

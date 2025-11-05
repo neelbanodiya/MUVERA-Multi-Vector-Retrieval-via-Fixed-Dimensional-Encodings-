@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was the purpose of the \u201cmartial array\u201d Patrick Henry discussed?",
+    "response": [
+        "doc_340.txt",
+        "doc_341.txt",
+        "doc_342.txt",
+        "doc_338.txt",
+        "doc_336.txt"
+    ]
+}

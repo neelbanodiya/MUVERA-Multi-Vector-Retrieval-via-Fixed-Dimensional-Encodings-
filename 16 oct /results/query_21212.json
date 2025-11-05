@@ -1,0 +1,10 @@
+{
+    "query": "What movie featured Edward G. Robinson playing a character similar to Al Capone?",
+    "response": [
+        "doc_16925.txt",
+        "doc_12249.txt",
+        "doc_18954.txt",
+        "doc_486.txt",
+        "doc_15485.txt"
+    ]
+}

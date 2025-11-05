@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the Dalai Lama\u2019s current position on a list of spiritual leaders?",
+    "response": [
+        "doc_22710.txt",
+        "doc_22706.txt",
+        "doc_22707.txt",
+        "doc_22702.txt",
+        "doc_22711.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How did Bob Dylan choose his name?",
+    "response": [
+        "doc_14088.txt",
+        "doc_14072.txt",
+        "doc_14073.txt",
+        "doc_16127.txt",
+        "doc_14086.txt"
+    ]
+}

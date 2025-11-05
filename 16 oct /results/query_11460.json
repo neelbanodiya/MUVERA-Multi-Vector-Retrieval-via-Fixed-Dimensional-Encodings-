@@ -1,0 +1,10 @@
+{
+    "query": "What was noted about \u201cBreakfast at Tiffany\u2019s\u201d in Time magazine?",
+    "response": [
+        "doc_4981.txt",
+        "doc_21994.txt",
+        "doc_8927.txt",
+        "doc_2218.txt",
+        "doc_18267.txt"
+    ]
+}

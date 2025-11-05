@@ -1,0 +1,10 @@
+{
+    "query": "What was Alice Walker\u2019s first published collection of poems?",
+    "response": [
+        "doc_23252.txt",
+        "doc_6307.txt",
+        "doc_3312.txt",
+        "doc_6548.txt",
+        "doc_6303.txt"
+    ]
+}

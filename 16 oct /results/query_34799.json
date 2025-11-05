@@ -1,0 +1,10 @@
+{
+    "query": "In what city did Stephen Crane die?",
+    "response": [
+        "doc_1395.txt",
+        "doc_16619.txt",
+        "doc_15686.txt",
+        "doc_9675.txt",
+        "doc_1277.txt"
+    ]
+}

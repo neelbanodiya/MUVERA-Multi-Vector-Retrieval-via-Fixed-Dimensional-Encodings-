@@ -1,0 +1,10 @@
+{
+    "query": "How many gold medals did Canada win in the men\u2019s hockey tournament at the 2014 Winter Olympics?",
+    "response": [
+        "doc_15506.txt",
+        "doc_15508.txt",
+        "doc_15505.txt",
+        "doc_15509.txt",
+        "doc_15504.txt"
+    ]
+}

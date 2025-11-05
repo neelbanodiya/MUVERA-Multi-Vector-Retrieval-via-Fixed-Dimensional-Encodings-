@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the opera directed by Gian Carlo Menotti in Spoleto?",
+    "response": [
+        "doc_10454.txt",
+        "doc_10459.txt",
+        "doc_10455.txt",
+        "doc_10468.txt",
+        "doc_15391.txt"
+    ]
+}

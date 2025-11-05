@@ -1,0 +1,10 @@
+{
+    "query": "In 1616, what did the Catholic Church ban?",
+    "response": [
+        "doc_16505.txt",
+        "doc_16510.txt",
+        "doc_16517.txt",
+        "doc_16506.txt",
+        "doc_16509.txt"
+    ]
+}

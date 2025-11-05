@@ -1,0 +1,10 @@
+{
+    "query": "What is the connection between the St. Marys River and the other Great Lakes, and how does this connection facilitate shipping?",
+    "response": [
+        "doc_1643.txt",
+        "doc_1650.txt",
+        "doc_1647.txt",
+        "doc_1633.txt",
+        "doc_1641.txt"
+    ]
+}

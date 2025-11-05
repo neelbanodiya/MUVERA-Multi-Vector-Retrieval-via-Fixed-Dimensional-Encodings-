@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the ship that Jim Hawkins sails on in *Treasure Island*?",
+    "response": [
+        "doc_20018.txt",
+        "doc_20011.txt",
+        "doc_20008.txt",
+        "doc_20019.txt",
+        "doc_20014.txt"
+    ]
+}

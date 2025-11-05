@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of Bulgarian zoos are currently in bad or very bad condition?",
+    "response": [
+        "doc_9740.txt",
+        "doc_2419.txt",
+        "doc_2344.txt",
+        "doc_9523.txt",
+        "doc_6028.txt"
+    ]
+}

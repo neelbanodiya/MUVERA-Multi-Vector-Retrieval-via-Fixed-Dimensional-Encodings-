@@ -1,0 +1,10 @@
+{
+    "query": "According to one article, what does it take to make a hunter look \u201cas sly as Wile E. Coyote\u201d?",
+    "response": [
+        "doc_19205.txt",
+        "doc_19211.txt",
+        "doc_19217.txt",
+        "doc_19213.txt",
+        "doc_19207.txt"
+    ]
+}

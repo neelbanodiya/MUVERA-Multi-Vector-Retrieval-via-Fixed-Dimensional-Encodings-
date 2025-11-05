@@ -1,0 +1,10 @@
+{
+    "query": "What year was *Robinson Crusoe* released?",
+    "response": [
+        "doc_1229.txt",
+        "doc_1231.txt",
+        "doc_23279.txt",
+        "doc_10968.txt",
+        "doc_14780.txt"
+    ]
+}

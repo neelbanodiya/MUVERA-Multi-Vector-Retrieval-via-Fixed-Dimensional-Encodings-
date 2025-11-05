@@ -1,0 +1,10 @@
+{
+    "query": "Which brand of lipstick is described as a \u201cless expensive alternative\u201d to MAC\u2019s Russian Red?",
+    "response": [
+        "doc_10807.txt",
+        "doc_10811.txt",
+        "doc_10805.txt",
+        "doc_10806.txt",
+        "doc_10809.txt"
+    ]
+}

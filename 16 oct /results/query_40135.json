@@ -1,0 +1,10 @@
+{
+    "query": "Which news organization, as referenced in the Washington Post link, is reporting a DJIA increase of 0.04% today?",
+    "response": [
+        "doc_5221.txt",
+        "doc_4858.txt",
+        "doc_22926.txt",
+        "doc_17555.txt",
+        "doc_23082.txt"
+    ]
+}

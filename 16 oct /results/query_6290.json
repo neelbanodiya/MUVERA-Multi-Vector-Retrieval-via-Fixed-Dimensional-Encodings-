@@ -1,0 +1,10 @@
+{
+    "query": "According to Eurostat data, which European Union Member State is currently the poorest?",
+    "response": [
+        "doc_3654.txt",
+        "doc_5135.txt",
+        "doc_162.txt",
+        "doc_3274.txt",
+        "doc_13918.txt"
+    ]
+}

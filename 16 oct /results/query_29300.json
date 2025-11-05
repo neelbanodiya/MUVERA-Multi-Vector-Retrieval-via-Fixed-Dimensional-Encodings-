@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the security company located in Kansas City?",
+    "response": [
+        "doc_17059.txt",
+        "doc_17060.txt",
+        "doc_12645.txt",
+        "doc_5557.txt",
+        "doc_14640.txt"
+    ]
+}

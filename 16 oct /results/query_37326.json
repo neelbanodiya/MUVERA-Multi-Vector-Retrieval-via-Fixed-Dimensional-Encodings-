@@ -1,0 +1,10 @@
+{
+    "query": "What does the phrase \"L'Air du Temps\" mean?",
+    "response": [
+        "doc_21853.txt",
+        "doc_21854.txt",
+        "doc_23167.txt",
+        "doc_23169.txt",
+        "doc_9981.txt"
+    ]
+}

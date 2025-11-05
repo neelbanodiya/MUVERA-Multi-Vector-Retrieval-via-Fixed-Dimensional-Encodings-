@@ -1,0 +1,10 @@
+{
+    "query": "What was Michael Crawford\u2019s role in the 2006 production of *The Phantom of the Opera*?",
+    "response": [
+        "doc_1964.txt",
+        "doc_1966.txt",
+        "doc_1965.txt",
+        "doc_1967.txt",
+        "doc_1969.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What hotels are located near Emerson College Boston?",
+    "response": [
+        "doc_1606.txt",
+        "doc_1609.txt",
+        "doc_1607.txt",
+        "doc_1616.txt",
+        "doc_1615.txt"
+    ]
+}

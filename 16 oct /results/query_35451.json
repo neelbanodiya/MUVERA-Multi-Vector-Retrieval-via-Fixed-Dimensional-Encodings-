@@ -1,0 +1,10 @@
+{
+    "query": "What event in 1842 led to the outbreak of the first Anglo-Afghan War?",
+    "response": [
+        "doc_1483.txt",
+        "doc_4015.txt",
+        "doc_19665.txt",
+        "doc_17975.txt",
+        "doc_17954.txt"
+    ]
+}

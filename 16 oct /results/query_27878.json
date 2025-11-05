@@ -1,0 +1,10 @@
+{
+    "query": "What is the famous landmark in Prague associated with the composer Antonn Dvok?",
+    "response": [
+        "doc_16211.txt",
+        "doc_16209.txt",
+        "doc_16214.txt",
+        "doc_16213.txt",
+        "doc_16212.txt"
+    ]
+}

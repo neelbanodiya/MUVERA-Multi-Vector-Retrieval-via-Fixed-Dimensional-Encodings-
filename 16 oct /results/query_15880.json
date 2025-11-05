@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between Quasimodo and Esmeralda?",
+    "response": [
+        "doc_21898.txt",
+        "doc_18728.txt",
+        "doc_227.txt",
+        "doc_15478.txt",
+        "doc_7942.txt"
+    ]
+}

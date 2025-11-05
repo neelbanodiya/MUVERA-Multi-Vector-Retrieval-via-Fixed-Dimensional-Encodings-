@@ -1,0 +1,10 @@
+{
+    "query": "Which band did Eric Clapton play with before forming Cream?",
+    "response": [
+        "doc_20902.txt",
+        "doc_20901.txt",
+        "doc_20896.txt",
+        "doc_20895.txt",
+        "doc_20898.txt"
+    ]
+}

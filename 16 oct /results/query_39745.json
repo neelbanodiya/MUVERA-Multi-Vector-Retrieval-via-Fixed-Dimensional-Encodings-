@@ -1,0 +1,10 @@
+{
+    "query": "What was the role of Boris Yeltsin in the events leading to the invasion of Chechnya?",
+    "response": [
+        "doc_23266.txt",
+        "doc_23270.txt",
+        "doc_23267.txt",
+        "doc_23268.txt",
+        "doc_23265.txt"
+    ]
+}

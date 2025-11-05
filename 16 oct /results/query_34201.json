@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the title of a book by John Grisham?",
+    "response": [
+        "doc_20544.txt",
+        "doc_4655.txt",
+        "doc_20545.txt",
+        "doc_22261.txt",
+        "doc_19952.txt"
+    ]
+}

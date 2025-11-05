@@ -1,0 +1,10 @@
+{
+    "query": "What year was the movie *Men in Black* released?",
+    "response": [
+        "doc_400.txt",
+        "doc_1231.txt",
+        "doc_402.txt",
+        "doc_11151.txt",
+        "doc_21482.txt"
+    ]
+}

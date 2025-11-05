@@ -1,0 +1,10 @@
+{
+    "query": "How many members are currently in the EPP-ED political group?",
+    "response": [
+        "doc_13234.txt",
+        "doc_23709.txt",
+        "doc_8653.txt",
+        "doc_313.txt",
+        "doc_8652.txt"
+    ]
+}

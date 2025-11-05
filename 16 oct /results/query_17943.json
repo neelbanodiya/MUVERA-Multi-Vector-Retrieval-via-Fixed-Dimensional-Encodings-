@@ -1,0 +1,10 @@
+{
+    "query": "In what language was Isaac Bashevis Singer\u2019s novel \u201cThe Family Moskat\u201d originally written?",
+    "response": [
+        "doc_10389.txt",
+        "doc_10392.txt",
+        "doc_10391.txt",
+        "doc_10400.txt",
+        "doc_10386.txt"
+    ]
+}

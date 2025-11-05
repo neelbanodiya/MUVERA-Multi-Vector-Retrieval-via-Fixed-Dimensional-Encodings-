@@ -1,0 +1,10 @@
+{
+    "query": "What Nebula Award did Stephen King receive a nomination for?",
+    "response": [
+        "doc_12638.txt",
+        "doc_2264.txt",
+        "doc_15278.txt",
+        "doc_13633.txt",
+        "doc_4918.txt"
+    ]
+}

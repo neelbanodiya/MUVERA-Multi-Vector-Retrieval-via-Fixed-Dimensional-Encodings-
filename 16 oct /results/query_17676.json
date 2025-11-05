@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what type of pizza did Eagle Boys advertise?",
+    "response": [
+        "doc_2218.txt",
+        "doc_10236.txt",
+        "doc_14354.txt",
+        "doc_11890.txt",
+        "doc_10242.txt"
+    ]
+}

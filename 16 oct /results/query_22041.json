@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is one of the reasons the Greater Portland and Casco Bay area is popular for tourism?",
+    "response": [
+        "doc_20235.txt",
+        "doc_12725.txt",
+        "doc_23370.txt",
+        "doc_16532.txt",
+        "doc_23369.txt"
+    ]
+}

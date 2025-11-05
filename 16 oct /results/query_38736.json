@@ -1,0 +1,10 @@
+{
+    "query": "Which countries are specifically mentioned as being involved in increased security and defense coordination regarding the Libyan crisis?",
+    "response": [
+        "doc_22694.txt",
+        "doc_22695.txt",
+        "doc_7833.txt",
+        "doc_22691.txt",
+        "doc_18361.txt"
+    ]
+}

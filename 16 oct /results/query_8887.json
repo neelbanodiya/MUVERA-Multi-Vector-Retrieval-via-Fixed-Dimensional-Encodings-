@@ -1,0 +1,10 @@
+{
+    "query": "What was the total amount of humanitarian expenditure for the European Union in 2002?",
+    "response": [
+        "doc_23674.txt",
+        "doc_5135.txt",
+        "doc_17257.txt",
+        "doc_7866.txt",
+        "doc_23675.txt"
+    ]
+}

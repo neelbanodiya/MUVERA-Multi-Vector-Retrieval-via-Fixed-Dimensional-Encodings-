@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the British attack York (now Toronto)?",
+    "response": [
+        "doc_10049.txt",
+        "doc_10053.txt",
+        "doc_10057.txt",
+        "doc_10058.txt",
+        "doc_10052.txt"
+    ]
+}

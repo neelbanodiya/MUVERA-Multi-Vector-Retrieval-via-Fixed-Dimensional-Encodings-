@@ -1,0 +1,10 @@
+{
+    "query": "In the JEOPARDY! game, what refers to Frances Perkins, head of this?",
+    "response": [
+        "doc_469.txt",
+        "doc_20188.txt",
+        "doc_14616.txt",
+        "doc_6494.txt",
+        "doc_7110.txt"
+    ]
+}

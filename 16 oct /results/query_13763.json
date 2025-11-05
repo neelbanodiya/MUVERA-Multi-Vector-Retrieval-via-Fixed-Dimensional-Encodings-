@@ -1,0 +1,10 @@
+{
+    "query": "When did Janis Joplin join the band Big Brother and the Holding Company?",
+    "response": [
+        "doc_8021.txt",
+        "doc_8010.txt",
+        "doc_8017.txt",
+        "doc_8011.txt",
+        "doc_8026.txt"
+    ]
+}

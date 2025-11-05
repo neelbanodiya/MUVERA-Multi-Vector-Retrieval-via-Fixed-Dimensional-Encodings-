@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was a key focus of Sir Joshua Reynolds\u2019s portraits regarding his sitters?",
+    "response": [
+        "doc_20407.txt",
+        "doc_20409.txt",
+        "doc_20414.txt",
+        "doc_20410.txt",
+        "doc_20418.txt"
+    ]
+}

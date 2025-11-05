@@ -1,0 +1,10 @@
+{
+    "query": "In what story did Poe center a solution to a cipher, and what was the significance of this story to his interest in secret writing?",
+    "response": [
+        "doc_14006.txt",
+        "doc_14011.txt",
+        "doc_14004.txt",
+        "doc_14005.txt",
+        "doc_14009.txt"
+    ]
+}

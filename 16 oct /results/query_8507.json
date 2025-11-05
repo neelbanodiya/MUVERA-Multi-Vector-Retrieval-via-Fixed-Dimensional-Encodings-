@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the character Charles Foster Kane in *Citizen Kane*?",
+    "response": [
+        "doc_4911.txt",
+        "doc_2173.txt",
+        "doc_1019.txt",
+        "doc_19247.txt",
+        "doc_12248.txt"
+    ]
+}

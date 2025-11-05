@@ -1,0 +1,10 @@
+{
+    "query": "What types of performances are mentioned as being available in Anchorage, Alaska?",
+    "response": [
+        "doc_17097.txt",
+        "doc_724.txt",
+        "doc_6022.txt",
+        "doc_15319.txt",
+        "doc_13451.txt"
+    ]
+}

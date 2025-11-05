@@ -1,0 +1,10 @@
+{
+    "query": "What specific event prompted the Commission to summon the Iranian Ambassador to the EU?",
+    "response": [
+        "doc_22957.txt",
+        "doc_7525.txt",
+        "doc_14003.txt",
+        "doc_15578.txt",
+        "doc_18365.txt"
+    ]
+}

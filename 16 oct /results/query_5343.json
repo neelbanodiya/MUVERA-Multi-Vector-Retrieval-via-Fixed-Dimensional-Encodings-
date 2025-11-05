@@ -1,0 +1,10 @@
+{
+    "query": "What event occurred in London on November 29th, prompting people to take to the streets?",
+    "response": [
+        "doc_13527.txt",
+        "doc_97.txt",
+        "doc_18986.txt",
+        "doc_14460.txt",
+        "doc_6491.txt"
+    ]
+}

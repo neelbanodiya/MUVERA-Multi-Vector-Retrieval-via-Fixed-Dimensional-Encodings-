@@ -1,0 +1,10 @@
+{
+    "query": "Who stepped down as UKIP leader in 2016?",
+    "response": [
+        "doc_11478.txt",
+        "doc_7068.txt",
+        "doc_7067.txt",
+        "doc_11470.txt",
+        "doc_11480.txt"
+    ]
+}

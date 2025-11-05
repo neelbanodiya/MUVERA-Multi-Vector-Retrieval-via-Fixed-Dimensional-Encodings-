@@ -1,0 +1,10 @@
+{
+    "query": "How many people can the Holmenkollen ski jump hold?",
+    "response": [
+        "doc_17852.txt",
+        "doc_17863.txt",
+        "doc_17860.txt",
+        "doc_17853.txt",
+        "doc_17854.txt"
+    ]
+}

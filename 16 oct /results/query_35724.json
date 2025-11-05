@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 11, what is the Commission empowered to do regarding detailed rules for implementing specific provisions?",
+    "response": [
+        "doc_18040.txt",
+        "doc_20760.txt",
+        "doc_18041.txt",
+        "doc_6170.txt",
+        "doc_6171.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What phrase is repeatedly associated with Superman in the provided text?",
+    "response": [
+        "doc_9441.txt",
+        "doc_15890.txt",
+        "doc_19595.txt",
+        "doc_22914.txt",
+        "doc_12136.txt"
+    ]
+}

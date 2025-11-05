@@ -1,0 +1,10 @@
+{
+    "query": "Where is the TDE brand based?",
+    "response": [
+        "doc_20933.txt",
+        "doc_20931.txt",
+        "doc_23297.txt",
+        "doc_2257.txt",
+        "doc_15478.txt"
+    ]
+}

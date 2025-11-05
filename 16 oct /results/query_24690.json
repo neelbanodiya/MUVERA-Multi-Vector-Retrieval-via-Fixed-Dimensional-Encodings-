@@ -1,0 +1,10 @@
+{
+    "query": "What legal framework was adopted by the Commission in December 2011 to address pandemic threats?",
+    "response": [
+        "doc_17998.txt",
+        "doc_17474.txt",
+        "doc_14540.txt",
+        "doc_19823.txt",
+        "doc_23109.txt"
+    ]
+}

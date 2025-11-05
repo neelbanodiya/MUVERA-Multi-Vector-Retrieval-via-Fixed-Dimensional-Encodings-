@@ -1,0 +1,10 @@
+{
+    "query": "How many Academy Awards did \u201cThe Lord of the Rings: The Two Towers\u201d receive nominations for?",
+    "response": [
+        "doc_4436.txt",
+        "doc_4437.txt",
+        "doc_4435.txt",
+        "doc_15552.txt",
+        "doc_4909.txt"
+    ]
+}

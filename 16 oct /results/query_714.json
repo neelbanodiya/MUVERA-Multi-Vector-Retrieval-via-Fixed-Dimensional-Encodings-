@@ -1,0 +1,10 @@
+{
+    "query": "What action did the author personally frustrate involving a Turk in an embassy?",
+    "response": [
+        "doc_16880.txt",
+        "doc_5322.txt",
+        "doc_1320.txt",
+        "doc_3881.txt",
+        "doc_12030.txt"
+    ]
+}

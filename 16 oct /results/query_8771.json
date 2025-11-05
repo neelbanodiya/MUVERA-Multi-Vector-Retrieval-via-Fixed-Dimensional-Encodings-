@@ -1,0 +1,10 @@
+{
+    "query": "What nights of the week were *ER* originally broadcast?",
+    "response": [
+        "doc_18580.txt",
+        "doc_12761.txt",
+        "doc_17914.txt",
+        "doc_21371.txt",
+        "doc_22016.txt"
+    ]
+}

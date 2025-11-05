@@ -1,0 +1,10 @@
+{
+    "query": "What event led to Shawn Pelton playing with the band G.E.?",
+    "response": [
+        "doc_1784.txt",
+        "doc_17144.txt",
+        "doc_19017.txt",
+        "doc_19014.txt",
+        "doc_18845.txt"
+    ]
+}

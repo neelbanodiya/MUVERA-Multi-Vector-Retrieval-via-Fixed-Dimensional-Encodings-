@@ -1,0 +1,10 @@
+{
+    "query": "What happened as a result of Ryan's actions?",
+    "response": [
+        "doc_555.txt",
+        "doc_16466.txt",
+        "doc_7628.txt",
+        "doc_8005.txt",
+        "doc_22178.txt"
+    ]
+}

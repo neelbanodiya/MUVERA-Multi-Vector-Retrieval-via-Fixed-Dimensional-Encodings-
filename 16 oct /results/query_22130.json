@@ -1,0 +1,10 @@
+{
+    "query": "Charles Wheatstone invented the stereoscope & this accordion-like musical instrument?",
+    "response": [
+        "doc_12771.txt",
+        "doc_12770.txt",
+        "doc_12772.txt",
+        "doc_12774.txt",
+        "doc_12773.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What types of flowers are commonly found in Texas, according to the provided links?",
+    "response": [
+        "doc_13965.txt",
+        "doc_13977.txt",
+        "doc_13964.txt",
+        "doc_13970.txt",
+        "doc_13963.txt"
+    ]
+}

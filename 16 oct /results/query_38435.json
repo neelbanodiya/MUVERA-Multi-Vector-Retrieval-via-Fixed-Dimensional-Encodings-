@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Joan Jett release the album \u201cFetish,\u201d and how many new songs were included on it?",
+    "response": [
+        "doc_22548.txt",
+        "doc_22551.txt",
+        "doc_22552.txt",
+        "doc_128.txt",
+        "doc_22547.txt"
+    ]
+}

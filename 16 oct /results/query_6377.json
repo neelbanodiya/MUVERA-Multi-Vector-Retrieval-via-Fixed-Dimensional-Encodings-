@@ -1,0 +1,10 @@
+{
+    "query": "Which international publications has Sheila McKinnon worked for?",
+    "response": [
+        "doc_3935.txt",
+        "doc_3695.txt",
+        "doc_18582.txt",
+        "doc_349.txt",
+        "doc_998.txt"
+    ]
+}

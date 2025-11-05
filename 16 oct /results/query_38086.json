@@ -1,0 +1,10 @@
+{
+    "query": "What specific concerns were MEPs voicing regarding vaccine stocks related to the flu epidemic?",
+    "response": [
+        "doc_22328.txt",
+        "doc_8667.txt",
+        "doc_17471.txt",
+        "doc_2551.txt",
+        "doc_20099.txt"
+    ]
+}

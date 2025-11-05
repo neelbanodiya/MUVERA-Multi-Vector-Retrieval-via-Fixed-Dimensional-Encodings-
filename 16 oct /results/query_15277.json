@@ -1,0 +1,10 @@
+{
+    "query": "Which rally event began on January 19th, 2017, marking the start of the 2017 FIA World Rally Championship?",
+    "response": [
+        "doc_8854.txt",
+        "doc_5660.txt",
+        "doc_12599.txt",
+        "doc_12600.txt",
+        "doc_5658.txt"
+    ]
+}

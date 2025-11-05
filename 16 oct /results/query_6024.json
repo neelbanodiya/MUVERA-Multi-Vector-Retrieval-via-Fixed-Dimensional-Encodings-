@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the first \u2018Krewe\u2019 founded?",
+    "response": [
+        "doc_3508.txt",
+        "doc_19473.txt",
+        "doc_7412.txt",
+        "doc_18621.txt",
+        "doc_16350.txt"
+    ]
+}

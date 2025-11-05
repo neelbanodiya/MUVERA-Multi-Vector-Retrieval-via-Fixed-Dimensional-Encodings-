@@ -1,0 +1,10 @@
+{
+    "query": "Which fictional town is the setting for the book *Needful Things*?",
+    "response": [
+        "doc_3725.txt",
+        "doc_3715.txt",
+        "doc_3723.txt",
+        "doc_3711.txt",
+        "doc_3713.txt"
+    ]
+}

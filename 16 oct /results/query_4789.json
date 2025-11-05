@@ -1,0 +1,10 @@
+{
+    "query": "Which presidential candidate ran on the American Party ticket in 1856?",
+    "response": [
+        "doc_2763.txt",
+        "doc_16809.txt",
+        "doc_2761.txt",
+        "doc_2766.txt",
+        "doc_2765.txt"
+    ]
+}

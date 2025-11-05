@@ -1,0 +1,10 @@
+{
+    "query": "Who was the junior Senator from Wisconsin who conducted hearings during \u201cThe Red Scare\u201d?",
+    "response": [
+        "doc_2107.txt",
+        "doc_2106.txt",
+        "doc_2095.txt",
+        "doc_2097.txt",
+        "doc_2091.txt"
+    ]
+}

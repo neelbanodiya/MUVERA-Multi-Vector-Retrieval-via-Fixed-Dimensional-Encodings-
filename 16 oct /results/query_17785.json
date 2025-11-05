@@ -1,0 +1,10 @@
+{
+    "query": "Has the University of Urbino received any financing from the EU under this programme, and if so, has it been used appropriately?",
+    "response": [
+        "doc_10314.txt",
+        "doc_16217.txt",
+        "doc_3750.txt",
+        "doc_18153.txt",
+        "doc_477.txt"
+    ]
+}

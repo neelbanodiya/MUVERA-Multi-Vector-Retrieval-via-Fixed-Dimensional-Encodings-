@@ -1,0 +1,9 @@
+{
+    "query": "In what year was John Smith\u2019s *General History of Virginia* first published?",
+    "response": [
+        "doc_14858.txt",
+        "doc_14861.txt",
+        "doc_14862.txt",
+        "doc_14860.txt"
+    ]
+}

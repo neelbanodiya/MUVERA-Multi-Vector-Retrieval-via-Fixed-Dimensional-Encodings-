@@ -1,0 +1,10 @@
+{
+    "query": "Who directed \u201cIt\u2019s Murder!\u201d?",
+    "response": [
+        "doc_3202.txt",
+        "doc_3203.txt",
+        "doc_14685.txt",
+        "doc_2231.txt",
+        "doc_402.txt"
+    ]
+}

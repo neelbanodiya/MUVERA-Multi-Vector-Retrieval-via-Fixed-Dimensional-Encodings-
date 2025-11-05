@@ -1,0 +1,10 @@
+{
+    "query": "According to Alex Salmond, what kind of Scotland does he envision?",
+    "response": [
+        "doc_8436.txt",
+        "doc_386.txt",
+        "doc_8442.txt",
+        "doc_8432.txt",
+        "doc_8430.txt"
+    ]
+}

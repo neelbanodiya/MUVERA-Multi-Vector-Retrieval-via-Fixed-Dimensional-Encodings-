@@ -1,0 +1,10 @@
+{
+    "query": "What type of seating is available on LT2, LT3 models of the Chevrolet Suburban?",
+    "response": [
+        "doc_17165.txt",
+        "doc_17161.txt",
+        "doc_17155.txt",
+        "doc_17149.txt",
+        "doc_17151.txt"
+    ]
+}

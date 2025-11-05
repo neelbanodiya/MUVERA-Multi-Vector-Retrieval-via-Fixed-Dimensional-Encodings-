@@ -1,0 +1,10 @@
+{
+    "query": "Which band released the album \u201cReturn to Paradise,\u201d and when was it released?",
+    "response": [
+        "doc_16312.txt",
+        "doc_16311.txt",
+        "doc_8006.txt",
+        "doc_8467.txt",
+        "doc_8468.txt"
+    ]
+}

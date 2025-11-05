@@ -1,0 +1,10 @@
+{
+    "query": "When was the Parc National du Banc d\u2019Arguin designated as a wetland of international importance?",
+    "response": [
+        "doc_10303.txt",
+        "doc_16263.txt",
+        "doc_4601.txt",
+        "doc_15477.txt",
+        "doc_4062.txt"
+    ]
+}

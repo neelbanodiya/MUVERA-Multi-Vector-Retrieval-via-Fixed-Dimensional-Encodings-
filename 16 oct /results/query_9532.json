@@ -1,0 +1,10 @@
+{
+    "query": "What facilities are now located on the former hospital grounds in Waltham, Massachusetts?",
+    "response": [
+        "doc_5495.txt",
+        "doc_12230.txt",
+        "doc_5496.txt",
+        "doc_12227.txt",
+        "doc_12228.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where does the story of *Treasure Island* begin, and what is Jim Hawkins\u2019 initial role in this location?",
+    "response": [
+        "doc_20018.txt",
+        "doc_20015.txt",
+        "doc_20006.txt",
+        "doc_20011.txt",
+        "doc_20013.txt"
+    ]
+}

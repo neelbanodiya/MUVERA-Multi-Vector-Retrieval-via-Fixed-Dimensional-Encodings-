@@ -1,0 +1,10 @@
+{
+    "query": "Which individual authored the Declaration of Independence, as mentioned in Jefferson\u2019s autobiography?",
+    "response": [
+        "doc_19850.txt",
+        "doc_23875.txt",
+        "doc_19851.txt",
+        "doc_19846.txt",
+        "doc_23874.txt"
+    ]
+}

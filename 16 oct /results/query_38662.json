@@ -1,0 +1,10 @@
+{
+    "query": "What gate was built by the Romans and named for?",
+    "response": [
+        "doc_5305.txt",
+        "doc_19671.txt",
+        "doc_22658.txt",
+        "doc_5306.txt",
+        "doc_3992.txt"
+    ]
+}

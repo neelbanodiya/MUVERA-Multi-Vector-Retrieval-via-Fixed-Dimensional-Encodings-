@@ -1,0 +1,10 @@
+{
+    "query": "What did Frosty say before he melted away?",
+    "response": [
+        "doc_23702.txt",
+        "doc_11933.txt",
+        "doc_13685.txt",
+        "doc_15772.txt",
+        "doc_23705.txt"
+    ]
+}

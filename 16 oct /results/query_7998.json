@@ -1,0 +1,10 @@
+{
+    "query": "What television show did Bea Arthur have a guest appearance on in 1971, playing the character Maude Findlay?",
+    "response": [
+        "doc_4643.txt",
+        "doc_4642.txt",
+        "doc_4649.txt",
+        "doc_4652.txt",
+        "doc_4650.txt"
+    ]
+}

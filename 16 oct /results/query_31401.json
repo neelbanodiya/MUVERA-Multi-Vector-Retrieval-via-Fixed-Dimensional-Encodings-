@@ -1,0 +1,10 @@
+{
+    "query": "What international event did the European Parliament\u2019s resolution specifically address regarding Internet Governance?",
+    "response": [
+        "doc_15472.txt",
+        "doc_22975.txt",
+        "doc_5373.txt",
+        "doc_18359.txt",
+        "doc_14283.txt"
+    ]
+}

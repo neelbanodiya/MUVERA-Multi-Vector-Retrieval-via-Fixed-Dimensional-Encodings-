@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary focus of the communication \u201cFood Prices in Europe\u201d published in December 2008?",
+    "response": [
+        "doc_2552.txt",
+        "doc_2551.txt",
+        "doc_4114.txt",
+        "doc_17675.txt",
+        "doc_14283.txt"
+    ]
+}

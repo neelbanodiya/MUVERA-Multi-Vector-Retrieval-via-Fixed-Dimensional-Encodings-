@@ -1,0 +1,8 @@
+{
+    "query": "What famous Norwegian playwright wrote the dramatic poem *Peer Gynt*?",
+    "response": [
+        "doc_12169.txt",
+        "doc_12171.txt",
+        "doc_12172.txt"
+    ]
+}

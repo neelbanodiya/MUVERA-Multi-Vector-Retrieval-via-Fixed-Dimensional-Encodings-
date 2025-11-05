@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate value of Piedmont\u2019s milk production, and what percentage of the region\u2019s total primary production does it represent?",
+    "response": [
+        "doc_13791.txt",
+        "doc_13790.txt",
+        "doc_5273.txt",
+        "doc_7952.txt",
+        "doc_2837.txt"
+    ]
+}

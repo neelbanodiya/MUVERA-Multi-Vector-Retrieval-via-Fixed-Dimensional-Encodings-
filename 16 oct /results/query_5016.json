@@ -1,0 +1,10 @@
+{
+    "query": "Which companies developed and published the original \u201cFire Emblem\u201d game?",
+    "response": [
+        "doc_2926.txt",
+        "doc_2925.txt",
+        "doc_10865.txt",
+        "doc_12713.txt",
+        "doc_10700.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When did Tiger Woods win his third consecutive U.S. Amateur title?",
+    "response": [
+        "doc_19628.txt",
+        "doc_19623.txt",
+        "doc_19625.txt",
+        "doc_19640.txt",
+        "doc_19636.txt"
+    ]
+}

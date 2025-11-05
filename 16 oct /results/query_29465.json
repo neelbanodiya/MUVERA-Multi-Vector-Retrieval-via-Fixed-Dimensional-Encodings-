@@ -1,0 +1,10 @@
+{
+    "query": "When was the novel *Inferno* published?",
+    "response": [
+        "doc_17142.txt",
+        "doc_17141.txt",
+        "doc_14279.txt",
+        "doc_7862.txt",
+        "doc_4654.txt"
+    ]
+}

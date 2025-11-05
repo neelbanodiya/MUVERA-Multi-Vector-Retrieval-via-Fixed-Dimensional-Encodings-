@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was the name of the territory shown on the antique map depicting Louisiana and the Mississippi Valley?",
+    "response": [
+        "doc_4336.txt",
+        "doc_4335.txt",
+        "doc_4338.txt",
+        "doc_4341.txt",
+        "doc_8785.txt"
+    ]
+}

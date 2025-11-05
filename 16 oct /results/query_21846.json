@@ -1,0 +1,10 @@
+{
+    "query": "What was Laura looking at when she noticed the mess of her shoes?",
+    "response": [
+        "doc_12596.txt",
+        "doc_12597.txt",
+        "doc_16050.txt",
+        "doc_4197.txt",
+        "doc_21607.txt"
+    ]
+}

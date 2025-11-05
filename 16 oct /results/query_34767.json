@@ -1,0 +1,10 @@
+{
+    "query": "Which city\u2019s canals did Leonardo da Vinci design locks to join?",
+    "response": [
+        "doc_23363.txt",
+        "doc_20237.txt",
+        "doc_20242.txt",
+        "doc_20235.txt",
+        "doc_20239.txt"
+    ]
+}

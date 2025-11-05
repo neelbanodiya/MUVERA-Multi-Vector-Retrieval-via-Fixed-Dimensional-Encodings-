@@ -1,0 +1,10 @@
+{
+    "query": "What nationality was the character Mr. Kurtz?",
+    "response": [
+        "doc_2139.txt",
+        "doc_4476.txt",
+        "doc_89.txt",
+        "doc_19068.txt",
+        "doc_17112.txt"
+    ]
+}

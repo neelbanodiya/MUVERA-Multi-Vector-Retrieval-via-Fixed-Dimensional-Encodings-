@@ -1,0 +1,10 @@
+{
+    "query": "How many discs are included in the \u201cNirvana 4 Disc Collection\u201d available on eBay?",
+    "response": [
+        "doc_19008.txt",
+        "doc_19007.txt",
+        "doc_21618.txt",
+        "doc_9793.txt",
+        "doc_12024.txt"
+    ]
+}

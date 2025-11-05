@@ -1,0 +1,10 @@
+{
+    "query": "How many times did George Steinbrenner change managers during his time as owner of the Yankees?",
+    "response": [
+        "doc_12432.txt",
+        "doc_12436.txt",
+        "doc_12435.txt",
+        "doc_12434.txt",
+        "doc_12433.txt"
+    ]
+}

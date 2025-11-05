@@ -1,0 +1,10 @@
+{
+    "query": "Who appeared on shows with Jason Bonham filling in for his father?",
+    "response": [
+        "doc_2389.txt",
+        "doc_2402.txt",
+        "doc_2394.txt",
+        "doc_2395.txt",
+        "doc_2401.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What TV series starred Helen Hayes and Mildred, and in what year was it broadcast?",
+    "response": [
+        "doc_7073.txt",
+        "doc_309.txt",
+        "doc_17175.txt",
+        "doc_724.txt",
+        "doc_7072.txt"
+    ]
+}

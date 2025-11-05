@@ -1,0 +1,10 @@
+{
+    "query": "What saying did Winston Churchill support, referencing a Roman saying?",
+    "response": [
+        "doc_16733.txt",
+        "doc_12833.txt",
+        "doc_15759.txt",
+        "doc_14493.txt",
+        "doc_16742.txt"
+    ]
+}

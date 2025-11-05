@@ -1,0 +1,10 @@
+{
+    "query": "What type of vehicle was the Chevrolet Suburban initially built on \u2013 a truck or a car?",
+    "response": [
+        "doc_17155.txt",
+        "doc_17163.txt",
+        "doc_17162.txt",
+        "doc_17164.txt",
+        "doc_17152.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "From which country does a large proportion of consumer products, including toys and hair-dryers, imported into the European Union?",
+    "response": [
+        "doc_11221.txt",
+        "doc_21427.txt",
+        "doc_17210.txt",
+        "doc_3234.txt",
+        "doc_12156.txt"
+    ]
+}

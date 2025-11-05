@@ -1,0 +1,10 @@
+{
+    "query": "In 1900, what position did a legislator hold in Iowa before being elected to the U.S. Congress?",
+    "response": [
+        "doc_5970.txt",
+        "doc_15078.txt",
+        "doc_5974.txt",
+        "doc_1934.txt",
+        "doc_1924.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the score of a football game in 1997 involving Louisiana State and Notre Dame?",
+    "response": [
+        "doc_20069.txt",
+        "doc_11265.txt",
+        "doc_19122.txt",
+        "doc_11266.txt",
+        "doc_20063.txt"
+    ]
+}

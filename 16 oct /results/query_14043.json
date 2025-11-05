@@ -1,0 +1,10 @@
+{
+    "query": "What criteria will be used for appointing Board members, according to the text?",
+    "response": [
+        "doc_19659.txt",
+        "doc_14944.txt",
+        "doc_4599.txt",
+        "doc_17373.txt",
+        "doc_13280.txt"
+    ]
+}

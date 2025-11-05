@@ -1,0 +1,10 @@
+{
+    "query": "What was the first orthopedic hospital established in New York?",
+    "response": [
+        "doc_12227.txt",
+        "doc_12230.txt",
+        "doc_5496.txt",
+        "doc_12228.txt",
+        "doc_2711.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the topic of the debate regarding EU trade policy instruments?",
+    "response": [
+        "doc_11971.txt",
+        "doc_11963.txt",
+        "doc_17373.txt",
+        "doc_19293.txt",
+        "doc_17340.txt"
+    ]
+}

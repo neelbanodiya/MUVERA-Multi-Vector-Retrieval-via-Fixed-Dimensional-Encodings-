@@ -1,0 +1,10 @@
+{
+    "query": "Who directed \u201cIllya Darling,\u201d the musical based on \u201cNever on Sunday\u201d?",
+    "response": [
+        "doc_5868.txt",
+        "doc_5867.txt",
+        "doc_10455.txt",
+        "doc_2231.txt",
+        "doc_23867.txt"
+    ]
+}

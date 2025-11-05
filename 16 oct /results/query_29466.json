@@ -1,0 +1,10 @@
+{
+    "query": "Which actor reprised their role as Robert Langdon in the 2016 film adaptation of *Inferno*?",
+    "response": [
+        "doc_18482.txt",
+        "doc_17142.txt",
+        "doc_1967.txt",
+        "doc_15401.txt",
+        "doc_16925.txt"
+    ]
+}

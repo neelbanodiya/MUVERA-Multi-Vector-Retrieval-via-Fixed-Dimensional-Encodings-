@@ -1,0 +1,10 @@
+{
+    "query": "What year was Tamara Karsavina in \u201cThe Firebird\u201d?",
+    "response": [
+        "doc_18764.txt",
+        "doc_18765.txt",
+        "doc_18766.txt",
+        "doc_15658.txt",
+        "doc_22854.txt"
+    ]
+}

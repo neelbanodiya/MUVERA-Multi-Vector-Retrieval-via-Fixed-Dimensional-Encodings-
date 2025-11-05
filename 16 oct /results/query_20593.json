@@ -1,0 +1,10 @@
+{
+    "query": "With whom did Isaac Newton famously feud professionally?",
+    "response": [
+        "doc_1443.txt",
+        "doc_11876.txt",
+        "doc_21059.txt",
+        "doc_21060.txt",
+        "doc_22071.txt"
+    ]
+}

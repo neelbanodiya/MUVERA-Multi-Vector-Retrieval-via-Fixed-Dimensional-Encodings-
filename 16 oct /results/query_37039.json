@@ -1,0 +1,10 @@
+{
+    "query": "What is the purpose of the `getfenv` function in Lua?",
+    "response": [
+        "doc_20502.txt",
+        "doc_20510.txt",
+        "doc_20504.txt",
+        "doc_19824.txt",
+        "doc_19520.txt"
+    ]
+}

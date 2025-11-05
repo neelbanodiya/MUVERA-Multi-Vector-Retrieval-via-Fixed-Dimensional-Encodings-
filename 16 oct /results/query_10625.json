@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 3(3) of the Treaty on European Union, what is a key goal of the European Union\u2019s work?",
+    "response": [
+        "doc_15029.txt",
+        "doc_6165.txt",
+        "doc_9743.txt",
+        "doc_7294.txt",
+        "doc_13231.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What historical events are mentioned as being central to the narrative of *The Birth of a Nation*?",
+    "response": [
+        "doc_15480.txt",
+        "doc_1204.txt",
+        "doc_1298.txt",
+        "doc_5424.txt",
+        "doc_1193.txt"
+    ]
+}

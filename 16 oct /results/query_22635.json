@@ -1,0 +1,10 @@
+{
+    "query": "Who designed the Palm Springs Aerial Tramway?",
+    "response": [
+        "doc_13015.txt",
+        "doc_13022.txt",
+        "doc_13013.txt",
+        "doc_13019.txt",
+        "doc_13026.txt"
+    ]
+}

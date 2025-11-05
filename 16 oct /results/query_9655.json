@@ -1,0 +1,10 @@
+{
+    "query": "How many percent did the Celtics shoot?",
+    "response": [
+        "doc_5069.txt",
+        "doc_23989.txt",
+        "doc_1059.txt",
+        "doc_5074.txt",
+        "doc_1870.txt"
+    ]
+}

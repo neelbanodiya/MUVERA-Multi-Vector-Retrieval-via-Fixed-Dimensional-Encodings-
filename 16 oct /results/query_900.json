@@ -1,0 +1,10 @@
+{
+    "query": "What war was affected by the eclipse of the Moon?",
+    "response": [
+        "doc_508.txt",
+        "doc_507.txt",
+        "doc_505.txt",
+        "doc_509.txt",
+        "doc_512.txt"
+    ]
+}

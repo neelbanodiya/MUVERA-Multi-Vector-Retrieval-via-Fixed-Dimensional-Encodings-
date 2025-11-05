@@ -1,0 +1,10 @@
+{
+    "query": "What is the origin of the name \"Mercury\" in both Roman mythology and its association with the planet?",
+    "response": [
+        "doc_21297.txt",
+        "doc_21285.txt",
+        "doc_21300.txt",
+        "doc_21293.txt",
+        "doc_21298.txt"
+    ]
+}

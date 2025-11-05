@@ -1,0 +1,10 @@
+{
+    "query": "What was Suzanne assigning a class of high school students to do?",
+    "response": [
+        "doc_21250.txt",
+        "doc_12949.txt",
+        "doc_8091.txt",
+        "doc_8095.txt",
+        "doc_15706.txt"
+    ]
+}

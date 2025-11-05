@@ -1,0 +1,10 @@
+{
+    "query": "When did Pope Francis visit the White House?",
+    "response": [
+        "doc_16233.txt",
+        "doc_16232.txt",
+        "doc_16234.txt",
+        "doc_16239.txt",
+        "doc_16235.txt"
+    ]
+}

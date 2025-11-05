@@ -1,0 +1,10 @@
+{
+    "query": "Why does the Commission consider providing information about nutrient content of foods to be of utmost importance?",
+    "response": [
+        "doc_12681.txt",
+        "doc_12680.txt",
+        "doc_14181.txt",
+        "doc_8239.txt",
+        "doc_5816.txt"
+    ]
+}

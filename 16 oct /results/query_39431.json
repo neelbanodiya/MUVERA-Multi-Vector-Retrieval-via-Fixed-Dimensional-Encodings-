@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred in 1944-45 involving an Allied crossing?",
+    "response": [
+        "doc_1627.txt",
+        "doc_10774.txt",
+        "doc_15917.txt",
+        "doc_15913.txt",
+        "doc_15921.txt"
+    ]
+}

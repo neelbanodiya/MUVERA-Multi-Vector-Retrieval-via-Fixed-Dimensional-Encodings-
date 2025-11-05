@@ -1,0 +1,10 @@
+{
+    "query": "What did Rosa Parks decide to do after her arrest?",
+    "response": [
+        "doc_32.txt",
+        "doc_9997.txt",
+        "doc_16845.txt",
+        "doc_3063.txt",
+        "doc_14526.txt"
+    ]
+}

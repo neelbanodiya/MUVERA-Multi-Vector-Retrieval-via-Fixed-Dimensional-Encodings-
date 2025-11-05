@@ -1,0 +1,10 @@
+{
+    "query": "What was the profession of Senator John Heinz III?",
+    "response": [
+        "doc_21249.txt",
+        "doc_2032.txt",
+        "doc_12840.txt",
+        "doc_12843.txt",
+        "doc_9771.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the previous stadium where the Tulane Green Wave played their home games before moving to the Superdome?",
+    "response": [
+        "doc_11271.txt",
+        "doc_11270.txt",
+        "doc_11267.txt",
+        "doc_11265.txt",
+        "doc_11259.txt"
+    ]
+}

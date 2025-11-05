@@ -1,0 +1,10 @@
+{
+    "query": "In what region of Central America did the Maya population reach its highest point?",
+    "response": [
+        "doc_8789.txt",
+        "doc_20371.txt",
+        "doc_4335.txt",
+        "doc_18154.txt",
+        "doc_8784.txt"
+    ]
+}

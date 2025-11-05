@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was the initial concept of *Pretty Woman* before revisions?",
+    "response": [
+        "doc_8696.txt",
+        "doc_17879.txt",
+        "doc_9863.txt",
+        "doc_630.txt",
+        "doc_10296.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year does the story of *Oklahoma!* take place, and in what territory is it set?",
+    "response": [
+        "doc_582.txt",
+        "doc_8925.txt",
+        "doc_23855.txt",
+        "doc_23888.txt",
+        "doc_15955.txt"
+    ]
+}

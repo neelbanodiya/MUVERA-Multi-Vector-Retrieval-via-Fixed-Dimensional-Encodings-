@@ -1,0 +1,10 @@
+{
+    "query": "How many thousands of charities did Andrew Carnegie donate to?",
+    "response": [
+        "doc_12010.txt",
+        "doc_4243.txt",
+        "doc_5227.txt",
+        "doc_4245.txt",
+        "doc_2045.txt"
+    ]
+}

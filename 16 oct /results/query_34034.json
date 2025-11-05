@@ -1,0 +1,10 @@
+{
+    "query": "Who was encouraged by his friend Harold to pursue a career as a composer?",
+    "response": [
+        "doc_3837.txt",
+        "doc_19137.txt",
+        "doc_22803.txt",
+        "doc_22802.txt",
+        "doc_21967.txt"
+    ]
+}

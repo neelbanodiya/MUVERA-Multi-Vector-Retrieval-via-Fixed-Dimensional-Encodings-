@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Johann Sebastian Bach walk 200 miles?",
+    "response": [
+        "doc_22033.txt",
+        "doc_22032.txt",
+        "doc_11536.txt",
+        "doc_1342.txt",
+        "doc_5518.txt"
+    ]
+}

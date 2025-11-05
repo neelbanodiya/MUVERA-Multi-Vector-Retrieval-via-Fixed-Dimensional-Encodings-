@@ -1,0 +1,10 @@
+{
+    "query": "According to G\u00e9rard Deprez, when is RABIT expected to be operational?",
+    "response": [
+        "doc_3480.txt",
+        "doc_9146.txt",
+        "doc_9473.txt",
+        "doc_1145.txt",
+        "doc_61.txt"
+    ]
+}

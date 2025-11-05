@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate age of the Papyrus Graecus Holmiensis?",
+    "response": [
+        "doc_16168.txt",
+        "doc_20008.txt",
+        "doc_19032.txt",
+        "doc_2950.txt",
+        "doc_7347.txt"
+    ]
+}

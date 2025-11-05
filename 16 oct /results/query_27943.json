@@ -1,0 +1,10 @@
+{
+    "query": "What was Pope Francis\u2019s first U.S. visit focused on?",
+    "response": [
+        "doc_16233.txt",
+        "doc_16244.txt",
+        "doc_16238.txt",
+        "doc_16247.txt",
+        "doc_16236.txt"
+    ]
+}

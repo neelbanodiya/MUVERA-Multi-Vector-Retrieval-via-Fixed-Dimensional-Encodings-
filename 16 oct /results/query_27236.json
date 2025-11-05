@@ -1,0 +1,10 @@
+{
+    "query": "When was the Third World Jamboree in Arrow Park, Birkenhead, England, held?",
+    "response": [
+        "doc_12600.txt",
+        "doc_15971.txt",
+        "doc_12599.txt",
+        "doc_5657.txt",
+        "doc_19244.txt"
+    ]
+}

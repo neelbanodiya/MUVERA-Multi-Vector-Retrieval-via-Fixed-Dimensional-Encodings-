@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cIntruder\u201d released?",
+    "response": [
+        "doc_23795.txt",
+        "doc_9515.txt",
+        "doc_12258.txt",
+        "doc_1231.txt",
+        "doc_2060.txt"
+    ]
+}

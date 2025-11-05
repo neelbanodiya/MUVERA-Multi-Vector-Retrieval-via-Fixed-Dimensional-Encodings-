@@ -1,0 +1,10 @@
+{
+    "query": "Who was John Cadwalader (1742-1786) and what role did he play in Philadelphia?",
+    "response": [
+        "doc_1014.txt",
+        "doc_7629.txt",
+        "doc_10884.txt",
+        "doc_16924.txt",
+        "doc_6113.txt"
+    ]
+}

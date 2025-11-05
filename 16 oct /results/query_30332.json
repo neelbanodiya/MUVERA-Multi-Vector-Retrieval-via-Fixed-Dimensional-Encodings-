@@ -1,0 +1,10 @@
+{
+    "query": "Who directed the 2010 film *Monsters*, and what was his role in the production?",
+    "response": [
+        "doc_13632.txt",
+        "doc_17637.txt",
+        "doc_14626.txt",
+        "doc_15484.txt",
+        "doc_5323.txt"
+    ]
+}

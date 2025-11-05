@@ -1,0 +1,10 @@
+{
+    "query": "Which film won an Oscar for Best Picture and Best Actor, featuring Broderick Crawford as Willie?",
+    "response": [
+        "doc_16172.txt",
+        "doc_16176.txt",
+        "doc_16171.txt",
+        "doc_16182.txt",
+        "doc_16183.txt"
+    ]
+}

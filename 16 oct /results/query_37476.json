@@ -1,0 +1,10 @@
+{
+    "query": "In what century did Georges Bizet live and work?",
+    "response": [
+        "doc_16316.txt",
+        "doc_21518.txt",
+        "doc_5852.txt",
+        "doc_13510.txt",
+        "doc_10759.txt"
+    ]
+}

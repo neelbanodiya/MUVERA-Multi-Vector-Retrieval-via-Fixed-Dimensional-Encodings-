@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what historical event occurred in Boston Common?",
+    "response": [
+        "doc_4506.txt",
+        "doc_22815.txt",
+        "doc_12368.txt",
+        "doc_6607.txt",
+        "doc_15193.txt"
+    ]
+}

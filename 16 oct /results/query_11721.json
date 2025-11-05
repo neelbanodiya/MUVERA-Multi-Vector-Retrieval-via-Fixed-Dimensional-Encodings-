@@ -1,0 +1,10 @@
+{
+    "query": "When was the album \u201cHomecoming\u201d by the Gateway trio released, and what label distributed it?",
+    "response": [
+        "doc_8467.txt",
+        "doc_9871.txt",
+        "doc_10070.txt",
+        "doc_8468.txt",
+        "doc_22673.txt"
+    ]
+}

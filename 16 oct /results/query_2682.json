@@ -1,0 +1,10 @@
+{
+    "query": "Which hotels are located within a mile of the Omni Parker House Hotel?",
+    "response": [
+        "doc_1609.txt",
+        "doc_1614.txt",
+        "doc_1611.txt",
+        "doc_1606.txt",
+        "doc_1608.txt"
+    ]
+}

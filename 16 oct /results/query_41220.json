@@ -1,0 +1,10 @@
+{
+    "query": "What award did Hilary Mantel win for \u201cEight Months on Ghazzah Street\u201d?",
+    "response": [
+        "doc_24145.txt",
+        "doc_24144.txt",
+        "doc_24146.txt",
+        "doc_14603.txt",
+        "doc_2264.txt"
+    ]
+}

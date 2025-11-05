@@ -1,0 +1,10 @@
+{
+    "query": "What is the population of Oxnard, California, according to the 2012 Financial Report?",
+    "response": [
+        "doc_21463.txt",
+        "doc_15882.txt",
+        "doc_23215.txt",
+        "doc_15880.txt",
+        "doc_15881.txt"
+    ]
+}

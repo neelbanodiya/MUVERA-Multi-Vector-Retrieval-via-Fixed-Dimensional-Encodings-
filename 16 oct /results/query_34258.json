@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the book \u201cRacism in a\u2026\u201d authored by Diana Putman?",
+    "response": [
+        "doc_1310.txt",
+        "doc_10386.txt",
+        "doc_23152.txt",
+        "doc_23252.txt",
+        "doc_17876.txt"
+    ]
+}

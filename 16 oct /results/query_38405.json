@@ -1,0 +1,10 @@
+{
+    "query": "How many books has Harold Bloom written since 1959?",
+    "response": [
+        "doc_22535.txt",
+        "doc_22536.txt",
+        "doc_16131.txt",
+        "doc_15828.txt",
+        "doc_4164.txt"
+    ]
+}

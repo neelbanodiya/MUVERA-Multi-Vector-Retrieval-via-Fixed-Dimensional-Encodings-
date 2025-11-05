@@ -1,0 +1,10 @@
+{
+    "query": "What percentage increase did the agricultural area, number of farms, and number of agricultural workers experience following the 2004 enlargement of the EU?",
+    "response": [
+        "doc_4704.txt",
+        "doc_4701.txt",
+        "doc_4703.txt",
+        "doc_4705.txt",
+        "doc_4702.txt"
+    ]
+}

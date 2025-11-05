@@ -1,0 +1,10 @@
+{
+    "query": "Which family was Catherine de\u2019 Medici\u2019s daughter-in-law married to as Queen of France?",
+    "response": [
+        "doc_23749.txt",
+        "doc_23753.txt",
+        "doc_23755.txt",
+        "doc_23746.txt",
+        "doc_23759.txt"
+    ]
+}

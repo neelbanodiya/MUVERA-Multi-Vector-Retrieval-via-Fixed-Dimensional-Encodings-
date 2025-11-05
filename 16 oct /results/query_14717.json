@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the catalogue detailing Coptic manuscripts held in the British Museum?",
+    "response": [
+        "doc_8505.txt",
+        "doc_8508.txt",
+        "doc_8506.txt",
+        "doc_8509.txt",
+        "doc_8507.txt"
+    ]
+}

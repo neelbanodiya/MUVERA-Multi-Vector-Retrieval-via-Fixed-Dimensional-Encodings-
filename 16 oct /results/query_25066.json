@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Ludwig van Beethoven meet King Frederick William of Prussia?",
+    "response": [
+        "doc_14561.txt",
+        "doc_14557.txt",
+        "doc_14564.txt",
+        "doc_14558.txt",
+        "doc_14560.txt"
+    ]
+}

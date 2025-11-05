@@ -1,0 +1,10 @@
+{
+    "query": "According to one source, what was Donald Trump\u2019s hair doing at night?",
+    "response": [
+        "doc_3900.txt",
+        "doc_11077.txt",
+        "doc_14531.txt",
+        "doc_21041.txt",
+        "doc_15723.txt"
+    ]
+}

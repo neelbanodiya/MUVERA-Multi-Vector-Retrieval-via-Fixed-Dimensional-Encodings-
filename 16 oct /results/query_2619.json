@@ -1,0 +1,10 @@
+{
+    "query": "What film features Captain Willard, played by Martin Sheen, on a secret upriver mission?",
+    "response": [
+        "doc_4872.txt",
+        "doc_1570.txt",
+        "doc_19565.txt",
+        "doc_580.txt",
+        "doc_19282.txt"
+    ]
+}

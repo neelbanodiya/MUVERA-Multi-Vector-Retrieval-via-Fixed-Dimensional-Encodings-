@@ -1,0 +1,10 @@
+{
+    "query": "Which kingdom emerged from the Frankish tribes, and what was its approximate timeframe of rule?",
+    "response": [
+        "doc_7208.txt",
+        "doc_7217.txt",
+        "doc_23358.txt",
+        "doc_7216.txt",
+        "doc_7207.txt"
+    ]
+}

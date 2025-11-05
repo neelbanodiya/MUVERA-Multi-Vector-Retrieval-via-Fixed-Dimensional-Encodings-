@@ -1,0 +1,10 @@
+{
+    "query": "According to the CNN transcript, what action by a president could threaten the government?",
+    "response": [
+        "doc_5369.txt",
+        "doc_3125.txt",
+        "doc_17961.txt",
+        "doc_17388.txt",
+        "doc_5822.txt"
+    ]
+}

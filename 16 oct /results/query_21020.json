@@ -1,0 +1,10 @@
+{
+    "query": "What was the reward offered for the \u201cbody dead or alive\u201d mentioned in the \u201cPunch\u201d article?",
+    "response": [
+        "doc_3050.txt",
+        "doc_8400.txt",
+        "doc_23877.txt",
+        "doc_22395.txt",
+        "doc_15411.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is Taoism described as being in the passage?",
+    "response": [
+        "doc_18296.txt",
+        "doc_18295.txt",
+        "doc_14732.txt",
+        "doc_1984.txt",
+        "doc_12134.txt"
+    ]
+}

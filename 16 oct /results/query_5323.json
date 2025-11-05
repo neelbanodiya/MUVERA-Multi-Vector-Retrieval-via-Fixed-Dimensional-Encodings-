@@ -1,0 +1,10 @@
+{
+    "query": "What specific action did Parliament call on the Council to take regarding data exchange to combat smuggling?",
+    "response": [
+        "doc_3092.txt",
+        "doc_5235.txt",
+        "doc_10908.txt",
+        "doc_11216.txt",
+        "doc_9144.txt"
+    ]
+}

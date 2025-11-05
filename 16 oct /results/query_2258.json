@@ -1,0 +1,10 @@
+{
+    "query": "When did Nixon order the CIA to stop the FBI?",
+    "response": [
+        "doc_1330.txt",
+        "doc_1331.txt",
+        "doc_21681.txt",
+        "doc_21682.txt",
+        "doc_5350.txt"
+    ]
+}

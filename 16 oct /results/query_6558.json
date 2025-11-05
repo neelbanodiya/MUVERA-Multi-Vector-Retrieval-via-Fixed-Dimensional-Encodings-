@@ -1,0 +1,10 @@
+{
+    "query": "When was John Smith carried to Polk?",
+    "response": [
+        "doc_3769.txt",
+        "doc_3768.txt",
+        "doc_7931.txt",
+        "doc_3756.txt",
+        "doc_6109.txt"
+    ]
+}

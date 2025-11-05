@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Anita open Thunder Valley Inn Bed and Breakfast?",
+    "response": [
+        "doc_667.txt",
+        "doc_568.txt",
+        "doc_7401.txt",
+        "doc_18369.txt",
+        "doc_17809.txt"
+    ]
+}

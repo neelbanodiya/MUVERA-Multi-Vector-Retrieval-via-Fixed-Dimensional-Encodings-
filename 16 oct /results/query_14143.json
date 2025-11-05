@@ -1,0 +1,10 @@
+{
+    "query": "How much did Stead pay for the thirteen-year-old girl?",
+    "response": [
+        "doc_10829.txt",
+        "doc_23746.txt",
+        "doc_20593.txt",
+        "doc_10239.txt",
+        "doc_19949.txt"
+    ]
+}

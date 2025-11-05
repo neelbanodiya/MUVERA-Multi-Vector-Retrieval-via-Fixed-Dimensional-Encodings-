@@ -1,0 +1,10 @@
+{
+    "query": "What anniversary did DARPA celebrate in September 2013?",
+    "response": [
+        "doc_8508.txt",
+        "doc_107.txt",
+        "doc_96.txt",
+        "doc_397.txt",
+        "doc_2601.txt"
+    ]
+}

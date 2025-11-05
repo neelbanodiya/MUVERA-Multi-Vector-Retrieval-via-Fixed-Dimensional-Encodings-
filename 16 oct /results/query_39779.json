@@ -1,0 +1,10 @@
+{
+    "query": "Who presented John Wayne with his Best Actor Oscar in 1969?",
+    "response": [
+        "doc_23278.txt",
+        "doc_23277.txt",
+        "doc_23281.txt",
+        "doc_23279.txt",
+        "doc_23283.txt"
+    ]
+}

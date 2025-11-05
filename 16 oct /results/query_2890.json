@@ -1,0 +1,10 @@
+{
+    "query": "Where was Kit Carson born?",
+    "response": [
+        "doc_7524.txt",
+        "doc_1750.txt",
+        "doc_8993.txt",
+        "doc_5575.txt",
+        "doc_2568.txt"
+    ]
+}

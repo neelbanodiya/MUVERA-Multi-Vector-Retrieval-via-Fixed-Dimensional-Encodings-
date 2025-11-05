@@ -1,0 +1,10 @@
+{
+    "query": "Which sectors are included in the Emission Trading System directive aimed at reducing emissions?",
+    "response": [
+        "doc_5613.txt",
+        "doc_6686.txt",
+        "doc_23222.txt",
+        "doc_3659.txt",
+        "doc_4316.txt"
+    ]
+}

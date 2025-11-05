@@ -1,0 +1,10 @@
+{
+    "query": "How many times has a 33-inning game been achieved in Major League history?",
+    "response": [
+        "doc_2439.txt",
+        "doc_2441.txt",
+        "doc_2440.txt",
+        "doc_2453.txt",
+        "doc_2437.txt"
+    ]
+}

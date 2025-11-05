@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what type of boats did Washington\u2019s troops use to cross the Delaware River?",
+    "response": [
+        "doc_11577.txt",
+        "doc_11581.txt",
+        "doc_11576.txt",
+        "doc_11580.txt",
+        "doc_11584.txt"
+    ]
+}

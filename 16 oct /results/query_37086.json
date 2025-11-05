@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is West Bengal\u2019s position in terms of population within India?",
+    "response": [
+        "doc_21704.txt",
+        "doc_23855.txt",
+        "doc_21708.txt",
+        "doc_15955.txt",
+        "doc_23851.txt"
+    ]
+}

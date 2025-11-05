@@ -1,0 +1,10 @@
+{
+    "query": "Where did Nicolas Poussin ply his trade as a painter?",
+    "response": [
+        "doc_16316.txt",
+        "doc_16318.txt",
+        "doc_16320.txt",
+        "doc_16322.txt",
+        "doc_16323.txt"
+    ]
+}

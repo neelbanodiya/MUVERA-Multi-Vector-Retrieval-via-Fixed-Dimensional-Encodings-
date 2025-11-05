@@ -1,0 +1,10 @@
+{
+    "query": "Which college at Oxford remains exclusively for women?",
+    "response": [
+        "doc_5314.txt",
+        "doc_5307.txt",
+        "doc_5312.txt",
+        "doc_5310.txt",
+        "doc_5308.txt"
+    ]
+}

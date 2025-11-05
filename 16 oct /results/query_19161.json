@@ -1,0 +1,10 @@
+{
+    "query": "What is the Petitions Committee proposing regarding the environmental impact of the Nord Stream pipeline?",
+    "response": [
+        "doc_11111.txt",
+        "doc_23225.txt",
+        "doc_6069.txt",
+        "doc_23229.txt",
+        "doc_14513.txt"
+    ]
+}

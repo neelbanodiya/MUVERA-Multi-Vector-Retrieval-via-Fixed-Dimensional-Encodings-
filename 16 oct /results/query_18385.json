@@ -1,0 +1,10 @@
+{
+    "query": "What color grades of diamonds do 62% of Ritani customers prefer?",
+    "response": [
+        "doc_10640.txt",
+        "doc_10644.txt",
+        "doc_10641.txt",
+        "doc_10647.txt",
+        "doc_10638.txt"
+    ]
+}

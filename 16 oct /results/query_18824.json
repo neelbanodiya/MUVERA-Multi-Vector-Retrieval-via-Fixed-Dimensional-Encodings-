@@ -1,0 +1,10 @@
+{
+    "query": "What did Francis Ford Coppola receive an award for?",
+    "response": [
+        "doc_15278.txt",
+        "doc_11660.txt",
+        "doc_4918.txt",
+        "doc_11667.txt",
+        "doc_11659.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which state militia force led by a Lieutenant Colonel defended Fort Griswold in 1781?",
+    "response": [
+        "doc_10419.txt",
+        "doc_10415.txt",
+        "doc_10408.txt",
+        "doc_10409.txt",
+        "doc_10416.txt"
+    ]
+}

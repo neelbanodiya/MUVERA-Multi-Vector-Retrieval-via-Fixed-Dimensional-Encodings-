@@ -1,0 +1,10 @@
+{
+    "query": "What event occurred in July 1776, four months before the formal adoption of the Declaration of Independence?",
+    "response": [
+        "doc_19842.txt",
+        "doc_19847.txt",
+        "doc_19843.txt",
+        "doc_19849.txt",
+        "doc_19850.txt"
+    ]
+}

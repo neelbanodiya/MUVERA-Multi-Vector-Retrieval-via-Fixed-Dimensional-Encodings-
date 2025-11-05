@@ -1,0 +1,10 @@
+{
+    "query": "How many Grammy Awards did the duo win for Best Country Performance by a Duo or Group with Vocal?",
+    "response": [
+        "doc_18883.txt",
+        "doc_9831.txt",
+        "doc_7456.txt",
+        "doc_18888.txt",
+        "doc_17796.txt"
+    ]
+}

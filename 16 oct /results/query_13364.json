@@ -1,0 +1,10 @@
+{
+    "query": "Which TV show did Jeff Smith recommend a garlic press on?",
+    "response": [
+        "doc_7817.txt",
+        "doc_7821.txt",
+        "doc_7824.txt",
+        "doc_7818.txt",
+        "doc_7822.txt"
+    ]
+}

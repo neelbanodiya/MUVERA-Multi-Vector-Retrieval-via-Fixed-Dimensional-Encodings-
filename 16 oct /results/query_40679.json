@@ -1,0 +1,10 @@
+{
+    "query": "In what film did Pierce Brosnan make his final appearance as James Bond?",
+    "response": [
+        "doc_23798.txt",
+        "doc_23797.txt",
+        "doc_17067.txt",
+        "doc_23806.txt",
+        "doc_23804.txt"
+    ]
+}

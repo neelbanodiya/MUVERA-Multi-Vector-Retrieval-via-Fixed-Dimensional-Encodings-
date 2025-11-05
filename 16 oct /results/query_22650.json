@@ -1,0 +1,10 @@
+{
+    "query": "How high does the Palm Springs Aerial Tramway travel, and what is the distance of the ride?",
+    "response": [
+        "doc_13013.txt",
+        "doc_13014.txt",
+        "doc_13020.txt",
+        "doc_13022.txt",
+        "doc_13019.txt"
+    ]
+}

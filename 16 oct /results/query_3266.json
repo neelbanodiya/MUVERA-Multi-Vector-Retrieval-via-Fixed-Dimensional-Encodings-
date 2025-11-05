@@ -1,0 +1,10 @@
+{
+    "query": "What instrument did Gene Parsons and his collaborator invent?",
+    "response": [
+        "doc_12774.txt",
+        "doc_12770.txt",
+        "doc_12771.txt",
+        "doc_12773.txt",
+        "doc_12772.txt"
+    ]
+}

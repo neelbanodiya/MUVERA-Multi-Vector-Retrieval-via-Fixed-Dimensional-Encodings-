@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the church that Jerry Sutton previously led?",
+    "response": [
+        "doc_17124.txt",
+        "doc_23548.txt",
+        "doc_4961.txt",
+        "doc_23552.txt",
+        "doc_2920.txt"
+    ]
+}

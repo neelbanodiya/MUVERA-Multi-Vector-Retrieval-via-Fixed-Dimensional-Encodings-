@@ -1,0 +1,10 @@
+{
+    "query": "What action did Martin say the operator took to prevent the water from going through the system?",
+    "response": [
+        "doc_3085.txt",
+        "doc_22178.txt",
+        "doc_14933.txt",
+        "doc_555.txt",
+        "doc_14526.txt"
+    ]
+}

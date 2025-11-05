@@ -1,0 +1,10 @@
+{
+    "query": "Where did Pablo Neruda live in exile before moving to Italy?",
+    "response": [
+        "doc_17711.txt",
+        "doc_4275.txt",
+        "doc_18496.txt",
+        "doc_5115.txt",
+        "doc_6252.txt"
+    ]
+}

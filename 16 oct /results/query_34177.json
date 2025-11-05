@@ -1,0 +1,10 @@
+{
+    "query": "How many novels by John Grisham have been adapted into films?",
+    "response": [
+        "doc_19879.txt",
+        "doc_3559.txt",
+        "doc_19877.txt",
+        "doc_4654.txt",
+        "doc_6926.txt"
+    ]
+}

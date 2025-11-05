@@ -1,0 +1,10 @@
+{
+    "query": "When were the environmental terms for the Aposelemis dam project approved?",
+    "response": [
+        "doc_27.txt",
+        "doc_9745.txt",
+        "doc_5187.txt",
+        "doc_17470.txt",
+        "doc_18903.txt"
+    ]
+}

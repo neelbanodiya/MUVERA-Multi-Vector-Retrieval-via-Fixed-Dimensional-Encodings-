@@ -1,0 +1,10 @@
+{
+    "query": "Which King was recently welcomed by Saudi Arabia during an official visit?",
+    "response": [
+        "doc_15735.txt",
+        "doc_15732.txt",
+        "doc_15725.txt",
+        "doc_15736.txt",
+        "doc_15721.txt"
+    ]
+}

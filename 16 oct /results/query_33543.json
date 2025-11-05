@@ -1,0 +1,10 @@
+{
+    "query": "What age did Alice Roosevelt Longworth live to?",
+    "response": [
+        "doc_19536.txt",
+        "doc_19537.txt",
+        "doc_19545.txt",
+        "doc_12673.txt",
+        "doc_19547.txt"
+    ]
+}

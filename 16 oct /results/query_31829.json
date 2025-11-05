@@ -1,0 +1,10 @@
+{
+    "query": "Which state contains Mount Elbert?",
+    "response": [
+        "doc_18534.txt",
+        "doc_18551.txt",
+        "doc_18545.txt",
+        "doc_18550.txt",
+        "doc_18553.txt"
+    ]
+}

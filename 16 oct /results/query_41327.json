@@ -1,0 +1,10 @@
+{
+    "query": "What design was chosen for the reverse of Irish coins?",
+    "response": [
+        "doc_3496.txt",
+        "doc_16891.txt",
+        "doc_16465.txt",
+        "doc_22934.txt",
+        "doc_462.txt"
+    ]
+}

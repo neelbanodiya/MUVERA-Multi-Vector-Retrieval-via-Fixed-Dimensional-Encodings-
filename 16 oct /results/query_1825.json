@@ -1,0 +1,10 @@
+{
+    "query": "Which groups were represented by Jean-Pierre Audy, Hannes Swoboda, and Marco Cappato?",
+    "response": [
+        "doc_1033.txt",
+        "doc_1035.txt",
+        "doc_11969.txt",
+        "doc_16786.txt",
+        "doc_11968.txt"
+    ]
+}

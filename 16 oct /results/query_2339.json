@@ -1,0 +1,10 @@
+{
+    "query": "When did Stephen marry Ann Amelia?",
+    "response": [
+        "doc_11240.txt",
+        "doc_1395.txt",
+        "doc_17292.txt",
+        "doc_22472.txt",
+        "doc_11239.txt"
+    ]
+}

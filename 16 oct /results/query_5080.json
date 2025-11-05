@@ -1,0 +1,10 @@
+{
+    "query": "Who was often visiting Liu Dong in the hospital?",
+    "response": [
+        "doc_2970.txt",
+        "doc_2971.txt",
+        "doc_1668.txt",
+        "doc_9857.txt",
+        "doc_18574.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is John Smith\u2019s connection to the book \u201cThe Generall Historie of Virginia, New England, and the Summer Isles\u201d?",
+    "response": [
+        "doc_14860.txt",
+        "doc_14862.txt",
+        "doc_14861.txt",
+        "doc_14859.txt",
+        "doc_14857.txt"
+    ]
+}

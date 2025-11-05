@@ -1,0 +1,10 @@
+{
+    "query": "According to Luigi Piccardi, what is the cause of reported sightings of the Loch Ness Monster?",
+    "response": [
+        "doc_370.txt",
+        "doc_385.txt",
+        "doc_368.txt",
+        "doc_371.txt",
+        "doc_381.txt"
+    ]
+}

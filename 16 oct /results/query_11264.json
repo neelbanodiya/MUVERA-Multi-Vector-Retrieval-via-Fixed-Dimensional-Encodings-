@@ -1,0 +1,10 @@
+{
+    "query": "What is the average elevation of La Paz, Bolivia?",
+    "response": [
+        "doc_6515.txt",
+        "doc_6524.txt",
+        "doc_6525.txt",
+        "doc_3320.txt",
+        "doc_20399.txt"
+    ]
+}

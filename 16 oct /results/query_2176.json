@@ -1,0 +1,10 @@
+{
+    "query": "How long ago were images of Jupiter\u2019s Great Red Spot taken?",
+    "response": [
+        "doc_1286.txt",
+        "doc_1291.txt",
+        "doc_1289.txt",
+        "doc_1281.txt",
+        "doc_1280.txt"
+    ]
+}

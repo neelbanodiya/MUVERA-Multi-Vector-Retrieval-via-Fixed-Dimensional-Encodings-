@@ -1,0 +1,10 @@
+{
+    "query": "For what types of offshore activities does the Agency conduct inspections to protect marine ecosystems?",
+    "response": [
+        "doc_8138.txt",
+        "doc_23618.txt",
+        "doc_8136.txt",
+        "doc_23664.txt",
+        "doc_23663.txt"
+    ]
+}

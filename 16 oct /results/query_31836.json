@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the URLs, what was the score of Utah\u2019s season-opener against South Carolina Upstate?",
+    "response": [
+        "doc_18567.txt",
+        "doc_14819.txt",
+        "doc_14817.txt",
+        "doc_2566.txt",
+        "doc_11257.txt"
+    ]
+}

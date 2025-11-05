@@ -1,0 +1,10 @@
+{
+    "query": "What is the shape of the Round Table, and what was its significance according to the texts?",
+    "response": [
+        "doc_16169.txt",
+        "doc_4321.txt",
+        "doc_5095.txt",
+        "doc_22886.txt",
+        "doc_9446.txt"
+    ]
+}

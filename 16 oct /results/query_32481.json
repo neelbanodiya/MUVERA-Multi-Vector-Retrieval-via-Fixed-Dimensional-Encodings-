@@ -1,0 +1,10 @@
+{
+    "query": "What is Dustin\u2019s role in the productions mentioned in the second URL?",
+    "response": [
+        "doc_14258.txt",
+        "doc_389.txt",
+        "doc_6073.txt",
+        "doc_16181.txt",
+        "doc_7126.txt"
+    ]
+}

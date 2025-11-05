@@ -1,0 +1,10 @@
+{
+    "query": "When was Joseph Heller\u2019s novel, \u201cCatch-22,\u201d published?",
+    "response": [
+        "doc_10614.txt",
+        "doc_10629.txt",
+        "doc_10615.txt",
+        "doc_10622.txt",
+        "doc_10613.txt"
+    ]
+}

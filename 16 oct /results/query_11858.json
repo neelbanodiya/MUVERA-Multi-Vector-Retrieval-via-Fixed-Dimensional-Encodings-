@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, how did a person die near the McDonald's restaurant?",
+    "response": [
+        "doc_15688.txt",
+        "doc_15099.txt",
+        "doc_18155.txt",
+        "doc_17336.txt",
+        "doc_15692.txt"
+    ]
+}

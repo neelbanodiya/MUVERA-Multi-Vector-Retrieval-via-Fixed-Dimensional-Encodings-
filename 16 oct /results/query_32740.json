@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many miles long is the Georgia coast bordered by more than a dozen other areas?",
+    "response": [
+        "doc_3268.txt",
+        "doc_3270.txt",
+        "doc_16487.txt",
+        "doc_3279.txt",
+        "doc_14904.txt"
+    ]
+}

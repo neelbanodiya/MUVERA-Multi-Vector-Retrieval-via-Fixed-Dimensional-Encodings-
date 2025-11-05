@@ -1,0 +1,10 @@
+{
+    "query": "What happened to the driver\u2019s door of the Jetta?",
+    "response": [
+        "doc_6758.txt",
+        "doc_24067.txt",
+        "doc_242.txt",
+        "doc_8005.txt",
+        "doc_6759.txt"
+    ]
+}

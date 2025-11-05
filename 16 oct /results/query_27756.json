@@ -1,0 +1,10 @@
+{
+    "query": "How far is Chalk River from Ottawa?",
+    "response": [
+        "doc_16151.txt",
+        "doc_9960.txt",
+        "doc_16152.txt",
+        "doc_3657.txt",
+        "doc_22542.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which museum in New York City is dedicated to Latin-American art and has a state-of-the-art storage facility?",
+    "response": [
+        "doc_13050.txt",
+        "doc_14736.txt",
+        "doc_13059.txt",
+        "doc_13055.txt",
+        "doc_13051.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, who is typically involved in administering the Anointing of the Sick?",
+    "response": [
+        "doc_23317.txt",
+        "doc_23322.txt",
+        "doc_23320.txt",
+        "doc_23323.txt",
+        "doc_23319.txt"
+    ]
+}

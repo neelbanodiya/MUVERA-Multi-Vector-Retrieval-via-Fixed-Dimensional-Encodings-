@@ -1,0 +1,10 @@
+{
+    "query": "Which governor of Nevada lost the 1982 gubernatorial election to Richard Bryan?",
+    "response": [
+        "doc_18606.txt",
+        "doc_18607.txt",
+        "doc_18368.txt",
+        "doc_15078.txt",
+        "doc_15077.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What color is the Dapple-Gray Bed & Breakfast?",
+    "response": [
+        "doc_4129.txt",
+        "doc_4124.txt",
+        "doc_4125.txt",
+        "doc_8924.txt",
+        "doc_1109.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What time period does Albee\u2019s play take place?",
+    "response": [
+        "doc_582.txt",
+        "doc_15159.txt",
+        "doc_13798.txt",
+        "doc_21210.txt",
+        "doc_7346.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote the script for the 1995 film *Sense and Sensibility*?",
+    "response": [
+        "doc_2322.txt",
+        "doc_2325.txt",
+        "doc_2317.txt",
+        "doc_2330.txt",
+        "doc_2324.txt"
+    ]
+}

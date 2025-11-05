@@ -1,0 +1,10 @@
+{
+    "query": "What resolutions has the European Parliament previously adopted regarding Kyrgyzstan?",
+    "response": [
+        "doc_23673.txt",
+        "doc_4130.txt",
+        "doc_15472.txt",
+        "doc_4899.txt",
+        "doc_14687.txt"
+    ]
+}

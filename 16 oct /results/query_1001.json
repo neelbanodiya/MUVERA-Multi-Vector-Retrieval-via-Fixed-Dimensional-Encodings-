@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate number of rooms at the Waldorf-Astoria?",
+    "response": [
+        "doc_566.txt",
+        "doc_567.txt",
+        "doc_564.txt",
+        "doc_563.txt",
+        "doc_568.txt"
+    ]
+}

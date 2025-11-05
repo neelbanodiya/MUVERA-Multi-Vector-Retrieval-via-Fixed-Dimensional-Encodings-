@@ -1,0 +1,10 @@
+{
+    "query": "How far is Falls State Park from Porcupine Mountains State Park?",
+    "response": [
+        "doc_3323.txt",
+        "doc_18428.txt",
+        "doc_2882.txt",
+        "doc_1654.txt",
+        "doc_18552.txt"
+    ]
+}

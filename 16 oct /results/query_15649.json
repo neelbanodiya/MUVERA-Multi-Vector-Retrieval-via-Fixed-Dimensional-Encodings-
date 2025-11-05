@@ -1,0 +1,10 @@
+{
+    "query": "What type of limited-edition item does Amy Schumer have?",
+    "response": [
+        "doc_9072.txt",
+        "doc_1100.txt",
+        "doc_20932.txt",
+        "doc_15422.txt",
+        "doc_1099.txt"
+    ]
+}

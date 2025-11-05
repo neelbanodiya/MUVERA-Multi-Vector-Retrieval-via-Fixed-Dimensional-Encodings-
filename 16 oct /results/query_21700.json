@@ -1,0 +1,10 @@
+{
+    "query": "What did the French wrongly use the term \"hova\" to mean?",
+    "response": [
+        "doc_23169.txt",
+        "doc_23173.txt",
+        "doc_23168.txt",
+        "doc_23167.txt",
+        "doc_12652.txt"
+    ]
+}

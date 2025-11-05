@@ -1,0 +1,10 @@
+{
+    "query": "How many countries and denominations are represented among the students at Gordon-Conwell Theological Seminary?",
+    "response": [
+        "doc_5307.txt",
+        "doc_7435.txt",
+        "doc_14426.txt",
+        "doc_7132.txt",
+        "doc_12133.txt"
+    ]
+}

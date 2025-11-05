@@ -1,0 +1,10 @@
+{
+    "query": "According to the Gentleman\u2019s Magazine, what was a frequent characteristic of David Hume?",
+    "response": [
+        "doc_11915.txt",
+        "doc_20220.txt",
+        "doc_20133.txt",
+        "doc_20608.txt",
+        "doc_4656.txt"
+    ]
+}

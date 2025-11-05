@@ -1,0 +1,10 @@
+{
+    "query": "What river runs through Lisbon, Portugal?",
+    "response": [
+        "doc_10366.txt",
+        "doc_17642.txt",
+        "doc_22327.txt",
+        "doc_17643.txt",
+        "doc_5024.txt"
+    ]
+}

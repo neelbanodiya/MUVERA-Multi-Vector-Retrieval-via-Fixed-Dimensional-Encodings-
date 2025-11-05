@@ -1,0 +1,10 @@
+{
+    "query": "Which famous memorial is associated with Oliver Hardy?",
+    "response": [
+        "doc_12450.txt",
+        "doc_20220.txt",
+        "doc_13032.txt",
+        "doc_6908.txt",
+        "doc_12641.txt"
+    ]
+}

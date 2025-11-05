@@ -1,0 +1,10 @@
+{
+    "query": "Where will the NATO-PA meeting take place?",
+    "response": [
+        "doc_16858.txt",
+        "doc_11018.txt",
+        "doc_21155.txt",
+        "doc_8028.txt",
+        "doc_15131.txt"
+    ]
+}

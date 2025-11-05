@@ -1,0 +1,10 @@
+{
+    "query": "Which provinces are mentioned in the links related to Samsung support centers?",
+    "response": [
+        "doc_1914.txt",
+        "doc_13915.txt",
+        "doc_17780.txt",
+        "doc_22216.txt",
+        "doc_20749.txt"
+    ]
+}

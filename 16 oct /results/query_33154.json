@@ -1,0 +1,10 @@
+{
+    "query": "What does Wile E. Coyote\u2019s business card state?",
+    "response": [
+        "doc_19205.txt",
+        "doc_19209.txt",
+        "doc_19297.txt",
+        "doc_19214.txt",
+        "doc_19213.txt"
+    ]
+}

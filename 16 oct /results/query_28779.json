@@ -1,0 +1,10 @@
+{
+    "query": "What instrument is featured playing a high sustained pitch in the Westmoreland Symphony Orchestra's program notes?",
+    "response": [
+        "doc_16783.txt",
+        "doc_16771.txt",
+        "doc_16782.txt",
+        "doc_16770.txt",
+        "doc_16780.txt"
+    ]
+}

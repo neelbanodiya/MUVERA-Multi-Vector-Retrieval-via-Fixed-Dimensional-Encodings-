@@ -1,0 +1,10 @@
+{
+    "query": "Can you identify any places or structures mentioned alongside the names \u201cArnold Schwarzenegger\u201d and \u201cRobert\u201d?",
+    "response": [
+        "doc_20130.txt",
+        "doc_4523.txt",
+        "doc_2605.txt",
+        "doc_1845.txt",
+        "doc_12842.txt"
+    ]
+}

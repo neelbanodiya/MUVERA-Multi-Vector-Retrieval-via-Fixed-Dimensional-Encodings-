@@ -1,0 +1,10 @@
+{
+    "query": "Where was Napoleon\u2019s Empress Josephine born \u2013 specifically, what location on Martinique?",
+    "response": [
+        "doc_8370.txt",
+        "doc_8372.txt",
+        "doc_8368.txt",
+        "doc_8371.txt",
+        "doc_8366.txt"
+    ]
+}

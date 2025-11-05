@@ -1,0 +1,10 @@
+{
+    "query": "What is Sean MacBride known for?",
+    "response": [
+        "doc_3077.txt",
+        "doc_3078.txt",
+        "doc_1785.txt",
+        "doc_349.txt",
+        "doc_14845.txt"
+    ]
+}

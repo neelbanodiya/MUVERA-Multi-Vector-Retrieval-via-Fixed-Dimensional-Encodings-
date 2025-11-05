@@ -1,0 +1,10 @@
+{
+    "query": "What museum houses a painting of St. Catherine mentioned in the text?",
+    "response": [
+        "doc_8506.txt",
+        "doc_23696.txt",
+        "doc_23689.txt",
+        "doc_8509.txt",
+        "doc_8508.txt"
+    ]
+}

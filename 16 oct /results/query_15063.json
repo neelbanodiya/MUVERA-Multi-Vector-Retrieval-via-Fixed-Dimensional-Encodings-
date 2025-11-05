@@ -1,0 +1,10 @@
+{
+    "query": "What role did John Milton assume in *Paradise Lost*, according to the text?",
+    "response": [
+        "doc_8728.txt",
+        "doc_8729.txt",
+        "doc_16737.txt",
+        "doc_21379.txt",
+        "doc_20545.txt"
+    ]
+}

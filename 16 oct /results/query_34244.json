@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between *Le Divorce* and *Le Mariage*?",
+    "response": [
+        "doc_19908.txt",
+        "doc_23170.txt",
+        "doc_19911.txt",
+        "doc_2052.txt",
+        "doc_23171.txt"
+    ]
+}

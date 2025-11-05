@@ -1,0 +1,10 @@
+{
+    "query": "Which pillar of the European Union\u2019s framework is primarily responsible for implementing export controls?",
+    "response": [
+        "doc_7295.txt",
+        "doc_15130.txt",
+        "doc_21003.txt",
+        "doc_14141.txt",
+        "doc_15082.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which individual designed the Crystal Palace of 1851?",
+    "response": [
+        "doc_14407.txt",
+        "doc_14408.txt",
+        "doc_19778.txt",
+        "doc_10087.txt",
+        "doc_23260.txt"
+    ]
+}

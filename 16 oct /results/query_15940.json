@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of a book by Jack Kerouac that features Sal Paradise and Dean Moriarty?",
+    "response": [
+        "doc_9229.txt",
+        "doc_9247.txt",
+        "doc_9236.txt",
+        "doc_9242.txt",
+        "doc_9230.txt"
+    ]
+}

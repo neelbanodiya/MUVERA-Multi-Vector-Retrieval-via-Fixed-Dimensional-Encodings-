@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the mall featured in *Back to the Future Part II*?",
+    "response": [
+        "doc_8395.txt",
+        "doc_8390.txt",
+        "doc_2113.txt",
+        "doc_9775.txt",
+        "doc_2180.txt"
+    ]
+}

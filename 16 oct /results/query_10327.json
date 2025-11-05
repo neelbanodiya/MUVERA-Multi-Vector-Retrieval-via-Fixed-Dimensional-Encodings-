@@ -1,0 +1,10 @@
+{
+    "query": "What is the speaker\u2019s concern regarding the USA\u2019s MDS proposals?",
+    "response": [
+        "doc_20695.txt",
+        "doc_8385.txt",
+        "doc_3092.txt",
+        "doc_13196.txt",
+        "doc_5235.txt"
+    ]
+}

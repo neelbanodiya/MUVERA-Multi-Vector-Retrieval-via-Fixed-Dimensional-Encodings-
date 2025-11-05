@@ -1,0 +1,10 @@
+{
+    "query": "Who was the rapporteur for the document titled \"Financial rules applicable to the annual budget of the Union\"?",
+    "response": [
+        "doc_8155.txt",
+        "doc_17469.txt",
+        "doc_17532.txt",
+        "doc_13367.txt",
+        "doc_22186.txt"
+    ]
+}

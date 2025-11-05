@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many people participated in the 22 sessions taught by actors from the Royal Shakespeare Company?",
+    "response": [
+        "doc_7877.txt",
+        "doc_17914.txt",
+        "doc_7878.txt",
+        "doc_7876.txt",
+        "doc_8272.txt"
+    ]
+}

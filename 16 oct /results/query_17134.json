@@ -1,0 +1,10 @@
+{
+    "query": "Who voiced the character of Cheburashka in the original story?",
+    "response": [
+        "doc_9908.txt",
+        "doc_9274.txt",
+        "doc_14684.txt",
+        "doc_8263.txt",
+        "doc_7513.txt"
+    ]
+}

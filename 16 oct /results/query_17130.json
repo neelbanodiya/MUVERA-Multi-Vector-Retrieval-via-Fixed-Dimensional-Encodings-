@@ -1,0 +1,10 @@
+{
+    "query": "What year was the animated film \u201cCheburashka Goes to School\u201d released?",
+    "response": [
+        "doc_7546.txt",
+        "doc_7158.txt",
+        "doc_20622.txt",
+        "doc_18212.txt",
+        "doc_18844.txt"
+    ]
+}

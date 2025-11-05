@@ -1,0 +1,10 @@
+{
+    "query": "What is the percentage of the population in the South Eastern Mediterranean Countries (SEMCs) that lives on less than USD 2 a day?",
+    "response": [
+        "doc_2486.txt",
+        "doc_9923.txt",
+        "doc_17675.txt",
+        "doc_3270.txt",
+        "doc_8361.txt"
+    ]
+}

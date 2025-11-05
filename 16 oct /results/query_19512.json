@@ -1,0 +1,10 @@
+{
+    "query": "What was Mike Lynch doing during a blitz according to the ESPN article?",
+    "response": [
+        "doc_11861.txt",
+        "doc_7223.txt",
+        "doc_1890.txt",
+        "doc_20608.txt",
+        "doc_22059.txt"
+    ]
+}

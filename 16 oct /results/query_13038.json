@@ -1,0 +1,10 @@
+{
+    "query": "Which specific rights are protected by the Charter that this passage refers to?",
+    "response": [
+        "doc_11793.txt",
+        "doc_11792.txt",
+        "doc_5368.txt",
+        "doc_7624.txt",
+        "doc_7625.txt"
+    ]
+}

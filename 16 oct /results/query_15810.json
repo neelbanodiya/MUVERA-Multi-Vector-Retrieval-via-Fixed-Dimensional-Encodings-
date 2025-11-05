@@ -1,0 +1,10 @@
+{
+    "query": "When are the nationwide elections in Nigeria scheduled?",
+    "response": [
+        "doc_22700.txt",
+        "doc_1852.txt",
+        "doc_4902.txt",
+        "doc_20649.txt",
+        "doc_4903.txt"
+    ]
+}

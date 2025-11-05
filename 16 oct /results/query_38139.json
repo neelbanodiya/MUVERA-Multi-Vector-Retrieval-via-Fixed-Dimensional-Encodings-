@@ -1,0 +1,10 @@
+{
+    "query": "What was the Earl of Zetland reclaiming from the Frith of Forth?",
+    "response": [
+        "doc_12644.txt",
+        "doc_22370.txt",
+        "doc_430.txt",
+        "doc_5338.txt",
+        "doc_380.txt"
+    ]
+}

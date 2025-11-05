@@ -1,0 +1,10 @@
+{
+    "query": "Who directed *The Hurt Locker*, winning six Academy Awards?",
+    "response": [
+        "doc_4909.txt",
+        "doc_4923.txt",
+        "doc_16098.txt",
+        "doc_4910.txt",
+        "doc_4919.txt"
+    ]
+}

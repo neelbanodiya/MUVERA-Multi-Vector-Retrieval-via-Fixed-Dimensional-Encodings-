@@ -1,0 +1,10 @@
+{
+    "query": "How is the European Commission currently calculating regional population densities?",
+    "response": [
+        "doc_8155.txt",
+        "doc_10190.txt",
+        "doc_8880.txt",
+        "doc_22334.txt",
+        "doc_4012.txt"
+    ]
+}

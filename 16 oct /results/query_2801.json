@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Concerned Women for America hold its first meeting?",
+    "response": [
+        "doc_19841.txt",
+        "doc_3215.txt",
+        "doc_7785.txt",
+        "doc_1719.txt",
+        "doc_19314.txt"
+    ]
+}

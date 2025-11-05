@@ -1,0 +1,10 @@
+{
+    "query": "What were Mao\u2019s three proclaimed tasks regarding China\u2019s development?",
+    "response": [
+        "doc_3933.txt",
+        "doc_18120.txt",
+        "doc_18576.txt",
+        "doc_18302.txt",
+        "doc_12896.txt"
+    ]
+}

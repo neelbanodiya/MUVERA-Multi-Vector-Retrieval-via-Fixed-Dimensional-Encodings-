@@ -1,0 +1,10 @@
+{
+    "query": "What was the street vendor\u2019s employment status in Puebla?",
+    "response": [
+        "doc_1653.txt",
+        "doc_22168.txt",
+        "doc_22167.txt",
+        "doc_20126.txt",
+        "doc_17556.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, who else held House Leadership positions besides Dick Armey?",
+    "response": [
+        "doc_1925.txt",
+        "doc_1930.txt",
+        "doc_1926.txt",
+        "doc_1923.txt",
+        "doc_1935.txt"
+    ]
+}

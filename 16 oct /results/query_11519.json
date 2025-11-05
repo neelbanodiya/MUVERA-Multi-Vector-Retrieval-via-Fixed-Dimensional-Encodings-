@@ -1,0 +1,10 @@
+{
+    "query": "What dessert is described as a \u201ctraditional favorite\u201d in La Paz, Bolivia?",
+    "response": [
+        "doc_6520.txt",
+        "doc_6698.txt",
+        "doc_6699.txt",
+        "doc_6524.txt",
+        "doc_6525.txt"
+    ]
+}

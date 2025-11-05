@@ -1,0 +1,10 @@
+{
+    "query": "Where did the Woodroffe High School production of *Into the Woods* take place?",
+    "response": [
+        "doc_13798.txt",
+        "doc_18428.txt",
+        "doc_8999.txt",
+        "doc_8502.txt",
+        "doc_192.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Nureyev defect from the Kirov Ballet?",
+    "response": [
+        "doc_9900.txt",
+        "doc_9899.txt",
+        "doc_9902.txt",
+        "doc_9898.txt",
+        "doc_9903.txt"
+    ]
+}

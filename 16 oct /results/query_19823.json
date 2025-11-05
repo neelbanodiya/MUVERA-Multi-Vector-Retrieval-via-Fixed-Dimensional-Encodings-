@@ -1,0 +1,10 @@
+{
+    "query": "What was Saint Nicholas born in?",
+    "response": [
+        "doc_15623.txt",
+        "doc_21440.txt",
+        "doc_23598.txt",
+        "doc_15474.txt",
+        "doc_1246.txt"
+    ]
+}

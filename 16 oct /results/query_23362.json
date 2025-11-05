@@ -1,0 +1,10 @@
+{
+    "query": "According to one article, what is a Christian response to the superstition surrounding Halloween?",
+    "response": [
+        "doc_103.txt",
+        "doc_107.txt",
+        "doc_13525.txt",
+        "doc_96.txt",
+        "doc_95.txt"
+    ]
+}

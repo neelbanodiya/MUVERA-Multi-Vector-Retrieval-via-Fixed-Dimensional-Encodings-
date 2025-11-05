@@ -1,0 +1,10 @@
+{
+    "query": "What institution did John A. Lott graduate from with honors?",
+    "response": [
+        "doc_2651.txt",
+        "doc_2652.txt",
+        "doc_14424.txt",
+        "doc_4740.txt",
+        "doc_19136.txt"
+    ]
+}

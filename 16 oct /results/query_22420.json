@@ -1,0 +1,10 @@
+{
+    "query": "On which television network did the sitcom *Newhart* originally air?",
+    "response": [
+        "doc_23435.txt",
+        "doc_6683.txt",
+        "doc_19703.txt",
+        "doc_6684.txt",
+        "doc_6604.txt"
+    ]
+}

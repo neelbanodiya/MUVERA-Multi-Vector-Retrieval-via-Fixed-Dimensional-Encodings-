@@ -1,0 +1,10 @@
+{
+    "query": "According to one article, what event was described as \u201clike Black Swan,\u201d but in real life?",
+    "response": [
+        "doc_7664.txt",
+        "doc_21100.txt",
+        "doc_20311.txt",
+        "doc_19056.txt",
+        "doc_2153.txt"
+    ]
+}

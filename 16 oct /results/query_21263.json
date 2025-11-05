@@ -1,0 +1,10 @@
+{
+    "query": "On what date did Charlie Brown approach the same person?",
+    "response": [
+        "doc_6786.txt",
+        "doc_15771.txt",
+        "doc_15772.txt",
+        "doc_18954.txt",
+        "doc_21251.txt"
+    ]
+}

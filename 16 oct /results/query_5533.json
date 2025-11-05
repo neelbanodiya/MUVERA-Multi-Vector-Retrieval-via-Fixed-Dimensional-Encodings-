@@ -1,0 +1,10 @@
+{
+    "query": "What film earned Jane Campion the distinction of being the first woman to win the Palme d\u2019Or?",
+    "response": [
+        "doc_3220.txt",
+        "doc_3219.txt",
+        "doc_3222.txt",
+        "doc_3221.txt",
+        "doc_3216.txt"
+    ]
+}

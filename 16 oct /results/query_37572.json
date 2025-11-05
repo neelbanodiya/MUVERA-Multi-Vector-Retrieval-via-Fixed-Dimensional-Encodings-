@@ -1,0 +1,10 @@
+{
+    "query": "What honor was Sofu Teshigahara awarded by Japan?",
+    "response": [
+        "doc_22010.txt",
+        "doc_22013.txt",
+        "doc_22012.txt",
+        "doc_22023.txt",
+        "doc_22015.txt"
+    ]
+}

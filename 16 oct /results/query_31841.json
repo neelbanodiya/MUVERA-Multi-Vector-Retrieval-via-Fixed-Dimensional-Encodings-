@@ -1,0 +1,10 @@
+{
+    "query": "According to the document, what was the Detroit Titans\u2019 performance in field goal percentage in the 2012-13 season?",
+    "response": [
+        "doc_18569.txt",
+        "doc_6723.txt",
+        "doc_6725.txt",
+        "doc_8500.txt",
+        "doc_8501.txt"
+    ]
+}

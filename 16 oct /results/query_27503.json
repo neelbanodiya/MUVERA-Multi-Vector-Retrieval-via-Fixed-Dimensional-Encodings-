@@ -1,0 +1,10 @@
+{
+    "query": "In Washington State, what must you do if you want to change your name?",
+    "response": [
+        "doc_12387.txt",
+        "doc_15996.txt",
+        "doc_15995.txt",
+        "doc_22919.txt",
+        "doc_12395.txt"
+    ]
+}

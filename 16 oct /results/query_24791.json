@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the church founded by Robert H. Schuller?",
+    "response": [
+        "doc_4961.txt",
+        "doc_14407.txt",
+        "doc_18434.txt",
+        "doc_9359.txt",
+        "doc_9024.txt"
+    ]
+}

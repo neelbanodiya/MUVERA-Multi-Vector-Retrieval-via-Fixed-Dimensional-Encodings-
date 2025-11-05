@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is the name of the park located at the top of the Palm Springs Aerial Tramway?",
+    "response": [
+        "doc_9327.txt",
+        "doc_13013.txt",
+        "doc_13019.txt",
+        "doc_20938.txt",
+        "doc_18535.txt"
+    ]
+}

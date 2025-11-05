@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, how long was the game between the Pawtucket Red Sox and the Rochester Red Wings?",
+    "response": [
+        "doc_2442.txt",
+        "doc_2439.txt",
+        "doc_2438.txt",
+        "doc_2441.txt",
+        "doc_2440.txt"
+    ]
+}

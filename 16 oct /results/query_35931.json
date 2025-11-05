@@ -1,0 +1,10 @@
+{
+    "query": "What features are located within Mammoth Cave National Park?",
+    "response": [
+        "doc_20938.txt",
+        "doc_9336.txt",
+        "doc_9326.txt",
+        "doc_18154.txt",
+        "doc_9327.txt"
+    ]
+}

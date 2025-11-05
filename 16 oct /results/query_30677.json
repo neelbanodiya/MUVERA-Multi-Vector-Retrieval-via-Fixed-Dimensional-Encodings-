@@ -1,0 +1,10 @@
+{
+    "query": "What is the height of the start house of the Holmenkollen ski jump?",
+    "response": [
+        "doc_17853.txt",
+        "doc_17854.txt",
+        "doc_17852.txt",
+        "doc_17855.txt",
+        "doc_17863.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How is the Gondi family connected to the Medici family?",
+    "response": [
+        "doc_23758.txt",
+        "doc_23745.txt",
+        "doc_23746.txt",
+        "doc_23747.txt",
+        "doc_23753.txt"
+    ]
+}

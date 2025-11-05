@@ -1,0 +1,10 @@
+{
+    "query": "What are the names of the three Muses associated with poetry in *Apollo*?",
+    "response": [
+        "doc_15658.txt",
+        "doc_15649.txt",
+        "doc_15660.txt",
+        "doc_15657.txt",
+        "doc_15662.txt"
+    ]
+}

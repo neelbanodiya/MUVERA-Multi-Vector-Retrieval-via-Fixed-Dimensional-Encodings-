@@ -1,0 +1,10 @@
+{
+    "query": "What specific action is the Parliament urging Member States to take regarding waiting times for treatments?",
+    "response": [
+        "doc_3598.txt",
+        "doc_10908.txt",
+        "doc_3092.txt",
+        "doc_10910.txt",
+        "doc_19459.txt"
+    ]
+}

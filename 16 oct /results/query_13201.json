@@ -1,0 +1,10 @@
+{
+    "query": "When was Al Capone transferred to Alcatraz prison?",
+    "response": [
+        "doc_7721.txt",
+        "doc_7723.txt",
+        "doc_7724.txt",
+        "doc_7727.txt",
+        "doc_7725.txt"
+    ]
+}

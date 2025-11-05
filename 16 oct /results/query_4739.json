@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is a concern for scientists regarding the Gulf of Mexico oil spill?",
+    "response": [
+        "doc_2030.txt",
+        "doc_11117.txt",
+        "doc_5560.txt",
+        "doc_3125.txt",
+        "doc_22422.txt"
+    ]
+}

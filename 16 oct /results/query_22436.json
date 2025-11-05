@@ -1,0 +1,10 @@
+{
+    "query": "Which Filmfare award did Gulshan Kumar Mehta receive for the song \"Yaari Hai Imaan Mera\"?",
+    "response": [
+        "doc_12935.txt",
+        "doc_5435.txt",
+        "doc_14685.txt",
+        "doc_5434.txt",
+        "doc_5433.txt"
+    ]
+}

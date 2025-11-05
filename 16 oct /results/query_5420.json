@@ -1,0 +1,10 @@
+{
+    "query": "Where does the Sacramento River meet the San Joaquin River?",
+    "response": [
+        "doc_3145.txt",
+        "doc_3147.txt",
+        "doc_3153.txt",
+        "doc_3146.txt",
+        "doc_3156.txt"
+    ]
+}

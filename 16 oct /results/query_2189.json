@@ -1,0 +1,10 @@
+{
+    "query": "What is the name given to the \u201cBook of the Dead\u201d by an Egyptologist?",
+    "response": [
+        "doc_1294.txt",
+        "doc_5413.txt",
+        "doc_1301.txt",
+        "doc_5425.txt",
+        "doc_5414.txt"
+    ]
+}

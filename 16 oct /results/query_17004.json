@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, who led a rebellion in the mid-nineteenth century, and what was their name in Western sources?",
+    "response": [
+        "doc_7521.txt",
+        "doc_21730.txt",
+        "doc_9445.txt",
+        "doc_14707.txt",
+        "doc_15047.txt"
+    ]
+}

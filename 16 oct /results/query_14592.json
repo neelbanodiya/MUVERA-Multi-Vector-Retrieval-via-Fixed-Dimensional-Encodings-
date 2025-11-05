@@ -1,0 +1,10 @@
+{
+    "query": "What is the largest lake in Northern Ireland?",
+    "response": [
+        "doc_9296.txt",
+        "doc_8427.txt",
+        "doc_8434.txt",
+        "doc_8435.txt",
+        "doc_8439.txt"
+    ]
+}

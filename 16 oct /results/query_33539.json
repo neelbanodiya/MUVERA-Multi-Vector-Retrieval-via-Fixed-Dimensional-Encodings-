@@ -1,0 +1,10 @@
+{
+    "query": "What was David\u2019s lifelong passion?",
+    "response": [
+        "doc_20541.txt",
+        "doc_7863.txt",
+        "doc_17272.txt",
+        "doc_6753.txt",
+        "doc_5295.txt"
+    ]
+}

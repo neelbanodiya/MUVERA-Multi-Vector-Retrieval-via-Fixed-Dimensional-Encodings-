@@ -1,0 +1,10 @@
+{
+    "query": "What event occurred on June 7, 2009, at Temple Emanu-El of Long Beach?",
+    "response": [
+        "doc_12260.txt",
+        "doc_18619.txt",
+        "doc_18155.txt",
+        "doc_18493.txt",
+        "doc_512.txt"
+    ]
+}

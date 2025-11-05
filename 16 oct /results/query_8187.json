@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of graduates from Fremont High School earned an Indiana Academic Honors Diploma?",
+    "response": [
+        "doc_4738.txt",
+        "doc_4741.txt",
+        "doc_4739.txt",
+        "doc_1511.txt",
+        "doc_24237.txt"
+    ]
+}

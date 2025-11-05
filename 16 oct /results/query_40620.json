@@ -1,0 +1,10 @@
+{
+    "query": "Who was elected every two months by Florentine guild members?",
+    "response": [
+        "doc_7844.txt",
+        "doc_23671.txt",
+        "doc_1032.txt",
+        "doc_242.txt",
+        "doc_16809.txt"
+    ]
+}

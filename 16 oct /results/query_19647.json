@@ -1,0 +1,10 @@
+{
+    "query": "What country did the U.S. Olympic hockey team defeat in the 1980 Winter Olympics?",
+    "response": [
+        "doc_11351.txt",
+        "doc_11347.txt",
+        "doc_11356.txt",
+        "doc_11342.txt",
+        "doc_11352.txt"
+    ]
+}

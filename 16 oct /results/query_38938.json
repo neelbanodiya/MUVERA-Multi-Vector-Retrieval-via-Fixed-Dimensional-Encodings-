@@ -1,0 +1,10 @@
+{
+    "query": "Where is Daytona Beach International Airport located?",
+    "response": [
+        "doc_22792.txt",
+        "doc_4958.txt",
+        "doc_4959.txt",
+        "doc_11490.txt",
+        "doc_9961.txt"
+    ]
+}

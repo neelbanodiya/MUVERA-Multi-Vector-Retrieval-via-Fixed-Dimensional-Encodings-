@@ -1,0 +1,10 @@
+{
+    "query": "Which artist is featured in \"A Tribute to John Williams\"?",
+    "response": [
+        "doc_19011.txt",
+        "doc_23435.txt",
+        "doc_12571.txt",
+        "doc_6336.txt",
+        "doc_12338.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many legal immigrants reside in the European Union?",
+    "response": [
+        "doc_14822.txt",
+        "doc_5074.txt",
+        "doc_11813.txt",
+        "doc_5635.txt",
+        "doc_11814.txt"
+    ]
+}

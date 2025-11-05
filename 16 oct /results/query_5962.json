@@ -1,0 +1,10 @@
+{
+    "query": "What type of experience can be found by taking a taxi ride along the River Mersey?",
+    "response": [
+        "doc_3486.txt",
+        "doc_3484.txt",
+        "doc_3487.txt",
+        "doc_14243.txt",
+        "doc_10664.txt"
+    ]
+}

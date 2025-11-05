@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Northwest Airlines founded?",
+    "response": [
+        "doc_2986.txt",
+        "doc_2984.txt",
+        "doc_2996.txt",
+        "doc_2987.txt",
+        "doc_16845.txt"
+    ]
+}

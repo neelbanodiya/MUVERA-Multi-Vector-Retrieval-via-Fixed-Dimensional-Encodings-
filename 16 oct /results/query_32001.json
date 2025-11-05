@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, how are some high kicks in Korean martial arts similar to styles in China?",
+    "response": [
+        "doc_18639.txt",
+        "doc_18642.txt",
+        "doc_18640.txt",
+        "doc_18646.txt",
+        "doc_18645.txt"
+    ]
+}

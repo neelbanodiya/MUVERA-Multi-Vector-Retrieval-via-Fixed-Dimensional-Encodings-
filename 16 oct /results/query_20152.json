@@ -1,0 +1,10 @@
+{
+    "query": "What is the current status of the lighthouse on Corregidor Island?",
+    "response": [
+        "doc_11629.txt",
+        "doc_11634.txt",
+        "doc_11638.txt",
+        "doc_11636.txt",
+        "doc_11633.txt"
+    ]
+}

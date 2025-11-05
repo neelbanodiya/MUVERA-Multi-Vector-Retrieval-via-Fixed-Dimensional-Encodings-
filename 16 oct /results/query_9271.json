@@ -1,0 +1,10 @@
+{
+    "query": "When was Muammar Gaddafi\u2019s coup against King Idris I?",
+    "response": [
+        "doc_5349.txt",
+        "doc_5344.txt",
+        "doc_5343.txt",
+        "doc_5346.txt",
+        "doc_5350.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the daughter compete in the 1928 Olympic Games for Canada?",
+    "response": [
+        "doc_15507.txt",
+        "doc_15506.txt",
+        "doc_15519.txt",
+        "doc_15522.txt",
+        "doc_15505.txt"
+    ]
+}

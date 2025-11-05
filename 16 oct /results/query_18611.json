@@ -1,0 +1,10 @@
+{
+    "query": "Which cosmetics brand is associated with the classic lipstick shade \"Russian Red\"?",
+    "response": [
+        "doc_10805.txt",
+        "doc_10809.txt",
+        "doc_10806.txt",
+        "doc_10807.txt",
+        "doc_10813.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What role did Helmut Schmidt hold in West Germany from 1974 to 1982?",
+    "response": [
+        "doc_21734.txt",
+        "doc_21730.txt",
+        "doc_21733.txt",
+        "doc_21731.txt",
+        "doc_21736.txt"
+    ]
+}

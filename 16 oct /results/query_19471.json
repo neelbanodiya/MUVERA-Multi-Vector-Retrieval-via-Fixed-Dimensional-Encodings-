@@ -1,0 +1,10 @@
+{
+    "query": "When did Notre Dame defeat Alabama at Tulane Stadium?",
+    "response": [
+        "doc_11265.txt",
+        "doc_11266.txt",
+        "doc_19122.txt",
+        "doc_20063.txt",
+        "doc_11269.txt"
+    ]
+}

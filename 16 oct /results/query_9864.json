@@ -1,0 +1,10 @@
+{
+    "query": "What is Spe Salvi, and which Pope promulgated it?",
+    "response": [
+        "doc_9302.txt",
+        "doc_9314.txt",
+        "doc_9310.txt",
+        "doc_9303.txt",
+        "doc_9304.txt"
+    ]
+}

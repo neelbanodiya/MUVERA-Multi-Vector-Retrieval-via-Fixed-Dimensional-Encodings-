@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is the primary source of water for the Rio Vista area?",
+    "response": [
+        "doc_4340.txt",
+        "doc_4341.txt",
+        "doc_3154.txt",
+        "doc_4336.txt",
+        "doc_22491.txt"
+    ]
+}

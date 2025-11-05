@@ -1,0 +1,10 @@
+{
+    "query": "What is the total number of haemophiliacs reported as declared AIDS cases in the EU since the 1980s?",
+    "response": [
+        "doc_1828.txt",
+        "doc_10032.txt",
+        "doc_2056.txt",
+        "doc_10828.txt",
+        "doc_3089.txt"
+    ]
+}

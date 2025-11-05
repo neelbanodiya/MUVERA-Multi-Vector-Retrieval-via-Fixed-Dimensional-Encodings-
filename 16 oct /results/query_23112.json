@@ -1,0 +1,10 @@
+{
+    "query": "What type of information does the Commission commit to sending to Parliament, mirroring what it sends to national authorities?",
+    "response": [
+        "doc_13365.txt",
+        "doc_14094.txt",
+        "doc_9144.txt",
+        "doc_23613.txt",
+        "doc_394.txt"
+    ]
+}

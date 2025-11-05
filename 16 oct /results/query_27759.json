@@ -1,0 +1,10 @@
+{
+    "query": "How far is Levidi from Tripoli?",
+    "response": [
+        "doc_16153.txt",
+        "doc_10127.txt",
+        "doc_10128.txt",
+        "doc_15478.txt",
+        "doc_14191.txt"
+    ]
+}

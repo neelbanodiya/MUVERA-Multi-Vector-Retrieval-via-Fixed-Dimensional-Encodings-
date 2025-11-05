@@ -1,0 +1,10 @@
+{
+    "query": "What two agreements does C\u00f4te d'Ivoire currently benefit from regarding European aid?",
+    "response": [
+        "doc_16821.txt",
+        "doc_16818.txt",
+        "doc_16819.txt",
+        "doc_1787.txt",
+        "doc_16820.txt"
+    ]
+}

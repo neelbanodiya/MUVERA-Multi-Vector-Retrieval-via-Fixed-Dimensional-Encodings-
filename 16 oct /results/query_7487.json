@@ -1,0 +1,10 @@
+{
+    "query": "What treaty agreement was established between Argentina, Brazil, and Paraguay concerning the Parana River?",
+    "response": [
+        "doc_4340.txt",
+        "doc_7966.txt",
+        "doc_163.txt",
+        "doc_10789.txt",
+        "doc_3247.txt"
+    ]
+}

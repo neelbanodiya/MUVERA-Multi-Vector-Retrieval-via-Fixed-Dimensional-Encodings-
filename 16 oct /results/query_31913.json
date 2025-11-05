@@ -1,0 +1,10 @@
+{
+    "query": "How did the amputation experienced by the character Drake McHugh impact his reaction in *Kings Row*?",
+    "response": [
+        "doc_18591.txt",
+        "doc_18600.txt",
+        "doc_18590.txt",
+        "doc_18593.txt",
+        "doc_18596.txt"
+    ]
+}

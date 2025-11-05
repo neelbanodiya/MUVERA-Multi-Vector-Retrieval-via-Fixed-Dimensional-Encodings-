@@ -1,0 +1,10 @@
+{
+    "query": "Which playwright collaborated with Paul Green on the play *The House of Connelly*?",
+    "response": [
+        "doc_5299.txt",
+        "doc_8178.txt",
+        "doc_17887.txt",
+        "doc_17758.txt",
+        "doc_4916.txt"
+    ]
+}

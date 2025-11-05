@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, which films were directed by Frank Capra?",
+    "response": [
+        "doc_21386.txt",
+        "doc_21387.txt",
+        "doc_2231.txt",
+        "doc_7766.txt",
+        "doc_14685.txt"
+    ]
+}

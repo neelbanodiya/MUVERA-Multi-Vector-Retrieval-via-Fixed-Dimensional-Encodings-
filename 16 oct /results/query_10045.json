@@ -1,0 +1,10 @@
+{
+    "query": "What is the Council urging the Israeli Government to do regarding the blockade of Gaza?",
+    "response": [
+        "doc_5823.txt",
+        "doc_5822.txt",
+        "doc_4752.txt",
+        "doc_20930.txt",
+        "doc_22719.txt"
+    ]
+}

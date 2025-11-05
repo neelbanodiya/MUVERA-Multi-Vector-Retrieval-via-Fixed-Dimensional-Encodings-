@@ -1,0 +1,10 @@
+{
+    "query": "How many hobbits are mentioned as characters in *The Two Towers*?",
+    "response": [
+        "doc_15553.txt",
+        "doc_16033.txt",
+        "doc_15552.txt",
+        "doc_1834.txt",
+        "doc_7435.txt"
+    ]
+}

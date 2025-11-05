@@ -1,0 +1,10 @@
+{
+    "query": "Besides Red Square, what other significant landmark is located in Moscow?",
+    "response": [
+        "doc_2539.txt",
+        "doc_2531.txt",
+        "doc_2537.txt",
+        "doc_2545.txt",
+        "doc_2536.txt"
+    ]
+}

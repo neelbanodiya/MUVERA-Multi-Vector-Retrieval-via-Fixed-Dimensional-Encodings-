@@ -1,0 +1,10 @@
+{
+    "query": "What specific tools are recommended to generate a dialogue on European policies among young people?",
+    "response": [
+        "doc_17401.txt",
+        "doc_17374.txt",
+        "doc_17400.txt",
+        "doc_20040.txt",
+        "doc_20033.txt"
+    ]
+}

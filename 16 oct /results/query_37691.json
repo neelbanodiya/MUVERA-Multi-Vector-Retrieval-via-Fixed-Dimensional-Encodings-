@@ -1,0 +1,10 @@
+{
+    "query": "What is the total retail value of the animated characters in the Nintendo game?",
+    "response": [
+        "doc_1869.txt",
+        "doc_6660.txt",
+        "doc_3060.txt",
+        "doc_12189.txt",
+        "doc_3059.txt"
+    ]
+}

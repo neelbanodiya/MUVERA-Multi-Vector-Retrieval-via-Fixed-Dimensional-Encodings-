@@ -1,0 +1,10 @@
+{
+    "query": "Where is Stephen King\u2019s novel *Needful Things* set, and what is a notable geographical feature associated with that location?",
+    "response": [
+        "doc_3712.txt",
+        "doc_3711.txt",
+        "doc_3721.txt",
+        "doc_19142.txt",
+        "doc_20128.txt"
+    ]
+}

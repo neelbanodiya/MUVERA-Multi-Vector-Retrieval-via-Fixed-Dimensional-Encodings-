@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Elmer Pratt released from prison, and what was the reason for his initial conviction?",
+    "response": [
+        "doc_19261.txt",
+        "doc_19260.txt",
+        "doc_19262.txt",
+        "doc_19265.txt",
+        "doc_19264.txt"
+    ]
+}

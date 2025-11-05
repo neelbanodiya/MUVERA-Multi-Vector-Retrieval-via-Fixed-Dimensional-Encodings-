@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Codex Manesse housed?",
+    "response": [
+        "doc_8506.txt",
+        "doc_8505.txt",
+        "doc_8507.txt",
+        "doc_8649.txt",
+        "doc_19221.txt"
+    ]
+}

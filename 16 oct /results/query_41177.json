@@ -1,0 +1,10 @@
+{
+    "query": "According to Amendment 2, what will the EC financial compensation be used for?",
+    "response": [
+        "doc_8155.txt",
+        "doc_24109.txt",
+        "doc_20773.txt",
+        "doc_20835.txt",
+        "doc_20834.txt"
+    ]
+}

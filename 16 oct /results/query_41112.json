@@ -1,0 +1,10 @@
+{
+    "query": "What states does US 522 pass through?",
+    "response": [
+        "doc_24076.txt",
+        "doc_22539.txt",
+        "doc_21709.txt",
+        "doc_20375.txt",
+        "doc_585.txt"
+    ]
+}

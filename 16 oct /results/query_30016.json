@@ -1,0 +1,10 @@
+{
+    "query": "What types of imaging tests are mentioned in the passage, and what technologies are used in each (e.g., X-rays, ultrasound, MRI)?",
+    "response": [
+        "doc_17461.txt",
+        "doc_17454.txt",
+        "doc_17456.txt",
+        "doc_17460.txt",
+        "doc_17448.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which actor voiced Anton Ego in *Ratatouille*?",
+    "response": [
+        "doc_3058.txt",
+        "doc_9274.txt",
+        "doc_7513.txt",
+        "doc_5868.txt",
+        "doc_18482.txt"
+    ]
+}

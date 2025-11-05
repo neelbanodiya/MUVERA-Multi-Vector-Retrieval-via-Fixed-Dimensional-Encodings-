@@ -1,0 +1,10 @@
+{
+    "query": "What types of animals are mentioned as being part of the main cast of the game \u201cFrogger 2\u201d?",
+    "response": [
+        "doc_3455.txt",
+        "doc_3458.txt",
+        "doc_3459.txt",
+        "doc_3465.txt",
+        "doc_3461.txt"
+    ]
+}

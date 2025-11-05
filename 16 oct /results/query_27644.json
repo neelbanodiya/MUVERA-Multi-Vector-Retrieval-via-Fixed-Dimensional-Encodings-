@@ -1,0 +1,10 @@
+{
+    "query": "How long has *Homo sapiens sapiens* existed according to the provided texts?",
+    "response": [
+        "doc_16071.txt",
+        "doc_16070.txt",
+        "doc_16066.txt",
+        "doc_5584.txt",
+        "doc_15764.txt"
+    ]
+}

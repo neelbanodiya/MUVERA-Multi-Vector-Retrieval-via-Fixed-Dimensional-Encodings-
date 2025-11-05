@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the literal meaning of the phrase \u201cgreen of Greece\u201d?",
+    "response": [
+        "doc_4320.txt",
+        "doc_15375.txt",
+        "doc_5425.txt",
+        "doc_4321.txt",
+        "doc_4322.txt"
+    ]
+}

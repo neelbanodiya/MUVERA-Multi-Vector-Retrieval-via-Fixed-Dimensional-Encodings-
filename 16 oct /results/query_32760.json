@@ -1,0 +1,10 @@
+{
+    "query": "What was the size of the submarine commanded by Sean Connery, as described in one of the linked articles?",
+    "response": [
+        "doc_1011.txt",
+        "doc_9629.txt",
+        "doc_11008.txt",
+        "doc_18808.txt",
+        "doc_2231.txt"
+    ]
+}

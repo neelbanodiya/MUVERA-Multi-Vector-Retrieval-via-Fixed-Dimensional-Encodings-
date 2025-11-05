@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the plane Charles Lindbergh flew across the Atlantic?",
+    "response": [
+        "doc_15404.txt",
+        "doc_14515.txt",
+        "doc_7493.txt",
+        "doc_1330.txt",
+        "doc_21887.txt"
+    ]
+}

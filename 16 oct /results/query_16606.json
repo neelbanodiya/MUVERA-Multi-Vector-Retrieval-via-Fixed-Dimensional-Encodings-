@@ -1,0 +1,10 @@
+{
+    "query": "Which ship served as the Flag Ship of Admiral Sir David Beatty at Jutland?",
+    "response": [
+        "doc_9626.txt",
+        "doc_9628.txt",
+        "doc_9629.txt",
+        "doc_9627.txt",
+        "doc_9643.txt"
+    ]
+}

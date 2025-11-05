@@ -1,0 +1,10 @@
+{
+    "query": "What actions has the Commission taken in response to the reported allegations of blocking VoIP services?",
+    "response": [
+        "doc_866.txt",
+        "doc_133.txt",
+        "doc_21623.txt",
+        "doc_3701.txt",
+        "doc_4734.txt"
+    ]
+}

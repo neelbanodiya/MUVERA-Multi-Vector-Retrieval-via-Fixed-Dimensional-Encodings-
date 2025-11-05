@@ -1,0 +1,10 @@
+{
+    "query": "What countries were primarily involved in delivering supplies to Berlin?",
+    "response": [
+        "doc_870.txt",
+        "doc_23044.txt",
+        "doc_888.txt",
+        "doc_6595.txt",
+        "doc_875.txt"
+    ]
+}

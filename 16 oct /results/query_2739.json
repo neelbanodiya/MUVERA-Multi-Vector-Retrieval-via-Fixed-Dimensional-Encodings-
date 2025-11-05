@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the city where the St. Marys River connects Lake Superior and Lake Huron, and what does the name translate to?",
+    "response": [
+        "doc_1633.txt",
+        "doc_1650.txt",
+        "doc_1647.txt",
+        "doc_1641.txt",
+        "doc_1642.txt"
+    ]
+}

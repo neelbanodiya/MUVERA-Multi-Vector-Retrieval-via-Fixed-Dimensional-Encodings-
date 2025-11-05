@@ -1,0 +1,10 @@
+{
+    "query": "Who attempted to assassinate President Lincoln?",
+    "response": [
+        "doc_20670.txt",
+        "doc_6108.txt",
+        "doc_7926.txt",
+        "doc_20671.txt",
+        "doc_6111.txt"
+    ]
+}

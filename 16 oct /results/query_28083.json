@@ -1,0 +1,10 @@
+{
+    "query": "What was Hiram Sibley\u2019s position?",
+    "response": [
+        "doc_16807.txt",
+        "doc_19875.txt",
+        "doc_20141.txt",
+        "doc_10450.txt",
+        "doc_12840.txt"
+    ]
+}

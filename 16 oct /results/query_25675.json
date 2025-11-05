@@ -1,0 +1,10 @@
+{
+    "query": "Besides Eastern Airlines, which other airline is mentioned in the text as using a similar slogan?",
+    "response": [
+        "doc_14879.txt",
+        "doc_14882.txt",
+        "doc_14885.txt",
+        "doc_14884.txt",
+        "doc_14881.txt"
+    ]
+}

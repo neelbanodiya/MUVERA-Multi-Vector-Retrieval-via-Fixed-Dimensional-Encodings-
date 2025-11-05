@@ -1,0 +1,10 @@
+{
+    "query": "What was Peter Boyd-Smith describing regarding a Titanic artifact?",
+    "response": [
+        "doc_21098.txt",
+        "doc_21113.txt",
+        "doc_21110.txt",
+        "doc_21105.txt",
+        "doc_21112.txt"
+    ]
+}

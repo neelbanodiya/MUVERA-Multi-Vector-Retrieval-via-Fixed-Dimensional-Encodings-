@@ -1,0 +1,10 @@
+{
+    "query": "Which Batman movie was Tim Burton planning to make after Batman Forever?",
+    "response": [
+        "doc_21617.txt",
+        "doc_21621.txt",
+        "doc_21622.txt",
+        "doc_21618.txt",
+        "doc_21619.txt"
+    ]
+}

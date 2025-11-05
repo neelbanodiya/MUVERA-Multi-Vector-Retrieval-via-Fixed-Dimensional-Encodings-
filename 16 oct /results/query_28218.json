@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 7, what standards must tests for surfactants comply with?",
+    "response": [
+        "doc_16404.txt",
+        "doc_16397.txt",
+        "doc_16401.txt",
+        "doc_16414.txt",
+        "doc_16398.txt"
+    ]
+}

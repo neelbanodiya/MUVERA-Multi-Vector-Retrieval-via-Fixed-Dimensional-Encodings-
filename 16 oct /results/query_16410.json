@@ -1,0 +1,10 @@
+{
+    "query": "How many applications for meat-based products did the Commission receive from Poland?",
+    "response": [
+        "doc_16370.txt",
+        "doc_9535.txt",
+        "doc_6429.txt",
+        "doc_16190.txt",
+        "doc_7872.txt"
+    ]
+}

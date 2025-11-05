@@ -1,0 +1,10 @@
+{
+    "query": "Which Treaty is referenced as providing the framework for the agreement\u2019s interpretation?",
+    "response": [
+        "doc_13372.txt",
+        "doc_13350.txt",
+        "doc_13351.txt",
+        "doc_13402.txt",
+        "doc_21816.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Ramones albums were released in 1977 and 1978, according to the provided links?",
+    "response": [
+        "doc_16702.txt",
+        "doc_16701.txt",
+        "doc_16704.txt",
+        "doc_8469.txt",
+        "doc_8897.txt"
+    ]
+}

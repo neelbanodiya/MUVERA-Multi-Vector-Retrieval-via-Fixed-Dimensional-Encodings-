@@ -1,0 +1,10 @@
+{
+    "query": "When is the Euro-Mediterranean Trade Ministers meeting scheduled to discuss this matter?",
+    "response": [
+        "doc_2485.txt",
+        "doc_1210.txt",
+        "doc_2493.txt",
+        "doc_1211.txt",
+        "doc_2489.txt"
+    ]
+}

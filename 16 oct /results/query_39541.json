@@ -1,0 +1,10 @@
+{
+    "query": "What action did Alliance members take to address their political concerns?",
+    "response": [
+        "doc_19918.txt",
+        "doc_13569.txt",
+        "doc_5369.txt",
+        "doc_16791.txt",
+        "doc_16814.txt"
+    ]
+}

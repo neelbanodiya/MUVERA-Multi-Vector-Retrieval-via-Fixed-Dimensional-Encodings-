@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the original French film, *Pardon Mon Affaire*, released in North America?",
+    "response": [
+        "doc_21487.txt",
+        "doc_6751.txt",
+        "doc_13866.txt",
+        "doc_8938.txt",
+        "doc_18756.txt"
+    ]
+}

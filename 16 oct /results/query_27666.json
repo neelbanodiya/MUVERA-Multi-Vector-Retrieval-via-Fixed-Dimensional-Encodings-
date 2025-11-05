@@ -1,0 +1,10 @@
+{
+    "query": "Where were the first three Mad Max movies primarily filmed?",
+    "response": [
+        "doc_16100.txt",
+        "doc_16095.txt",
+        "doc_22835.txt",
+        "doc_14779.txt",
+        "doc_1231.txt"
+    ]
+}

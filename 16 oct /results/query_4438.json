@@ -1,0 +1,10 @@
+{
+    "query": "What environmental challenges does China currently face, as highlighted in the documents?",
+    "response": [
+        "doc_2581.txt",
+        "doc_2585.txt",
+        "doc_5560.txt",
+        "doc_18122.txt",
+        "doc_2591.txt"
+    ]
+}

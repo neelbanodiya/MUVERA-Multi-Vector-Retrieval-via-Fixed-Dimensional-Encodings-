@@ -1,0 +1,10 @@
+{
+    "query": "What other movie related to Batman is mentioned in the Pinterest link?",
+    "response": [
+        "doc_21617.txt",
+        "doc_4193.txt",
+        "doc_21618.txt",
+        "doc_16730.txt",
+        "doc_21619.txt"
+    ]
+}

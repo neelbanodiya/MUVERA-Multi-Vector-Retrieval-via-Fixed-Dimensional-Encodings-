@@ -1,0 +1,10 @@
+{
+    "query": "The passage mentions travel to Eldorado. Where were these ships sailing to, according to one of the linked documents?",
+    "response": [
+        "doc_8685.txt",
+        "doc_8687.txt",
+        "doc_1311.txt",
+        "doc_11629.txt",
+        "doc_17655.txt"
+    ]
+}

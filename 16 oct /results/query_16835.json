@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was King George VI\u2019s place of burial?",
+    "response": [
+        "doc_9759.txt",
+        "doc_462.txt",
+        "doc_18497.txt",
+        "doc_9755.txt",
+        "doc_20255.txt"
+    ]
+}

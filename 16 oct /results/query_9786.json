@@ -1,0 +1,10 @@
+{
+    "query": "What action did the European Parliament take regarding the death penalty, and when was a resolution adopted on this issue?",
+    "response": [
+        "doc_3914.txt",
+        "doc_12932.txt",
+        "doc_23403.txt",
+        "doc_22392.txt",
+        "doc_24018.txt"
+    ]
+}

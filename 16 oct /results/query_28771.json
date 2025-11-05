@@ -1,0 +1,10 @@
+{
+    "query": "What is dashi, and how is it used in Japanese soups?",
+    "response": [
+        "doc_16760.txt",
+        "doc_16768.txt",
+        "doc_16764.txt",
+        "doc_16762.txt",
+        "doc_16767.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what play by Shakespeare features the line \"On the bat's back I do fly\"?",
+    "response": [
+        "doc_19054.txt",
+        "doc_19055.txt",
+        "doc_16737.txt",
+        "doc_16729.txt",
+        "doc_16742.txt"
+    ]
+}

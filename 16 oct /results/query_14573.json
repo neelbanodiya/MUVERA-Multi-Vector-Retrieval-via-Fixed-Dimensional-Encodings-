@@ -1,0 +1,10 @@
+{
+    "query": "In what context did the Council President express the hope of reaching agreement?",
+    "response": [
+        "doc_13398.txt",
+        "doc_13399.txt",
+        "doc_22439.txt",
+        "doc_20036.txt",
+        "doc_7771.txt"
+    ]
+}

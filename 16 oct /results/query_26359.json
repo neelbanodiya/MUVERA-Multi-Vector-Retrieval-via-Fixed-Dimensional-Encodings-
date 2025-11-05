@@ -1,0 +1,10 @@
+{
+    "query": "In what city was Joe Louis born?",
+    "response": [
+        "doc_3568.txt",
+        "doc_3563.txt",
+        "doc_15329.txt",
+        "doc_9405.txt",
+        "doc_3819.txt"
+    ]
+}

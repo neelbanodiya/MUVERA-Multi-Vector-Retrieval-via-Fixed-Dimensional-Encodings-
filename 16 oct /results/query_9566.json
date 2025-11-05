@@ -1,0 +1,10 @@
+{
+    "query": "What specific lines from Dickinson\u2019s poems are referenced in several of the provided texts?",
+    "response": [
+        "doc_5516.txt",
+        "doc_5509.txt",
+        "doc_5513.txt",
+        "doc_16749.txt",
+        "doc_17758.txt"
+    ]
+}

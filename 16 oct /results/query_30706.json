@@ -1,0 +1,10 @@
+{
+    "query": "What is the Holmenkollen ski jump described as?",
+    "response": [
+        "doc_17854.txt",
+        "doc_17863.txt",
+        "doc_17852.txt",
+        "doc_17862.txt",
+        "doc_17853.txt"
+    ]
+}

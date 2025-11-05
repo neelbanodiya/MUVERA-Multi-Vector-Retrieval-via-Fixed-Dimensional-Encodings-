@@ -1,0 +1,10 @@
+{
+    "query": "Where did Hitler spend his final days during the war, and what was this location?",
+    "response": [
+        "doc_4348.txt",
+        "doc_4345.txt",
+        "doc_4346.txt",
+        "doc_4347.txt",
+        "doc_4343.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the location of the Ottawa National Forest?",
+    "response": [
+        "doc_18420.txt",
+        "doc_16630.txt",
+        "doc_3657.txt",
+        "doc_15477.txt",
+        "doc_9328.txt"
+    ]
+}

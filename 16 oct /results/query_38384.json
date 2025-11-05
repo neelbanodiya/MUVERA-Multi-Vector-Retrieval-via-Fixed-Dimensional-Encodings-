@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission\u2019s stance on whether the Irish government prevents Irish residents from purchasing health insurance from UK companies?",
+    "response": [
+        "doc_22511.txt",
+        "doc_19156.txt",
+        "doc_19073.txt",
+        "doc_14301.txt",
+        "doc_4502.txt"
+    ]
+}

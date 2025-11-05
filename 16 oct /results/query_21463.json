@@ -1,0 +1,10 @@
+{
+    "query": "What event occurred on March 17, 1776, in Boston?",
+    "response": [
+        "doc_12368.txt",
+        "doc_12370.txt",
+        "doc_4313.txt",
+        "doc_19842.txt",
+        "doc_19841.txt"
+    ]
+}

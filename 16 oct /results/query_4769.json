@@ -1,0 +1,10 @@
+{
+    "query": "Who was the presidential candidate chosen by the Know Nothings in 1856?",
+    "response": [
+        "doc_16806.txt",
+        "doc_16807.txt",
+        "doc_2767.txt",
+        "doc_2768.txt",
+        "doc_16805.txt"
+    ]
+}

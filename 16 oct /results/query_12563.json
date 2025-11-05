@@ -1,0 +1,10 @@
+{
+    "query": "What type of transportation was used to connect most cities in Russia after the breakup of the Soviet Union?",
+    "response": [
+        "doc_17782.txt",
+        "doc_20862.txt",
+        "doc_16789.txt",
+        "doc_23521.txt",
+        "doc_16793.txt"
+    ]
+}

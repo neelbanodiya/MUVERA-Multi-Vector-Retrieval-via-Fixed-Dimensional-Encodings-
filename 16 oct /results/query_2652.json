@@ -1,0 +1,10 @@
+{
+    "query": "What does the acronym \u201cK.I.S.S.\u201d stand for, according to the text?",
+    "response": [
+        "doc_12129.txt",
+        "doc_1589.txt",
+        "doc_12393.txt",
+        "doc_1189.txt",
+        "doc_12128.txt"
+    ]
+}

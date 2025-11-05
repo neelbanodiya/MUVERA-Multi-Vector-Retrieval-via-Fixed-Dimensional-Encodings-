@@ -1,0 +1,10 @@
+{
+    "query": "What year did the Pittsburgh Penguins draft their 3rd pick (47th overall)?",
+    "response": [
+        "doc_2002.txt",
+        "doc_21627.txt",
+        "doc_1995.txt",
+        "doc_1997.txt",
+        "doc_2003.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What movie features Walter Matthau as a Little League coach?",
+    "response": [
+        "doc_3771.txt",
+        "doc_3783.txt",
+        "doc_3784.txt",
+        "doc_3787.txt",
+        "doc_3773.txt"
+    ]
+}

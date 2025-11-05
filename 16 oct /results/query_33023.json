@@ -1,0 +1,10 @@
+{
+    "query": "When did Zheng He die, and in what location?",
+    "response": [
+        "doc_19232.txt",
+        "doc_10449.txt",
+        "doc_3995.txt",
+        "doc_1277.txt",
+        "doc_1395.txt"
+    ]
+}

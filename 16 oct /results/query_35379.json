@@ -1,0 +1,10 @@
+{
+    "query": "Who is Lampwick and what happens to him?",
+    "response": [
+        "doc_9771.txt",
+        "doc_16033.txt",
+        "doc_15395.txt",
+        "doc_14426.txt",
+        "doc_18832.txt"
+    ]
+}

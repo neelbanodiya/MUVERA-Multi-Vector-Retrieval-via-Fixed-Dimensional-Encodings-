@@ -1,0 +1,10 @@
+{
+    "query": "How has Russia been attempting to gain influence in Syria, according to one of the linked articles?",
+    "response": [
+        "doc_15260.txt",
+        "doc_14971.txt",
+        "doc_18380.txt",
+        "doc_13813.txt",
+        "doc_18361.txt"
+    ]
+}

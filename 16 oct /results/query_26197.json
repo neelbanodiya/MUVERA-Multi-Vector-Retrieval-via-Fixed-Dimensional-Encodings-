@@ -1,0 +1,10 @@
+{
+    "query": "What country did H.E. Mr. Brge Brende represent as Chair of the Designated Board?",
+    "response": [
+        "doc_13370.txt",
+        "doc_16706.txt",
+        "doc_24201.txt",
+        "doc_11439.txt",
+        "doc_21624.txt"
+    ]
+}

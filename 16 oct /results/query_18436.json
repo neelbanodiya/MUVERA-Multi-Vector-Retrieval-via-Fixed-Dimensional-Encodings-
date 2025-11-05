@@ -1,0 +1,10 @@
+{
+    "query": "What type of dish, featuring \u201csmall golden eggs,\u201d is mentioned in a Russian article from 1900?",
+    "response": [
+        "doc_5794.txt",
+        "doc_10685.txt",
+        "doc_10689.txt",
+        "doc_10687.txt",
+        "doc_23445.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What natural feature is mentioned as being separated from China by the events described?",
+    "response": [
+        "doc_805.txt",
+        "doc_10500.txt",
+        "doc_5685.txt",
+        "doc_3871.txt",
+        "doc_15045.txt"
+    ]
+}

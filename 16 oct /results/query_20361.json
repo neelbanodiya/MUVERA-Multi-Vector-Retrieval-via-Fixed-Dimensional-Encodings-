@@ -1,0 +1,10 @@
+{
+    "query": "What was the original spelling of the Hollywood Sign when it was first erected in 1923?",
+    "response": [
+        "doc_11760.txt",
+        "doc_11746.txt",
+        "doc_11751.txt",
+        "doc_11744.txt",
+        "doc_11743.txt"
+    ]
+}

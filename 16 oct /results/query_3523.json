@@ -1,0 +1,10 @@
+{
+    "query": "According to the OCU, what potential health risks are associated with high levels of trihalomethanes?",
+    "response": [
+        "doc_2087.txt",
+        "doc_5560.txt",
+        "doc_16415.txt",
+        "doc_10500.txt",
+        "doc_7788.txt"
+    ]
+}

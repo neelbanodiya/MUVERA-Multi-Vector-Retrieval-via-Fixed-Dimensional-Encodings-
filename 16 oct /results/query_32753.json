@@ -1,0 +1,10 @@
+{
+    "query": "What caused destruction across a large area following Hurricane Katrina?",
+    "response": [
+        "doc_19074.txt",
+        "doc_19077.txt",
+        "doc_19079.txt",
+        "doc_19792.txt",
+        "doc_4548.txt"
+    ]
+}

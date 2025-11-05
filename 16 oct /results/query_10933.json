@@ -1,0 +1,10 @@
+{
+    "query": "How is the Holy Eucharist celebrated, according to the passage?",
+    "response": [
+        "doc_99.txt",
+        "doc_94.txt",
+        "doc_6327.txt",
+        "doc_20628.txt",
+        "doc_102.txt"
+    ]
+}

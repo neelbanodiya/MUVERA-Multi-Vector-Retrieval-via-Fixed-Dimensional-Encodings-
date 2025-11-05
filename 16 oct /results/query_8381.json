@@ -1,0 +1,10 @@
+{
+    "query": "What type of stone is the Sphinx made of?",
+    "response": [
+        "doc_7259.txt",
+        "doc_7260.txt",
+        "doc_4333.txt",
+        "doc_12280.txt",
+        "doc_12273.txt"
+    ]
+}

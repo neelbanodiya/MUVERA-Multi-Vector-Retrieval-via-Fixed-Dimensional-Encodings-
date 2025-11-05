@@ -1,0 +1,10 @@
+{
+    "query": "When did Hofstra University hold its first four-year commencement?",
+    "response": [
+        "doc_19359.txt",
+        "doc_8981.txt",
+        "doc_10710.txt",
+        "doc_6613.txt",
+        "doc_19123.txt"
+    ]
+}

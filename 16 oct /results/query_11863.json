@@ -1,0 +1,10 @@
+{
+    "query": "What specific location in San Francisco is mentioned as a place to experience the cable cars?",
+    "response": [
+        "doc_6886.txt",
+        "doc_6888.txt",
+        "doc_6897.txt",
+        "doc_17819.txt",
+        "doc_17818.txt"
+    ]
+}

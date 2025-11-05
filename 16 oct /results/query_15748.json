@@ -1,0 +1,10 @@
+{
+    "query": "What was John the Baptist\u2019s relationship to Herodias\u2019s daughter?",
+    "response": [
+        "doc_9127.txt",
+        "doc_9132.txt",
+        "doc_9125.txt",
+        "doc_9131.txt",
+        "doc_9130.txt"
+    ]
+}

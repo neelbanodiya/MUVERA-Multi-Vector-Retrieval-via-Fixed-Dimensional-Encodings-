@@ -1,0 +1,10 @@
+{
+    "query": "What action is the Parliament calling for regarding archives related to World War II?",
+    "response": [
+        "doc_1630.txt",
+        "doc_1631.txt",
+        "doc_3090.txt",
+        "doc_13346.txt",
+        "doc_17247.txt"
+    ]
+}

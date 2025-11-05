@@ -1,0 +1,10 @@
+{
+    "query": "What event occurred in North America during the Great Ice Age, as described in one of the linked documents?",
+    "response": [
+        "doc_10049.txt",
+        "doc_10500.txt",
+        "doc_23888.txt",
+        "doc_7217.txt",
+        "doc_8938.txt"
+    ]
+}

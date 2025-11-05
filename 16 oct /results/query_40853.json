@@ -1,0 +1,10 @@
+{
+    "query": "What historical periods are associated with the Chunar Fort?",
+    "response": [
+        "doc_23871.txt",
+        "doc_22403.txt",
+        "doc_7346.txt",
+        "doc_7342.txt",
+        "doc_7358.txt"
+    ]
+}

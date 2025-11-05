@@ -1,0 +1,10 @@
+{
+    "query": "What is Sadie\u2019s reputation within the text?",
+    "response": [
+        "doc_14548.txt",
+        "doc_2766.txt",
+        "doc_15452.txt",
+        "doc_2896.txt",
+        "doc_8659.txt"
+    ]
+}

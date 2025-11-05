@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what type of cruise operates on the Mersey River in Liverpool?",
+    "response": [
+        "doc_3483.txt",
+        "doc_3488.txt",
+        "doc_3492.txt",
+        "doc_3487.txt",
+        "doc_3484.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which NHL player had their number 12 jersey retired by Dsseldorfer EG?",
+    "response": [
+        "doc_1995.txt",
+        "doc_15538.txt",
+        "doc_15537.txt",
+        "doc_15539.txt",
+        "doc_12778.txt"
+    ]
+}

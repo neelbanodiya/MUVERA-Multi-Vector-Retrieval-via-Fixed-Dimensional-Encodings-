@@ -1,0 +1,10 @@
+{
+    "query": "What kind of role did Julia Roberts play in the film described?",
+    "response": [
+        "doc_1810.txt",
+        "doc_22855.txt",
+        "doc_1811.txt",
+        "doc_23563.txt",
+        "doc_4641.txt"
+    ]
+}

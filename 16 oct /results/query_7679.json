@@ -1,0 +1,10 @@
+{
+    "query": "Which character, besides Seinfeld, was initially considered for the role of David in the early stages of *Seinfeld*\u2019s development?",
+    "response": [
+        "doc_479.txt",
+        "doc_22894.txt",
+        "doc_11495.txt",
+        "doc_20128.txt",
+        "doc_11752.txt"
+    ]
+}

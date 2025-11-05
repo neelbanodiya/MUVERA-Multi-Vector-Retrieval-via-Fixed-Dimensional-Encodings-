@@ -1,0 +1,10 @@
+{
+    "query": "The passage mentions a connection between the American flag and a specific political figure; who is associated with this imagery?",
+    "response": [
+        "doc_1920.txt",
+        "doc_21017.txt",
+        "doc_21236.txt",
+        "doc_7643.txt",
+        "doc_20311.txt"
+    ]
+}

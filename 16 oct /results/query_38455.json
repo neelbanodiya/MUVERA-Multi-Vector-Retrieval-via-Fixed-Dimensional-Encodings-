@@ -1,0 +1,10 @@
+{
+    "query": "In July of 1982, which song by Joan Jett and The Blackhearts charted?",
+    "response": [
+        "doc_22547.txt",
+        "doc_22564.txt",
+        "doc_22562.txt",
+        "doc_22551.txt",
+        "doc_22548.txt"
+    ]
+}

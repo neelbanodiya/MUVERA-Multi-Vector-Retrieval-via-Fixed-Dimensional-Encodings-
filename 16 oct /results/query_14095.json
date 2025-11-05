@@ -1,0 +1,10 @@
+{
+    "query": "Which composer created an operatic version of \u201cThe Fall of the House of Usher\u201d in 1987?",
+    "response": [
+        "doc_8165.txt",
+        "doc_8172.txt",
+        "doc_8171.txt",
+        "doc_8179.txt",
+        "doc_8170.txt"
+    ]
+}

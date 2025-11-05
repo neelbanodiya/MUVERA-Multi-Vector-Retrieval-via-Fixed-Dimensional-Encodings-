@@ -1,0 +1,10 @@
+{
+    "query": "How did the ancient Greeks relate the four elements to the four fluids within the human body?",
+    "response": [
+        "doc_5000.txt",
+        "doc_5003.txt",
+        "doc_5005.txt",
+        "doc_4999.txt",
+        "doc_5004.txt"
+    ]
+}

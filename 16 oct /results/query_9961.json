@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Amelia Earhart and her navigator attempt to fly around the world?",
+    "response": [
+        "doc_1330.txt",
+        "doc_1339.txt",
+        "doc_5778.txt",
+        "doc_5775.txt",
+        "doc_1335.txt"
+    ]
+}

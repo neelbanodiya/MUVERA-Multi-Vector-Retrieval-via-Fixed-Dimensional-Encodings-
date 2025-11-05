@@ -1,0 +1,10 @@
+{
+    "query": "Which countries are proposed to be involved in creating a radio network to broadcast to Belarus?",
+    "response": [
+        "doc_23377.txt",
+        "doc_23376.txt",
+        "doc_4158.txt",
+        "doc_14689.txt",
+        "doc_4159.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year was the song \u201cOnce Bitten\u2026Twice Shy\u201d by Shy released?",
+    "response": [
+        "doc_23914.txt",
+        "doc_23917.txt",
+        "doc_23913.txt",
+        "doc_23911.txt",
+        "doc_23915.txt"
+    ]
+}

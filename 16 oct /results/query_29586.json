@@ -1,0 +1,10 @@
+{
+    "query": "Where did Walt Disney film \u201cWalt Before Mickey\u201d?",
+    "response": [
+        "doc_17197.txt",
+        "doc_17190.txt",
+        "doc_17198.txt",
+        "doc_17195.txt",
+        "doc_17199.txt"
+    ]
+}

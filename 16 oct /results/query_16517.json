@@ -1,0 +1,10 @@
+{
+    "query": "What kind of story is described as being \u201cabout Savannah and the characters that give pulse to that city\u201d?",
+    "response": [
+        "doc_9604.txt",
+        "doc_9602.txt",
+        "doc_4757.txt",
+        "doc_1811.txt",
+        "doc_1908.txt"
+    ]
+}

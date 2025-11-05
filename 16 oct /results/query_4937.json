@@ -1,0 +1,10 @@
+{
+    "query": "How tall is the natural bridge at Natural Bridge State Resort Park?",
+    "response": [
+        "doc_2880.txt",
+        "doc_2879.txt",
+        "doc_2881.txt",
+        "doc_5188.txt",
+        "doc_18128.txt"
+    ]
+}

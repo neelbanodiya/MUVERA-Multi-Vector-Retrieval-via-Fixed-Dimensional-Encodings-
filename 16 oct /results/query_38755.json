@@ -1,0 +1,10 @@
+{
+    "query": "How many Dalai Lamas have there been in the history of Buddhism?",
+    "response": [
+        "doc_22702.txt",
+        "doc_22710.txt",
+        "doc_18574.txt",
+        "doc_22703.txt",
+        "doc_22706.txt"
+    ]
+}

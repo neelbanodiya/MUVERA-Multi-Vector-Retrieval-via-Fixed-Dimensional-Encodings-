@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of the people of Chad participated in the presidential elections held on 20 May 2001?",
+    "response": [
+        "doc_8724.txt",
+        "doc_1852.txt",
+        "doc_22717.txt",
+        "doc_22718.txt",
+        "doc_15078.txt"
+    ]
+}

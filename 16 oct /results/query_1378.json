@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what kind of music plays in Town Hall when Phyllis is working?",
+    "response": [
+        "doc_777.txt",
+        "doc_18215.txt",
+        "doc_5318.txt",
+        "doc_23865.txt",
+        "doc_19137.txt"
+    ]
+}

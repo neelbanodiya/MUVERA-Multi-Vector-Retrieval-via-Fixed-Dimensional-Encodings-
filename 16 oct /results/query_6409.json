@@ -1,0 +1,10 @@
+{
+    "query": "What specific group of Burmese citizens are fleeing their country, according to the passage?",
+    "response": [
+        "doc_3708.txt",
+        "doc_3709.txt",
+        "doc_14790.txt",
+        "doc_19042.txt",
+        "doc_14440.txt"
+    ]
+}

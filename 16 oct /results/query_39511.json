@@ -1,0 +1,10 @@
+{
+    "query": "What was the estimated cost of developing the Xbox One?",
+    "response": [
+        "doc_18657.txt",
+        "doc_15103.txt",
+        "doc_18007.txt",
+        "doc_2668.txt",
+        "doc_5560.txt"
+    ]
+}

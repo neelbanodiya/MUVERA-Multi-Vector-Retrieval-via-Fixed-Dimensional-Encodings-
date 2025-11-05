@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Washington and his command at Fort Necessity force the French to retreat?",
+    "response": [
+        "doc_4015.txt",
+        "doc_4018.txt",
+        "doc_4014.txt",
+        "doc_4022.txt",
+        "doc_4019.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In which film did Walter Matthau play the role of a dying father?",
+    "response": [
+        "doc_18098.txt",
+        "doc_18104.txt",
+        "doc_18100.txt",
+        "doc_16925.txt",
+        "doc_23280.txt"
+    ]
+}

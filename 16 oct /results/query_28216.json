@@ -1,0 +1,10 @@
+{
+    "query": "What action must the manufacturer take if the Commission requests an updated technical file related to a derogation application?",
+    "response": [
+        "doc_16403.txt",
+        "doc_16397.txt",
+        "doc_16401.txt",
+        "doc_16745.txt",
+        "doc_4502.txt"
+    ]
+}

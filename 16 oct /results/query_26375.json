@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the novel for which Emile Zola was famous?",
+    "response": [
+        "doc_4655.txt",
+        "doc_19983.txt",
+        "doc_21960.txt",
+        "doc_6298.txt",
+        "doc_7110.txt"
+    ]
+}

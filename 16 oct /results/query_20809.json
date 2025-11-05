@@ -1,0 +1,10 @@
+{
+    "query": "How much money was raised for famine relief in Africa as a result of the Live Aid concerts?",
+    "response": [
+        "doc_12010.txt",
+        "doc_12026.txt",
+        "doc_12008.txt",
+        "doc_12017.txt",
+        "doc_12009.txt"
+    ]
+}

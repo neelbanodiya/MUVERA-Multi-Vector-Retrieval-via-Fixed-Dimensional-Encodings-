@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the Roman city that later became Lisbon?",
+    "response": [
+        "doc_17642.txt",
+        "doc_17643.txt",
+        "doc_22327.txt",
+        "doc_8350.txt",
+        "doc_5418.txt"
+    ]
+}

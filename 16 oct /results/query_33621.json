@@ -1,0 +1,10 @@
+{
+    "query": "Which real-life serial killers are the characters Henry and Otis loosely based on?",
+    "response": [
+        "doc_19588.txt",
+        "doc_19589.txt",
+        "doc_18953.txt",
+        "doc_769.txt",
+        "doc_6074.txt"
+    ]
+}

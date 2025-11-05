@@ -1,0 +1,10 @@
+{
+    "query": "What was the Smashing Pumpkins\u2019 preferred album?",
+    "response": [
+        "doc_10070.txt",
+        "doc_24155.txt",
+        "doc_12338.txt",
+        "doc_9871.txt",
+        "doc_7718.txt"
+    ]
+}

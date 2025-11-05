@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the collection of letters, \u201cFrom Main Street to Stockholm,\u201d published?",
+    "response": [
+        "doc_15828.txt",
+        "doc_15831.txt",
+        "doc_15832.txt",
+        "doc_19984.txt",
+        "doc_19983.txt"
+    ]
+}

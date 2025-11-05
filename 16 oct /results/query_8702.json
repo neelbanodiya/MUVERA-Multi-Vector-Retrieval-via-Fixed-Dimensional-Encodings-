@@ -1,0 +1,10 @@
+{
+    "query": "When did Christopher Columbus\u2019s third voyage occur?",
+    "response": [
+        "doc_5025.txt",
+        "doc_5026.txt",
+        "doc_5024.txt",
+        "doc_13832.txt",
+        "doc_5027.txt"
+    ]
+}

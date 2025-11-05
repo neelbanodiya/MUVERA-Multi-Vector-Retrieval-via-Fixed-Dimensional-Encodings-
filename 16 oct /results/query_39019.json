@@ -1,0 +1,10 @@
+{
+    "query": "Where was *The Squaw Man* filmed?",
+    "response": [
+        "doc_22831.txt",
+        "doc_1323.txt",
+        "doc_9004.txt",
+        "doc_8997.txt",
+        "doc_582.txt"
+    ]
+}

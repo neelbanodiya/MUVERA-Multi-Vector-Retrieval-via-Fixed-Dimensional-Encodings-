@@ -1,0 +1,10 @@
+{
+    "query": "How many Best Supporting Actor awards has the Academy of Motion Picture Arts and Sciences presented since the award\u2019s inception?",
+    "response": [
+        "doc_20158.txt",
+        "doc_21157.txt",
+        "doc_4909.txt",
+        "doc_16983.txt",
+        "doc_18934.txt"
+    ]
+}

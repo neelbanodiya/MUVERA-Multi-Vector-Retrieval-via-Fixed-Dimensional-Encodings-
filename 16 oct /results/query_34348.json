@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the memoir \u201cNa vlastn\u00ed k\u016f\u017ei\u201d originally published in Canada?",
+    "response": [
+        "doc_19983.txt",
+        "doc_19984.txt",
+        "doc_10391.txt",
+        "doc_5109.txt",
+        "doc_9198.txt"
+    ]
+}

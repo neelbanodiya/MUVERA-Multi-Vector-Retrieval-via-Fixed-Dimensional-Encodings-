@@ -1,0 +1,10 @@
+{
+    "query": "Which autonomous regions are located in northern Spain?",
+    "response": [
+        "doc_1001.txt",
+        "doc_1002.txt",
+        "doc_1004.txt",
+        "doc_1009.txt",
+        "doc_1008.txt"
+    ]
+}

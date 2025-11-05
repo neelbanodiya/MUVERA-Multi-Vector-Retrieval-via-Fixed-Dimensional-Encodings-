@@ -1,0 +1,10 @@
+{
+    "query": "Which author wrote the original novel, *Rosemary's Baby*?",
+    "response": [
+        "doc_3863.txt",
+        "doc_3864.txt",
+        "doc_3862.txt",
+        "doc_3866.txt",
+        "doc_3867.txt"
+    ]
+}

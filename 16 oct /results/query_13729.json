@@ -1,0 +1,10 @@
+{
+    "query": "When was the political agreement on the CAP reform package reached by the Council?",
+    "response": [
+        "doc_17471.txt",
+        "doc_9679.txt",
+        "doc_22298.txt",
+        "doc_3796.txt",
+        "doc_21334.txt"
+    ]
+}

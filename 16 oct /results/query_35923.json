@@ -1,0 +1,10 @@
+{
+    "query": "Which NFL teams drafted Bill Lapham?",
+    "response": [
+        "doc_20935.txt",
+        "doc_20936.txt",
+        "doc_5390.txt",
+        "doc_20937.txt",
+        "doc_21944.txt"
+    ]
+}

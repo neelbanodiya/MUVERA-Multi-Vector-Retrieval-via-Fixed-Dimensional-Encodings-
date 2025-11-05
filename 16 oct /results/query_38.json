@@ -1,0 +1,10 @@
+{
+    "query": "According to Richard Wolff, what kind of economic organizing is being suggested?",
+    "response": [
+        "doc_21.txt",
+        "doc_20691.txt",
+        "doc_2486.txt",
+        "doc_15031.txt",
+        "doc_14093.txt"
+    ]
+}

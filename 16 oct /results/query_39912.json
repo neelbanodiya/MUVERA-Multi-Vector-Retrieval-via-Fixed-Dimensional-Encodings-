@@ -1,0 +1,10 @@
+{
+    "query": "Who built Venice as a beach resort town in 1905?",
+    "response": [
+        "doc_23368.txt",
+        "doc_23369.txt",
+        "doc_23367.txt",
+        "doc_23364.txt",
+        "doc_23363.txt"
+    ]
+}

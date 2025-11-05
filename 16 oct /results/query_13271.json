@@ -1,0 +1,10 @@
+{
+    "query": "Which specific products are covered by the tariff quota agreement between the EU and New Zealand?",
+    "response": [
+        "doc_7774.txt",
+        "doc_24184.txt",
+        "doc_19418.txt",
+        "doc_19745.txt",
+        "doc_5289.txt"
+    ]
+}

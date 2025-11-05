@@ -1,0 +1,10 @@
+{
+    "query": "What role did Mia Farrow play in the television series *Peyton Place*?",
+    "response": [
+        "doc_730.txt",
+        "doc_727.txt",
+        "doc_736.txt",
+        "doc_731.txt",
+        "doc_7073.txt"
+    ]
+}

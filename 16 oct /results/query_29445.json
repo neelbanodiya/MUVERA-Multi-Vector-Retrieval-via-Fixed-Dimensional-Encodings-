@@ -1,0 +1,10 @@
+{
+    "query": "In what year were the three new \u201cStar Wars\u201d comics by Marvel announced?",
+    "response": [
+        "doc_423.txt",
+        "doc_17129.txt",
+        "doc_17130.txt",
+        "doc_18583.txt",
+        "doc_18582.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was a notable challenge faced by Joe Louis after his defeat by Max Schmeling?",
+    "response": [
+        "doc_11861.txt",
+        "doc_22446.txt",
+        "doc_2702.txt",
+        "doc_22068.txt",
+        "doc_12734.txt"
+    ]
+}

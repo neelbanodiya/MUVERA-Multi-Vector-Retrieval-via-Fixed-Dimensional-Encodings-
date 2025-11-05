@@ -1,0 +1,10 @@
+{
+    "query": "What type of boats are associated with the state of Louisiana and their inland waterway traditions?",
+    "response": [
+        "doc_4412.txt",
+        "doc_8369.txt",
+        "doc_22829.txt",
+        "doc_4413.txt",
+        "doc_12061.txt"
+    ]
+}

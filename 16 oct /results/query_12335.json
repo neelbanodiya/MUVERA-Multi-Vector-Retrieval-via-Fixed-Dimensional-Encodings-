@@ -1,0 +1,10 @@
+{
+    "query": "Who are the main characters in the *Gilmore Girls* series?",
+    "response": [
+        "doc_7179.txt",
+        "doc_7180.txt",
+        "doc_7181.txt",
+        "doc_7195.txt",
+        "doc_7189.txt"
+    ]
+}

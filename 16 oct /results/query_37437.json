@@ -1,0 +1,10 @@
+{
+    "query": "What is a French term for edible mushrooms, as referenced in the passage?",
+    "response": [
+        "doc_21924.txt",
+        "doc_21926.txt",
+        "doc_21925.txt",
+        "doc_21921.txt",
+        "doc_21919.txt"
+    ]
+}

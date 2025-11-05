@@ -1,0 +1,10 @@
+{
+    "query": "Which ancient Japanese anthology is described as the \"first anthology of waka compiled at the behest of the...\"?",
+    "response": [
+        "doc_7130.txt",
+        "doc_7137.txt",
+        "doc_1306.txt",
+        "doc_11703.txt",
+        "doc_15298.txt"
+    ]
+}

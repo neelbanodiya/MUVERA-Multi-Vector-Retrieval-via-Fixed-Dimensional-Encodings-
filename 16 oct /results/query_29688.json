@@ -1,0 +1,10 @@
+{
+    "query": "What is the current status of the Syrian presence in Lebanon, as assessed by the Council?",
+    "response": [
+        "doc_17255.txt",
+        "doc_14971.txt",
+        "doc_15260.txt",
+        "doc_10839.txt",
+        "doc_2030.txt"
+    ]
+}

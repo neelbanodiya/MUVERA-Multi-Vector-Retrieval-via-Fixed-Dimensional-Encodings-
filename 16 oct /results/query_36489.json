@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the center of the Milky Way galaxy?",
+    "response": [
+        "doc_4061.txt",
+        "doc_21463.txt",
+        "doc_7259.txt",
+        "doc_7641.txt",
+        "doc_8685.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was Austin High School opened, and in whose honor was it named?",
+    "response": [
+        "doc_4741.txt",
+        "doc_3834.txt",
+        "doc_3835.txt",
+        "doc_22508.txt",
+        "doc_19359.txt"
+    ]
+}

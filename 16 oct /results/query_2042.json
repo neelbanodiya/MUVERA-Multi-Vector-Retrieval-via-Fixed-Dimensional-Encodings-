@@ -1,0 +1,10 @@
+{
+    "query": "What languages were influenced by the translation of the Bible, particularly in the 16th century?",
+    "response": [
+        "doc_1225.txt",
+        "doc_1224.txt",
+        "doc_1227.txt",
+        "doc_14711.txt",
+        "doc_18073.txt"
+    ]
+}

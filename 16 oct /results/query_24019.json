@@ -1,0 +1,10 @@
+{
+    "query": "What type of substances does Council Directive 76/769/EEC relate to restrictions on?",
+    "response": [
+        "doc_13932.txt",
+        "doc_13931.txt",
+        "doc_16396.txt",
+        "doc_16407.txt",
+        "doc_18738.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject of the \"150 Best 'The Simpsons' Episodes\" marathon featured on FXX?",
+    "response": [
+        "doc_3723.txt",
+        "doc_6683.txt",
+        "doc_12732.txt",
+        "doc_3699.txt",
+        "doc_12733.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which arrondissement in Paris is described as being ideal for visiting on foot, by metro, or by bus?",
+    "response": [
+        "doc_23261.txt",
+        "doc_11054.txt",
+        "doc_20245.txt",
+        "doc_3668.txt",
+        "doc_12333.txt"
+    ]
+}

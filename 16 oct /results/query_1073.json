@@ -1,0 +1,10 @@
+{
+    "query": "When did Yuri Gagarin make his journey into outer space?",
+    "response": [
+        "doc_602.txt",
+        "doc_617.txt",
+        "doc_600.txt",
+        "doc_604.txt",
+        "doc_607.txt"
+    ]
+}

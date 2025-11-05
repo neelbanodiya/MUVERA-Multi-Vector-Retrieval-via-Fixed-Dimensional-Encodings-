@@ -1,0 +1,10 @@
+{
+    "query": "At what age did Richard II become King of England?",
+    "response": [
+        "doc_7331.txt",
+        "doc_7322.txt",
+        "doc_431.txt",
+        "doc_7330.txt",
+        "doc_460.txt"
+    ]
+}

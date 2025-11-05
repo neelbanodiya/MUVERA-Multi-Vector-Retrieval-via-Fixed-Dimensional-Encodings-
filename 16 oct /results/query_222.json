@@ -1,0 +1,10 @@
+{
+    "query": "When was the \u201cWorkers of the World, Unite\u201d manifesto released?",
+    "response": [
+        "doc_112.txt",
+        "doc_113.txt",
+        "doc_109.txt",
+        "doc_115.txt",
+        "doc_116.txt"
+    ]
+}

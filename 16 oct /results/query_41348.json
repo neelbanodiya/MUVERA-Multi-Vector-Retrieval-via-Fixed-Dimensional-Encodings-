@@ -1,0 +1,10 @@
+{
+    "query": "What type of tournament did the top two teams from each group advance to after the group stage of the 2009 FIFA Confederations Cup?",
+    "response": [
+        "doc_24229.txt",
+        "doc_24227.txt",
+        "doc_24228.txt",
+        "doc_18657.txt",
+        "doc_10378.txt"
+    ]
+}

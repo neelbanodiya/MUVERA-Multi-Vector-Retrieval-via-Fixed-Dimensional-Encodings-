@@ -1,0 +1,10 @@
+{
+    "query": "When was the LONE STAR BREWERY built?",
+    "response": [
+        "doc_7176.txt",
+        "doc_7174.txt",
+        "doc_7175.txt",
+        "doc_7173.txt",
+        "doc_7177.txt"
+    ]
+}

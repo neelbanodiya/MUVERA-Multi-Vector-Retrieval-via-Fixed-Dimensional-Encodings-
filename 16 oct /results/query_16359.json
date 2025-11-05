@@ -1,0 +1,10 @@
+{
+    "query": "What was Ludwig's relationship to Wagner?",
+    "response": [
+        "doc_14182.txt",
+        "doc_9486.txt",
+        "doc_167.txt",
+        "doc_9768.txt",
+        "doc_10194.txt"
+    ]
+}

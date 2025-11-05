@@ -1,0 +1,10 @@
+{
+    "query": "Who is Patrick F. McManus and what type of writing does he do?",
+    "response": [
+        "doc_1724.txt",
+        "doc_1725.txt",
+        "doc_12902.txt",
+        "doc_350.txt",
+        "doc_8121.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the caboose sold to the Tennessee Valley Railroad Museum?",
+    "response": [
+        "doc_16583.txt",
+        "doc_16579.txt",
+        "doc_16582.txt",
+        "doc_16585.txt",
+        "doc_16580.txt"
+    ]
+}

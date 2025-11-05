@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject of the satire mentioned in relation to the Man Booker Prize?",
+    "response": [
+        "doc_9185.txt",
+        "doc_623.txt",
+        "doc_15893.txt",
+        "doc_5318.txt",
+        "doc_7846.txt"
+    ]
+}

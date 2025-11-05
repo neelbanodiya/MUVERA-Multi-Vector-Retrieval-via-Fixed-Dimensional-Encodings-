@@ -1,0 +1,10 @@
+{
+    "query": "What does a \u201cfishing authorisation\u201d grant a Community fishing vessel?",
+    "response": [
+        "doc_12091.txt",
+        "doc_12070.txt",
+        "doc_12113.txt",
+        "doc_12105.txt",
+        "doc_19656.txt"
+    ]
+}

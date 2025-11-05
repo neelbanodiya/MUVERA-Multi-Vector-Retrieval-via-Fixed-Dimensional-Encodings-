@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate distance between the Westchester and Fairfax high schools involved in the basketball rivalry?",
+    "response": [
+        "doc_4741.txt",
+        "doc_10512.txt",
+        "doc_8057.txt",
+        "doc_18564.txt",
+        "doc_18558.txt"
+    ]
+}

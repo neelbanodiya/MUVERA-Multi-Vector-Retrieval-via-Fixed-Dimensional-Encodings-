@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Tommy Chong appear on the show *Nash Bridges*?",
+    "response": [
+        "doc_5203.txt",
+        "doc_5202.txt",
+        "doc_5205.txt",
+        "doc_5201.txt",
+        "doc_5206.txt"
+    ]
+}

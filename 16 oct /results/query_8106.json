@@ -1,0 +1,10 @@
+{
+    "query": "What does the German name \u201cHolbein\u201d mean, according to the passage?",
+    "response": [
+        "doc_4694.txt",
+        "doc_21501.txt",
+        "doc_21504.txt",
+        "doc_12501.txt",
+        "doc_8296.txt"
+    ]
+}

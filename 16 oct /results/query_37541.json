@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Tiffany & Co. store located?",
+    "response": [
+        "doc_9778.txt",
+        "doc_2180.txt",
+        "doc_9777.txt",
+        "doc_21992.txt",
+        "doc_2257.txt"
+    ]
+}

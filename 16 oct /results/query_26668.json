@@ -1,0 +1,10 @@
+{
+    "query": "What was Olof Palme\u2019s nationality?",
+    "response": [
+        "doc_15501.txt",
+        "doc_15494.txt",
+        "doc_5500.txt",
+        "doc_9190.txt",
+        "doc_15496.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was assembled as a museum in San Francisco, surpassing any private collection?",
+    "response": [
+        "doc_14728.txt",
+        "doc_8508.txt",
+        "doc_20386.txt",
+        "doc_20379.txt",
+        "doc_8506.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Harvard professor coached William Alfred, and what was his role in *The Paper Chase*?",
+    "response": [
+        "doc_11916.txt",
+        "doc_1941.txt",
+        "doc_15277.txt",
+        "doc_15265.txt",
+        "doc_21060.txt"
+    ]
+}

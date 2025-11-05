@@ -1,0 +1,10 @@
+{
+    "query": "What are the subsidy amounts per hectare for hill farms in the UK?",
+    "response": [
+        "doc_17125.txt",
+        "doc_454.txt",
+        "doc_19645.txt",
+        "doc_7431.txt",
+        "doc_18376.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What specific regulations must European institutions follow when awarding contracts?",
+    "response": [
+        "doc_15684.txt",
+        "doc_16524.txt",
+        "doc_23668.txt",
+        "doc_13342.txt",
+        "doc_3443.txt"
+    ]
+}

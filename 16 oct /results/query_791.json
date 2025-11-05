@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the album \u201cPrivate Revolution\u201d released?",
+    "response": [
+        "doc_8696.txt",
+        "doc_12258.txt",
+        "doc_8469.txt",
+        "doc_20314.txt",
+        "doc_16311.txt"
+    ]
+}

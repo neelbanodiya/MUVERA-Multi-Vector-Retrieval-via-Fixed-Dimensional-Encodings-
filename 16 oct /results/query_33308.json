@@ -1,0 +1,10 @@
+{
+    "query": "Where is the village of Arbanassi located?",
+    "response": [
+        "doc_16629.txt",
+        "doc_3657.txt",
+        "doc_21353.txt",
+        "doc_21710.txt",
+        "doc_15478.txt"
+    ]
+}

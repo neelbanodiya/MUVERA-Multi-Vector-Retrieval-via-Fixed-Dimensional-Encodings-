@@ -1,0 +1,10 @@
+{
+    "query": "What is the EU Commission currently doing to address the challenges faced by disabled people regarding public transport?",
+    "response": [
+        "doc_19051.txt",
+        "doc_5290.txt",
+        "doc_5291.txt",
+        "doc_23706.txt",
+        "doc_24111.txt"
+    ]
+}

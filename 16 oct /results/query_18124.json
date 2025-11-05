@@ -1,0 +1,10 @@
+{
+    "query": "Does the Commission believe an issue of European Community law is present in the case being discussed?",
+    "response": [
+        "doc_15776.txt",
+        "doc_12328.txt",
+        "doc_8051.txt",
+        "doc_6653.txt",
+        "doc_23224.txt"
+    ]
+}

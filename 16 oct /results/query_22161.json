@@ -1,0 +1,10 @@
+{
+    "query": "What year was Walter Van Tilburg Clark\u2019s novel, *The Ox-Bow Incident*, first published?",
+    "response": [
+        "doc_12782.txt",
+        "doc_12784.txt",
+        "doc_12788.txt",
+        "doc_12790.txt",
+        "doc_12796.txt"
+    ]
+}

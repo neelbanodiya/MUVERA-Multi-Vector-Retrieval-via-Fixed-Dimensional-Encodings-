@@ -1,0 +1,10 @@
+{
+    "query": "What was the outcome of the contest between John Henry and the steam drill?",
+    "response": [
+        "doc_1945.txt",
+        "doc_1953.txt",
+        "doc_1944.txt",
+        "doc_1950.txt",
+        "doc_1954.txt"
+    ]
+}

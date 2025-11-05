@@ -1,0 +1,10 @@
+{
+    "query": "When did *The Lucy Show* end?",
+    "response": [
+        "doc_775.txt",
+        "doc_22860.txt",
+        "doc_9705.txt",
+        "doc_3543.txt",
+        "doc_6950.txt"
+    ]
+}

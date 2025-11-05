@@ -1,0 +1,10 @@
+{
+    "query": "According to Richard Horsey, how many people are homeless and in need of immediate assistance in the Irrawaddy River Delta?",
+    "response": [
+        "doc_15165.txt",
+        "doc_4548.txt",
+        "doc_13075.txt",
+        "doc_19410.txt",
+        "doc_16565.txt"
+    ]
+}

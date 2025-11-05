@@ -1,0 +1,10 @@
+{
+    "query": "Several documents suggest a connection between international bankers and Bolshevik revolutionaries. Can you identify one of these documents?",
+    "response": [
+        "doc_14225.txt",
+        "doc_11986.txt",
+        "doc_11995.txt",
+        "doc_18798.txt",
+        "doc_11979.txt"
+    ]
+}

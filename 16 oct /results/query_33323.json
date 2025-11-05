@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject of infringement proceedings taken out by the Commission concerning the M-501 motorway?",
+    "response": [
+        "doc_5494.txt",
+        "doc_19417.txt",
+        "doc_12431.txt",
+        "doc_20922.txt",
+        "doc_8051.txt"
+    ]
+}

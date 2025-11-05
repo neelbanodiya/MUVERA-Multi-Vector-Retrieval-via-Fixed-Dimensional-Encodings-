@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote the memoir \u201cInside the Third Reich,\u201d and what was their role within the Nazi regime?",
+    "response": [
+        "doc_13738.txt",
+        "doc_13737.txt",
+        "doc_10136.txt",
+        "doc_13739.txt",
+        "doc_4345.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which artist did Technotronic open for, according to the provided text?",
+    "response": [
+        "doc_2858.txt",
+        "doc_15305.txt",
+        "doc_12713.txt",
+        "doc_7826.txt",
+        "doc_7825.txt"
+    ]
+}

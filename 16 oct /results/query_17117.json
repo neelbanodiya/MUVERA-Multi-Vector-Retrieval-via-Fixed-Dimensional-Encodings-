@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred in 1961 involving Rudolf Nureyev?",
+    "response": [
+        "doc_600.txt",
+        "doc_9672.txt",
+        "doc_20670.txt",
+        "doc_20673.txt",
+        "doc_20687.txt"
+    ]
+}

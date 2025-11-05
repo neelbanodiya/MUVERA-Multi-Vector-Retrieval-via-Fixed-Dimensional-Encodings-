@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote the music and lyrics for the musical *Mack & Mabel*?",
+    "response": [
+        "doc_7021.txt",
+        "doc_7023.txt",
+        "doc_7026.txt",
+        "doc_7024.txt",
+        "doc_7025.txt"
+    ]
+}

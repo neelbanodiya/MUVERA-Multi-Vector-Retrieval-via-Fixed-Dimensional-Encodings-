@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between the Aleutian Islands and the Bering Sea?",
+    "response": [
+        "doc_9610.txt",
+        "doc_9609.txt",
+        "doc_9611.txt",
+        "doc_9614.txt",
+        "doc_9608.txt"
+    ]
+}

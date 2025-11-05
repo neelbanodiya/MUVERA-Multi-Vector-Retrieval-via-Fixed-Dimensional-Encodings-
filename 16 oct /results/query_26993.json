@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what happened to Noah as a result of drinking wine?",
+    "response": [
+        "doc_15674.txt",
+        "doc_15679.txt",
+        "doc_15675.txt",
+        "doc_15680.txt",
+        "doc_15668.txt"
+    ]
+}

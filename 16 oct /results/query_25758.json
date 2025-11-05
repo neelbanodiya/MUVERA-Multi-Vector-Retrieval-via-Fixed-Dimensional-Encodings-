@@ -1,0 +1,10 @@
+{
+    "query": "How much does the USA spend annually on research and development compared to European countries like Germany and France?",
+    "response": [
+        "doc_14969.txt",
+        "doc_4906.txt",
+        "doc_19973.txt",
+        "doc_15493.txt",
+        "doc_5983.txt"
+    ]
+}

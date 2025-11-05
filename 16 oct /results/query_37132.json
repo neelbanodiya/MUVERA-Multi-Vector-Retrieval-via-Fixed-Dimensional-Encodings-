@@ -1,0 +1,10 @@
+{
+    "query": "What is the current level of global debt as a percentage of world gross domestic product, according to the IMF?",
+    "response": [
+        "doc_21726.txt",
+        "doc_23111.txt",
+        "doc_5560.txt",
+        "doc_17675.txt",
+        "doc_22797.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what titles does Isis hold?",
+    "response": [
+        "doc_12557.txt",
+        "doc_12558.txt",
+        "doc_12554.txt",
+        "doc_12559.txt",
+        "doc_12552.txt"
+    ]
+}

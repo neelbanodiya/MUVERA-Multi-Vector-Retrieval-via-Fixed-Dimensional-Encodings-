@@ -1,0 +1,10 @@
+{
+    "query": "What types of training does Famous Fido offer to help rescue dogs?",
+    "response": [
+        "doc_17017.txt",
+        "doc_10121.txt",
+        "doc_10119.txt",
+        "doc_5665.txt",
+        "doc_21154.txt"
+    ]
+}

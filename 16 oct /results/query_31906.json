@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the film *Kings Row* released, and who starred as Drake McHugh?",
+    "response": [
+        "doc_18596.txt",
+        "doc_18590.txt",
+        "doc_18591.txt",
+        "doc_18598.txt",
+        "doc_18600.txt"
+    ]
+}

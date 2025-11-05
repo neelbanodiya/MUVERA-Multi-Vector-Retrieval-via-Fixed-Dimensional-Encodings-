@@ -1,0 +1,10 @@
+{
+    "query": "What genre did Scott Turow popularize with his novel *Presumed Innocent*?",
+    "response": [
+        "doc_16219.txt",
+        "doc_16218.txt",
+        "doc_16224.txt",
+        "doc_16226.txt",
+        "doc_16223.txt"
+    ]
+}

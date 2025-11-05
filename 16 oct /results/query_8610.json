@@ -1,0 +1,10 @@
+{
+    "query": "What support was provided to Indian students at Kimball Union Academy?",
+    "response": [
+        "doc_13874.txt",
+        "doc_19369.txt",
+        "doc_20111.txt",
+        "doc_2854.txt",
+        "doc_12344.txt"
+    ]
+}

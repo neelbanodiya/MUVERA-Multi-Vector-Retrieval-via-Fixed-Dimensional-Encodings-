@@ -1,0 +1,10 @@
+{
+    "query": "What was Mark Twain's profession, according to the provided links?",
+    "response": [
+        "doc_12840.txt",
+        "doc_20257.txt",
+        "doc_3935.txt",
+        "doc_14084.txt",
+        "doc_20608.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who collaborated with Carole King on a song that became a hit?",
+    "response": [
+        "doc_11418.txt",
+        "doc_11419.txt",
+        "doc_11435.txt",
+        "doc_11420.txt",
+        "doc_11431.txt"
+    ]
+}

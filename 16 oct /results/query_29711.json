@@ -1,0 +1,10 @@
+{
+    "query": "What organization requested access to the Council documents, and what was their goal?",
+    "response": [
+        "doc_13340.txt",
+        "doc_23027.txt",
+        "doc_10839.txt",
+        "doc_5727.txt",
+        "doc_22620.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When did Nicolo Polo, his father and his uncle arrive at Xanadu?",
+    "response": [
+        "doc_2304.txt",
+        "doc_2305.txt",
+        "doc_2302.txt",
+        "doc_2307.txt",
+        "doc_2300.txt"
+    ]
+}

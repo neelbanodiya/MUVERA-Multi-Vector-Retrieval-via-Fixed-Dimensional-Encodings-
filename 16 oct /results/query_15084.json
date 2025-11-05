@@ -1,0 +1,10 @@
+{
+    "query": "What animal\u2019s stomach lining is used to make Philadelphia pepper pot soup?",
+    "response": [
+        "doc_8748.txt",
+        "doc_8759.txt",
+        "doc_8751.txt",
+        "doc_8749.txt",
+        "doc_8750.txt"
+    ]
+}

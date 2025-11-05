@@ -1,0 +1,10 @@
+{
+    "query": "What are some natural flavorings that come from MSG?",
+    "response": [
+        "doc_5485.txt",
+        "doc_16760.txt",
+        "doc_16761.txt",
+        "doc_21555.txt",
+        "doc_9729.txt"
+    ]
+}

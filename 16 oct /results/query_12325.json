@@ -1,0 +1,10 @@
+{
+    "query": "How many search results returned titles featuring Scott Patterson as a cast member?",
+    "response": [
+        "doc_19272.txt",
+        "doc_11146.txt",
+        "doc_5216.txt",
+        "doc_2904.txt",
+        "doc_19310.txt"
+    ]
+}

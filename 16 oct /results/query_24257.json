@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the primary focus of Ralph Waldo Emerson\u2019s writing?",
+    "response": [
+        "doc_12353.txt",
+        "doc_12350.txt",
+        "doc_12351.txt",
+        "doc_14077.txt",
+        "doc_14087.txt"
+    ]
+}

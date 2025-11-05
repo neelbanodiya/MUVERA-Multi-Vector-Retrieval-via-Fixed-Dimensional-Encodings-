@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was a significant consequence of China\u2019s rapid economic rise?",
+    "response": [
+        "doc_10976.txt",
+        "doc_18120.txt",
+        "doc_10980.txt",
+        "doc_5560.txt",
+        "doc_9843.txt"
+    ]
+}

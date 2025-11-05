@@ -1,0 +1,10 @@
+{
+    "query": "According to one article, what did Obama do while in Kenya?",
+    "response": [
+        "doc_17823.txt",
+        "doc_3334.txt",
+        "doc_806.txt",
+        "doc_2645.txt",
+        "doc_15735.txt"
+    ]
+}

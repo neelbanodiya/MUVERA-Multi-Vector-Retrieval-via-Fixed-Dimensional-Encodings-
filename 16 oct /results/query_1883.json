@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the French phrase referenced in the passage?",
+    "response": [
+        "doc_23167.txt",
+        "doc_9979.txt",
+        "doc_12597.txt",
+        "doc_9446.txt",
+        "doc_4395.txt"
+    ]
+}

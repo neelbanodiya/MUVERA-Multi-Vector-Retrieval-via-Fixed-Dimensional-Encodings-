@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of one of the articles referencing Josephine\u2019s birthplace?",
+    "response": [
+        "doc_8366.txt",
+        "doc_8370.txt",
+        "doc_7881.txt",
+        "doc_14412.txt",
+        "doc_3543.txt"
+    ]
+}

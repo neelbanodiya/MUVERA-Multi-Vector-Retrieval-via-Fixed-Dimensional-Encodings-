@@ -1,0 +1,10 @@
+{
+    "query": "In what state is Elmore\u2019s first crime novel, *The Big Bounce*, set?",
+    "response": [
+        "doc_773.txt",
+        "doc_767.txt",
+        "doc_769.txt",
+        "doc_19894.txt",
+        "doc_3711.txt"
+    ]
+}

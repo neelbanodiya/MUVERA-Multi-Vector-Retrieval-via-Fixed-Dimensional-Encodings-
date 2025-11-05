@@ -1,0 +1,10 @@
+{
+    "query": "What is the address of the Hyatt Regency (SFO)?",
+    "response": [
+        "doc_28.txt",
+        "doc_7372.txt",
+        "doc_3382.txt",
+        "doc_3381.txt",
+        "doc_574.txt"
+    ]
+}

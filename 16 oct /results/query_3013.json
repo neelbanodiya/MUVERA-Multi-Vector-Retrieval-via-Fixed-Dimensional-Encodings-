@@ -1,0 +1,10 @@
+{
+    "query": "Name three knights frequently associated with the Arthurian legends and the Round Table.",
+    "response": [
+        "doc_1833.txt",
+        "doc_1835.txt",
+        "doc_1842.txt",
+        "doc_1837.txt",
+        "doc_1846.txt"
+    ]
+}

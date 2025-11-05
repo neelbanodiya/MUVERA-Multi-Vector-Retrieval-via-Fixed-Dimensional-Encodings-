@@ -1,0 +1,10 @@
+{
+    "query": "Which two Member States are noted as adding fluoride to their drinking water, according to the Commission\u2019s information?",
+    "response": [
+        "doc_12803.txt",
+        "doc_12050.txt",
+        "doc_15031.txt",
+        "doc_18127.txt",
+        "doc_21864.txt"
+    ]
+}

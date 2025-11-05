@@ -1,0 +1,10 @@
+{
+    "query": "Which actor plays Edward Lewis in *Pretty Woman*?",
+    "response": [
+        "doc_18829.txt",
+        "doc_22849.txt",
+        "doc_22855.txt",
+        "doc_4652.txt",
+        "doc_1964.txt"
+    ]
+}

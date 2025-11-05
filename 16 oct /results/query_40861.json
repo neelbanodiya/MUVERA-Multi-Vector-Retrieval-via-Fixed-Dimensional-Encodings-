@@ -1,0 +1,10 @@
+{
+    "query": "What phrase concludes the Declaration of Independence, as referenced in multiple sources?",
+    "response": [
+        "doc_23881.txt",
+        "doc_23882.txt",
+        "doc_23884.txt",
+        "doc_23879.txt",
+        "doc_19852.txt"
+    ]
+}

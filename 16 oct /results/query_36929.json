@@ -1,0 +1,10 @@
+{
+    "query": "What word describes the direction Tessa and Jack move?",
+    "response": [
+        "doc_8738.txt",
+        "doc_14023.txt",
+        "doc_8743.txt",
+        "doc_14028.txt",
+        "doc_5669.txt"
+    ]
+}

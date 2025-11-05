@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Grey Gardens estate located?",
+    "response": [
+        "doc_22764.txt",
+        "doc_23504.txt",
+        "doc_6115.txt",
+        "doc_17123.txt",
+        "doc_8435.txt"
+    ]
+}

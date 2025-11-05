@@ -1,0 +1,10 @@
+{
+    "query": "On what date did the Second Continental Congress vote to adopt a resolution for independence from Great Britain?",
+    "response": [
+        "doc_19845.txt",
+        "doc_19841.txt",
+        "doc_19844.txt",
+        "doc_19851.txt",
+        "doc_19847.txt"
+    ]
+}

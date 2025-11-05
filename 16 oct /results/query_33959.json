@@ -1,0 +1,10 @@
+{
+    "query": "What event did the eight-day festival of Hanukkah commemorate?",
+    "response": [
+        "doc_19761.txt",
+        "doc_19770.txt",
+        "doc_19757.txt",
+        "doc_19771.txt",
+        "doc_19765.txt"
+    ]
+}

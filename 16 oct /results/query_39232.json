@@ -1,0 +1,10 @@
+{
+    "query": "Besides being an opera singer, what other artistic skill did Helge Lindberg possess?",
+    "response": [
+        "doc_22803.txt",
+        "doc_22959.txt",
+        "doc_10450.txt",
+        "doc_21967.txt",
+        "doc_8593.txt"
+    ]
+}

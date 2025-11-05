@@ -1,0 +1,10 @@
+{
+    "query": "In what year was America's 50-star flag officially unfurled, honoring Hawaiian statehood?",
+    "response": [
+        "doc_21653.txt",
+        "doc_21634.txt",
+        "doc_21650.txt",
+        "doc_21651.txt",
+        "doc_21641.txt"
+    ]
+}

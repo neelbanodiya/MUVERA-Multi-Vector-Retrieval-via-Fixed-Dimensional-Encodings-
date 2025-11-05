@@ -1,0 +1,10 @@
+{
+    "query": "What region in Greece experienced the highest concentration of ALDI stores and redundancies?",
+    "response": [
+        "doc_10888.txt",
+        "doc_14302.txt",
+        "doc_9473.txt",
+        "doc_14442.txt",
+        "doc_11117.txt"
+    ]
+}

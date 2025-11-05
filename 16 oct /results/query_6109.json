@@ -1,0 +1,10 @@
+{
+    "query": "What town in northwestern Illinois was Ronald Reagan born in?",
+    "response": [
+        "doc_3565.txt",
+        "doc_3566.txt",
+        "doc_3568.txt",
+        "doc_3564.txt",
+        "doc_3570.txt"
+    ]
+}

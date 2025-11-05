@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the King\u2019s College where Alan Turing worked on codebreaking efforts?",
+    "response": [
+        "doc_5307.txt",
+        "doc_2854.txt",
+        "doc_18385.txt",
+        "doc_5309.txt",
+        "doc_14593.txt"
+    ]
+}

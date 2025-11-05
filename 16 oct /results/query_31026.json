@@ -1,0 +1,10 @@
+{
+    "query": "In which films did Walter Matthau portray a \u201cgrumpy old\u201d character?",
+    "response": [
+        "doc_18098.txt",
+        "doc_18097.txt",
+        "doc_18100.txt",
+        "doc_18101.txt",
+        "doc_18103.txt"
+    ]
+}

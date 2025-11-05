@@ -1,0 +1,10 @@
+{
+    "query": "What flower did Dumas write about a courtesan who always wore?",
+    "response": [
+        "doc_6812.txt",
+        "doc_6811.txt",
+        "doc_6810.txt",
+        "doc_8487.txt",
+        "doc_23041.txt"
+    ]
+}

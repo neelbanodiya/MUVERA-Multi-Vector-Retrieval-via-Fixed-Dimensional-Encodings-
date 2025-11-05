@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the British conquer the city mentioned in the passage?",
+    "response": [
+        "doc_7323.txt",
+        "doc_11239.txt",
+        "doc_9108.txt",
+        "doc_9109.txt",
+        "doc_7322.txt"
+    ]
+}

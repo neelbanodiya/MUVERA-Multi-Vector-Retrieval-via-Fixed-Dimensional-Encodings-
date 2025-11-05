@@ -1,0 +1,10 @@
+{
+    "query": "What was the cause of Dzhokhar Dudayev\u2019s death, according to the passage?",
+    "response": [
+        "doc_17966.txt",
+        "doc_17967.txt",
+        "doc_17965.txt",
+        "doc_17973.txt",
+        "doc_17972.txt"
+    ]
+}

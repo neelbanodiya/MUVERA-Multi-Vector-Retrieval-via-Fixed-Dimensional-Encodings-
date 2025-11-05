@@ -1,0 +1,10 @@
+{
+    "query": "Which celebrity\u2019s future goals are repeatedly associated with the statement \u201cI\u2019m going to steal the Declaration of Independence\u201d?",
+    "response": [
+        "doc_7158.txt",
+        "doc_7161.txt",
+        "doc_7157.txt",
+        "doc_7162.txt",
+        "doc_7159.txt"
+    ]
+}

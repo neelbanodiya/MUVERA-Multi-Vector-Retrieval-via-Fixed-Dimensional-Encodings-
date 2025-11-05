@@ -1,0 +1,10 @@
+{
+    "query": "What specific organism was identified in imported Turkish potatoes, and what disease does it cause?",
+    "response": [
+        "doc_8949.txt",
+        "doc_16656.txt",
+        "doc_15144.txt",
+        "doc_3539.txt",
+        "doc_22364.txt"
+    ]
+}

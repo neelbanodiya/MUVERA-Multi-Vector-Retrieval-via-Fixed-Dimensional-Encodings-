@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Jane Campion named the year's best new director?",
+    "response": [
+        "doc_3217.txt",
+        "doc_3216.txt",
+        "doc_3218.txt",
+        "doc_3232.txt",
+        "doc_3227.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In 2000, what was Northwest Airlines ordered to do by the court?",
+    "response": [
+        "doc_2985.txt",
+        "doc_2989.txt",
+        "doc_3000.txt",
+        "doc_2996.txt",
+        "doc_2997.txt"
+    ]
+}

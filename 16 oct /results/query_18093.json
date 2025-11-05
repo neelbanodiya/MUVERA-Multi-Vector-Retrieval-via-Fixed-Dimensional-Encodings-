@@ -1,0 +1,10 @@
+{
+    "query": "In what year were recordings of Gian Carlo Menotti\u2019s operas, including \u201cAmahl and the Night Visitors,\u201d made?",
+    "response": [
+        "doc_10454.txt",
+        "doc_10458.txt",
+        "doc_10463.txt",
+        "doc_10465.txt",
+        "doc_10469.txt"
+    ]
+}

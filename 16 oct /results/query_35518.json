@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred in November 1962 during the Cuban Missile Crisis?",
+    "response": [
+        "doc_600.txt",
+        "doc_6530.txt",
+        "doc_17975.txt",
+        "doc_512.txt",
+        "doc_8113.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was reportedly said by Donald Trump as he bounded onto the stage during an interview with Yahoo News?",
+    "response": [
+        "doc_16733.txt",
+        "doc_22927.txt",
+        "doc_22134.txt",
+        "doc_15067.txt",
+        "doc_10963.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What national park is located in Arizona\u2019s resort community of Pinetop-Lakeside?",
+    "response": [
+        "doc_9327.txt",
+        "doc_9337.txt",
+        "doc_9336.txt",
+        "doc_9328.txt",
+        "doc_9332.txt"
+    ]
+}

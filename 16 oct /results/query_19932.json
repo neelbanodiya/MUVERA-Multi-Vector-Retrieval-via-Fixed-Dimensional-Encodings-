@@ -1,0 +1,10 @@
+{
+    "query": "For which film was Harold Humbrock nominated for a Best Special Effects Academy Award?",
+    "response": [
+        "doc_11495.txt",
+        "doc_15278.txt",
+        "doc_12638.txt",
+        "doc_23281.txt",
+        "doc_12639.txt"
+    ]
+}

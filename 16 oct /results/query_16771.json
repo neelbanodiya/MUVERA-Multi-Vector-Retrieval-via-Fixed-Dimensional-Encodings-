@@ -1,0 +1,10 @@
+{
+    "query": "What types of lettuce are traditionally used in a Caesar salad?",
+    "response": [
+        "doc_9713.txt",
+        "doc_9718.txt",
+        "doc_9714.txt",
+        "doc_9717.txt",
+        "doc_9722.txt"
+    ]
+}

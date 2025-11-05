@@ -1,0 +1,10 @@
+{
+    "query": "What is a \u201cdesign type\u201d in relation to a U.S. coin?",
+    "response": [
+        "doc_24222.txt",
+        "doc_24213.txt",
+        "doc_2883.txt",
+        "doc_2836.txt",
+        "doc_23920.txt"
+    ]
+}

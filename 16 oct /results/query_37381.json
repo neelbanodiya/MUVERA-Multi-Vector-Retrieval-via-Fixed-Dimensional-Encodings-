@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Alexander Calder paint a full-size DC-8-62 as a \u2018flying canvas\u2019 for Braniff International Airways?",
+    "response": [
+        "doc_21888.txt",
+        "doc_21889.txt",
+        "doc_21887.txt",
+        "doc_21893.txt",
+        "doc_21894.txt"
+    ]
+}

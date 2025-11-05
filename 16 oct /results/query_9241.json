@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what specific element of the film \u201cRope\u201d was considered controversial?",
+    "response": [
+        "doc_5324.txt",
+        "doc_8801.txt",
+        "doc_5323.txt",
+        "doc_6675.txt",
+        "doc_22131.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "During which wars did Douglas MacArthur serve as a commander?",
+    "response": [
+        "doc_18392.txt",
+        "doc_18400.txt",
+        "doc_18394.txt",
+        "doc_18389.txt",
+        "doc_18398.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In 1931, what round-the-world flight did Wiley Post and Harold Gatty undertake?",
+    "response": [
+        "doc_1326.txt",
+        "doc_1327.txt",
+        "doc_1334.txt",
+        "doc_1328.txt",
+        "doc_1339.txt"
+    ]
+}

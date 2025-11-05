@@ -1,0 +1,10 @@
+{
+    "query": "What documents were referenced alongside the Commission\u2019s report on the follow-up to the discharge for 2008?",
+    "response": [
+        "doc_14304.txt",
+        "doc_5541.txt",
+        "doc_8295.txt",
+        "doc_20126.txt",
+        "doc_19130.txt"
+    ]
+}

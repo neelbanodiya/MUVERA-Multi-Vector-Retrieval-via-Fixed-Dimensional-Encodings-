@@ -1,0 +1,10 @@
+{
+    "query": "What is the phone number associated with William Eason in Irvine, California?",
+    "response": [
+        "doc_11324.txt",
+        "doc_11323.txt",
+        "doc_1014.txt",
+        "doc_12831.txt",
+        "doc_5959.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which UK winners received nominations for the European Parliament Prize for Journalism, and in which categories did they win?",
+    "response": [
+        "doc_15490.txt",
+        "doc_15491.txt",
+        "doc_16929.txt",
+        "doc_16931.txt",
+        "doc_14366.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What notable achievement did Lester Hudson accomplish during the 2007-08 season?",
+    "response": [
+        "doc_2004.txt",
+        "doc_12779.txt",
+        "doc_2001.txt",
+        "doc_1996.txt",
+        "doc_12778.txt"
+    ]
+}

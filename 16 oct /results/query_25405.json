@@ -1,0 +1,10 @@
+{
+    "query": "What is one of the locations mentioned where illuminated volumes from the Middle Ages can be viewed?",
+    "response": [
+        "doc_3691.txt",
+        "doc_8508.txt",
+        "doc_16510.txt",
+        "doc_8640.txt",
+        "doc_23680.txt"
+    ]
+}

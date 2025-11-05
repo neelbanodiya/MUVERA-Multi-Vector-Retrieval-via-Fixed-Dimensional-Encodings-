@@ -1,0 +1,10 @@
+{
+    "query": "According to some accounts, did the cock crow once or twice in relation to Peter\u2019s denials?",
+    "response": [
+        "doc_23702.txt",
+        "doc_23697.txt",
+        "doc_23698.txt",
+        "doc_23703.txt",
+        "doc_23704.txt"
+    ]
+}

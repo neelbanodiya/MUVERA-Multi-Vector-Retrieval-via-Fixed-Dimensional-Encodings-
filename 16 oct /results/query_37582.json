@@ -1,0 +1,10 @@
+{
+    "query": "What is Yokohama known for in terms of its location?",
+    "response": [
+        "doc_14854.txt",
+        "doc_20399.txt",
+        "doc_14853.txt",
+        "doc_15880.txt",
+        "doc_5416.txt"
+    ]
+}

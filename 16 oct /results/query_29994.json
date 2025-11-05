@@ -1,0 +1,10 @@
+{
+    "query": "What types of food are mentioned in the Flickr photos (e.g., nuts, scones)?",
+    "response": [
+        "doc_10445.txt",
+        "doc_7092.txt",
+        "doc_9713.txt",
+        "doc_9729.txt",
+        "doc_5803.txt"
+    ]
+}

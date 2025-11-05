@@ -1,0 +1,10 @@
+{
+    "query": "Which groups submitted the motions regarding the World Social Forum and World Economic Forum?",
+    "response": [
+        "doc_3918.txt",
+        "doc_3917.txt",
+        "doc_19523.txt",
+        "doc_4749.txt",
+        "doc_4750.txt"
+    ]
+}

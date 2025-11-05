@@ -1,0 +1,10 @@
+{
+    "query": "What geological feature does the Loch Ness Monster\u2019s location relate to?",
+    "response": [
+        "doc_374.txt",
+        "doc_375.txt",
+        "doc_377.txt",
+        "doc_382.txt",
+        "doc_373.txt"
+    ]
+}

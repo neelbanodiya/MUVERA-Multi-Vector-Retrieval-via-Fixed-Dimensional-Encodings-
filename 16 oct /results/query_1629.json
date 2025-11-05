@@ -1,0 +1,10 @@
+{
+    "query": "When did wheat flour fortification begin in Colombia, and what nutrient was being added at that time?",
+    "response": [
+        "doc_925.txt",
+        "doc_921.txt",
+        "doc_919.txt",
+        "doc_4336.txt",
+        "doc_8615.txt"
+    ]
+}

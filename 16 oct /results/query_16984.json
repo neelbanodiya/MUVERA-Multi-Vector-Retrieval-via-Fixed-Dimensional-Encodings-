@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Ellen Glasgow House declared a National Historic Landmark?",
+    "response": [
+        "doc_9840.txt",
+        "doc_7863.txt",
+        "doc_7864.txt",
+        "doc_20219.txt",
+        "doc_3555.txt"
+    ]
+}

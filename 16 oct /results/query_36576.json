@@ -1,0 +1,10 @@
+{
+    "query": "Who will portray Superman on the silver screen in 2011?",
+    "response": [
+        "doc_21360.txt",
+        "doc_21359.txt",
+        "doc_21372.txt",
+        "doc_15401.txt",
+        "doc_1570.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "During what month did a capital city in Greece experience hazardous smog conditions?",
+    "response": [
+        "doc_11887.txt",
+        "doc_14302.txt",
+        "doc_15952.txt",
+        "doc_12911.txt",
+        "doc_9259.txt"
+    ]
+}

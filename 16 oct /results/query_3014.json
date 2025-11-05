@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was the primary characteristic of seating arrangements at the Round Table?",
+    "response": [
+        "doc_4482.txt",
+        "doc_7648.txt",
+        "doc_10500.txt",
+        "doc_5727.txt",
+        "doc_20036.txt"
+    ]
+}

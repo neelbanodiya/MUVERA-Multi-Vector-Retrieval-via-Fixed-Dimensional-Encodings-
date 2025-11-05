@@ -1,0 +1,10 @@
+{
+    "query": "Which film festivals did Janusz Nasfeter receive awards at?",
+    "response": [
+        "doc_14341.txt",
+        "doc_13852.txt",
+        "doc_4923.txt",
+        "doc_14339.txt",
+        "doc_4914.txt"
+    ]
+}

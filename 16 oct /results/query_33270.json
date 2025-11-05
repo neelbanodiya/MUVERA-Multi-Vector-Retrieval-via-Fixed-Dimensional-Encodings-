@@ -1,0 +1,10 @@
+{
+    "query": "What tribe is Miami University named after?",
+    "response": [
+        "doc_19360.txt",
+        "doc_19362.txt",
+        "doc_19363.txt",
+        "doc_19361.txt",
+        "doc_19372.txt"
+    ]
+}

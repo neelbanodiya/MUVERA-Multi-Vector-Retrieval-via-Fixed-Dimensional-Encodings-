@@ -1,0 +1,10 @@
+{
+    "query": "Who is the center fielder for the Cubs, and what is his last name?",
+    "response": [
+        "doc_7452.txt",
+        "doc_16714.txt",
+        "doc_2955.txt",
+        "doc_3077.txt",
+        "doc_16719.txt"
+    ]
+}

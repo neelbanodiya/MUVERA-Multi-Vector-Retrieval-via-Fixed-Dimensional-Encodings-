@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which actors appeared at an event related to *Smallville* in October 2013?",
+    "response": [
+        "doc_11861.txt",
+        "doc_21368.txt",
+        "doc_15400.txt",
+        "doc_2894.txt",
+        "doc_15708.txt"
+    ]
+}

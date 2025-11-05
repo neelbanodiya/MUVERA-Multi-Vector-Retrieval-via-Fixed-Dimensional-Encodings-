@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Major League Baseball ban steroids?",
+    "response": [
+        "doc_2701.txt",
+        "doc_23054.txt",
+        "doc_10683.txt",
+        "doc_23057.txt",
+        "doc_23046.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the Senne river historically used for in Brussels?",
+    "response": [
+        "doc_14620.txt",
+        "doc_14619.txt",
+        "doc_14616.txt",
+        "doc_14621.txt",
+        "doc_14623.txt"
+    ]
+}

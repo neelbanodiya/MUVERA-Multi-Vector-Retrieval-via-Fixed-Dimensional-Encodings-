@@ -1,0 +1,10 @@
+{
+    "query": "Who was the President of the European Parliament at the opening of today's business?",
+    "response": [
+        "doc_13316.txt",
+        "doc_1147.txt",
+        "doc_1145.txt",
+        "doc_15384.txt",
+        "doc_18365.txt"
+    ]
+}

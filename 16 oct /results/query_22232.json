@@ -1,0 +1,10 @@
+{
+    "query": "What university did William Faulkner attend and serve as?",
+    "response": [
+        "doc_12820.txt",
+        "doc_4788.txt",
+        "doc_19136.txt",
+        "doc_21973.txt",
+        "doc_14424.txt"
+    ]
+}

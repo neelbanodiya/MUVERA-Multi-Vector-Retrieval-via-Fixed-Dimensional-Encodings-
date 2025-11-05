@@ -1,0 +1,10 @@
+{
+    "query": "In what type of film was Mae West featured alongside W.C. Fields in 1940?",
+    "response": [
+        "doc_14392.txt",
+        "doc_14388.txt",
+        "doc_14389.txt",
+        "doc_14400.txt",
+        "doc_14386.txt"
+    ]
+}

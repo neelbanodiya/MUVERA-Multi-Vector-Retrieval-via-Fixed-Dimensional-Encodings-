@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was a key element that contributed to the development of comedy from Greek rituals?",
+    "response": [
+        "doc_20487.txt",
+        "doc_20486.txt",
+        "doc_20489.txt",
+        "doc_20491.txt",
+        "doc_9185.txt"
+    ]
+}

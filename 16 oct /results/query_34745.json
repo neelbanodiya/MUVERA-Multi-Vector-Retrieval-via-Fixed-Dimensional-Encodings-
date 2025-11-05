@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of unauthorized immigrants in 2014 were from Hispanic origins?",
+    "response": [
+        "doc_12883.txt",
+        "doc_20227.txt",
+        "doc_14822.txt",
+        "doc_2186.txt",
+        "doc_2187.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What position did Sir John Hall previously hold before succeeding in 1858?",
+    "response": [
+        "doc_16126.txt",
+        "doc_21070.txt",
+        "doc_12643.txt",
+        "doc_16125.txt",
+        "doc_7372.txt"
+    ]
+}

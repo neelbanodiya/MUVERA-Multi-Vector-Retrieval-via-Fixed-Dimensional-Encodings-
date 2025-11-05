@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the current fishing mortality rate for the Southern hake stock?",
+    "response": [
+        "doc_20098.txt",
+        "doc_20099.txt",
+        "doc_12161.txt",
+        "doc_20100.txt",
+        "doc_12076.txt"
+    ]
+}

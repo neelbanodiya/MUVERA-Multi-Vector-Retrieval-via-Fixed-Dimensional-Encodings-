@@ -1,0 +1,10 @@
+{
+    "query": "What actors are returning for the revival of *Gilmore Girls*?",
+    "response": [
+        "doc_7182.txt",
+        "doc_7180.txt",
+        "doc_7190.txt",
+        "doc_7184.txt",
+        "doc_7181.txt"
+    ]
+}

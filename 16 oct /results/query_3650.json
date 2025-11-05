@@ -1,0 +1,10 @@
+{
+    "query": "Who was Henry Stanley tasked with establishing trading stations along?",
+    "response": [
+        "doc_2140.txt",
+        "doc_13838.txt",
+        "doc_20608.txt",
+        "doc_4656.txt",
+        "doc_623.txt"
+    ]
+}

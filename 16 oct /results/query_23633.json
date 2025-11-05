@@ -1,0 +1,10 @@
+{
+    "query": "What number was used for counting in Babylonian times?",
+    "response": [
+        "doc_14593.txt",
+        "doc_1427.txt",
+        "doc_13714.txt",
+        "doc_4326.txt",
+        "doc_4729.txt"
+    ]
+}

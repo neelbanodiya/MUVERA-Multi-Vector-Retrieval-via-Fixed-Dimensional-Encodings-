@@ -1,0 +1,10 @@
+{
+    "query": "What European legislation already provides some protection to consumers when hiring cars?",
+    "response": [
+        "doc_11328.txt",
+        "doc_17443.txt",
+        "doc_22866.txt",
+        "doc_14151.txt",
+        "doc_14137.txt"
+    ]
+}

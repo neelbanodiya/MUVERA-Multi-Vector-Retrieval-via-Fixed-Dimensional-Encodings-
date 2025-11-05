@@ -1,0 +1,10 @@
+{
+    "query": "During which period did Jawaharlal Nehru spend time in prison?",
+    "response": [
+        "doc_17082.txt",
+        "doc_17087.txt",
+        "doc_17089.txt",
+        "doc_17086.txt",
+        "doc_17083.txt"
+    ]
+}

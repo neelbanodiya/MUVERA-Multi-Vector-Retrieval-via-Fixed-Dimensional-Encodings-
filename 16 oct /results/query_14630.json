@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between Bruce Wayne and Robin?",
+    "response": [
+        "doc_16033.txt",
+        "doc_2678.txt",
+        "doc_17265.txt",
+        "doc_16872.txt",
+        "doc_5897.txt"
+    ]
+}

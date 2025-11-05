@@ -1,0 +1,10 @@
+{
+    "query": "What astrological sign is represented by \"the Water-Carrier\"?",
+    "response": [
+        "doc_13954.txt",
+        "doc_4083.txt",
+        "doc_21298.txt",
+        "doc_23904.txt",
+        "doc_23905.txt"
+    ]
+}

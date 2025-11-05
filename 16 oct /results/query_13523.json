@@ -1,0 +1,10 @@
+{
+    "query": "What colors are the fleurs-de-lis featured in the Canadian coat of arms?",
+    "response": [
+        "doc_7893.txt",
+        "doc_7889.txt",
+        "doc_7899.txt",
+        "doc_7894.txt",
+        "doc_7897.txt"
+    ]
+}

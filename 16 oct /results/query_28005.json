@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided articles, which president was the first to use the Antiquities Act?",
+    "response": [
+        "doc_16265.txt",
+        "doc_11983.txt",
+        "doc_8938.txt",
+        "doc_1296.txt",
+        "doc_4052.txt"
+    ]
+}

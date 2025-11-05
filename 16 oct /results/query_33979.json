@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what event led to the rededication of the Temple and the celebration of Hanukkah?",
+    "response": [
+        "doc_19770.txt",
+        "doc_19771.txt",
+        "doc_19756.txt",
+        "doc_19773.txt",
+        "doc_19759.txt"
+    ]
+}

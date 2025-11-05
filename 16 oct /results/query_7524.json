@@ -1,0 +1,10 @@
+{
+    "query": "The \u201cSubjective Refraction and Prescribing Glasses\u201d article mentions a specific visual aid used to show patients what they will be prescribed. What is this aid?",
+    "response": [
+        "doc_15324.txt",
+        "doc_15323.txt",
+        "doc_13561.txt",
+        "doc_18307.txt",
+        "doc_18522.txt"
+    ]
+}

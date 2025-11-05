@@ -1,0 +1,10 @@
+{
+    "query": "What was Edwin Dalton\u2019s place of birth?",
+    "response": [
+        "doc_1908.txt",
+        "doc_452.txt",
+        "doc_18954.txt",
+        "doc_3710.txt",
+        "doc_4813.txt"
+    ]
+}

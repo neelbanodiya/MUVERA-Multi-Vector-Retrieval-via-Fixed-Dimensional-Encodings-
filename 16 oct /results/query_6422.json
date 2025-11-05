@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of Stephen King\u2019s novel that inspired the movie \u201cNeedful Things\u201d?",
+    "response": [
+        "doc_3712.txt",
+        "doc_19142.txt",
+        "doc_3715.txt",
+        "doc_19141.txt",
+        "doc_3711.txt"
+    ]
+}

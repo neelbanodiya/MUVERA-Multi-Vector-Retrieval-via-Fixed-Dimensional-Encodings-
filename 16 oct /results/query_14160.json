@@ -1,0 +1,10 @@
+{
+    "query": "Where is Helen Keller\u2019s birthplace located?",
+    "response": [
+        "doc_8209.txt",
+        "doc_8211.txt",
+        "doc_8210.txt",
+        "doc_8214.txt",
+        "doc_8213.txt"
+    ]
+}

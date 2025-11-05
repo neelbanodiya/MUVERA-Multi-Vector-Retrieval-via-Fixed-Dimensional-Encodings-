@@ -1,0 +1,10 @@
+{
+    "query": "Who was nominated by the Omaha platform of 1892 for president?",
+    "response": [
+        "doc_2779.txt",
+        "doc_23150.txt",
+        "doc_23157.txt",
+        "doc_16806.txt",
+        "doc_16811.txt"
+    ]
+}

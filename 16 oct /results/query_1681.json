@@ -1,0 +1,10 @@
+{
+    "query": "When was Georgia established, and in what year did settlement begin in Savannah?",
+    "response": [
+        "doc_970.txt",
+        "doc_972.txt",
+        "doc_973.txt",
+        "doc_976.txt",
+        "doc_971.txt"
+    ]
+}

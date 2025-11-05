@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the area in Kentucky that includes Mammoth Cave?",
+    "response": [
+        "doc_20938.txt",
+        "doc_2879.txt",
+        "doc_20939.txt",
+        "doc_18154.txt",
+        "doc_12986.txt"
+    ]
+}

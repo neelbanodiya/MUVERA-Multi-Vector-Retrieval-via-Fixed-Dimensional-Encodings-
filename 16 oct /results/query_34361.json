@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the song \u201cBe True To Your School\u201d by the Beach Boys include a cheerleader version?",
+    "response": [
+        "doc_19986.txt",
+        "doc_19990.txt",
+        "doc_17304.txt",
+        "doc_19987.txt",
+        "doc_11935.txt"
+    ]
+}

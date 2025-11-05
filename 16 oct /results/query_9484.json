@@ -1,0 +1,10 @@
+{
+    "query": "What directives are addressed to publicly traded EU companies?",
+    "response": [
+        "doc_5472.txt",
+        "doc_18303.txt",
+        "doc_22385.txt",
+        "doc_22982.txt",
+        "doc_8698.txt"
+    ]
+}

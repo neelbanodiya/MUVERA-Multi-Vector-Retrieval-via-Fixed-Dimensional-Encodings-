@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the S.E. Hinton novel mentioned?",
+    "response": [
+        "doc_4655.txt",
+        "doc_20538.txt",
+        "doc_8989.txt",
+        "doc_22261.txt",
+        "doc_17758.txt"
+    ]
+}

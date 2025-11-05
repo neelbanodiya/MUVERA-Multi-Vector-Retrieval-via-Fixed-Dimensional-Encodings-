@@ -1,0 +1,10 @@
+{
+    "query": "What roads connect Mesorrachi with Amfipoli?",
+    "response": [
+        "doc_3657.txt",
+        "doc_283.txt",
+        "doc_284.txt",
+        "doc_9591.txt",
+        "doc_22940.txt"
+    ]
+}

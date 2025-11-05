@@ -1,0 +1,10 @@
+{
+    "query": "Which countries, besides the Dominican Republic, does Presidente beer export to?",
+    "response": [
+        "doc_4596.txt",
+        "doc_10223.txt",
+        "doc_10211.txt",
+        "doc_10213.txt",
+        "doc_10221.txt"
+    ]
+}

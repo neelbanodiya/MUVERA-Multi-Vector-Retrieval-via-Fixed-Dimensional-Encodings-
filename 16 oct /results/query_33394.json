@@ -1,0 +1,10 @@
+{
+    "query": "How long did \u201cSports Illustrated for Women\u201d run, and when was it published?",
+    "response": [
+        "doc_19456.txt",
+        "doc_1734.txt",
+        "doc_695.txt",
+        "doc_1908.txt",
+        "doc_3295.txt"
+    ]
+}

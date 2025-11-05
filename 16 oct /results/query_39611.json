@@ -1,0 +1,10 @@
+{
+    "query": "What is Drew Barrymore\u2019s connection to the actor John Barrymore, as mentioned in one of the articles?",
+    "response": [
+        "doc_23194.txt",
+        "doc_23196.txt",
+        "doc_23195.txt",
+        "doc_23202.txt",
+        "doc_23197.txt"
+    ]
+}

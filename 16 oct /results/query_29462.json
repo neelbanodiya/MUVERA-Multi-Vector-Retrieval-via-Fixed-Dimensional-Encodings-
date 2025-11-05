@@ -1,0 +1,10 @@
+{
+    "query": "What year was \"Crows Zero\" released in Japan?",
+    "response": [
+        "doc_17141.txt",
+        "doc_22673.txt",
+        "doc_8006.txt",
+        "doc_24093.txt",
+        "doc_17143.txt"
+    ]
+}

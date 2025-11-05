@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred on the first day of Theresa May\u2019s time as Prime Minister?",
+    "response": [
+        "doc_9120.txt",
+        "doc_9123.txt",
+        "doc_11482.txt",
+        "doc_9864.txt",
+        "doc_19524.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which U.S. state was ranked as the fourth leading wheat production state in 2014 and 2015?",
+    "response": [
+        "doc_9279.txt",
+        "doc_9286.txt",
+        "doc_9281.txt",
+        "doc_9278.txt",
+        "doc_13065.txt"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "query": "In what trio of Martin Scorsese films did Joe Pesci star alongside Robert De Niro?",
+    "response": [
+        "doc_18483.txt",
+        "doc_18484.txt",
+        "doc_18482.txt",
+        "doc_18481.txt"
+    ]
+}

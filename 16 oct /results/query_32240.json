@@ -1,0 +1,10 @@
+{
+    "query": "During Super Bowl XLVI, what music was featured in a shorter teaser trailer for the film \u201cG.I. Joe: Retaliation\u201d?",
+    "response": [
+        "doc_14258.txt",
+        "doc_9819.txt",
+        "doc_18777.txt",
+        "doc_15313.txt",
+        "doc_8468.txt"
+    ]
+}

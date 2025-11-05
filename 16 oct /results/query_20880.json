@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was Captain Robert FitzRoy\u2019s role in the HMS Beagle voyage?",
+    "response": [
+        "doc_12034.txt",
+        "doc_12039.txt",
+        "doc_12035.txt",
+        "doc_12040.txt",
+        "doc_12036.txt"
+    ]
+}

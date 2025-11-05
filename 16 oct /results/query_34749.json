@@ -1,0 +1,10 @@
+{
+    "query": "According to one document, what percentage of veterans in New Mexico served during the Gulf Wars?",
+    "response": [
+        "doc_20229.txt",
+        "doc_5882.txt",
+        "doc_13501.txt",
+        "doc_12531.txt",
+        "doc_13505.txt"
+    ]
+}

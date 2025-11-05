@@ -1,0 +1,10 @@
+{
+    "query": "How many expert groups were included in the Register on January 26, 2010?",
+    "response": [
+        "doc_3516.txt",
+        "doc_21900.txt",
+        "doc_996.txt",
+        "doc_3517.txt",
+        "doc_21920.txt"
+    ]
+}

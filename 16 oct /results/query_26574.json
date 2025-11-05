@@ -1,0 +1,10 @@
+{
+    "query": "What types of Jewish foods are mentioned in the text?",
+    "response": [
+        "doc_15447.txt",
+        "doc_15454.txt",
+        "doc_15449.txt",
+        "doc_15453.txt",
+        "doc_15451.txt"
+    ]
+}

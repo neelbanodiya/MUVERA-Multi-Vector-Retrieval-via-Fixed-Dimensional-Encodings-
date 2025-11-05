@@ -1,0 +1,10 @@
+{
+    "query": "According to Smith, what is a reason why -ing complements are allowed after emotive verbs?",
+    "response": [
+        "doc_12866.txt",
+        "doc_12865.txt",
+        "doc_20885.txt",
+        "doc_20887.txt",
+        "doc_12385.txt"
+    ]
+}

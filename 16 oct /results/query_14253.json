@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject of the graphic novel \u201cWonder Woman: Spirit of Truth,\u201d and who wrote it?",
+    "response": [
+        "doc_8274.txt",
+        "doc_10866.txt",
+        "doc_19984.txt",
+        "doc_642.txt",
+        "doc_20025.txt"
+    ]
+}

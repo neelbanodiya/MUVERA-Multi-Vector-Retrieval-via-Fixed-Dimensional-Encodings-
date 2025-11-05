@@ -1,0 +1,10 @@
+{
+    "query": "What was invented in San Francisco in the late 19th century, providing a solution to the city\u2019s obstacles?",
+    "response": [
+        "doc_16681.txt",
+        "doc_16697.txt",
+        "doc_19677.txt",
+        "doc_6890.txt",
+        "doc_16688.txt"
+    ]
+}

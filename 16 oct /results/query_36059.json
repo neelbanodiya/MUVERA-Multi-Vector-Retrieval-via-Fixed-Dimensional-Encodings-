@@ -1,0 +1,10 @@
+{
+    "query": "What tool was introduced by the Commission to evaluate the potential consequences of new initiatives?",
+    "response": [
+        "doc_21034.txt",
+        "doc_21035.txt",
+        "doc_18732.txt",
+        "doc_10827.txt",
+        "doc_11438.txt"
+    ]
+}

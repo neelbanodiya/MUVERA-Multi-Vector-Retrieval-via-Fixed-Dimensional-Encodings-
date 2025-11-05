@@ -1,0 +1,10 @@
+{
+    "query": "What type of agreement exists between the EU and Japan regarding legal assistance?",
+    "response": [
+        "doc_22233.txt",
+        "doc_22234.txt",
+        "doc_7257.txt",
+        "doc_3006.txt",
+        "doc_14298.txt"
+    ]
+}

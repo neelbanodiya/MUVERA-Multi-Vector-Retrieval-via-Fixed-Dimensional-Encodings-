@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the oldest known independent Hanuman statue mentioned in the provided links?",
+    "response": [
+        "doc_3870.txt",
+        "doc_23694.txt",
+        "doc_19765.txt",
+        "doc_19770.txt",
+        "doc_9303.txt"
+    ]
+}

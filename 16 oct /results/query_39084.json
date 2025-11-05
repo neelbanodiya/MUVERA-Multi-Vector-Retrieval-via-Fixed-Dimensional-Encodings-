@@ -1,0 +1,10 @@
+{
+    "query": "Which organizations is the EU Delegation in New Delhi working with to understand violence against women?",
+    "response": [
+        "doc_22868.txt",
+        "doc_10906.txt",
+        "doc_12629.txt",
+        "doc_23110.txt",
+        "doc_9743.txt"
+    ]
+}

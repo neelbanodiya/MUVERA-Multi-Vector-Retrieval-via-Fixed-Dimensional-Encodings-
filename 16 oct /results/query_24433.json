@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what was the initial plan for Lorenzo Da Ponte\u2019s libretto?",
+    "response": [
+        "doc_15391.txt",
+        "doc_14185.txt",
+        "doc_14186.txt",
+        "doc_14189.txt",
+        "doc_14188.txt"
+    ]
+}

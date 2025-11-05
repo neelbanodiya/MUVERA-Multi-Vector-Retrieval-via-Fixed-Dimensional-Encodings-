@@ -1,0 +1,10 @@
+{
+    "query": "Where was General Ulysses S. Grant\u2019s headquarters during the Siege of Petersburg?",
+    "response": [
+        "doc_20716.txt",
+        "doc_20725.txt",
+        "doc_20715.txt",
+        "doc_20726.txt",
+        "doc_20718.txt"
+    ]
+}

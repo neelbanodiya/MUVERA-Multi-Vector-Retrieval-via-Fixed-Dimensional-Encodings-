@@ -1,0 +1,10 @@
+{
+    "query": "What television series did \u201cAquaman\u201d originally originate from?",
+    "response": [
+        "doc_6752.txt",
+        "doc_6751.txt",
+        "doc_14643.txt",
+        "doc_22330.txt",
+        "doc_8275.txt"
+    ]
+}

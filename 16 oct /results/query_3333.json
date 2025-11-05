@@ -1,0 +1,10 @@
+{
+    "query": "What was Mario Lemieux's final NHL game date?",
+    "response": [
+        "doc_1991.txt",
+        "doc_1990.txt",
+        "doc_1996.txt",
+        "doc_1992.txt",
+        "doc_2009.txt"
+    ]
+}

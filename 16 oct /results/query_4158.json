@@ -1,0 +1,10 @@
+{
+    "query": "In which city is Madison Square Garden located?",
+    "response": [
+        "doc_21401.txt",
+        "doc_3381.txt",
+        "doc_11303.txt",
+        "doc_11198.txt",
+        "doc_23215.txt"
+    ]
+}

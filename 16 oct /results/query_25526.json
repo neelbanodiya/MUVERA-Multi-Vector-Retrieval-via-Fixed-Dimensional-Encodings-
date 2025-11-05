@@ -1,0 +1,10 @@
+{
+    "query": "According to the Regulations.gov document, what is the earnings ratio for African American women compared to non-Hispanic white men?",
+    "response": [
+        "doc_14801.txt",
+        "doc_14812.txt",
+        "doc_14802.txt",
+        "doc_14811.txt",
+        "doc_14806.txt"
+    ]
+}

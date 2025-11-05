@@ -1,0 +1,10 @@
+{
+    "query": "What was the inflation rate in Greece in May 2010, according to the HICP, compared to the euro area?",
+    "response": [
+        "doc_6395.txt",
+        "doc_4295.txt",
+        "doc_9473.txt",
+        "doc_14302.txt",
+        "doc_3828.txt"
+    ]
+}

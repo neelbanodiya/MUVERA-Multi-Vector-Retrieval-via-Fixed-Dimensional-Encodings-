@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was the economic event announced by the U.S. on a particular day?",
+    "response": [
+        "doc_15728.txt",
+        "doc_5727.txt",
+        "doc_8381.txt",
+        "doc_397.txt",
+        "doc_5471.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What action is being requested of the USA regarding the death penalty?",
+    "response": [
+        "doc_22393.txt",
+        "doc_22395.txt",
+        "doc_18124.txt",
+        "doc_6493.txt",
+        "doc_24043.txt"
+    ]
+}

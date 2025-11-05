@@ -1,0 +1,10 @@
+{
+    "query": "What position did Kevin McHale play in basketball?",
+    "response": [
+        "doc_5573.txt",
+        "doc_9161.txt",
+        "doc_1974.txt",
+        "doc_8719.txt",
+        "doc_1972.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the total budget for 2003 approved by the MEPs?",
+    "response": [
+        "doc_1270.txt",
+        "doc_17256.txt",
+        "doc_17257.txt",
+        "doc_5643.txt",
+        "doc_17585.txt"
+    ]
+}

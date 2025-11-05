@@ -1,0 +1,10 @@
+{
+    "query": "What news is Columbia Records announcing on October 17, 2016?",
+    "response": [
+        "doc_7498.txt",
+        "doc_2557.txt",
+        "doc_22917.txt",
+        "doc_7497.txt",
+        "doc_23497.txt"
+    ]
+}

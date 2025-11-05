@@ -1,0 +1,10 @@
+{
+    "query": "What did the president of the Red and Black Alliance state regarding the identity of individuals living in Albania?",
+    "response": [
+        "doc_12937.txt",
+        "doc_10374.txt",
+        "doc_1678.txt",
+        "doc_12900.txt",
+        "doc_8787.txt"
+    ]
+}

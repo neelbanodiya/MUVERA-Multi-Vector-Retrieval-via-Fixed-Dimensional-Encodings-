@@ -1,0 +1,10 @@
+{
+    "query": "Which actor plays Gordon in \u201cGotham\u201d?",
+    "response": [
+        "doc_19057.txt",
+        "doc_18873.txt",
+        "doc_4822.txt",
+        "doc_10349.txt",
+        "doc_2850.txt"
+    ]
+}

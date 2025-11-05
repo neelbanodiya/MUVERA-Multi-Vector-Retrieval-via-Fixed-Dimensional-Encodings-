@@ -1,0 +1,10 @@
+{
+    "query": "In Romania, what is a greeting that often puzzles visitors?",
+    "response": [
+        "doc_6251.txt",
+        "doc_6252.txt",
+        "doc_9260.txt",
+        "doc_9196.txt",
+        "doc_12616.txt"
+    ]
+}

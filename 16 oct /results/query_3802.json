@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, from which country did theories suggest the Moai statues on Easter Island originated?",
+    "response": [
+        "doc_2241.txt",
+        "doc_2244.txt",
+        "doc_2239.txt",
+        "doc_2251.txt",
+        "doc_2238.txt"
+    ]
+}

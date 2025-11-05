@@ -1,0 +1,10 @@
+{
+    "query": "What year was \u201cShawty Say\u201d officially released?",
+    "response": [
+        "doc_5370.txt",
+        "doc_1231.txt",
+        "doc_23434.txt",
+        "doc_12258.txt",
+        "doc_14780.txt"
+    ]
+}

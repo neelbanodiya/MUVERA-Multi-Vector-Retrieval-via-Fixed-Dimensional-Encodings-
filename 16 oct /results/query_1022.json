@@ -1,0 +1,10 @@
+{
+    "query": "Besides The St. Regis Hotel, what other New York City hotels are mentioned in the provided links?",
+    "response": [
+        "doc_565.txt",
+        "doc_570.txt",
+        "doc_568.txt",
+        "doc_572.txt",
+        "doc_566.txt"
+    ]
+}

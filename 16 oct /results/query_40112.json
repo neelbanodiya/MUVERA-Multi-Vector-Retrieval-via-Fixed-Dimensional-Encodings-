@@ -1,0 +1,10 @@
+{
+    "query": "In what town was Seco Tools\u2019 market leadership established?",
+    "response": [
+        "doc_1778.txt",
+        "doc_675.txt",
+        "doc_452.txt",
+        "doc_15141.txt",
+        "doc_13132.txt"
+    ]
+}

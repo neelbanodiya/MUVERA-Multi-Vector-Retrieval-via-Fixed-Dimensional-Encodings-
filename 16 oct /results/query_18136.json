@@ -1,0 +1,10 @@
+{
+    "query": "What area codes are associated with Bridgewater and Chester Gap?",
+    "response": [
+        "doc_4671.txt",
+        "doc_15587.txt",
+        "doc_22194.txt",
+        "doc_15265.txt",
+        "doc_1782.txt"
+    ]
+}

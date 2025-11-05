@@ -1,0 +1,10 @@
+{
+    "query": "In what region is El Salvador located?",
+    "response": [
+        "doc_15478.txt",
+        "doc_21464.txt",
+        "doc_20161.txt",
+        "doc_38.txt",
+        "doc_20399.txt"
+    ]
+}

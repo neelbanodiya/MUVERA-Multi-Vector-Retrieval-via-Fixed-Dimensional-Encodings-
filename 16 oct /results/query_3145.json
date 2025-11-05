@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the blues song W.C. Handy wrote in 1916 that influenced \u201cBlues City Cafe\u201d?",
+    "response": [
+        "doc_1912.txt",
+        "doc_1906.txt",
+        "doc_1907.txt",
+        "doc_1910.txt",
+        "doc_1908.txt"
+    ]
+}

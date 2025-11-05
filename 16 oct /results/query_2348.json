@@ -1,0 +1,10 @@
+{
+    "query": "What was Gandhi\u2019s primary goal in leading the march to the sea in 1930?",
+    "response": [
+        "doc_1409.txt",
+        "doc_1405.txt",
+        "doc_1414.txt",
+        "doc_1413.txt",
+        "doc_1406.txt"
+    ]
+}

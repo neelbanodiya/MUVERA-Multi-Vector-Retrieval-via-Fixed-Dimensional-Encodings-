@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is the relationship between Article I, Section 15 and the Eighth Amendment?",
+    "response": [
+        "doc_11797.txt",
+        "doc_21024.txt",
+        "doc_5833.txt",
+        "doc_18001.txt",
+        "doc_13144.txt"
+    ]
+}

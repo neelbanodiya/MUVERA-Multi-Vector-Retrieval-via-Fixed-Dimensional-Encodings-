@@ -1,0 +1,10 @@
+{
+    "query": "What role did Jerry Parr have in relation to Ronald Reagan?",
+    "response": [
+        "doc_2420.txt",
+        "doc_15277.txt",
+        "doc_19875.txt",
+        "doc_19681.txt",
+        "doc_23240.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which countries are included in the region described as North Africa?",
+    "response": [
+        "doc_8789.txt",
+        "doc_3268.txt",
+        "doc_3270.txt",
+        "doc_8784.txt",
+        "doc_3269.txt"
+    ]
+}

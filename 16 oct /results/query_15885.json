@@ -1,0 +1,10 @@
+{
+    "query": "What author wrote \u201cThe Hunchback of Notre Dame\u201d?",
+    "response": [
+        "doc_9191.txt",
+        "doc_9193.txt",
+        "doc_9195.txt",
+        "doc_9190.txt",
+        "doc_9194.txt"
+    ]
+}

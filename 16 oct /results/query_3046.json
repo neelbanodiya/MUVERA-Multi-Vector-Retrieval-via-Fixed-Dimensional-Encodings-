@@ -1,0 +1,10 @@
+{
+    "query": "What is the estimated number of Zimbabweans suffering from malnutrition?",
+    "response": [
+        "doc_1853.txt",
+        "doc_1852.txt",
+        "doc_9597.txt",
+        "doc_8112.txt",
+        "doc_9923.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Besides Indian pudding, what other type of pudding is listed as a \u201csweet or savoury dish consisting of various ingredients baked, steamed or boiled into a solid mass\u201d?",
+    "response": [
+        "doc_21685.txt",
+        "doc_21686.txt",
+        "doc_21693.txt",
+        "doc_21689.txt",
+        "doc_21687.txt"
+    ]
+}

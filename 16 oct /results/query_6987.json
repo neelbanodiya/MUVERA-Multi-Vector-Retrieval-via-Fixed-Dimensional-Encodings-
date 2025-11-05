@@ -1,0 +1,10 @@
+{
+    "query": "In what city was a tomb built for Mumtaz Mahal?",
+    "response": [
+        "doc_3991.txt",
+        "doc_3992.txt",
+        "doc_4002.txt",
+        "doc_3990.txt",
+        "doc_4004.txt"
+    ]
+}

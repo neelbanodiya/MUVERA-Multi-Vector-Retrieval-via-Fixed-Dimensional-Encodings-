@@ -1,0 +1,10 @@
+{
+    "query": "What specific action can the Commission undertake, as described in Article 11, regarding preferential treatment?",
+    "response": [
+        "doc_8125.txt",
+        "doc_6171.txt",
+        "doc_15031.txt",
+        "doc_16157.txt",
+        "doc_6172.txt"
+    ]
+}

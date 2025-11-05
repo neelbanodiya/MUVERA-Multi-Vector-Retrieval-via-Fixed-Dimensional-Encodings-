@@ -1,0 +1,10 @@
+{
+    "query": "In what city is Harley-Davidson Inc. based?",
+    "response": [
+        "doc_12645.txt",
+        "doc_23872.txt",
+        "doc_22790.txt",
+        "doc_23215.txt",
+        "doc_7404.txt"
+    ]
+}

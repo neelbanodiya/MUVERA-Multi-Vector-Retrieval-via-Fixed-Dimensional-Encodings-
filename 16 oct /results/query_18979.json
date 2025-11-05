@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what was the original intent of the Punishments Clause of the Eighth Amendment?",
+    "response": [
+        "doc_11000.txt",
+        "doc_11004.txt",
+        "doc_10996.txt",
+        "doc_10992.txt",
+        "doc_11005.txt"
+    ]
+}

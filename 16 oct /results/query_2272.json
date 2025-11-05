@@ -1,0 +1,10 @@
+{
+    "query": "During an attempt to make a circumnavigational flight of the globe, in what month did the pair depart Miami?",
+    "response": [
+        "doc_1330.txt",
+        "doc_12352.txt",
+        "doc_11635.txt",
+        "doc_5787.txt",
+        "doc_23952.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which hockey players are mentioned as being labeled as the next great one alongside names like Brett Hull and Luc Robitaille?",
+    "response": [
+        "doc_15541.txt",
+        "doc_15538.txt",
+        "doc_15543.txt",
+        "doc_15535.txt",
+        "doc_15539.txt"
+    ]
+}

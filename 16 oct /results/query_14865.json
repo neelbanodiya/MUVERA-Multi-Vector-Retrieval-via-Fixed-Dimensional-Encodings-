@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which royal family resided in the Imperial Apartments of the Hofburg Palace until 1918?",
+    "response": [
+        "doc_8636.txt",
+        "doc_8633.txt",
+        "doc_8647.txt",
+        "doc_8644.txt",
+        "doc_8634.txt"
+    ]
+}

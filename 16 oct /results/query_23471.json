@@ -1,0 +1,10 @@
+{
+    "query": "What was Dudley Moore battling?",
+    "response": [
+        "doc_13614.txt",
+        "doc_12734.txt",
+        "doc_18249.txt",
+        "doc_22071.txt",
+        "doc_2955.txt"
+    ]
+}

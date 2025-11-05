@@ -1,0 +1,10 @@
+{
+    "query": "What is the French name for the diamond known as the *Heart of the Ocean*?",
+    "response": [
+        "doc_8478.txt",
+        "doc_12552.txt",
+        "doc_12559.txt",
+        "doc_9621.txt",
+        "doc_16592.txt"
+    ]
+}

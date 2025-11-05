@@ -1,0 +1,10 @@
+{
+    "query": "What positions did Nebuchadnezzar appoint Shadrach, Meshach, and Abednego to?",
+    "response": [
+        "doc_10203.txt",
+        "doc_10208.txt",
+        "doc_10205.txt",
+        "doc_10204.txt",
+        "doc_10206.txt"
+    ]
+}

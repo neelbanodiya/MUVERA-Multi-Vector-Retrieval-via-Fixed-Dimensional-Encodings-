@@ -1,0 +1,10 @@
+{
+    "query": "What role does the Committee established by Article 4(1) of Council Regulation (EC) No 260/2009 play in the procedures described?",
+    "response": [
+        "doc_20809.txt",
+        "doc_20794.txt",
+        "doc_20805.txt",
+        "doc_20813.txt",
+        "doc_20798.txt"
+    ]
+}

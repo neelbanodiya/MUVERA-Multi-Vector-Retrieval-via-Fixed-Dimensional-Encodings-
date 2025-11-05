@@ -1,0 +1,10 @@
+{
+    "query": "Who did Jack Dempsey fight in 1926 to become the world heavyweight boxing champion?",
+    "response": [
+        "doc_7223.txt",
+        "doc_7229.txt",
+        "doc_7224.txt",
+        "doc_7220.txt",
+        "doc_7222.txt"
+    ]
+}

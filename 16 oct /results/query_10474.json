@@ -1,0 +1,10 @@
+{
+    "query": "What were WWF Germany and BUND\u2019s previous stances regarding the Nord Stream gas pipeline project?",
+    "response": [
+        "doc_24180.txt",
+        "doc_6069.txt",
+        "doc_8161.txt",
+        "doc_8085.txt",
+        "doc_13929.txt"
+    ]
+}

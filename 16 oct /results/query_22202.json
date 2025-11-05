@@ -1,0 +1,10 @@
+{
+    "query": "Has the Commission conducted any formal assessment regarding the issue raised in the passage?",
+    "response": [
+        "doc_16441.txt",
+        "doc_22064.txt",
+        "doc_8051.txt",
+        "doc_11437.txt",
+        "doc_10306.txt"
+    ]
+}

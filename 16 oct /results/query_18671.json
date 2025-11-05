@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission\u2019s policy regarding comments on statements made by politicians in Member States?",
+    "response": [
+        "doc_2125.txt",
+        "doc_5727.txt",
+        "doc_9693.txt",
+        "doc_14365.txt",
+        "doc_23044.txt"
+    ]
+}

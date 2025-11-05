@@ -1,0 +1,10 @@
+{
+    "query": "What will the meeting of the EP delegation and NATO-PA discuss?",
+    "response": [
+        "doc_16858.txt",
+        "doc_2056.txt",
+        "doc_8385.txt",
+        "doc_22221.txt",
+        "doc_8384.txt"
+    ]
+}

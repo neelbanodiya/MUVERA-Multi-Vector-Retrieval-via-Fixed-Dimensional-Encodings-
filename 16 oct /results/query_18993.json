@@ -1,0 +1,10 @@
+{
+    "query": "What was the name James Cook gave to the east coast of Australia?",
+    "response": [
+        "doc_11008.txt",
+        "doc_11010.txt",
+        "doc_11012.txt",
+        "doc_11011.txt",
+        "doc_11013.txt"
+    ]
+}

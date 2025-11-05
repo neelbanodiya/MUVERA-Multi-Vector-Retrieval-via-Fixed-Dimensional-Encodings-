@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what kind of adventure does *Treasure Island* primarily involve?",
+    "response": [
+        "doc_20018.txt",
+        "doc_20015.txt",
+        "doc_20013.txt",
+        "doc_20017.txt",
+        "doc_18455.txt"
+    ]
+}

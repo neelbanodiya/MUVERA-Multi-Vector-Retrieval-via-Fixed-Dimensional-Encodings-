@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Faurot Field officially named in honor of Don Faurot?",
+    "response": [
+        "doc_8502.txt",
+        "doc_19144.txt",
+        "doc_15807.txt",
+        "doc_9675.txt",
+        "doc_2950.txt"
+    ]
+}

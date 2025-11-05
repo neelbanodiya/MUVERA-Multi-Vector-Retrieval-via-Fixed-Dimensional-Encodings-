@@ -1,0 +1,10 @@
+{
+    "query": "What was the location of Jeter\u2019s last game?",
+    "response": [
+        "doc_15809.txt",
+        "doc_18335.txt",
+        "doc_16573.txt",
+        "doc_14200.txt",
+        "doc_5418.txt"
+    ]
+}

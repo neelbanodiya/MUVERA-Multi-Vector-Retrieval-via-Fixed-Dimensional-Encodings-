@@ -1,0 +1,10 @@
+{
+    "query": "What country is Benito Lynch associated with as a novelist?",
+    "response": [
+        "doc_16971.txt",
+        "doc_18579.txt",
+        "doc_16974.txt",
+        "doc_16978.txt",
+        "doc_16976.txt"
+    ]
+}

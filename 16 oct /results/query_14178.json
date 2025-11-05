@@ -1,0 +1,10 @@
+{
+    "query": "What is the most widely planted grapefruit variety in Florida?",
+    "response": [
+        "doc_8218.txt",
+        "doc_8219.txt",
+        "doc_8221.txt",
+        "doc_8222.txt",
+        "doc_8226.txt"
+    ]
+}

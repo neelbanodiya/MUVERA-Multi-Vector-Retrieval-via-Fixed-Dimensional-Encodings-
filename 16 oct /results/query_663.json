@@ -1,0 +1,10 @@
+{
+    "query": "What caused the snow to be too deep for the body to be carried to Lochow?",
+    "response": [
+        "doc_381.txt",
+        "doc_380.txt",
+        "doc_10325.txt",
+        "doc_20873.txt",
+        "doc_2748.txt"
+    ]
+}

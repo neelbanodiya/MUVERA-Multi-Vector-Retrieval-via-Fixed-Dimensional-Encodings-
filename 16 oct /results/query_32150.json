@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Real Valladolid achieve its highest points record?",
+    "response": [
+        "doc_18742.txt",
+        "doc_18743.txt",
+        "doc_23524.txt",
+        "doc_23535.txt",
+        "doc_11629.txt"
+    ]
+}

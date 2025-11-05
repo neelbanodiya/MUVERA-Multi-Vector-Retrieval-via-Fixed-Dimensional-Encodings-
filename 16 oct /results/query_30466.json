@@ -1,0 +1,10 @@
+{
+    "query": "Who does the postman, Mario, deliver mail to?",
+    "response": [
+        "doc_17698.txt",
+        "doc_17714.txt",
+        "doc_17702.txt",
+        "doc_17699.txt",
+        "doc_17707.txt"
+    ]
+}

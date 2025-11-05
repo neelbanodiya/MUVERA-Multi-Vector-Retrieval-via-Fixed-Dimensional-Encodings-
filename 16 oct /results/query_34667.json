@@ -1,0 +1,10 @@
+{
+    "query": "According to the article titled \"The Frugal Magic of the \\\"Five Ingredient Crock Pot Meal\\\"\", what type of liquid is recommended to cover ingredients in a crock pot?",
+    "response": [
+        "doc_7082.txt",
+        "doc_4896.txt",
+        "doc_18289.txt",
+        "doc_5803.txt",
+        "doc_14363.txt"
+    ]
+}

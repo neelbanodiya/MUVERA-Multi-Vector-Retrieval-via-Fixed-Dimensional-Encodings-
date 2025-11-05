@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary function of the Oshkosh Defense PLS vehicle?",
+    "response": [
+        "doc_21795.txt",
+        "doc_14281.txt",
+        "doc_490.txt",
+        "doc_24068.txt",
+        "doc_8115.txt"
+    ]
+}

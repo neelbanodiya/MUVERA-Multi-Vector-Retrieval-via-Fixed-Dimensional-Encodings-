@@ -1,0 +1,10 @@
+{
+    "query": "Who warned Rosina and promised to deliver a letter to her?",
+    "response": [
+        "doc_7943.txt",
+        "doc_7942.txt",
+        "doc_7941.txt",
+        "doc_7940.txt",
+        "doc_7944.txt"
+    ]
+}

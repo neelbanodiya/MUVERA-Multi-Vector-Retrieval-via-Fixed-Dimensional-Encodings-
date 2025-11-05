@@ -1,0 +1,10 @@
+{
+    "query": "Who filled in for John Bonham on drums at the 1988 Atlantic Records 40th anniversary concert?",
+    "response": [
+        "doc_2397.txt",
+        "doc_2402.txt",
+        "doc_2407.txt",
+        "doc_2394.txt",
+        "doc_2390.txt"
+    ]
+}

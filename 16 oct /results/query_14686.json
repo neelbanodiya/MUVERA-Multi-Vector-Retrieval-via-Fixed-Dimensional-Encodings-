@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the necklace featured in the film *Titanic*?",
+    "response": [
+        "doc_8477.txt",
+        "doc_8475.txt",
+        "doc_8481.txt",
+        "doc_8474.txt",
+        "doc_8471.txt"
+    ]
+}

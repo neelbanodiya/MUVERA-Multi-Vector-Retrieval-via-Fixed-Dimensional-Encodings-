@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Green Mountain Boys capture Fort Ticonderoga?",
+    "response": [
+        "doc_4308.txt",
+        "doc_4302.txt",
+        "doc_4310.txt",
+        "doc_4311.txt",
+        "doc_4309.txt"
+    ]
+}

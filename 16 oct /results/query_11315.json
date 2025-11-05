@@ -1,0 +1,10 @@
+{
+    "query": "Who were called Hu and Iu?",
+    "response": [
+        "doc_22906.txt",
+        "doc_9841.txt",
+        "doc_13656.txt",
+        "doc_4623.txt",
+        "doc_16632.txt"
+    ]
+}

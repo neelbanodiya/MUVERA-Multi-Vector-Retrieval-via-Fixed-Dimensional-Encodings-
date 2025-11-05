@@ -1,0 +1,10 @@
+{
+    "query": "Who requested a declaration of war on Mexico?",
+    "response": [
+        "doc_5822.txt",
+        "doc_5821.txt",
+        "doc_19901.txt",
+        "doc_33.txt",
+        "doc_6404.txt"
+    ]
+}

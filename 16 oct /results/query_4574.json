@@ -1,0 +1,10 @@
+{
+    "query": "What was Barack Obama\u2019s grandfather\u2019s profession, according to the text?",
+    "response": [
+        "doc_2640.txt",
+        "doc_23200.txt",
+        "doc_3913.txt",
+        "doc_23195.txt",
+        "doc_15667.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What phrase does Jeff Probst deliver to losing contestants on *Survivor*?",
+    "response": [
+        "doc_3103.txt",
+        "doc_8184.txt",
+        "doc_8185.txt",
+        "doc_9988.txt",
+        "doc_12665.txt"
+    ]
+}

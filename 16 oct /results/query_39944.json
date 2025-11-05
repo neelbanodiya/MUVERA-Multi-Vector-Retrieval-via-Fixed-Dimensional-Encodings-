@@ -1,0 +1,10 @@
+{
+    "query": "What family does the African buffalo belong to, according to the provided text?",
+    "response": [
+        "doc_23382.txt",
+        "doc_2336.txt",
+        "doc_8789.txt",
+        "doc_10158.txt",
+        "doc_10935.txt"
+    ]
+}

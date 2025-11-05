@@ -1,0 +1,10 @@
+{
+    "query": "Which Shakespearean play did Orson Welles adapt multiple times, as indicated by the provided links?",
+    "response": [
+        "doc_7765.txt",
+        "doc_7766.txt",
+        "doc_5297.txt",
+        "doc_4920.txt",
+        "doc_7769.txt"
+    ]
+}

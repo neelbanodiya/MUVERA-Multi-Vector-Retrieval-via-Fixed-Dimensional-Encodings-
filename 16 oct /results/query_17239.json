@@ -1,0 +1,10 @@
+{
+    "query": "Which U.S. President got married in the White House in 1886?",
+    "response": [
+        "doc_19536.txt",
+        "doc_12670.txt",
+        "doc_12674.txt",
+        "doc_22760.txt",
+        "doc_12669.txt"
+    ]
+}

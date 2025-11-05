@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission\u2019s current assessment regarding the environmental impact assessment requirements for the other works mentioned in the letter?",
+    "response": [
+        "doc_2125.txt",
+        "doc_12496.txt",
+        "doc_9770.txt",
+        "doc_132.txt",
+        "doc_11681.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In January 2003 this \u201cPort\u201d city celebrated the 60th birthday of famous daughter Janis Joplin.",
+    "response": [
+        "doc_1137.txt",
+        "doc_1131.txt",
+        "doc_1129.txt",
+        "doc_1138.txt",
+        "doc_1128.txt"
+    ]
+}

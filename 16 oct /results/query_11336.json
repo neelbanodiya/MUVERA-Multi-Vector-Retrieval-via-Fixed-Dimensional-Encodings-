@@ -1,0 +1,10 @@
+{
+    "query": "What is the common name for *Polypedates leucomystax*?",
+    "response": [
+        "doc_20055.txt",
+        "doc_19030.txt",
+        "doc_2676.txt",
+        "doc_9979.txt",
+        "doc_11057.txt"
+    ]
+}

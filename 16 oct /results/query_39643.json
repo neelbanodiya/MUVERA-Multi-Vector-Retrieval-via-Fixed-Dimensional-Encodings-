@@ -1,0 +1,10 @@
+{
+    "query": "What is the population of the Binghamton metropolitan area according to the 2010 census?",
+    "response": [
+        "doc_23216.txt",
+        "doc_2258.txt",
+        "doc_23215.txt",
+        "doc_15881.txt",
+        "doc_22507.txt"
+    ]
+}

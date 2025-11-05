@@ -1,0 +1,10 @@
+{
+    "query": "Who was the first holder of the OVW Women's Championship?",
+    "response": [
+        "doc_15159.txt",
+        "doc_19313.txt",
+        "doc_19050.txt",
+        "doc_13767.txt",
+        "doc_1232.txt"
+    ]
+}

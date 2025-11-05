@@ -1,0 +1,10 @@
+{
+    "query": "What flower is the 3rd wedding anniversary flower and the state flower of Kansas?",
+    "response": [
+        "doc_1345.txt",
+        "doc_1346.txt",
+        "doc_1354.txt",
+        "doc_1349.txt",
+        "doc_1359.txt"
+    ]
+}

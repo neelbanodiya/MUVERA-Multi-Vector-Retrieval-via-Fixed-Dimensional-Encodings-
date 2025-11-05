@@ -1,0 +1,10 @@
+{
+    "query": "Which lake is mentioned in connection with Richard Wagner\u2019s early life and walking tour?",
+    "response": [
+        "doc_13798.txt",
+        "doc_1638.txt",
+        "doc_7345.txt",
+        "doc_20940.txt",
+        "doc_22661.txt"
+    ]
+}

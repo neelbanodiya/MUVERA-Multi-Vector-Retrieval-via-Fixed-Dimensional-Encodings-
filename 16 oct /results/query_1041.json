@@ -1,0 +1,10 @@
+{
+    "query": "Who coached the 2006 Lelean Dream Team?",
+    "response": [
+        "doc_582.txt",
+        "doc_20081.txt",
+        "doc_76.txt",
+        "doc_5573.txt",
+        "doc_4738.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which scientists are both associated with the name of the element Curium?",
+    "response": [
+        "doc_2608.txt",
+        "doc_2605.txt",
+        "doc_2607.txt",
+        "doc_2606.txt",
+        "doc_2612.txt"
+    ]
+}

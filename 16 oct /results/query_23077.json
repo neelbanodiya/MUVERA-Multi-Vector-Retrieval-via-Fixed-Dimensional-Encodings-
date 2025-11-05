@@ -1,0 +1,10 @@
+{
+    "query": "What year was the Framework Agreement concluded, and where can you find the original text of that agreement?",
+    "response": [
+        "doc_13398.txt",
+        "doc_13350.txt",
+        "doc_22363.txt",
+        "doc_9745.txt",
+        "doc_17473.txt"
+    ]
+}

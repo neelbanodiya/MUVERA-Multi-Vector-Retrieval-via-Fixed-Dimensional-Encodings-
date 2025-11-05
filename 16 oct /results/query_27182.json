@@ -1,0 +1,10 @@
+{
+    "query": "What prevailing winds are mentioned as influencing travel between England and France?",
+    "response": [
+        "doc_15789.txt",
+        "doc_15788.txt",
+        "doc_15798.txt",
+        "doc_15793.txt",
+        "doc_2718.txt"
+    ]
+}

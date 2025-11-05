@@ -1,0 +1,10 @@
+{
+    "query": "Who is Roman Coppola related to?",
+    "response": [
+        "doc_7102.txt",
+        "doc_8789.txt",
+        "doc_14534.txt",
+        "doc_7101.txt",
+        "doc_4274.txt"
+    ]
+}

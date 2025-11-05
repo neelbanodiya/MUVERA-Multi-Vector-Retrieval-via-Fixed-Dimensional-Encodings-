@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject of the \u201cColdwater Corrido\u201d mentioned in the passage?",
+    "response": [
+        "doc_11629.txt",
+        "doc_8938.txt",
+        "doc_3407.txt",
+        "doc_623.txt",
+        "doc_18785.txt"
+    ]
+}

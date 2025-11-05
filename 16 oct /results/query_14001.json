@@ -1,0 +1,10 @@
+{
+    "query": "How many Indo-Fijians are currently residing in a refugee camp in Lautoka?",
+    "response": [
+        "doc_20059.txt",
+        "doc_10933.txt",
+        "doc_8130.txt",
+        "doc_7369.txt",
+        "doc_15354.txt"
+    ]
+}

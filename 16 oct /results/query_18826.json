@@ -1,0 +1,10 @@
+{
+    "query": "Which director\u2019s son appeared in a film alongside Sofia Coppola, as noted in one of the linked articles?",
+    "response": [
+        "doc_5324.txt",
+        "doc_2231.txt",
+        "doc_3233.txt",
+        "doc_5323.txt",
+        "doc_8693.txt"
+    ]
+}

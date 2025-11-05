@@ -1,0 +1,10 @@
+{
+    "query": "Which committee assists the Commission?",
+    "response": [
+        "doc_21820.txt",
+        "doc_4676.txt",
+        "doc_20798.txt",
+        "doc_5474.txt",
+        "doc_20781.txt"
+    ]
+}

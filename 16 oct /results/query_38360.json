@@ -1,0 +1,10 @@
+{
+    "query": "Which team, currently in Major League Baseball, has never won a World Series?",
+    "response": [
+        "doc_22499.txt",
+        "doc_22500.txt",
+        "doc_22501.txt",
+        "doc_2349.txt",
+        "doc_10293.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is Mount Elbert\u2019s ranking in terms of height relative to other mountains in the contiguous United States?",
+    "response": [
+        "doc_18550.txt",
+        "doc_18536.txt",
+        "doc_18534.txt",
+        "doc_18551.txt",
+        "doc_18541.txt"
+    ]
+}

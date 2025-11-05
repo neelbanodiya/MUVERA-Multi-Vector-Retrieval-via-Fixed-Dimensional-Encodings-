@@ -1,0 +1,10 @@
+{
+    "query": "Where was General Grant\u2019s temporary headquarters located during the Petersburg campaign?",
+    "response": [
+        "doc_20716.txt",
+        "doc_20725.txt",
+        "doc_20723.txt",
+        "doc_20718.txt",
+        "doc_20717.txt"
+    ]
+}

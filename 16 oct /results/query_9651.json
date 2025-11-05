@@ -1,0 +1,10 @@
+{
+    "query": "Who was the U.S. head coach mentioned in the text, and for which team did he coach?",
+    "response": [
+        "doc_18911.txt",
+        "doc_11963.txt",
+        "doc_5573.txt",
+        "doc_75.txt",
+        "doc_74.txt"
+    ]
+}

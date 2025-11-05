@@ -1,0 +1,10 @@
+{
+    "query": "What musical adaptation did Williams perform on Broadway?",
+    "response": [
+        "doc_8216.txt",
+        "doc_245.txt",
+        "doc_17093.txt",
+        "doc_8812.txt",
+        "doc_783.txt"
+    ]
+}

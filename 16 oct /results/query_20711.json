@@ -1,0 +1,10 @@
+{
+    "query": "What legal regulation governs the calculation of interest rates applied to late payments by the Commission?",
+    "response": [
+        "doc_11960.txt",
+        "doc_9885.txt",
+        "doc_23623.txt",
+        "doc_3427.txt",
+        "doc_9886.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What role does Stromboli play in Pinocchio\u2019s story, according to the provided texts?",
+    "response": [
+        "doc_20619.txt",
+        "doc_20611.txt",
+        "doc_20614.txt",
+        "doc_20622.txt",
+        "doc_20616.txt"
+    ]
+}

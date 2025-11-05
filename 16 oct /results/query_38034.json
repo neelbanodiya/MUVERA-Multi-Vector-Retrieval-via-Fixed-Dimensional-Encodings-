@@ -1,0 +1,10 @@
+{
+    "query": "What quantities of gold coins, blanks, and miscellaneous items were held by the U.S. Treasury as of 2008, as reported in the Forbes article?",
+    "response": [
+        "doc_15877.txt",
+        "doc_22304.txt",
+        "doc_15863.txt",
+        "doc_24221.txt",
+        "doc_23928.txt"
+    ]
+}

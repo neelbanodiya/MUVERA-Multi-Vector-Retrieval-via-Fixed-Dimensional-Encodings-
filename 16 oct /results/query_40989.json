@@ -1,0 +1,10 @@
+{
+    "query": "What variety of eggplant is commonly found across sub-Saharan Africa?",
+    "response": [
+        "doc_848.txt",
+        "doc_838.txt",
+        "doc_835.txt",
+        "doc_6626.txt",
+        "doc_21576.txt"
+    ]
+}

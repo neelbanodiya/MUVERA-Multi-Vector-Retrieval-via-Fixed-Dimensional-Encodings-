@@ -1,0 +1,10 @@
+{
+    "query": "What does the resolution aim to improve regarding the European Parliament and the US?",
+    "response": [
+        "doc_1630.txt",
+        "doc_8816.txt",
+        "doc_17341.txt",
+        "doc_1272.txt",
+        "doc_18527.txt"
+    ]
+}

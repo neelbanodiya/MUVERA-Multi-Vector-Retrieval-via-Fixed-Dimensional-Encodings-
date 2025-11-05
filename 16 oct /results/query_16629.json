@@ -1,0 +1,10 @@
+{
+    "query": "Which manga artist created the works \u201cOld Boy,\u201d \u201cAburemon,\u201d and \u201cJungle\u201d?",
+    "response": [
+        "doc_2858.txt",
+        "doc_18583.txt",
+        "doc_7825.txt",
+        "doc_7826.txt",
+        "doc_22598.txt"
+    ]
+}

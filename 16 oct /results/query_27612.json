@@ -1,0 +1,10 @@
+{
+    "query": "What physical description is given for Mrs. Monk?",
+    "response": [
+        "doc_16050.txt",
+        "doc_12949.txt",
+        "doc_9303.txt",
+        "doc_32.txt",
+        "doc_21783.txt"
+    ]
+}

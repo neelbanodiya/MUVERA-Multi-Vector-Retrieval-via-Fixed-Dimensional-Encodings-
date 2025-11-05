@@ -1,0 +1,10 @@
+{
+    "query": "How is Spain divided administratively, and what are these divisions called?",
+    "response": [
+        "doc_1001.txt",
+        "doc_3806.txt",
+        "doc_3441.txt",
+        "doc_12055.txt",
+        "doc_3442.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "From what historical unit of measurement does the English word \u201counce\u201d originate?",
+    "response": [
+        "doc_12750.txt",
+        "doc_12756.txt",
+        "doc_12748.txt",
+        "doc_12753.txt",
+        "doc_12740.txt"
+    ]
+}

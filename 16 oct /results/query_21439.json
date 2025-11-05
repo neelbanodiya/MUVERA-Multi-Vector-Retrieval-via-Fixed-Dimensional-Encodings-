@@ -1,0 +1,10 @@
+{
+    "query": "Which film featured John Cacavas\u2019 arrangements of Marvin Hamlisch adaptations of Scott Joplin\u2019s music?",
+    "response": [
+        "doc_23546.txt",
+        "doc_14258.txt",
+        "doc_10463.txt",
+        "doc_128.txt",
+        "doc_5868.txt"
+    ]
+}

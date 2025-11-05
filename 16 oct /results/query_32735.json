@@ -1,0 +1,10 @@
+{
+    "query": "What subject area is the student planning to study at Harvard?",
+    "response": [
+        "doc_5377.txt",
+        "doc_5378.txt",
+        "doc_12546.txt",
+        "doc_5307.txt",
+        "doc_21979.txt"
+    ]
+}

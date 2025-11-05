@@ -1,0 +1,10 @@
+{
+    "query": "What is one example of a museum that visitors are permitted to explore outside of the Cleveland Museum of Art?",
+    "response": [
+        "doc_8506.txt",
+        "doc_14728.txt",
+        "doc_14733.txt",
+        "doc_14734.txt",
+        "doc_14736.txt"
+    ]
+}

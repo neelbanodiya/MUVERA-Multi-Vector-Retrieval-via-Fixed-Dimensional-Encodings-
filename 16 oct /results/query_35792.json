@@ -1,0 +1,10 @@
+{
+    "query": "According to Say, when do laborers return to work?",
+    "response": [
+        "doc_19354.txt",
+        "doc_14147.txt",
+        "doc_14124.txt",
+        "doc_12602.txt",
+        "doc_14158.txt"
+    ]
+}

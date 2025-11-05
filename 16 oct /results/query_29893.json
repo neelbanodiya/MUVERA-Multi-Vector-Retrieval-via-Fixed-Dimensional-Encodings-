@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what recent advancements has the Court of Justice made concerning Community competences for criminal penalties?",
+    "response": [
+        "doc_17372.txt",
+        "doc_7951.txt",
+        "doc_7291.txt",
+        "doc_10306.txt",
+        "doc_3426.txt"
+    ]
+}

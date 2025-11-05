@@ -1,0 +1,10 @@
+{
+    "query": "In April 1813, what action did the Americans take regarding York (now Toronto)?",
+    "response": [
+        "doc_10049.txt",
+        "doc_10053.txt",
+        "doc_10054.txt",
+        "doc_10050.txt",
+        "doc_10057.txt"
+    ]
+}

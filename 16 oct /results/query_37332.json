@@ -1,0 +1,10 @@
+{
+    "query": "Which specific model names fall under the \u201cTioga\u201d category of recreational vehicles?",
+    "response": [
+        "doc_21856.txt",
+        "doc_21858.txt",
+        "doc_10489.txt",
+        "doc_23260.txt",
+        "doc_10861.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Roy Buchanan appear on the PBS music program \u201cAustin City Limits\u201d?",
+    "response": [
+        "doc_13923.txt",
+        "doc_13922.txt",
+        "doc_13924.txt",
+        "doc_10695.txt",
+        "doc_1961.txt"
+    ]
+}

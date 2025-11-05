@@ -1,0 +1,10 @@
+{
+    "query": "What events prompted a need for a European energy policy, as highlighted in the passage?",
+    "response": [
+        "doc_24175.txt",
+        "doc_14212.txt",
+        "doc_24177.txt",
+        "doc_24173.txt",
+        "doc_24172.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked documents, what is Elvis Presley\u2019s connection to Graceland?",
+    "response": [
+        "doc_5170.txt",
+        "doc_15271.txt",
+        "doc_15266.txt",
+        "doc_14860.txt",
+        "doc_8789.txt"
+    ]
+}

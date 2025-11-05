@@ -1,0 +1,10 @@
+{
+    "query": "When was Stephen Foster's ballad \u201cBeautiful Dreamer\u201d finally published after his death?",
+    "response": [
+        "doc_10198.txt",
+        "doc_10194.txt",
+        "doc_10195.txt",
+        "doc_10201.txt",
+        "doc_10196.txt"
+    ]
+}

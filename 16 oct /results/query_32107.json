@@ -1,0 +1,10 @@
+{
+    "query": "Which company previously owned Weight Watchers until 1999?",
+    "response": [
+        "doc_18723.txt",
+        "doc_18724.txt",
+        "doc_18717.txt",
+        "doc_17203.txt",
+        "doc_19456.txt"
+    ]
+}

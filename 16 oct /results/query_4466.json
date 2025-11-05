@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate altitude range of most of Tibet?",
+    "response": [
+        "doc_23524.txt",
+        "doc_23528.txt",
+        "doc_18534.txt",
+        "doc_21704.txt",
+        "doc_23529.txt"
+    ]
+}

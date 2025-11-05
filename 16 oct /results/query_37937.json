@@ -1,0 +1,10 @@
+{
+    "query": "At what age did Sir Thomas Malory complete his great book?",
+    "response": [
+        "doc_22248.txt",
+        "doc_22246.txt",
+        "doc_22245.txt",
+        "doc_22259.txt",
+        "doc_22244.txt"
+    ]
+}

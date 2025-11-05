@@ -1,0 +1,10 @@
+{
+    "query": "Which author is referenced in the document titled \u201cHemingway vs Fitzgerald by Scott Donaldson\u201d?",
+    "response": [
+        "doc_17764.txt",
+        "doc_17758.txt",
+        "doc_2892.txt",
+        "doc_16595.txt",
+        "doc_22261.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "During what period of history did the Lutheran movement gain popularity in Germany?",
+    "response": [
+        "doc_18407.txt",
+        "doc_18406.txt",
+        "doc_18403.txt",
+        "doc_18405.txt",
+        "doc_18075.txt"
+    ]
+}

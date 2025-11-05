@@ -1,0 +1,10 @@
+{
+    "query": "Which ancient Egyptian deity was often depicted with the head of an ibis?",
+    "response": [
+        "doc_13954.txt",
+        "doc_13953.txt",
+        "doc_13955.txt",
+        "doc_13956.txt",
+        "doc_13957.txt"
+    ]
+}

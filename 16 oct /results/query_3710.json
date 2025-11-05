@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the business currently located at 70 Waterloo Street in Moncton, New Brunswick?",
+    "response": [
+        "doc_14642.txt",
+        "doc_12645.txt",
+        "doc_2257.txt",
+        "doc_6002.txt",
+        "doc_2.txt"
+    ]
+}

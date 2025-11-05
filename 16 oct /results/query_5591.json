@@ -1,0 +1,10 @@
+{
+    "query": "Who officiated Bruce Willis\u2019s wedding?",
+    "response": [
+        "doc_3259.txt",
+        "doc_10474.txt",
+        "doc_6410.txt",
+        "doc_11818.txt",
+        "doc_6404.txt"
+    ]
+}

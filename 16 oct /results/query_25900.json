@@ -1,0 +1,10 @@
+{
+    "query": "Besides David Bowie, which other artist is highlighted in one of the linked articles as a significant musical figure?",
+    "response": [
+        "doc_10463.txt",
+        "doc_14076.txt",
+        "doc_4939.txt",
+        "doc_20542.txt",
+        "doc_5294.txt"
+    ]
+}

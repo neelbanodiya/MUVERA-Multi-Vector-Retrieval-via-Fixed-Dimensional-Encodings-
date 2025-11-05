@@ -1,0 +1,10 @@
+{
+    "query": "What is the purpose of the center line on an NHL rink?",
+    "response": [
+        "doc_16875.txt",
+        "doc_16876.txt",
+        "doc_16877.txt",
+        "doc_16879.txt",
+        "doc_3405.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the court where Sven Olof Joachim Palme was initially convicted of the murder?",
+    "response": [
+        "doc_15494.txt",
+        "doc_15501.txt",
+        "doc_15500.txt",
+        "doc_15502.txt",
+        "doc_15497.txt"
+    ]
+}

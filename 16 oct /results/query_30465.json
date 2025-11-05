@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary job of the postman, Mario, in the film?",
+    "response": [
+        "doc_17712.txt",
+        "doc_1479.txt",
+        "doc_21379.txt",
+        "doc_15277.txt",
+        "doc_16997.txt"
+    ]
+}

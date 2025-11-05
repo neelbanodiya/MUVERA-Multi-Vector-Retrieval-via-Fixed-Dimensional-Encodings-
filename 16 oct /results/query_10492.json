@@ -1,0 +1,10 @@
+{
+    "query": "Who was specifically the father of Balder, according to one of the provided sources?",
+    "response": [
+        "doc_6077.txt",
+        "doc_6091.txt",
+        "doc_6081.txt",
+        "doc_16126.txt",
+        "doc_6086.txt"
+    ]
+}

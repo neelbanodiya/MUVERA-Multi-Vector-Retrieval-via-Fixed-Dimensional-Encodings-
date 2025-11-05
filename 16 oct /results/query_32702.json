@@ -1,0 +1,10 @@
+{
+    "query": "Which actor portrays Bruce Wayne in the \u201cGotham\u201d television series?",
+    "response": [
+        "doc_19057.txt",
+        "doc_19058.txt",
+        "doc_23994.txt",
+        "doc_23290.txt",
+        "doc_23280.txt"
+    ]
+}

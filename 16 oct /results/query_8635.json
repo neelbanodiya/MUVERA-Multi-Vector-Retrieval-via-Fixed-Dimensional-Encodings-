@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of the sequel to \u201cPiranha\u201d that James Cameron directed in 1981?",
+    "response": [
+        "doc_4987.txt",
+        "doc_4984.txt",
+        "doc_4991.txt",
+        "doc_4989.txt",
+        "doc_4992.txt"
+    ]
+}

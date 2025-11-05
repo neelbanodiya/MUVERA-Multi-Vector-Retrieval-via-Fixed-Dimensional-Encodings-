@@ -1,0 +1,10 @@
+{
+    "query": "Which retail chains operate stores under the names A&P, Food Basics, and Pathmark?",
+    "response": [
+        "doc_3626.txt",
+        "doc_3627.txt",
+        "doc_3628.txt",
+        "doc_12645.txt",
+        "doc_9359.txt"
+    ]
+}

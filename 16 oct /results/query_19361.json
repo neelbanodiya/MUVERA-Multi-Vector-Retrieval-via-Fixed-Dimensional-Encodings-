@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Isaac Barre deliver a speech against the Stamp Act?",
+    "response": [
+        "doc_11205.txt",
+        "doc_342.txt",
+        "doc_337.txt",
+        "doc_20539.txt",
+        "doc_10067.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "The passage states that over 11 million people are threatened by the drought in the Horn of Africa. Can you confirm this figure?",
+    "response": [
+        "doc_19182.txt",
+        "doc_19034.txt",
+        "doc_16564.txt",
+        "doc_15165.txt",
+        "doc_8113.txt"
+    ]
+}

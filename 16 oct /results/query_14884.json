@@ -1,0 +1,10 @@
+{
+    "query": "Besides Vienna, where else did the Hofburg Palace exist and remain in Habsburg possession?",
+    "response": [
+        "doc_8633.txt",
+        "doc_8634.txt",
+        "doc_8643.txt",
+        "doc_8640.txt",
+        "doc_8648.txt"
+    ]
+}

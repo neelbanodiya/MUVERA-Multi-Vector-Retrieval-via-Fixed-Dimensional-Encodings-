@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the musical *Evita* win seven Tony Awards?",
+    "response": [
+        "doc_22622.txt",
+        "doc_22623.txt",
+        "doc_22630.txt",
+        "doc_22629.txt",
+        "doc_22624.txt"
+    ]
+}

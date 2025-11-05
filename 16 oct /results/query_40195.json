@@ -1,0 +1,10 @@
+{
+    "query": "Which mountain range is home to the highest summits of the Pyrenees, including the Maladeta?",
+    "response": [
+        "doc_23529.txt",
+        "doc_23526.txt",
+        "doc_23524.txt",
+        "doc_23535.txt",
+        "doc_23528.txt"
+    ]
+}

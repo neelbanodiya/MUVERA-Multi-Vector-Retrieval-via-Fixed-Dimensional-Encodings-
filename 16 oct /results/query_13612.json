@@ -1,0 +1,10 @@
+{
+    "query": "Where were Abraham Lincoln and his wife attending when he was assassinated?",
+    "response": [
+        "doc_7923.txt",
+        "doc_7937.txt",
+        "doc_6111.txt",
+        "doc_7928.txt",
+        "doc_7921.txt"
+    ]
+}

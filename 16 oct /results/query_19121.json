@@ -1,0 +1,10 @@
+{
+    "query": "Approximately what percentage of patients survive at least one year after a heart transplant performed by Dr. Barnard?",
+    "response": [
+        "doc_11089.txt",
+        "doc_11090.txt",
+        "doc_11087.txt",
+        "doc_11100.txt",
+        "doc_11084.txt"
+    ]
+}

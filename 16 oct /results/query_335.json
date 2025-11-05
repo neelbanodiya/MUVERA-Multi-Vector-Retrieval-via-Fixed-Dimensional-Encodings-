@@ -1,0 +1,10 @@
+{
+    "query": "In what country was \u201cDog Soldiers\u201d primarily filmed?",
+    "response": [
+        "doc_1560.txt",
+        "doc_1231.txt",
+        "doc_8113.txt",
+        "doc_5902.txt",
+        "doc_140.txt"
+    ]
+}

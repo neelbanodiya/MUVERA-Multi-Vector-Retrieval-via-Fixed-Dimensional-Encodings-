@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, when was *World So Wide* published?",
+    "response": [
+        "doc_17273.txt",
+        "doc_19379.txt",
+        "doc_9644.txt",
+        "doc_3565.txt",
+        "doc_8692.txt"
+    ]
+}

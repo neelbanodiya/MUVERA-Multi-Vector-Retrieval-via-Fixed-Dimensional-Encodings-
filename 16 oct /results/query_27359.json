@@ -1,0 +1,10 @@
+{
+    "query": "What region did Germany transfer aircraft to in order to support the Battle of Stalingrad?",
+    "response": [
+        "doc_13901.txt",
+        "doc_15916.txt",
+        "doc_876.txt",
+        "doc_15918.txt",
+        "doc_15923.txt"
+    ]
+}

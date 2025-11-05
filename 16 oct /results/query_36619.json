@@ -1,0 +1,10 @@
+{
+    "query": "What award did Frank Capra receive for \u201cIt Happened One Night\u201d?",
+    "response": [
+        "doc_2264.txt",
+        "doc_5758.txt",
+        "doc_8087.txt",
+        "doc_15278.txt",
+        "doc_4918.txt"
+    ]
+}

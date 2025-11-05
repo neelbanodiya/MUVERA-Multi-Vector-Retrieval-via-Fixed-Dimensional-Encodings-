@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Sir Thomas Malory believed to have completed his work, *Le Morte Darthur*?",
+    "response": [
+        "doc_22246.txt",
+        "doc_22244.txt",
+        "doc_22250.txt",
+        "doc_22247.txt",
+        "doc_22259.txt"
+    ]
+}

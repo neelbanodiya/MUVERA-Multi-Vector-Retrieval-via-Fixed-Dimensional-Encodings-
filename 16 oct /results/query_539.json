@@ -1,0 +1,10 @@
+{
+    "query": "What is the literal translation of the phrase \u201cRustic Chivalry\u201d as it relates to the opera\u2019s title?",
+    "response": [
+        "doc_329.txt",
+        "doc_324.txt",
+        "doc_320.txt",
+        "doc_326.txt",
+        "doc_335.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Swedish artist did John Dahlb\u00e4ck collaborate with on the song \u201cLife (Diamonds in the Dark)\u201d?",
+    "response": [
+        "doc_22859.txt",
+        "doc_12573.txt",
+        "doc_10096.txt",
+        "doc_23608.txt",
+        "doc_17039.txt"
+    ]
+}

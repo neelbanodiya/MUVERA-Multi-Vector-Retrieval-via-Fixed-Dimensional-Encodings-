@@ -1,0 +1,10 @@
+{
+    "query": "Who succeeded King George VI after his death?",
+    "response": [
+        "doc_9759.txt",
+        "doc_9757.txt",
+        "doc_9767.txt",
+        "doc_9763.txt",
+        "doc_9755.txt"
+    ]
+}

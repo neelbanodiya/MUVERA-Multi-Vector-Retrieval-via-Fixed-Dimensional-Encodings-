@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the song that is described as one of Jimi Hendrix\u2019s most original compositions on the 1967 album *Are You Experienced?*",
+    "response": [
+        "doc_19668.txt",
+        "doc_19669.txt",
+        "doc_19670.txt",
+        "doc_5318.txt",
+        "doc_23434.txt"
+    ]
+}

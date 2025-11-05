@@ -1,0 +1,10 @@
+{
+    "query": "What was the first big hit Richard III released in 1956?",
+    "response": [
+        "doc_4604.txt",
+        "doc_8006.txt",
+        "doc_13098.txt",
+        "doc_15318.txt",
+        "doc_19424.txt"
+    ]
+}

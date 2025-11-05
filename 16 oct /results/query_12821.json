@@ -1,0 +1,10 @@
+{
+    "query": "For which two films did Joan Cusack receive Academy Award nominations?",
+    "response": [
+        "doc_23290.txt",
+        "doc_7453.txt",
+        "doc_1486.txt",
+        "doc_1491.txt",
+        "doc_23284.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided articles, who won the Best Director Oscar in 2007?",
+    "response": [
+        "doc_4919.txt",
+        "doc_4909.txt",
+        "doc_4913.txt",
+        "doc_4910.txt",
+        "doc_4923.txt"
+    ]
+}

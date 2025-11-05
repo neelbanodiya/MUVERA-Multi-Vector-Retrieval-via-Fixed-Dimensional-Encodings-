@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what are the main ingredients of a traditional New England Indian pudding?",
+    "response": [
+        "doc_21686.txt",
+        "doc_21685.txt",
+        "doc_21695.txt",
+        "doc_21691.txt",
+        "doc_21690.txt"
+    ]
+}

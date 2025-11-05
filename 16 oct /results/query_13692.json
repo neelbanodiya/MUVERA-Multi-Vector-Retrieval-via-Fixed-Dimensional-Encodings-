@@ -1,0 +1,10 @@
+{
+    "query": "Who gave a positive review to Jane Austen\u2019s book, *Northanger Abbey*?",
+    "response": [
+        "doc_7975.txt",
+        "doc_2330.txt",
+        "doc_2334.txt",
+        "doc_2322.txt",
+        "doc_2321.txt"
+    ]
+}

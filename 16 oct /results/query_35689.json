@@ -1,0 +1,10 @@
+{
+    "query": "In what circumstances, as outlined in the passage, can Article 21(3) be applied instead of Article 21(2)?",
+    "response": [
+        "doc_20750.txt",
+        "doc_20754.txt",
+        "doc_21024.txt",
+        "doc_5833.txt",
+        "doc_3426.txt"
+    ]
+}

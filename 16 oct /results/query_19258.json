@@ -1,0 +1,10 @@
+{
+    "query": "Which organization, based in Washington, D.C., is identified as a major lobbying group representing the financial industry?",
+    "response": [
+        "doc_11168.txt",
+        "doc_11165.txt",
+        "doc_11166.txt",
+        "doc_11169.txt",
+        "doc_11162.txt"
+    ]
+}

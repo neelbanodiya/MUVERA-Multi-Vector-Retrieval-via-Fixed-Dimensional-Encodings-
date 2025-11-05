@@ -1,0 +1,10 @@
+{
+    "query": "What was Albert Einstein doing when he asked Weber for a letter of recommendation?",
+    "response": [
+        "doc_11963.txt",
+        "doc_6401.txt",
+        "doc_14537.txt",
+        "doc_6410.txt",
+        "doc_19776.txt"
+    ]
+}

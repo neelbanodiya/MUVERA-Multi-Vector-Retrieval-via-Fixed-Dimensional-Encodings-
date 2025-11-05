@@ -1,0 +1,10 @@
+{
+    "query": "How many times did Michael Jackson appear on the cover of Ebony magazine between 1945 and 1995?",
+    "response": [
+        "doc_6183.txt",
+        "doc_2858.txt",
+        "doc_4169.txt",
+        "doc_6665.txt",
+        "doc_1342.txt"
+    ]
+}

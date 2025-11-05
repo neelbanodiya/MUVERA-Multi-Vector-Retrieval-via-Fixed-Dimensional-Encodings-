@@ -1,0 +1,10 @@
+{
+    "query": "In 2012, how many barrels of beer were produced in the United States?",
+    "response": [
+        "doc_6096.txt",
+        "doc_23977.txt",
+        "doc_6097.txt",
+        "doc_7175.txt",
+        "doc_23979.txt"
+    ]
+}

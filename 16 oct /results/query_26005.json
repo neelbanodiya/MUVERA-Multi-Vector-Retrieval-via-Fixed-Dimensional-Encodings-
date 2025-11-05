@@ -1,0 +1,10 @@
+{
+    "query": "What is William Shatner\u2019s profession, according to the provided text?",
+    "response": [
+        "doc_15118.txt",
+        "doc_12227.txt",
+        "doc_12840.txt",
+        "doc_2955.txt",
+        "doc_1885.txt"
+    ]
+}

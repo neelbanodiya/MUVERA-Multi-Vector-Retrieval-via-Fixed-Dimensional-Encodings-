@@ -1,0 +1,10 @@
+{
+    "query": "What is SOAK's music described as by The Guardian?",
+    "response": [
+        "doc_10096.txt",
+        "doc_24145.txt",
+        "doc_10095.txt",
+        "doc_14550.txt",
+        "doc_7783.txt"
+    ]
+}

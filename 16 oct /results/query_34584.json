@@ -1,0 +1,10 @@
+{
+    "query": "Based on the *Tools of Characterization in Great Expectations* article, what is a notable characteristic attributed to Pip?",
+    "response": [
+        "doc_20127.txt",
+        "doc_7648.txt",
+        "doc_783.txt",
+        "doc_623.txt",
+        "doc_17758.txt"
+    ]
+}

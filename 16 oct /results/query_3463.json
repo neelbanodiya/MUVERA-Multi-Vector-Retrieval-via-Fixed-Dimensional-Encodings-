@@ -1,0 +1,10 @@
+{
+    "query": "Senator John Heinz, the heir to the Heinz food fortune, was killed in a plane crash in 1991.",
+    "response": [
+        "doc_2041.txt",
+        "doc_2033.txt",
+        "doc_2038.txt",
+        "doc_2046.txt",
+        "doc_2035.txt"
+    ]
+}

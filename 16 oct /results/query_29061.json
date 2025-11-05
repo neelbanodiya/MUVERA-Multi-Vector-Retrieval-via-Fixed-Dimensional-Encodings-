@@ -1,0 +1,10 @@
+{
+    "query": "Which studio produced the film \u201cReform School Girl\u201d?",
+    "response": [
+        "doc_16935.txt",
+        "doc_16936.txt",
+        "doc_9892.txt",
+        "doc_1231.txt",
+        "doc_21902.txt"
+    ]
+}

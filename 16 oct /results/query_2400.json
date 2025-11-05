@@ -1,0 +1,10 @@
+{
+    "query": "What Belgian DJ created the music project Technotronic?",
+    "response": [
+        "doc_1422.txt",
+        "doc_1421.txt",
+        "doc_1424.txt",
+        "doc_1426.txt",
+        "doc_1423.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the opening phrase of the final chapter of *Jane Eyre*?",
+    "response": [
+        "doc_632.txt",
+        "doc_633.txt",
+        "doc_635.txt",
+        "doc_631.txt",
+        "doc_642.txt"
+    ]
+}

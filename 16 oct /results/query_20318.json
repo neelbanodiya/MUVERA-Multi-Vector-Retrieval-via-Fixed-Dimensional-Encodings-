@@ -1,0 +1,10 @@
+{
+    "query": "What drink did Helen Mirren reportedly enjoy, and how was it described?",
+    "response": [
+        "doc_21559.txt",
+        "doc_16601.txt",
+        "doc_6682.txt",
+        "doc_22861.txt",
+        "doc_20409.txt"
+    ]
+}

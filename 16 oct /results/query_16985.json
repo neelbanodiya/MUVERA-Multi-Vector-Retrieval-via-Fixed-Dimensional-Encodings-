@@ -1,0 +1,10 @@
+{
+    "query": "Which publisher is considered one of the most prestigious in Germany and has published works by G\u00fcnter Grass?",
+    "response": [
+        "doc_6190.txt",
+        "doc_6187.txt",
+        "doc_6193.txt",
+        "doc_6191.txt",
+        "doc_10083.txt"
+    ]
+}

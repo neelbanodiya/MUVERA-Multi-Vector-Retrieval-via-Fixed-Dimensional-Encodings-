@@ -1,0 +1,10 @@
+{
+    "query": "In what village was Guru Nanak Dev born, and what is its current name?",
+    "response": [
+        "doc_12977.txt",
+        "doc_12973.txt",
+        "doc_12972.txt",
+        "doc_12969.txt",
+        "doc_12968.txt"
+    ]
+}

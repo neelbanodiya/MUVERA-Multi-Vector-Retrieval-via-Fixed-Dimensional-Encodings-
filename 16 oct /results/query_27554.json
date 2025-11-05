@@ -1,0 +1,10 @@
+{
+    "query": "What kind of dog did Richard Nixon receive as a gift during his vice-presidential campaign?",
+    "response": [
+        "doc_16023.txt",
+        "doc_16028.txt",
+        "doc_22758.txt",
+        "doc_16475.txt",
+        "doc_19069.txt"
+    ]
+}

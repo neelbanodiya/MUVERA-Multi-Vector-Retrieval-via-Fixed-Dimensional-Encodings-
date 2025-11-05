@@ -1,0 +1,10 @@
+{
+    "query": "What denomination of U.S. currency featured Judah P. Benjamin as its Secretary of State?",
+    "response": [
+        "doc_3383.txt",
+        "doc_3386.txt",
+        "doc_3398.txt",
+        "doc_2904.txt",
+        "doc_24207.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which actor appeared in both \u201cThe 400 Blows\u201d and \u201cPsycho Killer\u201d?",
+    "response": [
+        "doc_21654.txt",
+        "doc_4194.txt",
+        "doc_23280.txt",
+        "doc_19687.txt",
+        "doc_18773.txt"
+    ]
+}

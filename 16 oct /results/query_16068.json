@@ -1,0 +1,10 @@
+{
+    "query": "What role did St. Veronica play in relation to Jesus\u2019s face, according to the provided texts?",
+    "response": [
+        "doc_9312.txt",
+        "doc_9303.txt",
+        "doc_9320.txt",
+        "doc_9316.txt",
+        "doc_9321.txt"
+    ]
+}

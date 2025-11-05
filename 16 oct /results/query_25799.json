@@ -1,0 +1,10 @@
+{
+    "query": "In what year was *A Wizard of Earthsea* first published?",
+    "response": [
+        "doc_14975.txt",
+        "doc_6066.txt",
+        "doc_7862.txt",
+        "doc_19982.txt",
+        "doc_14265.txt"
+    ]
+}

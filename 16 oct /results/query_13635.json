@@ -1,0 +1,10 @@
+{
+    "query": "According to the Lisbon Treaty, what is one of the objectives related to tourism?",
+    "response": [
+        "doc_12615.txt",
+        "doc_15136.txt",
+        "doc_23402.txt",
+        "doc_17380.txt",
+        "doc_11337.txt"
+    ]
+}

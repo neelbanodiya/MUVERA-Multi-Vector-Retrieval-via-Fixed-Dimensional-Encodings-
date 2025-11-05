@@ -1,0 +1,10 @@
+{
+    "query": "What was Charles Manson\u2019s role in Los Angeles in the late 1960s?",
+    "response": [
+        "doc_9007.txt",
+        "doc_9004.txt",
+        "doc_9001.txt",
+        "doc_9008.txt",
+        "doc_9011.txt"
+    ]
+}

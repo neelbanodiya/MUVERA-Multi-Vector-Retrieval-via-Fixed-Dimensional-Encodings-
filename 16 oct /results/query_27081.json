@@ -1,0 +1,10 @@
+{
+    "query": "What is King Abdul Aziz reportedly doing at the airport?",
+    "response": [
+        "doc_15729.txt",
+        "doc_15730.txt",
+        "doc_15722.txt",
+        "doc_15735.txt",
+        "doc_15719.txt"
+    ]
+}

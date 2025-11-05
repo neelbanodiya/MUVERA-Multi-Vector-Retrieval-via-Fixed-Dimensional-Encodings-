@@ -1,0 +1,10 @@
+{
+    "query": "What action is being requested of the Commission regarding the Technical Arrangement with Israel?",
+    "response": [
+        "doc_1213.txt",
+        "doc_1211.txt",
+        "doc_18380.txt",
+        "doc_19899.txt",
+        "doc_4810.txt"
+    ]
+}

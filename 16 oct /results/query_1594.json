@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the combined district in the Rogue River area?",
+    "response": [
+        "doc_890.txt",
+        "doc_18154.txt",
+        "doc_16630.txt",
+        "doc_3185.txt",
+        "doc_16253.txt"
+    ]
+}

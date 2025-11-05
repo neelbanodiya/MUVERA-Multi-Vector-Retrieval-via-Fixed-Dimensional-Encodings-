@@ -1,0 +1,10 @@
+{
+    "query": "What characteristics of flowers are important for identifying plants within the Rosaceae family?",
+    "response": [
+        "doc_21519.txt",
+        "doc_2269.txt",
+        "doc_16769.txt",
+        "doc_17894.txt",
+        "doc_4222.txt"
+    ]
+}

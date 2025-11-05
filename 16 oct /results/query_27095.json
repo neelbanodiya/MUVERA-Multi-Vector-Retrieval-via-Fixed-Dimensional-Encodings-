@@ -1,0 +1,10 @@
+{
+    "query": "What fee is required upon exiting Israel, according to one of the linked documents?",
+    "response": [
+        "doc_5824.txt",
+        "doc_15731.txt",
+        "doc_1213.txt",
+        "doc_14055.txt",
+        "doc_1987.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which group occupied positions of great power during the Roman Empire in the Iberian Peninsula?",
+    "response": [
+        "doc_10366.txt",
+        "doc_10373.txt",
+        "doc_10370.txt",
+        "doc_10367.txt",
+        "doc_8346.txt"
+    ]
+}

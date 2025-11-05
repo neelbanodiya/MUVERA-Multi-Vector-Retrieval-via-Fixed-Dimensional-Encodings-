@@ -1,0 +1,10 @@
+{
+    "query": "What type of weapon was originally used by Scottish Highlanders?",
+    "response": [
+        "doc_24083.txt",
+        "doc_24089.txt",
+        "doc_24084.txt",
+        "doc_24085.txt",
+        "doc_24086.txt"
+    ]
+}

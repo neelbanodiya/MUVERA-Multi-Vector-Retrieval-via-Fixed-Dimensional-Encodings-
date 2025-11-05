@@ -1,0 +1,10 @@
+{
+    "query": "In what year were M&M's peanut chocolate candies introduced?",
+    "response": [
+        "doc_12191.txt",
+        "doc_12190.txt",
+        "doc_12189.txt",
+        "doc_12199.txt",
+        "doc_12198.txt"
+    ]
+}

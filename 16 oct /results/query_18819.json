@@ -1,0 +1,10 @@
+{
+    "query": "What role did Diane Keaton play in *The Godfather* films?",
+    "response": [
+        "doc_10927.txt",
+        "doc_10923.txt",
+        "doc_10924.txt",
+        "doc_4872.txt",
+        "doc_10922.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which musical, besides *Wonderful Town*, achieved a record-breaking gross on Broadway in 2005?",
+    "response": [
+        "doc_17918.txt",
+        "doc_17094.txt",
+        "doc_17914.txt",
+        "doc_17109.txt",
+        "doc_22622.txt"
+    ]
+}

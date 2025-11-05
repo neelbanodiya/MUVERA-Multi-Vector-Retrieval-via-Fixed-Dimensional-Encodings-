@@ -1,0 +1,10 @@
+{
+    "query": "In what state is the Jersey Shore Area School District located?",
+    "response": [
+        "doc_18831.txt",
+        "doc_18832.txt",
+        "doc_21400.txt",
+        "doc_4741.txt",
+        "doc_8422.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what round of the 2017 season did Sarah Jolly make her debut?",
+    "response": [
+        "doc_2957.txt",
+        "doc_2955.txt",
+        "doc_13650.txt",
+        "doc_22875.txt",
+        "doc_10379.txt"
+    ]
+}

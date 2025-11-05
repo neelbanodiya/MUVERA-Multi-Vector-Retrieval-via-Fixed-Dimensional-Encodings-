@@ -1,0 +1,10 @@
+{
+    "query": "Which city became the universal language of the Greeks due to the prominence of its dialect?",
+    "response": [
+        "doc_15382.txt",
+        "doc_15373.txt",
+        "doc_15381.txt",
+        "doc_15379.txt",
+        "doc_15372.txt"
+    ]
+}

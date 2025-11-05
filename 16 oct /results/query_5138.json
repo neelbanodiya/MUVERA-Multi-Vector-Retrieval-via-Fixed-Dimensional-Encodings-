@@ -1,0 +1,10 @@
+{
+    "query": "What was the cause of the St. Francis Dam break?",
+    "response": [
+        "doc_19706.txt",
+        "doc_19792.txt",
+        "doc_16252.txt",
+        "doc_19086.txt",
+        "doc_7869.txt"
+    ]
+}

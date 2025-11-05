@@ -1,0 +1,10 @@
+{
+    "query": "When was William Greene born?",
+    "response": [
+        "doc_4814.txt",
+        "doc_11917.txt",
+        "doc_1908.txt",
+        "doc_5104.txt",
+        "doc_7524.txt"
+    ]
+}

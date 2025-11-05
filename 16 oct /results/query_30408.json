@@ -1,0 +1,10 @@
+{
+    "query": "Where were the Pittsburgh Penguins\u2019 colors cited as being worn by a now-defunct NHL team?",
+    "response": [
+        "doc_17689.txt",
+        "doc_17687.txt",
+        "doc_21626.txt",
+        "doc_22046.txt",
+        "doc_6453.txt"
+    ]
+}

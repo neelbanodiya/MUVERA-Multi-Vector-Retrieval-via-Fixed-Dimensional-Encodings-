@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what did Sylvester Stallone initially do with copies of films?",
+    "response": [
+        "doc_16952.txt",
+        "doc_18754.txt",
+        "doc_5323.txt",
+        "doc_2231.txt",
+        "doc_400.txt"
+    ]
+}

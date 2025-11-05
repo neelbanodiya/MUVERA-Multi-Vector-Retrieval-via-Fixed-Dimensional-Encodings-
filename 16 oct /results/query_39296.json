@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the currency used in France from 781 to 1794?",
+    "response": [
+        "doc_23004.txt",
+        "doc_10141.txt",
+        "doc_10144.txt",
+        "doc_10148.txt",
+        "doc_10150.txt"
+    ]
+}

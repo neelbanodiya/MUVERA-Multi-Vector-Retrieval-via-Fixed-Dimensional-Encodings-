@@ -1,0 +1,10 @@
+{
+    "query": "Who must inform the President of Parliament or the Office of information related to the first and second paragraphs?",
+    "response": [
+        "doc_13344.txt",
+        "doc_13370.txt",
+        "doc_2201.txt",
+        "doc_13366.txt",
+        "doc_13208.txt"
+    ]
+}

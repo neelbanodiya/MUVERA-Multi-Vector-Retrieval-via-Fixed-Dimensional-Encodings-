@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what kind of subjects did P. F. Hugues, Baron d'Hancarville, study?",
+    "response": [
+        "doc_15529.txt",
+        "doc_7252.txt",
+        "doc_18456.txt",
+        "doc_17763.txt",
+        "doc_15532.txt"
+    ]
+}

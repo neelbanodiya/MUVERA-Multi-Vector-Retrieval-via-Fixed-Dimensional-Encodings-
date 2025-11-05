@@ -1,0 +1,10 @@
+{
+    "query": "What was the voting outcome for the motions related to breaches of human rights in China?",
+    "response": [
+        "doc_7846.txt",
+        "doc_19295.txt",
+        "doc_5814.txt",
+        "doc_10980.txt",
+        "doc_10976.txt"
+    ]
+}

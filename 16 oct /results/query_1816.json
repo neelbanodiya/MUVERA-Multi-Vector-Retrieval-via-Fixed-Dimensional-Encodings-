@@ -1,0 +1,10 @@
+{
+    "query": "What action did the President take during Jos\u00e9 Manuel Barroso\u2019s speech?",
+    "response": [
+        "doc_20518.txt",
+        "doc_397.txt",
+        "doc_22481.txt",
+        "doc_342.txt",
+        "doc_16476.txt"
+    ]
+}

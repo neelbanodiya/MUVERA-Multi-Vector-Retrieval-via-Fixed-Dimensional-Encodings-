@@ -1,0 +1,10 @@
+{
+    "query": "What was the total expenditure for the Court of Justice in 2005 (AB 1 and 2 included), and how did it change between the PDB 2006 and the DB 2006?",
+    "response": [
+        "doc_19696.txt",
+        "doc_14304.txt",
+        "doc_1363.txt",
+        "doc_7967.txt",
+        "doc_23146.txt"
+    ]
+}

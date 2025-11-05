@@ -1,0 +1,10 @@
+{
+    "query": "On what date was the European Parliament\u2019s position adopted regarding the proposed regulation?",
+    "response": [
+        "doc_6165.txt",
+        "doc_3423.txt",
+        "doc_22546.txt",
+        "doc_20777.txt",
+        "doc_20810.txt"
+    ]
+}

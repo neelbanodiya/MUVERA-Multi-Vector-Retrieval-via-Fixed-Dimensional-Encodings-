@@ -1,0 +1,10 @@
+{
+    "query": "Which ballet company was Sergei Diaghilev associated with?",
+    "response": [
+        "doc_15656.txt",
+        "doc_18770.txt",
+        "doc_18771.txt",
+        "doc_18768.txt",
+        "doc_19809.txt"
+    ]
+}

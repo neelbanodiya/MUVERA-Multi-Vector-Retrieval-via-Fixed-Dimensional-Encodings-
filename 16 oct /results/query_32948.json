@@ -1,0 +1,10 @@
+{
+    "query": "According to the Shorenstein Center article, what functions did Jann Wenner perform?",
+    "response": [
+        "doc_627.txt",
+        "doc_628.txt",
+        "doc_6147.txt",
+        "doc_1836.txt",
+        "doc_22072.txt"
+    ]
+}

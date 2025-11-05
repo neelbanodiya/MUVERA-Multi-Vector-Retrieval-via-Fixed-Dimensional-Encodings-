@@ -1,0 +1,10 @@
+{
+    "query": "How many names in the passage start with the letter \u2018S\u2019?",
+    "response": [
+        "doc_12379.txt",
+        "doc_18317.txt",
+        "doc_3637.txt",
+        "doc_12385.txt",
+        "doc_12383.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what event led to the establishment of the Second Republic?",
+    "response": [
+        "doc_6343.txt",
+        "doc_10141.txt",
+        "doc_10140.txt",
+        "doc_1032.txt",
+        "doc_8051.txt"
+    ]
+}

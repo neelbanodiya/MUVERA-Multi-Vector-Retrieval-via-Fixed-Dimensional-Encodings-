@@ -1,0 +1,10 @@
+{
+    "query": "When was the Tobin tax first proposed?",
+    "response": [
+        "doc_5841.txt",
+        "doc_22298.txt",
+        "doc_17470.txt",
+        "doc_22519.txt",
+        "doc_6983.txt"
+    ]
+}

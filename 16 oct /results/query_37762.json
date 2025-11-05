@@ -1,0 +1,10 @@
+{
+    "query": "How did Alice feel after starting a conversation?",
+    "response": [
+        "doc_22141.txt",
+        "doc_17907.txt",
+        "doc_14246.txt",
+        "doc_22138.txt",
+        "doc_22139.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which international organization is being asked to provide recommendations for managing Kashgar\u2019s historic landscape?",
+    "response": [
+        "doc_12897.txt",
+        "doc_12896.txt",
+        "doc_11117.txt",
+        "doc_14301.txt",
+        "doc_22341.txt"
+    ]
+}

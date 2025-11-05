@@ -1,0 +1,10 @@
+{
+    "query": "In what year did this person work as a Professor of Acting in Film at UCLA?",
+    "response": [
+        "doc_7987.txt",
+        "doc_5773.txt",
+        "doc_16872.txt",
+        "doc_15708.txt",
+        "doc_5323.txt"
+    ]
+}

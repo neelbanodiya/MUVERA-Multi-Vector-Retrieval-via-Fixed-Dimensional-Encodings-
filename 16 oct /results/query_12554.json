@@ -1,0 +1,10 @@
+{
+    "query": "What was the mission of the Russian combat engineers who arrived in Syria?",
+    "response": [
+        "doc_7311.txt",
+        "doc_17782.txt",
+        "doc_23270.txt",
+        "doc_1483.txt",
+        "doc_18380.txt"
+    ]
+}

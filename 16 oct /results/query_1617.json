@@ -1,0 +1,10 @@
+{
+    "query": "What song by The Bee Gees is referenced in a discussion about popular 70s music?",
+    "response": [
+        "doc_9804.txt",
+        "doc_899.txt",
+        "doc_9383.txt",
+        "doc_1984.txt",
+        "doc_14725.txt"
+    ]
+}

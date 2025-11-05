@@ -1,0 +1,10 @@
+{
+    "query": "What action does the passage call for the Commission to take regarding negotiations?",
+    "response": [
+        "doc_13372.txt",
+        "doc_3794.txt",
+        "doc_13404.txt",
+        "doc_13218.txt",
+        "doc_13231.txt"
+    ]
+}

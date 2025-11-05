@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, how many of each kind of animal was Noah instructed to take onto the ark?",
+    "response": [
+        "doc_7437.txt",
+        "doc_7435.txt",
+        "doc_7438.txt",
+        "doc_7439.txt",
+        "doc_7436.txt"
+    ]
+}

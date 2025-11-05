@@ -1,0 +1,10 @@
+{
+    "query": "According to the UN, how many rapes were perpetrated during the attacks in eastern DRC in July 2010?",
+    "response": [
+        "doc_14580.txt",
+        "doc_14579.txt",
+        "doc_8114.txt",
+        "doc_12631.txt",
+        "doc_8113.txt"
+    ]
+}

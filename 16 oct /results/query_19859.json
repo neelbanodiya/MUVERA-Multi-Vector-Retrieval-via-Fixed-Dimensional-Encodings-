@@ -1,0 +1,10 @@
+{
+    "query": "In which conference does the 2016-17 Seton Hall Pirates men's basketball team compete?",
+    "response": [
+        "doc_11462.txt",
+        "doc_11464.txt",
+        "doc_11463.txt",
+        "doc_5437.txt",
+        "doc_5436.txt"
+    ]
+}

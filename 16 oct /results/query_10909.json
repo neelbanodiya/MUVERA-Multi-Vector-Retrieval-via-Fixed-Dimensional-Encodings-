@@ -1,0 +1,10 @@
+{
+    "query": "Who is the sister of Dante Gabriel Rossetti who wrote \u201cGoblin Market\u201d?",
+    "response": [
+        "doc_6304.txt",
+        "doc_6312.txt",
+        "doc_6305.txt",
+        "doc_6301.txt",
+        "doc_6302.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the predominant hair color among Greek women?",
+    "response": [
+        "doc_11048.txt",
+        "doc_11052.txt",
+        "doc_11051.txt",
+        "doc_11047.txt",
+        "doc_11055.txt"
+    ]
+}

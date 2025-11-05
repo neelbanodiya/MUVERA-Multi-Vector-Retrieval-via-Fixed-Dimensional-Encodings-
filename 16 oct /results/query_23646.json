@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what time period is referenced as being similar to the time of Christ?",
+    "response": [
+        "doc_1294.txt",
+        "doc_1310.txt",
+        "doc_5040.txt",
+        "doc_9445.txt",
+        "doc_5050.txt"
+    ]
+}

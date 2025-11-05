@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate number of pieces of debris larger than a softball orbiting Earth, as mentioned in the NASA passage?",
+    "response": [
+        "doc_16079.txt",
+        "doc_15214.txt",
+        "doc_16089.txt",
+        "doc_14176.txt",
+        "doc_19270.txt"
+    ]
+}

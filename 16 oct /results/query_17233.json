@@ -1,0 +1,10 @@
+{
+    "query": "Who played the Pirate King in the production of *The Pirates of Penzance*?",
+    "response": [
+        "doc_9965.txt",
+        "doc_20018.txt",
+        "doc_20015.txt",
+        "doc_7453.txt",
+        "doc_20010.txt"
+    ]
+}

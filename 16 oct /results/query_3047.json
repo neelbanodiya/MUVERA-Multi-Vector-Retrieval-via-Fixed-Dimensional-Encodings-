@@ -1,0 +1,10 @@
+{
+    "query": "According to the IMF, what percentage has Zimbabwe\u2019s economy contracted in the last decade?",
+    "response": [
+        "doc_1853.txt",
+        "doc_23111.txt",
+        "doc_1852.txt",
+        "doc_1855.txt",
+        "doc_12682.txt"
+    ]
+}

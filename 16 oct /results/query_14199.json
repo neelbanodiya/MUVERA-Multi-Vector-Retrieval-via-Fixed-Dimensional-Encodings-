@@ -1,0 +1,10 @@
+{
+    "query": "What type of alumni are highlighted in the St. Anne\u2019s-Belfield School alumni spotlight?",
+    "response": [
+        "doc_8246.txt",
+        "doc_3545.txt",
+        "doc_5307.txt",
+        "doc_12406.txt",
+        "doc_5315.txt"
+    ]
+}

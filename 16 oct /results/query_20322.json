@@ -1,0 +1,10 @@
+{
+    "query": "What is a French term meaning \u201cblanc\u201d?",
+    "response": [
+        "doc_23167.txt",
+        "doc_9979.txt",
+        "doc_5852.txt",
+        "doc_23530.txt",
+        "doc_23170.txt"
+    ]
+}

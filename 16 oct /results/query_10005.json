@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what are some examples of ingredients used in Persian cuisine?",
+    "response": [
+        "doc_5794.txt",
+        "doc_21691.txt",
+        "doc_15004.txt",
+        "doc_21692.txt",
+        "doc_5795.txt"
+    ]
+}

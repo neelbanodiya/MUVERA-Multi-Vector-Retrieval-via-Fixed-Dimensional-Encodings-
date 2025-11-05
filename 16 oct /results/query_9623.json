@@ -1,0 +1,10 @@
+{
+    "query": "Which magazine named Palawan Island the 'Best Island in the World' in 2016?",
+    "response": [
+        "doc_5562.txt",
+        "doc_12058.txt",
+        "doc_12061.txt",
+        "doc_12057.txt",
+        "doc_20481.txt"
+    ]
+}

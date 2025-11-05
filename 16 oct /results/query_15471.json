@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is one of the listed organizations associated with the City of Livingston, MT?",
+    "response": [
+        "doc_4509.txt",
+        "doc_22542.txt",
+        "doc_16152.txt",
+        "doc_1635.txt",
+        "doc_23215.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the Daily Mail article, what is a notable trend regarding unmarried women in the UK?",
+    "response": [
+        "doc_12945.txt",
+        "doc_12952.txt",
+        "doc_1731.txt",
+        "doc_2184.txt",
+        "doc_9118.txt"
+    ]
+}

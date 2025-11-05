@@ -1,0 +1,10 @@
+{
+    "query": "What does Linda Loman say at the end of the play?",
+    "response": [
+        "doc_309.txt",
+        "doc_18748.txt",
+        "doc_7743.txt",
+        "doc_9555.txt",
+        "doc_635.txt"
+    ]
+}

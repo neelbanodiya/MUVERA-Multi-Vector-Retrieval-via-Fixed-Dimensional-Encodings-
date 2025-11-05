@@ -1,0 +1,10 @@
+{
+    "query": "Where was William Tell first performed \u2013 specifically, what body of water was it near?",
+    "response": [
+        "doc_7325.txt",
+        "doc_1252.txt",
+        "doc_1253.txt",
+        "doc_3436.txt",
+        "doc_345.txt"
+    ]
+}

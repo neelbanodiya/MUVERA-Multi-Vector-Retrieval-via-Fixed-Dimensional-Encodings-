@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Amelia Earhart marry George Putnam?",
+    "response": [
+        "doc_5782.txt",
+        "doc_5783.txt",
+        "doc_5781.txt",
+        "doc_5788.txt",
+        "doc_5780.txt"
+    ]
+}

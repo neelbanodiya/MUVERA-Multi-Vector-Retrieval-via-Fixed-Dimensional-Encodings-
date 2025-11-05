@@ -1,0 +1,10 @@
+{
+    "query": "What is the secret identity of Hank Henshaw in the television show *Supergirl*?",
+    "response": [
+        "doc_12247.txt",
+        "doc_15121.txt",
+        "doc_22114.txt",
+        "doc_21998.txt",
+        "doc_15402.txt"
+    ]
+}

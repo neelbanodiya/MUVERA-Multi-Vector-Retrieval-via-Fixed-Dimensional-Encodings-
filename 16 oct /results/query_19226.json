@@ -1,0 +1,10 @@
+{
+    "query": "What year did *Pulp Fiction* win the Palme d'Or at the Cannes Film Festival?",
+    "response": [
+        "doc_3225.txt",
+        "doc_3227.txt",
+        "doc_1580.txt",
+        "doc_7648.txt",
+        "doc_21922.txt"
+    ]
+}

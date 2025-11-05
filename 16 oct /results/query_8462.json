@@ -1,0 +1,10 @@
+{
+    "query": "For what film did Orson Welles share the Best Original Screenplay award?",
+    "response": [
+        "doc_4912.txt",
+        "doc_4926.txt",
+        "doc_4925.txt",
+        "doc_4911.txt",
+        "doc_4916.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What prestigious award did William Butler Yeats receive in 1923?",
+    "response": [
+        "doc_11660.txt",
+        "doc_11657.txt",
+        "doc_5758.txt",
+        "doc_11667.txt",
+        "doc_11670.txt"
+    ]
+}

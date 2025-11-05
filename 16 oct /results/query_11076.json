@@ -1,0 +1,10 @@
+{
+    "query": "Who answered the oral question regarding the draft bill on Israeli NGOs?",
+    "response": [
+        "doc_6407.txt",
+        "doc_14690.txt",
+        "doc_5219.txt",
+        "doc_18821.txt",
+        "doc_14638.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year was the 1968 European Cup Final played?",
+    "response": [
+        "doc_10378.txt",
+        "doc_10380.txt",
+        "doc_24227.txt",
+        "doc_10381.txt",
+        "doc_24228.txt"
+    ]
+}

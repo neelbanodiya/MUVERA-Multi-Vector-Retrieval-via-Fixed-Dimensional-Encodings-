@@ -1,0 +1,10 @@
+{
+    "query": "What did the person writing the review of \u201cRaven\u2019s House Party\u201d say about the show compared to programming on Disney Channel?",
+    "response": [
+        "doc_3343.txt",
+        "doc_19272.txt",
+        "doc_19273.txt",
+        "doc_3723.txt",
+        "doc_8797.txt"
+    ]
+}

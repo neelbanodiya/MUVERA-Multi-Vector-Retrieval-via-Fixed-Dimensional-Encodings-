@@ -1,0 +1,10 @@
+{
+    "query": "Historically, what role did St. Louis play as a location?",
+    "response": [
+        "doc_21161.txt",
+        "doc_4515.txt",
+        "doc_2518.txt",
+        "doc_17370.txt",
+        "doc_13785.txt"
+    ]
+}

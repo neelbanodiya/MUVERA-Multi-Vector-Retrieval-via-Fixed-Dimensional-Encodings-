@@ -1,0 +1,10 @@
+{
+    "query": "What film did Christopher Reeve star in alongside Vanessa Redgrave as Basil Ransom?",
+    "response": [
+        "doc_22118.txt",
+        "doc_22115.txt",
+        "doc_22109.txt",
+        "doc_22114.txt",
+        "doc_22117.txt"
+    ]
+}

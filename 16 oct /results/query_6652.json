@@ -1,0 +1,10 @@
+{
+    "query": "Where was James Milne born, and what was his role after a specific event?",
+    "response": [
+        "doc_4939.txt",
+        "doc_21264.txt",
+        "doc_4656.txt",
+        "doc_22859.txt",
+        "doc_431.txt"
+    ]
+}

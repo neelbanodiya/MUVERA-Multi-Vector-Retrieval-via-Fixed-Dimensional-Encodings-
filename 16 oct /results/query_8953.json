@@ -1,0 +1,10 @@
+{
+    "query": "What was sold in Australia in 1933?",
+    "response": [
+        "doc_24118.txt",
+        "doc_19681.txt",
+        "doc_19682.txt",
+        "doc_2103.txt",
+        "doc_24117.txt"
+    ]
+}

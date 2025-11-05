@@ -1,0 +1,10 @@
+{
+    "query": "Who did Robert Kilroy-Silk request the Commission to support?",
+    "response": [
+        "doc_4294.txt",
+        "doc_2664.txt",
+        "doc_17404.txt",
+        "doc_16992.txt",
+        "doc_14364.txt"
+    ]
+}

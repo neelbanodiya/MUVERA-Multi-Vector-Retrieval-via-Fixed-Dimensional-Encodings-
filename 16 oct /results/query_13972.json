@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many people have been displaced since August 2008 due to the resumption of fighting in the DRC?",
+    "response": [
+        "doc_8112.txt",
+        "doc_8114.txt",
+        "doc_8113.txt",
+        "doc_12630.txt",
+        "doc_15257.txt"
+    ]
+}

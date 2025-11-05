@@ -1,0 +1,10 @@
+{
+    "query": "According to press reports, what is Deutsche Telekom allegedly planning to do regarding Skype services on its network?",
+    "response": [
+        "doc_866.txt",
+        "doc_2669.txt",
+        "doc_4734.txt",
+        "doc_12419.txt",
+        "doc_10847.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where did Charles Manson and his family live before the Sharon Tate murders?",
+    "response": [
+        "doc_9006.txt",
+        "doc_8998.txt",
+        "doc_9015.txt",
+        "doc_8999.txt",
+        "doc_9010.txt"
+    ]
+}

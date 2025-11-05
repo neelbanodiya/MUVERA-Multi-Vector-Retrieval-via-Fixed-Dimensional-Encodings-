@@ -1,0 +1,10 @@
+{
+    "query": "How much financial contribution did the European Commission propose to mobilise for the application submitted by Greece?",
+    "response": [
+        "doc_10890.txt",
+        "doc_3248.txt",
+        "doc_5466.txt",
+        "doc_3828.txt",
+        "doc_2027.txt"
+    ]
+}

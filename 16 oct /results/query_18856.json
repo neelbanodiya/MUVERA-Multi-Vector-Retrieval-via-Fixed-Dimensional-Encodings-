@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the character frequently featured on the cover of *The New Yorker*?",
+    "response": [
+        "doc_18583.txt",
+        "doc_10942.txt",
+        "doc_10690.txt",
+        "doc_21368.txt",
+        "doc_21994.txt"
+    ]
+}

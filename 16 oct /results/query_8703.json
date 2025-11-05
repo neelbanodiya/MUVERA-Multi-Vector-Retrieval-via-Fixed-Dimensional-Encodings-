@@ -1,0 +1,10 @@
+{
+    "query": "Near which river did Columbus likely make landfall?",
+    "response": [
+        "doc_5024.txt",
+        "doc_5026.txt",
+        "doc_5027.txt",
+        "doc_5030.txt",
+        "doc_20873.txt"
+    ]
+}

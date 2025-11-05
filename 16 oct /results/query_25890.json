@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was a key goal of Reza Shah?",
+    "response": [
+        "doc_15042.txt",
+        "doc_23596.txt",
+        "doc_15055.txt",
+        "doc_15056.txt",
+        "doc_15045.txt"
+    ]
+}

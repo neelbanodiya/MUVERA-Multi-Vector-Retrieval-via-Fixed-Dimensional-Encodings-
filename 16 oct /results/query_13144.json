@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the play that Bergman developed into the film *The Seventh Seal*?",
+    "response": [
+        "doc_7687.txt",
+        "doc_7681.txt",
+        "doc_7690.txt",
+        "doc_7688.txt",
+        "doc_7676.txt"
+    ]
+}

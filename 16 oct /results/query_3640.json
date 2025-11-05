@@ -1,0 +1,10 @@
+{
+    "query": "What era did the writing of *Heart of Darkness* take place within, according to one of the linked articles?",
+    "response": [
+        "doc_22244.txt",
+        "doc_13852.txt",
+        "doc_5050.txt",
+        "doc_6322.txt",
+        "doc_6785.txt"
+    ]
+}

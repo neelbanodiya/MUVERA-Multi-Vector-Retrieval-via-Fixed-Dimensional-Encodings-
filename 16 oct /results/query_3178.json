@@ -1,0 +1,10 @@
+{
+    "query": "What is the role of a Congressman or Representative in the United States House of Representatives?",
+    "response": [
+        "doc_1926.txt",
+        "doc_1925.txt",
+        "doc_1935.txt",
+        "doc_20032.txt",
+        "doc_13222.txt"
+    ]
+}

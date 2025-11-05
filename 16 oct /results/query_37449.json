@@ -1,0 +1,10 @@
+{
+    "query": "What position did Barack Obama hold at Harvard Law School before becoming President?",
+    "response": [
+        "doc_21935.txt",
+        "doc_21938.txt",
+        "doc_21936.txt",
+        "doc_21939.txt",
+        "doc_12836.txt"
+    ]
+}

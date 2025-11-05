@@ -1,0 +1,10 @@
+{
+    "query": "Which mountain range divides Patagonia?",
+    "response": [
+        "doc_23532.txt",
+        "doc_8838.txt",
+        "doc_23531.txt",
+        "doc_8837.txt",
+        "doc_23530.txt"
+    ]
+}

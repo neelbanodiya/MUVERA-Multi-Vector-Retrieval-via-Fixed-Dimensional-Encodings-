@@ -1,0 +1,10 @@
+{
+    "query": "Who did the 2009 Texas Longhorns baseball team defeat in the Big 12 Conference Baseball Tournament final?",
+    "response": [
+        "doc_14816.txt",
+        "doc_2010.txt",
+        "doc_14819.txt",
+        "doc_11115.txt",
+        "doc_14817.txt"
+    ]
+}

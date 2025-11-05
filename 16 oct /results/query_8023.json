@@ -1,0 +1,10 @@
+{
+    "query": "Besides *Maude Findlay* and *Dorothy Zbornak*, for what other role did Bea Arthur receive an Emmy Award?",
+    "response": [
+        "doc_4643.txt",
+        "doc_4644.txt",
+        "doc_4651.txt",
+        "doc_4645.txt",
+        "doc_4652.txt"
+    ]
+}

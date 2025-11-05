@@ -1,0 +1,10 @@
+{
+    "query": "What was Mrs. Sharp\u2019s profession?",
+    "response": [
+        "doc_14546.txt",
+        "doc_16055.txt",
+        "doc_12949.txt",
+        "doc_16125.txt",
+        "doc_18509.txt"
+    ]
+}

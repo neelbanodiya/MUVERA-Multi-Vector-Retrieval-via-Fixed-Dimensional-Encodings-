@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is being attempted in Mumbai related to education?",
+    "response": [
+        "doc_7280.txt",
+        "doc_21705.txt",
+        "doc_21706.txt",
+        "doc_21708.txt",
+        "doc_1277.txt"
+    ]
+}

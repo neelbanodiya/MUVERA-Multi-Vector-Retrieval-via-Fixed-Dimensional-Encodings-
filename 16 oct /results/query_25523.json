@@ -1,0 +1,10 @@
+{
+    "query": "According to several sources, what is the approximate ratio of earnings between women and men in the United States (e.g., 77 cents to the dollar)?",
+    "response": [
+        "doc_14796.txt",
+        "doc_14795.txt",
+        "doc_14797.txt",
+        "doc_14798.txt",
+        "doc_14800.txt"
+    ]
+}

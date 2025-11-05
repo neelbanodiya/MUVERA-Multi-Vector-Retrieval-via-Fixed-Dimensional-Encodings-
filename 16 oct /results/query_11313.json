@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the Poet's Press catalog?",
+    "response": [
+        "doc_5509.txt",
+        "doc_20532.txt",
+        "doc_18583.txt",
+        "doc_17979.txt",
+        "doc_14859.txt"
+    ]
+}

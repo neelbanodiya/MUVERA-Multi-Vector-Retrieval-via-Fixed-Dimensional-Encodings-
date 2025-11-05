@@ -1,0 +1,10 @@
+{
+    "query": "According to Edmund Wilson, what myth did he later use to illustrate a particular concept?",
+    "response": [
+        "doc_962.txt",
+        "doc_17271.txt",
+        "doc_17763.txt",
+        "doc_9932.txt",
+        "doc_11783.txt"
+    ]
+}

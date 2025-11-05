@@ -1,0 +1,8 @@
+{
+    "query": "What type of plant is *Cyclamen* described as?",
+    "response": [
+        "doc_15146.txt",
+        "doc_15145.txt",
+        "doc_15147.txt"
+    ]
+}

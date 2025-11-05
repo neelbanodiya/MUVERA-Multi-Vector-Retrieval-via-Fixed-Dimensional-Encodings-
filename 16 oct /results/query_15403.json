@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was the reason the lion did not kill Samson in the womb?",
+    "response": [
+        "doc_14526.txt",
+        "doc_8908.txt",
+        "doc_8907.txt",
+        "doc_8905.txt",
+        "doc_14535.txt"
+    ]
+}

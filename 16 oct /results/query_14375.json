@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the first British edition of a particular publication issued?",
+    "response": [
+        "doc_8337.txt",
+        "doc_8336.txt",
+        "doc_20548.txt",
+        "doc_7862.txt",
+        "doc_20265.txt"
+    ]
+}

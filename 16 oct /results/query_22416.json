@@ -1,0 +1,10 @@
+{
+    "query": "What happened in Japan during the first half of the year, according to one of the snippets?",
+    "response": [
+        "doc_18777.txt",
+        "doc_18843.txt",
+        "doc_207.txt",
+        "doc_16206.txt",
+        "doc_16200.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to one review, what did Adam Gopnik predict about magazines?",
+    "response": [
+        "doc_3935.txt",
+        "doc_18583.txt",
+        "doc_19456.txt",
+        "doc_18582.txt",
+        "doc_14577.txt"
+    ]
+}

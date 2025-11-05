@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary purpose of exchanging banking data between the EU and the USA?",
+    "response": [
+        "doc_15737.txt",
+        "doc_19900.txt",
+        "doc_13394.txt",
+        "doc_5983.txt",
+        "doc_24030.txt"
+    ]
+}

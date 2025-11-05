@@ -1,0 +1,10 @@
+{
+    "query": "Which piano composition by Chopin is specifically identified as a \u201cgrand rondeau de concert\u201d (Krakowiak)?",
+    "response": [
+        "doc_21519.txt",
+        "doc_21520.txt",
+        "doc_21521.txt",
+        "doc_21526.txt",
+        "doc_21522.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which beer is specifically mentioned as being associated with Mexican cuisine and culture?",
+    "response": [
+        "doc_10210.txt",
+        "doc_15190.txt",
+        "doc_23992.txt",
+        "doc_10213.txt",
+        "doc_10223.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the value of the pretzel line Jason Alexander advertised?",
+    "response": [
+        "doc_20949.txt",
+        "doc_24145.txt",
+        "doc_21885.txt",
+        "doc_16318.txt",
+        "doc_20008.txt"
+    ]
+}

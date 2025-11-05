@@ -1,0 +1,10 @@
+{
+    "query": "What was the overall ranking of the top-seeded program in the NCAA Tournament regarding location selection for the first two rounds?",
+    "response": [
+        "doc_11462.txt",
+        "doc_19123.txt",
+        "doc_2566.txt",
+        "doc_11267.txt",
+        "doc_3828.txt"
+    ]
+}

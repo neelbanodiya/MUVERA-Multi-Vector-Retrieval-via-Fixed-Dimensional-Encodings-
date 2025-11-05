@@ -1,0 +1,10 @@
+{
+    "query": "According to scientific studies, how many protected and documented species are found in the marine mountains between Majorca and the Pitiusas Islands?",
+    "response": [
+        "doc_17145.txt",
+        "doc_5564.txt",
+        "doc_13075.txt",
+        "doc_7350.txt",
+        "doc_4336.txt"
+    ]
+}

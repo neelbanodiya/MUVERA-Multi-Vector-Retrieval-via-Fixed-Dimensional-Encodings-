@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what specific event did Jesus foretell Peter would experience involving a rooster?",
+    "response": [
+        "doc_23701.txt",
+        "doc_23697.txt",
+        "doc_23704.txt",
+        "doc_23699.txt",
+        "doc_23702.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What specific dessert was mentioned as being \u201cokay\u201d at Mrs. Knott\u2019s Chicken Dinner Restaurant?",
+    "response": [
+        "doc_21686.txt",
+        "doc_5794.txt",
+        "doc_17334.txt",
+        "doc_21687.txt",
+        "doc_10429.txt"
+    ]
+}

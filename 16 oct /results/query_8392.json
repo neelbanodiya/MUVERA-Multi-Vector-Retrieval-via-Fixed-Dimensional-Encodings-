@@ -1,0 +1,10 @@
+{
+    "query": "According to the World Disasters Report, what kind of assistance is the International Red Cross and Red Crescent Movement providing?",
+    "response": [
+        "doc_4626.txt",
+        "doc_987.txt",
+        "doc_24205.txt",
+        "doc_4761.txt",
+        "doc_23863.txt"
+    ]
+}

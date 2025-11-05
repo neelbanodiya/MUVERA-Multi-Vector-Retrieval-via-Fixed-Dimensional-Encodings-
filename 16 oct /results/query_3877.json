@@ -1,0 +1,10 @@
+{
+    "query": "Which mountain is described as Africa\u2019s second highest, and is located near the border with Kenya?",
+    "response": [
+        "doc_2279.txt",
+        "doc_2278.txt",
+        "doc_2276.txt",
+        "doc_2277.txt",
+        "doc_2274.txt"
+    ]
+}

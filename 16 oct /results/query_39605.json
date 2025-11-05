@@ -1,0 +1,10 @@
+{
+    "query": "What notable event involving Drew Barrymore\u2019s grandfather occurred in Alaska?",
+    "response": [
+        "doc_23194.txt",
+        "doc_23196.txt",
+        "doc_23195.txt",
+        "doc_23200.txt",
+        "doc_23198.txt"
+    ]
+}

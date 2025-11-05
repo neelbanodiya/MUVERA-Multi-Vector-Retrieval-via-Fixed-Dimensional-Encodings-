@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the Scottish flag, and what does it feature?",
+    "response": [
+        "doc_16447.txt",
+        "doc_16463.txt",
+        "doc_16464.txt",
+        "doc_16455.txt",
+        "doc_16453.txt"
+    ]
+}

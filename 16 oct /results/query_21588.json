@@ -1,0 +1,10 @@
+{
+    "query": "What was George Steinbrenner\u2019s age at the time the passage was written?",
+    "response": [
+        "doc_22245.txt",
+        "doc_22049.txt",
+        "doc_18975.txt",
+        "doc_18976.txt",
+        "doc_22261.txt"
+    ]
+}

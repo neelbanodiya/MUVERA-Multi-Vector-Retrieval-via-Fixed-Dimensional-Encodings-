@@ -1,0 +1,10 @@
+{
+    "query": "What happened to the restaurant that originally housed the McDonald's memorabilia?",
+    "response": [
+        "doc_13510.txt",
+        "doc_4057.txt",
+        "doc_5719.txt",
+        "doc_3187.txt",
+        "doc_15814.txt"
+    ]
+}

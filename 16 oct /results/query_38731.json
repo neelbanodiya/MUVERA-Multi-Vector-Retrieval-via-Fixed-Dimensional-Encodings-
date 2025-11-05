@@ -1,0 +1,10 @@
+{
+    "query": "What countries are involved in discussions regarding a political solution for Libya, as highlighted in articles from Egypt, Italy, and Algeria?",
+    "response": [
+        "doc_22688.txt",
+        "doc_22687.txt",
+        "doc_22693.txt",
+        "doc_22689.txt",
+        "doc_22695.txt"
+    ]
+}

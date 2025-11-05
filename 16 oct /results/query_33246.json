@@ -1,0 +1,10 @@
+{
+    "query": "What specific article of the Treaty on European Union (TEU) commits the EU to upholding human rights?",
+    "response": [
+        "doc_19351.txt",
+        "doc_22877.txt",
+        "doc_6669.txt",
+        "doc_19916.txt",
+        "doc_21003.txt"
+    ]
+}

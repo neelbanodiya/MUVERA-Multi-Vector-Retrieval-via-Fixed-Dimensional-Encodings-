@@ -1,0 +1,10 @@
+{
+    "query": "When was \u201cLioness: Hidden Treasures,\u201d Amy Winehouse\u2019s posthumous compilation album, released?",
+    "response": [
+        "doc_128.txt",
+        "doc_642.txt",
+        "doc_8467.txt",
+        "doc_15313.txt",
+        "doc_5278.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where did Janis Joplin make her debut with Big Brother and the Holding Company?",
+    "response": [
+        "doc_8010.txt",
+        "doc_8019.txt",
+        "doc_8016.txt",
+        "doc_8020.txt",
+        "doc_8011.txt"
+    ]
+}

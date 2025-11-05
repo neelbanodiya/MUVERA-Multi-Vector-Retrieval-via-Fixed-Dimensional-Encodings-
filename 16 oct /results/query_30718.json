@@ -1,0 +1,10 @@
+{
+    "query": "What was a common joke made about Hillary Clinton, as described in one of the linked comments?",
+    "response": [
+        "doc_5543.txt",
+        "doc_10829.txt",
+        "doc_2785.txt",
+        "doc_20500.txt",
+        "doc_20127.txt"
+    ]
+}

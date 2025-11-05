@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of Pete Rose\u2019s autobiography, and when was it published?",
+    "response": [
+        "doc_10956.txt",
+        "doc_19310.txt",
+        "doc_623.txt",
+        "doc_7862.txt",
+        "doc_4654.txt"
+    ]
+}

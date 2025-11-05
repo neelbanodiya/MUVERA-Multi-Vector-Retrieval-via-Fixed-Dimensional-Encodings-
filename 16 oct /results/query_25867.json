@@ -1,0 +1,10 @@
+{
+    "query": "What was the role of Mustafa Kemal in Turkish historiography, according to the provided texts?",
+    "response": [
+        "doc_15044.txt",
+        "doc_15040.txt",
+        "doc_15041.txt",
+        "doc_15050.txt",
+        "doc_15052.txt"
+    ]
+}

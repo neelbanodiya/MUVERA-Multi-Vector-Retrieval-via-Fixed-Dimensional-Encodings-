@@ -1,0 +1,10 @@
+{
+    "query": "Who sent Delilah to Samson?",
+    "response": [
+        "doc_14522.txt",
+        "doc_14525.txt",
+        "doc_14532.txt",
+        "doc_14533.txt",
+        "doc_14534.txt"
+    ]
+}

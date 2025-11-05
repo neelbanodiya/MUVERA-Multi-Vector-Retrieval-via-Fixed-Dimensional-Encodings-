@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cDrum Taps\u201d initially published as a separate volume?",
+    "response": [
+        "doc_4165.txt",
+        "doc_4166.txt",
+        "doc_4169.txt",
+        "doc_4164.txt",
+        "doc_4168.txt"
+    ]
+}

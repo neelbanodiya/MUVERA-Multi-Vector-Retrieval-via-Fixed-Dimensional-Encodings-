@@ -1,0 +1,10 @@
+{
+    "query": "What is the purpose of earning merit badges in the Boy Scouts?",
+    "response": [
+        "doc_21153.txt",
+        "doc_3954.txt",
+        "doc_17372.txt",
+        "doc_990.txt",
+        "doc_4536.txt"
+    ]
+}

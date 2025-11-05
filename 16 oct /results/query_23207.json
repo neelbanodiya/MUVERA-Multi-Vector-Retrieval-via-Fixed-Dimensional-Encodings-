@@ -1,0 +1,10 @@
+{
+    "query": "Which ballet is specifically mentioned as being part of Billy the Kid and Rodeo?",
+    "response": [
+        "doc_13437.txt",
+        "doc_13439.txt",
+        "doc_9888.txt",
+        "doc_13451.txt",
+        "doc_14570.txt"
+    ]
+}

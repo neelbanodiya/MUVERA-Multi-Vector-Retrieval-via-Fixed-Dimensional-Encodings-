@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of Stephen King\u2019s novel that features a fictional town and is referenced in a Springer PDF?",
+    "response": [
+        "doc_3712.txt",
+        "doc_7327.txt",
+        "doc_10064.txt",
+        "doc_9978.txt",
+        "doc_19952.txt"
+    ]
+}

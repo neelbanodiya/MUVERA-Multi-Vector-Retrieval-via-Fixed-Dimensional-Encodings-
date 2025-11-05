@@ -1,0 +1,10 @@
+{
+    "query": "What was The Who\u2019s first single, as mentioned in the Google Play link?",
+    "response": [
+        "doc_14550.txt",
+        "doc_5318.txt",
+        "doc_15903.txt",
+        "doc_17784.txt",
+        "doc_22308.txt"
+    ]
+}

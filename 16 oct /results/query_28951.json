@@ -1,0 +1,10 @@
+{
+    "query": "What is the European Parliament\u2019s role, as outlined in the text, in relation to EU citizens\u2019 concerns about Union policies?",
+    "response": [
+        "doc_21805.txt",
+        "doc_17370.txt",
+        "doc_20033.txt",
+        "doc_17340.txt",
+        "doc_6165.txt"
+    ]
+}

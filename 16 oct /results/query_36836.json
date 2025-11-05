@@ -1,0 +1,10 @@
+{
+    "query": "Which king attempted to invade England, and what was the nationality of the court artist commissioned to paint his portrait?",
+    "response": [
+        "doc_21509.txt",
+        "doc_21501.txt",
+        "doc_21518.txt",
+        "doc_21516.txt",
+        "doc_21510.txt"
+    ]
+}

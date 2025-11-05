@@ -1,0 +1,10 @@
+{
+    "query": "According to the Golden Globes 2016 winners list, who won Best performance by an actress in a motion picture, drama?",
+    "response": [
+        "doc_19276.txt",
+        "doc_19281.txt",
+        "doc_20158.txt",
+        "doc_2263.txt",
+        "doc_20925.txt"
+    ]
+}

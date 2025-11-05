@@ -1,0 +1,10 @@
+{
+    "query": "In what geographical region was the goddess Isis initially venerated, and later spread to?",
+    "response": [
+        "doc_12553.txt",
+        "doc_12550.txt",
+        "doc_12552.txt",
+        "doc_12554.txt",
+        "doc_12558.txt"
+    ]
+}

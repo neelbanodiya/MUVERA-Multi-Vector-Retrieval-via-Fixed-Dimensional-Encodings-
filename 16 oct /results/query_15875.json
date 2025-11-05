@@ -1,0 +1,10 @@
+{
+    "query": "Who raised Quasimodo, and what role did he have at Notre Dame?",
+    "response": [
+        "doc_9190.txt",
+        "doc_9191.txt",
+        "doc_9194.txt",
+        "doc_9195.txt",
+        "doc_20480.txt"
+    ]
+}

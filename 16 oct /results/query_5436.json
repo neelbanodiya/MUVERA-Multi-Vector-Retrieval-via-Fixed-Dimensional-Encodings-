@@ -1,0 +1,10 @@
+{
+    "query": "What bodies of water does the San Joaquin River flow into?",
+    "response": [
+        "doc_3146.txt",
+        "doc_3145.txt",
+        "doc_3148.txt",
+        "doc_3143.txt",
+        "doc_3159.txt"
+    ]
+}

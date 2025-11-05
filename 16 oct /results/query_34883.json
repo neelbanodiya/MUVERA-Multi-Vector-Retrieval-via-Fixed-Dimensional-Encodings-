@@ -1,0 +1,10 @@
+{
+    "query": "What is the tagline associated with *The Lord of the Rings: The Fellowship of the Ring*?",
+    "response": [
+        "doc_20322.txt",
+        "doc_15552.txt",
+        "doc_7642.txt",
+        "doc_7299.txt",
+        "doc_12128.txt"
+    ]
+}

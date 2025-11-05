@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Actors Studio founded, and by whom?",
+    "response": [
+        "doc_7986.txt",
+        "doc_20958.txt",
+        "doc_20959.txt",
+        "doc_8275.txt",
+        "doc_7987.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is Michael Jordan\u2019s primary focus?",
+    "response": [
+        "doc_20501.txt",
+        "doc_15183.txt",
+        "doc_7532.txt",
+        "doc_15184.txt",
+        "doc_5045.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was Edgar Allan Poe\u2019s success with \u201cThe Gold-Bug\u201d?",
+    "response": [
+        "doc_14004.txt",
+        "doc_14011.txt",
+        "doc_14007.txt",
+        "doc_14006.txt",
+        "doc_14014.txt"
+    ]
+}

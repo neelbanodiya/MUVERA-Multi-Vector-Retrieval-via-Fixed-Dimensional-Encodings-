@@ -1,0 +1,10 @@
+{
+    "query": "What countries border Catalonia to the north?",
+    "response": [
+        "doc_1006.txt",
+        "doc_1002.txt",
+        "doc_1001.txt",
+        "doc_3268.txt",
+        "doc_1008.txt"
+    ]
+}

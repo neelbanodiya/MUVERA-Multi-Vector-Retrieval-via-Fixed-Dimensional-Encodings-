@@ -1,0 +1,10 @@
+{
+    "query": "What company owned a number of small S&Ls, including one large one?",
+    "response": [
+        "doc_572.txt",
+        "doc_8011.txt",
+        "doc_9343.txt",
+        "doc_9777.txt",
+        "doc_4257.txt"
+    ]
+}

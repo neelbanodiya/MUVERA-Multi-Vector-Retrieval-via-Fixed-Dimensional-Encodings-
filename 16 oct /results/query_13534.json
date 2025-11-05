@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what flags were flown by vessels of 'North Britain'?",
+    "response": [
+        "doc_7899.txt",
+        "doc_16448.txt",
+        "doc_21108.txt",
+        "doc_8687.txt",
+        "doc_16485.txt"
+    ]
+}

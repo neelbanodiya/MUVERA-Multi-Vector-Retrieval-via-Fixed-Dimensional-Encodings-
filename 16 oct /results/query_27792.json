@@ -1,0 +1,10 @@
+{
+    "query": "What types of recipes are described in the Stockholm Papyrus?",
+    "response": [
+        "doc_16169.txt",
+        "doc_1313.txt",
+        "doc_3561.txt",
+        "doc_23452.txt",
+        "doc_19756.txt"
+    ]
+}

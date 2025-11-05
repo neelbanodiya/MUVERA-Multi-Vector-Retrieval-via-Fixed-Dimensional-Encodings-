@@ -1,0 +1,10 @@
+{
+    "query": "During which period did Alexander Hamilton serve as Washington\u2019s private secretary and confidential aide?",
+    "response": [
+        "doc_40.txt",
+        "doc_58.txt",
+        "doc_50.txt",
+        "doc_44.txt",
+        "doc_41.txt"
+    ]
+}

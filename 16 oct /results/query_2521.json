@@ -1,0 +1,10 @@
+{
+    "query": "What university did Wendy Carlos attend, and what is she known for?",
+    "response": [
+        "doc_5307.txt",
+        "doc_4588.txt",
+        "doc_14424.txt",
+        "doc_4739.txt",
+        "doc_20191.txt"
+    ]
+}

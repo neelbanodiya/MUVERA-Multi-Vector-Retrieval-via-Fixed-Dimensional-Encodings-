@@ -1,0 +1,10 @@
+{
+    "query": "Who played Connie Corleone in *The Godfather*?",
+    "response": [
+        "doc_10923.txt",
+        "doc_10922.txt",
+        "doc_10927.txt",
+        "doc_10924.txt",
+        "doc_10926.txt"
+    ]
+}

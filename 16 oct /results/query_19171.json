@@ -1,0 +1,9 @@
+{
+    "query": "In what conference was the 2010 Oklahoma Sooners football team a charter member?",
+    "response": [
+        "doc_11114.txt",
+        "doc_11115.txt",
+        "doc_11116.txt",
+        "doc_2010.txt"
+    ]
+}

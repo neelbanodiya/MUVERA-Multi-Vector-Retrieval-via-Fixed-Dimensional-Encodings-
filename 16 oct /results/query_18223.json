@@ -1,0 +1,10 @@
+{
+    "query": "For which sport does Rick Allen provide play-by-play commentary on an interim basis?",
+    "response": [
+        "doc_10555.txt",
+        "doc_10556.txt",
+        "doc_10557.txt",
+        "doc_18337.txt",
+        "doc_13635.txt"
+    ]
+}

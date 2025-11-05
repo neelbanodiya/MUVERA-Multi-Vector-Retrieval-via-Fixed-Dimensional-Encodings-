@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was Robert Towns' life like?",
+    "response": [
+        "doc_1766.txt",
+        "doc_20542.txt",
+        "doc_11910.txt",
+        "doc_1764.txt",
+        "doc_17338.txt"
+    ]
+}

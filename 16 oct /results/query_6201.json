@@ -1,0 +1,10 @@
+{
+    "query": "What specific aid is the Parliament calling for the Commission to increase?",
+    "response": [
+        "doc_4548.txt",
+        "doc_3599.txt",
+        "doc_3598.txt",
+        "doc_5235.txt",
+        "doc_8114.txt"
+    ]
+}

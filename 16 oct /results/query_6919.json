@@ -1,0 +1,10 @@
+{
+    "query": "How many bankruptcy proceedings have been initiated in respect of small enterprises in the Czech Republic since 2007?",
+    "response": [
+        "doc_3966.txt",
+        "doc_10588.txt",
+        "doc_16158.txt",
+        "doc_4701.txt",
+        "doc_8131.txt"
+    ]
+}

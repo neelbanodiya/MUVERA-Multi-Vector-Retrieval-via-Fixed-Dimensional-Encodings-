@@ -1,0 +1,10 @@
+{
+    "query": "What was George Gershwin\u2019s opera titled that premiered in New York in 1935?",
+    "response": [
+        "doc_3839.txt",
+        "doc_3840.txt",
+        "doc_3837.txt",
+        "doc_17912.txt",
+        "doc_243.txt"
+    ]
+}

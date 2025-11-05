@@ -1,0 +1,10 @@
+{
+    "query": "What type of humor is Franklin described as?",
+    "response": [
+        "doc_2886.txt",
+        "doc_1723.txt",
+        "doc_16167.txt",
+        "doc_16168.txt",
+        "doc_2885.txt"
+    ]
+}

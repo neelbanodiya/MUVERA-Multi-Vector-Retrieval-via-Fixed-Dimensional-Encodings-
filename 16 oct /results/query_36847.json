@@ -1,0 +1,10 @@
+{
+    "query": "Which classical composers of the 19th century are mentioned in relation to Chopin\u2019s work, specifically the Krakowiak Op. 14?",
+    "response": [
+        "doc_21520.txt",
+        "doc_21522.txt",
+        "doc_21521.txt",
+        "doc_21519.txt",
+        "doc_21523.txt"
+    ]
+}

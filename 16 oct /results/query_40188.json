@@ -1,0 +1,10 @@
+{
+    "query": "The city of Leipzig, now in this country, was the site of an 1813 battle called the greatest clash of arms before WWI.",
+    "response": [
+        "doc_23516.txt",
+        "doc_23517.txt",
+        "doc_193.txt",
+        "doc_23521.txt",
+        "doc_199.txt"
+    ]
+}

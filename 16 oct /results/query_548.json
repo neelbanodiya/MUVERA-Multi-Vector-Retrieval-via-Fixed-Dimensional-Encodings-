@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the opera by Pietro Mascagni mentioned in the passage?",
+    "response": [
+        "doc_332.txt",
+        "doc_328.txt",
+        "doc_323.txt",
+        "doc_15392.txt",
+        "doc_329.txt"
+    ]
+}

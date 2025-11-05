@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary role of the Sicherheitsdienst (SD)?",
+    "response": [
+        "doc_13739.txt",
+        "doc_17385.txt",
+        "doc_15133.txt",
+        "doc_18095.txt",
+        "doc_23632.txt"
+    ]
+}

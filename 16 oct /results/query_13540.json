@@ -1,0 +1,10 @@
+{
+    "query": "What materials were used to create decorative elements like fleur-de-lis?",
+    "response": [
+        "doc_5852.txt",
+        "doc_5851.txt",
+        "doc_5859.txt",
+        "doc_24105.txt",
+        "doc_20491.txt"
+    ]
+}

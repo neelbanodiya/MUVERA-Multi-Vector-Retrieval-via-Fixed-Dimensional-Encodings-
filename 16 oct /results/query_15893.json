@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the links, what does Iceland have if you know what a certain phrase means?",
+    "response": [
+        "doc_12625.txt",
+        "doc_12513.txt",
+        "doc_14703.txt",
+        "doc_1495.txt",
+        "doc_8593.txt"
+    ]
+}

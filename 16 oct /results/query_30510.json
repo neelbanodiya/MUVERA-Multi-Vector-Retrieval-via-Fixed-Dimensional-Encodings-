@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is a notable achievement of The Prodigy?",
+    "response": [
+        "doc_24099.txt",
+        "doc_1848.txt",
+        "doc_22803.txt",
+        "doc_20857.txt",
+        "doc_10449.txt"
+    ]
+}

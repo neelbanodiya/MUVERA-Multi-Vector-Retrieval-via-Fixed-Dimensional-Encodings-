@@ -1,0 +1,10 @@
+{
+    "query": "Which organization is the Union working closely with regarding port state control?",
+    "response": [
+        "doc_8139.txt",
+        "doc_8138.txt",
+        "doc_23622.txt",
+        "doc_12225.txt",
+        "doc_20821.txt"
+    ]
+}

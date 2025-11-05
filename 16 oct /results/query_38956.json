@@ -1,0 +1,10 @@
+{
+    "query": "In what city did the musician work with Chet Baker, Pharoah Sanders, and Johnny Griffin in the 1980s?",
+    "response": [
+        "doc_22805.txt",
+        "doc_22804.txt",
+        "doc_3076.txt",
+        "doc_7858.txt",
+        "doc_1962.txt"
+    ]
+}

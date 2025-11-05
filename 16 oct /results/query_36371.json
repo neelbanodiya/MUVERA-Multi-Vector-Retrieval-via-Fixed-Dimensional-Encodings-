@@ -1,0 +1,10 @@
+{
+    "query": "Which companies are mentioned as currently offering Dolby Vision technology, particularly from a UK perspective?",
+    "response": [
+        "doc_18888.txt",
+        "doc_8361.txt",
+        "doc_12050.txt",
+        "doc_10644.txt",
+        "doc_10192.txt"
+    ]
+}

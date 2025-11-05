@@ -1,0 +1,10 @@
+{
+    "query": "Besides Antigua, what other island is listed as a dependency of Antigua and Barbuda?",
+    "response": [
+        "doc_4410.txt",
+        "doc_4416.txt",
+        "doc_4420.txt",
+        "doc_4411.txt",
+        "doc_4423.txt"
+    ]
+}

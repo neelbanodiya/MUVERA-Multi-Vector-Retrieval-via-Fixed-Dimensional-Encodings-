@@ -1,0 +1,10 @@
+{
+    "query": "What type of bread is often used to serve Greek food?",
+    "response": [
+        "doc_15780.txt",
+        "doc_15449.txt",
+        "doc_15787.txt",
+        "doc_15778.txt",
+        "doc_15779.txt"
+    ]
+}

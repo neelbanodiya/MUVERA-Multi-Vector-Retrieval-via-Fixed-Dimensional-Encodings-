@@ -1,0 +1,10 @@
+{
+    "query": "What was a key area of conflict between Spain and France?",
+    "response": [
+        "doc_23531.txt",
+        "doc_23359.txt",
+        "doc_23535.txt",
+        "doc_9295.txt",
+        "doc_23533.txt"
+    ]
+}

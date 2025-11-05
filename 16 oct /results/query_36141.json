@@ -1,0 +1,10 @@
+{
+    "query": "In what month and year was a motion for a resolution regarding human rights violations in Iran introduced to the European Parliament?",
+    "response": [
+        "doc_21077.txt",
+        "doc_3062.txt",
+        "doc_13132.txt",
+        "doc_488.txt",
+        "doc_3063.txt"
+    ]
+}

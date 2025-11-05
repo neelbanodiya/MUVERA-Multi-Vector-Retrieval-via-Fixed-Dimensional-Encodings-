@@ -1,0 +1,10 @@
+{
+    "query": "Which empires influenced the urban development of North African countries, particularly referencing Carthage?",
+    "response": [
+        "doc_8786.txt",
+        "doc_8789.txt",
+        "doc_8790.txt",
+        "doc_8787.txt",
+        "doc_8788.txt"
+    ]
+}

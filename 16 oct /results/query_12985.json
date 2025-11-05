@@ -1,0 +1,10 @@
+{
+    "query": "What event in Japan may cause \u201cmore devastating mudslides\u201d?",
+    "response": [
+        "doc_19792.txt",
+        "doc_18380.txt",
+        "doc_15998.txt",
+        "doc_23357.txt",
+        "doc_242.txt"
+    ]
+}

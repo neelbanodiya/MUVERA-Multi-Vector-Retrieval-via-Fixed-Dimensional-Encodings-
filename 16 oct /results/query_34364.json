@@ -1,0 +1,10 @@
+{
+    "query": "What was the relationship between Brian Wilson and David Campbell as described in one of the linked articles?",
+    "response": [
+        "doc_4767.txt",
+        "doc_1452.txt",
+        "doc_4656.txt",
+        "doc_20608.txt",
+        "doc_16126.txt"
+    ]
+}

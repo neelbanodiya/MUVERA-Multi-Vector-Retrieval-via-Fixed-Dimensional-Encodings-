@@ -1,0 +1,10 @@
+{
+    "query": "What specific procedure does the Council call for if it plans to deviate from Parliament\u2019s approved text?",
+    "response": [
+        "doc_18908.txt",
+        "doc_4438.txt",
+        "doc_990.txt",
+        "doc_23027.txt",
+        "doc_13675.txt"
+    ]
+}

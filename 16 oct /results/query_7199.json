@@ -1,0 +1,10 @@
+{
+    "query": "Besides being an astronaut, what other military service did Michael Anderson hold, and what responsibility did he have on the Columbia mission?",
+    "response": [
+        "doc_5406.txt",
+        "doc_4656.txt",
+        "doc_1941.txt",
+        "doc_11495.txt",
+        "doc_338.txt"
+    ]
+}

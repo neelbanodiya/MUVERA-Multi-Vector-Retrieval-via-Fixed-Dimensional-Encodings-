@@ -1,0 +1,10 @@
+{
+    "query": "Who was the first Speaker of the House since the last time repeated votes were required?",
+    "response": [
+        "doc_5965.txt",
+        "doc_12642.txt",
+        "doc_5966.txt",
+        "doc_5976.txt",
+        "doc_5967.txt"
+    ]
+}

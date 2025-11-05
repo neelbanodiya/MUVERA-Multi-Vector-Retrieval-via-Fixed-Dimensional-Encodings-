@@ -1,0 +1,10 @@
+{
+    "query": "In Japan, what is the typical order in which names are presented?",
+    "response": [
+        "doc_22025.txt",
+        "doc_2965.txt",
+        "doc_12391.txt",
+        "doc_4397.txt",
+        "doc_22010.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the population of Prague in 2003?",
+    "response": [
+        "doc_15882.txt",
+        "doc_15881.txt",
+        "doc_2257.txt",
+        "doc_3657.txt",
+        "doc_18156.txt"
+    ]
+}

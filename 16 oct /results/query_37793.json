@@ -1,0 +1,10 @@
+{
+    "query": "What specific marine species are negatively impacted by the veined rapa whelk population in the Black Sea?",
+    "response": [
+        "doc_22161.txt",
+        "doc_13075.txt",
+        "doc_4837.txt",
+        "doc_13072.txt",
+        "doc_21574.txt"
+    ]
+}

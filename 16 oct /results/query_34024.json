@@ -1,0 +1,10 @@
+{
+    "query": "What country was George Balanchine born in?",
+    "response": [
+        "doc_19807.txt",
+        "doc_18954.txt",
+        "doc_3603.txt",
+        "doc_22058.txt",
+        "doc_8376.txt"
+    ]
+}

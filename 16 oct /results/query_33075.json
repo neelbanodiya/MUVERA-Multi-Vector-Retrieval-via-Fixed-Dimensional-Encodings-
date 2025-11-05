@@ -1,0 +1,10 @@
+{
+    "query": "What was the person\u2019s previous occupation before running for Senate?",
+    "response": [
+        "doc_5503.txt",
+        "doc_12642.txt",
+        "doc_21249.txt",
+        "doc_6061.txt",
+        "doc_13327.txt"
+    ]
+}

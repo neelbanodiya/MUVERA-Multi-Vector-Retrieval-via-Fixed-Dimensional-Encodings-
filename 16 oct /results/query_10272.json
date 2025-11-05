@@ -1,0 +1,10 @@
+{
+    "query": "Which individuals are associated with \u201cThe Theatre Guild On The Air\u201d as listed in the passages?",
+    "response": [
+        "doc_4482.txt",
+        "doc_1306.txt",
+        "doc_19272.txt",
+        "doc_3050.txt",
+        "doc_12713.txt"
+    ]
+}

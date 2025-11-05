@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the Huffington Post article referenced in the passage?",
+    "response": [
+        "doc_19444.txt",
+        "doc_19216.txt",
+        "doc_14412.txt",
+        "doc_5543.txt",
+        "doc_8400.txt"
+    ]
+}

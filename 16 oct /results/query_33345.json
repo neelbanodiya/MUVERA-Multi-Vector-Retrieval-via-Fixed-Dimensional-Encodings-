@@ -1,0 +1,10 @@
+{
+    "query": "What specific line from Shakespeare\u2019s *Othello* is cited as an example of confident language?",
+    "response": [
+        "doc_12598.txt",
+        "doc_23899.txt",
+        "doc_8260.txt",
+        "doc_23902.txt",
+        "doc_1495.txt"
+    ]
+}

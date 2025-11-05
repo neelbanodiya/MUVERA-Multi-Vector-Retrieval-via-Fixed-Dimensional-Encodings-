@@ -1,0 +1,10 @@
+{
+    "query": "When was \u201cInside the Third Reich\u201d first published?",
+    "response": [
+        "doc_13737.txt",
+        "doc_13738.txt",
+        "doc_13739.txt",
+        "doc_4345.txt",
+        "doc_4346.txt"
+    ]
+}

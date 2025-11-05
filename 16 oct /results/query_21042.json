@@ -1,0 +1,10 @@
+{
+    "query": "Which projects, in the Commission\u2019s view, show the longest delays and what are the reasons for these delays?",
+    "response": [
+        "doc_12144.txt",
+        "doc_21479.txt",
+        "doc_132.txt",
+        "doc_20783.txt",
+        "doc_6764.txt"
+    ]
+}

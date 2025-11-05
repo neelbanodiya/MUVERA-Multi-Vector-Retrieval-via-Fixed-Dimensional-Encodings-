@@ -1,0 +1,10 @@
+{
+    "query": "What type of beverages are offered at Ben & Jerry's?",
+    "response": [
+        "doc_21549.txt",
+        "doc_7092.txt",
+        "doc_4945.txt",
+        "doc_5803.txt",
+        "doc_21558.txt"
+    ]
+}

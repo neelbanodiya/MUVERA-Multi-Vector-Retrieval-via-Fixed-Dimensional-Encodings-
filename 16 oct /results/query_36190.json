@@ -1,0 +1,10 @@
+{
+    "query": "What was the RMS Titanic\u2019s significance at the time it entered service?",
+    "response": [
+        "doc_21098.txt",
+        "doc_18157.txt",
+        "doc_21108.txt",
+        "doc_21112.txt",
+        "doc_21113.txt"
+    ]
+}

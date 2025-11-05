@@ -1,0 +1,10 @@
+{
+    "query": "What genre did The Prodigy initially emerge as a part of?",
+    "response": [
+        "doc_19460.txt",
+        "doc_17729.txt",
+        "doc_10077.txt",
+        "doc_19462.txt",
+        "doc_19461.txt"
+    ]
+}

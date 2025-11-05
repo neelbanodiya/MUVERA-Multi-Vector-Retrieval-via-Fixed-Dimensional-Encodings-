@@ -1,0 +1,10 @@
+{
+    "query": "What is the purpose of the Air AMS program according to the U.S. Customs and Border Protection?",
+    "response": [
+        "doc_1152.txt",
+        "doc_11379.txt",
+        "doc_17260.txt",
+        "doc_14429.txt",
+        "doc_5652.txt"
+    ]
+}

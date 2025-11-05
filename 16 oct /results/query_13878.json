@@ -1,0 +1,10 @@
+{
+    "query": "What was a significant economic activity in the area described in the \u201cRecord Research Magazine\u201d article?",
+    "response": [
+        "doc_12290.txt",
+        "doc_8786.txt",
+        "doc_14412.txt",
+        "doc_20319.txt",
+        "doc_7521.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How far is Heathrow Airport from Bath?",
+    "response": [
+        "doc_14191.txt",
+        "doc_15729.txt",
+        "doc_14210.txt",
+        "doc_9960.txt",
+        "doc_22792.txt"
+    ]
+}

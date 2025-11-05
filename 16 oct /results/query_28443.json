@@ -1,0 +1,10 @@
+{
+    "query": "What transportation options are available for visitors to the Tennessee Valley Railroad Museum in Chattanooga?",
+    "response": [
+        "doc_16578.txt",
+        "doc_16577.txt",
+        "doc_16579.txt",
+        "doc_16580.txt",
+        "doc_16589.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where are Carl Milles and his wife buried?",
+    "response": [
+        "doc_1743.txt",
+        "doc_1745.txt",
+        "doc_1751.txt",
+        "doc_1746.txt",
+        "doc_1744.txt"
+    ]
+}

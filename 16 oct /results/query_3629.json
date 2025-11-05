@@ -1,0 +1,10 @@
+{
+    "query": "Who was Marlow hired to retrieve, and from whom?",
+    "response": [
+        "doc_2550.txt",
+        "doc_19681.txt",
+        "doc_2177.txt",
+        "doc_12734.txt",
+        "doc_11218.txt"
+    ]
+}

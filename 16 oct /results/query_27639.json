@@ -1,0 +1,10 @@
+{
+    "query": "What was the Commission\u2019s proposal outlined in the communication COM(2006)319 final?",
+    "response": [
+        "doc_12329.txt",
+        "doc_4525.txt",
+        "doc_9429.txt",
+        "doc_14211.txt",
+        "doc_8874.txt"
+    ]
+}

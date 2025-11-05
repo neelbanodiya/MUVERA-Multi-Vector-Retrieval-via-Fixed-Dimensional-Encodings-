@@ -1,0 +1,10 @@
+{
+    "query": "Which firm, associated with individuals like Johannes Huth, was noted for being \u201cvery good, hard-working, ambitious and a very smart investor\u201d?",
+    "response": [
+        "doc_21495.txt",
+        "doc_313.txt",
+        "doc_1717.txt",
+        "doc_2830.txt",
+        "doc_14151.txt"
+    ]
+}

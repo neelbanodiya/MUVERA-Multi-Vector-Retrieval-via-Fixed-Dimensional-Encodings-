@@ -1,0 +1,10 @@
+{
+    "query": "What action did the Commission request from the Spanish Government in relation to this case?",
+    "response": [
+        "doc_21498.txt",
+        "doc_7973.txt",
+        "doc_4870.txt",
+        "doc_476.txt",
+        "doc_4317.txt"
+    ]
+}

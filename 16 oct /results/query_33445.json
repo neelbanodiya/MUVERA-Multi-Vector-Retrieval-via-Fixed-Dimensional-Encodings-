@@ -1,0 +1,10 @@
+{
+    "query": "What was Wheeler\u2019s mission?",
+    "response": [
+        "doc_11534.txt",
+        "doc_6217.txt",
+        "doc_13738.txt",
+        "doc_3600.txt",
+        "doc_13912.txt"
+    ]
+}

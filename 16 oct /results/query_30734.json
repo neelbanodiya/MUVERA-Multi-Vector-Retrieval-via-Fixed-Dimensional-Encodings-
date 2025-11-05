@@ -1,0 +1,10 @@
+{
+    "query": "What is *The Lady in the Van* based on?",
+    "response": [
+        "doc_23544.txt",
+        "doc_16054.txt",
+        "doc_13106.txt",
+        "doc_1084.txt",
+        "doc_23543.txt"
+    ]
+}

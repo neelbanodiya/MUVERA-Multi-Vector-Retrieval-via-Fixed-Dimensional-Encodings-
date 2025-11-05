@@ -1,0 +1,10 @@
+{
+    "query": "Who co-created the DC Comics character Nightcrawler alongside Alan Moore and Dave Gibbons?",
+    "response": [
+        "doc_1980.txt",
+        "doc_1979.txt",
+        "doc_1981.txt",
+        "doc_14577.txt",
+        "doc_784.txt"
+    ]
+}

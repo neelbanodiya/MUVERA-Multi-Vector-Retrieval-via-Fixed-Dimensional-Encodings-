@@ -1,0 +1,10 @@
+{
+    "query": "What specific regulation is cited as a potential source of information for gathering data related to European interest projects (as mentioned in Amendment 2)?",
+    "response": [
+        "doc_14212.txt",
+        "doc_6171.txt",
+        "doc_14214.txt",
+        "doc_21126.txt",
+        "doc_13367.txt"
+    ]
+}

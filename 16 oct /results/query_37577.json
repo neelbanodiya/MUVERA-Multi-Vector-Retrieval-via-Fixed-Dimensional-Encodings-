@@ -1,0 +1,10 @@
+{
+    "query": "What is the significance of the Chrysanthemum in Japan, as evidenced by the mention of an \u201cOrder of Chrysanthemums\u201d?",
+    "response": [
+        "doc_22021.txt",
+        "doc_22013.txt",
+        "doc_22010.txt",
+        "doc_22022.txt",
+        "doc_1299.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which artist performed the song \"He Wasn't\"?",
+    "response": [
+        "doc_15613.txt",
+        "doc_6058.txt",
+        "doc_2229.txt",
+        "doc_5278.txt",
+        "doc_20041.txt"
+    ]
+}

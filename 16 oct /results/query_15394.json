@@ -1,0 +1,10 @@
+{
+    "query": "In what book of the Bible does the story of Samson\u2019s life primarily take place?",
+    "response": [
+        "doc_5046.txt",
+        "doc_8909.txt",
+        "doc_7911.txt",
+        "doc_7532.txt",
+        "doc_14536.txt"
+    ]
+}

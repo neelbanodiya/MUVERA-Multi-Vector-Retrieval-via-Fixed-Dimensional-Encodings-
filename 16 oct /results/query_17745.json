@@ -1,0 +1,10 @@
+{
+    "query": "For Madden NFL 08, which platform did the game *not* initially release on?",
+    "response": [
+        "doc_10292.txt",
+        "doc_14817.txt",
+        "doc_14818.txt",
+        "doc_6829.txt",
+        "doc_11256.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what was unique about the apartment setting in the first episode of *Seinfeld*?",
+    "response": [
+        "doc_478.txt",
+        "doc_479.txt",
+        "doc_22894.txt",
+        "doc_1391.txt",
+        "doc_23370.txt"
+    ]
+}

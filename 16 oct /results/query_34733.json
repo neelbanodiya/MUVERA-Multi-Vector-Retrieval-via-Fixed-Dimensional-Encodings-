@@ -1,0 +1,10 @@
+{
+    "query": "According to the International Press Institute (IPI), what is the impact of anti-terrorist legislation in Turkey?",
+    "response": [
+        "doc_17465.txt",
+        "doc_20222.txt",
+        "doc_3092.txt",
+        "doc_9163.txt",
+        "doc_3914.txt"
+    ]
+}

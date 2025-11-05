@@ -1,0 +1,10 @@
+{
+    "query": "Which literary movement is Henry James associated with?",
+    "response": [
+        "doc_22535.txt",
+        "doc_23595.txt",
+        "doc_11703.txt",
+        "doc_24144.txt",
+        "doc_20542.txt"
+    ]
+}

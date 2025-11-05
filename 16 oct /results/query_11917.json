@@ -1,0 +1,10 @@
+{
+    "query": "What literary class does \u201cThe Da Vinci Code\u201d belong to, according to the provided text?",
+    "response": [
+        "doc_792.txt",
+        "doc_323.txt",
+        "doc_14186.txt",
+        "doc_14185.txt",
+        "doc_16779.txt"
+    ]
+}

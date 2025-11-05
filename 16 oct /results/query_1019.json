@@ -1,0 +1,10 @@
+{
+    "query": "Which hotels are mentioned as being located in New York City, according to the provided links?",
+    "response": [
+        "doc_565.txt",
+        "doc_570.txt",
+        "doc_564.txt",
+        "doc_572.txt",
+        "doc_13066.txt"
+    ]
+}

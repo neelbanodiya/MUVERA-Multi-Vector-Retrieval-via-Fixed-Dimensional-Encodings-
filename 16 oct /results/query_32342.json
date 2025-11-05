@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the vaudeville troupe featuring the Foy family?",
+    "response": [
+        "doc_18856.txt",
+        "doc_19598.txt",
+        "doc_18855.txt",
+        "doc_9799.txt",
+        "doc_15244.txt"
+    ]
+}

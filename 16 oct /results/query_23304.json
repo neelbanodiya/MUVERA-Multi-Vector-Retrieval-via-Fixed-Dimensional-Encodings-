@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the U.S. military occupy Mexico City?",
+    "response": [
+        "doc_20373.txt",
+        "doc_3753.txt",
+        "doc_3759.txt",
+        "doc_3754.txt",
+        "doc_21189.txt"
+    ]
+}

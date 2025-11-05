@@ -1,0 +1,10 @@
+{
+    "query": "What political affiliation did Winston Churchill hold during the 1930s, according to one of the articles?",
+    "response": [
+        "doc_15072.txt",
+        "doc_15074.txt",
+        "doc_15073.txt",
+        "doc_15075.txt",
+        "doc_15071.txt"
+    ]
+}

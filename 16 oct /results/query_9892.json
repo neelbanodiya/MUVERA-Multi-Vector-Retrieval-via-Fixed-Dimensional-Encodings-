@@ -1,0 +1,10 @@
+{
+    "query": "What happened to the Austrian president?",
+    "response": [
+        "doc_21735.txt",
+        "doc_15496.txt",
+        "doc_20518.txt",
+        "doc_21731.txt",
+        "doc_17393.txt"
+    ]
+}

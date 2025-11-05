@@ -1,0 +1,10 @@
+{
+    "query": "According to a 1994 AutoCar road test, what technological feature of the McLaren F1 significantly improved downforce?",
+    "response": [
+        "doc_16852.txt",
+        "doc_15100.txt",
+        "doc_10861.txt",
+        "doc_5659.txt",
+        "doc_9404.txt"
+    ]
+}

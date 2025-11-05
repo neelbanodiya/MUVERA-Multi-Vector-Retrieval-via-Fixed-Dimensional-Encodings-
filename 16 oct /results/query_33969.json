@@ -1,0 +1,10 @@
+{
+    "query": "What event did the festival of Hanukkah commemorate, specifically involving the Maccabees and Antiochus Epiphanes?",
+    "response": [
+        "doc_19761.txt",
+        "doc_19758.txt",
+        "doc_19760.txt",
+        "doc_19768.txt",
+        "doc_19762.txt"
+    ]
+}

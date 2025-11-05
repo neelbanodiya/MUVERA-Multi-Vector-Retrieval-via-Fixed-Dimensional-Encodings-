@@ -1,0 +1,10 @@
+{
+    "query": "Which television series featured Ava Moore, and who played the role?",
+    "response": [
+        "doc_7070.txt",
+        "doc_7073.txt",
+        "doc_4643.txt",
+        "doc_7076.txt",
+        "doc_4642.txt"
+    ]
+}

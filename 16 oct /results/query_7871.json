@@ -1,0 +1,10 @@
+{
+    "query": "What was the date of the Interparliamentary meeting on the future of Europe?",
+    "response": [
+        "doc_10889.txt",
+        "doc_3247.txt",
+        "doc_10887.txt",
+        "doc_3245.txt",
+        "doc_1211.txt"
+    ]
+}

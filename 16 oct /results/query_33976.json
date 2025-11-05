@@ -1,0 +1,10 @@
+{
+    "query": "What is the duration of the festival of lights, Chanukah?",
+    "response": [
+        "doc_19772.txt",
+        "doc_19757.txt",
+        "doc_19756.txt",
+        "doc_19765.txt",
+        "doc_19768.txt"
+    ]
+}

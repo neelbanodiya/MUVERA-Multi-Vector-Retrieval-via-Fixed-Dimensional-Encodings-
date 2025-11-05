@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the first Super Robot Wars game released for the Nintendo Game Boy?",
+    "response": [
+        "doc_2925.txt",
+        "doc_10865.txt",
+        "doc_10863.txt",
+        "doc_2926.txt",
+        "doc_10862.txt"
+    ]
+}

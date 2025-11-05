@@ -1,0 +1,10 @@
+{
+    "query": "In \u201cDial M for Murder,\u201d who played the role of Chief Inspector Hubbard?",
+    "response": [
+        "doc_15277.txt",
+        "doc_5324.txt",
+        "doc_2177.txt",
+        "doc_24067.txt",
+        "doc_6074.txt"
+    ]
+}

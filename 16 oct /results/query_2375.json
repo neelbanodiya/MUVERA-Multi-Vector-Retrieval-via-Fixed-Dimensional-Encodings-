@@ -1,0 +1,10 @@
+{
+    "query": "How long did Gandhi\u2019s march to the sea take?",
+    "response": [
+        "doc_1409.txt",
+        "doc_1403.txt",
+        "doc_1405.txt",
+        "doc_1411.txt",
+        "doc_1412.txt"
+    ]
+}

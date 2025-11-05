@@ -1,0 +1,10 @@
+{
+    "query": "According to Jim Conlon, what is a characteristic of the sport of soccer?",
+    "response": [
+        "doc_4364.txt",
+        "doc_19168.txt",
+        "doc_21153.txt",
+        "doc_12708.txt",
+        "doc_18371.txt"
+    ]
+}

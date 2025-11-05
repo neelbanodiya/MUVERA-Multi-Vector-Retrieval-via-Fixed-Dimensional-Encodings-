@@ -1,0 +1,10 @@
+{
+    "query": "What type of record did a group of people from Slovenia achieve in 2016, as mentioned in one of the links?",
+    "response": [
+        "doc_20343.txt",
+        "doc_3793.txt",
+        "doc_2740.txt",
+        "doc_22973.txt",
+        "doc_14366.txt"
+    ]
+}

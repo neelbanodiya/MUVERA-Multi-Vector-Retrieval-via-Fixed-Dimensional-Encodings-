@@ -1,0 +1,10 @@
+{
+    "query": "Theodore Roosevelt's mother and wife died in their New York home on the same day.",
+    "response": [
+        "doc_19536.txt",
+        "doc_12676.txt",
+        "doc_12669.txt",
+        "doc_19538.txt",
+        "doc_12674.txt"
+    ]
+}

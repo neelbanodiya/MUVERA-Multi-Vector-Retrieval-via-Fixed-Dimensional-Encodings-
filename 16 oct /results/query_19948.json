@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what power does Xavier possess?",
+    "response": [
+        "doc_9554.txt",
+        "doc_22595.txt",
+        "doc_22594.txt",
+        "doc_14538.txt",
+        "doc_88.txt"
+    ]
+}

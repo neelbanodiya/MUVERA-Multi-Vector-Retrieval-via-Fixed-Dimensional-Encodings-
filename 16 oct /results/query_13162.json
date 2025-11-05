@@ -1,0 +1,10 @@
+{
+    "query": "According to a UN report from 2002, what potential link was identified between European companies and arms trafficking?",
+    "response": [
+        "doc_4427.txt",
+        "doc_7717.txt",
+        "doc_9743.txt",
+        "doc_5561.txt",
+        "doc_9896.txt"
+    ]
+}

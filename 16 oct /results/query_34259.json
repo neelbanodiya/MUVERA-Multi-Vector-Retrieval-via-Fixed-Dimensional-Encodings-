@@ -1,0 +1,10 @@
+{
+    "query": "What action did the World Conference against Racism adopt on September 8th?",
+    "response": [
+        "doc_10525.txt",
+        "doc_15468.txt",
+        "doc_21012.txt",
+        "doc_22579.txt",
+        "doc_19916.txt"
+    ]
+}

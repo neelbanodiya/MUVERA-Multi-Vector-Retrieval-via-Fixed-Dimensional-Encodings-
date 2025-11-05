@@ -1,0 +1,10 @@
+{
+    "query": "Which James Bond films did Pierce Brosnan star in?",
+    "response": [
+        "doc_17067.txt",
+        "doc_17073.txt",
+        "doc_9788.txt",
+        "doc_9793.txt",
+        "doc_6367.txt"
+    ]
+}

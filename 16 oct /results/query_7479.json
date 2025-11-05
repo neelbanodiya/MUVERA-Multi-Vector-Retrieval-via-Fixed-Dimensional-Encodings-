@@ -1,0 +1,10 @@
+{
+    "query": "What are the names of the two rivers that form the border between Argentina and Uruguay?",
+    "response": [
+        "doc_4336.txt",
+        "doc_4337.txt",
+        "doc_4340.txt",
+        "doc_4341.txt",
+        "doc_4338.txt"
+    ]
+}

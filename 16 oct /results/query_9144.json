@@ -1,0 +1,10 @@
+{
+    "query": "What is the date and time of the Wisconsin Governor\u2019s Conference on Tourism?",
+    "response": [
+        "doc_10079.txt",
+        "doc_1507.txt",
+        "doc_9695.txt",
+        "doc_10525.txt",
+        "doc_9933.txt"
+    ]
+}

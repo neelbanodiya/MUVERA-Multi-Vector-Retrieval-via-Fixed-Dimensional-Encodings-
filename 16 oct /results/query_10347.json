@@ -1,0 +1,10 @@
+{
+    "query": "What geographic area did French fur trappers explore during the 18th century?",
+    "response": [
+        "doc_5998.txt",
+        "doc_7216.txt",
+        "doc_19235.txt",
+        "doc_6834.txt",
+        "doc_20371.txt"
+    ]
+}

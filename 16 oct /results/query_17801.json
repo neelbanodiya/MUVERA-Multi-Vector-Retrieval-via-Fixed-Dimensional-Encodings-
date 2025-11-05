@@ -1,0 +1,10 @@
+{
+    "query": "According to Eric Rignot, what is the temperature difference around the Totten glacier compared to other areas?",
+    "response": [
+        "doc_10323.txt",
+        "doc_13997.txt",
+        "doc_18140.txt",
+        "doc_23540.txt",
+        "doc_10326.txt"
+    ]
+}

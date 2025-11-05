@@ -1,0 +1,10 @@
+{
+    "query": "What was Dave Barry\u2019s educational background?",
+    "response": [
+        "doc_14424.txt",
+        "doc_3819.txt",
+        "doc_23200.txt",
+        "doc_16873.txt",
+        "doc_22859.txt"
+    ]
+}

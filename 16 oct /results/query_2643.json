@@ -1,0 +1,10 @@
+{
+    "query": "Besides \u201cKISS,\u201d what other acronym is mentioned in the passage, and what does it stand for?",
+    "response": [
+        "doc_1584.txt",
+        "doc_12128.txt",
+        "doc_11703.txt",
+        "doc_10191.txt",
+        "doc_11054.txt"
+    ]
+}

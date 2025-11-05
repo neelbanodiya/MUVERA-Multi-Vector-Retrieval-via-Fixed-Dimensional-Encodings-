@@ -1,0 +1,10 @@
+{
+    "query": "What action will the Commission President take if Parliament votes to withdraw confidence in a Commission Member?",
+    "response": [
+        "doc_13352.txt",
+        "doc_13207.txt",
+        "doc_19805.txt",
+        "doc_19804.txt",
+        "doc_3794.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When did Northwest Airways, Inc. launch its maiden flight?",
+    "response": [
+        "doc_2988.txt",
+        "doc_2987.txt",
+        "doc_2986.txt",
+        "doc_2985.txt",
+        "doc_2996.txt"
+    ]
+}

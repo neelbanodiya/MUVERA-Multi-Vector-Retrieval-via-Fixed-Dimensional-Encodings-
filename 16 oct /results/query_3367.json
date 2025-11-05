@@ -1,0 +1,10 @@
+{
+    "query": "In what year was St\u00e9phane Richer drafted into the NHL?",
+    "response": [
+        "doc_1991.txt",
+        "doc_21628.txt",
+        "doc_1990.txt",
+        "doc_1992.txt",
+        "doc_15541.txt"
+    ]
+}

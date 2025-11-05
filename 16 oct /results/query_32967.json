@@ -1,0 +1,10 @@
+{
+    "query": "Which magazine recognized ELLE as one of the hottest titles in January-June 2011?",
+    "response": [
+        "doc_11692.txt",
+        "doc_5490.txt",
+        "doc_19458.txt",
+        "doc_20119.txt",
+        "doc_15686.txt"
+    ]
+}

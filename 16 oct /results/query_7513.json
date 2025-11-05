@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Ingeborg in the Berlin bomb shelter?",
+    "response": [
+        "doc_4348.txt",
+        "doc_4351.txt",
+        "doc_4346.txt",
+        "doc_4347.txt",
+        "doc_4349.txt"
+    ]
+}

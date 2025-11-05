@@ -1,0 +1,10 @@
+{
+    "query": "Which boxer is associated with the nickname \u201cRay \u2018Boom Boom\u2019 Mancini\u201d?",
+    "response": [
+        "doc_10573.txt",
+        "doc_10583.txt",
+        "doc_10581.txt",
+        "doc_10580.txt",
+        "doc_10579.txt"
+    ]
+}

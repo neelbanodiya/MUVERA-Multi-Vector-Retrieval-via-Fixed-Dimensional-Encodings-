@@ -1,0 +1,10 @@
+{
+    "query": "What does the passage state Emily Dickinson wrote about her religious views in a specific poem?",
+    "response": [
+        "doc_5513.txt",
+        "doc_5514.txt",
+        "doc_5507.txt",
+        "doc_5511.txt",
+        "doc_5517.txt"
+    ]
+}

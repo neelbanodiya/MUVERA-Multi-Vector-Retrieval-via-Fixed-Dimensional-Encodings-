@@ -1,0 +1,10 @@
+{
+    "query": "What types of performances are mentioned as having roots in ancient Greek traditions, such as the cult of Dionysus?",
+    "response": [
+        "doc_20491.txt",
+        "doc_20489.txt",
+        "doc_20492.txt",
+        "doc_20497.txt",
+        "doc_8686.txt"
+    ]
+}

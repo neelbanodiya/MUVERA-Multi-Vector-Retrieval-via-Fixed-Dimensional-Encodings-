@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of Italian producers were subject to a levy, and how many farms were affected by this levy?",
+    "response": [
+        "doc_13790.txt",
+        "doc_19973.txt",
+        "doc_2027.txt",
+        "doc_2824.txt",
+        "doc_20347.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did events in Washington occur?",
+    "response": [
+        "doc_600.txt",
+        "doc_20670.txt",
+        "doc_4313.txt",
+        "doc_7921.txt",
+        "doc_19244.txt"
+    ]
+}

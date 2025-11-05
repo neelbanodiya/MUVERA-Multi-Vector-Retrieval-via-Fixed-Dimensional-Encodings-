@@ -1,0 +1,10 @@
+{
+    "query": "Does the Commission plan to conduct a campaign to raise awareness about the benefits of fruit and vegetable consumption?",
+    "response": [
+        "doc_3634.txt",
+        "doc_3890.txt",
+        "doc_6223.txt",
+        "doc_8239.txt",
+        "doc_14518.txt"
+    ]
+}

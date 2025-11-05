@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was the most common murder weapon used in Los Angeles after 1850?",
+    "response": [
+        "doc_5331.txt",
+        "doc_9008.txt",
+        "doc_9001.txt",
+        "doc_9014.txt",
+        "doc_9004.txt"
+    ]
+}

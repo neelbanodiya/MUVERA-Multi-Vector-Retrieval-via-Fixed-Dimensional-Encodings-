@@ -1,0 +1,10 @@
+{
+    "query": "In 2007, which two players won the men\u2019s doubles at the Dubai Tennis Championships?",
+    "response": [
+        "doc_11440.txt",
+        "doc_18355.txt",
+        "doc_19047.txt",
+        "doc_6287.txt",
+        "doc_18356.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which words are associated with \u201cCalifornia\u201d?",
+    "response": [
+        "doc_21320.txt",
+        "doc_15880.txt",
+        "doc_4395.txt",
+        "doc_4400.txt",
+        "doc_14493.txt"
+    ]
+}

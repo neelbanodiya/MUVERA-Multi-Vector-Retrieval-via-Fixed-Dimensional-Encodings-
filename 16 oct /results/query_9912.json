@@ -1,0 +1,10 @@
+{
+    "query": "What is Little India known for, besides being a shopping spot?",
+    "response": [
+        "doc_5756.txt",
+        "doc_15773.txt",
+        "doc_15774.txt",
+        "doc_15767.txt",
+        "doc_15300.txt"
+    ]
+}

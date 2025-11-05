@@ -1,0 +1,10 @@
+{
+    "query": "The passage states that America is \u201ccrowned thy good with\u201d what?",
+    "response": [
+        "doc_5116.txt",
+        "doc_5118.txt",
+        "doc_5117.txt",
+        "doc_23873.txt",
+        "doc_8100.txt"
+    ]
+}

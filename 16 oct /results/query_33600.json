@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Chock full o\u2019Nuts restaurant opened?",
+    "response": [
+        "doc_19575.txt",
+        "doc_10235.txt",
+        "doc_23136.txt",
+        "doc_1319.txt",
+        "doc_12195.txt"
+    ]
+}

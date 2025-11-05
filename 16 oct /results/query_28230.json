@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is not permitted when using either the \"Dissolved Organic Carbon DOC Die-Away\" or \"Modified OECD Screening-DOC Die-Away\" methods?",
+    "response": [
+        "doc_18289.txt",
+        "doc_12498.txt",
+        "doc_17897.txt",
+        "doc_12474.txt",
+        "doc_12489.txt"
+    ]
+}

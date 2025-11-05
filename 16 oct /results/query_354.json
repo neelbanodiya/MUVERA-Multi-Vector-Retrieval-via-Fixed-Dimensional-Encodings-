@@ -1,0 +1,10 @@
+{
+    "query": "What is the Battle of Antietam referred to as in the South?",
+    "response": [
+        "doc_193.txt",
+        "doc_198.txt",
+        "doc_197.txt",
+        "doc_196.txt",
+        "doc_191.txt"
+    ]
+}

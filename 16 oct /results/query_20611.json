@@ -1,0 +1,10 @@
+{
+    "query": "Why wouldn't Community instruments be activated based on the incidents mentioned?",
+    "response": [
+        "doc_8724.txt",
+        "doc_20096.txt",
+        "doc_23357.txt",
+        "doc_6185.txt",
+        "doc_12109.txt"
+    ]
+}

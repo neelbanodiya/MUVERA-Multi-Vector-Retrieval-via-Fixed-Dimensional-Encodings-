@@ -1,0 +1,10 @@
+{
+    "query": "When did James Cook first reach the unexplored east coast of Australia?",
+    "response": [
+        "doc_11010.txt",
+        "doc_11012.txt",
+        "doc_11008.txt",
+        "doc_11009.txt",
+        "doc_11011.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "On what date did \u201cMichael\u2019s Last Dundies\u201d originally air on NBC?",
+    "response": [
+        "doc_12733.txt",
+        "doc_18111.txt",
+        "doc_484.txt",
+        "doc_19705.txt",
+        "doc_6604.txt"
+    ]
+}

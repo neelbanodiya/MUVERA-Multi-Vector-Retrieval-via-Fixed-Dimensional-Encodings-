@@ -1,0 +1,10 @@
+{
+    "query": "Which film features Bette Davis as a governess for a nobleman\u2019s family?",
+    "response": [
+        "doc_23568.txt",
+        "doc_4641.txt",
+        "doc_5325.txt",
+        "doc_8367.txt",
+        "doc_2505.txt"
+    ]
+}

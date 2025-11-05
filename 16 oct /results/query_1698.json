@@ -1,0 +1,10 @@
+{
+    "query": "Which King was Georgia named after?",
+    "response": [
+        "doc_968.txt",
+        "doc_972.txt",
+        "doc_9755.txt",
+        "doc_7329.txt",
+        "doc_14073.txt"
+    ]
+}

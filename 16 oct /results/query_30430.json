@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the film featuring Massimo Troisi?",
+    "response": [
+        "doc_18753.txt",
+        "doc_5332.txt",
+        "doc_8515.txt",
+        "doc_597.txt",
+        "doc_18213.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the city of Calama known as in relation to copper mining?",
+    "response": [
+        "doc_5147.txt",
+        "doc_5148.txt",
+        "doc_5149.txt",
+        "doc_5154.txt",
+        "doc_5152.txt"
+    ]
+}

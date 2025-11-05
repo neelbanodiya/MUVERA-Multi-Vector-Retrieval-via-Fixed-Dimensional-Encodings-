@@ -1,0 +1,10 @@
+{
+    "query": "Which country is Fourth Military Medical University affiliated with?",
+    "response": [
+        "doc_2852.txt",
+        "doc_12230.txt",
+        "doc_22173.txt",
+        "doc_6025.txt",
+        "doc_2854.txt"
+    ]
+}

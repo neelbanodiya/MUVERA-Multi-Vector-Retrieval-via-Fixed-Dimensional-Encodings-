@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Manchester United move to Old Trafford?",
+    "response": [
+        "doc_10885.txt",
+        "doc_19972.txt",
+        "doc_18715.txt",
+        "doc_1222.txt",
+        "doc_1221.txt"
+    ]
+}

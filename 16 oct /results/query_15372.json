@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is *West Side Story* based on?",
+    "response": [
+        "doc_8895.txt",
+        "doc_8897.txt",
+        "doc_8894.txt",
+        "doc_8896.txt",
+        "doc_2179.txt"
+    ]
+}

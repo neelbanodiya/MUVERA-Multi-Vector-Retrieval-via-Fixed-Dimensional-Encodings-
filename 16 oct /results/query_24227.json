@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Princeton University honor Queen Noor with its top alumni awards?",
+    "response": [
+        "doc_14059.txt",
+        "doc_12402.txt",
+        "doc_5315.txt",
+        "doc_8981.txt",
+        "doc_5311.txt"
+    ]
+}

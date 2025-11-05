@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what steps should the Commission take regarding the implementation of the Insolvency Directive?",
+    "response": [
+        "doc_24053.txt",
+        "doc_13316.txt",
+        "doc_9058.txt",
+        "doc_3429.txt",
+        "doc_20770.txt"
+    ]
+}

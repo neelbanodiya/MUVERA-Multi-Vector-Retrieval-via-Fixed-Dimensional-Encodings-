@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what type of performance did Viva Bianca participate in as a child?",
+    "response": [
+        "doc_9125.txt",
+        "doc_10462.txt",
+        "doc_13106.txt",
+        "doc_22910.txt",
+        "doc_6020.txt"
+    ]
+}

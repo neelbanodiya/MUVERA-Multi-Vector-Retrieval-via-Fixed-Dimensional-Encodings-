@@ -1,0 +1,10 @@
+{
+    "query": "In 2002, how many police pursuits were reported in Los Angeles?",
+    "response": [
+        "doc_1888.txt",
+        "doc_21306.txt",
+        "doc_1059.txt",
+        "doc_9017.txt",
+        "doc_23163.txt"
+    ]
+}

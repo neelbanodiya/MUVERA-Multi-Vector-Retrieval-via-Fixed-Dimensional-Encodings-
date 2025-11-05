@@ -1,0 +1,10 @@
+{
+    "query": "Which South Korean tennis player reached the third round of the 2005 U.S. Open?",
+    "response": [
+        "doc_1233.txt",
+        "doc_15160.txt",
+        "doc_1830.txt",
+        "doc_11440.txt",
+        "doc_18355.txt"
+    ]
+}

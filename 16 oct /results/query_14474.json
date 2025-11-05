@@ -1,0 +1,10 @@
+{
+    "query": "Where was Josephine de Beauharnais born?",
+    "response": [
+        "doc_8365.txt",
+        "doc_8376.txt",
+        "doc_8366.txt",
+        "doc_8367.txt",
+        "doc_8378.txt"
+    ]
+}

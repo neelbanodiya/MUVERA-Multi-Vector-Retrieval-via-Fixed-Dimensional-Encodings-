@@ -1,0 +1,10 @@
+{
+    "query": "Which train lines stop at the Lexington Avenue-59th Street station?",
+    "response": [
+        "doc_28.txt",
+        "doc_10696.txt",
+        "doc_21402.txt",
+        "doc_29.txt",
+        "doc_23031.txt"
+    ]
+}

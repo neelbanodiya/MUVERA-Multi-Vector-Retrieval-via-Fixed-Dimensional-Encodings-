@@ -1,0 +1,10 @@
+{
+    "query": "What color diamonds are similar to an E or F color diamond, according to the Moissanite article?",
+    "response": [
+        "doc_10638.txt",
+        "doc_10634.txt",
+        "doc_10635.txt",
+        "doc_10639.txt",
+        "doc_10636.txt"
+    ]
+}

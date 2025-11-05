@@ -1,0 +1,10 @@
+{
+    "query": "What role did Dennis Weaver play in the series \u201cStone\u201d?",
+    "response": [
+        "doc_10349.txt",
+        "doc_7877.txt",
+        "doc_21897.txt",
+        "doc_17888.txt",
+        "doc_19585.txt"
+    ]
+}

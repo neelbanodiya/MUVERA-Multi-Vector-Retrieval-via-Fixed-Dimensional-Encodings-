@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what are the requirements for amending the Indian Constitution?",
+    "response": [
+        "doc_4205.txt",
+        "doc_20762.txt",
+        "doc_20792.txt",
+        "doc_20834.txt",
+        "doc_15581.txt"
+    ]
+}

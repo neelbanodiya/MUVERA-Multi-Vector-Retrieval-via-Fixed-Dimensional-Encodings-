@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Ed McMahon a host alongside Dick Clark showcasing bloopers from TV shows?",
+    "response": [
+        "doc_4027.txt",
+        "doc_4026.txt",
+        "doc_10553.txt",
+        "doc_18242.txt",
+        "doc_10552.txt"
+    ]
+}

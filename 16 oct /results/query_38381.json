@@ -1,0 +1,9 @@
+{
+    "query": "What are some of the organizations that fund research projects at Texas A&M University?",
+    "response": [
+        "doc_22509.txt",
+        "doc_22510.txt",
+        "doc_22508.txt",
+        "doc_22507.txt"
+    ]
+}

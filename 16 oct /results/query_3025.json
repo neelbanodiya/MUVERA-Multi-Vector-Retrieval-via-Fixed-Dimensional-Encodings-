@@ -1,0 +1,10 @@
+{
+    "query": "How many knights were considered the most important ones at King Arthur\u2019s court?",
+    "response": [
+        "doc_1842.txt",
+        "doc_1840.txt",
+        "doc_1833.txt",
+        "doc_1834.txt",
+        "doc_1841.txt"
+    ]
+}

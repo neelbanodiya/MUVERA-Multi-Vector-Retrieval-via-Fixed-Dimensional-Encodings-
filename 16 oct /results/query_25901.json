@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of David Bowie\u2019s 1983 album that includes the song \u201cPut on your red shoes and dance the blues\u201d?",
+    "response": [
+        "doc_15066.txt",
+        "doc_15063.txt",
+        "doc_15060.txt",
+        "doc_15062.txt",
+        "doc_15065.txt"
+    ]
+}

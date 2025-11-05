@@ -1,0 +1,10 @@
+{
+    "query": "What is the Chill Grill raising money for?",
+    "response": [
+        "doc_9985.txt",
+        "doc_16565.txt",
+        "doc_23920.txt",
+        "doc_8890.txt",
+        "doc_15873.txt"
+    ]
+}

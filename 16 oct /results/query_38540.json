@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, who endows Prince Adam with the power to transform?",
+    "response": [
+        "doc_22594.txt",
+        "doc_22595.txt",
+        "doc_22600.txt",
+        "doc_22601.txt",
+        "doc_22599.txt"
+    ]
+}

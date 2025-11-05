@@ -1,0 +1,10 @@
+{
+    "query": "Which three Muses are specifically mentioned in the passage, and what are they associated with?",
+    "response": [
+        "doc_11999.txt",
+        "doc_15662.txt",
+        "doc_15658.txt",
+        "doc_15663.txt",
+        "doc_11703.txt"
+    ]
+}

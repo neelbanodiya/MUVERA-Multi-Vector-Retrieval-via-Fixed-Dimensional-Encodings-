@@ -1,0 +1,10 @@
+{
+    "query": "Who played Edward Lewis in the film mentioned?",
+    "response": [
+        "doc_15485.txt",
+        "doc_16653.txt",
+        "doc_2850.txt",
+        "doc_22853.txt",
+        "doc_16925.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who was one of Dr. Christiaan Barnard\u2019s most talented students?",
+    "response": [
+        "doc_11099.txt",
+        "doc_11094.txt",
+        "doc_11082.txt",
+        "doc_14076.txt",
+        "doc_348.txt"
+    ]
+}

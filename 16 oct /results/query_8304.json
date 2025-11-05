@@ -1,0 +1,10 @@
+{
+    "query": "What was the FBI\u2019s perspective on the United States\u2019 role in international terrorism, as referenced in one of the documents?",
+    "response": [
+        "doc_22149.txt",
+        "doc_21441.txt",
+        "doc_9472.txt",
+        "doc_5727.txt",
+        "doc_14971.txt"
+    ]
+}

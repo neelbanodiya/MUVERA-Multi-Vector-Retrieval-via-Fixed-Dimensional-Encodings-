@@ -1,0 +1,10 @@
+{
+    "query": "What show number corresponds to the answer El Salvador?",
+    "response": [
+        "doc_16020.txt",
+        "doc_23176.txt",
+        "doc_471.txt",
+        "doc_3440.txt",
+        "doc_20138.txt"
+    ]
+}

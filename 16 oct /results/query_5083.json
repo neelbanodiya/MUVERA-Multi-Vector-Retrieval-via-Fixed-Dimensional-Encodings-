@@ -1,0 +1,10 @@
+{
+    "query": "What types of events do the Japanese celebrate?",
+    "response": [
+        "doc_103.txt",
+        "doc_95.txt",
+        "doc_15447.txt",
+        "doc_7300.txt",
+        "doc_18637.txt"
+    ]
+}

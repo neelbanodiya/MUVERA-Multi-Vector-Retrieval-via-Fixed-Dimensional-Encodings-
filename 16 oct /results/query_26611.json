@@ -1,0 +1,10 @@
+{
+    "query": "Besides Brescia, in which region of Italy was Marco Ricchiedeo born and active?",
+    "response": [
+        "doc_15475.txt",
+        "doc_15474.txt",
+        "doc_20245.txt",
+        "doc_20239.txt",
+        "doc_10759.txt"
+    ]
+}

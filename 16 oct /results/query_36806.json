@@ -1,0 +1,10 @@
+{
+    "query": "Where did King Henry VIII send Hans Holbein the Younger to commission a portrait of Anne of Cleves?",
+    "response": [
+        "doc_21516.txt",
+        "doc_21503.txt",
+        "doc_21502.txt",
+        "doc_21506.txt",
+        "doc_21514.txt"
+    ]
+}

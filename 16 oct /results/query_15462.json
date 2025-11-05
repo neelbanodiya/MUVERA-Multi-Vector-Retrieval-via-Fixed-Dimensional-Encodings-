@@ -1,0 +1,10 @@
+{
+    "query": "Where does San Francisco primarily receive its water from, as stated in the passage?",
+    "response": [
+        "doc_16681.txt",
+        "doc_6323.txt",
+        "doc_6328.txt",
+        "doc_8208.txt",
+        "doc_18154.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of craft did the man who beat Joe Louis return home on?",
+    "response": [
+        "doc_15333.txt",
+        "doc_1959.txt",
+        "doc_22045.txt",
+        "doc_13685.txt",
+        "doc_22068.txt"
+    ]
+}

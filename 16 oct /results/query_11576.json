@@ -1,0 +1,10 @@
+{
+    "query": "Which designer is associated with the use of Jersey in outerwear?",
+    "response": [
+        "doc_20249.txt",
+        "doc_21599.txt",
+        "doc_3686.txt",
+        "doc_1086.txt",
+        "doc_20931.txt"
+    ]
+}

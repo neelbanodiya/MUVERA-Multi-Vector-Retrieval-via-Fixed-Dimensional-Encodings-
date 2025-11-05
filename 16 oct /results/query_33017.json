@@ -1,0 +1,10 @@
+{
+    "query": "How much did Harlow Aircraft Company purchase the airport from Western for?",
+    "response": [
+        "doc_19229.txt",
+        "doc_19228.txt",
+        "doc_5184.txt",
+        "doc_2990.txt",
+        "doc_19230.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What are the first lines of the hymn \u201cJoy to the World\u201d as found in multiple sources?",
+    "response": [
+        "doc_2479.txt",
+        "doc_2478.txt",
+        "doc_2481.txt",
+        "doc_2482.txt",
+        "doc_5119.txt"
+    ]
+}

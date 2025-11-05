@@ -1,0 +1,10 @@
+{
+    "query": "What video of the Clintons did Joie Chen show?",
+    "response": [
+        "doc_10673.txt",
+        "doc_22911.txt",
+        "doc_914.txt",
+        "doc_22910.txt",
+        "doc_10677.txt"
+    ]
+}

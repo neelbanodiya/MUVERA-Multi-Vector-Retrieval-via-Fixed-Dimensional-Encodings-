@@ -1,0 +1,10 @@
+{
+    "query": "What period did Air pilots operating in the Yukon River (Yukon and Alaska) work during?",
+    "response": [
+        "doc_9960.txt",
+        "doc_21169.txt",
+        "doc_11379.txt",
+        "doc_11365.txt",
+        "doc_3418.txt"
+    ]
+}

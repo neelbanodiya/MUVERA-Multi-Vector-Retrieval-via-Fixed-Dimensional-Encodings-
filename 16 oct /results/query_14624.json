@@ -1,0 +1,10 @@
+{
+    "query": "What dynamic duo is associated with Sherwood Forest?",
+    "response": [
+        "doc_4220.txt",
+        "doc_18452.txt",
+        "doc_23543.txt",
+        "doc_10610.txt",
+        "doc_10611.txt"
+    ]
+}

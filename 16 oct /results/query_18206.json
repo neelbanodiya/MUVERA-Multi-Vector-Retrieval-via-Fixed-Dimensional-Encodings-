@@ -1,0 +1,10 @@
+{
+    "query": "What year did Reid and Riley were born?",
+    "response": [
+        "doc_23022.txt",
+        "doc_9898.txt",
+        "doc_6380.txt",
+        "doc_8376.txt",
+        "doc_1908.txt"
+    ]
+}

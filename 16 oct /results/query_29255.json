@@ -1,0 +1,10 @@
+{
+    "query": "In \"The Castle\" film, what is the location of the Kerrigan family\u2019s home?",
+    "response": [
+        "doc_7201.txt",
+        "doc_9940.txt",
+        "doc_1985.txt",
+        "doc_9253.txt",
+        "doc_7343.txt"
+    ]
+}

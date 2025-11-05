@@ -1,0 +1,10 @@
+{
+    "query": "When did the record-breaking 33-inning game between the Pawtucket Red Sox and the Rochester Red Wings take place?",
+    "response": [
+        "doc_2441.txt",
+        "doc_2445.txt",
+        "doc_2442.txt",
+        "doc_2439.txt",
+        "doc_2438.txt"
+    ]
+}

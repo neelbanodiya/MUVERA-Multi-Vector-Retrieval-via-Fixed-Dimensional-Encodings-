@@ -1,0 +1,10 @@
+{
+    "query": "Who is Richard Henry Dana associated with, according to the passage?",
+    "response": [
+        "doc_11486.txt",
+        "doc_2177.txt",
+        "doc_20130.txt",
+        "doc_15277.txt",
+        "doc_4812.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What two books did Nehru write while imprisoned?",
+    "response": [
+        "doc_17081.txt",
+        "doc_17083.txt",
+        "doc_17082.txt",
+        "doc_17085.txt",
+        "doc_17084.txt"
+    ]
+}

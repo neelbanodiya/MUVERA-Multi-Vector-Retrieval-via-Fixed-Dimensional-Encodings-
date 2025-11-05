@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, what is a notable characteristic of the Black Mamba?",
+    "response": [
+        "doc_830.txt",
+        "doc_5095.txt",
+        "doc_21785.txt",
+        "doc_5086.txt",
+        "doc_5091.txt"
+    ]
+}

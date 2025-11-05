@@ -1,0 +1,10 @@
+{
+    "query": "What event took place in Brussels in 1958?",
+    "response": [
+        "doc_397.txt",
+        "doc_15159.txt",
+        "doc_20187.txt",
+        "doc_19244.txt",
+        "doc_18349.txt"
+    ]
+}

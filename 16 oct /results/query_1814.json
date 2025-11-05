@@ -1,0 +1,10 @@
+{
+    "query": "Which political group is described as the \u201cSocialist Group in the European Parliament\u201d?",
+    "response": [
+        "doc_20513.txt",
+        "doc_7840.txt",
+        "doc_11962.txt",
+        "doc_1026.txt",
+        "doc_23709.txt"
+    ]
+}

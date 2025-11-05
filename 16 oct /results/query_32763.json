@@ -1,0 +1,10 @@
+{
+    "query": "What type of weather event caused significant damage in Nova Scotia in 1971, as detailed in one of the linked documents?",
+    "response": [
+        "doc_19087.txt",
+        "doc_4083.txt",
+        "doc_8837.txt",
+        "doc_19105.txt",
+        "doc_11310.txt"
+    ]
+}

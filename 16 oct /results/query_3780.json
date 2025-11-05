@@ -1,0 +1,10 @@
+{
+    "query": "What action have many EU Member States recently taken regarding arms export licenses?",
+    "response": [
+        "doc_2233.txt",
+        "doc_2234.txt",
+        "doc_23372.txt",
+        "doc_24002.txt",
+        "doc_12828.txt"
+    ]
+}

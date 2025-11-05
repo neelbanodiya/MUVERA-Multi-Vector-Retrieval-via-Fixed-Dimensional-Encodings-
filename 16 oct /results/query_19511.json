@@ -1,0 +1,10 @@
+{
+    "query": "What was Brooks named in 2012?",
+    "response": [
+        "doc_1764.txt",
+        "doc_14368.txt",
+        "doc_9893.txt",
+        "doc_23544.txt",
+        "doc_19163.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What role does Isis play in the text \u201cThe Golden Ass\u201d?",
+    "response": [
+        "doc_12557.txt",
+        "doc_12551.txt",
+        "doc_12556.txt",
+        "doc_12561.txt",
+        "doc_12555.txt"
+    ]
+}

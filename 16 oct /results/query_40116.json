@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Sandvik become a high-tech leader with sales in 130 countries?",
+    "response": [
+        "doc_23487.txt",
+        "doc_23483.txt",
+        "doc_1717.txt",
+        "doc_312.txt",
+        "doc_21133.txt"
+    ]
+}

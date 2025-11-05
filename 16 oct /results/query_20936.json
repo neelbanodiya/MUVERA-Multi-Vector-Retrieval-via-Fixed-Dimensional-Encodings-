@@ -1,0 +1,10 @@
+{
+    "query": "Which islands are primarily included in the Visayan islands mentioned in the passage?",
+    "response": [
+        "doc_9611.txt",
+        "doc_12059.txt",
+        "doc_9608.txt",
+        "doc_1311.txt",
+        "doc_5562.txt"
+    ]
+}

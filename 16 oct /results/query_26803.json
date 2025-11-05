@@ -1,0 +1,10 @@
+{
+    "query": "When were *The Fellowship of the Rings*, *The Two Towers*, and *The Return of the King* published?",
+    "response": [
+        "doc_15553.txt",
+        "doc_15551.txt",
+        "doc_15555.txt",
+        "doc_458.txt",
+        "doc_14862.txt"
+    ]
+}

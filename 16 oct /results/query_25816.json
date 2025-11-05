@@ -1,0 +1,10 @@
+{
+    "query": "What roles did Kaitlin have in the television show *Empty Nest*?",
+    "response": [
+        "doc_15008.txt",
+        "doc_18954.txt",
+        "doc_10903.txt",
+        "doc_5320.txt",
+        "doc_12613.txt"
+    ]
+}

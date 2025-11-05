@@ -1,0 +1,10 @@
+{
+    "query": "How many Oscar nominations did *Mad Max: Fury Road* receive?",
+    "response": [
+        "doc_4923.txt",
+        "doc_23283.txt",
+        "doc_23280.txt",
+        "doc_23282.txt",
+        "doc_23284.txt"
+    ]
+}

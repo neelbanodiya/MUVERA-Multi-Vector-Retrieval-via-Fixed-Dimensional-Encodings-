@@ -1,0 +1,10 @@
+{
+    "query": "What type of legislative procedure is suitable for implementing rules beyond the technical measures outlined in the Regulation?",
+    "response": [
+        "doc_8887.txt",
+        "doc_8878.txt",
+        "doc_17252.txt",
+        "doc_8877.txt",
+        "doc_20789.txt"
+    ]
+}

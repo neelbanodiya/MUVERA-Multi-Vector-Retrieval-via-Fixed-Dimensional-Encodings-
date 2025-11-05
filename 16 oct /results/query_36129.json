@@ -1,0 +1,10 @@
+{
+    "query": "What office did Sir Isaac Newton retain until his death?",
+    "response": [
+        "doc_21072.txt",
+        "doc_21066.txt",
+        "doc_21060.txt",
+        "doc_21071.txt",
+        "doc_21069.txt"
+    ]
+}

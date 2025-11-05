@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is the current elevation of Mount Elbert?",
+    "response": [
+        "doc_18535.txt",
+        "doc_18541.txt",
+        "doc_18536.txt",
+        "doc_18550.txt",
+        "doc_18534.txt"
+    ]
+}

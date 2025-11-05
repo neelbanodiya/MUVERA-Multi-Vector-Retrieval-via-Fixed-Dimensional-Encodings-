@@ -1,0 +1,10 @@
+{
+    "query": "What book did Attenborough write detailing his 20-year struggle to create \u201cGandhi\u201d?",
+    "response": [
+        "doc_9019.txt",
+        "doc_17081.txt",
+        "doc_9020.txt",
+        "doc_17085.txt",
+        "doc_17082.txt"
+    ]
+}

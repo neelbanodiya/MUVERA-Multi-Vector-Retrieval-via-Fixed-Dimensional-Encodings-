@@ -1,0 +1,10 @@
+{
+    "query": "How many Emmy Awards did Michael Richards win for playing Cosmo Kramer on *Seinfeld*?",
+    "response": [
+        "doc_4461.txt",
+        "doc_4458.txt",
+        "doc_4465.txt",
+        "doc_4469.txt",
+        "doc_4463.txt"
+    ]
+}

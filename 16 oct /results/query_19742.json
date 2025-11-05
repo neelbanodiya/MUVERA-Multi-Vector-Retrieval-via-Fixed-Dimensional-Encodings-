@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was the focus of studies provided by the \u201cEducation (Ministerio de Educacin y Cultura)\u201d?",
+    "response": [
+        "doc_11410.txt",
+        "doc_11400.txt",
+        "doc_11415.txt",
+        "doc_1310.txt",
+        "doc_8124.txt"
+    ]
+}

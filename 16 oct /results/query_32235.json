@@ -1,0 +1,10 @@
+{
+    "query": "What attempt was made to blow up a Goodyear blimp over the Super Bowl stadium?",
+    "response": [
+        "doc_11264.txt",
+        "doc_18773.txt",
+        "doc_18777.txt",
+        "doc_11256.txt",
+        "doc_11259.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What characters are mentioned as being part of King Arthur\u2019s group of knights?",
+    "response": [
+        "doc_1848.txt",
+        "doc_1835.txt",
+        "doc_1837.txt",
+        "doc_22253.txt",
+        "doc_1849.txt"
+    ]
+}

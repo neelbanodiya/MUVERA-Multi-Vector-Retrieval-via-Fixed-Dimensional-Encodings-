@@ -1,0 +1,10 @@
+{
+    "query": "According to Alexander Pope, what color does a \u201cjaundiced eye\u201d perceive everything to be?",
+    "response": [
+        "doc_12324.txt",
+        "doc_12323.txt",
+        "doc_12326.txt",
+        "doc_12321.txt",
+        "doc_12322.txt"
+    ]
+}

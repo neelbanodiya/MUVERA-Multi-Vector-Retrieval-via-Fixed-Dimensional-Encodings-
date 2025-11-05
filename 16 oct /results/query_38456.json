@@ -1,0 +1,10 @@
+{
+    "query": "What song was released by Joan Jett and the Blackhearts in 1982?",
+    "response": [
+        "doc_22547.txt",
+        "doc_22552.txt",
+        "doc_22564.txt",
+        "doc_22548.txt",
+        "doc_22551.txt"
+    ]
+}

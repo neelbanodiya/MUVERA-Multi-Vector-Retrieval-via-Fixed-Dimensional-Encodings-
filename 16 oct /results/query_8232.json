@@ -1,0 +1,10 @@
+{
+    "query": "What action did Turkey claim the right to take, based on the events described in the passage?",
+    "response": [
+        "doc_3914.txt",
+        "doc_8051.txt",
+        "doc_19701.txt",
+        "doc_3880.txt",
+        "doc_4103.txt"
+    ]
+}

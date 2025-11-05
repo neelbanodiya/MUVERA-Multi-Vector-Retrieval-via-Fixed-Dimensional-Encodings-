@@ -1,0 +1,10 @@
+{
+    "query": "Which band is described as being similar to Led Zeppelin?",
+    "response": [
+        "doc_7664.txt",
+        "doc_2402.txt",
+        "doc_16349.txt",
+        "doc_19463.txt",
+        "doc_10075.txt"
+    ]
+}

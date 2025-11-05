@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the ESPN blog article referenced in the passage?",
+    "response": [
+        "doc_14412.txt",
+        "doc_19216.txt",
+        "doc_5543.txt",
+        "doc_16570.txt",
+        "doc_7825.txt"
+    ]
+}

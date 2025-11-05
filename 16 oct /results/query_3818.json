@@ -1,0 +1,10 @@
+{
+    "query": "What is the significance of the statues found on Easter Island?",
+    "response": [
+        "doc_2244.txt",
+        "doc_2241.txt",
+        "doc_2251.txt",
+        "doc_2249.txt",
+        "doc_2240.txt"
+    ]
+}

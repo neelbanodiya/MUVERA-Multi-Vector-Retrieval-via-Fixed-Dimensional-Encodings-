@@ -1,0 +1,10 @@
+{
+    "query": "What activities were associated with a palace during the Minoan period?",
+    "response": [
+        "doc_20211.txt",
+        "doc_5430.txt",
+        "doc_18500.txt",
+        "doc_5424.txt",
+        "doc_8353.txt"
+    ]
+}

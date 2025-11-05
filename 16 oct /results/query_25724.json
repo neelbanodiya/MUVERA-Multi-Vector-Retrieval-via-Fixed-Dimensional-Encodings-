@@ -1,0 +1,10 @@
+{
+    "query": "What was Ronald Reagan\u2019s place of birth?",
+    "response": [
+        "doc_3570.txt",
+        "doc_3571.txt",
+        "doc_3563.txt",
+        "doc_3566.txt",
+        "doc_3564.txt"
+    ]
+}

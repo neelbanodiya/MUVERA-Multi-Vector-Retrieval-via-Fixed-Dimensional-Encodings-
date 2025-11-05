@@ -1,0 +1,10 @@
+{
+    "query": "What is the predominant religion of the population in Moldova?",
+    "response": [
+        "doc_10933.txt",
+        "doc_20059.txt",
+        "doc_20061.txt",
+        "doc_3940.txt",
+        "doc_3939.txt"
+    ]
+}

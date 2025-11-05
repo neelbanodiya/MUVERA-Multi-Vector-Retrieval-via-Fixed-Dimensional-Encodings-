@@ -1,0 +1,10 @@
+{
+    "query": "What kind of role did Viggo audition for, according to the fourth entry?",
+    "response": [
+        "doc_217.txt",
+        "doc_4462.txt",
+        "doc_20612.txt",
+        "doc_1623.txt",
+        "doc_9274.txt"
+    ]
+}

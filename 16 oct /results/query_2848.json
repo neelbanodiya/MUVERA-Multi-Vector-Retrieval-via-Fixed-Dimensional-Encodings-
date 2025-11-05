@@ -1,0 +1,10 @@
+{
+    "query": "What is Patrick F. McManus known for publishing?",
+    "response": [
+        "doc_1724.txt",
+        "doc_349.txt",
+        "doc_8121.txt",
+        "doc_5763.txt",
+        "doc_12903.txt"
+    ]
+}

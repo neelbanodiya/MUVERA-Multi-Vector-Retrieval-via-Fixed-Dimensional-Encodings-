@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many square miles is the Harding Icefield?",
+    "response": [
+        "doc_19090.txt",
+        "doc_23074.txt",
+        "doc_8837.txt",
+        "doc_16491.txt",
+        "doc_8535.txt"
+    ]
+}

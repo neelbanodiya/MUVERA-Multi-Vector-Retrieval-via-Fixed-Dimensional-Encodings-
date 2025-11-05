@@ -1,0 +1,10 @@
+{
+    "query": "What role did Gale Gordon portray on *The Lucy Show*?",
+    "response": [
+        "doc_10349.txt",
+        "doc_10348.txt",
+        "doc_10352.txt",
+        "doc_10350.txt",
+        "doc_10356.txt"
+    ]
+}

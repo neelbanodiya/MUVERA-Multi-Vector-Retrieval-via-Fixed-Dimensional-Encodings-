@@ -1,0 +1,10 @@
+{
+    "query": "Who was the City Attorney for Los Angeles at the time of the St. Francis Dam disaster, as mentioned in one of the linked articles?",
+    "response": [
+        "doc_8958.txt",
+        "doc_9017.txt",
+        "doc_7613.txt",
+        "doc_14034.txt",
+        "doc_891.txt"
+    ]
+}

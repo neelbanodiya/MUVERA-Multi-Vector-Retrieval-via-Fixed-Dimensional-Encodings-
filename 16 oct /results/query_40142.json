@@ -1,0 +1,10 @@
+{
+    "query": "What event, involving a trader and a specific time frame, led to a significant drop in the Dow Jones index?",
+    "response": [
+        "doc_19177.txt",
+        "doc_19699.txt",
+        "doc_4706.txt",
+        "doc_12703.txt",
+        "doc_20821.txt"
+    ]
+}

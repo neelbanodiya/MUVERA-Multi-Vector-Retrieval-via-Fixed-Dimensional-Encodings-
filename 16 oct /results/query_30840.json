@@ -1,0 +1,10 @@
+{
+    "query": "What was Dzhokhar Dudayev\u2019s role before his death, as indicated in the passages?",
+    "response": [
+        "doc_17965.txt",
+        "doc_17966.txt",
+        "doc_17972.txt",
+        "doc_17968.txt",
+        "doc_17967.txt"
+    ]
+}

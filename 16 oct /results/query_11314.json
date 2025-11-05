@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the shaggy pony that Tory befriends?",
+    "response": [
+        "doc_21780.txt",
+        "doc_9928.txt",
+        "doc_715.txt",
+        "doc_2692.txt",
+        "doc_21779.txt"
+    ]
+}

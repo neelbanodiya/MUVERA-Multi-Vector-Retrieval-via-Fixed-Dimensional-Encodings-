@@ -1,0 +1,10 @@
+{
+    "query": "What region was the author intimately familiar with, relating to the setting of *Lady Chatterley\u2019s Lover*?",
+    "response": [
+        "doc_14656.txt",
+        "doc_14668.txt",
+        "doc_14661.txt",
+        "doc_14662.txt",
+        "doc_14655.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who was Catherine de' Medici\u2019s granddaughter?",
+    "response": [
+        "doc_23745.txt",
+        "doc_23757.txt",
+        "doc_23754.txt",
+        "doc_23758.txt",
+        "doc_23753.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What dessert is offered at Tupelo Honey Cafe, and what region does it originate from?",
+    "response": [
+        "doc_18265.txt",
+        "doc_23445.txt",
+        "doc_21686.txt",
+        "doc_18266.txt",
+        "doc_5794.txt"
+    ]
+}

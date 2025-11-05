@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Oscar Micheaux remade the story of \u201cBirthright\u201d as a talkie?",
+    "response": [
+        "doc_401.txt",
+        "doc_5293.txt",
+        "doc_18456.txt",
+        "doc_20612.txt",
+        "doc_6926.txt"
+    ]
+}

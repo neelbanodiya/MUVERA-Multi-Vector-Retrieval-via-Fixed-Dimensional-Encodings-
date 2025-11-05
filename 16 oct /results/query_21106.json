@@ -1,0 +1,10 @@
+{
+    "query": "What type of event is the Spirit Mountain event described as?",
+    "response": [
+        "doc_20875.txt",
+        "doc_9673.txt",
+        "doc_11488.txt",
+        "doc_23357.txt",
+        "doc_20382.txt"
+    ]
+}

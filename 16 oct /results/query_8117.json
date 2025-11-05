@@ -1,0 +1,10 @@
+{
+    "query": "Which countries joined the European Union according to the referenced document?",
+    "response": [
+        "doc_3595.txt",
+        "doc_4657.txt",
+        "doc_3594.txt",
+        "doc_4700.txt",
+        "doc_23719.txt"
+    ]
+}

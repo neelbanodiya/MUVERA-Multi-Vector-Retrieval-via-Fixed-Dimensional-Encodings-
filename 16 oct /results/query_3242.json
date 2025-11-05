@@ -1,0 +1,10 @@
+{
+    "query": "What was John Henry\u2019s primary method of working \u2013 specifically, what tool did he use?",
+    "response": [
+        "doc_1941.txt",
+        "doc_22250.txt",
+        "doc_20220.txt",
+        "doc_22258.txt",
+        "doc_1457.txt"
+    ]
+}

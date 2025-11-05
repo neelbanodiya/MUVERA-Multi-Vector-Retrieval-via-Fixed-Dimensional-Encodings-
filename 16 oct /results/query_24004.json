@@ -1,0 +1,10 @@
+{
+    "query": "When did Nanci Griffith first appear on the \u201cAustin City Limits\u201d PBS music program?",
+    "response": [
+        "doc_10536.txt",
+        "doc_13922.txt",
+        "doc_9515.txt",
+        "doc_19588.txt",
+        "doc_23311.txt"
+    ]
+}

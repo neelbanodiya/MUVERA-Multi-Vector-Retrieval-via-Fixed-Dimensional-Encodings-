@@ -1,0 +1,9 @@
+{
+    "query": "Which state was the original Hells Angels motorcycle club founded in?",
+    "response": [
+        "doc_23161.txt",
+        "doc_23159.txt",
+        "doc_23162.txt",
+        "doc_23158.txt"
+    ]
+}

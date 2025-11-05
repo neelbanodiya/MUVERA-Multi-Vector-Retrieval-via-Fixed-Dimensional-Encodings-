@@ -1,0 +1,10 @@
+{
+    "query": "According to the Colorado Parks & Wildlife FAQs, which animals are prohibited?",
+    "response": [
+        "doc_16477.txt",
+        "doc_23392.txt",
+        "doc_18155.txt",
+        "doc_2726.txt",
+        "doc_2339.txt"
+    ]
+}

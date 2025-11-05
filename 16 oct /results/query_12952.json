@@ -1,0 +1,10 @@
+{
+    "query": "Which artists collaborated on the song \"Endless Love\"?",
+    "response": [
+        "doc_7536.txt",
+        "doc_14724.txt",
+        "doc_18603.txt",
+        "doc_5372.txt",
+        "doc_12573.txt"
+    ]
+}

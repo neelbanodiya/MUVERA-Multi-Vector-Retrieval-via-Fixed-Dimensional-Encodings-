@@ -1,0 +1,10 @@
+{
+    "query": "What type of music is described as \u201clike Malian pop played by Radiohead\u201d?",
+    "response": [
+        "doc_15612.txt",
+        "doc_16349.txt",
+        "doc_10075.txt",
+        "doc_19461.txt",
+        "doc_16350.txt"
+    ]
+}

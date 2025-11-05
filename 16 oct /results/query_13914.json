@@ -1,0 +1,10 @@
+{
+    "query": "For which NFL team does Dak Prescott play?",
+    "response": [
+        "doc_1223.txt",
+        "doc_8088.txt",
+        "doc_8087.txt",
+        "doc_12990.txt",
+        "doc_1220.txt"
+    ]
+}

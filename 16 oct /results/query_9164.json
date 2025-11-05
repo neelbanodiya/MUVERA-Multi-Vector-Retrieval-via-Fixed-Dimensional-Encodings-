@@ -1,0 +1,10 @@
+{
+    "query": "What date did the Committee on Regional Policy, Transport and Tourism decide on the report?",
+    "response": [
+        "doc_13139.txt",
+        "doc_6982.txt",
+        "doc_6983.txt",
+        "doc_9429.txt",
+        "doc_8444.txt"
+    ]
+}

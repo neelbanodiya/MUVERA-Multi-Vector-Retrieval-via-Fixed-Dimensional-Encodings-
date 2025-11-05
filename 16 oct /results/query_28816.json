@@ -1,0 +1,10 @@
+{
+    "query": "Which state was William L. Dayton a former senator from?",
+    "response": [
+        "doc_16807.txt",
+        "doc_2177.txt",
+        "doc_16805.txt",
+        "doc_5974.txt",
+        "doc_16810.txt"
+    ]
+}

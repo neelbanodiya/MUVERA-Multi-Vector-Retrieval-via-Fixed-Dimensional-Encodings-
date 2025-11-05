@@ -1,0 +1,10 @@
+{
+    "query": "Which TV show features Heidi Klum and focuses on a competition involving fashion design?",
+    "response": [
+        "doc_22911.txt",
+        "doc_11776.txt",
+        "doc_22908.txt",
+        "doc_775.txt",
+        "doc_22910.txt"
+    ]
+}

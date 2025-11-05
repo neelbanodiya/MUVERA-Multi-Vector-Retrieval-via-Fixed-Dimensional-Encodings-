@@ -1,0 +1,10 @@
+{
+    "query": "Which countries are included in Southern South America according to the provided links?",
+    "response": [
+        "doc_8841.txt",
+        "doc_8837.txt",
+        "doc_8836.txt",
+        "doc_8840.txt",
+        "doc_8838.txt"
+    ]
+}

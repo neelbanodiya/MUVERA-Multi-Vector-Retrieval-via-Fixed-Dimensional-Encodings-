@@ -1,0 +1,10 @@
+{
+    "query": "Which movie featured Brass Bancroft as a Secret Service agent?",
+    "response": [
+        "doc_19558.txt",
+        "doc_19556.txt",
+        "doc_19572.txt",
+        "doc_19566.txt",
+        "doc_19564.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Arnold Palmer win seven major titles?",
+    "response": [
+        "doc_3293.txt",
+        "doc_3294.txt",
+        "doc_5755.txt",
+        "doc_6289.txt",
+        "doc_3299.txt"
+    ]
+}

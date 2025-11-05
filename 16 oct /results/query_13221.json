@@ -1,0 +1,10 @@
+{
+    "query": "What type of show was *Legally Blonde* described as being markedly different from previous productions?",
+    "response": [
+        "doc_4113.txt",
+        "doc_21885.txt",
+        "doc_12949.txt",
+        "doc_6752.txt",
+        "doc_19273.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What are some of the largest lakes located within the United Kingdom?",
+    "response": [
+        "doc_8427.txt",
+        "doc_8428.txt",
+        "doc_8426.txt",
+        "doc_8439.txt",
+        "doc_8431.txt"
+    ]
+}

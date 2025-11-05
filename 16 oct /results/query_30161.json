@@ -1,0 +1,10 @@
+{
+    "query": "What is the estimated margin associated with restoring the PDB partially?",
+    "response": [
+        "doc_17544.txt",
+        "doc_17543.txt",
+        "doc_17506.txt",
+        "doc_17601.txt",
+        "doc_17546.txt"
+    ]
+}

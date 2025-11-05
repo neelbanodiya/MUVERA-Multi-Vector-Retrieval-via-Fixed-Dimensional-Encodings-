@@ -1,0 +1,10 @@
+{
+    "query": "What is featured on the reverse side of the Presidential $1 coins?",
+    "response": [
+        "doc_5920.txt",
+        "doc_5925.txt",
+        "doc_5919.txt",
+        "doc_5912.txt",
+        "doc_5927.txt"
+    ]
+}

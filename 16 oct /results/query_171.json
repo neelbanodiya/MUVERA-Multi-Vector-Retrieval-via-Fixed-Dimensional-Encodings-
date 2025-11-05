@@ -1,0 +1,10 @@
+{
+    "query": "What two major cities are included in a CIEE Study Abroad program focused on \u201csummer religious diversity in Europe,\u201d and which river runs through Paris?",
+    "response": [
+        "doc_12333.txt",
+        "doc_81.txt",
+        "doc_20392.txt",
+        "doc_10274.txt",
+        "doc_5587.txt"
+    ]
+}

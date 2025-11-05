@@ -1,0 +1,10 @@
+{
+    "query": "Besides cities and villages, what is another notable feature of the Black Forest landscape mentioned?",
+    "response": [
+        "doc_6188.txt",
+        "doc_6189.txt",
+        "doc_6187.txt",
+        "doc_4829.txt",
+        "doc_13075.txt"
+    ]
+}

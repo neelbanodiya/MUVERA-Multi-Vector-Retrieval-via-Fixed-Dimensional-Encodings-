@@ -1,0 +1,10 @@
+{
+    "query": "What is the first phrase included in the Miranda warnings?",
+    "response": [
+        "doc_8565.txt",
+        "doc_22363.txt",
+        "doc_19826.txt",
+        "doc_6996.txt",
+        "doc_11004.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What river does the Missouri enter near St. Louis?",
+    "response": [
+        "doc_21168.txt",
+        "doc_21161.txt",
+        "doc_21162.txt",
+        "doc_14035.txt",
+        "doc_2427.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who did Jill St. John meet during her early career?",
+    "response": [
+        "doc_10673.txt",
+        "doc_76.txt",
+        "doc_13912.txt",
+        "doc_22804.txt",
+        "doc_12734.txt"
+    ]
+}

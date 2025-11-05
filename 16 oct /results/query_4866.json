@@ -1,0 +1,10 @@
+{
+    "query": "What did Oliver say to the person he was talking to before taking a walk?",
+    "response": [
+        "doc_15772.txt",
+        "doc_2810.txt",
+        "doc_9220.txt",
+        "doc_15771.txt",
+        "doc_4198.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who did Gene Tunney defeat to become the heavyweight champion of the world?",
+    "response": [
+        "doc_7220.txt",
+        "doc_7231.txt",
+        "doc_7232.txt",
+        "doc_7233.txt",
+        "doc_7226.txt"
+    ]
+}

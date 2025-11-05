@@ -1,0 +1,10 @@
+{
+    "query": "Which studio produced *The Squaw Man*, the company\u2019s first feature film?",
+    "response": [
+        "doc_22830.txt",
+        "doc_22833.txt",
+        "doc_22837.txt",
+        "doc_1231.txt",
+        "doc_20569.txt"
+    ]
+}

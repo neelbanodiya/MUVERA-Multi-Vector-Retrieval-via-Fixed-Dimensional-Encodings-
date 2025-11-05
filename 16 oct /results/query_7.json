@@ -1,0 +1,10 @@
+{
+    "query": "What is the height of the Prudential Tower?",
+    "response": [
+        "doc_2.txt",
+        "doc_23524.txt",
+        "doc_4.txt",
+        "doc_7371.txt",
+        "doc_8682.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the focus of the \u201cIELTS 4000 Academic Word List\u201d referenced in one of the links?",
+    "response": [
+        "doc_5536.txt",
+        "doc_11703.txt",
+        "doc_19143.txt",
+        "doc_14448.txt",
+        "doc_16198.txt"
+    ]
+}

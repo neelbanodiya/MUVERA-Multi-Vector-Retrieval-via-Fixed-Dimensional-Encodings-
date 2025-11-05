@@ -1,0 +1,10 @@
+{
+    "query": "Which record label released Florence Valentin\u2019s album \u201cJohnny Drama\u201d?",
+    "response": [
+        "doc_16279.txt",
+        "doc_16278.txt",
+        "doc_128.txt",
+        "doc_8006.txt",
+        "doc_12408.txt"
+    ]
+}

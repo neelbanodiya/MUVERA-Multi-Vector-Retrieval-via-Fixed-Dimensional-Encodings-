@@ -1,0 +1,10 @@
+{
+    "query": "What landmarks comprised the \u201cmythical Pillars of Hercules\u201d as described in one of the linked articles?",
+    "response": [
+        "doc_8682.txt",
+        "doc_8685.txt",
+        "doc_8686.txt",
+        "doc_8683.txt",
+        "doc_8684.txt"
+    ]
+}

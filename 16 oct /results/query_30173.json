@@ -1,0 +1,10 @@
+{
+    "query": "Which specific programmes experienced reductions in the PDB, and what were the corresponding amounts?",
+    "response": [
+        "doc_17612.txt",
+        "doc_17549.txt",
+        "doc_17517.txt",
+        "doc_17565.txt",
+        "doc_17548.txt"
+    ]
+}

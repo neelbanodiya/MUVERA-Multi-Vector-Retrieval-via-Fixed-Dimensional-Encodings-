@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what Roman numeral is used to represent the number 3?",
+    "response": [
+        "doc_14596.txt",
+        "doc_14589.txt",
+        "doc_14582.txt",
+        "doc_14587.txt",
+        "doc_14584.txt"
+    ]
+}

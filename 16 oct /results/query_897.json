@@ -1,0 +1,10 @@
+{
+    "query": "What mountain did the subject cross after receiving instruction from the Bad Genii?",
+    "response": [
+        "doc_23688.txt",
+        "doc_14537.txt",
+        "doc_1638.txt",
+        "doc_1849.txt",
+        "doc_5686.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What materials were used in the construction of homes in Ohio, such as those built by Lincoln, Putnam, and Beecher-Stowe?",
+    "response": [
+        "doc_15207.txt",
+        "doc_10090.txt",
+        "doc_15208.txt",
+        "doc_10086.txt",
+        "doc_10085.txt"
+    ]
+}

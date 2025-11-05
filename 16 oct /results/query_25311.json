@@ -1,0 +1,10 @@
+{
+    "query": "Which groups submitted motions related to Ukraine in October 2010?",
+    "response": [
+        "doc_14687.txt",
+        "doc_14691.txt",
+        "doc_4155.txt",
+        "doc_14688.txt",
+        "doc_4130.txt"
+    ]
+}

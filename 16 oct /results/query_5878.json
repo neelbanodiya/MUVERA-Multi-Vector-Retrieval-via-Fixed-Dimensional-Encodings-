@@ -1,0 +1,10 @@
+{
+    "query": "What role did Alaska play in North American air defense, as described in one of the linked documents?",
+    "response": [
+        "doc_3414.txt",
+        "doc_3403.txt",
+        "doc_3412.txt",
+        "doc_3408.txt",
+        "doc_9619.txt"
+    ]
+}

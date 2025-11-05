@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what happened to Drake McHugh as a result of an operation?",
+    "response": [
+        "doc_5674.txt",
+        "doc_1881.txt",
+        "doc_10449.txt",
+        "doc_19268.txt",
+        "doc_19090.txt"
+    ]
+}

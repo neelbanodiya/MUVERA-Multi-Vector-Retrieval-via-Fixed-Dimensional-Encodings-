@@ -1,0 +1,10 @@
+{
+    "query": "Where did the Mayflower initially plan to land?",
+    "response": [
+        "doc_3947.txt",
+        "doc_3949.txt",
+        "doc_3945.txt",
+        "doc_3951.txt",
+        "doc_9253.txt"
+    ]
+}

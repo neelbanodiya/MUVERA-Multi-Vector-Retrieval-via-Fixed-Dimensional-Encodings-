@@ -1,0 +1,10 @@
+{
+    "query": "What year was the film *Army of Darkness* released, and in what time period does it take place?",
+    "response": [
+        "doc_1231.txt",
+        "doc_207.txt",
+        "doc_1580.txt",
+        "doc_14779.txt",
+        "doc_6919.txt"
+    ]
+}

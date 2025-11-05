@@ -1,0 +1,10 @@
+{
+    "query": "Which company was responsible for producing *The Squaw Man*, and when did it become Famous Players-Lasky Corporation?",
+    "response": [
+        "doc_8011.txt",
+        "doc_20569.txt",
+        "doc_9013.txt",
+        "doc_10500.txt",
+        "doc_14769.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the height of the prayer tower at Oral Roberts University?",
+    "response": [
+        "doc_17318.txt",
+        "doc_4609.txt",
+        "doc_4614.txt",
+        "doc_4607.txt",
+        "doc_23686.txt"
+    ]
+}

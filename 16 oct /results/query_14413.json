@@ -1,0 +1,10 @@
+{
+    "query": "When was Carthage founded?",
+    "response": [
+        "doc_8356.txt",
+        "doc_8360.txt",
+        "doc_8355.txt",
+        "doc_8354.txt",
+        "doc_8349.txt"
+    ]
+}

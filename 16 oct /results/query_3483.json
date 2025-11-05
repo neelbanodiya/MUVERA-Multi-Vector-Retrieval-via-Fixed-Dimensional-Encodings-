@@ -1,0 +1,10 @@
+{
+    "query": "What time will the official inauguration of the Open Day take place?",
+    "response": [
+        "doc_2058.txt",
+        "doc_2051.txt",
+        "doc_2057.txt",
+        "doc_19244.txt",
+        "doc_2292.txt"
+    ]
+}

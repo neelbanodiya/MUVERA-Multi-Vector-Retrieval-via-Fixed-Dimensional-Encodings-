@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the camp located within Fort Harrison, and who was it named in honor of?",
+    "response": [
+        "doc_9109.txt",
+        "doc_850.txt",
+        "doc_4302.txt",
+        "doc_12980.txt",
+        "doc_207.txt"
+    ]
+}

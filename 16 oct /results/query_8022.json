@@ -1,0 +1,10 @@
+{
+    "query": "What roles did Bea Arthur portray on the 1970s sitcoms *All in the Family* and *Maude*?",
+    "response": [
+        "doc_4649.txt",
+        "doc_4652.txt",
+        "doc_4646.txt",
+        "doc_4648.txt",
+        "doc_4651.txt"
+    ]
+}

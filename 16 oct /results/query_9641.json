@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Paul McCartney in 2002 regarding his performance of a song?",
+    "response": [
+        "doc_6336.txt",
+        "doc_17888.txt",
+        "doc_19013.txt",
+        "doc_11122.txt",
+        "doc_9824.txt"
+    ]
+}

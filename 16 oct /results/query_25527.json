@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, how much less do black and Hispanic women earn compared to white counterparts in terms of wealth?",
+    "response": [
+        "doc_14802.txt",
+        "doc_14807.txt",
+        "doc_9118.txt",
+        "doc_14806.txt",
+        "doc_14801.txt"
+    ]
+}

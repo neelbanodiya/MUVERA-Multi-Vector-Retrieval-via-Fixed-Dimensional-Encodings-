@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the potential risk associated with lax nationality laws regarding EU citizenship?",
+    "response": [
+        "doc_12901.txt",
+        "doc_12806.txt",
+        "doc_24226.txt",
+        "doc_3092.txt",
+        "doc_2182.txt"
+    ]
+}

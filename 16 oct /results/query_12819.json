@@ -1,0 +1,10 @@
+{
+    "query": "Which film featured Kevin Kline in a role previously played by Estelle Parsons?",
+    "response": [
+        "doc_22118.txt",
+        "doc_16925.txt",
+        "doc_2230.txt",
+        "doc_14684.txt",
+        "doc_22120.txt"
+    ]
+}

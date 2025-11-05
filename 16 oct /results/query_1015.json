@@ -1,0 +1,10 @@
+{
+    "query": "What other notable New York City hotels are mentioned alongside the Waldorf Astoria and St. Regis?",
+    "response": [
+        "doc_565.txt",
+        "doc_568.txt",
+        "doc_566.txt",
+        "doc_572.txt",
+        "doc_570.txt"
+    ]
+}

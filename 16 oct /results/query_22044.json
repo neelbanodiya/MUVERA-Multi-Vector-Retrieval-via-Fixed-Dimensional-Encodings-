@@ -1,0 +1,10 @@
+{
+    "query": "Which museum in Pasadena holds the Guinness World Record for housing the largest collection of bunny-related items?",
+    "response": [
+        "doc_8507.txt",
+        "doc_14728.txt",
+        "doc_12727.txt",
+        "doc_12729.txt",
+        "doc_7960.txt"
+    ]
+}

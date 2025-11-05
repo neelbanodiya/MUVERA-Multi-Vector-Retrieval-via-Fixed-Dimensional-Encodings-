@@ -1,0 +1,10 @@
+{
+    "query": "What is Charles Bronson known for, and where has he spent significant periods of his adult life?",
+    "response": [
+        "doc_11915.txt",
+        "doc_2907.txt",
+        "doc_4656.txt",
+        "doc_20257.txt",
+        "doc_40.txt"
+    ]
+}

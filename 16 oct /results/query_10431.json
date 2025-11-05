@@ -1,0 +1,10 @@
+{
+    "query": "What is Hera\u2019s role as described in the provided texts?",
+    "response": [
+        "doc_23040.txt",
+        "doc_23036.txt",
+        "doc_632.txt",
+        "doc_23543.txt",
+        "doc_14825.txt"
+    ]
+}

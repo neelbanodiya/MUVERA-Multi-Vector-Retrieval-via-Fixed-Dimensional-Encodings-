@@ -1,0 +1,10 @@
+{
+    "query": "Who was appointed to a position in Salzburg in 1763?",
+    "response": [
+        "doc_17393.txt",
+        "doc_23358.txt",
+        "doc_8640.txt",
+        "doc_390.txt",
+        "doc_1032.txt"
+    ]
+}

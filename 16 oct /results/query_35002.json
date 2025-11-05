@@ -1,0 +1,10 @@
+{
+    "query": "What character was Sarah Siddons portrayed as in a painting by Sir Joshua Reynolds?",
+    "response": [
+        "doc_20405.txt",
+        "doc_20407.txt",
+        "doc_20419.txt",
+        "doc_20409.txt",
+        "doc_20418.txt"
+    ]
+}

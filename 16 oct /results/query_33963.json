@@ -1,0 +1,10 @@
+{
+    "query": "What was Antiochus IV\u2019s role in the events surrounding Hanukkah?",
+    "response": [
+        "doc_19764.txt",
+        "doc_19756.txt",
+        "doc_19768.txt",
+        "doc_19761.txt",
+        "doc_19771.txt"
+    ]
+}

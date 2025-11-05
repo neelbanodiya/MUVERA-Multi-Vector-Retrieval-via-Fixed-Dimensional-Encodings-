@@ -1,0 +1,10 @@
+{
+    "query": "In what 1940 film did Ronald Reagan play a Secret Service agent named Brass Bancroft?",
+    "response": [
+        "doc_19557.txt",
+        "doc_19558.txt",
+        "doc_19556.txt",
+        "doc_19560.txt",
+        "doc_19570.txt"
+    ]
+}

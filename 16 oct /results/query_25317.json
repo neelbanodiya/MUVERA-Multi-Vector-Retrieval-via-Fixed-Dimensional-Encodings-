@@ -1,0 +1,10 @@
+{
+    "query": "What specific democratic freedoms and rights are reportedly under threat in Ukraine?",
+    "response": [
+        "doc_14688.txt",
+        "doc_14689.txt",
+        "doc_18359.txt",
+        "doc_21971.txt",
+        "doc_16792.txt"
+    ]
+}

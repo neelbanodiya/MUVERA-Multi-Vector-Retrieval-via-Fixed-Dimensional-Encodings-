@@ -1,0 +1,10 @@
+{
+    "query": "What type of equipment should be avoided according to one talk by Aral Balkan?",
+    "response": [
+        "doc_18043.txt",
+        "doc_21126.txt",
+        "doc_3190.txt",
+        "doc_23541.txt",
+        "doc_16158.txt"
+    ]
+}

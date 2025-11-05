@@ -1,0 +1,10 @@
+{
+    "query": "Who played the title role of the Phantom in London and later on Broadway?",
+    "response": [
+        "doc_1964.txt",
+        "doc_1967.txt",
+        "doc_1966.txt",
+        "doc_1965.txt",
+        "doc_20412.txt"
+    ]
+}

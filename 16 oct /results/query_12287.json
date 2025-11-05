@@ -1,0 +1,10 @@
+{
+    "query": "Which Russian physiologist is credited with pioneering research into unconditioned and natural conditioned reflexes?",
+    "response": [
+        "doc_7166.txt",
+        "doc_7164.txt",
+        "doc_7163.txt",
+        "doc_7170.txt",
+        "doc_7169.txt"
+    ]
+}

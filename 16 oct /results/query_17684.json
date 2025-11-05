@@ -1,0 +1,10 @@
+{
+    "query": "How many US dollar millionaires are there in the world, according to the provided text?",
+    "response": [
+        "doc_15632.txt",
+        "doc_15635.txt",
+        "doc_13708.txt",
+        "doc_15631.txt",
+        "doc_15640.txt"
+    ]
+}

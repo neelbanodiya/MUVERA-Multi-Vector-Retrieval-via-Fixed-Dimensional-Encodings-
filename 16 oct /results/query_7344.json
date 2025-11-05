@@ -1,0 +1,10 @@
+{
+    "query": "According to the Oshkosh Public Library, what was happening in Oshkosh in 1919?",
+    "response": [
+        "doc_16574.txt",
+        "doc_3851.txt",
+        "doc_19392.txt",
+        "doc_6530.txt",
+        "doc_4352.txt"
+    ]
+}

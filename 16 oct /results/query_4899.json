@@ -1,0 +1,10 @@
+{
+    "query": "What article of Directive 90/314/EEC deals with package travel?",
+    "response": [
+        "doc_6985.txt",
+        "doc_2847.txt",
+        "doc_7009.txt",
+        "doc_7001.txt",
+        "doc_3020.txt"
+    ]
+}

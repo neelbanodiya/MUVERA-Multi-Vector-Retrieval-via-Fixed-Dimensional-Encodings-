@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, who did Mary initially choose as a husband, and what happened to that arrangement?",
+    "response": [
+        "doc_22467.txt",
+        "doc_22466.txt",
+        "doc_22473.txt",
+        "doc_23550.txt",
+        "doc_22471.txt"
+    ]
+}

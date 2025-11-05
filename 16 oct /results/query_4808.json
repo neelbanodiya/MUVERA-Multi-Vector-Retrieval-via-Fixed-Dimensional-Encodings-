@@ -1,0 +1,10 @@
+{
+    "query": "Besides Elvis Presley, who else did Phil Spector produce records for?",
+    "response": [
+        "doc_2783.txt",
+        "doc_2780.txt",
+        "doc_2782.txt",
+        "doc_2788.txt",
+        "doc_2786.txt"
+    ]
+}

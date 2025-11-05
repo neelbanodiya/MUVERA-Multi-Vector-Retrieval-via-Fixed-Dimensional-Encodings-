@@ -1,0 +1,10 @@
+{
+    "query": "What types of creatures are mentioned in the context of games and playful scenarios (e.g., \"Creative Computing Magazine\")?",
+    "response": [
+        "doc_4106.txt",
+        "doc_4841.txt",
+        "doc_16033.txt",
+        "doc_8686.txt",
+        "doc_19205.txt"
+    ]
+}

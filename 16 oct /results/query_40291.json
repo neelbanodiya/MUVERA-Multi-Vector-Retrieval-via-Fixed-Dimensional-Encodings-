@@ -1,0 +1,10 @@
+{
+    "query": "Who are the actors playing the father and son in the Nebraska scene?",
+    "response": [
+        "doc_16653.txt",
+        "doc_23289.txt",
+        "doc_10969.txt",
+        "doc_21902.txt",
+        "doc_19282.txt"
+    ]
+}

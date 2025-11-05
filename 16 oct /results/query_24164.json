@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate surface area of Lake Oahe?",
+    "response": [
+        "doc_1653.txt",
+        "doc_3268.txt",
+        "doc_1654.txt",
+        "doc_16151.txt",
+        "doc_1655.txt"
+    ]
+}

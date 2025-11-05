@@ -1,0 +1,10 @@
+{
+    "query": "What is the preferred method of travel within the kingdom of Saudi Arabia?",
+    "response": [
+        "doc_15716.txt",
+        "doc_15725.txt",
+        "doc_15731.txt",
+        "doc_10132.txt",
+        "doc_10127.txt"
+    ]
+}

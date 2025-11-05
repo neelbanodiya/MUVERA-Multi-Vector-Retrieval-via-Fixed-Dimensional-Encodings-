@@ -1,0 +1,10 @@
+{
+    "query": "What is the total amount of funding proposed for EU cohesion policy for the 2014-2020 period?",
+    "response": [
+        "doc_22863.txt",
+        "doc_17490.txt",
+        "doc_17618.txt",
+        "doc_17565.txt",
+        "doc_5641.txt"
+    ]
+}

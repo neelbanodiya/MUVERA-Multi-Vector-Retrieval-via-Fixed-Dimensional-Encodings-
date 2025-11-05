@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Avars attack the Gepidae?",
+    "response": [
+        "doc_7203.txt",
+        "doc_7207.txt",
+        "doc_7219.txt",
+        "doc_7208.txt",
+        "doc_7202.txt"
+    ]
+}

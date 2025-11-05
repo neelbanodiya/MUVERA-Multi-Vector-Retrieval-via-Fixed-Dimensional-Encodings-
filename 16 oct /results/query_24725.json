@@ -1,0 +1,10 @@
+{
+    "query": "What year was the 2011 Annual Report published?",
+    "response": [
+        "doc_9669.txt",
+        "doc_10653.txt",
+        "doc_12147.txt",
+        "doc_9147.txt",
+        "doc_11438.txt"
+    ]
+}

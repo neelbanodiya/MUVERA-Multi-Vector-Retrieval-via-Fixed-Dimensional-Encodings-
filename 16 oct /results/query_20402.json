@@ -1,0 +1,10 @@
+{
+    "query": "What company produces Pokemon merchandise like toys and video games?",
+    "response": [
+        "doc_12645.txt",
+        "doc_11762.txt",
+        "doc_8407.txt",
+        "doc_10865.txt",
+        "doc_6181.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Besides anchoring \u201cAt This Hour,\u201d what other roles has Kate Bolduan held at CNN?",
+    "response": [
+        "doc_20607.txt",
+        "doc_7744.txt",
+        "doc_1623.txt",
+        "doc_4464.txt",
+        "doc_19273.txt"
+    ]
+}

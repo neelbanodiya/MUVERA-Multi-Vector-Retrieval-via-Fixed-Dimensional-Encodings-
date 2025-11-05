@@ -1,0 +1,10 @@
+{
+    "query": "When was \u201cThe Oakdale Affair\u201d first published?",
+    "response": [
+        "doc_19982.txt",
+        "doc_8728.txt",
+        "doc_24144.txt",
+        "doc_15831.txt",
+        "doc_1457.txt"
+    ]
+}

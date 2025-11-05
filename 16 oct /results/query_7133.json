@@ -1,0 +1,10 @@
+{
+    "query": "Who is Dr. Marilyn Glenville sympathetic to?",
+    "response": [
+        "doc_3084.txt",
+        "doc_14933.txt",
+        "doc_2177.txt",
+        "doc_5673.txt",
+        "doc_20139.txt"
+    ]
+}

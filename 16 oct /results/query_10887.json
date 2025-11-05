@@ -1,0 +1,10 @@
+{
+    "query": "What are the names of the two sisters featured in *Goblin Market*?",
+    "response": [
+        "doc_12202.txt",
+        "doc_12347.txt",
+        "doc_9125.txt",
+        "doc_23472.txt",
+        "doc_20127.txt"
+    ]
+}

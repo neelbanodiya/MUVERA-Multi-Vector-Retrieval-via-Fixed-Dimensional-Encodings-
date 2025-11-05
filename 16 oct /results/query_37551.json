@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the award Lee Kuan Yew will be receiving from Japan?",
+    "response": [
+        "doc_22010.txt",
+        "doc_22013.txt",
+        "doc_22011.txt",
+        "doc_22026.txt",
+        "doc_22025.txt"
+    ]
+}

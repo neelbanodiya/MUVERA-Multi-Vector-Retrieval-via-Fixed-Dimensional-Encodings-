@@ -1,0 +1,10 @@
+{
+    "query": "How did John Wilkes Booth ultimately die?",
+    "response": [
+        "doc_6108.txt",
+        "doc_6110.txt",
+        "doc_6112.txt",
+        "doc_1395.txt",
+        "doc_6109.txt"
+    ]
+}

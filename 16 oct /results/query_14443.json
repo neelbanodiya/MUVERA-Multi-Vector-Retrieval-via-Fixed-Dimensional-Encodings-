@@ -1,0 +1,10 @@
+{
+    "query": "Where is Beaverton, Oregon located?",
+    "response": [
+        "doc_890.txt",
+        "doc_8364.txt",
+        "doc_673.txt",
+        "doc_23872.txt",
+        "doc_3320.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Billboard award did Vonda Shepard\u2019s duet with Dan Hill receive in 1987?",
+    "response": [
+        "doc_18965.txt",
+        "doc_18968.txt",
+        "doc_18973.txt",
+        "doc_18967.txt",
+        "doc_18972.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the Bureau responsible for regarding funding applications submitted by political parties at European level?",
+    "response": [
+        "doc_13292.txt",
+        "doc_13293.txt",
+        "doc_22228.txt",
+        "doc_13312.txt",
+        "doc_22229.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which specific products are subject to reduced Common Customs Tariff duties under this regulation?",
+    "response": [
+        "doc_20815.txt",
+        "doc_4710.txt",
+        "doc_4711.txt",
+        "doc_12489.txt",
+        "doc_16370.txt"
+    ]
+}

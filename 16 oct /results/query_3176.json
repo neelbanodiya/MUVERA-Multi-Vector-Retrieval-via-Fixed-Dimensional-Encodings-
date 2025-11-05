@@ -1,0 +1,10 @@
+{
+    "query": "What position did Congressman Tauzin hold in the U.S. Congress?",
+    "response": [
+        "doc_1925.txt",
+        "doc_1924.txt",
+        "doc_1926.txt",
+        "doc_1931.txt",
+        "doc_2176.txt"
+    ]
+}

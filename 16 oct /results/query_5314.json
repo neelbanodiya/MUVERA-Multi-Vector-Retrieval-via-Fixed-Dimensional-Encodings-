@@ -1,0 +1,10 @@
+{
+    "query": "What academic degrees did Nikiforos Diamandourous earn?",
+    "response": [
+        "doc_16592.txt",
+        "doc_3980.txt",
+        "doc_14424.txt",
+        "doc_16873.txt",
+        "doc_4961.txt"
+    ]
+}

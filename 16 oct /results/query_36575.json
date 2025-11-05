@@ -1,0 +1,10 @@
+{
+    "query": "Which actor will be the first foreign actor to portray Superman on the silver screen?",
+    "response": [
+        "doc_22118.txt",
+        "doc_21359.txt",
+        "doc_21360.txt",
+        "doc_22110.txt",
+        "doc_22114.txt"
+    ]
+}

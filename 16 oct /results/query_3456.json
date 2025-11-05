@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Senator John Heinz III?",
+    "response": [
+        "doc_2031.txt",
+        "doc_2032.txt",
+        "doc_2036.txt",
+        "doc_2033.txt",
+        "doc_2035.txt"
+    ]
+}

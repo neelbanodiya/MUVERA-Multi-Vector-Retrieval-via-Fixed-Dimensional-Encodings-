@@ -1,0 +1,10 @@
+{
+    "query": "Which stores are associated with the A&P company?",
+    "response": [
+        "doc_3626.txt",
+        "doc_3630.txt",
+        "doc_3631.txt",
+        "doc_3628.txt",
+        "doc_3627.txt"
+    ]
+}

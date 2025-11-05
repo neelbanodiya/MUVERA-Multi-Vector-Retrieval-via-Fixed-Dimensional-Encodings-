@@ -1,0 +1,10 @@
+{
+    "query": "What action was the European Parliament instructed to take following its decision regarding Cohn-Bendit\u2019s immunity?",
+    "response": [
+        "doc_20103.txt",
+        "doc_12932.txt",
+        "doc_13345.txt",
+        "doc_20107.txt",
+        "doc_7848.txt"
+    ]
+}

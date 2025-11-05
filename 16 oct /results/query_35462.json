@@ -1,0 +1,10 @@
+{
+    "query": "In 1936, what news-organ did the National Assembly first issue?",
+    "response": [
+        "doc_9574.txt",
+        "doc_17998.txt",
+        "doc_12978.txt",
+        "doc_20103.txt",
+        "doc_6491.txt"
+    ]
+}

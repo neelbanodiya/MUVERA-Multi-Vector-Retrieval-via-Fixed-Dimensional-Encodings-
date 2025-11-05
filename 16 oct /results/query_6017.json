@@ -1,0 +1,10 @@
+{
+    "query": "What types of items were traditionally thrown during Mardi Gras parades in New Orleans?",
+    "response": [
+        "doc_3509.txt",
+        "doc_3514.txt",
+        "doc_3510.txt",
+        "doc_3499.txt",
+        "doc_3501.txt"
+    ]
+}

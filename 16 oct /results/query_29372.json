@@ -1,0 +1,10 @@
+{
+    "query": "How long has Maryam Kallis been missing since her arrest?",
+    "response": [
+        "doc_17092.txt",
+        "doc_22393.txt",
+        "doc_32.txt",
+        "doc_3063.txt",
+        "doc_5846.txt"
+    ]
+}

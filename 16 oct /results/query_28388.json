@@ -1,0 +1,10 @@
+{
+    "query": "What was banned in 1632 related to Galileo\u2019s work?",
+    "response": [
+        "doc_16517.txt",
+        "doc_16507.txt",
+        "doc_16510.txt",
+        "doc_16509.txt",
+        "doc_16506.txt"
+    ]
+}

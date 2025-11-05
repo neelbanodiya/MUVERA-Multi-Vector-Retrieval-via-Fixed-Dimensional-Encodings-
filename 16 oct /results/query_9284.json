@@ -1,0 +1,10 @@
+{
+    "query": "Which television series was adapted from Terry Pratchett\u2019s book \u201cSoul Music\u201d?",
+    "response": [
+        "doc_5355.txt",
+        "doc_17758.txt",
+        "doc_12639.txt",
+        "doc_128.txt",
+        "doc_5598.txt"
+    ]
+}

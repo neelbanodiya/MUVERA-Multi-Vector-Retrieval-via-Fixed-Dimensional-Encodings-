@@ -1,0 +1,10 @@
+{
+    "query": "What was the outcome of the similar law introduced in the UK in 1988?",
+    "response": [
+        "doc_8401.txt",
+        "doc_9173.txt",
+        "doc_22076.txt",
+        "doc_14345.txt",
+        "doc_5841.txt"
+    ]
+}

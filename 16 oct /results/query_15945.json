@@ -1,0 +1,10 @@
+{
+    "query": "Who is Dean Moriarty based on?",
+    "response": [
+        "doc_15394.txt",
+        "doc_19704.txt",
+        "doc_21897.txt",
+        "doc_9245.txt",
+        "doc_2231.txt"
+    ]
+}

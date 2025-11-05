@@ -1,0 +1,10 @@
+{
+    "query": "What types of materials are included in the collection at Emory University (as described in one of the linked documents)?",
+    "response": [
+        "doc_3.txt",
+        "doc_1306.txt",
+        "doc_5308.txt",
+        "doc_18503.txt",
+        "doc_19141.txt"
+    ]
+}

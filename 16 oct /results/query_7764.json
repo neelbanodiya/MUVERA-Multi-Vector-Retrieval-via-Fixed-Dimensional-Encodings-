@@ -1,0 +1,10 @@
+{
+    "query": "What organization was founded in New York City in 1909?",
+    "response": [
+        "doc_2175.txt",
+        "doc_10036.txt",
+        "doc_19363.txt",
+        "doc_10041.txt",
+        "doc_10040.txt"
+    ]
+}

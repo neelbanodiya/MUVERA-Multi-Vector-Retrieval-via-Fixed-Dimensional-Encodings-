@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the novel *The Virginian* published?",
+    "response": [
+        "doc_24144.txt",
+        "doc_14862.txt",
+        "doc_14278.txt",
+        "doc_14271.txt",
+        "doc_19140.txt"
+    ]
+}

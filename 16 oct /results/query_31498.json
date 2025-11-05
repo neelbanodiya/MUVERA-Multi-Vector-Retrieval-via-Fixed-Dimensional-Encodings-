@@ -1,0 +1,10 @@
+{
+    "query": "What was the timeframe of the Korean War?",
+    "response": [
+        "doc_16201.txt",
+        "doc_16206.txt",
+        "doc_18390.txt",
+        "doc_16202.txt",
+        "doc_15912.txt"
+    ]
+}

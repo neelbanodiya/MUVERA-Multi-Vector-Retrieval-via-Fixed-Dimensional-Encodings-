@@ -1,0 +1,10 @@
+{
+    "query": "In what city and state is the Princeton Rays baseball team located?",
+    "response": [
+        "doc_2410.txt",
+        "doc_2413.txt",
+        "doc_2411.txt",
+        "doc_20959.txt",
+        "doc_2412.txt"
+    ]
+}

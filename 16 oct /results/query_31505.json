@@ -1,0 +1,10 @@
+{
+    "query": "Where did Douglas MacArthur never spend a night during his wartime service?",
+    "response": [
+        "doc_18391.txt",
+        "doc_8998.txt",
+        "doc_13690.txt",
+        "doc_22393.txt",
+        "doc_4656.txt"
+    ]
+}

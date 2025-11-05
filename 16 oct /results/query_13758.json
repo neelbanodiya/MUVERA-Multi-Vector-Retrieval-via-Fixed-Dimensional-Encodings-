@@ -1,0 +1,10 @@
+{
+    "query": "Which band did Janis Joplin join in June 1966?",
+    "response": [
+        "doc_8020.txt",
+        "doc_8026.txt",
+        "doc_8017.txt",
+        "doc_8024.txt",
+        "doc_8012.txt"
+    ]
+}

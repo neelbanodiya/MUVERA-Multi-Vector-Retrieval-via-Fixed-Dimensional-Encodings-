@@ -1,0 +1,10 @@
+{
+    "query": "What EU legislation specifically addresses the management of waste from extractive industries, including potentially radioactive waste?",
+    "response": [
+        "doc_11887.txt",
+        "doc_14332.txt",
+        "doc_4660.txt",
+        "doc_8723.txt",
+        "doc_16161.txt"
+    ]
+}

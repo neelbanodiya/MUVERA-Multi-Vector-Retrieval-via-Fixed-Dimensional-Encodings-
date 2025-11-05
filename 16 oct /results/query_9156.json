@@ -1,0 +1,10 @@
+{
+    "query": "What is Dario Franchitti\u2019s profession?",
+    "response": [
+        "doc_20931.txt",
+        "doc_3684.txt",
+        "doc_18386.txt",
+        "doc_10759.txt",
+        "doc_15474.txt"
+    ]
+}

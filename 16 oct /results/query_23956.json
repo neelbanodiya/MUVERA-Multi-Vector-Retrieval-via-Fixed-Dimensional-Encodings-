@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary reason cited for the need for EGF aid in Greece?",
+    "response": [
+        "doc_14032.txt",
+        "doc_10889.txt",
+        "doc_3250.txt",
+        "doc_14347.txt",
+        "doc_3247.txt"
+    ]
+}

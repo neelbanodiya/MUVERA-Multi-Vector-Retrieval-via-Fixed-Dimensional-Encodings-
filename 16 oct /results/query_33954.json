@@ -1,0 +1,10 @@
+{
+    "query": "What war was waged by Antiochus IV against the Jewish people?",
+    "response": [
+        "doc_19765.txt",
+        "doc_19764.txt",
+        "doc_19763.txt",
+        "doc_19757.txt",
+        "doc_19756.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of art and architecture are featured at The Cloisters museum and gardens?",
+    "response": [
+        "doc_14728.txt",
+        "doc_20382.txt",
+        "doc_20380.txt",
+        "doc_20388.txt",
+        "doc_20381.txt"
+    ]
+}

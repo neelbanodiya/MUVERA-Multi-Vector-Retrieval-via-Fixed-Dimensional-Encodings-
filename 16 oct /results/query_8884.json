@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what types of stories are being told about the Vietnam War (e.g., oral histories, coming-of-age tales)?",
+    "response": [
+        "doc_4732.txt",
+        "doc_5131.txt",
+        "doc_18680.txt",
+        "doc_18448.txt",
+        "doc_20495.txt"
+    ]
+}

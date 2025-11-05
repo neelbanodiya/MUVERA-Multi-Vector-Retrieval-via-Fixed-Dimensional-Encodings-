@@ -1,0 +1,10 @@
+{
+    "query": "What Scottish terms are mentioned in the passage, and what do they mean?",
+    "response": [
+        "doc_955.txt",
+        "doc_5336.txt",
+        "doc_9446.txt",
+        "doc_2888.txt",
+        "doc_1724.txt"
+    ]
+}

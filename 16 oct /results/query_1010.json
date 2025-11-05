@@ -1,0 +1,10 @@
+{
+    "query": "Which New York hotels are specifically mentioned as being among those with \u201cthe most recognized names\u201d according to Foremost Caterers?",
+    "response": [
+        "doc_568.txt",
+        "doc_573.txt",
+        "doc_570.txt",
+        "doc_565.txt",
+        "doc_574.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the delivery area for Debonairs Pizza stores?",
+    "response": [
+        "doc_2180.txt",
+        "doc_10667.txt",
+        "doc_2257.txt",
+        "doc_9778.txt",
+        "doc_2.txt"
+    ]
+}

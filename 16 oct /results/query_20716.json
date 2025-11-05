@@ -1,0 +1,10 @@
+{
+    "query": "Which political groups were represented in the debate on the Berlin Declaration?",
+    "response": [
+        "doc_11963.txt",
+        "doc_13245.txt",
+        "doc_12569.txt",
+        "doc_13241.txt",
+        "doc_13258.txt"
+    ]
+}

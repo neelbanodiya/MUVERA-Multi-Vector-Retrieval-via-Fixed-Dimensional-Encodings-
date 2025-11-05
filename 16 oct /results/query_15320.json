@@ -1,0 +1,10 @@
+{
+    "query": "Which river is located near the University of Texas at El Paso campus?",
+    "response": [
+        "doc_8867.txt",
+        "doc_8868.txt",
+        "doc_8871.txt",
+        "doc_8870.txt",
+        "doc_8873.txt"
+    ]
+}

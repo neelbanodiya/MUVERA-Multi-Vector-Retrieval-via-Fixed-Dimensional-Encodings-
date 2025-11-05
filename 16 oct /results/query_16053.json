@@ -1,0 +1,10 @@
+{
+    "query": "What are the names of the valleys located south, west, and east of Carrauntoohil?",
+    "response": [
+        "doc_8837.txt",
+        "doc_23533.txt",
+        "doc_23531.txt",
+        "doc_3329.txt",
+        "doc_23530.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which UK-based news service won the internet category of the European Parliament Prize for Journalism?",
+    "response": [
+        "doc_16931.txt",
+        "doc_15491.txt",
+        "doc_13929.txt",
+        "doc_15562.txt",
+        "doc_1678.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who brought Franz with him from *Hill Street Blues* to *Blue*?",
+    "response": [
+        "doc_14561.txt",
+        "doc_14562.txt",
+        "doc_5598.txt",
+        "doc_14554.txt",
+        "doc_14564.txt"
+    ]
+}

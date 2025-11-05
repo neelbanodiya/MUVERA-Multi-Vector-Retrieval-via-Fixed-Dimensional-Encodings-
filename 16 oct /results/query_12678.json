@@ -1,0 +1,10 @@
+{
+    "query": "What did an Israeli ambassador request of Palestinian leaders, as described in one of the linked articles?",
+    "response": [
+        "doc_7914.txt",
+        "doc_12515.txt",
+        "doc_5821.txt",
+        "doc_1987.txt",
+        "doc_5822.txt"
+    ]
+}

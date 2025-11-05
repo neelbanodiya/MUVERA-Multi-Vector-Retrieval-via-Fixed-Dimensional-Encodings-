@@ -1,0 +1,10 @@
+{
+    "query": "What practice did the Council previously operate concerning press conferences when the Parliament was in Strasbourg?",
+    "response": [
+        "doc_18477.txt",
+        "doc_10839.txt",
+        "doc_12956.txt",
+        "doc_17367.txt",
+        "doc_16894.txt"
+    ]
+}

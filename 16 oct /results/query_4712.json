@@ -1,0 +1,10 @@
+{
+    "query": "What modes of transport \u2013 rail or road \u2013 are expected to facilitate cross-border traffic in the European Union, specifically in Austria?",
+    "response": [
+        "doc_2718.txt",
+        "doc_2719.txt",
+        "doc_13150.txt",
+        "doc_13149.txt",
+        "doc_1914.txt"
+    ]
+}

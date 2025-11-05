@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was the cost of the movie Titanic compared to the actual ship?",
+    "response": [
+        "doc_18934.txt",
+        "doc_1580.txt",
+        "doc_18844.txt",
+        "doc_3740.txt",
+        "doc_15903.txt"
+    ]
+}

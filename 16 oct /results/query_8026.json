@@ -1,0 +1,10 @@
+{
+    "query": "On what 1970s sitcoms did Bea Arthur achieve fame as Maude Findlay?",
+    "response": [
+        "doc_4649.txt",
+        "doc_4651.txt",
+        "doc_4642.txt",
+        "doc_4646.txt",
+        "doc_4652.txt"
+    ]
+}

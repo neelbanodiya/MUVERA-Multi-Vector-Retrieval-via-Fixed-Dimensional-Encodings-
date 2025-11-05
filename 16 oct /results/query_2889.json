@@ -1,0 +1,10 @@
+{
+    "query": "Where was Daniel Boone born?",
+    "response": [
+        "doc_1750.txt",
+        "doc_1749.txt",
+        "doc_1745.txt",
+        "doc_1747.txt",
+        "doc_1744.txt"
+    ]
+}

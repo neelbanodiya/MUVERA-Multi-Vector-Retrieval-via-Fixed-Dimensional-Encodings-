@@ -1,0 +1,10 @@
+{
+    "query": "On which television show did Vonda Shepard feature prominently, including multiple soundtrack albums?",
+    "response": [
+        "doc_18965.txt",
+        "doc_725.txt",
+        "doc_15395.txt",
+        "doc_14258.txt",
+        "doc_12408.txt"
+    ]
+}

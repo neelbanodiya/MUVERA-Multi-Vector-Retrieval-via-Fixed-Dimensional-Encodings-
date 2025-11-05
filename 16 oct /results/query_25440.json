@@ -1,0 +1,10 @@
+{
+    "query": "What was Edgar Selwyn\u2019s profession?",
+    "response": [
+        "doc_9771.txt",
+        "doc_19680.txt",
+        "doc_7629.txt",
+        "doc_7878.txt",
+        "doc_7628.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Catherine de Medici become regent for her eldest son?",
+    "response": [
+        "doc_23763.txt",
+        "doc_23752.txt",
+        "doc_23746.txt",
+        "doc_23750.txt",
+        "doc_23745.txt"
+    ]
+}

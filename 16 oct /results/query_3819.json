@@ -1,0 +1,10 @@
+{
+    "query": "What type of statues populate Easter Island?",
+    "response": [
+        "doc_2244.txt",
+        "doc_2251.txt",
+        "doc_2241.txt",
+        "doc_2243.txt",
+        "doc_2245.txt"
+    ]
+}

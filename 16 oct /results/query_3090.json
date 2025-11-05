@@ -1,0 +1,10 @@
+{
+    "query": "Who does Steve McQueen remind of his lost love Madeleine?",
+    "response": [
+        "doc_3544.txt",
+        "doc_3164.txt",
+        "doc_2512.txt",
+        "doc_16997.txt",
+        "doc_8486.txt"
+    ]
+}

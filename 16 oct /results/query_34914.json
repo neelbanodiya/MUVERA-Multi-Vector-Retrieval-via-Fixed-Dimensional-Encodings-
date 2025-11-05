@@ -1,0 +1,10 @@
+{
+    "query": "Which highway roughly follows the old Santa Fe trail and passes near Cimarron, Kansas?",
+    "response": [
+        "doc_21711.txt",
+        "doc_22539.txt",
+        "doc_20371.txt",
+        "doc_20370.txt",
+        "doc_20369.txt"
+    ]
+}

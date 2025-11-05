@@ -1,0 +1,10 @@
+{
+    "query": "What was the status of the San Francisco West Approach Project on October 11, 2003?",
+    "response": [
+        "doc_2077.txt",
+        "doc_6886.txt",
+        "doc_23261.txt",
+        "doc_17472.txt",
+        "doc_5374.txt"
+    ]
+}

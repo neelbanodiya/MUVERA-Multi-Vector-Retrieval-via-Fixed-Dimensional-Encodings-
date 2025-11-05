@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what does the word \"kanata\" mean in the context of early Canadian naming?",
+    "response": [
+        "doc_6914.txt",
+        "doc_9446.txt",
+        "doc_4404.txt",
+        "doc_23167.txt",
+        "doc_23846.txt"
+    ]
+}

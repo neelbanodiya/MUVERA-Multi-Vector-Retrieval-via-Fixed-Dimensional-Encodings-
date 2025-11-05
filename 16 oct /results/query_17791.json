@@ -1,0 +1,10 @@
+{
+    "query": "What is the size of the ice sheet located in Antarctica?",
+    "response": [
+        "doc_10326.txt",
+        "doc_10325.txt",
+        "doc_10316.txt",
+        "doc_10317.txt",
+        "doc_10318.txt"
+    ]
+}

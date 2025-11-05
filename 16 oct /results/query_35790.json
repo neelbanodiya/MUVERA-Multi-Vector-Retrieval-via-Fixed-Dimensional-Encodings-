@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Adam Smith publish his influential economic ideas?",
+    "response": [
+        "doc_14276.txt",
+        "doc_22773.txt",
+        "doc_20434.txt",
+        "doc_1176.txt",
+        "doc_20265.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which city was previously known as the second tallest in the United States before One World Trade Center?",
+    "response": [
+        "doc_14163.txt",
+        "doc_14173.txt",
+        "doc_14176.txt",
+        "doc_14172.txt",
+        "doc_14168.txt"
+    ]
+}

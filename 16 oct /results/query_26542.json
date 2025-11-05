@@ -1,0 +1,10 @@
+{
+    "query": "What event was held at the YMCA\u2019s new building in 1910?",
+    "response": [
+        "doc_19243.txt",
+        "doc_4571.txt",
+        "doc_22811.txt",
+        "doc_397.txt",
+        "doc_17677.txt"
+    ]
+}

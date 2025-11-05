@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what type of event was \u201cCloud Nine by Caryl Churchill\u201d when it was performed at Gallaudet University?",
+    "response": [
+        "doc_627.txt",
+        "doc_17914.txt",
+        "doc_21967.txt",
+        "doc_3130.txt",
+        "doc_4147.txt"
+    ]
+}

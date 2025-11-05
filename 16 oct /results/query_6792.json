@@ -1,0 +1,10 @@
+{
+    "query": "What is one of the criticisms leveled against manufacturers regarding repairability, as described in the Smithsonian Magazine article?",
+    "response": [
+        "doc_15031.txt",
+        "doc_5727.txt",
+        "doc_20713.txt",
+        "doc_19699.txt",
+        "doc_7360.txt"
+    ]
+}

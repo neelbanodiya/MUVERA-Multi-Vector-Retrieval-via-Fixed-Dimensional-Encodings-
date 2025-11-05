@@ -1,0 +1,10 @@
+{
+    "query": "What physical characteristic of Attila the Hun is mentioned in the provided texts?",
+    "response": [
+        "doc_15755.txt",
+        "doc_15754.txt",
+        "doc_15757.txt",
+        "doc_8400.txt",
+        "doc_7648.txt"
+    ]
+}

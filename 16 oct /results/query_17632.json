@@ -1,0 +1,10 @@
+{
+    "query": "What biblical passage is referenced alongside the picture Turner exhibited in 1832?",
+    "response": [
+        "doc_18616.txt",
+        "doc_23689.txt",
+        "doc_8265.txt",
+        "doc_23694.txt",
+        "doc_16517.txt"
+    ]
+}

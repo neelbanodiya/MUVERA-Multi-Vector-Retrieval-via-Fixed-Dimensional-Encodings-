@@ -1,0 +1,10 @@
+{
+    "query": "In what year did The Prodigy first emerge on the underground rave scene?",
+    "response": [
+        "doc_17716.txt",
+        "doc_17729.txt",
+        "doc_17726.txt",
+        "doc_17731.txt",
+        "doc_17727.txt"
+    ]
+}

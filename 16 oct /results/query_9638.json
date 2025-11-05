@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Sir Paul McCartney\u2019s \u201cBack in the U.S.\u201d tour appear in America?",
+    "response": [
+        "doc_5567.txt",
+        "doc_21147.txt",
+        "doc_6336.txt",
+        "doc_657.txt",
+        "doc_12531.txt"
+    ]
+}

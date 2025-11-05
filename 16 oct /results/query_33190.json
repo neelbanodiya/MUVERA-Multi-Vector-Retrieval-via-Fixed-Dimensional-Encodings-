@@ -1,0 +1,10 @@
+{
+    "query": "Besides Nancy Pelosi, which other woman was the first to lead a political party in Congress?",
+    "response": [
+        "doc_19317.txt",
+        "doc_19312.txt",
+        "doc_19313.txt",
+        "doc_19328.txt",
+        "doc_19327.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was George Balanchine's ballet *Apollo* originally created?",
+    "response": [
+        "doc_15663.txt",
+        "doc_15659.txt",
+        "doc_15660.txt",
+        "doc_15664.txt",
+        "doc_15653.txt"
+    ]
+}

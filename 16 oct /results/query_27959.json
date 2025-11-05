@@ -1,0 +1,10 @@
+{
+    "query": "What unusual project is Pope Francis planning to undertake?",
+    "response": [
+        "doc_20403.txt",
+        "doc_17481.txt",
+        "doc_17473.txt",
+        "doc_15059.txt",
+        "doc_17351.txt"
+    ]
+}

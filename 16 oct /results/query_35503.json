@@ -1,0 +1,10 @@
+{
+    "query": "In 2005, what shared conviction was highlighted as important between Ronald Reagan and Pope John Paul II?",
+    "response": [
+        "doc_20672.txt",
+        "doc_20670.txt",
+        "doc_12830.txt",
+        "doc_12844.txt",
+        "doc_12833.txt"
+    ]
+}

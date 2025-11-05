@@ -1,0 +1,10 @@
+{
+    "query": "What role does Calliope play within the context of the Muses described in the passage?",
+    "response": [
+        "doc_1306.txt",
+        "doc_632.txt",
+        "doc_21379.txt",
+        "doc_17271.txt",
+        "doc_7105.txt"
+    ]
+}

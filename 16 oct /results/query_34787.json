@@ -1,0 +1,10 @@
+{
+    "query": "What cultural event supported the cultural offer during Milan EXPO2015?",
+    "response": [
+        "doc_3227.txt",
+        "doc_20239.txt",
+        "doc_20245.txt",
+        "doc_17914.txt",
+        "doc_4571.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What historical event was featured on the \u201cModern Marvels\u201d series, as highlighted by the Hamburg Inn?",
+    "response": [
+        "doc_2113.txt",
+        "doc_18212.txt",
+        "doc_8508.txt",
+        "doc_11203.txt",
+        "doc_5419.txt"
+    ]
+}

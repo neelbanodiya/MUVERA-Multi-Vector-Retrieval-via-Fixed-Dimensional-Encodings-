@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what specific warning did Jesus give to Peter regarding the rooster\u2019s crowing?",
+    "response": [
+        "doc_23702.txt",
+        "doc_23697.txt",
+        "doc_23703.txt",
+        "doc_23701.txt",
+        "doc_23704.txt"
+    ]
+}

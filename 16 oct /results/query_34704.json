@@ -1,0 +1,10 @@
+{
+    "query": "What geological event is linked to the destruction of the Minoan palaces, including Knossos?",
+    "response": [
+        "doc_20207.txt",
+        "doc_20210.txt",
+        "doc_20208.txt",
+        "doc_20209.txt",
+        "doc_8351.txt"
+    ]
+}

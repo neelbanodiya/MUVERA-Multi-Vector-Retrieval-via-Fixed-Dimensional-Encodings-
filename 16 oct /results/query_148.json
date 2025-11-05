@@ -1,0 +1,10 @@
+{
+    "query": "What is the capital and largest city of Ivory Coast?",
+    "response": [
+        "doc_6514.txt",
+        "doc_10127.txt",
+        "doc_20235.txt",
+        "doc_21464.txt",
+        "doc_14201.txt"
+    ]
+}

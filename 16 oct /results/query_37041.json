@@ -1,0 +1,10 @@
+{
+    "query": "What is a Haskell module defined as, according to one of the links?",
+    "response": [
+        "doc_21819.txt",
+        "doc_4729.txt",
+        "doc_9043.txt",
+        "doc_18047.txt",
+        "doc_18050.txt"
+    ]
+}

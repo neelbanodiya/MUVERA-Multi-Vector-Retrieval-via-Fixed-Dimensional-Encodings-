@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Chancellor Willy Brandt receive the Nobel Peace Prize?",
+    "response": [
+        "doc_11664.txt",
+        "doc_11657.txt",
+        "doc_11662.txt",
+        "doc_11660.txt",
+        "doc_11655.txt"
+    ]
+}

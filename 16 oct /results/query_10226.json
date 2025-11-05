@@ -1,0 +1,10 @@
+{
+    "query": "Who was the president whose image appeared on the obverse of the Eisenhower dollar coins, and when did he die?",
+    "response": [
+        "doc_5911.txt",
+        "doc_5928.txt",
+        "doc_5912.txt",
+        "doc_5922.txt",
+        "doc_2637.txt"
+    ]
+}

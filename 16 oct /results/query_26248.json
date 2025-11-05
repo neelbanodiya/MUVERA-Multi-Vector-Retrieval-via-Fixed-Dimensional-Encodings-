@@ -1,0 +1,10 @@
+{
+    "query": "What types of issues were considered by the European Parliament in this session?",
+    "response": [
+        "doc_5650.txt",
+        "doc_4666.txt",
+        "doc_11113.txt",
+        "doc_3091.txt",
+        "doc_3090.txt"
+    ]
+}

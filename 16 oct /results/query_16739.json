@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what was Garth Brooks' previous number-one hit from 1989?",
+    "response": [
+        "doc_9702.txt",
+        "doc_9701.txt",
+        "doc_12570.txt",
+        "doc_6772.txt",
+        "doc_6770.txt"
+    ]
+}

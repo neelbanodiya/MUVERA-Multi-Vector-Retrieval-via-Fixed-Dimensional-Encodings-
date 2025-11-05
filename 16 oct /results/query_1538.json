@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary intent of the Soviet blockade that prompted the Berlin Airlift?",
+    "response": [
+        "doc_870.txt",
+        "doc_873.txt",
+        "doc_882.txt",
+        "doc_11379.txt",
+        "doc_15138.txt"
+    ]
+}

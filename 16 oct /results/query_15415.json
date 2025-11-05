@@ -1,0 +1,10 @@
+{
+    "query": "How are grits typically served, and what other foods are they commonly paired with in Southern breakfasts?",
+    "response": [
+        "doc_8924.txt",
+        "doc_8912.txt",
+        "doc_8913.txt",
+        "doc_8915.txt",
+        "doc_8919.txt"
+    ]
+}

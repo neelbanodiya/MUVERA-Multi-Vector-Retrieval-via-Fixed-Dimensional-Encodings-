@@ -1,0 +1,10 @@
+{
+    "query": "When was the Parliament\u2019s decision to initiate the Roma Pilot Project made?",
+    "response": [
+        "doc_6803.txt",
+        "doc_169.txt",
+        "doc_173.txt",
+        "doc_22076.txt",
+        "doc_2601.txt"
+    ]
+}

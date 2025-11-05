@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, in what year is London depicted \u2013 2540 or 632 A.F.?",
+    "response": [
+        "doc_11973.txt",
+        "doc_3427.txt",
+        "doc_9626.txt",
+        "doc_16047.txt",
+        "doc_21269.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "For which type of projects is the Cohesion Fund specifically designed to provide financial assistance?",
+    "response": [
+        "doc_10889.txt",
+        "doc_17499.txt",
+        "doc_8884.txt",
+        "doc_4405.txt",
+        "doc_9754.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the Madison Symphony Orchestra website, what instrument did Jordan Allen begin studying at the age of 10?",
+    "response": [
+        "doc_16778.txt",
+        "doc_16779.txt",
+        "doc_14423.txt",
+        "doc_16774.txt",
+        "doc_16783.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which musician inducted Otis Redding at the 1989 Rock and Roll Hall of Fame ceremony?",
+    "response": [
+        "doc_2787.txt",
+        "doc_3260.txt",
+        "doc_2784.txt",
+        "doc_2783.txt",
+        "doc_2782.txt"
+    ]
+}

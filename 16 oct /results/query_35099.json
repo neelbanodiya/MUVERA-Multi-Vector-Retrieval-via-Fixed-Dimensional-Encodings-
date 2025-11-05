@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what three things were famous about the city in the seventh century B.C.?",
+    "response": [
+        "doc_8351.txt",
+        "doc_22400.txt",
+        "doc_22405.txt",
+        "doc_1298.txt",
+        "doc_8357.txt"
+    ]
+}

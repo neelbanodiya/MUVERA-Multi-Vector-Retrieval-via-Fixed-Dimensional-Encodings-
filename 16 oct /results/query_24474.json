@@ -1,0 +1,10 @@
+{
+    "query": "How far is Menton from the Italian border?",
+    "response": [
+        "doc_14191.txt",
+        "doc_14209.txt",
+        "doc_14206.txt",
+        "doc_14205.txt",
+        "doc_14201.txt"
+    ]
+}

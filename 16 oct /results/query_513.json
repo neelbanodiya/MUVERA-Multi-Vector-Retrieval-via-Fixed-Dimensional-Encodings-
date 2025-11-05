@@ -1,0 +1,10 @@
+{
+    "query": "What was the proposed simplification of REACH, involving the OSOR system, and who generally supported it?",
+    "response": [
+        "doc_18738.txt",
+        "doc_10500.txt",
+        "doc_1761.txt",
+        "doc_15031.txt",
+        "doc_5721.txt"
+    ]
+}

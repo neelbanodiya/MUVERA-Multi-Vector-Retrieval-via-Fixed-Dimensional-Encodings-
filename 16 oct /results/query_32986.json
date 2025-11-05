@@ -1,0 +1,10 @@
+{
+    "query": "What happened when officers attempted to apprehend the \u201clittle coyote\u201d in Manhattan?",
+    "response": [
+        "doc_19210.txt",
+        "doc_14890.txt",
+        "doc_14888.txt",
+        "doc_4275.txt",
+        "doc_7724.txt"
+    ]
+}

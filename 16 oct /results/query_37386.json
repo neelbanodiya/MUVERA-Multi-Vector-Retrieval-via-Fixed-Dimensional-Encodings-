@@ -1,0 +1,10 @@
+{
+    "query": "How many seasons did \u201cSix Feet Under\u201d broadcast?",
+    "response": [
+        "doc_4445.txt",
+        "doc_21897.txt",
+        "doc_10569.txt",
+        "doc_6681.txt",
+        "doc_23435.txt"
+    ]
+}

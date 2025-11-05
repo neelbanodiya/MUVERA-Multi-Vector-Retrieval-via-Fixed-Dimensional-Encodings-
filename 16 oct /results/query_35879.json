@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary reason Guinness won the Queen\u2019s Award for Technological Advancement in 1991?",
+    "response": [
+        "doc_20915.txt",
+        "doc_20917.txt",
+        "doc_20916.txt",
+        "doc_5680.txt",
+        "doc_14593.txt"
+    ]
+}

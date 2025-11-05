@@ -1,0 +1,10 @@
+{
+    "query": "Which former Austrian residence was Empress Sisi\u2019s summer residence?",
+    "response": [
+        "doc_8648.txt",
+        "doc_8642.txt",
+        "doc_8644.txt",
+        "doc_8649.txt",
+        "doc_8643.txt"
+    ]
+}

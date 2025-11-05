@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided articles, what is Sylvester Stallone currently producing regarding the \u201cRambo\u201d movies?",
+    "response": [
+        "doc_16956.txt",
+        "doc_14257.txt",
+        "doc_4874.txt",
+        "doc_18749.txt",
+        "doc_4990.txt"
+    ]
+}

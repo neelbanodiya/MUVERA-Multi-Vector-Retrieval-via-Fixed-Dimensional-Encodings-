@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Maurice Pialat's film, \u201cThe Mouth Agape,\u201d released?",
+    "response": [
+        "doc_14626.txt",
+        "doc_1231.txt",
+        "doc_14625.txt",
+        "doc_402.txt",
+        "doc_11144.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was \u201cThe Jimi Hendrix Collection\u201d released?",
+    "response": [
+        "doc_19669.txt",
+        "doc_19670.txt",
+        "doc_19668.txt",
+        "doc_4603.txt",
+        "doc_8006.txt"
+    ]
+}

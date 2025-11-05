@@ -1,0 +1,10 @@
+{
+    "query": "According to the International Covenant on Civil and Political Rights, what articles are relevant to the issue of sexual orientation?",
+    "response": [
+        "doc_9156.txt",
+        "doc_8399.txt",
+        "doc_15256.txt",
+        "doc_19352.txt",
+        "doc_21017.txt"
+    ]
+}

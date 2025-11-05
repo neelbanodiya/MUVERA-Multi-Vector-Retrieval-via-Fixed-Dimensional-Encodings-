@@ -1,0 +1,10 @@
+{
+    "query": "How many NHL games has a player appeared in, and what are his goal and assist totals?",
+    "response": [
+        "doc_2002.txt",
+        "doc_1997.txt",
+        "doc_1995.txt",
+        "doc_15543.txt",
+        "doc_12779.txt"
+    ]
+}

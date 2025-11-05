@@ -1,0 +1,10 @@
+{
+    "query": "When did the 100 Series Shinkansen operate?",
+    "response": [
+        "doc_20224.txt",
+        "doc_20225.txt",
+        "doc_88.txt",
+        "doc_23481.txt",
+        "doc_24117.txt"
+    ]
+}

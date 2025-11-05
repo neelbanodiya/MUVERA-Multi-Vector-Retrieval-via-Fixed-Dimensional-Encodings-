@@ -1,0 +1,10 @@
+{
+    "query": "Against which team did the U.S. Olympic hockey team win the gold medal in 1980?",
+    "response": [
+        "doc_11349.txt",
+        "doc_11356.txt",
+        "doc_11350.txt",
+        "doc_11351.txt",
+        "doc_11352.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "At what age did Jane Austen complete the original versions of \u201cSense and Sensibility\u201d and \u201cPride and Prejudice\u201d?",
+    "response": [
+        "doc_2330.txt",
+        "doc_2318.txt",
+        "doc_2320.txt",
+        "doc_2323.txt",
+        "doc_2321.txt"
+    ]
+}

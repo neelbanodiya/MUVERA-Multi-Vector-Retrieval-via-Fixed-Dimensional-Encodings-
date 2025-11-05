@@ -1,0 +1,10 @@
+{
+    "query": "Which NBA team did Ray Allen play for before joining the Sonics in 2003-04?",
+    "response": [
+        "doc_11227.txt",
+        "doc_15536.txt",
+        "doc_1973.txt",
+        "doc_21943.txt",
+        "doc_11226.txt"
+    ]
+}

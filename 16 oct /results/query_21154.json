@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what specific regulation is the EU obligated to apply and enforce regarding waste shipments?",
+    "response": [
+        "doc_12225.txt",
+        "doc_18008.txt",
+        "doc_18003.txt",
+        "doc_18002.txt",
+        "doc_18040.txt"
+    ]
+}

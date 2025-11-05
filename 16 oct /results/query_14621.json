@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between Batman and Sir Robin of Locksley?",
+    "response": [
+        "doc_13327.txt",
+        "doc_1847.txt",
+        "doc_2177.txt",
+        "doc_23239.txt",
+        "doc_6558.txt"
+    ]
+}

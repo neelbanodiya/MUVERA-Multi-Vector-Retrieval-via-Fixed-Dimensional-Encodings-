@@ -1,0 +1,10 @@
+{
+    "query": "What evidence did Elmer \u201cGeronimo\u201d Pratt claim the prosecution suppressed?",
+    "response": [
+        "doc_19261.txt",
+        "doc_19260.txt",
+        "doc_19265.txt",
+        "doc_19268.txt",
+        "doc_18918.txt"
+    ]
+}

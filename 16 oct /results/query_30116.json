@@ -1,0 +1,10 @@
+{
+    "query": "What was the proposed cut to payments suggested by the Council?",
+    "response": [
+        "doc_17515.txt",
+        "doc_17512.txt",
+        "doc_17513.txt",
+        "doc_17471.txt",
+        "doc_16744.txt"
+    ]
+}

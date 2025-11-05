@@ -1,0 +1,10 @@
+{
+    "query": "What types of animals do the reptiles in Coastal Southern California primarily eat?",
+    "response": [
+        "doc_849.txt",
+        "doc_12307.txt",
+        "doc_12299.txt",
+        "doc_3456.txt",
+        "doc_5092.txt"
+    ]
+}

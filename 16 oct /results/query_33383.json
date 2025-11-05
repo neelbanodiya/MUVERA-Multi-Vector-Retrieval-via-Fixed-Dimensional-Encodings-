@@ -1,0 +1,10 @@
+{
+    "query": "What was the value of the Champion Plate awarded at the 1876 Field Club Show?",
+    "response": [
+        "doc_19448.txt",
+        "doc_13779.txt",
+        "doc_22305.txt",
+        "doc_1901.txt",
+        "doc_23877.txt"
+    ]
+}

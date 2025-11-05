@@ -1,0 +1,10 @@
+{
+    "query": "What country is the Ambassador in Canada of the United States of America allied with?",
+    "response": [
+        "doc_17114.txt",
+        "doc_21266.txt",
+        "doc_17115.txt",
+        "doc_21265.txt",
+        "doc_3405.txt"
+    ]
+}

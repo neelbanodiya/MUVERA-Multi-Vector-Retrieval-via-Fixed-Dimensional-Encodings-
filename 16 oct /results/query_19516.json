@@ -1,0 +1,10 @@
+{
+    "query": "The passage mentions a technique used in Madden NFL 2007 to move a linebacker \u2013 what is it?",
+    "response": [
+        "doc_6825.txt",
+        "doc_8627.txt",
+        "doc_6827.txt",
+        "doc_6831.txt",
+        "doc_2982.txt"
+    ]
+}

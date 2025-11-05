@@ -1,0 +1,10 @@
+{
+    "query": "Who is Deanna, as mentioned in the FT-ODX (Outstanding Directors Exchange) New York organized by Financial Times newsletter?",
+    "response": [
+        "doc_7821.txt",
+        "doc_4572.txt",
+        "doc_7825.txt",
+        "doc_6708.txt",
+        "doc_13059.txt"
+    ]
+}

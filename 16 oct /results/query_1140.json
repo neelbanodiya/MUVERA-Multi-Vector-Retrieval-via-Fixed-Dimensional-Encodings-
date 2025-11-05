@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is the approximate age of Jane Eyre when the novel begins?",
+    "response": [
+        "doc_632.txt",
+        "doc_633.txt",
+        "doc_643.txt",
+        "doc_642.txt",
+        "doc_644.txt"
+    ]
+}

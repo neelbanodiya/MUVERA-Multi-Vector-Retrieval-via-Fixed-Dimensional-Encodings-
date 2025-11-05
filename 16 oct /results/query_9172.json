@@ -1,0 +1,10 @@
+{
+    "query": "What action is the passage urging Member States to take regarding the transposition of Directive 2000/78/EC?",
+    "response": [
+        "doc_5286.txt",
+        "doc_21480.txt",
+        "doc_21806.txt",
+        "doc_15350.txt",
+        "doc_24027.txt"
+    ]
+}

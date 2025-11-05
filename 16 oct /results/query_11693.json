@@ -1,0 +1,10 @@
+{
+    "query": "What degrees does Michael Savage hold?",
+    "response": [
+        "doc_6805.txt",
+        "doc_349.txt",
+        "doc_4792.txt",
+        "doc_14822.txt",
+        "doc_19136.txt"
+    ]
+}

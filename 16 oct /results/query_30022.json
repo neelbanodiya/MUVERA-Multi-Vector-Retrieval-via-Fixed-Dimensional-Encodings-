@@ -1,0 +1,10 @@
+{
+    "query": "Does the passage describe any potential risks associated with X-ray imaging?",
+    "response": [
+        "doc_315.txt",
+        "doc_3083.txt",
+        "doc_14135.txt",
+        "doc_16415.txt",
+        "doc_22221.txt"
+    ]
+}

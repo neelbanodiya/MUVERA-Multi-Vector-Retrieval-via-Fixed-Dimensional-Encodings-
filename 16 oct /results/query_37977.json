@@ -1,0 +1,10 @@
+{
+    "query": "During whose reign did Sir Thomas Maleore finish his work?",
+    "response": [
+        "doc_22248.txt",
+        "doc_22245.txt",
+        "doc_22249.txt",
+        "doc_22246.txt",
+        "doc_22261.txt"
+    ]
+}

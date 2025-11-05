@@ -1,0 +1,10 @@
+{
+    "query": "What phrase is referenced as both Florida\u2019s and the U.S.\u2019s motto?",
+    "response": [
+        "doc_22792.txt",
+        "doc_10704.txt",
+        "doc_10701.txt",
+        "doc_22542.txt",
+        "doc_3381.txt"
+    ]
+}

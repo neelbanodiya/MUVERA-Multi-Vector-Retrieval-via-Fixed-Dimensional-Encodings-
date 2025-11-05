@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate distance from Montana State Highway 89 to the town of Babb, Montana?",
+    "response": [
+        "doc_18131.txt",
+        "doc_18130.txt",
+        "doc_21711.txt",
+        "doc_21709.txt",
+        "doc_18140.txt"
+    ]
+}

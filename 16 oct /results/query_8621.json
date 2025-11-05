@@ -1,0 +1,10 @@
+{
+    "query": "Which movie studio owns the copyright to \u201cThe Abyss\u201d?",
+    "response": [
+        "doc_20309.txt",
+        "doc_6675.txt",
+        "doc_4635.txt",
+        "doc_6919.txt",
+        "doc_21460.txt"
+    ]
+}

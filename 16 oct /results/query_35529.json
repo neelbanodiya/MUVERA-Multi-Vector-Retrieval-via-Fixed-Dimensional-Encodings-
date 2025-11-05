@@ -1,0 +1,10 @@
+{
+    "query": "According to Directive 2001/83/EC, what type of information must be submitted about clinical trials after marketing authorisation?",
+    "response": [
+        "doc_20694.txt",
+        "doc_17891.txt",
+        "doc_9188.txt",
+        "doc_10632.txt",
+        "doc_20695.txt"
+    ]
+}

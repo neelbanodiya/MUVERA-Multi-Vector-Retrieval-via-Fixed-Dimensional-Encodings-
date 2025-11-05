@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, which dynasty ruled France during the Second Republic (1848-1852)?",
+    "response": [
+        "doc_10141.txt",
+        "doc_10146.txt",
+        "doc_10140.txt",
+        "doc_10148.txt",
+        "doc_10150.txt"
+    ]
+}

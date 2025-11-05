@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Jeff Smith ordained as a minister?",
+    "response": [
+        "doc_22802.txt",
+        "doc_16326.txt",
+        "doc_14424.txt",
+        "doc_3206.txt",
+        "doc_4608.txt"
+    ]
+}

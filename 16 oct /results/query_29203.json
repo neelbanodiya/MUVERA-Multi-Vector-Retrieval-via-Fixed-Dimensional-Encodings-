@@ -1,0 +1,10 @@
+{
+    "query": "What does Willy Loman carry with him?",
+    "response": [
+        "doc_16997.txt",
+        "doc_1103.txt",
+        "doc_4586.txt",
+        "doc_9988.txt",
+        "doc_20021.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was the player traded from the Boston Cannons to the Florida Launch?",
+    "response": [
+        "doc_21626.txt",
+        "doc_18619.txt",
+        "doc_2438.txt",
+        "doc_19244.txt",
+        "doc_13009.txt"
+    ]
+}

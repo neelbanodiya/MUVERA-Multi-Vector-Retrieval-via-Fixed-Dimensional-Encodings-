@@ -1,0 +1,10 @@
+{
+    "query": "What does the surname \u201cZimmerman\u201d derive from, according to the provided text?",
+    "response": [
+        "doc_8296.txt",
+        "doc_9341.txt",
+        "doc_12394.txt",
+        "doc_8297.txt",
+        "doc_23846.txt"
+    ]
+}

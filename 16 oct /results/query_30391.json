@@ -1,0 +1,10 @@
+{
+    "query": "According to one document, what region of Pittsburgh was chosen as the location for a new Civic Arena?",
+    "response": [
+        "doc_17677.txt",
+        "doc_2179.txt",
+        "doc_17678.txt",
+        "doc_17680.txt",
+        "doc_17689.txt"
+    ]
+}

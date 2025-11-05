@@ -1,0 +1,10 @@
+{
+    "query": "Who was considered for the Supreme Court seat vacated by Arthur Goldberg?",
+    "response": [
+        "doc_18469.txt",
+        "doc_18464.txt",
+        "doc_18470.txt",
+        "doc_18471.txt",
+        "doc_12844.txt"
+    ]
+}

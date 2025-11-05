@@ -1,0 +1,10 @@
+{
+    "query": "What event is held annually in Tuscumbia, Alabama, in June to honor Helen Keller?",
+    "response": [
+        "doc_8211.txt",
+        "doc_8210.txt",
+        "doc_8212.txt",
+        "doc_8216.txt",
+        "doc_8209.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cHop Ching Checkers\u201d introduced to the United States?",
+    "response": [
+        "doc_12427.txt",
+        "doc_12428.txt",
+        "doc_12423.txt",
+        "doc_12424.txt",
+        "doc_12425.txt"
+    ]
+}

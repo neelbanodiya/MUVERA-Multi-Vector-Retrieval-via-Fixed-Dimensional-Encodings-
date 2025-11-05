@@ -1,0 +1,10 @@
+{
+    "query": "What Hebrew term does Dr. Alan Huston use to describe the events of 1989 in Beijing\u2019s Tiananmen Square?",
+    "response": [
+        "doc_1049.txt",
+        "doc_1048.txt",
+        "doc_1053.txt",
+        "doc_10978.txt",
+        "doc_1043.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What party nominated Millard Fillmore in the 1856 presidential election?",
+    "response": [
+        "doc_2761.txt",
+        "doc_2773.txt",
+        "doc_2776.txt",
+        "doc_2763.txt",
+        "doc_2768.txt"
+    ]
+}

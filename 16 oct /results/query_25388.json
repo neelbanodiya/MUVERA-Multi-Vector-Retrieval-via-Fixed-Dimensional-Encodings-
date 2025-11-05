@@ -1,0 +1,10 @@
+{
+    "query": "What type of cooperation has the Forum facilitated regarding product safety?",
+    "response": [
+        "doc_14723.txt",
+        "doc_11221.txt",
+        "doc_392.txt",
+        "doc_18310.txt",
+        "doc_4676.txt"
+    ]
+}

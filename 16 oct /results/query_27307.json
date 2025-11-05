@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how much gold is contained in an 18-karat Apple Watch Edition?",
+    "response": [
+        "doc_15870.txt",
+        "doc_15871.txt",
+        "doc_15868.txt",
+        "doc_15865.txt",
+        "doc_15864.txt"
+    ]
+}

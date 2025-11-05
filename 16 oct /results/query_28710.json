@@ -1,0 +1,10 @@
+{
+    "query": "What is the context surrounding the use of the phrase \u201cdogs of war\u201d as spoken by Mark Antony?",
+    "response": [
+        "doc_16728.txt",
+        "doc_207.txt",
+        "doc_20281.txt",
+        "doc_1849.txt",
+        "doc_12597.txt"
+    ]
+}

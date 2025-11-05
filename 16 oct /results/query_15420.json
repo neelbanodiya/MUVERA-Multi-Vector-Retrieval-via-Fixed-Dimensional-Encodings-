@@ -1,0 +1,10 @@
+{
+    "query": "What ingredients are mentioned as appearing in old Louisiana recipes besides meat?",
+    "response": [
+        "doc_8921.txt",
+        "doc_14362.txt",
+        "doc_9729.txt",
+        "doc_7080.txt",
+        "doc_21691.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who is the daughter of Herodias mentioned in the passage?",
+    "response": [
+        "doc_9127.txt",
+        "doc_9125.txt",
+        "doc_9131.txt",
+        "doc_9128.txt",
+        "doc_9130.txt"
+    ]
+}

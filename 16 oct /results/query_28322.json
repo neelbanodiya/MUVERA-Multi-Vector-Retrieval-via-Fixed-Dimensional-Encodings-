@@ -1,0 +1,10 @@
+{
+    "query": "When did Richard Nixon introduce the term \u201csilent majority\u201d?",
+    "response": [
+        "doc_16468.txt",
+        "doc_16470.txt",
+        "doc_16471.txt",
+        "doc_16474.txt",
+        "doc_16472.txt"
+    ]
+}

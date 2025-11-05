@@ -1,0 +1,10 @@
+{
+    "query": "According to the directive, what is required for projects listed in Annex I?",
+    "response": [
+        "doc_7873.txt",
+        "doc_5494.txt",
+        "doc_14217.txt",
+        "doc_12482.txt",
+        "doc_3242.txt"
+    ]
+}

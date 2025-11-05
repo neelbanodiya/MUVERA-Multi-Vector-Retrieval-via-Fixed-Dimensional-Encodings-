@@ -1,0 +1,10 @@
+{
+    "query": "What was the number of HIV infections in 2004?",
+    "response": [
+        "doc_2614.txt",
+        "doc_5074.txt",
+        "doc_10521.txt",
+        "doc_15257.txt",
+        "doc_13815.txt"
+    ]
+}

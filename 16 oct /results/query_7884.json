@@ -1,0 +1,10 @@
+{
+    "query": "What type of defense seminar was presented by JHC featuring Tom Sharky?",
+    "response": [
+        "doc_1011.txt",
+        "doc_4582.txt",
+        "doc_23608.txt",
+        "doc_18242.txt",
+        "doc_2050.txt"
+    ]
+}

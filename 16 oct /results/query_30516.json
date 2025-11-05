@@ -1,0 +1,10 @@
+{
+    "query": "Which hit single featured Keith Flint as the vocalist, released in 1996?",
+    "response": [
+        "doc_17726.txt",
+        "doc_12409.txt",
+        "doc_14724.txt",
+        "doc_2061.txt",
+        "doc_19992.txt"
+    ]
+}

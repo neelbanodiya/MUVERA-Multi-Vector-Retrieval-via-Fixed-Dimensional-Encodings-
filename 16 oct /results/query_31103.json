@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how long is the Continental Divide Trail?",
+    "response": [
+        "doc_18129.txt",
+        "doc_18130.txt",
+        "doc_18128.txt",
+        "doc_18139.txt",
+        "doc_16257.txt"
+    ]
+}

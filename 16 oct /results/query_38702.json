@@ -1,0 +1,10 @@
+{
+    "query": "What was Miss Kitty\u2019s profession at the beginning of the *Gunsmoke* series?",
+    "response": [
+        "doc_20127.txt",
+        "doc_7181.txt",
+        "doc_12949.txt",
+        "doc_19273.txt",
+        "doc_15572.txt"
+    ]
+}

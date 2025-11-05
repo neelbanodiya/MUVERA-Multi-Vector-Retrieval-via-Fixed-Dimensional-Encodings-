@@ -1,0 +1,10 @@
+{
+    "query": "In what year was New York annexed by Albany?",
+    "response": [
+        "doc_3207.txt",
+        "doc_3206.txt",
+        "doc_2179.txt",
+        "doc_5160.txt",
+        "doc_8084.txt"
+    ]
+}

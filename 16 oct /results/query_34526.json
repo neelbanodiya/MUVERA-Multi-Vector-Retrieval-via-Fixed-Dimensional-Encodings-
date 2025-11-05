@@ -1,0 +1,10 @@
+{
+    "query": "What year did Florida State win their first national championship?",
+    "response": [
+        "doc_19123.txt",
+        "doc_20074.txt",
+        "doc_3292.txt",
+        "doc_19122.txt",
+        "doc_6529.txt"
+    ]
+}

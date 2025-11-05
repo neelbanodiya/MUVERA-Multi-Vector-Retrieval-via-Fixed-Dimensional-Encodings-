@@ -1,0 +1,10 @@
+{
+    "query": "What is the birthplace of Francis Ford Coppola, and in what town was the film *The Godfather* set?",
+    "response": [
+        "doc_10930.txt",
+        "doc_21311.txt",
+        "doc_1580.txt",
+        "doc_18212.txt",
+        "doc_21922.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what is one unusual grammatical feature of the German language?",
+    "response": [
+        "doc_12501.txt",
+        "doc_12500.txt",
+        "doc_12503.txt",
+        "doc_12502.txt",
+        "doc_8296.txt"
+    ]
+}

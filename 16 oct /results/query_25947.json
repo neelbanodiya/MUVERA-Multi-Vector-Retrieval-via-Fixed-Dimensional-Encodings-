@@ -1,0 +1,10 @@
+{
+    "query": "What type of event is the Craft Beer Festival described in one of the links?",
+    "response": [
+        "doc_3509.txt",
+        "doc_23032.txt",
+        "doc_7494.txt",
+        "doc_5267.txt",
+        "doc_9654.txt"
+    ]
+}

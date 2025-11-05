@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Alice Walker\u2019s debut novel published?",
+    "response": [
+        "doc_2329.txt",
+        "doc_24144.txt",
+        "doc_20548.txt",
+        "doc_7862.txt",
+        "doc_15276.txt"
+    ]
+}

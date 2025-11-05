@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided documents, what role does a Council of Traditional Leaders play in Vanuatu?",
+    "response": [
+        "doc_23092.txt",
+        "doc_23089.txt",
+        "doc_23093.txt",
+        "doc_23094.txt",
+        "doc_23103.txt"
+    ]
+}

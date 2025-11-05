@@ -1,0 +1,9 @@
+{
+    "query": "How many airlines currently operate out of Abilene Municipal Airport?",
+    "response": [
+        "doc_1554.txt",
+        "doc_1555.txt",
+        "doc_1556.txt",
+        "doc_1558.txt"
+    ]
+}

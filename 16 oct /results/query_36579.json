@@ -1,0 +1,10 @@
+{
+    "query": "What phrase is associated with the beginning of the Superman television series?",
+    "response": [
+        "doc_6752.txt",
+        "doc_4136.txt",
+        "doc_21368.txt",
+        "doc_21371.txt",
+        "doc_2898.txt"
+    ]
+}

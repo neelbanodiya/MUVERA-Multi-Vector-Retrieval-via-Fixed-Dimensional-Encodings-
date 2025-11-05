@@ -1,0 +1,10 @@
+{
+    "query": "Where is Loch Lomond located?",
+    "response": [
+        "doc_8428.txt",
+        "doc_3656.txt",
+        "doc_369.txt",
+        "doc_23872.txt",
+        "doc_16152.txt"
+    ]
+}

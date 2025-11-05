@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, who was the father of Balder?",
+    "response": [
+        "doc_6081.txt",
+        "doc_6077.txt",
+        "doc_6080.txt",
+        "doc_6091.txt",
+        "doc_6078.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Philippine president is Roxas Boulevard now named after?",
+    "response": [
+        "doc_2620.txt",
+        "doc_2618.txt",
+        "doc_2623.txt",
+        "doc_2621.txt",
+        "doc_2632.txt"
+    ]
+}

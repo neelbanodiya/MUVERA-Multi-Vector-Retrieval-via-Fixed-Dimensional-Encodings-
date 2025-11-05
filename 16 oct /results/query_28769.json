@@ -1,0 +1,10 @@
+{
+    "query": "In what types of dishes is the Korean paste typically mixed?",
+    "response": [
+        "doc_16762.txt",
+        "doc_16767.txt",
+        "doc_16765.txt",
+        "doc_16768.txt",
+        "doc_16763.txt"
+    ]
+}

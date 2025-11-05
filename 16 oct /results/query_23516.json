@@ -1,0 +1,10 @@
+{
+    "query": "What event was Rob Portman attending on Monday during the Republican National Convention?",
+    "response": [
+        "doc_13638.txt",
+        "doc_16812.txt",
+        "doc_1011.txt",
+        "doc_17914.txt",
+        "doc_7877.txt"
+    ]
+}

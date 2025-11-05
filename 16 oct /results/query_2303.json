@@ -1,0 +1,10 @@
+{
+    "query": "At what location can some of Catherine Sherman\u2019s artwork featuring Kansas City be found?",
+    "response": [
+        "doc_12454.txt",
+        "doc_21212.txt",
+        "doc_17061.txt",
+        "doc_20416.txt",
+        "doc_14736.txt"
+    ]
+}

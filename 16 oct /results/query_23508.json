@@ -1,0 +1,10 @@
+{
+    "query": "What kind of response will the Commission offer regarding the milk crisis in the outermost regions?",
+    "response": [
+        "doc_13634.txt",
+        "doc_19034.txt",
+        "doc_12615.txt",
+        "doc_4034.txt",
+        "doc_9669.txt"
+    ]
+}

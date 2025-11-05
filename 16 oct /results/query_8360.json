@@ -1,0 +1,10 @@
+{
+    "query": "To what previous question does the Commission refer when discussing EU measures?",
+    "response": [
+        "doc_4825.txt",
+        "doc_5468.txt",
+        "doc_8159.txt",
+        "doc_21825.txt",
+        "doc_18308.txt"
+    ]
+}

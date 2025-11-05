@@ -1,0 +1,10 @@
+{
+    "query": "For which film did John Wayne initially promise the role of Mattie Ross to his daughter?",
+    "response": [
+        "doc_23290.txt",
+        "doc_23286.txt",
+        "doc_23292.txt",
+        "doc_23289.txt",
+        "doc_16595.txt"
+    ]
+}

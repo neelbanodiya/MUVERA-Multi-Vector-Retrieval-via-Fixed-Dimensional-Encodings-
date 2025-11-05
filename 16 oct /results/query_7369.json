@@ -1,0 +1,10 @@
+{
+    "query": "What types of criminal activities were associated with the Cohen crime family?",
+    "response": [
+        "doc_4275.txt",
+        "doc_4273.txt",
+        "doc_4625.txt",
+        "doc_11980.txt",
+        "doc_7784.txt"
+    ]
+}

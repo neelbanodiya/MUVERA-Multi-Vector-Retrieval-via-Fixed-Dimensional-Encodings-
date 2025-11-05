@@ -1,0 +1,10 @@
+{
+    "query": "What organizations is Baron associated with?",
+    "response": [
+        "doc_21708.txt",
+        "doc_4275.txt",
+        "doc_4997.txt",
+        "doc_14685.txt",
+        "doc_2655.txt"
+    ]
+}

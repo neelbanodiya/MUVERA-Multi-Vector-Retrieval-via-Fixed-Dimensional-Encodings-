@@ -1,0 +1,10 @@
+{
+    "query": "On what television show did Erin Murphy play Tabitha?",
+    "response": [
+        "doc_7070.txt",
+        "doc_7075.txt",
+        "doc_7073.txt",
+        "doc_7071.txt",
+        "doc_7072.txt"
+    ]
+}

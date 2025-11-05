@@ -1,0 +1,10 @@
+{
+    "query": "How many women have served in Congress according to the provided documents?",
+    "response": [
+        "doc_9116.txt",
+        "doc_19325.txt",
+        "doc_19324.txt",
+        "doc_19312.txt",
+        "doc_19313.txt"
+    ]
+}

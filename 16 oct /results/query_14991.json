@@ -1,0 +1,10 @@
+{
+    "query": "Which company released the video game based on \u201cJurassic Park\u201d?",
+    "response": [
+        "doc_8692.txt",
+        "doc_12870.txt",
+        "doc_10865.txt",
+        "doc_8693.txt",
+        "doc_3164.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Upper Valley Mall located?",
+    "response": [
+        "doc_9778.txt",
+        "doc_9777.txt",
+        "doc_9776.txt",
+        "doc_9775.txt",
+        "doc_18369.txt"
+    ]
+}

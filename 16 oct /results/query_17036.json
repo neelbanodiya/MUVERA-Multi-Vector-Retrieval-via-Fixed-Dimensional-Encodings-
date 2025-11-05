@@ -1,0 +1,10 @@
+{
+    "query": "What city was Indira Gandhi born in?",
+    "response": [
+        "doc_9862.txt",
+        "doc_9868.txt",
+        "doc_9866.txt",
+        "doc_9867.txt",
+        "doc_9864.txt"
+    ]
+}

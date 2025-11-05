@@ -1,0 +1,10 @@
+{
+    "query": "Who is Alan Parker in the story \u201cRiding the Bullet\u201d?",
+    "response": [
+        "doc_3923.txt",
+        "doc_3924.txt",
+        "doc_3929.txt",
+        "doc_22329.txt",
+        "doc_20018.txt"
+    ]
+}

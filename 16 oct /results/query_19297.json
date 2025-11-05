@@ -1,0 +1,10 @@
+{
+    "query": "Who invented the Wankel engine?",
+    "response": [
+        "doc_11181.txt",
+        "doc_11543.txt",
+        "doc_11183.txt",
+        "doc_11526.txt",
+        "doc_11537.txt"
+    ]
+}

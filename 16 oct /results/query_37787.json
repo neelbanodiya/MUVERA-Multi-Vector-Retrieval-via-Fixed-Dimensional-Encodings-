@@ -1,0 +1,10 @@
+{
+    "query": "What European Parliament resolutions were adopted in 2011 related to Black Sea fisheries?",
+    "response": [
+        "doc_22158.txt",
+        "doc_22162.txt",
+        "doc_22159.txt",
+        "doc_12329.txt",
+        "doc_12065.txt"
+    ]
+}

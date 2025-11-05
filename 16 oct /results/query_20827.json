@@ -1,0 +1,10 @@
+{
+    "query": "When did Live Aid take place?",
+    "response": [
+        "doc_12008.txt",
+        "doc_12007.txt",
+        "doc_12017.txt",
+        "doc_13009.txt",
+        "doc_12018.txt"
+    ]
+}

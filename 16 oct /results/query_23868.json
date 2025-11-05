@@ -1,0 +1,10 @@
+{
+    "query": "What is the height of Mount Rainier in feet?",
+    "response": [
+        "doc_13848.txt",
+        "doc_18544.txt",
+        "doc_18537.txt",
+        "doc_18536.txt",
+        "doc_18534.txt"
+    ]
+}

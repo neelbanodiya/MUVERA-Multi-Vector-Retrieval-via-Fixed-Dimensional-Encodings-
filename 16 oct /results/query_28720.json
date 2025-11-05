@@ -1,0 +1,10 @@
+{
+    "query": "Which Slavic states were involved in a war referenced in one of the passages?",
+    "response": [
+        "doc_15916.txt",
+        "doc_21978.txt",
+        "doc_8509.txt",
+        "doc_16740.txt",
+        "doc_12597.txt"
+    ]
+}

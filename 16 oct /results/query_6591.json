@@ -1,0 +1,10 @@
+{
+    "query": "In what decade was the film *The Bad News Bears* released?",
+    "response": [
+        "doc_3771.txt",
+        "doc_1231.txt",
+        "doc_3788.txt",
+        "doc_3774.txt",
+        "doc_6660.txt"
+    ]
+}

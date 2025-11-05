@@ -1,0 +1,10 @@
+{
+    "query": "What was the USDA scientist muzzled because of?",
+    "response": [
+        "doc_12030.txt",
+        "doc_20873.txt",
+        "doc_13569.txt",
+        "doc_10126.txt",
+        "doc_17408.txt"
+    ]
+}

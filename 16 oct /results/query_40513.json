@@ -1,0 +1,10 @@
+{
+    "query": "What is the subject matter of the artwork described as \u201c14 Scenes from the life of Saint Francis\u201d?",
+    "response": [
+        "doc_23694.txt",
+        "doc_622.txt",
+        "doc_9320.txt",
+        "doc_4692.txt",
+        "doc_5586.txt"
+    ]
+}

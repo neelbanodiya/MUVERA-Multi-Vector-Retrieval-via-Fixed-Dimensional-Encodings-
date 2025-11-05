@@ -1,0 +1,10 @@
+{
+    "query": "What is the origin of the place name \u201cmidwene\u201d on Long Island, as described in the text?",
+    "response": [
+        "doc_14375.txt",
+        "doc_4679.txt",
+        "doc_1345.txt",
+        "doc_6430.txt",
+        "doc_12749.txt"
+    ]
+}

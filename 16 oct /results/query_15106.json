@@ -1,0 +1,10 @@
+{
+    "query": "How much paper does the Commission send for recycling each year?",
+    "response": [
+        "doc_8768.txt",
+        "doc_23657.txt",
+        "doc_8451.txt",
+        "doc_21491.txt",
+        "doc_12494.txt"
+    ]
+}

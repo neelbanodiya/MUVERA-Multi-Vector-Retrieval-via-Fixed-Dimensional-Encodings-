@@ -1,0 +1,10 @@
+{
+    "query": "What were the names of Tim Allen\u2019s three sons on the television show *Home Improvement*?",
+    "response": [
+        "doc_18627.txt",
+        "doc_18632.txt",
+        "doc_18634.txt",
+        "doc_18633.txt",
+        "doc_19594.txt"
+    ]
+}

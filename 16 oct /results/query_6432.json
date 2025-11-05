@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the linked articles, what movie did Amanda Plummer star in alongside Stephen King?",
+    "response": [
+        "doc_18830.txt",
+        "doc_17021.txt",
+        "doc_7075.txt",
+        "doc_4921.txt",
+        "doc_5157.txt"
+    ]
+}

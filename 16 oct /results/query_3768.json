@@ -1,0 +1,10 @@
+{
+    "query": "What action did UEFA take regarding match fixing?",
+    "response": [
+        "doc_2228.txt",
+        "doc_6140.txt",
+        "doc_12932.txt",
+        "doc_6370.txt",
+        "doc_18380.txt"
+    ]
+}

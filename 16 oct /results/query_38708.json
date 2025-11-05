@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the saloon that Amanda Blake owned during her time on *Gunsmoke*?",
+    "response": [
+        "doc_9125.txt",
+        "doc_21991.txt",
+        "doc_12040.txt",
+        "doc_19747.txt",
+        "doc_16050.txt"
+    ]
+}

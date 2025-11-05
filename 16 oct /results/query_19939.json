@@ -1,0 +1,10 @@
+{
+    "query": "What did Xena use to navigate the crowds at the festival?",
+    "response": [
+        "doc_11498.txt",
+        "doc_23040.txt",
+        "doc_11512.txt",
+        "doc_20487.txt",
+        "doc_8173.txt"
+    ]
+}

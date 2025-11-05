@@ -1,0 +1,10 @@
+{
+    "query": "What specific environmental concern is highlighted regarding the Rosia Montana project?",
+    "response": [
+        "doc_3589.txt",
+        "doc_4660.txt",
+        "doc_19706.txt",
+        "doc_9670.txt",
+        "doc_649.txt"
+    ]
+}

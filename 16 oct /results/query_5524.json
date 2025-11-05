@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Jane Campion win the Palme d'Or, and what was the title of her film?",
+    "response": [
+        "doc_642.txt",
+        "doc_1580.txt",
+        "doc_2478.txt",
+        "doc_5333.txt",
+        "doc_9125.txt"
+    ]
+}

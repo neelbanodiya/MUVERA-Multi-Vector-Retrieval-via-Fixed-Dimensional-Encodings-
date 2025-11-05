@@ -1,0 +1,10 @@
+{
+    "query": "\u201cAlive\u201d & \u201cJeremy\u201d are songs by this band?",
+    "response": [
+        "doc_20041.txt",
+        "doc_20049.txt",
+        "doc_20053.txt",
+        "doc_20044.txt",
+        "doc_19777.txt"
+    ]
+}

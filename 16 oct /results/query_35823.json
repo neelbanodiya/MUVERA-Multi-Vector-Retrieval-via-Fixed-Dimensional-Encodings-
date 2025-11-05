@@ -1,0 +1,10 @@
+{
+    "query": "What is a common ending found in Russian adjectives?",
+    "response": [
+        "doc_20880.txt",
+        "doc_20878.txt",
+        "doc_20879.txt",
+        "doc_20884.txt",
+        "doc_20876.txt"
+    ]
+}

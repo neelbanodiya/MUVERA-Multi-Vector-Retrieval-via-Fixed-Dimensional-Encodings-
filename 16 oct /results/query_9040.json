@@ -1,0 +1,10 @@
+{
+    "query": "Name at least three guest stars featured in the episode of *The Simpsons* that mentions Calgary, Quebec, and Toronto.",
+    "response": [
+        "doc_5207.txt",
+        "doc_3723.txt",
+        "doc_5212.txt",
+        "doc_2747.txt",
+        "doc_14362.txt"
+    ]
+}

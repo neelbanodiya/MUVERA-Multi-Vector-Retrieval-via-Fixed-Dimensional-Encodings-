@@ -1,0 +1,10 @@
+{
+    "query": "What year was the 28th AVN Awards ceremony held?",
+    "response": [
+        "doc_4570.txt",
+        "doc_4571.txt",
+        "doc_4572.txt",
+        "doc_2263.txt",
+        "doc_16990.txt"
+    ]
+}

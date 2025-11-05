@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the regional airport in Texas associated with the code ABI?",
+    "response": [
+        "doc_1558.txt",
+        "doc_1559.txt",
+        "doc_1557.txt",
+        "doc_1556.txt",
+        "doc_1554.txt"
+    ]
+}

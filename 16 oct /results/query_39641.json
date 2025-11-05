@@ -1,0 +1,10 @@
+{
+    "query": "In which state is the city of Menasha, Wisconsin, located?",
+    "response": [
+        "doc_23215.txt",
+        "doc_23872.txt",
+        "doc_15882.txt",
+        "doc_11303.txt",
+        "doc_17058.txt"
+    ]
+}

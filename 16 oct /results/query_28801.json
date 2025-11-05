@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, in what region of the United States is Tennessee located?",
+    "response": [
+        "doc_23215.txt",
+        "doc_15881.txt",
+        "doc_890.txt",
+        "doc_18155.txt",
+        "doc_18154.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which regions did Zheng He\u2019s fleet visit during its voyages?",
+    "response": [
+        "doc_19233.txt",
+        "doc_19234.txt",
+        "doc_2296.txt",
+        "doc_2297.txt",
+        "doc_2586.txt"
+    ]
+}

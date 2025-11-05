@@ -1,0 +1,10 @@
+{
+    "query": "What television role did William Shatner play as a \u201clegal legend\u201d?",
+    "response": [
+        "doc_15114.txt",
+        "doc_15117.txt",
+        "doc_15112.txt",
+        "doc_15110.txt",
+        "doc_15115.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When did Bill Cosby first gain prominence as a comedian?",
+    "response": [
+        "doc_18835.txt",
+        "doc_18836.txt",
+        "doc_18839.txt",
+        "doc_20959.txt",
+        "doc_10451.txt"
+    ]
+}

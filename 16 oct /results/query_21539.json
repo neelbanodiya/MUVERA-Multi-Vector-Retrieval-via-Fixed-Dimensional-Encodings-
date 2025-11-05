@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is GiftCards.com\u2019s current ownership?",
+    "response": [
+        "doc_12420.txt",
+        "doc_9249.txt",
+        "doc_9199.txt",
+        "doc_3691.txt",
+        "doc_3549.txt"
+    ]
+}

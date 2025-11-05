@@ -1,0 +1,10 @@
+{
+    "query": "Which plays is Anton Chekhov famous for writing?",
+    "response": [
+        "doc_3307.txt",
+        "doc_3305.txt",
+        "doc_3306.txt",
+        "doc_3308.txt",
+        "doc_3310.txt"
+    ]
+}

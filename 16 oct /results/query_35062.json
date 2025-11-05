@@ -1,0 +1,10 @@
+{
+    "query": "Which Nickelodeon shows are mentioned in the eBay link regarding Franklin merchandise?",
+    "response": [
+        "doc_20439.txt",
+        "doc_20437.txt",
+        "doc_10445.txt",
+        "doc_20436.txt",
+        "doc_3723.txt"
+    ]
+}

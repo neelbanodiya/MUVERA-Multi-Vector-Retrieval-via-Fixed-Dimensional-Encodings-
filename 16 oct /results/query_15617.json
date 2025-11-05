@@ -1,0 +1,10 @@
+{
+    "query": "What movement is Jackson Pollock primarily associated with?",
+    "response": [
+        "doc_7412.txt",
+        "doc_10075.txt",
+        "doc_1089.txt",
+        "doc_7422.txt",
+        "doc_6946.txt"
+    ]
+}

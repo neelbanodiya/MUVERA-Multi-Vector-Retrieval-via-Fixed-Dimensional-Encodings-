@@ -1,0 +1,10 @@
+{
+    "query": "How many terms is Bernie Sanders currently serving in the U.S. Senate?",
+    "response": [
+        "doc_2475.txt",
+        "doc_5966.txt",
+        "doc_5981.txt",
+        "doc_9117.txt",
+        "doc_9116.txt"
+    ]
+}

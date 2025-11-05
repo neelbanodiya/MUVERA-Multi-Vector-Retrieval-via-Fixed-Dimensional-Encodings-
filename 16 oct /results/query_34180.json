@@ -1,0 +1,10 @@
+{
+    "query": "What type of crime does Rudy Baylor investigate in \u201cThe Rainmaker\u201d?",
+    "response": [
+        "doc_4586.txt",
+        "doc_10002.txt",
+        "doc_4585.txt",
+        "doc_17136.txt",
+        "doc_2550.txt"
+    ]
+}

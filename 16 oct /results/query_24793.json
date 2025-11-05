@@ -1,0 +1,10 @@
+{
+    "query": "What musical work is arranged by Herman Finck and features Frank Sinatra?",
+    "response": [
+        "doc_14409.txt",
+        "doc_22731.txt",
+        "doc_17913.txt",
+        "doc_6337.txt",
+        "doc_23546.txt"
+    ]
+}

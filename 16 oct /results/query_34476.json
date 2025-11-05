@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, which Pearl Jam song was taken on by Owen at a show in Pearl Jam\u2019s native Washington?",
+    "response": [
+        "doc_19668.txt",
+        "doc_128.txt",
+        "doc_13104.txt",
+        "doc_10200.txt",
+        "doc_8467.txt"
+    ]
+}

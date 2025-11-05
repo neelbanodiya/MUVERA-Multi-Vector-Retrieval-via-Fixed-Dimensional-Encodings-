@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the AFT founded?",
+    "response": [
+        "doc_8679.txt",
+        "doc_10884.txt",
+        "doc_135.txt",
+        "doc_16350.txt",
+        "doc_14305.txt"
+    ]
+}

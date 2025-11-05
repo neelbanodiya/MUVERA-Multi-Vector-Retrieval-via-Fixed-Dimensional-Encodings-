@@ -1,0 +1,10 @@
+{
+    "query": "What position did Robert List hold before becoming Governor of Nevada?",
+    "response": [
+        "doc_18607.txt",
+        "doc_18606.txt",
+        "doc_12845.txt",
+        "doc_12840.txt",
+        "doc_21249.txt"
+    ]
+}

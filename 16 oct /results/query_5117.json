@@ -1,0 +1,10 @@
+{
+    "query": "What airline merged with Northwest Airlines in 1986, resulting in a change to its name?",
+    "response": [
+        "doc_2984.txt",
+        "doc_2985.txt",
+        "doc_2986.txt",
+        "doc_2997.txt",
+        "doc_2994.txt"
+    ]
+}

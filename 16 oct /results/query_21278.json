@@ -1,0 +1,10 @@
+{
+    "query": "What evidence suggests the Moon\u2019s core is different from Earth\u2019s core?",
+    "response": [
+        "doc_12277.txt",
+        "doc_12278.txt",
+        "doc_12275.txt",
+        "doc_6371.txt",
+        "doc_21755.txt"
+    ]
+}

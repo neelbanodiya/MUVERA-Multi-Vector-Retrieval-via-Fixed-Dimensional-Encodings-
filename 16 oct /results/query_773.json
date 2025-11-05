@@ -1,0 +1,10 @@
+{
+    "query": "When did the Betty Ford Center open?",
+    "response": [
+        "doc_434.txt",
+        "doc_435.txt",
+        "doc_444.txt",
+        "doc_439.txt",
+        "doc_440.txt"
+    ]
+}

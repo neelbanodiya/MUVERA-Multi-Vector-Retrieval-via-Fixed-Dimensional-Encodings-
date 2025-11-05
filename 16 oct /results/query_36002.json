@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred in China in 1964, as highlighted by multiple sources?",
+    "response": [
+        "doc_12607.txt",
+        "doc_9843.txt",
+        "doc_600.txt",
+        "doc_18619.txt",
+        "doc_18992.txt"
+    ]
+}

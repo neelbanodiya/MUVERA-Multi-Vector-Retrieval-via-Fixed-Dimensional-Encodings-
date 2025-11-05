@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Benedict Arnold lead an attack on Fort Griswold?",
+    "response": [
+        "doc_10410.txt",
+        "doc_10417.txt",
+        "doc_10419.txt",
+        "doc_10424.txt",
+        "doc_10420.txt"
+    ]
+}

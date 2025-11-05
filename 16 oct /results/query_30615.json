@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cMack the Knife\u201d by Bobby Darin bought?",
+    "response": [
+        "doc_17801.txt",
+        "doc_7027.txt",
+        "doc_820.txt",
+        "doc_13882.txt",
+        "doc_22834.txt"
+    ]
+}

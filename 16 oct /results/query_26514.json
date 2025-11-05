@@ -1,0 +1,10 @@
+{
+    "query": "What geographical location is linked to Henry Wadsworth Longfellow?",
+    "response": [
+        "doc_12641.txt",
+        "doc_22494.txt",
+        "doc_23504.txt",
+        "doc_21027.txt",
+        "doc_7345.txt"
+    ]
+}

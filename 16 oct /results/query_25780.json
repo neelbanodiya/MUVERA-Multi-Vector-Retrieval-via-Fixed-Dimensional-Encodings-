@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what genre does Ursula K. Le Guin primarily write?",
+    "response": [
+        "doc_14977.txt",
+        "doc_14976.txt",
+        "doc_14994.txt",
+        "doc_14978.txt",
+        "doc_14975.txt"
+    ]
+}

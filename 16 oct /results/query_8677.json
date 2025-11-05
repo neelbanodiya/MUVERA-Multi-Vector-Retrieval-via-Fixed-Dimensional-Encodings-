@@ -1,0 +1,10 @@
+{
+    "query": "What are some common nicknames used for Fannie Mae and Freddie Mac?",
+    "response": [
+        "doc_5010.txt",
+        "doc_5008.txt",
+        "doc_5009.txt",
+        "doc_5014.txt",
+        "doc_5016.txt"
+    ]
+}

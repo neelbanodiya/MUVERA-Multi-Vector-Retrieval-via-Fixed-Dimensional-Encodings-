@@ -1,0 +1,10 @@
+{
+    "query": "According to Billboard Magazine, what was the name of Paul McCartney\u2019s 2002 tour that was named \u201cTour of the Year\u201d?",
+    "response": [
+        "doc_5567.txt",
+        "doc_5568.txt",
+        "doc_19668.txt",
+        "doc_15686.txt",
+        "doc_21147.txt"
+    ]
+}

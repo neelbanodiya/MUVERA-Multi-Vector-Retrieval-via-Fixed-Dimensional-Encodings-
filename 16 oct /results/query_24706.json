@@ -1,0 +1,10 @@
+{
+    "query": "What Maine specialty requires removing claw and tail meat from lobsters and using hot dog buns?",
+    "response": [
+        "doc_14348.txt",
+        "doc_14363.txt",
+        "doc_14354.txt",
+        "doc_14355.txt",
+        "doc_14359.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which baseball player is referred to as \"Mad Dog\" or \"The Professor\"?",
+    "response": [
+        "doc_16714.txt",
+        "doc_19069.txt",
+        "doc_2466.txt",
+        "doc_9210.txt",
+        "doc_2462.txt"
+    ]
+}

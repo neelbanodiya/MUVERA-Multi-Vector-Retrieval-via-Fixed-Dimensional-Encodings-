@@ -1,0 +1,10 @@
+{
+    "query": "Is the Commission aware of the case of 75 children living in a social care home in Mogilino, Bulgaria?",
+    "response": [
+        "doc_17867.txt",
+        "doc_4104.txt",
+        "doc_19039.txt",
+        "doc_11331.txt",
+        "doc_10073.txt"
+    ]
+}

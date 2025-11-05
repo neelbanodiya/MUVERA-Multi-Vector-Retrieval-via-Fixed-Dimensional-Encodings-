@@ -1,0 +1,10 @@
+{
+    "query": "When was the line \u201cLouis, I think this is the beginning of a beautiful friendship\u201d first used in a film?",
+    "response": [
+        "doc_18757.txt",
+        "doc_18748.txt",
+        "doc_18750.txt",
+        "doc_18758.txt",
+        "doc_18752.txt"
+    ]
+}

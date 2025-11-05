@@ -1,0 +1,10 @@
+{
+    "query": "Why did Ulysses S. Grant not go by his given name?",
+    "response": [
+        "doc_11822.txt",
+        "doc_11825.txt",
+        "doc_11823.txt",
+        "doc_11826.txt",
+        "doc_11836.txt"
+    ]
+}

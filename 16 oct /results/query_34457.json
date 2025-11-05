@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what should the EU institutions do to ensure transparency when selecting dialogue participants?",
+    "response": [
+        "doc_20037.txt",
+        "doc_17377.txt",
+        "doc_20035.txt",
+        "doc_20038.txt",
+        "doc_20032.txt"
+    ]
+}

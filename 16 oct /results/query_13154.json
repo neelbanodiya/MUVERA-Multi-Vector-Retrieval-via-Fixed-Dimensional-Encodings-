@@ -1,0 +1,10 @@
+{
+    "query": "What was the response to \u201ccarnage\u201d mentioned in the Huffington Post article?",
+    "response": [
+        "doc_18075.txt",
+        "doc_18844.txt",
+        "doc_14412.txt",
+        "doc_20207.txt",
+        "doc_19216.txt"
+    ]
+}

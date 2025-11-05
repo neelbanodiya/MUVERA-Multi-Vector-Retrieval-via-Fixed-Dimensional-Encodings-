@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commission\u2019s stance on having data regarding the total costs of food waste generated in the EU annually?",
+    "response": [
+        "doc_19591.txt",
+        "doc_16227.txt",
+        "doc_20347.txt",
+        "doc_16484.txt",
+        "doc_4154.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to multiple sources, what controversy surrounded Jeff Smith\u2019s career?",
+    "response": [
+        "doc_19310.txt",
+        "doc_7832.txt",
+        "doc_13000.txt",
+        "doc_7622.txt",
+        "doc_17306.txt"
+    ]
+}

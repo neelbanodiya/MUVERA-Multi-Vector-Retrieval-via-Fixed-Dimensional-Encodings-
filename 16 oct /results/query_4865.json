@@ -1,0 +1,10 @@
+{
+    "query": "What was Ronald Reagan\u2019s previous role before becoming President of the United States?",
+    "response": [
+        "doc_40.txt",
+        "doc_3567.txt",
+        "doc_3569.txt",
+        "doc_21249.txt",
+        "doc_11482.txt"
+    ]
+}

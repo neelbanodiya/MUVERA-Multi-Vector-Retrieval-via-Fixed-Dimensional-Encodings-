@@ -1,0 +1,10 @@
+{
+    "query": "What is the address of the Marriott hotel near Chattanooga tourist attractions?",
+    "response": [
+        "doc_16587.txt",
+        "doc_16585.txt",
+        "doc_16589.txt",
+        "doc_16577.txt",
+        "doc_16588.txt"
+    ]
+}

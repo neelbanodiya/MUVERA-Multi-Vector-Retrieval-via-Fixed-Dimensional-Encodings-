@@ -1,0 +1,10 @@
+{
+    "query": "Which film featured Greta Garbo and told the story of a Polish Countess who became Napoleon\u2019s mistress?",
+    "response": [
+        "doc_8367.txt",
+        "doc_8371.txt",
+        "doc_8370.txt",
+        "doc_11731.txt",
+        "doc_23759.txt"
+    ]
+}

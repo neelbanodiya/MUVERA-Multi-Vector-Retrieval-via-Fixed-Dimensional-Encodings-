@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is a key difference between the Roman number system and our current system?",
+    "response": [
+        "doc_14593.txt",
+        "doc_14586.txt",
+        "doc_14585.txt",
+        "doc_14594.txt",
+        "doc_14582.txt"
+    ]
+}

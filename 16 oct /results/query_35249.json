@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was a common objection to Charles Dickens\u2019s writing, specifically referencing *Oliver Twist*?",
+    "response": [
+        "doc_20552.txt",
+        "doc_20540.txt",
+        "doc_20542.txt",
+        "doc_20545.txt",
+        "doc_20551.txt"
+    ]
+}

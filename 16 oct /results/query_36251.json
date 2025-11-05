@@ -1,0 +1,10 @@
+{
+    "query": "What specific procedure did the European Parliament follow in relation to the Council\u2019s proposal?",
+    "response": [
+        "doc_13210.txt",
+        "doc_19662.txt",
+        "doc_18092.txt",
+        "doc_12932.txt",
+        "doc_21466.txt"
+    ]
+}

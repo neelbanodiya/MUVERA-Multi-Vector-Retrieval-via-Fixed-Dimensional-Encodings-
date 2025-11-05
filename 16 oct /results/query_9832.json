@@ -1,0 +1,10 @@
+{
+    "query": "What event, 40 years prior, is referenced in the article about \u201cThe Blue Marble Shot,\u201d and what was its impact?",
+    "response": [
+        "doc_3874.txt",
+        "doc_3871.txt",
+        "doc_3873.txt",
+        "doc_3877.txt",
+        "doc_10500.txt"
+    ]
+}

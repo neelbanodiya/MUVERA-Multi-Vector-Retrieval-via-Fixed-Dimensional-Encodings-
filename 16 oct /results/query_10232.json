@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the Old Testament used for in this context?",
+    "response": [
+        "doc_6326.txt",
+        "doc_1307.txt",
+        "doc_22402.txt",
+        "doc_8260.txt",
+        "doc_4400.txt"
+    ]
+}

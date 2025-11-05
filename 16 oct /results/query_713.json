@@ -1,0 +1,10 @@
+{
+    "query": "What type of ecosystems are found in Alabama, according to the passage?",
+    "response": [
+        "doc_8605.txt",
+        "doc_10935.txt",
+        "doc_1390.txt",
+        "doc_4342.txt",
+        "doc_4220.txt"
+    ]
+}

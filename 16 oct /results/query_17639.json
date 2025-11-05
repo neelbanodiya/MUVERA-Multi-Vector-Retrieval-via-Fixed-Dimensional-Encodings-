@@ -1,0 +1,10 @@
+{
+    "query": "How did Corona beer become popular in the United States?",
+    "response": [
+        "doc_10211.txt",
+        "doc_9388.txt",
+        "doc_24237.txt",
+        "doc_23595.txt",
+        "doc_3070.txt"
+    ]
+}

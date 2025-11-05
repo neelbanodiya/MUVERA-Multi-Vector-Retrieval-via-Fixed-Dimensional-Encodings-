@@ -1,0 +1,10 @@
+{
+    "query": "Who replaced Joe Oliver in the band?",
+    "response": [
+        "doc_1977.txt",
+        "doc_5898.txt",
+        "doc_12714.txt",
+        "doc_7198.txt",
+        "doc_2394.txt"
+    ]
+}

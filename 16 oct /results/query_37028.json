@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the film directed by Francois Truffaut that sensitively recreates the trials of a childhood?",
+    "response": [
+        "doc_2231.txt",
+        "doc_5323.txt",
+        "doc_1580.txt",
+        "doc_14626.txt",
+        "doc_18758.txt"
+    ]
+}

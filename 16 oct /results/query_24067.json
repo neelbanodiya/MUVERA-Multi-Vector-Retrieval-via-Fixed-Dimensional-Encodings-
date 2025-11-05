@@ -1,0 +1,10 @@
+{
+    "query": "What religious belief relates that God gave the Maasai all the cattle on earth?",
+    "response": [
+        "doc_13959.txt",
+        "doc_8094.txt",
+        "doc_6050.txt",
+        "doc_15153.txt",
+        "doc_5041.txt"
+    ]
+}

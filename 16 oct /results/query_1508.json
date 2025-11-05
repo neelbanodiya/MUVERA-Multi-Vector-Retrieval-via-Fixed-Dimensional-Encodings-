@@ -1,0 +1,10 @@
+{
+    "query": "What was the general description of the natives encountered by Coronado, as noted in several documents?",
+    "response": [
+        "doc_6834.txt",
+        "doc_18447.txt",
+        "doc_19676.txt",
+        "doc_7648.txt",
+        "doc_16496.txt"
+    ]
+}

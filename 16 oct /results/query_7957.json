@@ -1,0 +1,10 @@
+{
+    "query": "Which university originally constructed the Prayer Tower?",
+    "response": [
+        "doc_4607.txt",
+        "doc_4614.txt",
+        "doc_23678.txt",
+        "doc_23679.txt",
+        "doc_2533.txt"
+    ]
+}

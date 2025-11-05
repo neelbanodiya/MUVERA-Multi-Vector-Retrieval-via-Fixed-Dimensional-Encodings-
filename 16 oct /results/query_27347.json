@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of Kay Kyser\u2019s radio show?",
+    "response": [
+        "doc_15902.txt",
+        "doc_15904.txt",
+        "doc_15903.txt",
+        "doc_15907.txt",
+        "doc_15905.txt"
+    ]
+}

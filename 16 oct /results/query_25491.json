@@ -1,0 +1,10 @@
+{
+    "query": "What is the Roman name associated with the goddess who paints the morning sky beautiful colors?",
+    "response": [
+        "doc_14774.txt",
+        "doc_14772.txt",
+        "doc_14770.txt",
+        "doc_14771.txt",
+        "doc_14773.txt"
+    ]
+}

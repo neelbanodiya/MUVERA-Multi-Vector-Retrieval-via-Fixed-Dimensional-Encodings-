@@ -1,0 +1,10 @@
+{
+    "query": "What historical period is mentioned in relation to the Society of Jesus?",
+    "response": [
+        "doc_18500.txt",
+        "doc_22155.txt",
+        "doc_9303.txt",
+        "doc_22403.txt",
+        "doc_7348.txt"
+    ]
+}

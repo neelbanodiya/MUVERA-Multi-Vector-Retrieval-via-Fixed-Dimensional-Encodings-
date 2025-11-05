@@ -1,0 +1,10 @@
+{
+    "query": "To whom did George Steinbrenner pass control of the Yankees?",
+    "response": [
+        "doc_12432.txt",
+        "doc_12435.txt",
+        "doc_12436.txt",
+        "doc_12434.txt",
+        "doc_12433.txt"
+    ]
+}

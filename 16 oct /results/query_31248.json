@@ -1,0 +1,10 @@
+{
+    "query": "What mythological figure is referenced in a document related to the film *My Big Fat Greek Wedding*?",
+    "response": [
+        "doc_18212.txt",
+        "doc_18211.txt",
+        "doc_1580.txt",
+        "doc_14776.txt",
+        "doc_18844.txt"
+    ]
+}

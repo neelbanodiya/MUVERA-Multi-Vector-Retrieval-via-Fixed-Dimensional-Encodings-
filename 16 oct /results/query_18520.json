@@ -1,0 +1,10 @@
+{
+    "query": "What did students at Highline High use computers to do?",
+    "response": [
+        "doc_10736.txt",
+        "doc_5315.txt",
+        "doc_12666.txt",
+        "doc_1153.txt",
+        "doc_19387.txt"
+    ]
+}

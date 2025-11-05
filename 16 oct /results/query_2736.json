@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary purpose of the Sault Ste. Marie locks?",
+    "response": [
+        "doc_1638.txt",
+        "doc_1633.txt",
+        "doc_1646.txt",
+        "doc_1640.txt",
+        "doc_1647.txt"
+    ]
+}

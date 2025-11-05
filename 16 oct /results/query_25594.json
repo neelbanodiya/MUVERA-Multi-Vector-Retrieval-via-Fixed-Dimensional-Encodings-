@@ -1,0 +1,10 @@
+{
+    "query": "Which Commission communication from 1999 addressed the framework for financial markets?",
+    "response": [
+        "doc_18302.txt",
+        "doc_14836.txt",
+        "doc_9746.txt",
+        "doc_19948.txt",
+        "doc_18303.txt"
+    ]
+}

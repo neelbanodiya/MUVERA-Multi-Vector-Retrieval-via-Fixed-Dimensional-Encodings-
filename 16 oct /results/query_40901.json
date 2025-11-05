@@ -1,0 +1,10 @@
+{
+    "query": "According to the Macmillan Dictionary, what does \u201conce bitten twice shy\u201d mean?",
+    "response": [
+        "doc_23907.txt",
+        "doc_23913.txt",
+        "doc_23910.txt",
+        "doc_23908.txt",
+        "doc_23917.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What action is being called for regarding the Same Sex Marriage (Prohibition) Act bill?",
+    "response": [
+        "doc_9156.txt",
+        "doc_8400.txt",
+        "doc_20354.txt",
+        "doc_8401.txt",
+        "doc_20355.txt"
+    ]
+}

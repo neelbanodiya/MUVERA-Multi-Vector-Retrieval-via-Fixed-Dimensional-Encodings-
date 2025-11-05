@@ -1,0 +1,10 @@
+{
+    "query": "What river serves as the boundary between Guyana and Venezuela\u2019s claim?",
+    "response": [
+        "doc_12986.txt",
+        "doc_12985.txt",
+        "doc_4340.txt",
+        "doc_5024.txt",
+        "doc_35.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which Regulation, besides Regulation (EC) No 153/2002, dictates the procedures for safeguard measures in certain cases?",
+    "response": [
+        "doc_20780.txt",
+        "doc_23633.txt",
+        "doc_8878.txt",
+        "doc_3429.txt",
+        "doc_20753.txt"
+    ]
+}

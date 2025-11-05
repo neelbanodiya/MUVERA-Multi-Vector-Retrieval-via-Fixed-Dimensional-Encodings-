@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote the novel *Goldfinger*?",
+    "response": [
+        "doc_9786.txt",
+        "doc_9792.txt",
+        "doc_4655.txt",
+        "doc_20297.txt",
+        "doc_24144.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What are the two official languages spoken in Tumen?",
+    "response": [
+        "doc_6315.txt",
+        "doc_23850.txt",
+        "doc_15378.txt",
+        "doc_15376.txt",
+        "doc_20059.txt"
+    ]
+}

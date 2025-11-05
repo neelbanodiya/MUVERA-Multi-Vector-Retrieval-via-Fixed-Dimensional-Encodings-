@@ -1,0 +1,10 @@
+{
+    "query": "What type of dish is being prepared for the New Year's party?",
+    "response": [
+        "doc_15448.txt",
+        "doc_12212.txt",
+        "doc_12203.txt",
+        "doc_14359.txt",
+        "doc_12218.txt"
+    ]
+}

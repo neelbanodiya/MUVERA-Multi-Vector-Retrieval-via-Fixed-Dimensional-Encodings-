@@ -1,0 +1,10 @@
+{
+    "query": "Which former House Speaker shocked many in 2009 by being elected?",
+    "response": [
+        "doc_5966.txt",
+        "doc_5976.txt",
+        "doc_5982.txt",
+        "doc_5967.txt",
+        "doc_5970.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What events took place around Loch Lomond in June 2013?",
+    "response": [
+        "doc_5335.txt",
+        "doc_13008.txt",
+        "doc_11488.txt",
+        "doc_13010.txt",
+        "doc_193.txt"
+    ]
+}

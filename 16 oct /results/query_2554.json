@@ -1,0 +1,10 @@
+{
+    "query": "What agreement between the European Community and Romania is the regulation amending?",
+    "response": [
+        "doc_2227.txt",
+        "doc_17262.txt",
+        "doc_15086.txt",
+        "doc_11119.txt",
+        "doc_21466.txt"
+    ]
+}

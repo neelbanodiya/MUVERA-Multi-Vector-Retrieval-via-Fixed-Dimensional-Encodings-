@@ -1,0 +1,10 @@
+{
+    "query": "According to the United Nations, what is the status of LGBT rights in Malta?",
+    "response": [
+        "doc_21849.txt",
+        "doc_9156.txt",
+        "doc_19352.txt",
+        "doc_6488.txt",
+        "doc_6493.txt"
+    ]
+}

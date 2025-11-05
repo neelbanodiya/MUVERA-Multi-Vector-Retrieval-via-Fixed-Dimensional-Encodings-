@@ -1,0 +1,10 @@
+{
+    "query": "In 1975, what significant achievement did a San Diego pitcher accomplish?",
+    "response": [
+        "doc_19170.txt",
+        "doc_23052.txt",
+        "doc_6867.txt",
+        "doc_5392.txt",
+        "doc_23062.txt"
+    ]
+}

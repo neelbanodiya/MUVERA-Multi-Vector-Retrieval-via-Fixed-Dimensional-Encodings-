@@ -1,0 +1,10 @@
+{
+    "query": "What action is the resolution calling for the Venezuelan Government to take regarding the upcoming parliamentary elections on 26 September 2010?",
+    "response": [
+        "doc_35.txt",
+        "doc_20514.txt",
+        "doc_4902.txt",
+        "doc_6491.txt",
+        "doc_4810.txt"
+    ]
+}

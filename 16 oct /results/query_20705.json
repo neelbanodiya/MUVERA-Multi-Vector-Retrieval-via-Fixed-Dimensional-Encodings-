@@ -1,0 +1,10 @@
+{
+    "query": "What is a tagline associated with Monty Python?",
+    "response": [
+        "doc_12586.txt",
+        "doc_21299.txt",
+        "doc_23898.txt",
+        "doc_23904.txt",
+        "doc_14029.txt"
+    ]
+}

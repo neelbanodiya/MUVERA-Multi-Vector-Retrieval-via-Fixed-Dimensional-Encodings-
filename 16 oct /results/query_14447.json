@@ -1,0 +1,10 @@
+{
+    "query": "Who was Josephine\u2019s daughter?",
+    "response": [
+        "doc_8366.txt",
+        "doc_8370.txt",
+        "doc_8367.txt",
+        "doc_8365.txt",
+        "doc_7881.txt"
+    ]
+}

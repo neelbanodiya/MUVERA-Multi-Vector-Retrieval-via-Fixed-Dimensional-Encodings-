@@ -1,0 +1,10 @@
+{
+    "query": "What type of radar system was operated at Eldorado Air Force Station?",
+    "response": [
+        "doc_14896.txt",
+        "doc_14897.txt",
+        "doc_3410.txt",
+        "doc_14280.txt",
+        "doc_14282.txt"
+    ]
+}

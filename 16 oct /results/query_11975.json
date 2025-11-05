@@ -1,0 +1,10 @@
+{
+    "query": "In what two specific situations does the Commission propose to extend provisions related to denied boarding?",
+    "response": [
+        "doc_6990.txt",
+        "doc_6997.txt",
+        "doc_6995.txt",
+        "doc_7004.txt",
+        "doc_7015.txt"
+    ]
+}

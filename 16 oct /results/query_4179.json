@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cThe One and Only, Genuine, Original Family Band\u201d released?",
+    "response": [
+        "doc_12258.txt",
+        "doc_8467.txt",
+        "doc_16312.txt",
+        "doc_4606.txt",
+        "doc_22673.txt"
+    ]
+}

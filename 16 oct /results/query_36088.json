@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what film features Saoirse Ronan and was directed by Kevin Macdonald?",
+    "response": [
+        "doc_16924.txt",
+        "doc_2231.txt",
+        "doc_2850.txt",
+        "doc_2851.txt",
+        "doc_16925.txt"
+    ]
+}

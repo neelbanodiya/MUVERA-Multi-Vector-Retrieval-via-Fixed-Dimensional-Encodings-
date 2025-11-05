@@ -1,0 +1,10 @@
+{
+    "query": "What methods does the Commission use to ensure effective implementation of the directive?",
+    "response": [
+        "doc_12005.txt",
+        "doc_21810.txt",
+        "doc_24050.txt",
+        "doc_5831.txt",
+        "doc_24053.txt"
+    ]
+}

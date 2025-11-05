@@ -1,0 +1,10 @@
+{
+    "query": "What was Randy\u2019s focus in his personal life?",
+    "response": [
+        "doc_20608.txt",
+        "doc_20141.txt",
+        "doc_7655.txt",
+        "doc_1512.txt",
+        "doc_16168.txt"
+    ]
+}

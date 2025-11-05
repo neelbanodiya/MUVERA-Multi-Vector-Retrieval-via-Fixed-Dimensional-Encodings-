@@ -1,0 +1,10 @@
+{
+    "query": "What musical features Katharine Hepburn as Coco Chanel?",
+    "response": [
+        "doc_16861.txt",
+        "doc_17096.txt",
+        "doc_17097.txt",
+        "doc_7753.txt",
+        "doc_6021.txt"
+    ]
+}

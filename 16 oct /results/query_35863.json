@@ -1,0 +1,10 @@
+{
+    "query": "Which bands was Eric Clapton a member of during his career?",
+    "response": [
+        "doc_20895.txt",
+        "doc_20902.txt",
+        "doc_20901.txt",
+        "doc_20897.txt",
+        "doc_20896.txt"
+    ]
+}

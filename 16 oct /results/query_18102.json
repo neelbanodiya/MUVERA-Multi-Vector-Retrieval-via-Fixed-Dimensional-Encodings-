@@ -1,0 +1,10 @@
+{
+    "query": "For what occasion did Menotti write the opera \u201cAmahl and the Night Visitors\u201d?",
+    "response": [
+        "doc_10454.txt",
+        "doc_10455.txt",
+        "doc_10457.txt",
+        "doc_10465.txt",
+        "doc_10471.txt"
+    ]
+}

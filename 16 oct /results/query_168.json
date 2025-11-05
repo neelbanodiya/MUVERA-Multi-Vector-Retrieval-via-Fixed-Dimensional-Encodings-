@@ -1,0 +1,10 @@
+{
+    "query": "What is the Danube River\u2019s most popular role in European travel itineraries?",
+    "response": [
+        "doc_12331.txt",
+        "doc_12333.txt",
+        "doc_80.txt",
+        "doc_81.txt",
+        "doc_82.txt"
+    ]
+}

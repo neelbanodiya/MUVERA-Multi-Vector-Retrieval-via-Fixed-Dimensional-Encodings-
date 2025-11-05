@@ -1,0 +1,10 @@
+{
+    "query": "What event did Sheikha Mayassa open in 2015?",
+    "response": [
+        "doc_15159.txt",
+        "doc_2058.txt",
+        "doc_19242.txt",
+        "doc_19243.txt",
+        "doc_15158.txt"
+    ]
+}

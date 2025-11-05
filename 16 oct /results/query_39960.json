@@ -1,0 +1,10 @@
+{
+    "query": "Who provided interviews about Anne Frank\u2019s last months in the documentary \u201cLaatste Zeven Maanden van Anne Frank\u201d?",
+    "response": [
+        "doc_23404.txt",
+        "doc_23405.txt",
+        "doc_627.txt",
+        "doc_20417.txt",
+        "doc_20418.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Beethoven write the \"Heiligenstadt Testament\"?",
+    "response": [
+        "doc_19936.txt",
+        "doc_19939.txt",
+        "doc_19938.txt",
+        "doc_19937.txt",
+        "doc_19935.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who coached Esko Mikkola in 1998?",
+    "response": [
+        "doc_1880.txt",
+        "doc_76.txt",
+        "doc_75.txt",
+        "doc_5573.txt",
+        "doc_74.txt"
+    ]
+}

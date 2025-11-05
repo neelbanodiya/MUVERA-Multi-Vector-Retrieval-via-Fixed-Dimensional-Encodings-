@@ -1,0 +1,10 @@
+{
+    "query": "What are the two technologies currently used to reduce NOx emissions in heavy duty diesel vehicles, according to Mr. Verheugen?",
+    "response": [
+        "doc_2294.txt",
+        "doc_23787.txt",
+        "doc_2295.txt",
+        "doc_10666.txt",
+        "doc_5725.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the sacred temple in Abydos dedicated to Osiris?",
+    "response": [
+        "doc_1294.txt",
+        "doc_5304.txt",
+        "doc_1306.txt",
+        "doc_22657.txt",
+        "doc_18486.txt"
+    ]
+}

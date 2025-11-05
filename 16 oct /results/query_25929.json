@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Harold Stassen run for the Republican nomination for President of the United States?",
+    "response": [
+        "doc_15077.txt",
+        "doc_15079.txt",
+        "doc_16810.txt",
+        "doc_2477.txt",
+        "doc_2476.txt"
+    ]
+}

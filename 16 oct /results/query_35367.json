@@ -1,0 +1,10 @@
+{
+    "query": "Besides Jiminy Cricket, which other Disney characters are animals featured in the film?",
+    "response": [
+        "doc_20611.txt",
+        "doc_20619.txt",
+        "doc_20613.txt",
+        "doc_20617.txt",
+        "doc_20618.txt"
+    ]
+}

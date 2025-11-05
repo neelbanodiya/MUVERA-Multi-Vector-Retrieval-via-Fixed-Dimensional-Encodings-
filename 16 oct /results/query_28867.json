@@ -1,0 +1,10 @@
+{
+    "query": "What stock exchange is Wynn Resorts traded on, and what is its ticker symbol?",
+    "response": [
+        "doc_16828.txt",
+        "doc_16020.txt",
+        "doc_11203.txt",
+        "doc_19671.txt",
+        "doc_3681.txt"
+    ]
+}

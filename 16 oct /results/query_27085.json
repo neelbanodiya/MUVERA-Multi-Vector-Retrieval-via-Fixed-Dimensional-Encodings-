@@ -1,0 +1,10 @@
+{
+    "query": "What specific airport is being targeted in Jeddah?",
+    "response": [
+        "doc_15727.txt",
+        "doc_15725.txt",
+        "doc_15726.txt",
+        "doc_15722.txt",
+        "doc_15717.txt"
+    ]
+}

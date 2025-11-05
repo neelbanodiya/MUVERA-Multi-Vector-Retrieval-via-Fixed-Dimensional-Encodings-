@@ -1,0 +1,10 @@
+{
+    "query": "What was Arnold Palmer described as in relation to his tournament performance?",
+    "response": [
+        "doc_24145.txt",
+        "doc_22803.txt",
+        "doc_11888.txt",
+        "doc_10449.txt",
+        "doc_8051.txt"
+    ]
+}

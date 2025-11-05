@@ -1,0 +1,10 @@
+{
+    "query": "What two cities are identified as centers of Christianity \u2013 one from the East and one from the West?",
+    "response": [
+        "doc_12139.txt",
+        "doc_5040.txt",
+        "doc_5033.txt",
+        "doc_22413.txt",
+        "doc_8350.txt"
+    ]
+}

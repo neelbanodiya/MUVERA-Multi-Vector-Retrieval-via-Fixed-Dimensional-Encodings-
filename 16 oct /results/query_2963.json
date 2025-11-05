@@ -1,0 +1,10 @@
+{
+    "query": "What is the estimated percentage of China\u2019s agricultural land that has been lost since 1957?",
+    "response": [
+        "doc_23357.txt",
+        "doc_10976.txt",
+        "doc_10453.txt",
+        "doc_15144.txt",
+        "doc_7999.txt"
+    ]
+}

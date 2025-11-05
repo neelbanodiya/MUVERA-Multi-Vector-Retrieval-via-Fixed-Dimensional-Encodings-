@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 48 of the Treaty on European Union, what is a necessary condition for the Constitution to enter into force?",
+    "response": [
+        "doc_17341.txt",
+        "doc_17355.txt",
+        "doc_13217.txt",
+        "doc_13161.txt",
+        "doc_13402.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In October 2016, what was the trend in rent prices for two-bedroom apartments in New York?",
+    "response": [
+        "doc_6843.txt",
+        "doc_565.txt",
+        "doc_570.txt",
+        "doc_7459.txt",
+        "doc_14177.txt"
+    ]
+}

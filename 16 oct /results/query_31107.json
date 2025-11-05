@@ -1,0 +1,10 @@
+{
+    "query": "What geographical feature divides Glacier National Park into east and west sections?",
+    "response": [
+        "doc_18132.txt",
+        "doc_18131.txt",
+        "doc_18130.txt",
+        "doc_18135.txt",
+        "doc_18133.txt"
+    ]
+}

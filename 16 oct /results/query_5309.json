@@ -1,0 +1,10 @@
+{
+    "query": "According to John Cushnahan, how did the per capita aid amount for Afghanistan compare to the Balkans?",
+    "response": [
+        "doc_3086.txt",
+        "doc_4941.txt",
+        "doc_17633.txt",
+        "doc_12050.txt",
+        "doc_7246.txt"
+    ]
+}

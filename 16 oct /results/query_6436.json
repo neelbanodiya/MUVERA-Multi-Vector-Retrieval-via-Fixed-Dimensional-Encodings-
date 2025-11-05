@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of Stephen King\u2019s novel that prompted a question about writing a sequel thirty years later?",
+    "response": [
+        "doc_3712.txt",
+        "doc_3711.txt",
+        "doc_11486.txt",
+        "doc_20128.txt",
+        "doc_19140.txt"
+    ]
+}

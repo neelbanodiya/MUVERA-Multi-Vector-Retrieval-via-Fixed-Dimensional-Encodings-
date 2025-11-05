@@ -1,0 +1,10 @@
+{
+    "query": "What role did Kathy Bates play in the movie \u201cMisery\u201d?",
+    "response": [
+        "doc_22747.txt",
+        "doc_22745.txt",
+        "doc_22746.txt",
+        "doc_22744.txt",
+        "doc_22750.txt"
+    ]
+}

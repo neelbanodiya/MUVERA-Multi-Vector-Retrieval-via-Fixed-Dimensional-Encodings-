@@ -1,0 +1,10 @@
+{
+    "query": "What specific action is the European Parliament instructed to take regarding the Council\u2019s potential departure from the approved text?",
+    "response": [
+        "doc_20690.txt",
+        "doc_3243.txt",
+        "doc_18908.txt",
+        "doc_13675.txt",
+        "doc_990.txt"
+    ]
+}

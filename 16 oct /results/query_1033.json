@@ -1,0 +1,10 @@
+{
+    "query": "Who received the 2008 Dirac Medal and the 2016 Breakthrough Prize in Fundamental Physics?",
+    "response": [
+        "doc_11883.txt",
+        "doc_11666.txt",
+        "doc_2610.txt",
+        "doc_12813.txt",
+        "doc_12812.txt"
+    ]
+}

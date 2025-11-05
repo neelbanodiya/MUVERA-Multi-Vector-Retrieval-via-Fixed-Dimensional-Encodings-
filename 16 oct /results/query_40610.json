@@ -1,0 +1,10 @@
+{
+    "query": "In what city did the construction of Santa Maria del Fiore Cathedral begin?",
+    "response": [
+        "doc_15617.txt",
+        "doc_16161.txt",
+        "doc_2540.txt",
+        "doc_19971.txt",
+        "doc_15475.txt"
+    ]
+}

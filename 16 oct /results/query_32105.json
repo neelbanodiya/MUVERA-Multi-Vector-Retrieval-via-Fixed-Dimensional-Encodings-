@@ -1,0 +1,10 @@
+{
+    "query": "Which Japanese anime series served as the basis for the Seibu Lions\u2019 logo and mascot between 1978 and 2008?",
+    "response": [
+        "doc_12193.txt",
+        "doc_12196.txt",
+        "doc_12198.txt",
+        "doc_10236.txt",
+        "doc_12190.txt"
+    ]
+}

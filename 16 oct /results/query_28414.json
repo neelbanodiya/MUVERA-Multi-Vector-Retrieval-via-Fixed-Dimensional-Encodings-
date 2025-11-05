@@ -1,0 +1,10 @@
+{
+    "query": "What kind of music is playing at Oakland Cemetery?",
+    "response": [
+        "doc_15303.txt",
+        "doc_19462.txt",
+        "doc_8162.txt",
+        "doc_8163.txt",
+        "doc_3913.txt"
+    ]
+}

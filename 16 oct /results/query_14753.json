@@ -1,0 +1,10 @@
+{
+    "query": "How many miles did Tony Constanzo run during the Seabrook Lucky Trail Marathon?",
+    "response": [
+        "doc_8547.txt",
+        "doc_8554.txt",
+        "doc_23698.txt",
+        "doc_13728.txt",
+        "doc_16915.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What geological formations contain more limestone beds in Ontario?",
+    "response": [
+        "doc_8609.txt",
+        "doc_8622.txt",
+        "doc_12276.txt",
+        "doc_8615.txt",
+        "doc_8837.txt"
+    ]
+}

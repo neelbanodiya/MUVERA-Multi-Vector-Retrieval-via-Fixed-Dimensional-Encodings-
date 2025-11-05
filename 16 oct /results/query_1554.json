@@ -1,0 +1,10 @@
+{
+    "query": "What was the duration of the Berlin Airlift?",
+    "response": [
+        "doc_879.txt",
+        "doc_873.txt",
+        "doc_883.txt",
+        "doc_887.txt",
+        "doc_872.txt"
+    ]
+}

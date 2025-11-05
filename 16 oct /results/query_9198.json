@@ -1,0 +1,10 @@
+{
+    "query": "What year did Richard Wright come to Los Angeles to hone his dance skills?",
+    "response": [
+        "doc_5300.txt",
+        "doc_15244.txt",
+        "doc_22787.txt",
+        "doc_9001.txt",
+        "doc_658.txt"
+    ]
+}

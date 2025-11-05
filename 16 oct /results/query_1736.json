@@ -1,0 +1,10 @@
+{
+    "query": "What Council Directive provides the general rules for the labelling of agricultural products and foodstuffs?",
+    "response": [
+        "doc_990.txt",
+        "doc_12680.txt",
+        "doc_6943.txt",
+        "doc_13570.txt",
+        "doc_993.txt"
+    ]
+}

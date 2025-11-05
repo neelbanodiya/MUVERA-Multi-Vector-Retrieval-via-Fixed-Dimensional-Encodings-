@@ -1,0 +1,10 @@
+{
+    "query": "Which individuals can be contacted for press enquiries regarding the EU subsidy for linking different levels of government administration?",
+    "response": [
+        "doc_3592.txt",
+        "doc_3591.txt",
+        "doc_2254.txt",
+        "doc_8361.txt",
+        "doc_14146.txt"
+    ]
+}

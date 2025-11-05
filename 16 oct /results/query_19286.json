@@ -1,0 +1,10 @@
+{
+    "query": "Which band is Ed Robertson best known for?",
+    "response": [
+        "doc_3077.txt",
+        "doc_3076.txt",
+        "doc_719.txt",
+        "doc_8511.txt",
+        "doc_3883.txt"
+    ]
+}

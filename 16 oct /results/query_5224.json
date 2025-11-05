@@ -1,0 +1,10 @@
+{
+    "query": "What was the relationship between the person mentioned and Truman Capote (e.g., friend, colleague)?",
+    "response": [
+        "doc_3037.txt",
+        "doc_11928.txt",
+        "doc_1941.txt",
+        "doc_14537.txt",
+        "doc_22461.txt"
+    ]
+}

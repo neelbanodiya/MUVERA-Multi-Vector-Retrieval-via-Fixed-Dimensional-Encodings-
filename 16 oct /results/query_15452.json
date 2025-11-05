@@ -1,0 +1,10 @@
+{
+    "query": "What recommendation does the European Parliament fully support regarding pesticide use?",
+    "response": [
+        "doc_14344.txt",
+        "doc_8948.txt",
+        "doc_17243.txt",
+        "doc_12472.txt",
+        "doc_12469.txt"
+    ]
+}

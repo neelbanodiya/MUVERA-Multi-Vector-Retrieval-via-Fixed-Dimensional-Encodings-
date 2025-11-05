@@ -1,0 +1,10 @@
+{
+    "query": "What year was Roger Keyes killed in action?",
+    "response": [
+        "doc_19975.txt",
+        "doc_9675.txt",
+        "doc_6108.txt",
+        "doc_6113.txt",
+        "doc_7929.txt"
+    ]
+}

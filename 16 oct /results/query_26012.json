@@ -1,0 +1,10 @@
+{
+    "query": "What specific EU directives and human rights articles does the constituent cite as potentially being breached by the UK\u2019s cost-saving measures?",
+    "response": [
+        "doc_20298.txt",
+        "doc_9671.txt",
+        "doc_12419.txt",
+        "doc_13153.txt",
+        "doc_5474.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "The passage mentions a connection between French and English vocabulary. What specific area of terminology was influenced by French?",
+    "response": [
+        "doc_14707.txt",
+        "doc_14711.txt",
+        "doc_11721.txt",
+        "doc_12597.txt",
+        "doc_1125.txt"
+    ]
+}

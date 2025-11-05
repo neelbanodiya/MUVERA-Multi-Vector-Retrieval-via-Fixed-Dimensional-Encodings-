@@ -1,0 +1,10 @@
+{
+    "query": "When was Virginia founded?",
+    "response": [
+        "doc_10067.txt",
+        "doc_14861.txt",
+        "doc_19853.txt",
+        "doc_19851.txt",
+        "doc_2706.txt"
+    ]
+}

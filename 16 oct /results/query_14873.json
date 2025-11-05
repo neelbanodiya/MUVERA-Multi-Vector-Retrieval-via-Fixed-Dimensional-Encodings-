@@ -1,0 +1,10 @@
+{
+    "query": "Which imperial palace in Vienna is now a congress center?",
+    "response": [
+        "doc_8633.txt",
+        "doc_8635.txt",
+        "doc_8639.txt",
+        "doc_8643.txt",
+        "doc_8645.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the Reddit links, what is a key rule when subtracting in Roman numerals?",
+    "response": [
+        "doc_14587.txt",
+        "doc_14582.txt",
+        "doc_14598.txt",
+        "doc_14597.txt",
+        "doc_14584.txt"
+    ]
+}

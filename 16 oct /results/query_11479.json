@@ -1,0 +1,10 @@
+{
+    "query": "What characteristic does the passage state is absent throughout the novel *The Painted Bird*?",
+    "response": [
+        "doc_6679.txt",
+        "doc_6673.txt",
+        "doc_6675.txt",
+        "doc_10112.txt",
+        "doc_10100.txt"
+    ]
+}

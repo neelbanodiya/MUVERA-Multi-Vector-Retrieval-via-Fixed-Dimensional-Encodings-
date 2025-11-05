@@ -1,0 +1,10 @@
+{
+    "query": "What band performed the song \u201cFerry Cross the Mersey\u201d?",
+    "response": [
+        "doc_3489.txt",
+        "doc_3485.txt",
+        "doc_3492.txt",
+        "doc_3490.txt",
+        "doc_3483.txt"
+    ]
+}

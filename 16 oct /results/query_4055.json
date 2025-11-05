@@ -1,0 +1,10 @@
+{
+    "query": "What is the ranking of Portuguese among European (EU) languages in terms of the number of speakers?",
+    "response": [
+        "doc_6316.txt",
+        "doc_8835.txt",
+        "doc_3267.txt",
+        "doc_792.txt",
+        "doc_22046.txt"
+    ]
+}

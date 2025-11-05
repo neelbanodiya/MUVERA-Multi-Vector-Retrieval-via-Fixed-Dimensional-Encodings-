@@ -1,0 +1,10 @@
+{
+    "query": "How many different vowel sounds are identified in New Zealand English?",
+    "response": [
+        "doc_12379.txt",
+        "doc_12394.txt",
+        "doc_12392.txt",
+        "doc_12393.txt",
+        "doc_12395.txt"
+    ]
+}

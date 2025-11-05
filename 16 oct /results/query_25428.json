@@ -1,0 +1,10 @@
+{
+    "query": "What events are associated with the Metropolitan Museum of Art?",
+    "response": [
+        "doc_20379.txt",
+        "doc_20384.txt",
+        "doc_14728.txt",
+        "doc_20389.txt",
+        "doc_14729.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Why did Henry VIII create the Church of England?",
+    "response": [
+        "doc_23552.txt",
+        "doc_23550.txt",
+        "doc_23553.txt",
+        "doc_23547.txt",
+        "doc_23551.txt"
+    ]
+}

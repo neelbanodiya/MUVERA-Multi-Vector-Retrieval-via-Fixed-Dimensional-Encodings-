@@ -1,0 +1,10 @@
+{
+    "query": "What event was regularly associated with pageants in England?",
+    "response": [
+        "doc_20420.txt",
+        "doc_5858.txt",
+        "doc_20489.txt",
+        "doc_12180.txt",
+        "doc_23357.txt"
+    ]
+}

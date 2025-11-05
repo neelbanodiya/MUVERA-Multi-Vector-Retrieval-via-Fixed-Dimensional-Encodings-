@@ -1,0 +1,10 @@
+{
+    "query": "Who did Sugar Ray Leonard fight against Roberto Duran?",
+    "response": [
+        "doc_10583.txt",
+        "doc_10573.txt",
+        "doc_10587.txt",
+        "doc_10575.txt",
+        "doc_10584.txt"
+    ]
+}

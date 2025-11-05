@@ -1,0 +1,10 @@
+{
+    "query": "Which region in Thailand experienced a jellyfish invasion, leading to swimming bans?",
+    "response": [
+        "doc_6602.txt",
+        "doc_10500.txt",
+        "doc_19295.txt",
+        "doc_4062.txt",
+        "doc_10172.txt"
+    ]
+}

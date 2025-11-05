@@ -1,0 +1,10 @@
+{
+    "query": "Which companies are involved in the joint venture that created Treasure Island?",
+    "response": [
+        "doc_17203.txt",
+        "doc_20018.txt",
+        "doc_20013.txt",
+        "doc_20011.txt",
+        "doc_20015.txt"
+    ]
+}

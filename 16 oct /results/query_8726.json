@@ -1,0 +1,10 @@
+{
+    "query": "What does the passage state about Mormons and their relationship to the Bible?",
+    "response": [
+        "doc_5034.txt",
+        "doc_5033.txt",
+        "doc_5038.txt",
+        "doc_5042.txt",
+        "doc_5037.txt"
+    ]
+}

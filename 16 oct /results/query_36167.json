@@ -1,0 +1,10 @@
+{
+    "query": "What inspired the play and film *My Sister Eileen*?",
+    "response": [
+        "doc_21085.txt",
+        "doc_21090.txt",
+        "doc_21091.txt",
+        "doc_21086.txt",
+        "doc_21092.txt"
+    ]
+}

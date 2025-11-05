@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how far is Hannibal, Missouri, from Florida and Missouri?",
+    "response": [
+        "doc_17057.txt",
+        "doc_16254.txt",
+        "doc_4931.txt",
+        "doc_22790.txt",
+        "doc_8535.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was the outcome of the Ponta Delgada court\u2019s decision regarding the interim injunction?",
+    "response": [
+        "doc_6370.txt",
+        "doc_19130.txt",
+        "doc_9537.txt",
+        "doc_16893.txt",
+        "doc_22218.txt"
+    ]
+}

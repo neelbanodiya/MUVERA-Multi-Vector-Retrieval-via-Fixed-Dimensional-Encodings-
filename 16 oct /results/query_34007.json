@@ -1,0 +1,10 @@
+{
+    "query": "Which specific emissions are associated with carbon dioxide from business practices, as mentioned in the Green Mountain Energy report?",
+    "response": [
+        "doc_24019.txt",
+        "doc_19699.txt",
+        "doc_18289.txt",
+        "doc_5479.txt",
+        "doc_12680.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is Respighi\u2019s primary claim to popularity in twentieth-century Italian music?",
+    "response": [
+        "doc_20429.txt",
+        "doc_20424.txt",
+        "doc_20425.txt",
+        "doc_20430.txt",
+        "doc_20423.txt"
+    ]
+}

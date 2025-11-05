@@ -1,0 +1,10 @@
+{
+    "query": "Who likely created portraits done by hand in the Middle Ages, according to one of the linked articles?",
+    "response": [
+        "doc_24105.txt",
+        "doc_3691.txt",
+        "doc_7648.txt",
+        "doc_4692.txt",
+        "doc_20551.txt"
+    ]
+}

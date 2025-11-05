@@ -1,0 +1,10 @@
+{
+    "query": "When was the \u201cLittle Red Book\u201d (Quotations From Chairman Mao Tse-tung) first published?",
+    "response": [
+        "doc_20983.txt",
+        "doc_20991.txt",
+        "doc_20985.txt",
+        "doc_20987.txt",
+        "doc_20982.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What regulations have the European Parliament and Council adopted to ensure equal access to air and rail transport for passengers with reduced mobility?",
+    "response": [
+        "doc_23706.txt",
+        "doc_5616.txt",
+        "doc_2718.txt",
+        "doc_21904.txt",
+        "doc_5615.txt"
+    ]
+}

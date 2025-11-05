@@ -1,0 +1,10 @@
+{
+    "query": "Who played Mr. Theodore J. Mooney on *The Lucy Show*?",
+    "response": [
+        "doc_10353.txt",
+        "doc_10352.txt",
+        "doc_10361.txt",
+        "doc_10351.txt",
+        "doc_10360.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the price of the sale of Fuhu\u2019s assets?",
+    "response": [
+        "doc_3673.txt",
+        "doc_21703.txt",
+        "doc_22305.txt",
+        "doc_3867.txt",
+        "doc_23938.txt"
+    ]
+}

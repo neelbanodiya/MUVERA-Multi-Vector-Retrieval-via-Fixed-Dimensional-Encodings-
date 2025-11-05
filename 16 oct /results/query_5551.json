@@ -1,0 +1,10 @@
+{
+    "query": "How many years had the Palm d\u2019Or award been presented before Jane Campion won it?",
+    "response": [
+        "doc_11710.txt",
+        "doc_16990.txt",
+        "doc_2664.txt",
+        "doc_12893.txt",
+        "doc_23698.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What words appear frequently in the \u201cBrown Corpus list (Excel)\u201d?",
+    "response": [
+        "doc_16802.txt",
+        "doc_1498.txt",
+        "doc_12385.txt",
+        "doc_20886.txt",
+        "doc_13703.txt"
+    ]
+}

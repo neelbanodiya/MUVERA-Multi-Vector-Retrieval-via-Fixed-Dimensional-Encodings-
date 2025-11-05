@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is the European Parliament instructed to do with its position regarding the Commission\u2019s proposal?",
+    "response": [
+        "doc_16970.txt",
+        "doc_3243.txt",
+        "doc_18092.txt",
+        "doc_4526.txt",
+        "doc_11791.txt"
+    ]
+}

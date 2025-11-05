@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is Terpsichore associated with?",
+    "response": [
+        "doc_11998.txt",
+        "doc_7646.txt",
+        "doc_8265.txt",
+        "doc_20310.txt",
+        "doc_10253.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What status did Coca-Cola reach in the USA at its 50th anniversary?",
+    "response": [
+        "doc_21137.txt",
+        "doc_21136.txt",
+        "doc_21133.txt",
+        "doc_3697.txt",
+        "doc_12646.txt"
+    ]
+}

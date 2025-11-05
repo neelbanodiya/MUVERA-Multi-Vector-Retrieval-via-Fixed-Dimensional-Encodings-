@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, when was \u201cThe Gold-Bug\u201d written?",
+    "response": [
+        "doc_1812.txt",
+        "doc_1980.txt",
+        "doc_24144.txt",
+        "doc_21213.txt",
+        "doc_9400.txt"
+    ]
+}

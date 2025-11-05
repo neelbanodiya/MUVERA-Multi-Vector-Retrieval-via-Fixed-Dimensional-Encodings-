@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was a key characteristic of the demo versions of \u201cMy Generation\u201d recorded by The Who?",
+    "response": [
+        "doc_5278.txt",
+        "doc_18894.txt",
+        "doc_13613.txt",
+        "doc_13852.txt",
+        "doc_10751.txt"
+    ]
+}

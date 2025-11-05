@@ -1,0 +1,10 @@
+{
+    "query": "Which critics listed \"Universal Soldier: Regeneration\" as one of the top ten films of 2007?",
+    "response": [
+        "doc_16175.txt",
+        "doc_21619.txt",
+        "doc_12347.txt",
+        "doc_21620.txt",
+        "doc_3547.txt"
+    ]
+}

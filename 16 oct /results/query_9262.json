@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Muammar Gaddafi lead a military revolt that overthrew the ruling monarchy in Libya?",
+    "response": [
+        "doc_5349.txt",
+        "doc_5343.txt",
+        "doc_5344.txt",
+        "doc_5346.txt",
+        "doc_5345.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Chevrolet begin offering trucks, and what were they initially described as?",
+    "response": [
+        "doc_17165.txt",
+        "doc_17162.txt",
+        "doc_17164.txt",
+        "doc_17151.txt",
+        "doc_17153.txt"
+    ]
+}

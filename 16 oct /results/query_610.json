@@ -1,0 +1,10 @@
+{
+    "query": "How often does the Commission report to the European Parliament, Council, and Economic and Social Committee regarding European citizenship?",
+    "response": [
+        "doc_21025.txt",
+        "doc_15493.txt",
+        "doc_24052.txt",
+        "doc_13395.txt",
+        "doc_19523.txt"
+    ]
+}

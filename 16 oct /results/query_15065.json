@@ -1,0 +1,10 @@
+{
+    "query": "What form of verse was *Paradise Lost* written in?",
+    "response": [
+        "doc_8729.txt",
+        "doc_8728.txt",
+        "doc_10752.txt",
+        "doc_7527.txt",
+        "doc_7526.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the film *Arsenic and Old Lace* released?",
+    "response": [
+        "doc_21386.txt",
+        "doc_21385.txt",
+        "doc_21395.txt",
+        "doc_21901.txt",
+        "doc_14780.txt"
+    ]
+}

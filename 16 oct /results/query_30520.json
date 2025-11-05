@@ -1,0 +1,10 @@
+{
+    "query": "What song was sampled in the first version of \u201cSmack My Bitch Up\u201d by The Prodigy?",
+    "response": [
+        "doc_17731.txt",
+        "doc_17728.txt",
+        "doc_17717.txt",
+        "doc_14724.txt",
+        "doc_14727.txt"
+    ]
+}

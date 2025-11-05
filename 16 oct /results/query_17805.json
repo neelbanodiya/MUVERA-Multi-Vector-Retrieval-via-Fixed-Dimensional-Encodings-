@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate mean thickness of the Antarctic ice sheet?",
+    "response": [
+        "doc_10326.txt",
+        "doc_10325.txt",
+        "doc_10316.txt",
+        "doc_10323.txt",
+        "doc_10321.txt"
+    ]
+}

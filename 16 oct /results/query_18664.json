@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what are the three words used to describe the Jet?",
+    "response": [
+        "doc_9438.txt",
+        "doc_10095.txt",
+        "doc_19753.txt",
+        "doc_1594.txt",
+        "doc_19224.txt"
+    ]
+}

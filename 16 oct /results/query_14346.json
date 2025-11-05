@@ -1,0 +1,10 @@
+{
+    "query": "Who accuses Jackie Lynn of ruining her life?",
+    "response": [
+        "doc_18146.txt",
+        "doc_18147.txt",
+        "doc_6562.txt",
+        "doc_22843.txt",
+        "doc_32.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What color are the candles traditionally used in the Advent wreath?",
+    "response": [
+        "doc_9649.txt",
+        "doc_9648.txt",
+        "doc_9653.txt",
+        "doc_9650.txt",
+        "doc_9655.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Based on the provided texts, what historical period saw the writing of the earliest Old Testament books?",
+    "response": [
+        "doc_16520.txt",
+        "doc_5050.txt",
+        "doc_1224.txt",
+        "doc_7527.txt",
+        "doc_12139.txt"
+    ]
+}

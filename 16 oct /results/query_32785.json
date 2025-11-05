@@ -1,0 +1,10 @@
+{
+    "query": "In what year were The Kinks inducted into the Rock and Roll Hall of Fame?",
+    "response": [
+        "doc_2788.txt",
+        "doc_2782.txt",
+        "doc_2784.txt",
+        "doc_16635.txt",
+        "doc_2796.txt"
+    ]
+}

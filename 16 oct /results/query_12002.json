@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was the setting of *Mack & Mabel*?",
+    "response": [
+        "doc_7023.txt",
+        "doc_7024.txt",
+        "doc_7026.txt",
+        "doc_7021.txt",
+        "doc_21901.txt"
+    ]
+}

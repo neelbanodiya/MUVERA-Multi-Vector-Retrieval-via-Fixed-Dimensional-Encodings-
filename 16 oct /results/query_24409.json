@@ -1,0 +1,10 @@
+{
+    "query": "What is the current ranking of the World Trade Center in terms of height relative to other buildings?",
+    "response": [
+        "doc_14176.txt",
+        "doc_14166.txt",
+        "doc_14171.txt",
+        "doc_14173.txt",
+        "doc_14164.txt"
+    ]
+}

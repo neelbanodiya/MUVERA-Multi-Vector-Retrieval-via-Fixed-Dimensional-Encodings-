@@ -1,0 +1,10 @@
+{
+    "query": "What song became associated with the Pittsburgh Pirates during the 1979 World Series, largely due to Willie Stargell?",
+    "response": [
+        "doc_6868.txt",
+        "doc_6866.txt",
+        "doc_6870.txt",
+        "doc_6867.txt",
+        "doc_6871.txt"
+    ]
+}

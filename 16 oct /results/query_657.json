@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what kind of sightings have been reported at Loch Ness?",
+    "response": [
+        "doc_380.txt",
+        "doc_368.txt",
+        "doc_377.txt",
+        "doc_378.txt",
+        "doc_385.txt"
+    ]
+}

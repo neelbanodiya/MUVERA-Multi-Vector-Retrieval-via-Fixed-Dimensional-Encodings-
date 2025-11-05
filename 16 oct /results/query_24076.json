@@ -1,0 +1,10 @@
+{
+    "query": "Are there any specific locations in Texas where large fields of red and yellow wildflowers can be seen?",
+    "response": [
+        "doc_13965.txt",
+        "doc_13964.txt",
+        "doc_13963.txt",
+        "doc_13967.txt",
+        "doc_13970.txt"
+    ]
+}

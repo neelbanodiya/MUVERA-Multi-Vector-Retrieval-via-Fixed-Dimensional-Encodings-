@@ -1,0 +1,10 @@
+{
+    "query": "What European characters are featured in the story, and how are they described?",
+    "response": [
+        "doc_16485.txt",
+        "doc_3686.txt",
+        "doc_1848.txt",
+        "doc_1078.txt",
+        "doc_18761.txt"
+    ]
+}

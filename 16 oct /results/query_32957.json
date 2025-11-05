@@ -1,0 +1,10 @@
+{
+    "query": "On what date is Edwin J. Paxton presenting his numbers?",
+    "response": [
+        "doc_23671.txt",
+        "doc_3553.txt",
+        "doc_2955.txt",
+        "doc_2957.txt",
+        "doc_11910.txt"
+    ]
+}

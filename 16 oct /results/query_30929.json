@@ -1,0 +1,10 @@
+{
+    "query": "By what date should the European Parliament and the Council re-examine the collection rate and deadlines?",
+    "response": [
+        "doc_18022.txt",
+        "doc_18023.txt",
+        "doc_6173.txt",
+        "doc_3439.txt",
+        "doc_13349.txt"
+    ]
+}

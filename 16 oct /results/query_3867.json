@@ -1,0 +1,10 @@
+{
+    "query": "Are the volcanoes Mawenzi and Shira considered active or extinct?",
+    "response": [
+        "doc_2281.txt",
+        "doc_2274.txt",
+        "doc_22342.txt",
+        "doc_22341.txt",
+        "doc_3666.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What did Walt Disney create before Mickey Mouse?",
+    "response": [
+        "doc_17190.txt",
+        "doc_17195.txt",
+        "doc_17201.txt",
+        "doc_17199.txt",
+        "doc_17193.txt"
+    ]
+}

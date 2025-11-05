@@ -1,0 +1,10 @@
+{
+    "query": "On what date did the Parliament decide to deliver an opinion from the INTA committee?",
+    "response": [
+        "doc_4529.txt",
+        "doc_13140.txt",
+        "doc_17392.txt",
+        "doc_20750.txt",
+        "doc_17377.txt"
+    ]
+}

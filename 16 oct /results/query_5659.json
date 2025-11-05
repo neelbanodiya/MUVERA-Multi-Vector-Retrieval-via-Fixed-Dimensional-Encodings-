@@ -1,0 +1,10 @@
+{
+    "query": "What is the current difference between Tiger Woods and Jack Nicklaus in terms of major championship wins?",
+    "response": [
+        "doc_3291.txt",
+        "doc_3298.txt",
+        "doc_3288.txt",
+        "doc_19632.txt",
+        "doc_19627.txt"
+    ]
+}

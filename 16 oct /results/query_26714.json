@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Canada win their third gold medal in the Winter Games?",
+    "response": [
+        "doc_15506.txt",
+        "doc_15519.txt",
+        "doc_15504.txt",
+        "doc_15508.txt",
+        "doc_15509.txt"
+    ]
+}

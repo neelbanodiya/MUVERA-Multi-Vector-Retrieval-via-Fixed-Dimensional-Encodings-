@@ -1,0 +1,10 @@
+{
+    "query": "Which island is described as guarding the entrance to Manila Bay, and what role did it play in naval defenses?",
+    "response": [
+        "doc_11634.txt",
+        "doc_11630.txt",
+        "doc_11629.txt",
+        "doc_11633.txt",
+        "doc_11636.txt"
+    ]
+}

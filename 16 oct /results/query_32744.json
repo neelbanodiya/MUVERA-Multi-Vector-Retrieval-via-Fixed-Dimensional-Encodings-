@@ -1,0 +1,10 @@
+{
+    "query": "How long was the railway that ran from Kingston to Spanish Town?",
+    "response": [
+        "doc_28.txt",
+        "doc_19478.txt",
+        "doc_10696.txt",
+        "doc_516.txt",
+        "doc_12893.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What are some potential negative health effects associated with MSG (monosodium glutamate)?",
+    "response": [
+        "doc_5485.txt",
+        "doc_5483.txt",
+        "doc_5484.txt",
+        "doc_11229.txt",
+        "doc_18282.txt"
+    ]
+}

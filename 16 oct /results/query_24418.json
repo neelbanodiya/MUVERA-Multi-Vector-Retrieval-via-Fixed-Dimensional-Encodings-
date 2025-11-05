@@ -1,0 +1,10 @@
+{
+    "query": "What specific human rights violations are currently of concern in Iran, according to the passage?",
+    "response": [
+        "doc_21077.txt",
+        "doc_22957.txt",
+        "doc_14180.txt",
+        "doc_3062.txt",
+        "doc_3063.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was the size of some Chinese cities described?",
+    "response": [
+        "doc_1048.txt",
+        "doc_11060.txt",
+        "doc_7258.txt",
+        "doc_11047.txt",
+        "doc_22397.txt"
+    ]
+}

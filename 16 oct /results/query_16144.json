@@ -1,0 +1,10 @@
+{
+    "query": "What area of Arizona is home to the Petrified Forest National Park?",
+    "response": [
+        "doc_9328.txt",
+        "doc_9332.txt",
+        "doc_9324.txt",
+        "doc_9327.txt",
+        "doc_9326.txt"
+    ]
+}

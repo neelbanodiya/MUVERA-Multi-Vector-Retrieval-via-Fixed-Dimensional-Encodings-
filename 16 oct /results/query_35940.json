@@ -1,0 +1,10 @@
+{
+    "query": "What features were found on the Mammoth Cave map?",
+    "response": [
+        "doc_20874.txt",
+        "doc_20938.txt",
+        "doc_20875.txt",
+        "doc_4843.txt",
+        "doc_5086.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was Dwight D. Eisenhower\u2019s passing commemorated on a coin?",
+    "response": [
+        "doc_5910.txt",
+        "doc_6110.txt",
+        "doc_5911.txt",
+        "doc_3852.txt",
+        "doc_5925.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year was \u201cThe Musketeer\u201d released?",
+    "response": [
+        "doc_24187.txt",
+        "doc_24188.txt",
+        "doc_1231.txt",
+        "doc_9892.txt",
+        "doc_14780.txt"
+    ]
+}

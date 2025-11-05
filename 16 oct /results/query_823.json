@@ -1,0 +1,10 @@
+{
+    "query": "Does the Commission believe a European credit rating agency is necessary?",
+    "response": [
+        "doc_18300.txt",
+        "doc_474.txt",
+        "doc_8698.txt",
+        "doc_5832.txt",
+        "doc_11066.txt"
+    ]
+}

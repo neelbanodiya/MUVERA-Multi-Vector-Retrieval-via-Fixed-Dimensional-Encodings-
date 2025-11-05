@@ -1,0 +1,10 @@
+{
+    "query": "When did the Presidential $1 coin program begin?",
+    "response": [
+        "doc_5910.txt",
+        "doc_5925.txt",
+        "doc_5922.txt",
+        "doc_5911.txt",
+        "doc_5921.txt"
+    ]
+}

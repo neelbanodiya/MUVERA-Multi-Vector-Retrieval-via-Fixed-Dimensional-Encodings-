@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, who is described as the matriarch of the family in *The Grapes of Wrath*?",
+    "response": [
+        "doc_12560.txt",
+        "doc_7648.txt",
+        "doc_10866.txt",
+        "doc_6050.txt",
+        "doc_12559.txt"
+    ]
+}

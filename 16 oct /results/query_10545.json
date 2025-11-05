@@ -1,0 +1,10 @@
+{
+    "query": "What city is mentioned in relation to a soccer team (e.g., Argentina, Buenos Aires)?",
+    "response": [
+        "doc_15479.txt",
+        "doc_10507.txt",
+        "doc_8052.txt",
+        "doc_14308.txt",
+        "doc_4059.txt"
+    ]
+}

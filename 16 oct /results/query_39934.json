@@ -1,0 +1,10 @@
+{
+    "query": "What breed of cattle was more prevalent in the United States compared to other breeds?",
+    "response": [
+        "doc_23395.txt",
+        "doc_23385.txt",
+        "doc_23391.txt",
+        "doc_12883.txt",
+        "doc_12133.txt"
+    ]
+}

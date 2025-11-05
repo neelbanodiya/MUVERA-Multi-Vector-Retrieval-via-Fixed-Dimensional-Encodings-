@@ -1,0 +1,10 @@
+{
+    "query": "What was Todd accepted into in 2003?",
+    "response": [
+        "doc_22393.txt",
+        "doc_18244.txt",
+        "doc_1222.txt",
+        "doc_453.txt",
+        "doc_21942.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to one source, what was Reese Witherspoon\u2019s performance described as in *Legally Blonde*?",
+    "response": [
+        "doc_7740.txt",
+        "doc_7741.txt",
+        "doc_7739.txt",
+        "doc_7753.txt",
+        "doc_7757.txt"
+    ]
+}

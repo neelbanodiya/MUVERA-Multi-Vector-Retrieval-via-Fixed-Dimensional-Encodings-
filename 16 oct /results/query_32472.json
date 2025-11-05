@@ -1,0 +1,10 @@
+{
+    "query": "What Broadway show featured a Glasgow lad making his debut?",
+    "response": [
+        "doc_16925.txt",
+        "doc_15242.txt",
+        "doc_18858.txt",
+        "doc_15277.txt",
+        "doc_2264.txt"
+    ]
+}

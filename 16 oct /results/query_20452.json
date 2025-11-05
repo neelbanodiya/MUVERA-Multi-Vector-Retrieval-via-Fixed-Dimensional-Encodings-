@@ -1,0 +1,10 @@
+{
+    "query": "What action was the European Parliament instructed to take regarding its position on the proposal?",
+    "response": [
+        "doc_16970.txt",
+        "doc_16392.txt",
+        "doc_12932.txt",
+        "doc_4526.txt",
+        "doc_13210.txt"
+    ]
+}

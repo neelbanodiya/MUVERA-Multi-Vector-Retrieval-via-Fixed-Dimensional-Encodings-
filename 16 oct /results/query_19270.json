@@ -1,0 +1,10 @@
+{
+    "query": "In what city is the American Association of Blacks in Energy incorporated?",
+    "response": [
+        "doc_11169.txt",
+        "doc_11166.txt",
+        "doc_11168.txt",
+        "doc_15881.txt",
+        "doc_4612.txt"
+    ]
+}

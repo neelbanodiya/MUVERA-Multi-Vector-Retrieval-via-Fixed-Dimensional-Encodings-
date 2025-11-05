@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the book written by John Berendt?",
+    "response": [
+        "doc_9601.txt",
+        "doc_19420.txt",
+        "doc_21631.txt",
+        "doc_22248.txt",
+        "doc_19984.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was King Minos\u2019s relationship to Daedalus?",
+    "response": [
+        "doc_18210.txt",
+        "doc_18207.txt",
+        "doc_18208.txt",
+        "doc_18198.txt",
+        "doc_18209.txt"
+    ]
+}

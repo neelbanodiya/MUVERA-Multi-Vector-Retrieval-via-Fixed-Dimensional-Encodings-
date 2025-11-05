@@ -1,0 +1,10 @@
+{
+    "query": "According to the GSA document, what percentage of parking is reserved for alternative fuels and car sharing vehicles?",
+    "response": [
+        "doc_7874.txt",
+        "doc_11120.txt",
+        "doc_14545.txt",
+        "doc_18310.txt",
+        "doc_23211.txt"
+    ]
+}

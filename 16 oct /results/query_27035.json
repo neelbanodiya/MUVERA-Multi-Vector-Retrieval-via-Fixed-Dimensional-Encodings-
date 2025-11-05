@@ -1,0 +1,10 @@
+{
+    "query": "Where did Hunter S. Thompson live, and what was a notable local establishment associated with him?",
+    "response": [
+        "doc_15686.txt",
+        "doc_20257.txt",
+        "doc_23796.txt",
+        "doc_20608.txt",
+        "doc_18456.txt"
+    ]
+}

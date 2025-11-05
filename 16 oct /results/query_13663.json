@@ -1,0 +1,10 @@
+{
+    "query": "What is the highest point in Vermont, and what is its height?",
+    "response": [
+        "doc_7953.txt",
+        "doc_7956.txt",
+        "doc_7952.txt",
+        "doc_7958.txt",
+        "doc_9294.txt"
+    ]
+}

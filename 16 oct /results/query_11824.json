@@ -1,0 +1,10 @@
+{
+    "query": "Which actor played a Smoking Nazi on *Laugh In*?",
+    "response": [
+        "doc_18483.txt",
+        "doc_4466.txt",
+        "doc_14576.txt",
+        "doc_15121.txt",
+        "doc_17638.txt"
+    ]
+}

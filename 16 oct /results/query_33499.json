@@ -1,0 +1,10 @@
+{
+    "query": "In what publication was the resolution regarding the EU\u2019s economic and trade relations with India published?",
+    "response": [
+        "doc_3003.txt",
+        "doc_23613.txt",
+        "doc_18506.txt",
+        "doc_9742.txt",
+        "doc_5471.txt"
+    ]
+}

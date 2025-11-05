@@ -1,0 +1,10 @@
+{
+    "query": "What was the subject of the agreements forwarded by the Council?",
+    "response": [
+        "doc_13372.txt",
+        "doc_23660.txt",
+        "doc_7771.txt",
+        "doc_13175.txt",
+        "doc_18001.txt"
+    ]
+}

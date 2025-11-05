@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was the title of Chairman Mao\u2019s book, often referred to as \u201cThe Little Red Book\u201d?",
+    "response": [
+        "doc_20982.txt",
+        "doc_20991.txt",
+        "doc_20985.txt",
+        "doc_20983.txt",
+        "doc_20992.txt"
+    ]
+}

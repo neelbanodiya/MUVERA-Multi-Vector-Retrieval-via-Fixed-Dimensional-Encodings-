@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred after the Battle of Antietam that shifted the nature of the Civil War?",
+    "response": [
+        "doc_207.txt",
+        "doc_192.txt",
+        "doc_204.txt",
+        "doc_202.txt",
+        "doc_197.txt"
+    ]
+}

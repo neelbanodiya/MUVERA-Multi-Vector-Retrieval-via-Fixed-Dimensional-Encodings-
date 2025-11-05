@@ -1,0 +1,10 @@
+{
+    "query": "What is the Giro One described as?",
+    "response": [
+        "doc_6995.txt",
+        "doc_7788.txt",
+        "doc_11192.txt",
+        "doc_10861.txt",
+        "doc_17271.txt"
+    ]
+}

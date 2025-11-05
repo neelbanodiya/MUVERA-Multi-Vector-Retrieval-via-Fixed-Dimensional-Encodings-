@@ -1,0 +1,10 @@
+{
+    "query": "What is the Bologna Process and when was it initiated?",
+    "response": [
+        "doc_21849.txt",
+        "doc_2484.txt",
+        "doc_5374.txt",
+        "doc_15390.txt",
+        "doc_18526.txt"
+    ]
+}

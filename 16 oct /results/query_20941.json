@@ -1,0 +1,10 @@
+{
+    "query": "What geographical divisions make up the Philippines, according to the provided text?",
+    "response": [
+        "doc_12057.txt",
+        "doc_12059.txt",
+        "doc_12061.txt",
+        "doc_12060.txt",
+        "doc_4336.txt"
+    ]
+}

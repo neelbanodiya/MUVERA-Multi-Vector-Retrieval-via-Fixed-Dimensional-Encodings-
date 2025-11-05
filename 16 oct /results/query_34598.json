@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was a significant name for a character in Dickens\u2019s work?",
+    "response": [
+        "doc_20130.txt",
+        "doc_20127.txt",
+        "doc_20131.txt",
+        "doc_20128.txt",
+        "doc_20544.txt"
+    ]
+}

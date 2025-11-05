@@ -1,0 +1,10 @@
+{
+    "query": "Besides Joan Jett & The Blackhearts, which other notable musical acts are mentioned in the provided links?",
+    "response": [
+        "doc_22547.txt",
+        "doc_22555.txt",
+        "doc_22548.txt",
+        "doc_22552.txt",
+        "doc_3076.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where were Negro musicians performing, including at the Palace Theatre in London?",
+    "response": [
+        "doc_15244.txt",
+        "doc_15245.txt",
+        "doc_10559.txt",
+        "doc_22803.txt",
+        "doc_17097.txt"
+    ]
+}

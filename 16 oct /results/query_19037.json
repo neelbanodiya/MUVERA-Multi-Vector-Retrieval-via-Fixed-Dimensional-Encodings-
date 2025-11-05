@@ -1,0 +1,10 @@
+{
+    "query": "When was the annual visit to the European Court of Auditors in Luxembourg scheduled to take place?",
+    "response": [
+        "doc_11035.txt",
+        "doc_22326.txt",
+        "doc_9147.txt",
+        "doc_13347.txt",
+        "doc_2485.txt"
+    ]
+}

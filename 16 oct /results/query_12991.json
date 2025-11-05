@@ -1,0 +1,10 @@
+{
+    "query": "How many lessons are included in the \u201cJumping for Health\u201d curriculum?",
+    "response": [
+        "doc_7584.txt",
+        "doc_7300.txt",
+        "doc_5668.txt",
+        "doc_18879.txt",
+        "doc_2149.txt"
+    ]
+}

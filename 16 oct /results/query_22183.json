@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote \u201cThe Ox-Bow Incident\u201d?",
+    "response": [
+        "doc_12782.txt",
+        "doc_12785.txt",
+        "doc_12797.txt",
+        "doc_12784.txt",
+        "doc_12790.txt"
+    ]
+}

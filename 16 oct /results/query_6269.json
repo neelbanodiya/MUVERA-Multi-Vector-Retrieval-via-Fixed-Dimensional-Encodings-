@@ -1,0 +1,10 @@
+{
+    "query": "What retail companies are listed as customers of M*A*S Marketing Network?",
+    "response": [
+        "doc_3628.txt",
+        "doc_10563.txt",
+        "doc_12422.txt",
+        "doc_9359.txt",
+        "doc_3679.txt"
+    ]
+}

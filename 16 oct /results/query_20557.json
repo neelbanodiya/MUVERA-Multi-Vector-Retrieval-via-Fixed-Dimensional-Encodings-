@@ -1,0 +1,10 @@
+{
+    "query": "What action did Iraq take regarding its border in 1975?",
+    "response": [
+        "doc_13132.txt",
+        "doc_4103.txt",
+        "doc_22676.txt",
+        "doc_17474.txt",
+        "doc_8113.txt"
+    ]
+}

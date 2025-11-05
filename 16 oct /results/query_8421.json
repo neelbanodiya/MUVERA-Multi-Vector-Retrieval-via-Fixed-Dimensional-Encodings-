@@ -1,0 +1,10 @@
+{
+    "query": "What instruments does Wilson play in the David Frost Show?",
+    "response": [
+        "doc_718.txt",
+        "doc_20421.txt",
+        "doc_16772.txt",
+        "doc_16782.txt",
+        "doc_5245.txt"
+    ]
+}

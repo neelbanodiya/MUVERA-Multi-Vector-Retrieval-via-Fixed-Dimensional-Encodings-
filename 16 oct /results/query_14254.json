@@ -1,0 +1,10 @@
+{
+    "query": "What was \u201cTiny Toon Adventures: How I Spent My Vacation\u201d and who produced it?",
+    "response": [
+        "doc_8274.txt",
+        "doc_6702.txt",
+        "doc_18455.txt",
+        "doc_21371.txt",
+        "doc_17176.txt"
+    ]
+}

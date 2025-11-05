@@ -1,0 +1,10 @@
+{
+    "query": "Before working at CalArts, where did Ehn teach theater programs?",
+    "response": [
+        "doc_3312.txt",
+        "doc_10310.txt",
+        "doc_18386.txt",
+        "doc_22787.txt",
+        "doc_19136.txt"
+    ]
+}

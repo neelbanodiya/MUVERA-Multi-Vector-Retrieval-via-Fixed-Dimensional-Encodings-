@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the movie \u201cLetters from Iwo Jima\u201d released?",
+    "response": [
+        "doc_1580.txt",
+        "doc_8894.txt",
+        "doc_1812.txt",
+        "doc_8899.txt",
+        "doc_18754.txt"
+    ]
+}

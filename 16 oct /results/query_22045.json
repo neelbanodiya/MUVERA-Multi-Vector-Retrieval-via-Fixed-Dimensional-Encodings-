@@ -1,0 +1,10 @@
+{
+    "query": "What record was certified an official Guinness World Record in 2004, as documented by the Sword Swallowers Association?",
+    "response": [
+        "doc_12727.txt",
+        "doc_23981.txt",
+        "doc_14909.txt",
+        "doc_7381.txt",
+        "doc_7130.txt"
+    ]
+}

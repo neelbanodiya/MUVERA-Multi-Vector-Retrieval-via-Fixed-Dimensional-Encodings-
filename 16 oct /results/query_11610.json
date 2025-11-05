@@ -1,0 +1,10 @@
+{
+    "query": "Which car brands are players able to control in the single-player mode of Final Lap 2?",
+    "response": [
+        "doc_6756.txt",
+        "doc_6757.txt",
+        "doc_20659.txt",
+        "doc_8854.txt",
+        "doc_22936.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When did Marco Polo arrive in Venice after his absence?",
+    "response": [
+        "doc_2298.txt",
+        "doc_2302.txt",
+        "doc_2304.txt",
+        "doc_2309.txt",
+        "doc_2313.txt"
+    ]
+}

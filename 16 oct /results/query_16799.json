@@ -1,0 +1,10 @@
+{
+    "query": "What is the percentage of New Zealanders who have had a macula check?",
+    "response": [
+        "doc_10640.txt",
+        "doc_17261.txt",
+        "doc_4858.txt",
+        "doc_3935.txt",
+        "doc_3443.txt"
+    ]
+}

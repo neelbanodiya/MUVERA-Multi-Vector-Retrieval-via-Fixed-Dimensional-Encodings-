@@ -1,0 +1,10 @@
+{
+    "query": "According to multiple sources, what did Jesus specifically predict about Peter denying him?",
+    "response": [
+        "doc_23704.txt",
+        "doc_23703.txt",
+        "doc_23699.txt",
+        "doc_23698.txt",
+        "doc_23705.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the Tampere European Council conclusions, what was a priority in the programme of measures adopted at the Justice and Home Affairs Ministers\u2019 meeting?",
+    "response": [
+        "doc_19823.txt",
+        "doc_12932.txt",
+        "doc_14218.txt",
+        "doc_13160.txt",
+        "doc_15132.txt"
+    ]
+}

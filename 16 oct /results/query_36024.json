@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 9, what types of sanctions can be applied in addition to custodial sentences for offenses related to racism and xenophobia?",
+    "response": [
+        "doc_21014.txt",
+        "doc_21002.txt",
+        "doc_21018.txt",
+        "doc_21007.txt",
+        "doc_9029.txt"
+    ]
+}

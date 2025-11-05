@@ -1,0 +1,10 @@
+{
+    "query": "What was the total expenditure on administrative management according to the ISPA?",
+    "response": [
+        "doc_17611.txt",
+        "doc_17610.txt",
+        "doc_22217.txt",
+        "doc_22228.txt",
+        "doc_17585.txt"
+    ]
+}

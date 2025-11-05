@@ -1,0 +1,10 @@
+{
+    "query": "Which body of water is mentioned in connection with earthquakes and Bangladesh?",
+    "response": [
+        "doc_15952.txt",
+        "doc_15953.txt",
+        "doc_13328.txt",
+        "doc_12986.txt",
+        "doc_4335.txt"
+    ]
+}

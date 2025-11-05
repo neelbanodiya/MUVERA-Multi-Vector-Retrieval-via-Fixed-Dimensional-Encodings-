@@ -1,0 +1,9 @@
+{
+    "query": "What are the three distinct volcanic cones that make up Kilimanjaro?",
+    "response": [
+        "doc_2273.txt",
+        "doc_2274.txt",
+        "doc_2277.txt",
+        "doc_2276.txt"
+    ]
+}

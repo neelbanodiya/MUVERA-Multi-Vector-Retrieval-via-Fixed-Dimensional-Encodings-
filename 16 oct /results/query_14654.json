@@ -1,0 +1,10 @@
+{
+    "query": "Which film features the \u201cHeart of the Ocean\u201d necklace, and who wore it?",
+    "response": [
+        "doc_8473.txt",
+        "doc_8475.txt",
+        "doc_8471.txt",
+        "doc_8485.txt",
+        "doc_8477.txt"
+    ]
+}

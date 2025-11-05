@@ -1,0 +1,10 @@
+{
+    "query": "What is the significance of the bell named in honor of Sir Benjamin Hall?",
+    "response": [
+        "doc_9109.txt",
+        "doc_20103.txt",
+        "doc_7372.txt",
+        "doc_137.txt",
+        "doc_16128.txt"
+    ]
+}

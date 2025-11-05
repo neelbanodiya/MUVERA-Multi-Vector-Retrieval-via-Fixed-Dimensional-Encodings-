@@ -1,0 +1,10 @@
+{
+    "query": "How many events were there in total at the 1920 Winter Olympics?",
+    "response": [
+        "doc_15504.txt",
+        "doc_15512.txt",
+        "doc_24158.txt",
+        "doc_15514.txt",
+        "doc_15506.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of the US population tests positive for the HLA-B27 gene?",
+    "response": [
+        "doc_12883.txt",
+        "doc_8972.txt",
+        "doc_20356.txt",
+        "doc_20364.txt",
+        "doc_1553.txt"
+    ]
+}

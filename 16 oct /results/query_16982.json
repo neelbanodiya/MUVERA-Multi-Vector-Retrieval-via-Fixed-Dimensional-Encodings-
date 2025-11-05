@@ -1,0 +1,10 @@
+{
+    "query": "What recognition did *The Tin Drum* receive after its publication in 1959?",
+    "response": [
+        "doc_4165.txt",
+        "doc_4164.txt",
+        "doc_10527.txt",
+        "doc_3697.txt",
+        "doc_4169.txt"
+    ]
+}

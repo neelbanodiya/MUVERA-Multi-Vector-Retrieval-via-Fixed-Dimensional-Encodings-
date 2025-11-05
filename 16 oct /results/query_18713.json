@@ -1,0 +1,10 @@
+{
+    "query": "What is Ares\u2019s Roman equivalent?",
+    "response": [
+        "doc_14772.txt",
+        "doc_14770.txt",
+        "doc_5304.txt",
+        "doc_8789.txt",
+        "doc_12551.txt"
+    ]
+}

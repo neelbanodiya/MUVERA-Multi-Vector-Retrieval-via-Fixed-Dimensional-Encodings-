@@ -1,0 +1,10 @@
+{
+    "query": "What Roman goddess is Eos assimilated with?",
+    "response": [
+        "doc_14775.txt",
+        "doc_14774.txt",
+        "doc_12559.txt",
+        "doc_12550.txt",
+        "doc_10875.txt"
+    ]
+}

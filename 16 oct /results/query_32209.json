@@ -1,0 +1,10 @@
+{
+    "query": "What types of performances did Tamara Karsavina entertain friends with?",
+    "response": [
+        "doc_18769.txt",
+        "doc_18764.txt",
+        "doc_9887.txt",
+        "doc_18770.txt",
+        "doc_18765.txt"
+    ]
+}

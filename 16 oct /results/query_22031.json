@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the official premiere of \u201cThe High Fructose Adventures of Annoying Orange\u201d take place?",
+    "response": [
+        "doc_12718.txt",
+        "doc_3700.txt",
+        "doc_13613.txt",
+        "doc_14909.txt",
+        "doc_1580.txt"
+    ]
+}

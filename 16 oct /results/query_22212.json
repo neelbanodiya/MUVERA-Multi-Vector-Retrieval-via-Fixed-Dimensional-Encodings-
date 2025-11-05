@@ -1,0 +1,10 @@
+{
+    "query": "What was the total EU grant amount audited by 31 December 2009?",
+    "response": [
+        "doc_17551.txt",
+        "doc_12810.txt",
+        "doc_12809.txt",
+        "doc_19134.txt",
+        "doc_17522.txt"
+    ]
+}

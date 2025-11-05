@@ -1,0 +1,10 @@
+{
+    "query": "What is Jeff Probst\u2019s astrological sign?",
+    "response": [
+        "doc_21288.txt",
+        "doc_21297.txt",
+        "doc_6080.txt",
+        "doc_6095.txt",
+        "doc_21298.txt"
+    ]
+}

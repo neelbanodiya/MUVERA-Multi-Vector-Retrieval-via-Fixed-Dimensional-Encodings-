@@ -1,0 +1,10 @@
+{
+    "query": "When did King George VI die?",
+    "response": [
+        "doc_9756.txt",
+        "doc_9758.txt",
+        "doc_9757.txt",
+        "doc_9755.txt",
+        "doc_9760.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How has the commerce of the Great Lakes changed over time?",
+    "response": [
+        "doc_10604.txt",
+        "doc_66.txt",
+        "doc_10173.txt",
+        "doc_18084.txt",
+        "doc_20098.txt"
+    ]
+}

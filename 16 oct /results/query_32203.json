@@ -1,0 +1,10 @@
+{
+    "query": "Who choreographed the music for Anna Pavlova\u2019s solo dance in \u201cThe Firebird\u201d?",
+    "response": [
+        "doc_18764.txt",
+        "doc_18765.txt",
+        "doc_18768.txt",
+        "doc_18771.txt",
+        "doc_23546.txt"
+    ]
+}

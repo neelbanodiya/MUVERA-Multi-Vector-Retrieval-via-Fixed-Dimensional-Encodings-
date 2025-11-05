@@ -1,0 +1,10 @@
+{
+    "query": "Who did Susanne Lautenbacher study violin with?",
+    "response": [
+        "doc_21901.txt",
+        "doc_10450.txt",
+        "doc_16778.txt",
+        "doc_16780.txt",
+        "doc_23066.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Have the Greek and Cypriot governments consented to the opening of this EU office in the occupied sector?",
+    "response": [
+        "doc_21234.txt",
+        "doc_9276.txt",
+        "doc_1272.txt",
+        "doc_9473.txt",
+        "doc_5453.txt"
+    ]
+}

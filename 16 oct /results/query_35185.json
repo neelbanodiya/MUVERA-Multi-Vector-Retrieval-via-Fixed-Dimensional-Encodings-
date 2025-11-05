@@ -1,0 +1,10 @@
+{
+    "query": "What was the date of the EU-Russia Summit discussed in the passage?",
+    "response": [
+        "doc_16787.txt",
+        "doc_1034.txt",
+        "doc_1036.txt",
+        "doc_18365.txt",
+        "doc_1035.txt"
+    ]
+}

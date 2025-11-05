@@ -1,0 +1,10 @@
+{
+    "query": "What film directed by Ingmar Bergman was referenced in one of the provided links?",
+    "response": [
+        "doc_7680.txt",
+        "doc_2231.txt",
+        "doc_20567.txt",
+        "doc_18753.txt",
+        "doc_7766.txt"
+    ]
+}

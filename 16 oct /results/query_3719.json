@@ -1,0 +1,10 @@
+{
+    "query": "Besides starring in *Edward Scissorhands*, what other recognition did Johnny Depp receive in 2003 (according to one of the provided links)?",
+    "response": [
+        "doc_23289.txt",
+        "doc_2191.txt",
+        "doc_4469.txt",
+        "doc_23285.txt",
+        "doc_23290.txt"
+    ]
+}

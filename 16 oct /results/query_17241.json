@@ -1,0 +1,10 @@
+{
+    "query": "Who played the part of old-time film actress in the Munsters TV series?",
+    "response": [
+        "doc_23203.txt",
+        "doc_7071.txt",
+        "doc_1968.txt",
+        "doc_728.txt",
+        "doc_19019.txt"
+    ]
+}

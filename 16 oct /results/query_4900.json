@@ -1,0 +1,10 @@
+{
+    "query": "According to Article 3 of Directive 2002/65/EC, what type of services are covered?",
+    "response": [
+        "doc_2847.txt",
+        "doc_15350.txt",
+        "doc_3008.txt",
+        "doc_21018.txt",
+        "doc_18307.txt"
+    ]
+}

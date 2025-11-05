@@ -1,0 +1,10 @@
+{
+    "query": "Who was the first U.N. Secretary-General?",
+    "response": [
+        "doc_15223.txt",
+        "doc_15224.txt",
+        "doc_15231.txt",
+        "doc_15232.txt",
+        "doc_44.txt"
+    ]
+}

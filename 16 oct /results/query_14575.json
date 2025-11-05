@@ -1,0 +1,10 @@
+{
+    "query": "What is the largest freshwater island in the British Isles, and in which lake is it located?",
+    "response": [
+        "doc_8426.txt",
+        "doc_8434.txt",
+        "doc_8439.txt",
+        "doc_8441.txt",
+        "doc_8427.txt"
+    ]
+}

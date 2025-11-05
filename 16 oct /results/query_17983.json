@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what action is the United Kingdom undertaking regarding the risk of nonylphenol (NP)?",
+    "response": [
+        "doc_10405.txt",
+        "doc_16370.txt",
+        "doc_5829.txt",
+        "doc_17890.txt",
+        "doc_10588.txt"
+    ]
+}

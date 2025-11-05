@@ -1,0 +1,10 @@
+{
+    "query": "Besides almond paste, what other ingredients are frequently found in rich Italian dessert recipes mentioned in the text?",
+    "response": [
+        "doc_23456.txt",
+        "doc_23448.txt",
+        "doc_23452.txt",
+        "doc_23445.txt",
+        "doc_23449.txt"
+    ]
+}

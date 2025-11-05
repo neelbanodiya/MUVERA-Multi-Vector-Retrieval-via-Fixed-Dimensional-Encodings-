@@ -1,0 +1,10 @@
+{
+    "query": "What type of films were not referred to as \u201cgendai geki\u201d during the Japanese period?",
+    "response": [
+        "doc_12347.txt",
+        "doc_791.txt",
+        "doc_789.txt",
+        "doc_797.txt",
+        "doc_7145.txt"
+    ]
+}

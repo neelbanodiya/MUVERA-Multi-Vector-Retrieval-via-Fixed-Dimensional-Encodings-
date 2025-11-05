@@ -1,0 +1,10 @@
+{
+    "query": "Which committees are assisting the Commission in the context of Articles 2, 4, and 11?",
+    "response": [
+        "doc_3018.txt",
+        "doc_9749.txt",
+        "doc_20781.txt",
+        "doc_21820.txt",
+        "doc_3019.txt"
+    ]
+}

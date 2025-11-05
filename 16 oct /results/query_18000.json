@@ -1,0 +1,10 @@
+{
+    "query": "In 1781, what action did British forces take regarding Fort Griswold and New London, Connecticut?",
+    "response": [
+        "doc_10419.txt",
+        "doc_10414.txt",
+        "doc_10416.txt",
+        "doc_10409.txt",
+        "doc_10407.txt"
+    ]
+}

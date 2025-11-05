@@ -1,0 +1,10 @@
+{
+    "query": "Which motion picture won the Academy Award for Best Documentary Feature?",
+    "response": [
+        "doc_4919.txt",
+        "doc_4909.txt",
+        "doc_22715.txt",
+        "doc_23511.txt",
+        "doc_21157.txt"
+    ]
+}

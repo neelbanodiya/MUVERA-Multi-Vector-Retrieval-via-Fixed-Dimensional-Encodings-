@@ -1,0 +1,10 @@
+{
+    "query": "Which Twilight Zone episode did William Shatner adapt his own short story for?",
+    "response": [
+        "doc_7765.txt",
+        "doc_9401.txt",
+        "doc_15116.txt",
+        "doc_12639.txt",
+        "doc_12638.txt"
+    ]
+}

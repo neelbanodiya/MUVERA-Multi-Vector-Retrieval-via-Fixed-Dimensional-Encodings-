@@ -1,0 +1,10 @@
+{
+    "query": "What Billboard Hot 100 chart position did \u201cStayin\u2019 Alive\u201d achieve in 1990?",
+    "response": [
+        "doc_12338.txt",
+        "doc_15322.txt",
+        "doc_899.txt",
+        "doc_13736.txt",
+        "doc_22547.txt"
+    ]
+}

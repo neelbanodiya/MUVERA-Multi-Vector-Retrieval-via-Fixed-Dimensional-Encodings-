@@ -1,0 +1,10 @@
+{
+    "query": "What type of art does the London-based artist create?",
+    "response": [
+        "doc_10095.txt",
+        "doc_9060.txt",
+        "doc_10167.txt",
+        "doc_20397.txt",
+        "doc_3686.txt"
+    ]
+}

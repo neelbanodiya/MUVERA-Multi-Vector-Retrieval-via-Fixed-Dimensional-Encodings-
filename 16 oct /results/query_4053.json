@@ -1,0 +1,10 @@
+{
+    "query": "What record did Ichiro Suzuki pass on June 15, 2016, while playing against the San Diego Padres?",
+    "response": [
+        "doc_2368.txt",
+        "doc_6203.txt",
+        "doc_22292.txt",
+        "doc_20081.txt",
+        "doc_5705.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year did Volvo engineer Nils Bohlin invent the V-type three-point safety belt?",
+    "response": [
+        "doc_23475.txt",
+        "doc_23479.txt",
+        "doc_23474.txt",
+        "doc_23476.txt",
+        "doc_23484.txt"
+    ]
+}

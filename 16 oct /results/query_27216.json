@@ -1,0 +1,10 @@
+{
+    "query": "What color is the grass at Tiger Stadium?",
+    "response": [
+        "doc_15810.txt",
+        "doc_16878.txt",
+        "doc_16876.txt",
+        "doc_9592.txt",
+        "doc_10634.txt"
+    ]
+}

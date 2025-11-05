@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the manga \u201cRuff Love\u201d released by Aurora Publishing in North America?",
+    "response": [
+        "doc_11777.txt",
+        "doc_5278.txt",
+        "doc_18583.txt",
+        "doc_11318.txt",
+        "doc_17770.txt"
+    ]
+}

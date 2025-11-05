@@ -1,0 +1,10 @@
+{
+    "query": "Which EU directives address unfair practices related to e-communications and consumer protection?",
+    "response": [
+        "doc_3701.txt",
+        "doc_2828.txt",
+        "doc_3702.txt",
+        "doc_14814.txt",
+        "doc_16439.txt"
+    ]
+}

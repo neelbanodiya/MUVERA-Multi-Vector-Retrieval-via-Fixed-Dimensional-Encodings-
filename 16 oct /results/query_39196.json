@@ -1,0 +1,10 @@
+{
+    "query": "How is the Arabian Gulf connected to the Gulf of Oman?",
+    "response": [
+        "doc_22940.txt",
+        "doc_22942.txt",
+        "doc_22943.txt",
+        "doc_22938.txt",
+        "doc_22937.txt"
+    ]
+}

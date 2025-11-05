@@ -1,0 +1,10 @@
+{
+    "query": "Where does Honest John take Pinocchio, and who is the puppet master there?",
+    "response": [
+        "doc_20622.txt",
+        "doc_20619.txt",
+        "doc_20624.txt",
+        "doc_14866.txt",
+        "doc_620.txt"
+    ]
+}

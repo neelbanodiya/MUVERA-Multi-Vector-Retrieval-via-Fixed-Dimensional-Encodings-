@@ -1,0 +1,10 @@
+{
+    "query": "What specific type of fraudulent activity is occurring in Greece involving telephone companies and their customers?",
+    "response": [
+        "doc_3701.txt",
+        "doc_3702.txt",
+        "doc_5651.txt",
+        "doc_20298.txt",
+        "doc_21827.txt"
+    ]
+}

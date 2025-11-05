@@ -1,0 +1,10 @@
+{
+    "query": "An episode of the History Channel\u2019s \u201cModern Marvels\u201d featured this landmark seen here: (in San Francisco)",
+    "response": [
+        "doc_2118.txt",
+        "doc_2116.txt",
+        "doc_2114.txt",
+        "doc_2124.txt",
+        "doc_2121.txt"
+    ]
+}

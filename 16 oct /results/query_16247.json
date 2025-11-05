@@ -1,0 +1,10 @@
+{
+    "query": "According to the New York Times article, how does the plant-based pollution tool work?",
+    "response": [
+        "doc_22951.txt",
+        "doc_8948.txt",
+        "doc_2859.txt",
+        "doc_14884.txt",
+        "doc_6876.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which television show, produced by San Francisco-based RADIUM, featured a 30-second animation of the MTV logo?",
+    "response": [
+        "doc_2121.txt",
+        "doc_2118.txt",
+        "doc_8468.txt",
+        "doc_9892.txt",
+        "doc_14817.txt"
+    ]
+}

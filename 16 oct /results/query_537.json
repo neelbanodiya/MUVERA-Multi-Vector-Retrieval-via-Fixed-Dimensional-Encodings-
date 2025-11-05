@@ -1,0 +1,10 @@
+{
+    "query": "What does the Italian phrase \u201cYou are always in my heart\u201d mean in relation to the title of the opera, *Cavalleria Rusticana*?",
+    "response": [
+        "doc_323.txt",
+        "doc_335.txt",
+        "doc_330.txt",
+        "doc_332.txt",
+        "doc_333.txt"
+    ]
+}

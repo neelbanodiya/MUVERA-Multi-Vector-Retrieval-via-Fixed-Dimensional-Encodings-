@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, what was Lucifer originally named?",
+    "response": [
+        "doc_20628.txt",
+        "doc_20627.txt",
+        "doc_20644.txt",
+        "doc_20646.txt",
+        "doc_14775.txt"
+    ]
+}

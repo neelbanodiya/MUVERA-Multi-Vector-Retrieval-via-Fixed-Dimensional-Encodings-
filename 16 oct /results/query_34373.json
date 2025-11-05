@@ -1,0 +1,10 @@
+{
+    "query": "What Beach Boys song features lyrics written in 1963?",
+    "response": [
+        "doc_19991.txt",
+        "doc_19989.txt",
+        "doc_19988.txt",
+        "doc_19986.txt",
+        "doc_19999.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was displayed at the altar in the Vatican Basilica for the Holy Veil?",
+    "response": [
+        "doc_9316.txt",
+        "doc_9311.txt",
+        "doc_9304.txt",
+        "doc_9307.txt",
+        "doc_9303.txt"
+    ]
+}

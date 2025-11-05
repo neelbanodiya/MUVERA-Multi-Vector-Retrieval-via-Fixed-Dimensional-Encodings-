@@ -1,0 +1,10 @@
+{
+    "query": "What percentage increase in Star Wars merchandising sales is mentioned in the text?",
+    "response": [
+        "doc_8415.txt",
+        "doc_8418.txt",
+        "doc_14840.txt",
+        "doc_21601.txt",
+        "doc_1798.txt"
+    ]
+}

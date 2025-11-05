@@ -1,0 +1,10 @@
+{
+    "query": "What Council Decision determined the legal basis for the Schengen acquis?",
+    "response": [
+        "doc_7288.txt",
+        "doc_7290.txt",
+        "doc_7287.txt",
+        "doc_6013.txt",
+        "doc_15328.txt"
+    ]
+}

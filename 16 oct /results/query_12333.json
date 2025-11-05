@@ -1,0 +1,10 @@
+{
+    "query": "What is the core premise of the original Gilmore Girls series?",
+    "response": [
+        "doc_7181.txt",
+        "doc_2928.txt",
+        "doc_22140.txt",
+        "doc_21615.txt",
+        "doc_21371.txt"
+    ]
+}

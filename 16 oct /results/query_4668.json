@@ -1,0 +1,9 @@
+{
+    "query": "What was the New York Jets' record in the 1964 season?",
+    "response": [
+        "doc_2700.txt",
+        "doc_2701.txt",
+        "doc_2702.txt",
+        "doc_2703.txt"
+    ]
+}

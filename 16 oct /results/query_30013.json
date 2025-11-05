@@ -1,0 +1,10 @@
+{
+    "query": "How does a CT scan differ from an X-ray, according to the provided information?",
+    "response": [
+        "doc_17452.txt",
+        "doc_17446.txt",
+        "doc_17459.txt",
+        "doc_17454.txt",
+        "doc_17447.txt"
+    ]
+}

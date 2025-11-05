@@ -1,0 +1,10 @@
+{
+    "query": "Several sources suggest connections between Opus Dei and figures like Valery Giscard d'Estaing; can you identify one of these connections based on the text?",
+    "response": [
+        "doc_628.txt",
+        "doc_627.txt",
+        "doc_9856.txt",
+        "doc_17758.txt",
+        "doc_19776.txt"
+    ]
+}

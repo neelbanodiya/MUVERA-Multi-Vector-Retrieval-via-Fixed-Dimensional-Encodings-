@@ -1,0 +1,10 @@
+{
+    "query": "Where is Bloomingdale\u2019s located?",
+    "response": [
+        "doc_23872.txt",
+        "doc_23504.txt",
+        "doc_21029.txt",
+        "doc_23871.txt",
+        "doc_21028.txt"
+    ]
+}

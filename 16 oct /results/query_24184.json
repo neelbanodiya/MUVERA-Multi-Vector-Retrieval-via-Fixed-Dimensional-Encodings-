@@ -1,0 +1,10 @@
+{
+    "query": "How many dams did the author and JP portage around?",
+    "response": [
+        "doc_17758.txt",
+        "doc_17759.txt",
+        "doc_6834.txt",
+        "doc_14860.txt",
+        "doc_3559.txt"
+    ]
+}

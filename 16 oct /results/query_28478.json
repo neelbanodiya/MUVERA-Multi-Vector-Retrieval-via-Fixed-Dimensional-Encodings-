@@ -1,0 +1,10 @@
+{
+    "query": "What role did John Wayne play in the movie *The Conqueror*?",
+    "response": [
+        "doc_23281.txt",
+        "doc_23286.txt",
+        "doc_23280.txt",
+        "doc_23292.txt",
+        "doc_23291.txt"
+    ]
+}

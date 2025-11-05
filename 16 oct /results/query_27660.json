@@ -1,0 +1,10 @@
+{
+    "query": "Who co-wrote the paper that Brown and Batygin set out to disprove?",
+    "response": [
+        "doc_20133.txt",
+        "doc_14009.txt",
+        "doc_12832.txt",
+        "doc_12833.txt",
+        "doc_1321.txt"
+    ]
+}

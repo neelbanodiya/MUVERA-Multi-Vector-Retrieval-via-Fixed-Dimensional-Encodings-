@@ -1,0 +1,10 @@
+{
+    "query": "Approximately when did the American Civil War take place, as referenced in the context of Whitman\u2019s work?",
+    "response": [
+        "doc_194.txt",
+        "doc_207.txt",
+        "doc_4066.txt",
+        "doc_203.txt",
+        "doc_13035.txt"
+    ]
+}

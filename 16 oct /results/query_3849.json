@@ -1,0 +1,10 @@
+{
+    "query": "In what year were the 1st Primetime Emmy Awards presented, and where did the ceremony take place?",
+    "response": [
+        "doc_2263.txt",
+        "doc_4570.txt",
+        "doc_2264.txt",
+        "doc_2265.txt",
+        "doc_17913.txt"
+    ]
+}

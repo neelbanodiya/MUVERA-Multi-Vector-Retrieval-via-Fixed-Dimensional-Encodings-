@@ -1,0 +1,10 @@
+{
+    "query": "In what draft was Anthony Stewart selected by the Florida Panthers?",
+    "response": [
+        "doc_5390.txt",
+        "doc_21943.txt",
+        "doc_21942.txt",
+        "doc_20936.txt",
+        "doc_6723.txt"
+    ]
+}

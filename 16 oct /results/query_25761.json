@@ -1,0 +1,10 @@
+{
+    "query": "Which committee is holding the hearing on the European Institute of Technology?",
+    "response": [
+        "doc_2053.txt",
+        "doc_14346.txt",
+        "doc_13217.txt",
+        "doc_1146.txt",
+        "doc_8250.txt"
+    ]
+}

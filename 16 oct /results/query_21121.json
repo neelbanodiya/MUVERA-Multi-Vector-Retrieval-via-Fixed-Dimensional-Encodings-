@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Mars begin printing small \u201cm\u201ds on M&M\u2019s pieces?",
+    "response": [
+        "doc_12190.txt",
+        "doc_12191.txt",
+        "doc_12196.txt",
+        "doc_12198.txt",
+        "doc_12195.txt"
+    ]
+}

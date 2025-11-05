@@ -1,0 +1,10 @@
+{
+    "query": "In what mountain range is Crater Lake National Park located?",
+    "response": [
+        "doc_3323.txt",
+        "doc_18128.txt",
+        "doc_3325.txt",
+        "doc_3320.txt",
+        "doc_18134.txt"
+    ]
+}

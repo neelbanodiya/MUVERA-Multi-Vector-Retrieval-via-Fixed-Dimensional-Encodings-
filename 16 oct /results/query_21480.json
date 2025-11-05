@@ -1,0 +1,10 @@
+{
+    "query": "Which committee is the presentation regarding the Hungarian Presidency\u2019s priorities for?",
+    "response": [
+        "doc_12378.txt",
+        "doc_24002.txt",
+        "doc_19290.txt",
+        "doc_397.txt",
+        "doc_16315.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "On which television network did the first episode of \u201cLady for a Day\u201d air?",
+    "response": [
+        "doc_9515.txt",
+        "doc_6604.txt",
+        "doc_309.txt",
+        "doc_17176.txt",
+        "doc_493.txt"
+    ]
+}

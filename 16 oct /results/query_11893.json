@@ -1,0 +1,10 @@
+{
+    "query": "In what country is the Jeep Renegade (BU) produced alongside the Fiat 500X?",
+    "response": [
+        "doc_6918.txt",
+        "doc_6919.txt",
+        "doc_6920.txt",
+        "doc_24118.txt",
+        "doc_14259.txt"
+    ]
+}

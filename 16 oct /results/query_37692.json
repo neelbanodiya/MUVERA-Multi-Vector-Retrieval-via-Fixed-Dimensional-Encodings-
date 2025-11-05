@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what are parents suing Nintendo for?",
+    "response": [
+        "doc_4104.txt",
+        "doc_19043.txt",
+        "doc_10010.txt",
+        "doc_22920.txt",
+        "doc_6653.txt"
+    ]
+}

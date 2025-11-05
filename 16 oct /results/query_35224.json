@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what did Dickens declare in the 1841 preface to *Oliver Twist*?",
+    "response": [
+        "doc_20552.txt",
+        "doc_20551.txt",
+        "doc_20541.txt",
+        "doc_20540.txt",
+        "doc_20542.txt"
+    ]
+}

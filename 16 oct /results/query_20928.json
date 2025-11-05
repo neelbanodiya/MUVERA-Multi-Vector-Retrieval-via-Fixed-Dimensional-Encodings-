@@ -1,0 +1,10 @@
+{
+    "query": "Between which countries is the Philippines geographically located \u2013 to the north, west, and south?",
+    "response": [
+        "doc_12058.txt",
+        "doc_12063.txt",
+        "doc_12057.txt",
+        "doc_12061.txt",
+        "doc_12059.txt"
+    ]
+}

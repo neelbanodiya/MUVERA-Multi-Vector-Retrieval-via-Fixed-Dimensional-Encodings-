@@ -1,0 +1,10 @@
+{
+    "query": "How much of the American Recovery and Reinvestment Act of 2009 has been spent, as tracked by ProPublica?",
+    "response": [
+        "doc_22952.txt",
+        "doc_16565.txt",
+        "doc_10453.txt",
+        "doc_19696.txt",
+        "doc_5560.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which artists are mentioned in the same sentence as Janis Joplin, suggesting a connection to the \"27 Club\"?",
+    "response": [
+        "doc_6299.txt",
+        "doc_10095.txt",
+        "doc_12351.txt",
+        "doc_5794.txt",
+        "doc_1310.txt"
+    ]
+}

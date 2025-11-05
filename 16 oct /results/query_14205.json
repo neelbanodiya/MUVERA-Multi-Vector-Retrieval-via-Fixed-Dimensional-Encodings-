@@ -1,0 +1,10 @@
+{
+    "query": "What was the initial news leaked to the employees of the DHL site at Blanc Mesnil?",
+    "response": [
+        "doc_8250.txt",
+        "doc_4831.txt",
+        "doc_8051.txt",
+        "doc_21771.txt",
+        "doc_19860.txt"
+    ]
+}

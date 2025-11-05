@@ -1,0 +1,10 @@
+{
+    "query": "Which tournament did Fahad Al-Muwallad qualify his team for with a winning goal?",
+    "response": [
+        "doc_24229.txt",
+        "doc_24230.txt",
+        "doc_24228.txt",
+        "doc_9921.txt",
+        "doc_6490.txt"
+    ]
+}

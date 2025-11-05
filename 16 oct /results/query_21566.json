@@ -1,0 +1,10 @@
+{
+    "query": "Who purchased the Yankees in 1915?",
+    "response": [
+        "doc_12433.txt",
+        "doc_4242.txt",
+        "doc_12432.txt",
+        "doc_22791.txt",
+        "doc_7630.txt"
+    ]
+}

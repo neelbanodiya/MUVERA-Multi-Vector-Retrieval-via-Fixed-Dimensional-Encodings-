@@ -1,0 +1,10 @@
+{
+    "query": "In what theater of operations did Westmoreland\u2019s battalion fight before deploying to Vietnam?",
+    "response": [
+        "doc_18899.txt",
+        "doc_1483.txt",
+        "doc_2315.txt",
+        "doc_4954.txt",
+        "doc_10419.txt"
+    ]
+}

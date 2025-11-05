@@ -1,0 +1,10 @@
+{
+    "query": "Which two venomous lizards are mentioned as being found in the southwestern United States and Mexico?",
+    "response": [
+        "doc_12300.txt",
+        "doc_12295.txt",
+        "doc_12294.txt",
+        "doc_12298.txt",
+        "doc_12311.txt"
+    ]
+}

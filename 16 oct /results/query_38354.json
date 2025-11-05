@@ -1,0 +1,10 @@
+{
+    "query": "Which Major League Baseball franchises have never won a pennant (league championship)?",
+    "response": [
+        "doc_22499.txt",
+        "doc_22500.txt",
+        "doc_22501.txt",
+        "doc_24139.txt",
+        "doc_12442.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which film series is Sylvester Stallone most known for, and what is a notable aspect of those films?",
+    "response": [
+        "doc_16961.txt",
+        "doc_22832.txt",
+        "doc_8191.txt",
+        "doc_22830.txt",
+        "doc_4194.txt"
+    ]
+}

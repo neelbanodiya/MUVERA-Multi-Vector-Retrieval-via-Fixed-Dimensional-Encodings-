@@ -1,0 +1,10 @@
+{
+    "query": "Who is Nicaragua\u2019s greatest poet, and what is the name of the park dedicated to him?",
+    "response": [
+        "doc_14501.txt",
+        "doc_14499.txt",
+        "doc_14507.txt",
+        "doc_14503.txt",
+        "doc_14512.txt"
+    ]
+}

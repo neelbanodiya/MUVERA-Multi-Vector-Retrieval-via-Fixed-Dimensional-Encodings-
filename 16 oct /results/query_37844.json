@@ -1,0 +1,10 @@
+{
+    "query": "Which Vienna hotels are listed as being located in the first district?",
+    "response": [
+        "doc_22182.txt",
+        "doc_22180.txt",
+        "doc_22183.txt",
+        "doc_8639.txt",
+        "doc_8635.txt"
+    ]
+}

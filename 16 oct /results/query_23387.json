@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was Paul McCartney\u2019s reception like in Brazil?",
+    "response": [
+        "doc_19193.txt",
+        "doc_22803.txt",
+        "doc_9805.txt",
+        "doc_22033.txt",
+        "doc_19668.txt"
+    ]
+}

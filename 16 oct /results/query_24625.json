@@ -1,0 +1,10 @@
+{
+    "query": "What river is Buenos Aires located on, and which other countries does its drainage basin include?",
+    "response": [
+        "doc_14308.txt",
+        "doc_14306.txt",
+        "doc_14307.txt",
+        "doc_20163.txt",
+        "doc_4336.txt"
+    ]
+}

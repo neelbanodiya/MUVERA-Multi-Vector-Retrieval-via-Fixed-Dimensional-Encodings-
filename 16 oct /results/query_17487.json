@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which capital city is located in Algeria and has nearly 3 million inhabitants?",
+    "response": [
+        "doc_10128.txt",
+        "doc_22691.txt",
+        "doc_10130.txt",
+        "doc_15479.txt",
+        "doc_10127.txt"
+    ]
+}

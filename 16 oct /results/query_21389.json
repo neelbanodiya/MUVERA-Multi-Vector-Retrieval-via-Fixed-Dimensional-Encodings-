@@ -1,0 +1,10 @@
+{
+    "query": "What bands are John Lennon and Ringo Starr associated with?",
+    "response": [
+        "doc_3076.txt",
+        "doc_12339.txt",
+        "doc_10075.txt",
+        "doc_6337.txt",
+        "doc_20901.txt"
+    ]
+}

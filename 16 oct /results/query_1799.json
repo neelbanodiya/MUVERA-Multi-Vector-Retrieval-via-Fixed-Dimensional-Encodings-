@@ -1,0 +1,10 @@
+{
+    "query": "Which fashion publications did Rushka Bergman contribute to?",
+    "response": [
+        "doc_21599.txt",
+        "doc_5491.txt",
+        "doc_20931.txt",
+        "doc_5490.txt",
+        "doc_19456.txt"
+    ]
+}

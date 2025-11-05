@@ -1,0 +1,10 @@
+{
+    "query": "Does the passage suggest that the euro\u2019s appreciation is causing a problem for European industry?",
+    "response": [
+        "doc_19815.txt",
+        "doc_19527.txt",
+        "doc_5472.txt",
+        "doc_4750.txt",
+        "doc_17612.txt"
+    ]
+}

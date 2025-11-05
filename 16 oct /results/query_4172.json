@@ -1,0 +1,10 @@
+{
+    "query": "Who founded the School of Fine Arts?",
+    "response": [
+        "doc_20408.txt",
+        "doc_135.txt",
+        "doc_6612.txt",
+        "doc_9024.txt",
+        "doc_4607.txt"
+    ]
+}

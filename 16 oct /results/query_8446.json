@@ -1,0 +1,10 @@
+{
+    "query": "Which region in Finland is eligible for the phasing in scheme?",
+    "response": [
+        "doc_4904.txt",
+        "doc_21478.txt",
+        "doc_17612.txt",
+        "doc_9782.txt",
+        "doc_14159.txt"
+    ]
+}

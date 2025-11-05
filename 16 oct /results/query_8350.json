@@ -1,0 +1,10 @@
+{
+    "query": "What is the official record-keeper for the City of Springfield, according to the website?",
+    "response": [
+        "doc_12164.txt",
+        "doc_4818.txt",
+        "doc_5425.txt",
+        "doc_23796.txt",
+        "doc_4482.txt"
+    ]
+}

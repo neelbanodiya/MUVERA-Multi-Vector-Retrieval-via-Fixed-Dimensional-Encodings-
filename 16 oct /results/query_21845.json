@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is Aeschylus known for adding to his plays?",
+    "response": [
+        "doc_9555.txt",
+        "doc_19425.txt",
+        "doc_1848.txt",
+        "doc_16737.txt",
+        "doc_8272.txt"
+    ]
+}

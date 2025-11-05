@@ -1,0 +1,10 @@
+{
+    "query": "Which actress was reportedly considered for the role of Lolita in Stanley Kubrick\u2019s film?",
+    "response": [
+        "doc_17778.txt",
+        "doc_4631.txt",
+        "doc_18755.txt",
+        "doc_90.txt",
+        "doc_14684.txt"
+    ]
+}

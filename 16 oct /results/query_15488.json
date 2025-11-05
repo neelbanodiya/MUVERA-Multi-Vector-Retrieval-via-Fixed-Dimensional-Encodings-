@@ -1,0 +1,10 @@
+{
+    "query": "What was the topic of the conference held in St. Paul, Minnesota, in August 2016?",
+    "response": [
+        "doc_18075.txt",
+        "doc_18078.txt",
+        "doc_5275.txt",
+        "doc_9933.txt",
+        "doc_22540.txt"
+    ]
+}

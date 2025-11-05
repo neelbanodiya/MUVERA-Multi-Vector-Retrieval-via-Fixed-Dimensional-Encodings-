@@ -1,0 +1,10 @@
+{
+    "query": "What country is Jane Campion from, and what is her profession according to the provided text?",
+    "response": [
+        "doc_12949.txt",
+        "doc_12945.txt",
+        "doc_12950.txt",
+        "doc_1306.txt",
+        "doc_11310.txt"
+    ]
+}

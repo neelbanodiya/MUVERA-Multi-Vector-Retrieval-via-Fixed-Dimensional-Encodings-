@@ -1,0 +1,10 @@
+{
+    "query": "What is Salieri considered a pivotal figure in the development of?",
+    "response": [
+        "doc_2837.txt",
+        "doc_3084.txt",
+        "doc_10031.txt",
+        "doc_2836.txt",
+        "doc_6371.txt"
+    ]
+}

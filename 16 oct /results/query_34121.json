@@ -1,0 +1,10 @@
+{
+    "query": "Between which two volcanic mountains was the Karisoke Research Center located?",
+    "response": [
+        "doc_22341.txt",
+        "doc_9619.txt",
+        "doc_7640.txt",
+        "doc_8559.txt",
+        "doc_5142.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many U.S. Amateur championships did Tiger Woods win consecutively before turning professional?",
+    "response": [
+        "doc_19624.txt",
+        "doc_19623.txt",
+        "doc_19634.txt",
+        "doc_19625.txt",
+        "doc_19628.txt"
+    ]
+}

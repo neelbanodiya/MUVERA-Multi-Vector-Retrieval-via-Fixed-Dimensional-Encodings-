@@ -1,0 +1,10 @@
+{
+    "query": "Which countries are being called upon to examine the Joint Investigation Group\u2019s final report?",
+    "response": [
+        "doc_3090.txt",
+        "doc_3539.txt",
+        "doc_20348.txt",
+        "doc_10839.txt",
+        "doc_17370.txt"
+    ]
+}

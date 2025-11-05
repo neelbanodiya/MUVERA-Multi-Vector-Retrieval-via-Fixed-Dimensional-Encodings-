@@ -1,0 +1,10 @@
+{
+    "query": "Which groups submitted motions regarding the OSCE?",
+    "response": [
+        "doc_6800.txt",
+        "doc_4130.txt",
+        "doc_20518.txt",
+        "doc_23220.txt",
+        "doc_939.txt"
+    ]
+}

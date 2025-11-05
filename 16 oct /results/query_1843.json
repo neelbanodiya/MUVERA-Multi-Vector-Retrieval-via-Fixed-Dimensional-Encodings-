@@ -1,0 +1,10 @@
+{
+    "query": "According to one article, what was Donald Trump\u2019s difficulty when asked to perform a simple multiplication problem (17 x 6)?",
+    "response": [
+        "doc_1055.txt",
+        "doc_22931.txt",
+        "doc_19298.txt",
+        "doc_2878.txt",
+        "doc_21972.txt"
+    ]
+}

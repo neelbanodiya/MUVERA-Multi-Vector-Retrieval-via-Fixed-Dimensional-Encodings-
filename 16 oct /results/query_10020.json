@@ -1,0 +1,10 @@
+{
+    "query": "When did the U.S. Marines operate in the Persian Gulf?",
+    "response": [
+        "doc_8237.txt",
+        "doc_23464.txt",
+        "doc_6482.txt",
+        "doc_16036.txt",
+        "doc_13501.txt"
+    ]
+}

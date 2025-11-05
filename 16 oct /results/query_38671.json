@@ -1,0 +1,10 @@
+{
+    "query": "What specific gate is mentioned as a route to the Acropolis?",
+    "response": [
+        "doc_22652.txt",
+        "doc_22658.txt",
+        "doc_22654.txt",
+        "doc_22665.txt",
+        "doc_22657.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided snippets, what is the name of the first major work of English literature?",
+    "response": [
+        "doc_8270.txt",
+        "doc_17979.txt",
+        "doc_11909.txt",
+        "doc_20548.txt",
+        "doc_2883.txt"
+    ]
+}

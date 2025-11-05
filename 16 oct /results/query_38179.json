@@ -1,0 +1,10 @@
+{
+    "query": "By 2000 BCE, what region did Babylon control?",
+    "response": [
+        "doc_22397.txt",
+        "doc_22398.txt",
+        "doc_7211.txt",
+        "doc_4335.txt",
+        "doc_22403.txt"
+    ]
+}

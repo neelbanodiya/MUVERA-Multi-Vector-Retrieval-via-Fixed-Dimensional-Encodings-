@@ -1,0 +1,10 @@
+{
+    "query": "When was the move of the Discovery facility described in one of the linked documents?",
+    "response": [
+        "doc_3879.txt",
+        "doc_11010.txt",
+        "doc_20875.txt",
+        "doc_23415.txt",
+        "doc_3187.txt"
+    ]
+}

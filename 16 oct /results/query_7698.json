@@ -1,0 +1,10 @@
+{
+    "query": "Which show won 22 Emmy Awards, including one for Pee-Wee\u2019s Playhouse?",
+    "response": [
+        "doc_4470.txt",
+        "doc_2264.txt",
+        "doc_2266.txt",
+        "doc_4472.txt",
+        "doc_4458.txt"
+    ]
+}

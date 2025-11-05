@@ -1,0 +1,10 @@
+{
+    "query": "What is the most important monument of the ancient Acropolis?",
+    "response": [
+        "doc_5415.txt",
+        "doc_5414.txt",
+        "doc_22657.txt",
+        "doc_22658.txt",
+        "doc_5416.txt"
+    ]
+}

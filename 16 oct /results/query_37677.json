@@ -1,0 +1,10 @@
+{
+    "query": "How was Jenny Lind\u2019s singing improved by her training?",
+    "response": [
+        "doc_22085.txt",
+        "doc_22079.txt",
+        "doc_22077.txt",
+        "doc_22082.txt",
+        "doc_22083.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many flights were involved in the Berlin Airlift, and what quantity of supplies were delivered?",
+    "response": [
+        "doc_875.txt",
+        "doc_870.txt",
+        "doc_874.txt",
+        "doc_887.txt",
+        "doc_886.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What types of performances does the Royal Theater in Copenhagen present?",
+    "response": [
+        "doc_3970.txt",
+        "doc_3976.txt",
+        "doc_3977.txt",
+        "doc_3971.txt",
+        "doc_3975.txt"
+    ]
+}

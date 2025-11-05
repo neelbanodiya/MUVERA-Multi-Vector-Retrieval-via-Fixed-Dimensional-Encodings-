@@ -1,0 +1,10 @@
+{
+    "query": "According to the 2015 Annual Report, what type of service does a particular graduate provide?",
+    "response": [
+        "doc_4536.txt",
+        "doc_3266.txt",
+        "doc_2852.txt",
+        "doc_4537.txt",
+        "doc_1787.txt"
+    ]
+}

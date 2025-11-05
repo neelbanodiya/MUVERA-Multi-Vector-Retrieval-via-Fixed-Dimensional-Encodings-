@@ -1,0 +1,10 @@
+{
+    "query": "What is Stewart Granger\u2019s real name?",
+    "response": [
+        "doc_19682.txt",
+        "doc_18822.txt",
+        "doc_21942.txt",
+        "doc_20140.txt",
+        "doc_348.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which town in Queensland was named after its founder, Robert Towns?",
+    "response": [
+        "doc_1764.txt",
+        "doc_1768.txt",
+        "doc_1776.txt",
+        "doc_1778.txt",
+        "doc_1773.txt"
+    ]
+}

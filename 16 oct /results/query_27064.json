@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the bay shared by New Brunswick and Maine?",
+    "response": [
+        "doc_9249.txt",
+        "doc_3656.txt",
+        "doc_2259.txt",
+        "doc_21029.txt",
+        "doc_138.txt"
+    ]
+}

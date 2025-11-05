@@ -1,0 +1,10 @@
+{
+    "query": "Who is Dale Gizmo McCracken?",
+    "response": [
+        "doc_15715.txt",
+        "doc_3883.txt",
+        "doc_12718.txt",
+        "doc_1717.txt",
+        "doc_1220.txt"
+    ]
+}

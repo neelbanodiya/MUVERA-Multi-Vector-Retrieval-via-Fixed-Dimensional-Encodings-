@@ -1,0 +1,10 @@
+{
+    "query": "Who is referred to as the \u201cchief of gods\u201d in Greek tradition, as mentioned in one of the linked articles?",
+    "response": [
+        "doc_5712.txt",
+        "doc_2466.txt",
+        "doc_9932.txt",
+        "doc_10874.txt",
+        "doc_14775.txt"
+    ]
+}

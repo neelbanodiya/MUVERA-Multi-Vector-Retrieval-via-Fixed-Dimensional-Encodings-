@@ -1,0 +1,10 @@
+{
+    "query": "What is the unique design of the Holmenkollen Airbnb penthouse?",
+    "response": [
+        "doc_17864.txt",
+        "doc_17861.txt",
+        "doc_17863.txt",
+        "doc_17859.txt",
+        "doc_17858.txt"
+    ]
+}

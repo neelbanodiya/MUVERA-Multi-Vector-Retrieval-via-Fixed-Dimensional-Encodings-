@@ -1,0 +1,10 @@
+{
+    "query": "In what city did Chokwe Lumumba serve as Mayor?",
+    "response": [
+        "doc_7255.txt",
+        "doc_7254.txt",
+        "doc_1764.txt",
+        "doc_18607.txt",
+        "doc_12543.txt"
+    ]
+}

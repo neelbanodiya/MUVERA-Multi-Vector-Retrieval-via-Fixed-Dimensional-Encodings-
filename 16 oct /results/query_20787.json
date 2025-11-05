@@ -1,0 +1,10 @@
+{
+    "query": "What does the name \u201cTerpsichore\u201d mean?",
+    "response": [
+        "doc_23177.txt",
+        "doc_20162.txt",
+        "doc_4404.txt",
+        "doc_1389.txt",
+        "doc_4400.txt"
+    ]
+}

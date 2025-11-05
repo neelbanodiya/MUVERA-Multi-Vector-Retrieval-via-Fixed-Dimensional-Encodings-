@@ -1,0 +1,10 @@
+{
+    "query": "Where is \u201cdarkness\u201d located in the Belgian Congo?",
+    "response": [
+        "doc_15478.txt",
+        "doc_16490.txt",
+        "doc_6187.txt",
+        "doc_19182.txt",
+        "doc_3656.txt"
+    ]
+}

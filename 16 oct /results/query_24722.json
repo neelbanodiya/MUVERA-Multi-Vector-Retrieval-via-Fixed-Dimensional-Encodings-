@@ -1,0 +1,10 @@
+{
+    "query": "What type of art does David Zinn create?",
+    "response": [
+        "doc_5492.txt",
+        "doc_14371.txt",
+        "doc_9060.txt",
+        "doc_6959.txt",
+        "doc_14424.txt"
+    ]
+}

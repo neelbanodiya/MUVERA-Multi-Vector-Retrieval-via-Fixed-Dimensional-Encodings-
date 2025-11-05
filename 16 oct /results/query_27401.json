@@ -1,0 +1,10 @@
+{
+    "query": "What two specific questions is the Commission being asked regarding future payments and compliance?",
+    "response": [
+        "doc_8159.txt",
+        "doc_18505.txt",
+        "doc_11438.txt",
+        "doc_16745.txt",
+        "doc_4438.txt"
+    ]
+}

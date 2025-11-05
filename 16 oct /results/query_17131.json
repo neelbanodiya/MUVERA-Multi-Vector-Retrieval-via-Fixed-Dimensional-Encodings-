@@ -1,0 +1,10 @@
+{
+    "query": "Which actress is known for her role as \u201cHari\u201d in Andrei Tarkovsky\u2019s \u201cSolaris\u201d?",
+    "response": [
+        "doc_10767.txt",
+        "doc_8476.txt",
+        "doc_18755.txt",
+        "doc_6408.txt",
+        "doc_10446.txt"
+    ]
+}

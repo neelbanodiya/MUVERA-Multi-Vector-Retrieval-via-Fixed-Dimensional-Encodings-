@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Miami University established?",
+    "response": [
+        "doc_19359.txt",
+        "doc_19362.txt",
+        "doc_19360.txt",
+        "doc_19363.txt",
+        "doc_135.txt"
+    ]
+}

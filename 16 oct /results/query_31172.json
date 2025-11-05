@@ -1,0 +1,10 @@
+{
+    "query": "What types of exhibits and films are featured at the Titanic: The Artifact Exhibition?",
+    "response": [
+        "doc_11054.txt",
+        "doc_8507.txt",
+        "doc_6335.txt",
+        "doc_20938.txt",
+        "doc_15848.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many Primetime Emmy Awards did *Lost* receive?",
+    "response": [
+        "doc_2265.txt",
+        "doc_4458.txt",
+        "doc_4470.txt",
+        "doc_4464.txt",
+        "doc_2266.txt"
+    ]
+}

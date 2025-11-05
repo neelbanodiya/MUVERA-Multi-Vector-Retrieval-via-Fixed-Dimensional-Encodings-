@@ -1,0 +1,10 @@
+{
+    "query": "When did Stephen Foster promise his parents not to pay attention to his music?",
+    "response": [
+        "doc_13685.txt",
+        "doc_3820.txt",
+        "doc_15772.txt",
+        "doc_10194.txt",
+        "doc_15771.txt"
+    ]
+}

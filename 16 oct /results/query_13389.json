@@ -1,0 +1,10 @@
+{
+    "query": "What type of food did Jeff Smith cover in \u201cThe Frugal Gourmet\u201d?",
+    "response": [
+        "doc_7831.txt",
+        "doc_7820.txt",
+        "doc_7818.txt",
+        "doc_7821.txt",
+        "doc_7824.txt"
+    ]
+}

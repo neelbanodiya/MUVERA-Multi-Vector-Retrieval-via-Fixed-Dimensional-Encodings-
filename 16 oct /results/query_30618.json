@@ -1,0 +1,10 @@
+{
+    "query": "What are some examples of film musicals besides adaptations of Broadway musicals?",
+    "response": [
+        "doc_22312.txt",
+        "doc_17095.txt",
+        "doc_17097.txt",
+        "doc_21090.txt",
+        "doc_17109.txt"
+    ]
+}

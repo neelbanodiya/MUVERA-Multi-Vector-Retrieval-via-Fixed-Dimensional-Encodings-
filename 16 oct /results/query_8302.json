@@ -1,0 +1,10 @@
+{
+    "query": "What was the Chiricahua Apache tribe\u2019s territory, as described in one of the linked documents?",
+    "response": [
+        "doc_15353.txt",
+        "doc_23893.txt",
+        "doc_23891.txt",
+        "doc_23888.txt",
+        "doc_23889.txt"
+    ]
+}

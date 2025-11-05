@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is a criticism of \u201cThe Lost World: Jurassic Park\u201d?",
+    "response": [
+        "doc_12872.txt",
+        "doc_12877.txt",
+        "doc_12873.txt",
+        "doc_12874.txt",
+        "doc_12871.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what metropolitan statistical area is Bartow, Florida located?",
+    "response": [
+        "doc_16629.txt",
+        "doc_15881.txt",
+        "doc_22790.txt",
+        "doc_22792.txt",
+        "doc_3185.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who did he admit it to on the Oprah Winfrey show?",
+    "response": [
+        "doc_7607.txt",
+        "doc_14528.txt",
+        "doc_15759.txt",
+        "doc_16050.txt",
+        "doc_16337.txt"
+    ]
+}

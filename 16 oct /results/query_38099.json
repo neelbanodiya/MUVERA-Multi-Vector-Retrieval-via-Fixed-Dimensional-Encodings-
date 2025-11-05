@@ -1,0 +1,10 @@
+{
+    "query": "What specific international relations priorities does the World Parliament list regarding EU-US relations?",
+    "response": [
+        "doc_22332.txt",
+        "doc_22333.txt",
+        "doc_19898.txt",
+        "doc_4663.txt",
+        "doc_17208.txt"
+    ]
+}

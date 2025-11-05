@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was the Little Red Book intended to achieve?",
+    "response": [
+        "doc_20542.txt",
+        "doc_18582.txt",
+        "doc_10103.txt",
+        "doc_22131.txt",
+        "doc_19142.txt"
+    ]
+}

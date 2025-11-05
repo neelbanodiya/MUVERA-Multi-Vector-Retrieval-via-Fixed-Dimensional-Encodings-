@@ -1,0 +1,10 @@
+{
+    "query": "According to data from Member States, what are the approximate recreational catches of sea bass and cod?",
+    "response": [
+        "doc_4482.txt",
+        "doc_10157.txt",
+        "doc_8912.txt",
+        "doc_20138.txt",
+        "doc_4896.txt"
+    ]
+}

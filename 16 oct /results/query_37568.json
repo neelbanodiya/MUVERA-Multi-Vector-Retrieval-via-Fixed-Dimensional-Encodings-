@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Makino Botanical Garden posthumously awarded the Order of Culture?",
+    "response": [
+        "doc_22012.txt",
+        "doc_22017.txt",
+        "doc_22021.txt",
+        "doc_22019.txt",
+        "doc_12344.txt"
+    ]
+}

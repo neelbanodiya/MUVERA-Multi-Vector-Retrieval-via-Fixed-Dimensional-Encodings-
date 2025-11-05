@@ -1,0 +1,10 @@
+{
+    "query": "Which dignitaries will be present at the Open Day, and what is the purpose of Queen Paola\u2019s visit?",
+    "response": [
+        "doc_21440.txt",
+        "doc_462.txt",
+        "doc_1306.txt",
+        "doc_10216.txt",
+        "doc_5414.txt"
+    ]
+}

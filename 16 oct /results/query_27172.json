@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what ingredients are commonly found in a Greek lamb gyro recipe?",
+    "response": [
+        "doc_15781.txt",
+        "doc_15780.txt",
+        "doc_15779.txt",
+        "doc_5794.txt",
+        "doc_14363.txt"
+    ]
+}

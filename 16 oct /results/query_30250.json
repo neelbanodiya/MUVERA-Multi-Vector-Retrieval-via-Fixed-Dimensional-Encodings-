@@ -1,0 +1,10 @@
+{
+    "query": "What percentage decrease occurred in R&D spending on sustainable energy systems in 2006?",
+    "response": [
+        "doc_6096.txt",
+        "doc_3254.txt",
+        "doc_6655.txt",
+        "doc_19177.txt",
+        "doc_22187.txt"
+    ]
+}

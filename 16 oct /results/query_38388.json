@@ -1,0 +1,10 @@
+{
+    "query": "What specific entities are defined as \u201cparticipants\u201d within the context of the Directive?",
+    "response": [
+        "doc_24032.txt",
+        "doc_24047.txt",
+        "doc_24037.txt",
+        "doc_22515.txt",
+        "doc_22517.txt"
+    ]
+}

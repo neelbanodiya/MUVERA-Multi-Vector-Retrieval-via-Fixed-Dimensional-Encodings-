@@ -1,0 +1,10 @@
+{
+    "query": "Which actor played the role of Randy Taylor on *Home Improvement*?",
+    "response": [
+        "doc_18627.txt",
+        "doc_18629.txt",
+        "doc_18633.txt",
+        "doc_18634.txt",
+        "doc_20159.txt"
+    ]
+}

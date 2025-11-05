@@ -1,0 +1,10 @@
+{
+    "query": "What activities were Eve and the person involved in?",
+    "response": [
+        "doc_4625.txt",
+        "doc_4626.txt",
+        "doc_20487.txt",
+        "doc_8315.txt",
+        "doc_6467.txt"
+    ]
+}

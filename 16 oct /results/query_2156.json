@@ -1,0 +1,10 @@
+{
+    "query": "How hot is the atmosphere above Jupiter\u2019s Great Red Spot?",
+    "response": [
+        "doc_1282.txt",
+        "doc_1289.txt",
+        "doc_1283.txt",
+        "doc_1285.txt",
+        "doc_1287.txt"
+    ]
+}

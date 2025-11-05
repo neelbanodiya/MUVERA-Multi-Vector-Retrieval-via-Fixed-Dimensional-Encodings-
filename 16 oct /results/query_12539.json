@@ -1,0 +1,10 @@
+{
+    "query": "What was the origin of the name of the city on the Neva River, as suggested by one of the texts?",
+    "response": [
+        "doc_4335.txt",
+        "doc_5420.txt",
+        "doc_18212.txt",
+        "doc_5428.txt",
+        "doc_5413.txt"
+    ]
+}

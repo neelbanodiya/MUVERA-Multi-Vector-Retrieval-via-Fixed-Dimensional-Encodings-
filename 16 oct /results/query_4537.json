@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of the area located on Roxas Boulevard?",
+    "response": [
+        "doc_2618.txt",
+        "doc_2631.txt",
+        "doc_2629.txt",
+        "doc_2626.txt",
+        "doc_2621.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was the last WWE The Great American Bash event held?",
+    "response": [
+        "doc_13010.txt",
+        "doc_13007.txt",
+        "doc_20955.txt",
+        "doc_13008.txt",
+        "doc_13009.txt"
+    ]
+}

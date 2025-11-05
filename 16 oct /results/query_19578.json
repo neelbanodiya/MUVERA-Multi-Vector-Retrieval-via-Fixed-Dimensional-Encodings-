@@ -1,0 +1,10 @@
+{
+    "query": "What type of band is the Baranger Jazz Band?",
+    "response": [
+        "doc_16349.txt",
+        "doc_18912.txt",
+        "doc_19460.txt",
+        "doc_19463.txt",
+        "doc_16350.txt"
+    ]
+}

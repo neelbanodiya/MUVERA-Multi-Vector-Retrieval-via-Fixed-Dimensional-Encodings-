@@ -1,0 +1,10 @@
+{
+    "query": "What architectural style is the W. W. Orr Building characterized by?",
+    "response": [
+        "doc_7371.txt",
+        "doc_7370.txt",
+        "doc_19972.txt",
+        "doc_20383.txt",
+        "doc_20382.txt"
+    ]
+}

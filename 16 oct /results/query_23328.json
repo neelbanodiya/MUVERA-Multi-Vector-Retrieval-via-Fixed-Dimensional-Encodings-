@@ -1,0 +1,10 @@
+{
+    "query": "What specific wars did the Marine Corps participate in during the 20th century?",
+    "response": [
+        "doc_13505.txt",
+        "doc_13506.txt",
+        "doc_13432.txt",
+        "doc_13500.txt",
+        "doc_13905.txt"
+    ]
+}

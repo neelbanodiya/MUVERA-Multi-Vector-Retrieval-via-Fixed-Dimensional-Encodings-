@@ -1,0 +1,10 @@
+{
+    "query": "How did Samuel\u2019s reputation influence the people\u2019s perception of him?",
+    "response": [
+        "doc_20132.txt",
+        "doc_4275.txt",
+        "doc_20130.txt",
+        "doc_20133.txt",
+        "doc_7123.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What kind of art is featured in the branch of the Metropolitan Museum of Art dedicated to Medieval art?",
+    "response": [
+        "doc_14728.txt",
+        "doc_20379.txt",
+        "doc_20382.txt",
+        "doc_20380.txt",
+        "doc_20384.txt"
+    ]
+}

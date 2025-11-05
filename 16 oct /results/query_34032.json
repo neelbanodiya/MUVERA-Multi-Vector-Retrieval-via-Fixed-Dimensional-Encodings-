@@ -1,0 +1,10 @@
+{
+    "query": "Which American Museum of Natural History figure is mentioned in the provided links?",
+    "response": [
+        "doc_12453.txt",
+        "doc_1908.txt",
+        "doc_8508.txt",
+        "doc_8506.txt",
+        "doc_16525.txt"
+    ]
+}

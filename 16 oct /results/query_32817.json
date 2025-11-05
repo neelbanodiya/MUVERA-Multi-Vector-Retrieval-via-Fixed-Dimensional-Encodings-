@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Barry Switzer begin his tenure as head coach?",
+    "response": [
+        "doc_1880.txt",
+        "doc_4740.txt",
+        "doc_19125.txt",
+        "doc_76.txt",
+        "doc_1881.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what are some of the common spaces the EU and the Russian Federation initially aimed to establish?",
+    "response": [
+        "doc_18358.txt",
+        "doc_16786.txt",
+        "doc_4132.txt",
+        "doc_5890.txt",
+        "doc_5889.txt"
+    ]
+}

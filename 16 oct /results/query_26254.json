@@ -1,0 +1,10 @@
+{
+    "query": "According to Metacritic, what is a key characteristic described about Ferris Bueller?",
+    "response": [
+        "doc_21785.txt",
+        "doc_19938.txt",
+        "doc_15758.txt",
+        "doc_21584.txt",
+        "doc_21784.txt"
+    ]
+}

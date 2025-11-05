@@ -1,0 +1,10 @@
+{
+    "query": "In what city did a terrorist attack occur at Ataturk airport?",
+    "response": [
+        "doc_3127.txt",
+        "doc_15728.txt",
+        "doc_3914.txt",
+        "doc_17965.txt",
+        "doc_9921.txt"
+    ]
+}

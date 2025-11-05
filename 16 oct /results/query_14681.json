@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Titanic released as a film?",
+    "response": [
+        "doc_1231.txt",
+        "doc_1229.txt",
+        "doc_14780.txt",
+        "doc_15277.txt",
+        "doc_402.txt"
+    ]
+}

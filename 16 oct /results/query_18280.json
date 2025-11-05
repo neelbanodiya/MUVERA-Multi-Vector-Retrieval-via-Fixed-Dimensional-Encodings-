@@ -1,0 +1,10 @@
+{
+    "query": "What are some of the other famous boxers mentioned in the text (besides Ray \u201cBoom Boom\u201d Mancini and Roberto Duran)?",
+    "response": [
+        "doc_10577.txt",
+        "doc_10582.txt",
+        "doc_10581.txt",
+        "doc_10578.txt",
+        "doc_10580.txt"
+    ]
+}

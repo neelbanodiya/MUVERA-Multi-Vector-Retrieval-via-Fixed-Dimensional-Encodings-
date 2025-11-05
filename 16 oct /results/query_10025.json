@@ -1,0 +1,10 @@
+{
+    "query": "What is the date of the Belarusian presidential elections?",
+    "response": [
+        "doc_4156.txt",
+        "doc_4902.txt",
+        "doc_5814.txt",
+        "doc_4155.txt",
+        "doc_4903.txt"
+    ]
+}

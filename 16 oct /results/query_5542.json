@@ -1,0 +1,10 @@
+{
+    "query": "How many years has the Cannes Film Festival been held before the first female director won the Palme d'Or?",
+    "response": [
+        "doc_3224.txt",
+        "doc_3233.txt",
+        "doc_3227.txt",
+        "doc_3232.txt",
+        "doc_3219.txt"
+    ]
+}

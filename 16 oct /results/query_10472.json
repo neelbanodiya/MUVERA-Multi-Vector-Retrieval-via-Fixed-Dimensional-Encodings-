@@ -1,0 +1,10 @@
+{
+    "query": "What daily newspaper published information regarding the relationship between German environmental organizations and Nord Stream?",
+    "response": [
+        "doc_6069.txt",
+        "doc_18259.txt",
+        "doc_16329.txt",
+        "doc_15214.txt",
+        "doc_8835.txt"
+    ]
+}

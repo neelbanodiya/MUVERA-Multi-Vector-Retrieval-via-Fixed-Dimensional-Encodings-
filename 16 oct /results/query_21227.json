@@ -1,0 +1,10 @@
+{
+    "query": "What was Tim McGraw\u2019s third number-one hit song?",
+    "response": [
+        "doc_6766.txt",
+        "doc_12043.txt",
+        "doc_6767.txt",
+        "doc_19988.txt",
+        "doc_13100.txt"
+    ]
+}

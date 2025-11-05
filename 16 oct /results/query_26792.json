@@ -1,0 +1,10 @@
+{
+    "query": "What year was *The Fellowship of the Ring* first published?",
+    "response": [
+        "doc_15548.txt",
+        "doc_15560.txt",
+        "doc_15551.txt",
+        "doc_15549.txt",
+        "doc_15556.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which actors appeared in \"The Hard Way\"?",
+    "response": [
+        "doc_1969.txt",
+        "doc_18484.txt",
+        "doc_4462.txt",
+        "doc_5158.txt",
+        "doc_18482.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What position did Edmund Randolph hold as Attorney General of the United States?",
+    "response": [
+        "doc_12840.txt",
+        "doc_17282.txt",
+        "doc_12841.txt",
+        "doc_12831.txt",
+        "doc_12830.txt"
+    ]
+}

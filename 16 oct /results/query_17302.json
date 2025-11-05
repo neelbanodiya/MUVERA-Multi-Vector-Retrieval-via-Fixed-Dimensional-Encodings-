@@ -1,0 +1,10 @@
+{
+    "query": "What film features Bill Murray?",
+    "response": [
+        "doc_5158.txt",
+        "doc_2850.txt",
+        "doc_7767.txt",
+        "doc_13535.txt",
+        "doc_15485.txt"
+    ]
+}

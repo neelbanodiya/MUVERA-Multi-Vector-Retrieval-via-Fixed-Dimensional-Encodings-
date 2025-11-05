@@ -1,0 +1,10 @@
+{
+    "query": "What year did Tiger Woods turn professional?",
+    "response": [
+        "doc_19625.txt",
+        "doc_19628.txt",
+        "doc_19629.txt",
+        "doc_19636.txt",
+        "doc_19627.txt"
+    ]
+}

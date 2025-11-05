@@ -1,0 +1,10 @@
+{
+    "query": "Who earned an Academy Award for best actor?",
+    "response": [
+        "doc_17132.txt",
+        "doc_4909.txt",
+        "doc_4919.txt",
+        "doc_21158.txt",
+        "doc_23284.txt"
+    ]
+}

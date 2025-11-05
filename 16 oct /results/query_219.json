@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what group of people is identified as the focus of *The Communist Manifesto*?",
+    "response": [
+        "doc_112.txt",
+        "doc_109.txt",
+        "doc_10136.txt",
+        "doc_10138.txt",
+        "doc_2466.txt"
+    ]
+}

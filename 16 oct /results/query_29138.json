@@ -1,0 +1,10 @@
+{
+    "query": "Which literary figures from Latin America are mentioned alongside Benito Lynch as significant writers?",
+    "response": [
+        "doc_18579.txt",
+        "doc_16973.txt",
+        "doc_16975.txt",
+        "doc_14077.txt",
+        "doc_16977.txt"
+    ]
+}

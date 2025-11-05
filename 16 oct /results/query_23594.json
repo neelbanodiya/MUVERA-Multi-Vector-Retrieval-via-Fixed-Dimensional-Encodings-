@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the origin of the word \"travel\" in English?",
+    "response": [
+        "doc_21180.txt",
+        "doc_4404.txt",
+        "doc_12626.txt",
+        "doc_14703.txt",
+        "doc_14707.txt"
+    ]
+}

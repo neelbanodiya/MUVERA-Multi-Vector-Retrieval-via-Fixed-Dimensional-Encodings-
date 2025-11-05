@@ -1,0 +1,10 @@
+{
+    "query": "In 2013, how did the number of returned $1 coins compare to the number paid out by the Federal Reserve?",
+    "response": [
+        "doc_23928.txt",
+        "doc_24207.txt",
+        "doc_19834.txt",
+        "doc_14946.txt",
+        "doc_12320.txt"
+    ]
+}

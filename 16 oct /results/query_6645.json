@@ -1,0 +1,10 @@
+{
+    "query": "According to one article, what was the hometown of the makeup artist associated with Jim Carrey?",
+    "response": [
+        "doc_17703.txt",
+        "doc_19310.txt",
+        "doc_18482.txt",
+        "doc_20569.txt",
+        "doc_16319.txt"
+    ]
+}

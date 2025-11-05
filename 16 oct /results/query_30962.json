@@ -1,0 +1,10 @@
+{
+    "query": "What documentation is required to prove that equipment being shipped as EEE is intended for direct reuse?",
+    "response": [
+        "doc_18047.txt",
+        "doc_18050.txt",
+        "doc_18048.txt",
+        "doc_18046.txt",
+        "doc_18007.txt"
+    ]
+}

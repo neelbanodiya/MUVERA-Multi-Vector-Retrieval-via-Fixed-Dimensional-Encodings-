@@ -1,0 +1,10 @@
+{
+    "query": "According to the 1988 memoir, who was the Air Force general who ranked the officer?",
+    "response": [
+        "doc_22462.txt",
+        "doc_19666.txt",
+        "doc_4463.txt",
+        "doc_2681.txt",
+        "doc_19665.txt"
+    ]
+}

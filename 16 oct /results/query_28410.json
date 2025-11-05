@@ -1,0 +1,10 @@
+{
+    "query": "Which musicians regularly perform at the Treme Brass Band?",
+    "response": [
+        "doc_3911.txt",
+        "doc_19016.txt",
+        "doc_4766.txt",
+        "doc_12713.txt",
+        "doc_16771.txt"
+    ]
+}

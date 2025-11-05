@@ -1,0 +1,10 @@
+{
+    "query": "Where was President Lincoln watching a play when he was assassinated?",
+    "response": [
+        "doc_7923.txt",
+        "doc_6108.txt",
+        "doc_7921.txt",
+        "doc_6111.txt",
+        "doc_7922.txt"
+    ]
+}

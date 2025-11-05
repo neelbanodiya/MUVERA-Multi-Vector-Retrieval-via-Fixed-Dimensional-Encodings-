@@ -1,0 +1,10 @@
+{
+    "query": "Does the Commission expect the European Parliament to increase the allocated funding amount?",
+    "response": [
+        "doc_8795.txt",
+        "doc_8889.txt",
+        "doc_1897.txt",
+        "doc_5641.txt",
+        "doc_8890.txt"
+    ]
+}

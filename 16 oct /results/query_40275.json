@@ -1,0 +1,10 @@
+{
+    "query": "What year was the movie *The Rose* starring Bette Midler released?",
+    "response": [
+        "doc_14780.txt",
+        "doc_3450.txt",
+        "doc_21901.txt",
+        "doc_10594.txt",
+        "doc_14778.txt"
+    ]
+}

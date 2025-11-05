@@ -1,0 +1,10 @@
+{
+    "query": "In 1997, what type of flower was unveiled as the darkest species by two Dutch growers?",
+    "response": [
+        "doc_23128.txt",
+        "doc_14373.txt",
+        "doc_9344.txt",
+        "doc_13966.txt",
+        "doc_4554.txt"
+    ]
+}

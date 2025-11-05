@@ -1,0 +1,10 @@
+{
+    "query": "Which hotels are mentioned as having gilded Manhattan hospitality?",
+    "response": [
+        "doc_565.txt",
+        "doc_566.txt",
+        "doc_573.txt",
+        "doc_564.txt",
+        "doc_572.txt"
+    ]
+}

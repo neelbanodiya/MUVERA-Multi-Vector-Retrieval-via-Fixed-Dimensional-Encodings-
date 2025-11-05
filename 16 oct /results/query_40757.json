@@ -1,0 +1,10 @@
+{
+    "query": "Which church in New York City became a historic landmark in 1967?",
+    "response": [
+        "doc_23829.txt",
+        "doc_22813.txt",
+        "doc_22828.txt",
+        "doc_3382.txt",
+        "doc_5160.txt"
+    ]
+}

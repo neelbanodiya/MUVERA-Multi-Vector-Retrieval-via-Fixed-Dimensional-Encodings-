@@ -1,0 +1,10 @@
+{
+    "query": "What nationality was Pinchas Zukerman?",
+    "response": [
+        "doc_23068.txt",
+        "doc_851.txt",
+        "doc_4273.txt",
+        "doc_11022.txt",
+        "doc_9342.txt"
+    ]
+}

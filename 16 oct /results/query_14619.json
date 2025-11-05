@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the sources, what famous bandit is part of the new Dynamic Duo?",
+    "response": [
+        "doc_8452.txt",
+        "doc_5444.txt",
+        "doc_19211.txt",
+        "doc_17778.txt",
+        "doc_16033.txt"
+    ]
+}

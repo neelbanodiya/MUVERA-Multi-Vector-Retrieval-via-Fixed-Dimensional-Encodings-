@@ -1,0 +1,10 @@
+{
+    "query": "For how long can the Commission implement emergency measures related to fishing activities?",
+    "response": [
+        "doc_12100.txt",
+        "doc_12098.txt",
+        "doc_12085.txt",
+        "doc_12084.txt",
+        "doc_12076.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What two significant court rulings have been made based on the \u2018Biotechnology Directive\u2019?",
+    "response": [
+        "doc_3240.txt",
+        "doc_23886.txt",
+        "doc_21813.txt",
+        "doc_18041.txt",
+        "doc_24037.txt"
+    ]
+}

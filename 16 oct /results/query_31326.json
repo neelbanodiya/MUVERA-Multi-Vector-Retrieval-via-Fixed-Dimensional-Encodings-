@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what role did the Jade Emperor play in Chinese cosmology?",
+    "response": [
+        "doc_18292.txt",
+        "doc_18291.txt",
+        "doc_18293.txt",
+        "doc_18295.txt",
+        "doc_18296.txt"
+    ]
+}

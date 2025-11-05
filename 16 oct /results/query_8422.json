@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the criminal known as \u201cThe Claw\u201d in the movie *Dick Tracys Dilemma*?",
+    "response": [
+        "doc_4876.txt",
+        "doc_1478.txt",
+        "doc_16915.txt",
+        "doc_5095.txt",
+        "doc_5084.txt"
+    ]
+}

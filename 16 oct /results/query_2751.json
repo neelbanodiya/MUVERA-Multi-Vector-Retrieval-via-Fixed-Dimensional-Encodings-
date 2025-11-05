@@ -1,0 +1,10 @@
+{
+    "query": "How does the Soo Canal impact shipping traffic between the Great Lakes?",
+    "response": [
+        "doc_1643.txt",
+        "doc_1647.txt",
+        "doc_1638.txt",
+        "doc_1649.txt",
+        "doc_1644.txt"
+    ]
+}

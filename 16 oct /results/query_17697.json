@@ -1,0 +1,10 @@
+{
+    "query": "Where are tax and duty-free shops located in Greece\u2019s borders?",
+    "response": [
+        "doc_10247.txt",
+        "doc_3268.txt",
+        "doc_9473.txt",
+        "doc_14442.txt",
+        "doc_14302.txt"
+    ]
+}

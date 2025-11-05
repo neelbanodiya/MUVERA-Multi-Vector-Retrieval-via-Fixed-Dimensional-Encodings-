@@ -1,0 +1,10 @@
+{
+    "query": "In what Texas city was Janis Joplin born?",
+    "response": [
+        "doc_1128.txt",
+        "doc_21108.txt",
+        "doc_8376.txt",
+        "doc_1908.txt",
+        "doc_3817.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In which mythology is Eos, the Greek goddess of the dawn, primarily associated with?",
+    "response": [
+        "doc_14772.txt",
+        "doc_14775.txt",
+        "doc_14770.txt",
+        "doc_14774.txt",
+        "doc_14776.txt"
+    ]
+}

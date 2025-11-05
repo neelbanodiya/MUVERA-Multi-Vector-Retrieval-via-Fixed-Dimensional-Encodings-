@@ -1,0 +1,10 @@
+{
+    "query": "Which Muse instructed Apollo?",
+    "response": [
+        "doc_15662.txt",
+        "doc_15658.txt",
+        "doc_15660.txt",
+        "doc_15664.txt",
+        "doc_15663.txt"
+    ]
+}

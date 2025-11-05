@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how long ago was Joseph Heller\u2019s Catch-22 published?",
+    "response": [
+        "doc_10629.txt",
+        "doc_10614.txt",
+        "doc_10626.txt",
+        "doc_10615.txt",
+        "doc_10613.txt"
+    ]
+}

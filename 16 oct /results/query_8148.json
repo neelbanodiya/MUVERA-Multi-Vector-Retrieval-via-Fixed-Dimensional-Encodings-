@@ -1,0 +1,10 @@
+{
+    "query": "Who was indicted on December 18th in Hawaii, and what is their name?",
+    "response": [
+        "doc_9675.txt",
+        "doc_3063.txt",
+        "doc_12840.txt",
+        "doc_8911.txt",
+        "doc_10007.txt"
+    ]
+}

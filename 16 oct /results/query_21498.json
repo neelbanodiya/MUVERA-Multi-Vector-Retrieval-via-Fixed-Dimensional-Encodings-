@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what does the Latin word \"et\" mean?",
+    "response": [
+        "doc_12748.txt",
+        "doc_9042.txt",
+        "doc_12751.txt",
+        "doc_21180.txt",
+        "doc_12747.txt"
+    ]
+}

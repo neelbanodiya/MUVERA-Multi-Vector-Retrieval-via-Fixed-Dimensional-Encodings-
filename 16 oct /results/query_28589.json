@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the singer associated with the name \u201cReddy\u201d according to the fourth URL?",
+    "response": [
+        "doc_10204.txt",
+        "doc_16665.txt",
+        "doc_10446.txt",
+        "doc_9206.txt",
+        "doc_10561.txt"
+    ]
+}

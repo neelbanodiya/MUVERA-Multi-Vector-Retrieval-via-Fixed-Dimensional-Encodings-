@@ -1,0 +1,10 @@
+{
+    "query": "Which document is used to certify entitlements for patients receiving treatment in another Member State, and in which countries is it accepted?",
+    "response": [
+        "doc_17895.txt",
+        "doc_21478.txt",
+        "doc_13130.txt",
+        "doc_22671.txt",
+        "doc_14848.txt"
+    ]
+}

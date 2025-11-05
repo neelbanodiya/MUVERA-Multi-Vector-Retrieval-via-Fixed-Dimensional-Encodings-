@@ -1,0 +1,10 @@
+{
+    "query": "What movie starred Harrison Ford and was based on a novel by Scott Turow?",
+    "response": [
+        "doc_1812.txt",
+        "doc_5156.txt",
+        "doc_12639.txt",
+        "doc_20574.txt",
+        "doc_9792.txt"
+    ]
+}

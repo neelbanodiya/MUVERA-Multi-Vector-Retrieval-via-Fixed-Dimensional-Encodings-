@@ -1,0 +1,10 @@
+{
+    "query": "What are the EU citizenship rights after 1 May 2004 in the case of a woman born in Russia who moved to Latvia, married an EU citizen, and now resides in Ireland with residency rights but requires a visa?",
+    "response": [
+        "doc_14003.txt",
+        "doc_17866.txt",
+        "doc_3092.txt",
+        "doc_12806.txt",
+        "doc_11815.txt"
+    ]
+}

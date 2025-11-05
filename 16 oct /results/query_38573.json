@@ -1,0 +1,10 @@
+{
+    "query": "What was noted as the \u201cBest. Musical of 1980\u201d regarding the production of *Evita*?",
+    "response": [
+        "doc_22622.txt",
+        "doc_22621.txt",
+        "doc_22630.txt",
+        "doc_22631.txt",
+        "doc_22625.txt"
+    ]
+}

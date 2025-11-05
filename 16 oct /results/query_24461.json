@@ -1,0 +1,10 @@
+{
+    "query": "Where does Menton lie?",
+    "response": [
+        "doc_21029.txt",
+        "doc_14201.txt",
+        "doc_22342.txt",
+        "doc_23504.txt",
+        "doc_9295.txt"
+    ]
+}

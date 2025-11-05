@@ -1,0 +1,10 @@
+{
+    "query": "What awards did *The Phantom of the Opera* win?",
+    "response": [
+        "doc_1964.txt",
+        "doc_17912.txt",
+        "doc_1965.txt",
+        "doc_1966.txt",
+        "doc_12358.txt"
+    ]
+}

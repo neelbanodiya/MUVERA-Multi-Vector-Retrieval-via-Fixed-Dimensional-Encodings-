@@ -1,0 +1,10 @@
+{
+    "query": "Which empire did the founder, Kublai Khan, establish?",
+    "response": [
+        "doc_15041.txt",
+        "doc_15042.txt",
+        "doc_15044.txt",
+        "doc_18485.txt",
+        "doc_15056.txt"
+    ]
+}

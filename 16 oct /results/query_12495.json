@@ -1,0 +1,10 @@
+{
+    "query": "What types of animals do the Komodo dragons prey upon, according to the passage?",
+    "response": [
+        "doc_3456.txt",
+        "doc_7435.txt",
+        "doc_22340.txt",
+        "doc_7438.txt",
+        "doc_3455.txt"
+    ]
+}

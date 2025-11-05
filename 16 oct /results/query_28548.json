@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of the corrugated card used in the Serpentine Gallery exhibition?",
+    "response": [
+        "doc_10787.txt",
+        "doc_22043.txt",
+        "doc_10781.txt",
+        "doc_10788.txt",
+        "doc_4482.txt"
+    ]
+}

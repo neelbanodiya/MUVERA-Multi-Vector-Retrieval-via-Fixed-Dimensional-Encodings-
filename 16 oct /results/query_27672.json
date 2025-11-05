@@ -1,0 +1,10 @@
+{
+    "query": "What was the initial budget of the first *Mad Max* film?",
+    "response": [
+        "doc_16095.txt",
+        "doc_2230.txt",
+        "doc_14549.txt",
+        "doc_1231.txt",
+        "doc_5239.txt"
+    ]
+}

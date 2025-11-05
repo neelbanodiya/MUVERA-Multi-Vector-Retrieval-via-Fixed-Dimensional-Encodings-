@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate distance between Cape Bon in Tunisia and Sicily?",
+    "response": [
+        "doc_14192.txt",
+        "doc_14191.txt",
+        "doc_14210.txt",
+        "doc_10129.txt",
+        "doc_14195.txt"
+    ]
+}

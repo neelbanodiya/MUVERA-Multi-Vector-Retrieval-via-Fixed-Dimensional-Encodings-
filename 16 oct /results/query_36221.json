@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate cost of a first-class ticket on the Titanic to New York?",
+    "response": [
+        "doc_21112.txt",
+        "doc_18157.txt",
+        "doc_6995.txt",
+        "doc_21111.txt",
+        "doc_21106.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the total amount of EU funding allocated to the solar energy support programme in Portugal?",
+    "response": [
+        "doc_17033.txt",
+        "doc_1442.txt",
+        "doc_9021.txt",
+        "doc_9174.txt",
+        "doc_17506.txt"
+    ]
+}

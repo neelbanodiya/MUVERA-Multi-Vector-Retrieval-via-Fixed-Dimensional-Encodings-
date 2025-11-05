@@ -1,0 +1,10 @@
+{
+    "query": "What year was the automobile marketed in the United States?",
+    "response": [
+        "doc_24117.txt",
+        "doc_9876.txt",
+        "doc_24118.txt",
+        "doc_24116.txt",
+        "doc_7175.txt"
+    ]
+}

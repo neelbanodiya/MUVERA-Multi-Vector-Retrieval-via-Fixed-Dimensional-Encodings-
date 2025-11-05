@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary composition of gas giant planets like Jupiter?",
+    "response": [
+        "doc_12275.txt",
+        "doc_12279.txt",
+        "doc_1279.txt",
+        "doc_12289.txt",
+        "doc_12281.txt"
+    ]
+}

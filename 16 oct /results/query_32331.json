@@ -1,0 +1,10 @@
+{
+    "query": "What was the earliest human presence in the largest city of Greece?",
+    "response": [
+        "doc_3874.txt",
+        "doc_8351.txt",
+        "doc_9929.txt",
+        "doc_7260.txt",
+        "doc_20480.txt"
+    ]
+}

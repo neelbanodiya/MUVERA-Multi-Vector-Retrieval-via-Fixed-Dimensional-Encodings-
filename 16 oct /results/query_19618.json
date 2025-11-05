@@ -1,0 +1,10 @@
+{
+    "query": "From which country did the majority of the players recruited by Mike Eruzione come?",
+    "response": [
+        "doc_11357.txt",
+        "doc_5608.txt",
+        "doc_466.txt",
+        "doc_20433.txt",
+        "doc_15127.txt"
+    ]
+}

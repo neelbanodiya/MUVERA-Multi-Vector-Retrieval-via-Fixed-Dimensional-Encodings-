@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Andrew Willis win a bronze medal at the Commonwealth Games?",
+    "response": [
+        "doc_13773.txt",
+        "doc_22768.txt",
+        "doc_22769.txt",
+        "doc_22767.txt",
+        "doc_10682.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was the first president to live in the White House?",
+    "response": [
+        "doc_11826.txt",
+        "doc_57.txt",
+        "doc_40.txt",
+        "doc_10068.txt",
+        "doc_10897.txt"
+    ]
+}

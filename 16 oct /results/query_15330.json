@@ -1,0 +1,10 @@
+{
+    "query": "In what area does the implementation of Community policy and legislation provide a framework for European added value, as highlighted in the passage?",
+    "response": [
+        "doc_8876.txt",
+        "doc_17397.txt",
+        "doc_5828.txt",
+        "doc_3018.txt",
+        "doc_5289.txt"
+    ]
+}

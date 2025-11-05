@@ -1,0 +1,10 @@
+{
+    "query": "What issues were highlighted in reports concerning women\u2019s safety in Ciudad Juarez, Mexico?",
+    "response": [
+        "doc_5287.txt",
+        "doc_21184.txt",
+        "doc_21178.txt",
+        "doc_21188.txt",
+        "doc_14798.txt"
+    ]
+}

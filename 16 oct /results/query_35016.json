@@ -1,0 +1,10 @@
+{
+    "query": "Which Italian composer is associated with works like \u201cThe Fountains of Rome\u201d and \u201cThe Pines of Rome\u201d?",
+    "response": [
+        "doc_20425.txt",
+        "doc_20427.txt",
+        "doc_20428.txt",
+        "doc_20429.txt",
+        "doc_20423.txt"
+    ]
+}

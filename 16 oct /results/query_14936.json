@@ -1,0 +1,10 @@
+{
+    "query": "Who chaired the Economic and Monetary Affairs Committee meeting?",
+    "response": [
+        "doc_23245.txt",
+        "doc_8670.txt",
+        "doc_14143.txt",
+        "doc_6762.txt",
+        "doc_17255.txt"
+    ]
+}

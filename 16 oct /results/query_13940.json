@@ -1,0 +1,10 @@
+{
+    "query": "Who was Rebekah\u2019s father?",
+    "response": [
+        "doc_8107.txt",
+        "doc_8106.txt",
+        "doc_8091.txt",
+        "doc_8093.txt",
+        "doc_8099.txt"
+    ]
+}

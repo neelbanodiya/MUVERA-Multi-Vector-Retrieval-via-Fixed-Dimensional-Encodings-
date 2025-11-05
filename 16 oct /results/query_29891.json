@@ -1,0 +1,10 @@
+{
+    "query": "What consensus was reached regarding new features added to the Constitution?",
+    "response": [
+        "doc_356.txt",
+        "doc_9679.txt",
+        "doc_17356.txt",
+        "doc_16893.txt",
+        "doc_18001.txt"
+    ]
+}

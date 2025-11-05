@@ -1,0 +1,10 @@
+{
+    "query": "Which organizations does Jason Farris, a lobbyist, have experience lobbying for according to the \u201cLobbyIt.com\u201d page?",
+    "response": [
+        "doc_22236.txt",
+        "doc_9785.txt",
+        "doc_8996.txt",
+        "doc_4516.txt",
+        "doc_14992.txt"
+    ]
+}

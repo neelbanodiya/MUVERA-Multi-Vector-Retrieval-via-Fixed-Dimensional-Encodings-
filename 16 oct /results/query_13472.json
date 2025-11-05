@@ -1,0 +1,10 @@
+{
+    "query": "Besides the National Theatre of the Deaf, name at least three other famous actors who have collaborated with the NTD.",
+    "response": [
+        "doc_7876.txt",
+        "doc_2517.txt",
+        "doc_20197.txt",
+        "doc_10463.txt",
+        "doc_14187.txt"
+    ]
+}

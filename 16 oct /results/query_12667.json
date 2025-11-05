@@ -1,0 +1,10 @@
+{
+    "query": "Is the River Sperchios experiencing rising levels of pollution?",
+    "response": [
+        "doc_7373.txt",
+        "doc_9018.txt",
+        "doc_8159.txt",
+        "doc_15998.txt",
+        "doc_22167.txt"
+    ]
+}

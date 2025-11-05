@@ -1,0 +1,10 @@
+{
+    "query": "Which actor starred in a 1999 sitcom alongside Bob Saget and Artie Lange?",
+    "response": [
+        "doc_5158.txt",
+        "doc_18858.txt",
+        "doc_3744.txt",
+        "doc_486.txt",
+        "doc_15114.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What area of operations did Admiral Kimmel oversee?",
+    "response": [
+        "doc_6217.txt",
+        "doc_23463.txt",
+        "doc_14897.txt",
+        "doc_1320.txt",
+        "doc_21683.txt"
+    ]
+}

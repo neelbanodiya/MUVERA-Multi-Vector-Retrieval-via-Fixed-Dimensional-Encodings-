@@ -1,0 +1,10 @@
+{
+    "query": "How many Emmy Awards did Julia Louis-Dreyfus win in total?",
+    "response": [
+        "doc_2263.txt",
+        "doc_4464.txt",
+        "doc_4470.txt",
+        "doc_2266.txt",
+        "doc_4643.txt"
+    ]
+}

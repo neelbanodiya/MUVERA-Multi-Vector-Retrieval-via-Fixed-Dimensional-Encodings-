@@ -1,0 +1,10 @@
+{
+    "query": "Which political parties were scrambling to address the situation after Nigel Farage\u2019s departure?",
+    "response": [
+        "doc_15075.txt",
+        "doc_23715.txt",
+        "doc_1454.txt",
+        "doc_4778.txt",
+        "doc_9444.txt"
+    ]
+}

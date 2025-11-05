@@ -1,0 +1,10 @@
+{
+    "query": "What specific environmental issues were addressed in the report of the fact-finding visit to Ireland?",
+    "response": [
+        "doc_16892.txt",
+        "doc_16891.txt",
+        "doc_3496.txt",
+        "doc_10839.txt",
+        "doc_14366.txt"
+    ]
+}

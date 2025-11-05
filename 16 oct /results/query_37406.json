@@ -1,0 +1,10 @@
+{
+    "query": "When did Sousa form his own band?",
+    "response": [
+        "doc_21912.txt",
+        "doc_21908.txt",
+        "doc_21906.txt",
+        "doc_21907.txt",
+        "doc_21913.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When did the Codex Alimentarius Commission adopt a standard regarding fermented milk?",
+    "response": [
+        "doc_9361.txt",
+        "doc_12031.txt",
+        "doc_7865.txt",
+        "doc_8125.txt",
+        "doc_16370.txt"
+    ]
+}

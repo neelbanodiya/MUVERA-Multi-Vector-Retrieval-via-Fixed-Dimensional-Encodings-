@@ -1,0 +1,10 @@
+{
+    "query": "What event took place on October 30th at the Serbian Memorial Hall in Youngstown?",
+    "response": [
+        "doc_15159.txt",
+        "doc_12186.txt",
+        "doc_397.txt",
+        "doc_9673.txt",
+        "doc_12260.txt"
+    ]
+}

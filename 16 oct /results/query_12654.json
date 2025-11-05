@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what does Smithson aim for in relation to the Spiral Jetty?",
+    "response": [
+        "doc_14529.txt",
+        "doc_14830.txt",
+        "doc_15532.txt",
+        "doc_22666.txt",
+        "doc_20019.txt"
+    ]
+}

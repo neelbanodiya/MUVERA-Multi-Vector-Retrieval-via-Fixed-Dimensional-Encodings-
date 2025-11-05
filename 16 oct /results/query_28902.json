@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate length and width of the area in the Atlantic Ocean where Pan Am Flight 103 occurred?",
+    "response": [
+        "doc_16843.txt",
+        "doc_14427.txt",
+        "doc_11492.txt",
+        "doc_14430.txt",
+        "doc_14879.txt"
+    ]
+}

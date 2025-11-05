@@ -1,0 +1,10 @@
+{
+    "query": "Which Italian composer is Respighi often compared to, and why is this comparison relevant to his work?",
+    "response": [
+        "doc_20425.txt",
+        "doc_20424.txt",
+        "doc_20430.txt",
+        "doc_20429.txt",
+        "doc_14186.txt"
+    ]
+}

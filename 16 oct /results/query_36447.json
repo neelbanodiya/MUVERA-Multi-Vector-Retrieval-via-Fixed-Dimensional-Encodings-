@@ -1,0 +1,10 @@
+{
+    "query": "On what date was the Republic of South Africa declared?",
+    "response": [
+        "doc_21268.txt",
+        "doc_21273.txt",
+        "doc_21272.txt",
+        "doc_21269.txt",
+        "doc_21270.txt"
+    ]
+}

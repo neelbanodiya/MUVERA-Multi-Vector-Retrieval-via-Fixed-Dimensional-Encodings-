@@ -1,0 +1,10 @@
+{
+    "query": "What was Tiffani-Amber Thiessen\u2019s character\u2019s name on *Beverly Hills, 90210*?",
+    "response": [
+        "doc_17179.txt",
+        "doc_17174.txt",
+        "doc_17176.txt",
+        "doc_17178.txt",
+        "doc_11628.txt"
+    ]
+}

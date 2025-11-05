@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, was Mia Farrow considered beautiful?",
+    "response": [
+        "doc_7880.txt",
+        "doc_9125.txt",
+        "doc_15141.txt",
+        "doc_20466.txt",
+        "doc_4631.txt"
+    ]
+}

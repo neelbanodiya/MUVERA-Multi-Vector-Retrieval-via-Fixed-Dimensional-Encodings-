@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Mistick Krewe of Comus first appear in New Orleans?",
+    "response": [
+        "doc_3511.txt",
+        "doc_3499.txt",
+        "doc_3508.txt",
+        "doc_3510.txt",
+        "doc_98.txt"
+    ]
+}

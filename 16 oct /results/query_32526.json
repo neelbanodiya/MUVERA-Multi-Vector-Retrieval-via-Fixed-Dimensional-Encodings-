@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the book in which Irving recounts his journey?",
+    "response": [
+        "doc_18976.txt",
+        "doc_18975.txt",
+        "doc_22260.txt",
+        "doc_12463.txt",
+        "doc_20538.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What system was established several years ago in ECHO to record humanitarian contributions?",
+    "response": [
+        "doc_15950.txt",
+        "doc_15949.txt",
+        "doc_5249.txt",
+        "doc_10787.txt",
+        "doc_5139.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was President Franklin D. Roosevelt doing in French Morocco during World War II?",
+    "response": [
+        "doc_12518.txt",
+        "doc_12519.txt",
+        "doc_12532.txt",
+        "doc_12528.txt",
+        "doc_12520.txt"
+    ]
+}

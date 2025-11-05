@@ -1,0 +1,10 @@
+{
+    "query": "What kind of items were collected and displayed at the South Kensington Museum?",
+    "response": [
+        "doc_8507.txt",
+        "doc_8505.txt",
+        "doc_3692.txt",
+        "doc_3693.txt",
+        "doc_16485.txt"
+    ]
+}

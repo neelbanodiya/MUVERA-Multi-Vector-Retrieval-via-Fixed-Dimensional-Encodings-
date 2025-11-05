@@ -1,0 +1,10 @@
+{
+    "query": "Which television show originally ran on Nickelodeon from 1996 to 2006 and featured \u201cBlue\u201d?",
+    "response": [
+        "doc_19703.txt",
+        "doc_3699.txt",
+        "doc_20438.txt",
+        "doc_6604.txt",
+        "doc_12719.txt"
+    ]
+}

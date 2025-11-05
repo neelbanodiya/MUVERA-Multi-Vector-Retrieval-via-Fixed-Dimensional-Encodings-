@@ -1,0 +1,10 @@
+{
+    "query": "What expenses are covered by Union institutions and bodies related to a committee of inquiry?",
+    "response": [
+        "doc_22221.txt",
+        "doc_13364.txt",
+        "doc_13234.txt",
+        "doc_13323.txt",
+        "doc_5281.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many teams are in the Big Ten conference?",
+    "response": [
+        "doc_2010.txt",
+        "doc_19122.txt",
+        "doc_10693.txt",
+        "doc_10694.txt",
+        "doc_14819.txt"
+    ]
+}

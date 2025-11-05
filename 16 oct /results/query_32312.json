@@ -1,0 +1,10 @@
+{
+    "query": "What television show was popular in the 1980s and featured Bill Cosby?",
+    "response": [
+        "doc_9382.txt",
+        "doc_18839.txt",
+        "doc_18852.txt",
+        "doc_18843.txt",
+        "doc_18837.txt"
+    ]
+}

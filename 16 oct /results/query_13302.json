@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between Margaret Truman and her father?",
+    "response": [
+        "doc_23196.txt",
+        "doc_6567.txt",
+        "doc_12676.txt",
+        "doc_11298.txt",
+        "doc_2698.txt"
+    ]
+}

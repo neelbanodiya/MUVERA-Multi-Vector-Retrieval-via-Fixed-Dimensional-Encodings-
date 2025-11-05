@@ -1,0 +1,10 @@
+{
+    "query": "Does the Council intend to protect the victim of this crime in any way?",
+    "response": [
+        "doc_23026.txt",
+        "doc_10288.txt",
+        "doc_21008.txt",
+        "doc_16370.txt",
+        "doc_21009.txt"
+    ]
+}

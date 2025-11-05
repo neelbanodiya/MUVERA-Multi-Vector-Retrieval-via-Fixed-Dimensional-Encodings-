@@ -1,0 +1,10 @@
+{
+    "query": "What happened during the 1960 presidential campaign regarding support for African nationalism?",
+    "response": [
+        "doc_8724.txt",
+        "doc_3809.txt",
+        "doc_7412.txt",
+        "doc_4775.txt",
+        "doc_19041.txt"
+    ]
+}

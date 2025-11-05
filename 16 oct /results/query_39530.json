@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary focus of the new political party that nominated James B. Weaver?",
+    "response": [
+        "doc_23151.txt",
+        "doc_23152.txt",
+        "doc_23153.txt",
+        "doc_23155.txt",
+        "doc_23150.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What color is the leaf of *A. tricolor* according to the first passage?",
+    "response": [
+        "doc_1120.txt",
+        "doc_20882.txt",
+        "doc_12597.txt",
+        "doc_23905.txt",
+        "doc_1495.txt"
+    ]
+}

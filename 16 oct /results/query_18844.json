@@ -1,0 +1,10 @@
+{
+    "query": "Which band members are associated with both Bleu and Toad the Wet Sprocket?",
+    "response": [
+        "doc_12713.txt",
+        "doc_19461.txt",
+        "doc_12338.txt",
+        "doc_19056.txt",
+        "doc_13075.txt"
+    ]
+}

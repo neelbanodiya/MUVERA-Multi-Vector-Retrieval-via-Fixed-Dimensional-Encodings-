@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Robert K. Logan publish a work referenced in the bibliography?",
+    "response": [
+        "doc_11914.txt",
+        "doc_11909.txt",
+        "doc_22773.txt",
+        "doc_12832.txt",
+        "doc_14859.txt"
+    ]
+}

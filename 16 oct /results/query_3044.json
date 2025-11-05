@@ -1,0 +1,10 @@
+{
+    "query": "What resolutions had the European Parliament previously passed concerning Zimbabwe?",
+    "response": [
+        "doc_13720.txt",
+        "doc_1852.txt",
+        "doc_2315.txt",
+        "doc_15472.txt",
+        "doc_17821.txt"
+    ]
+}

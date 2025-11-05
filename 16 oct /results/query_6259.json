@@ -1,0 +1,10 @@
+{
+    "query": "What type of building is Knole House described as, based on the provided links?",
+    "response": [
+        "doc_3616.txt",
+        "doc_3618.txt",
+        "doc_3613.txt",
+        "doc_3612.txt",
+        "doc_3615.txt"
+    ]
+}

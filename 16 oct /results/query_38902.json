@@ -1,0 +1,10 @@
+{
+    "query": "At what age did Oscar go to study painting in Spain?",
+    "response": [
+        "doc_15474.txt",
+        "doc_22777.txt",
+        "doc_22780.txt",
+        "doc_22778.txt",
+        "doc_10759.txt"
+    ]
+}

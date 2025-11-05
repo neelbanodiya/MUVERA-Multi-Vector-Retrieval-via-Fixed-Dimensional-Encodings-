@@ -1,0 +1,10 @@
+{
+    "query": "This \u201cheavenly coffee\u201d, a New York institution, is the official coffee of Radio City Music Hall?",
+    "response": [
+        "doc_13050.txt",
+        "doc_19578.txt",
+        "doc_22587.txt",
+        "doc_20379.txt",
+        "doc_4615.txt"
+    ]
+}

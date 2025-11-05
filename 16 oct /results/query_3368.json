@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Chris Chelios drafted into the NHL?",
+    "response": [
+        "doc_1990.txt",
+        "doc_2005.txt",
+        "doc_15541.txt",
+        "doc_2004.txt",
+        "doc_2000.txt"
+    ]
+}

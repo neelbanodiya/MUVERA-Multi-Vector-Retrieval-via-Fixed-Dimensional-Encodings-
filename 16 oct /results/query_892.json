@@ -1,0 +1,10 @@
+{
+    "query": "What was Croesus, the king of Lydia, doing at the time described in the provided texts?",
+    "response": [
+        "doc_503.txt",
+        "doc_507.txt",
+        "doc_506.txt",
+        "doc_18209.txt",
+        "doc_6053.txt"
+    ]
+}

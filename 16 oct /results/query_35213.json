@@ -1,0 +1,10 @@
+{
+    "query": "Who was the God who created the Tyger?",
+    "response": [
+        "doc_20530.txt",
+        "doc_20537.txt",
+        "doc_20533.txt",
+        "doc_20635.txt",
+        "doc_6056.txt"
+    ]
+}

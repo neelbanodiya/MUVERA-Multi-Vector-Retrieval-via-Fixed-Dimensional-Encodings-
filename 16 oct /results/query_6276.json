@@ -1,0 +1,10 @@
+{
+    "query": "What stores, besides A&P and Pathmark, were included in a gift card deal?",
+    "response": [
+        "doc_3626.txt",
+        "doc_3631.txt",
+        "doc_3630.txt",
+        "doc_3627.txt",
+        "doc_3629.txt"
+    ]
+}

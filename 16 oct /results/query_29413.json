@@ -1,0 +1,10 @@
+{
+    "query": "Which judge returned from series 10 of \u201cThe Xtra Factor\u201d?",
+    "response": [
+        "doc_17118.txt",
+        "doc_17117.txt",
+        "doc_17119.txt",
+        "doc_17116.txt",
+        "doc_5596.txt"
+    ]
+}

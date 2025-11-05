@@ -1,0 +1,10 @@
+{
+    "query": "What is the Commonwealth suing Pittsburgh and Philadelphia over?",
+    "response": [
+        "doc_5991.txt",
+        "doc_22699.txt",
+        "doc_9797.txt",
+        "doc_23056.txt",
+        "doc_19043.txt"
+    ]
+}

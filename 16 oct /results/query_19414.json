@@ -1,0 +1,10 @@
+{
+    "query": "Which king of England traveled to the Holy Land in 1191, and where did he marry Berengaria?",
+    "response": [
+        "doc_11242.txt",
+        "doc_11248.txt",
+        "doc_11251.txt",
+        "doc_11252.txt",
+        "doc_11244.txt"
+    ]
+}

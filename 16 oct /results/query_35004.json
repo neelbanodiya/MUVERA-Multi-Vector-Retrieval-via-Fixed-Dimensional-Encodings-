@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was Fanny Abington sometimes depicted as in portraits?",
+    "response": [
+        "doc_20419.txt",
+        "doc_24099.txt",
+        "doc_20417.txt",
+        "doc_24106.txt",
+        "doc_20409.txt"
+    ]
+}

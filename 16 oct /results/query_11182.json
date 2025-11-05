@@ -1,0 +1,10 @@
+{
+    "query": "How many New Zealand men died while on active service during the Vietnam War?",
+    "response": [
+        "doc_6484.txt",
+        "doc_23877.txt",
+        "doc_2869.txt",
+        "doc_6476.txt",
+        "doc_13912.txt"
+    ]
+}

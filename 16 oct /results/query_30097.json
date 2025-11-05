@@ -1,0 +1,10 @@
+{
+    "query": "Which Member States were affected by the N+2 decommitments in 2003 and 2004?",
+    "response": [
+        "doc_17502.txt",
+        "doc_2268.txt",
+        "doc_5367.txt",
+        "doc_14211.txt",
+        "doc_9110.txt"
+    ]
+}

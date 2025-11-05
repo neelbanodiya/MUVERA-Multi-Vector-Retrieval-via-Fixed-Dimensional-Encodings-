@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, who is the daughter of Jupiter and Dione?",
+    "response": [
+        "doc_9125.txt",
+        "doc_10875.txt",
+        "doc_9127.txt",
+        "doc_12560.txt",
+        "doc_12564.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Please list the Member States that received fines, indicating the nature of the transgression that led to the fine.",
+    "response": [
+        "doc_21008.txt",
+        "doc_17820.txt",
+        "doc_4706.txt",
+        "doc_20922.txt",
+        "doc_12098.txt"
+    ]
+}

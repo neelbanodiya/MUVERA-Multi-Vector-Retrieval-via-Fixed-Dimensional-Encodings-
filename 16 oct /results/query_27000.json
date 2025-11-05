@@ -1,0 +1,10 @@
+{
+    "query": "Who reported Noah\u2019s condition to his brothers?",
+    "response": [
+        "doc_15678.txt",
+        "doc_15668.txt",
+        "doc_15680.txt",
+        "doc_15669.txt",
+        "doc_5444.txt"
+    ]
+}

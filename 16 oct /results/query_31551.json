@@ -1,0 +1,10 @@
+{
+    "query": "When did the 16th-century Protestant Reformation formally begin?",
+    "response": [
+        "doc_18073.txt",
+        "doc_18412.txt",
+        "doc_18410.txt",
+        "doc_18415.txt",
+        "doc_18413.txt"
+    ]
+}

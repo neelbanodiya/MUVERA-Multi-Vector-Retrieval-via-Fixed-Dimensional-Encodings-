@@ -1,0 +1,10 @@
+{
+    "query": "What college did alumni of the Nickelodeon Animation Studio attend?",
+    "response": [
+        "doc_20438.txt",
+        "doc_9362.txt",
+        "doc_10310.txt",
+        "doc_11077.txt",
+        "doc_8993.txt"
+    ]
+}

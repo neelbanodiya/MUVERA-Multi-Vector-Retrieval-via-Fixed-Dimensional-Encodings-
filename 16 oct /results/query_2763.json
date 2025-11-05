@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many acres is West Okoboji Lake?",
+    "response": [
+        "doc_1653.txt",
+        "doc_1654.txt",
+        "doc_18423.txt",
+        "doc_18420.txt",
+        "doc_23080.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the policy regarding amendments to booked flights and tickets according to Oman Air?",
+    "response": [
+        "doc_7016.txt",
+        "doc_7007.txt",
+        "doc_7012.txt",
+        "doc_7006.txt",
+        "doc_7000.txt"
+    ]
+}

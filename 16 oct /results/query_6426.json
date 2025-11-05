@@ -1,0 +1,10 @@
+{
+    "query": "Does the passage mention any specific towns where Stephen King has set his stories?",
+    "response": [
+        "doc_3711.txt",
+        "doc_23796.txt",
+        "doc_3713.txt",
+        "doc_22256.txt",
+        "doc_22261.txt"
+    ]
+}

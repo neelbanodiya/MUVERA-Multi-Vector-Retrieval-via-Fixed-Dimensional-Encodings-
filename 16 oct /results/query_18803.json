@@ -1,0 +1,10 @@
+{
+    "query": "What degree did the individual attend Penn State for, and at what university did Val Demings earn her bachelor's degree?",
+    "response": [
+        "doc_20191.txt",
+        "doc_17061.txt",
+        "doc_4588.txt",
+        "doc_19369.txt",
+        "doc_6805.txt"
+    ]
+}

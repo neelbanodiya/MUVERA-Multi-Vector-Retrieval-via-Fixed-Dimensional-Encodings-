@@ -1,0 +1,10 @@
+{
+    "query": "Which film follows the life of Argentinian boxer Roberto Duran?",
+    "response": [
+        "doc_10575.txt",
+        "doc_10576.txt",
+        "doc_10574.txt",
+        "doc_10573.txt",
+        "doc_17713.txt"
+    ]
+}

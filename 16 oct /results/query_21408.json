@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the book Tai Kato wrote about Yamanaka?",
+    "response": [
+        "doc_20467.txt",
+        "doc_14416.txt",
+        "doc_19983.txt",
+        "doc_12557.txt",
+        "doc_1295.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What were the average EU and world market sugar prices in 2010?",
+    "response": [
+        "doc_12682.txt",
+        "doc_5895.txt",
+        "doc_20028.txt",
+        "doc_7967.txt",
+        "doc_13918.txt"
+    ]
+}

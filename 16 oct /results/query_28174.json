@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary reason for the changes made to the calendar by Pope Gregory XIII?",
+    "response": [
+        "doc_16358.txt",
+        "doc_16355.txt",
+        "doc_16353.txt",
+        "doc_16356.txt",
+        "doc_16357.txt"
+    ]
+}

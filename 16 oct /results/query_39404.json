@@ -1,0 +1,10 @@
+{
+    "query": "Which baseball player is described as the first three-time Cy Young winner and the only one in baseball history?",
+    "response": [
+        "doc_23061.txt",
+        "doc_3295.txt",
+        "doc_17789.txt",
+        "doc_2359.txt",
+        "doc_6867.txt"
+    ]
+}

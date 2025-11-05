@@ -1,0 +1,10 @@
+{
+    "query": "What song did John Adams play rhythm guitar on for The Who\u2019s first single?",
+    "response": [
+        "doc_11122.txt",
+        "doc_12577.txt",
+        "doc_1909.txt",
+        "doc_12573.txt",
+        "doc_9702.txt"
+    ]
+}

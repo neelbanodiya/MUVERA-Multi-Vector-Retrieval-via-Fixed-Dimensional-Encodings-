@@ -1,0 +1,10 @@
+{
+    "query": "What is one specific condition that an MRI of the abdomen can be used to check for?",
+    "response": [
+        "doc_17446.txt",
+        "doc_17452.txt",
+        "doc_17445.txt",
+        "doc_17448.txt",
+        "doc_17462.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who did Harper Lee assist in researching *In Cold Blood*?",
+    "response": [
+        "doc_3024.txt",
+        "doc_3035.txt",
+        "doc_3036.txt",
+        "doc_3026.txt",
+        "doc_3033.txt"
+    ]
+}

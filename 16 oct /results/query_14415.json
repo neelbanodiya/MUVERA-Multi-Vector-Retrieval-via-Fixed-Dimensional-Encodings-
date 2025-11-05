@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote a biography of Hannibal, and what was his connection to Carthage?",
+    "response": [
+        "doc_8352.txt",
+        "doc_8353.txt",
+        "doc_8357.txt",
+        "doc_8360.txt",
+        "doc_8350.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What musical style is associated with the song \"Stayin' Alive\" by the Bee Gees?",
+    "response": [
+        "doc_903.txt",
+        "doc_907.txt",
+        "doc_905.txt",
+        "doc_899.txt",
+        "doc_10595.txt"
+    ]
+}

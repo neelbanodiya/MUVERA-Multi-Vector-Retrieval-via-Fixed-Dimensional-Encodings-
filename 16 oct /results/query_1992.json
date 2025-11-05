@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is the approximate date of Buddha\u2019s life?",
+    "response": [
+        "doc_1193.txt",
+        "doc_1198.txt",
+        "doc_7707.txt",
+        "doc_5716.txt",
+        "doc_9303.txt"
+    ]
+}

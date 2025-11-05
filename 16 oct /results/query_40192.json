@@ -1,0 +1,10 @@
+{
+    "query": "Where is the autonomous principality of Andorra located in relation to the Pyrenees?",
+    "response": [
+        "doc_1001.txt",
+        "doc_23524.txt",
+        "doc_23526.txt",
+        "doc_1002.txt",
+        "doc_1005.txt"
+    ]
+}

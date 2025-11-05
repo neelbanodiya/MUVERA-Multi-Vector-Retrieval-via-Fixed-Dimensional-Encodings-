@@ -1,0 +1,10 @@
+{
+    "query": "According to multiple sources, what pledge do signers of the Declaration of Independence make?",
+    "response": [
+        "doc_23875.txt",
+        "doc_19852.txt",
+        "doc_8150.txt",
+        "doc_19850.txt",
+        "doc_19846.txt"
+    ]
+}

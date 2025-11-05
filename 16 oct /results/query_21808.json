@@ -1,0 +1,10 @@
+{
+    "query": "According to Lucius Apuleius, what is the name Isis is referred to as?",
+    "response": [
+        "doc_12557.txt",
+        "doc_12550.txt",
+        "doc_12556.txt",
+        "doc_12551.txt",
+        "doc_12552.txt"
+    ]
+}

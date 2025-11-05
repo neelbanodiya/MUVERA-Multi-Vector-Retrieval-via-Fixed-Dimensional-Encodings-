@@ -1,0 +1,10 @@
+{
+    "query": "What actions did the FTC take regarding the proposed merger of Staples and Office Depot?",
+    "response": [
+        "doc_10345.txt",
+        "doc_10346.txt",
+        "doc_10338.txt",
+        "doc_10341.txt",
+        "doc_10347.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the relationship between North Korea and the Soviet Union, according to the provided texts?",
+    "response": [
+        "doc_16201.txt",
+        "doc_16200.txt",
+        "doc_16203.txt",
+        "doc_16204.txt",
+        "doc_16202.txt"
+    ]
+}

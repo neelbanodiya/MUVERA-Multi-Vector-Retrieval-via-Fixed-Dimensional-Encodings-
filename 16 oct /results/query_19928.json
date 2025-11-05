@@ -1,0 +1,10 @@
+{
+    "query": "Which airline provides scheduled service to Block Island?",
+    "response": [
+        "doc_11493.txt",
+        "doc_11492.txt",
+        "doc_14880.txt",
+        "doc_6984.txt",
+        "doc_6985.txt"
+    ]
+}

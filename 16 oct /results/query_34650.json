@@ -1,0 +1,10 @@
+{
+    "query": "Which states border Paran\u00e1 on the south?",
+    "response": [
+        "doc_23420.txt",
+        "doc_20161.txt",
+        "doc_23426.txt",
+        "doc_4340.txt",
+        "doc_23421.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Does the Commission believe that lorries might also become 75 cm longer?",
+    "response": [
+        "doc_14948.txt",
+        "doc_8447.txt",
+        "doc_14949.txt",
+        "doc_12087.txt",
+        "doc_12079.txt"
+    ]
+}

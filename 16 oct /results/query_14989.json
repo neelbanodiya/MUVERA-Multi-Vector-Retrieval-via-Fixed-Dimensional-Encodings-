@@ -1,0 +1,10 @@
+{
+    "query": "What year was the original \u201cDinosaur Park\u201d novel first published under its original title?",
+    "response": [
+        "doc_8692.txt",
+        "doc_8694.txt",
+        "doc_15553.txt",
+        "doc_20212.txt",
+        "doc_1812.txt"
+    ]
+}

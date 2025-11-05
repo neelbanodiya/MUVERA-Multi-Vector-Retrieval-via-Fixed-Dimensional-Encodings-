@@ -1,0 +1,10 @@
+{
+    "query": "What artistic works did Leonardo Brescia create?",
+    "response": [
+        "doc_15475.txt",
+        "doc_15476.txt",
+        "doc_10764.txt",
+        "doc_10763.txt",
+        "doc_21750.txt"
+    ]
+}

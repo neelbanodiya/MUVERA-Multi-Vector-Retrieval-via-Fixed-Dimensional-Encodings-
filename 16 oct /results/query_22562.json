@@ -1,0 +1,10 @@
+{
+    "query": "What position did the Steelers select to strengthen their offensive line?",
+    "response": [
+        "doc_9161.txt",
+        "doc_11273.txt",
+        "doc_12991.txt",
+        "doc_5389.txt",
+        "doc_15587.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What role did Baron Coleridge hold from 1880 to 1894?",
+    "response": [
+        "doc_16125.txt",
+        "doc_16127.txt",
+        "doc_16128.txt",
+        "doc_12642.txt",
+        "doc_12643.txt"
+    ]
+}

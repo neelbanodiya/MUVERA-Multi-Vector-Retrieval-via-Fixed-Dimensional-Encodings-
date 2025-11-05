@@ -1,0 +1,10 @@
+{
+    "query": "In what year did \u201cThe Mindy Project\u201d begin airing on Hulu?",
+    "response": [
+        "doc_22876.txt",
+        "doc_3700.txt",
+        "doc_9515.txt",
+        "doc_23435.txt",
+        "doc_10904.txt"
+    ]
+}

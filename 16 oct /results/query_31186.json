@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what were the box office numbers for \u201cAvatar\u201d and \u201cTitanic\u201d?",
+    "response": [
+        "doc_21098.txt",
+        "doc_18934.txt",
+        "doc_21269.txt",
+        "doc_22046.txt",
+        "doc_8366.txt"
+    ]
+}

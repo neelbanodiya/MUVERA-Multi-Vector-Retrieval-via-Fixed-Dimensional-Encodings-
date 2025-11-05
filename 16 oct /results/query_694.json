@@ -1,0 +1,10 @@
+{
+    "query": "For how many years did Claudia Rosencrantz work for Jamie Oliver?",
+    "response": [
+        "doc_396.txt",
+        "doc_22120.txt",
+        "doc_10449.txt",
+        "doc_1660.txt",
+        "doc_20960.txt"
+    ]
+}

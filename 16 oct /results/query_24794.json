@@ -1,0 +1,10 @@
+{
+    "query": "What musical works are associated with Robert Taub (piano)?",
+    "response": [
+        "doc_14410.txt",
+        "doc_21521.txt",
+        "doc_22803.txt",
+        "doc_19136.txt",
+        "doc_17913.txt"
+    ]
+}

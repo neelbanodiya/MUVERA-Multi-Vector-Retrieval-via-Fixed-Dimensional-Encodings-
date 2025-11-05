@@ -1,0 +1,10 @@
+{
+    "query": "Which World War II novel served as a basis for the title of *Catch-22*?",
+    "response": [
+        "doc_10614.txt",
+        "doc_10629.txt",
+        "doc_10627.txt",
+        "doc_10622.txt",
+        "doc_10615.txt"
+    ]
+}

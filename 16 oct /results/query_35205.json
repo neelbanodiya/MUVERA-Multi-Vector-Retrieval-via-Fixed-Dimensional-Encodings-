@@ -1,0 +1,10 @@
+{
+    "query": "What question does Blake pose in \u201cThe Tyger,\u201d echoing a question from \u201cThe Lamb\u201d?",
+    "response": [
+        "doc_20533.txt",
+        "doc_20530.txt",
+        "doc_20534.txt",
+        "doc_20532.txt",
+        "doc_20535.txt"
+    ]
+}

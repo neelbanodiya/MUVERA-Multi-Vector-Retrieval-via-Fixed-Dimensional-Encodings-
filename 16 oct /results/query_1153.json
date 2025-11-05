@@ -1,0 +1,10 @@
+{
+    "query": "In what city was the centenary of the Graz opera celebrated?",
+    "response": [
+        "doc_651.txt",
+        "doc_14561.txt",
+        "doc_8642.txt",
+        "doc_106.txt",
+        "doc_12333.txt"
+    ]
+}

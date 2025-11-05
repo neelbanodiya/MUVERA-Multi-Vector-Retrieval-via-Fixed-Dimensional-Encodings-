@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the book that Hemingway wrote about bullfighting?",
+    "response": [
+        "doc_587.txt",
+        "doc_590.txt",
+        "doc_588.txt",
+        "doc_589.txt",
+        "doc_592.txt"
+    ]
+}

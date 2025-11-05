@@ -1,0 +1,10 @@
+{
+    "query": "What type of team is Aubrey Plaza involved with?",
+    "response": [
+        "doc_1320.txt",
+        "doc_4625.txt",
+        "doc_23357.txt",
+        "doc_4626.txt",
+        "doc_942.txt"
+    ]
+}

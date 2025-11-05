@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the connection between Punjabi culture and Sikhism?",
+    "response": [
+        "doc_20060.txt",
+        "doc_20059.txt",
+        "doc_12964.txt",
+        "doc_12975.txt",
+        "doc_12960.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of novel did Charles Dickens draw upon when writing *Oliver Twist*?",
+    "response": [
+        "doc_20549.txt",
+        "doc_20538.txt",
+        "doc_20556.txt",
+        "doc_20542.txt",
+        "doc_20552.txt"
+    ]
+}

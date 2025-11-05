@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many attendees were at the Live Aid concert held at Wembley Stadium in London?",
+    "response": [
+        "doc_12009.txt",
+        "doc_12014.txt",
+        "doc_12017.txt",
+        "doc_12012.txt",
+        "doc_12024.txt"
+    ]
+}

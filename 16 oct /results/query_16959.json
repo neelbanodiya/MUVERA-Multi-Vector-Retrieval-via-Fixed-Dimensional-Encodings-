@@ -1,0 +1,10 @@
+{
+    "query": "Which composer is featured in the performance *One Singular Sensation: Celebrating Marvin Hamlisch*?",
+    "response": [
+        "doc_9824.txt",
+        "doc_5249.txt",
+        "doc_12713.txt",
+        "doc_14550.txt",
+        "doc_12338.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the approximate number of unique monthly visitors to ICTMN in June 2014?",
+    "response": [
+        "doc_12132.txt",
+        "doc_15297.txt",
+        "doc_9365.txt",
+        "doc_22043.txt",
+        "doc_22225.txt"
+    ]
+}

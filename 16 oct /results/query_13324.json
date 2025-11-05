@@ -1,0 +1,10 @@
+{
+    "query": "What was Young Tom Morris known for?",
+    "response": [
+        "doc_3077.txt",
+        "doc_10362.txt",
+        "doc_17116.txt",
+        "doc_18954.txt",
+        "doc_349.txt"
+    ]
+}

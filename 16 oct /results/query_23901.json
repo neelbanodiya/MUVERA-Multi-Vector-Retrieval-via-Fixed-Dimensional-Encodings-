@@ -1,0 +1,10 @@
+{
+    "query": "What effort was Jack Baskin trying to achieve in the metro area?",
+    "response": [
+        "doc_12734.txt",
+        "doc_17690.txt",
+        "doc_5391.txt",
+        "doc_14535.txt",
+        "doc_4275.txt"
+    ]
+}

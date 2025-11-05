@@ -1,0 +1,10 @@
+{
+    "query": "What was Coach Hal Chase described as in one of the LIFE Magazine photos from 1959?",
+    "response": [
+        "doc_20203.txt",
+        "doc_4830.txt",
+        "doc_76.txt",
+        "doc_21972.txt",
+        "doc_9001.txt"
+    ]
+}

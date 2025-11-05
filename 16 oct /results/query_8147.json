@@ -1,0 +1,10 @@
+{
+    "query": "What happened on December 18th in Hawaii?",
+    "response": [
+        "doc_2078.txt",
+        "doc_6604.txt",
+        "doc_512.txt",
+        "doc_4237.txt",
+        "doc_10288.txt"
+    ]
+}

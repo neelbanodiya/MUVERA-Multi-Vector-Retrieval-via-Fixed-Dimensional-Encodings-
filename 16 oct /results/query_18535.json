@@ -1,0 +1,10 @@
+{
+    "query": "Which Italian city was Donatello working in when he created a statue of St. Mark?",
+    "response": [
+        "doc_10760.txt",
+        "doc_10759.txt",
+        "doc_10765.txt",
+        "doc_10762.txt",
+        "doc_10761.txt"
+    ]
+}

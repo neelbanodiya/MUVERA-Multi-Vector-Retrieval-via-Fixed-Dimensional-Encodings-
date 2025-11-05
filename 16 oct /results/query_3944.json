@@ -1,0 +1,10 @@
+{
+    "query": "Under whose rule did Marco Polo spend time in China during his travels?",
+    "response": [
+        "doc_2296.txt",
+        "doc_2303.txt",
+        "doc_2312.txt",
+        "doc_2297.txt",
+        "doc_2304.txt"
+    ]
+}

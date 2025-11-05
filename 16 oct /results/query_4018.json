@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the \"Red Tour\" begin and conclude?",
+    "response": [
+        "doc_15319.txt",
+        "doc_2348.txt",
+        "doc_23262.txt",
+        "doc_17914.txt",
+        "doc_20558.txt"
+    ]
+}

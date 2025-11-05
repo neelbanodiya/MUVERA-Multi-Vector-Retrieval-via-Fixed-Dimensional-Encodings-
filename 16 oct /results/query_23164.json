@@ -1,0 +1,10 @@
+{
+    "query": "Which sections of the Annexes are referenced under the heading \"Access to chamber 145\"?",
+    "response": [
+        "doc_13369.txt",
+        "doc_13278.txt",
+        "doc_13367.txt",
+        "doc_13300.txt",
+        "doc_13183.txt"
+    ]
+}

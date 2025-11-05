@@ -1,0 +1,10 @@
+{
+    "query": "According to Recital 24, what actions can the Commission undertake regarding Annex I?",
+    "response": [
+        "doc_20767.txt",
+        "doc_20811.txt",
+        "doc_13356.txt",
+        "doc_18040.txt",
+        "doc_6171.txt"
+    ]
+}

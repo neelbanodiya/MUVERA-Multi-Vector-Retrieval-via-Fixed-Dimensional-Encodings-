@@ -1,0 +1,10 @@
+{
+    "query": "What is the location of SV Darmstadt 98\u2019s stadium?",
+    "response": [
+        "doc_3072.txt",
+        "doc_3073.txt",
+        "doc_6528.txt",
+        "doc_2602.txt",
+        "doc_8695.txt"
+    ]
+}

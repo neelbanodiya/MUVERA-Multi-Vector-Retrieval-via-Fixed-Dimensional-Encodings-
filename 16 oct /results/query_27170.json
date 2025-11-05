@@ -1,0 +1,10 @@
+{
+    "query": "Which recipes specifically mention using Greek yogurt in a sauce or marinade?",
+    "response": [
+        "doc_15778.txt",
+        "doc_15780.txt",
+        "doc_15786.txt",
+        "doc_15784.txt",
+        "doc_15787.txt"
+    ]
+}

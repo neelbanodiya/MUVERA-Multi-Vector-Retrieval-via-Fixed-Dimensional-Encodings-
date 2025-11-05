@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was Jeff Smith\u2019s nickname and what was he known for?",
+    "response": [
+        "doc_7824.txt",
+        "doc_20220.txt",
+        "doc_19310.txt",
+        "doc_7826.txt",
+        "doc_7825.txt"
+    ]
+}

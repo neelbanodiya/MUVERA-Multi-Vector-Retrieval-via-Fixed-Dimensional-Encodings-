@@ -1,0 +1,10 @@
+{
+    "query": "Besides *Citizen Kane* and *The Magnificent Ambersons*, name three other films directed by Orson Welles mentioned in the provided text.",
+    "response": [
+        "doc_7767.txt",
+        "doc_7768.txt",
+        "doc_7765.txt",
+        "doc_7766.txt",
+        "doc_7769.txt"
+    ]
+}

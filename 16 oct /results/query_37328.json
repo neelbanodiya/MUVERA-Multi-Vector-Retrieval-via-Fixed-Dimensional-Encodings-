@@ -1,0 +1,10 @@
+{
+    "query": "Which fashion house created the perfume L'Air du Temps?",
+    "response": [
+        "doc_21853.txt",
+        "doc_21854.txt",
+        "doc_21855.txt",
+        "doc_5464.txt",
+        "doc_5851.txt"
+    ]
+}

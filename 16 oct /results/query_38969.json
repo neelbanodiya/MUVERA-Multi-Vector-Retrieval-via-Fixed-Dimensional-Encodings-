@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate year that the Old North Church was built?",
+    "response": [
+        "doc_16630.txt",
+        "doc_22816.txt",
+        "doc_4817.txt",
+        "doc_22811.txt",
+        "doc_18493.txt"
+    ]
+}

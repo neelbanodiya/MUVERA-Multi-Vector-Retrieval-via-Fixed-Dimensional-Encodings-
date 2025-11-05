@@ -1,0 +1,10 @@
+{
+    "query": "What film did Omar Sharif and Lawrence make together?",
+    "response": [
+        "doc_16872.txt",
+        "doc_12759.txt",
+        "doc_23994.txt",
+        "doc_10749.txt",
+        "doc_4746.txt"
+    ]
+}

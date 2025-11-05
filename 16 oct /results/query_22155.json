@@ -1,0 +1,10 @@
+{
+    "query": "What time period is the novel *The Ox-Bow Incident* set in?",
+    "response": [
+        "doc_12795.txt",
+        "doc_12800.txt",
+        "doc_12790.txt",
+        "doc_12797.txt",
+        "doc_12782.txt"
+    ]
+}

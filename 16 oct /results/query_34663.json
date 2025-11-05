@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of all SNAP benefits do households receive?",
+    "response": [
+        "doc_19258.txt",
+        "doc_11814.txt",
+        "doc_14158.txt",
+        "doc_18019.txt",
+        "doc_22698.txt"
+    ]
+}

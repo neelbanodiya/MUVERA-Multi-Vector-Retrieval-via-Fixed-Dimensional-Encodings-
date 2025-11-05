@@ -1,0 +1,10 @@
+{
+    "query": "What kind of vehicles does Chevrolet sell?",
+    "response": [
+        "doc_17155.txt",
+        "doc_17163.txt",
+        "doc_17152.txt",
+        "doc_17156.txt",
+        "doc_21856.txt"
+    ]
+}

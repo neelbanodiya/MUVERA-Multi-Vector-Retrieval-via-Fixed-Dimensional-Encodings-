@@ -1,0 +1,10 @@
+{
+    "query": "When did Lone Star Brewing Company begin selling beer annually?",
+    "response": [
+        "doc_7174.txt",
+        "doc_7175.txt",
+        "doc_7173.txt",
+        "doc_7178.txt",
+        "doc_7176.txt"
+    ]
+}

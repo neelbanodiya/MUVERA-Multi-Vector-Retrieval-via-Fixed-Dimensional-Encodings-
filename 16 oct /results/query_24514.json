@@ -1,0 +1,10 @@
+{
+    "query": "What was happening nearby the car when Jones was observing?",
+    "response": [
+        "doc_6758.txt",
+        "doc_242.txt",
+        "doc_4157.txt",
+        "doc_21211.txt",
+        "doc_6759.txt"
+    ]
+}

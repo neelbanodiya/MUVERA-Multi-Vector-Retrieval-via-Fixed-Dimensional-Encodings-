@@ -1,0 +1,10 @@
+{
+    "query": "How did the incident impact the Socialist Party of America?",
+    "response": [
+        "doc_23357.txt",
+        "doc_5893.txt",
+        "doc_8681.txt",
+        "doc_23151.txt",
+        "doc_2099.txt"
+    ]
+}

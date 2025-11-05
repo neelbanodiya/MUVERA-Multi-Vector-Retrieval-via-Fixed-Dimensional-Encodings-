@@ -1,0 +1,10 @@
+{
+    "query": "When did President John F. Kennedy propose a four-month program of covert operations against North Vietnam?",
+    "response": [
+        "doc_11842.txt",
+        "doc_15918.txt",
+        "doc_7732.txt",
+        "doc_1527.txt",
+        "doc_20680.txt"
+    ]
+}

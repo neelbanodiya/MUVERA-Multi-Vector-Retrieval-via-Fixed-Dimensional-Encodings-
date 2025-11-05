@@ -1,0 +1,10 @@
+{
+    "query": "What was the shooting percentage of Zach Randolph in the game described?",
+    "response": [
+        "doc_18567.txt",
+        "doc_6720.txt",
+        "doc_4364.txt",
+        "doc_6714.txt",
+        "doc_8502.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what qualities are often associated with Russian interior design?",
+    "response": [
+        "doc_20859.txt",
+        "doc_2546.txt",
+        "doc_2540.txt",
+        "doc_2536.txt",
+        "doc_2547.txt"
+    ]
+}

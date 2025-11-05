@@ -1,0 +1,10 @@
+{
+    "query": "Which airports does Northern California TRACON control airspace over?",
+    "response": [
+        "doc_11492.txt",
+        "doc_11490.txt",
+        "doc_1559.txt",
+        "doc_19534.txt",
+        "doc_1558.txt"
+    ]
+}

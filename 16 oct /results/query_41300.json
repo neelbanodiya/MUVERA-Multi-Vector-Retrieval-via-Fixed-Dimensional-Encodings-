@@ -1,0 +1,10 @@
+{
+    "query": "What was the relationship described between the US and Saudi Arabia regarding money?",
+    "response": [
+        "doc_15726.txt",
+        "doc_22686.txt",
+        "doc_9926.txt",
+        "doc_6489.txt",
+        "doc_22942.txt"
+    ]
+}

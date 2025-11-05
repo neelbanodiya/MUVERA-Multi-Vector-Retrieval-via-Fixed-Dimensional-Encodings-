@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of Masanobu Fukuoka\u2019s book that describes his approach to farming?",
+    "response": [
+        "doc_21382.txt",
+        "doc_795.txt",
+        "doc_7141.txt",
+        "doc_7131.txt",
+        "doc_18447.txt"
+    ]
+}

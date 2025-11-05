@@ -1,0 +1,10 @@
+{
+    "query": "What role did Catherine de\u2019 Medici play in France?",
+    "response": [
+        "doc_23746.txt",
+        "doc_23755.txt",
+        "doc_23754.txt",
+        "doc_23748.txt",
+        "doc_23745.txt"
+    ]
+}

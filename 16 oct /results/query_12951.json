@@ -1,0 +1,10 @@
+{
+    "query": "What artists are featured on the album \"Endless Love Luther Vandross & Mariah Carey\"?",
+    "response": [
+        "doc_7536.txt",
+        "doc_7543.txt",
+        "doc_7538.txt",
+        "doc_7542.txt",
+        "doc_128.txt"
+    ]
+}

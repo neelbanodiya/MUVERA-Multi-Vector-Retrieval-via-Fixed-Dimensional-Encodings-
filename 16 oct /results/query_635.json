@@ -1,0 +1,10 @@
+{
+    "query": "How far back do reports of the Loch Ness monster date?",
+    "response": [
+        "doc_369.txt",
+        "doc_370.txt",
+        "doc_379.txt",
+        "doc_377.txt",
+        "doc_380.txt"
+    ]
+}

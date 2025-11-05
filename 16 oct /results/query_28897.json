@@ -1,0 +1,10 @@
+{
+    "query": "When did the ValuJet crash occur?",
+    "response": [
+        "doc_16838.txt",
+        "doc_16839.txt",
+        "doc_20187.txt",
+        "doc_512.txt",
+        "doc_13009.txt"
+    ]
+}

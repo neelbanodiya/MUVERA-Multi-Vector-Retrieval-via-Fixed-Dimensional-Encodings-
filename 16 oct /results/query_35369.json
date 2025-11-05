@@ -1,0 +1,10 @@
+{
+    "query": "What kind of trouble does Pinocchio get into during the movie?",
+    "response": [
+        "doc_20619.txt",
+        "doc_20615.txt",
+        "doc_14866.txt",
+        "doc_20613.txt",
+        "doc_20610.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the ISBN-10 of a book published in conjunction with the National Museum of the American Indian?",
+    "response": [
+        "doc_21685.txt",
+        "doc_21686.txt",
+        "doc_12463.txt",
+        "doc_20896.txt",
+        "doc_1908.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In the 2005 film *Sky High*, who plays Will, the incoming freshman?",
+    "response": [
+        "doc_15444.txt",
+        "doc_217.txt",
+        "doc_208.txt",
+        "doc_21359.txt",
+        "doc_19282.txt"
+    ]
+}

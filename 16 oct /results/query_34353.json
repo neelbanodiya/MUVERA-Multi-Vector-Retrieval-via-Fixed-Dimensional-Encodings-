@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the girl group featured in the Beach Boys\u2019 1963 hit, \u201cBallad of Ole Betsy\u201d?",
+    "response": [
+        "doc_19989.txt",
+        "doc_19997.txt",
+        "doc_20002.txt",
+        "doc_19999.txt",
+        "doc_19986.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where did Leonard die?",
+    "response": [
+        "doc_764.txt",
+        "doc_10449.txt",
+        "doc_1066.txt",
+        "doc_21385.txt",
+        "doc_4609.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the \u201cCmulex.0.6\u201d document, what are some common words listed?",
+    "response": [
+        "doc_9043.txt",
+        "doc_2479.txt",
+        "doc_14591.txt",
+        "doc_5562.txt",
+        "doc_15420.txt"
+    ]
+}

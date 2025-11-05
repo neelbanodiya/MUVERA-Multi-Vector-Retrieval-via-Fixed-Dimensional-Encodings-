@@ -1,0 +1,10 @@
+{
+    "query": "What role did Laura Donnelly play in the BBC drama about George Best?",
+    "response": [
+        "doc_10379.txt",
+        "doc_4007.txt",
+        "doc_781.txt",
+        "doc_5320.txt",
+        "doc_12637.txt"
+    ]
+}

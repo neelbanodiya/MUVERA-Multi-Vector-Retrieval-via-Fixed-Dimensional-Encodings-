@@ -1,0 +1,10 @@
+{
+    "query": "According to the European Academies' Science Advisory Council, what was the estimated annual cost of tuberculosis treatment in the EU?",
+    "response": [
+        "doc_5748.txt",
+        "doc_19591.txt",
+        "doc_20347.txt",
+        "doc_15493.txt",
+        "doc_12811.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which album released in 1963 featured heavily echoed vocals and a \u201cSpector-ish\u201d sound?",
+    "response": [
+        "doc_8511.txt",
+        "doc_5318.txt",
+        "doc_8468.txt",
+        "doc_5320.txt",
+        "doc_8467.txt"
+    ]
+}

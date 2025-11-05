@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the place they are going to in Star Trek III?",
+    "response": [
+        "doc_10132.txt",
+        "doc_10127.txt",
+        "doc_8811.txt",
+        "doc_15092.txt",
+        "doc_10131.txt"
+    ]
+}

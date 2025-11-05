@@ -1,0 +1,10 @@
+{
+    "query": "What is Honolulu\u2019s status in relation to Hawaii?",
+    "response": [
+        "doc_5825.txt",
+        "doc_20126.txt",
+        "doc_1765.txt",
+        "doc_21464.txt",
+        "doc_21006.txt"
+    ]
+}

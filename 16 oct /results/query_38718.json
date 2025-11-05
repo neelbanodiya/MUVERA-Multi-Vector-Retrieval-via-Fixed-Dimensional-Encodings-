@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what stance has Algeria taken regarding Egypt\u2019s intervention in Libya?",
+    "response": [
+        "doc_22686.txt",
+        "doc_22693.txt",
+        "doc_22694.txt",
+        "doc_22688.txt",
+        "doc_22690.txt"
+    ]
+}

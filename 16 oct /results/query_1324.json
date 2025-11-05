@@ -1,0 +1,10 @@
+{
+    "query": "What novel is Owen Wister known for writing?",
+    "response": [
+        "doc_9402.txt",
+        "doc_4654.txt",
+        "doc_8121.txt",
+        "doc_756.txt",
+        "doc_5763.txt"
+    ]
+}

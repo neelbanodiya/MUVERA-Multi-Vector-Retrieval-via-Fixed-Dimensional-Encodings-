@@ -1,0 +1,10 @@
+{
+    "query": "What city is associated with the name of a Scottish salmon cannery?",
+    "response": [
+        "doc_1764.txt",
+        "doc_1765.txt",
+        "doc_9253.txt",
+        "doc_378.txt",
+        "doc_1771.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which states currently have a minimum wage higher than the federal minimum wage, and what is the current minimum wage in Wyoming?",
+    "response": [
+        "doc_11919.txt",
+        "doc_11920.txt",
+        "doc_11921.txt",
+        "doc_11924.txt",
+        "doc_11922.txt"
+    ]
+}

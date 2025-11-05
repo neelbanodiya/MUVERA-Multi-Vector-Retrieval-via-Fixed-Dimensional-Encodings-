@@ -1,0 +1,10 @@
+{
+    "query": "What year did George Gershwin die?",
+    "response": [
+        "doc_3840.txt",
+        "doc_3839.txt",
+        "doc_3841.txt",
+        "doc_3838.txt",
+        "doc_9460.txt"
+    ]
+}

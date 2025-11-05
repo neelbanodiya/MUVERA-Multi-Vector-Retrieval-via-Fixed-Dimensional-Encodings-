@@ -1,0 +1,10 @@
+{
+    "query": "What type of animal is Gretchen, as described in the City of Mansfield, Texas website?",
+    "response": [
+        "doc_20944.txt",
+        "doc_12308.txt",
+        "doc_5091.txt",
+        "doc_4831.txt",
+        "doc_3543.txt"
+    ]
+}

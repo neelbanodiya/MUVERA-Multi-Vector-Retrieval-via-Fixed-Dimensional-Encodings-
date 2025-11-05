@@ -1,0 +1,10 @@
+{
+    "query": "What movie parodied Bullitt and featured the City by the Bay for its epic chase scene?",
+    "response": [
+        "doc_1887.txt",
+        "doc_1890.txt",
+        "doc_1886.txt",
+        "doc_18844.txt",
+        "doc_1580.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which groups of Members of the European Parliament debated Euro-Mediterranean relations?",
+    "response": [
+        "doc_19901.txt",
+        "doc_1210.txt",
+        "doc_5235.txt",
+        "doc_1219.txt",
+        "doc_17370.txt"
+    ]
+}

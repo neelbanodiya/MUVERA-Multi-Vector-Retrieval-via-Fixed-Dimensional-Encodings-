@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, in which European cuisines are chanterelles commonly found?",
+    "response": [
+        "doc_18265.txt",
+        "doc_21922.txt",
+        "doc_8749.txt",
+        "doc_18266.txt",
+        "doc_21924.txt"
+    ]
+}

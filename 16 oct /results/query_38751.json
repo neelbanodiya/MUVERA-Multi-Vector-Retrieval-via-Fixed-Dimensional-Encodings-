@@ -1,0 +1,10 @@
+{
+    "query": "What was the central legal issue addressed in *Barron v. Baltimore*?",
+    "response": [
+        "doc_22701.txt",
+        "doc_15993.txt",
+        "doc_13790.txt",
+        "doc_3341.txt",
+        "doc_8583.txt"
+    ]
+}

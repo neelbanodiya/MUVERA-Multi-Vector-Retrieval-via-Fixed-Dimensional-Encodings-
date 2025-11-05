@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Lee Strasberg join the Actors Studio in New York City?",
+    "response": [
+        "doc_7986.txt",
+        "doc_7987.txt",
+        "doc_7985.txt",
+        "doc_7988.txt",
+        "doc_7989.txt"
+    ]
+}

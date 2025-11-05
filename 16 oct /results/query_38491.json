@@ -1,0 +1,10 @@
+{
+    "query": "Which prize did J.M. Coetzee win in 1983?",
+    "response": [
+        "doc_22577.txt",
+        "doc_22572.txt",
+        "doc_22570.txt",
+        "doc_22571.txt",
+        "doc_22568.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the University of Connecticut\u2019s women\u2019s basketball team achieve significant success?",
+    "response": [
+        "doc_19123.txt",
+        "doc_19122.txt",
+        "doc_24248.txt",
+        "doc_20192.txt",
+        "doc_24251.txt"
+    ]
+}

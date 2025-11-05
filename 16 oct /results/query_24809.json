@@ -1,0 +1,10 @@
+{
+    "query": "What number is associated with the word \"ENGAGED\"?",
+    "response": [
+        "doc_9042.txt",
+        "doc_22515.txt",
+        "doc_12622.txt",
+        "doc_4404.txt",
+        "doc_4394.txt"
+    ]
+}

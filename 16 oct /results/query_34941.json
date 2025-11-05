@@ -1,0 +1,10 @@
+{
+    "query": "When was the General Assembly established in Iceland?",
+    "response": [
+        "doc_19726.txt",
+        "doc_9163.txt",
+        "doc_20514.txt",
+        "doc_21252.txt",
+        "doc_12051.txt"
+    ]
+}

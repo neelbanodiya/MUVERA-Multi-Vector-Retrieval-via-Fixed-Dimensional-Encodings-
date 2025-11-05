@@ -1,0 +1,10 @@
+{
+    "query": "Who was the first Canadian-born governor general, and what event marked this change?",
+    "response": [
+        "doc_21250.txt",
+        "doc_21257.txt",
+        "doc_21259.txt",
+        "doc_11473.txt",
+        "doc_21254.txt"
+    ]
+}

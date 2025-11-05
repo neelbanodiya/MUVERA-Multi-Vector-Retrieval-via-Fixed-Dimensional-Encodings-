@@ -1,0 +1,10 @@
+{
+    "query": "Who designed the Lincoln Memorial?",
+    "response": [
+        "doc_12450.txt",
+        "doc_14407.txt",
+        "doc_10089.txt",
+        "doc_16265.txt",
+        "doc_16272.txt"
+    ]
+}

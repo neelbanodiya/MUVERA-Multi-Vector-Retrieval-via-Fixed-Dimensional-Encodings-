@@ -1,0 +1,10 @@
+{
+    "query": "Which director directed the 1997 film based on a John Grisham novel?",
+    "response": [
+        "doc_8693.txt",
+        "doc_19877.txt",
+        "doc_2231.txt",
+        "doc_14685.txt",
+        "doc_1812.txt"
+    ]
+}

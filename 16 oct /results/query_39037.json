@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was Julia Roberts\u2019 role in the film *Pretty Woman*?",
+    "response": [
+        "doc_22839.txt",
+        "doc_22840.txt",
+        "doc_22843.txt",
+        "doc_22856.txt",
+        "doc_1810.txt"
+    ]
+}

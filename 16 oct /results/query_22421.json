@@ -1,0 +1,10 @@
+{
+    "query": "What type of business did Dick and his wife own in the television series *Newhart*?",
+    "response": [
+        "doc_22486.txt",
+        "doc_22330.txt",
+        "doc_21997.txt",
+        "doc_3259.txt",
+        "doc_4260.txt"
+    ]
+}

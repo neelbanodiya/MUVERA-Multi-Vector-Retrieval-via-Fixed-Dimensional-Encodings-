@@ -1,0 +1,10 @@
+{
+    "query": "What award did Edgar Allan Poe receive in 1997?",
+    "response": [
+        "doc_5757.txt",
+        "doc_5762.txt",
+        "doc_5759.txt",
+        "doc_5758.txt",
+        "doc_5766.txt"
+    ]
+}

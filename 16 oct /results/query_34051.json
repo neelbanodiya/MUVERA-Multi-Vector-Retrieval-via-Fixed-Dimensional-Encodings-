@@ -1,0 +1,10 @@
+{
+    "query": "What was the procedural type used for this European Parliament legislative resolution?",
+    "response": [
+        "doc_21466.txt",
+        "doc_8444.txt",
+        "doc_19979.txt",
+        "doc_8445.txt",
+        "doc_16817.txt"
+    ]
+}

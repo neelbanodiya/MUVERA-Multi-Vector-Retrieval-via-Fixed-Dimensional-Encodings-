@@ -1,0 +1,10 @@
+{
+    "query": "In what year was *In Cold Blood* first published?",
+    "response": [
+        "doc_19140.txt",
+        "doc_3040.txt",
+        "doc_14279.txt",
+        "doc_7041.txt",
+        "doc_109.txt"
+    ]
+}

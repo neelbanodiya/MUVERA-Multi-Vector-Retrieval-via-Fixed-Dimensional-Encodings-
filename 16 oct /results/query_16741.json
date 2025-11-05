@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what song did Garth Brooks release in 1990 that was \u201cvery traditional\u201d?",
+    "response": [
+        "doc_4605.txt",
+        "doc_9698.txt",
+        "doc_9704.txt",
+        "doc_9702.txt",
+        "doc_17797.txt"
+    ]
+}

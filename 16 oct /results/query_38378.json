@@ -1,0 +1,10 @@
+{
+    "query": "In what year was A&M Consolidated High School established and what was its status regarding high schools in College Station at that time?",
+    "response": [
+        "doc_22510.txt",
+        "doc_4741.txt",
+        "doc_22508.txt",
+        "doc_16936.txt",
+        "doc_1511.txt"
+    ]
+}

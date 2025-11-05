@@ -1,0 +1,10 @@
+{
+    "query": "In 1997, what episode of Miami Vice was ranked #90 on TV?",
+    "response": [
+        "doc_5211.txt",
+        "doc_7715.txt",
+        "doc_19704.txt",
+        "doc_3699.txt",
+        "doc_16957.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the dance described as \u201csmall\u201d in French?",
+    "response": [
+        "doc_5848.txt",
+        "doc_5861.txt",
+        "doc_5851.txt",
+        "doc_5853.txt",
+        "doc_5850.txt"
+    ]
+}

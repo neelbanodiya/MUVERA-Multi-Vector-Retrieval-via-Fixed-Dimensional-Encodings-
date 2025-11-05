@@ -1,0 +1,10 @@
+{
+    "query": "Who were the \u201ctop actors\u201d that \u201cSeinfeld\u201d was looking to work with?",
+    "response": [
+        "doc_4462.txt",
+        "doc_4464.txt",
+        "doc_4872.txt",
+        "doc_4463.txt",
+        "doc_4471.txt"
+    ]
+}

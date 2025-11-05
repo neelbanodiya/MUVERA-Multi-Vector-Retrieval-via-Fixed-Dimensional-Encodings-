@@ -1,0 +1,10 @@
+{
+    "query": "What significant event occurred in 1929 that was observed by a family in the United States?",
+    "response": [
+        "doc_5997.txt",
+        "doc_1349.txt",
+        "doc_19370.txt",
+        "doc_19369.txt",
+        "doc_2099.txt"
+    ]
+}

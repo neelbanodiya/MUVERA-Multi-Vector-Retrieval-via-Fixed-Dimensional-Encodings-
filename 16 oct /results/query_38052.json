@@ -1,0 +1,10 @@
+{
+    "query": "What is the basis for the *Into the Woods* musical production, including awards it received?",
+    "response": [
+        "doc_22325.txt",
+        "doc_22307.txt",
+        "doc_22320.txt",
+        "doc_22312.txt",
+        "doc_10500.txt"
+    ]
+}

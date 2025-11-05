@@ -1,0 +1,10 @@
+{
+    "query": "What were the demonstrators calling for during the events in Tiananmen Square?",
+    "response": [
+        "doc_10987.txt",
+        "doc_10975.txt",
+        "doc_10972.txt",
+        "doc_10974.txt",
+        "doc_10978.txt"
+    ]
+}

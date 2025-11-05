@@ -1,0 +1,10 @@
+{
+    "query": "On what date were the ten countries set to join the EU, according to the Parliament\u2019s resolution?",
+    "response": [
+        "doc_3580.txt",
+        "doc_22965.txt",
+        "doc_12932.txt",
+        "doc_21466.txt",
+        "doc_15468.txt"
+    ]
+}

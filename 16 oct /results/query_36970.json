@@ -1,0 +1,10 @@
+{
+    "query": "How many Stanley Cups have the Pittsburgh Penguins won?",
+    "response": [
+        "doc_21626.txt",
+        "doc_21628.txt",
+        "doc_21625.txt",
+        "doc_2004.txt",
+        "doc_2003.txt"
+    ]
+}

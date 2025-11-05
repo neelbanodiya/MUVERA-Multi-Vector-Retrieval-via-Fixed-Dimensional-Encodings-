@@ -1,0 +1,10 @@
+{
+    "query": "What television drama did Jimmy Smits play Victor Sifuentes in?",
+    "response": [
+        "doc_10720.txt",
+        "doc_10719.txt",
+        "doc_10723.txt",
+        "doc_5157.txt",
+        "doc_18484.txt"
+    ]
+}

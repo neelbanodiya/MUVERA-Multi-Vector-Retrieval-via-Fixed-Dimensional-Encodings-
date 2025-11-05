@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of a novel written by Isaac Bashevis Singer that provides an \u201cinside look at a\u2026\u201d?",
+    "response": [
+        "doc_10398.txt",
+        "doc_10386.txt",
+        "doc_10399.txt",
+        "doc_10392.txt",
+        "doc_10389.txt"
+    ]
+}

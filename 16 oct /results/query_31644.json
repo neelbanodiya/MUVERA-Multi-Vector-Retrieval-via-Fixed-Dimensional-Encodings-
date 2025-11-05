@@ -1,0 +1,10 @@
+{
+    "query": "What did Robinson Crusoe use to teach the boy he rescued?",
+    "response": [
+        "doc_18445.txt",
+        "doc_18453.txt",
+        "doc_18448.txt",
+        "doc_18450.txt",
+        "doc_18458.txt"
+    ]
+}

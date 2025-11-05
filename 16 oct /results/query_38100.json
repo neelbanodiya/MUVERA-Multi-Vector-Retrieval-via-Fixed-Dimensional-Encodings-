@@ -1,0 +1,10 @@
+{
+    "query": "According to the Parliament, what steps are needed regarding the Israel-Palestinian conflict?",
+    "response": [
+        "doc_5822.txt",
+        "doc_22333.txt",
+        "doc_22718.txt",
+        "doc_2492.txt",
+        "doc_13164.txt"
+    ]
+}

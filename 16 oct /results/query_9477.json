@@ -1,0 +1,10 @@
+{
+    "query": "Which non-governmental organizations (NGOs) received funding from the general EU budget during the specified time period, according to the Commission\u2019s research?",
+    "response": [
+        "doc_5468.txt",
+        "doc_23357.txt",
+        "doc_8888.txt",
+        "doc_4065.txt",
+        "doc_10828.txt"
+    ]
+}

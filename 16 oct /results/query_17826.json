@@ -1,0 +1,10 @@
+{
+    "query": "Where is McMurdo Station located, and what is its proximity to the ice shelf?",
+    "response": [
+        "doc_10326.txt",
+        "doc_10334.txt",
+        "doc_9619.txt",
+        "doc_10325.txt",
+        "doc_19223.txt"
+    ]
+}

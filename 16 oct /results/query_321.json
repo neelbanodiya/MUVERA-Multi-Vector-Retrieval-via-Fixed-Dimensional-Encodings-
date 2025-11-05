@@ -1,0 +1,10 @@
+{
+    "query": "What are the EU\u2019s recommendations regarding Member States\u2019 energy plans, specifically concerning supply, demand, and greenhouse gas emissions?",
+    "response": [
+        "doc_19162.txt",
+        "doc_177.txt",
+        "doc_24175.txt",
+        "doc_23222.txt",
+        "doc_24178.txt"
+    ]
+}

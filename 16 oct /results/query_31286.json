@@ -1,0 +1,10 @@
+{
+    "query": "According to FBI sources, when did top AB members engage in disruptive behavior?",
+    "response": [
+        "doc_13133.txt",
+        "doc_22393.txt",
+        "doc_21306.txt",
+        "doc_15104.txt",
+        "doc_9779.txt"
+    ]
+}

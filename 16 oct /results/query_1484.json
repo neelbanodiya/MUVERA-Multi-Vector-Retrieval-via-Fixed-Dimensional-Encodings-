@@ -1,0 +1,10 @@
+{
+    "query": "Which African snakes are known to be neurotoxic, and what is a potential effect of their venom?",
+    "response": [
+        "doc_843.txt",
+        "doc_835.txt",
+        "doc_836.txt",
+        "doc_831.txt",
+        "doc_844.txt"
+    ]
+}

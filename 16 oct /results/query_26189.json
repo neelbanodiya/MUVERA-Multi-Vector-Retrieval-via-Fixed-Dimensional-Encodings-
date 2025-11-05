@@ -1,0 +1,10 @@
+{
+    "query": "From what years did Trygve Lie serve as the Norwegian Foreign Minister?",
+    "response": [
+        "doc_15223.txt",
+        "doc_15224.txt",
+        "doc_15228.txt",
+        "doc_15229.txt",
+        "doc_15225.txt"
+    ]
+}

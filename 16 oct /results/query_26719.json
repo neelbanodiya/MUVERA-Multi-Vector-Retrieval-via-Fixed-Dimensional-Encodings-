@@ -1,0 +1,10 @@
+{
+    "query": "How many people have won Olympic medals in both the Summer and Winter Games?",
+    "response": [
+        "doc_15514.txt",
+        "doc_15521.txt",
+        "doc_15512.txt",
+        "doc_24158.txt",
+        "doc_15516.txt"
+    ]
+}

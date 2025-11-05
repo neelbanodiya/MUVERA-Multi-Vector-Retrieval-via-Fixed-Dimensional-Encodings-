@@ -1,0 +1,10 @@
+{
+    "query": "What years did Harold Wilson serve as Prime Minister of the United Kingdom?",
+    "response": [
+        "doc_9773.txt",
+        "doc_4774.txt",
+        "doc_9772.txt",
+        "doc_4782.txt",
+        "doc_4777.txt"
+    ]
+}

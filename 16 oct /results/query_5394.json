@@ -1,0 +1,10 @@
+{
+    "query": "Where do the Sacramento and San Joaquin Rivers originate, according to the provided text?",
+    "response": [
+        "doc_3143.txt",
+        "doc_3145.txt",
+        "doc_3147.txt",
+        "doc_3153.txt",
+        "doc_3148.txt"
+    ]
+}

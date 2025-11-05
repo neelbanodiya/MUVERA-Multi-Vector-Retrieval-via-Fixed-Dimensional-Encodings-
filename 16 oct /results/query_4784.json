@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Astor, and what might have occurred if he had not died on the Titanic?",
+    "response": [
+        "doc_21113.txt",
+        "doc_18166.txt",
+        "doc_21098.txt",
+        "doc_21104.txt",
+        "doc_21099.txt"
+    ]
+}

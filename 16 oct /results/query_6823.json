@@ -1,0 +1,10 @@
+{
+    "query": "When will the European Parliament vote on the report regarding marketing authorisations?",
+    "response": [
+        "doc_3915.txt",
+        "doc_16885.txt",
+        "doc_20755.txt",
+        "doc_20765.txt",
+        "doc_9293.txt"
+    ]
+}

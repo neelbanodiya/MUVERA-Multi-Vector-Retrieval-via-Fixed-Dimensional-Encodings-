@@ -1,0 +1,10 @@
+{
+    "query": "According to the Bio-Initiative report, what specific health risks are associated with exposure to electromagnetic fields (ELFs)?",
+    "response": [
+        "doc_133.txt",
+        "doc_16706.txt",
+        "doc_17209.txt",
+        "doc_16415.txt",
+        "doc_14288.txt"
+    ]
+}

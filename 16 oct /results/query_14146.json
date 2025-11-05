@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was Stalin\u2019s reaction to Chertok\u2019s meeting?",
+    "response": [
+        "doc_21971.txt",
+        "doc_1011.txt",
+        "doc_7210.txt",
+        "doc_7678.txt",
+        "doc_7690.txt"
+    ]
+}

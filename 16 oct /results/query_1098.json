@@ -1,0 +1,10 @@
+{
+    "query": "What was the Soviet space station called that two cosmonauts were orbiting?",
+    "response": [
+        "doc_602.txt",
+        "doc_23947.txt",
+        "doc_616.txt",
+        "doc_1904.txt",
+        "doc_608.txt"
+    ]
+}

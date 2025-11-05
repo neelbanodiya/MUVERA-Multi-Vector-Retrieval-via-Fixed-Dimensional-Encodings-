@@ -1,0 +1,10 @@
+{
+    "query": "If you played the Hungry Hungry Hippos board game you'd know that the hippos were trying to eat these objects.",
+    "response": [
+        "doc_20659.txt",
+        "doc_20660.txt",
+        "doc_20663.txt",
+        "doc_20666.txt",
+        "doc_20661.txt"
+    ]
+}

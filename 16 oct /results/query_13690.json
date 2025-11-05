@@ -1,0 +1,10 @@
+{
+    "query": "How many applications for a certificate of specific character have been sent to the Commission?",
+    "response": [
+        "doc_22235.txt",
+        "doc_20126.txt",
+        "doc_14366.txt",
+        "doc_14093.txt",
+        "doc_17168.txt"
+    ]
+}

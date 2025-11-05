@@ -1,0 +1,10 @@
+{
+    "query": "What type of identification is required for tourists visiting Antigua and Barbuda?",
+    "response": [
+        "doc_4417.txt",
+        "doc_4416.txt",
+        "doc_4415.txt",
+        "doc_4412.txt",
+        "doc_4413.txt"
+    ]
+}

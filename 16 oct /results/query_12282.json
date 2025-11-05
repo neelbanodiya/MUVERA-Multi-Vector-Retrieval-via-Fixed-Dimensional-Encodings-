@@ -1,0 +1,10 @@
+{
+    "query": "What is Ivan Pavlov\u2019s most famous work related to animal behavior?",
+    "response": [
+        "doc_7166.txt",
+        "doc_7164.txt",
+        "doc_7169.txt",
+        "doc_7163.txt",
+        "doc_7168.txt"
+    ]
+}

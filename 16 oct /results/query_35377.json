@@ -1,0 +1,10 @@
+{
+    "query": "What is Pinocchio\u2019s relationship to Figaro and Cleo?",
+    "response": [
+        "doc_20613.txt",
+        "doc_20619.txt",
+        "doc_20620.txt",
+        "doc_20614.txt",
+        "doc_20618.txt"
+    ]
+}

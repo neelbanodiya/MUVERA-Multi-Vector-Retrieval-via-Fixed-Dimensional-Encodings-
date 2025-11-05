@@ -1,0 +1,10 @@
+{
+    "query": "What led to the tragic loss of Space Shuttle Columbia and its crew?",
+    "response": [
+        "doc_4161.txt",
+        "doc_4162.txt",
+        "doc_23947.txt",
+        "doc_5705.txt",
+        "doc_4163.txt"
+    ]
+}

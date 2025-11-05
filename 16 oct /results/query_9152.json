@@ -1,0 +1,10 @@
+{
+    "query": "Where did the person who started out life on a small family farm near Belgrade, MN, receive his education?",
+    "response": [
+        "doc_3979.txt",
+        "doc_8201.txt",
+        "doc_1668.txt",
+        "doc_7342.txt",
+        "doc_7302.txt"
+    ]
+}

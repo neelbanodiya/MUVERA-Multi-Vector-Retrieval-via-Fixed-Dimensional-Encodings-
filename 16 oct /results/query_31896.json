@@ -1,0 +1,10 @@
+{
+    "query": "What role did Ronald Reagan play in the 1942 film *Kings Row*?",
+    "response": [
+        "doc_18599.txt",
+        "doc_18597.txt",
+        "doc_18592.txt",
+        "doc_18598.txt",
+        "doc_18595.txt"
+    ]
+}

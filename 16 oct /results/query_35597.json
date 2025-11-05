@@ -1,0 +1,10 @@
+{
+    "query": "What specific article of Regulation (EU) No 182/2011 applies when referencing Article 7 paragraph 1a?",
+    "response": [
+        "doc_20750.txt",
+        "doc_20753.txt",
+        "doc_20848.txt",
+        "doc_20752.txt",
+        "doc_20822.txt"
+    ]
+}

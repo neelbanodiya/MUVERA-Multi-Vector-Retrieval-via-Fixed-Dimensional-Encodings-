@@ -1,0 +1,10 @@
+{
+    "query": "Besides Ragged Island, what other islands are included within the West Island Conservation Park?",
+    "response": [
+        "doc_138.txt",
+        "doc_9611.txt",
+        "doc_9608.txt",
+        "doc_15479.txt",
+        "doc_20940.txt"
+    ]
+}

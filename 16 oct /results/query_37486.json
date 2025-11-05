@@ -1,0 +1,10 @@
+{
+    "query": "What musical elements are frequently found in the opera *Carmen*, such as specific songs?",
+    "response": [
+        "doc_323.txt",
+        "doc_21957.txt",
+        "doc_21963.txt",
+        "doc_7456.txt",
+        "doc_13797.txt"
+    ]
+}

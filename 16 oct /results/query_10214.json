@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the 1969 Nixon medal issued?",
+    "response": [
+        "doc_5910.txt",
+        "doc_16475.txt",
+        "doc_5921.txt",
+        "doc_5912.txt",
+        "doc_16476.txt"
+    ]
+}

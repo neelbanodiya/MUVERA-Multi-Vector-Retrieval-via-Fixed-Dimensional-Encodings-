@@ -1,0 +1,10 @@
+{
+    "query": "For which production did Hamlisch receive a Pulitzer Prize for Drama?",
+    "response": [
+        "doc_9830.txt",
+        "doc_9826.txt",
+        "doc_9822.txt",
+        "doc_12638.txt",
+        "doc_12358.txt"
+    ]
+}

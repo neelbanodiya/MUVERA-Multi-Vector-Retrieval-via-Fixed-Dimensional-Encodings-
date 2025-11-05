@@ -1,0 +1,10 @@
+{
+    "query": "What year did the case \u2018Miranda v.\u2019 occur?",
+    "response": [
+        "doc_22699.txt",
+        "doc_8567.txt",
+        "doc_22701.txt",
+        "doc_8582.txt",
+        "doc_22700.txt"
+    ]
+}

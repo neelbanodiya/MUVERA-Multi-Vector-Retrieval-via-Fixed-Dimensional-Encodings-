@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many quarts of popped popcorn does the average American consume each year?",
+    "response": [
+        "doc_23986.txt",
+        "doc_23981.txt",
+        "doc_23979.txt",
+        "doc_23977.txt",
+        "doc_23982.txt"
+    ]
+}

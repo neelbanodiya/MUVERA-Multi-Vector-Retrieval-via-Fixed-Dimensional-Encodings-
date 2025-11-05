@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what qualities did Samuel describe a \u201cmighty man of power\u201d as possessing?",
+    "response": [
+        "doc_1235.txt",
+        "doc_1239.txt",
+        "doc_7532.txt",
+        "doc_1248.txt",
+        "doc_4939.txt"
+    ]
+}

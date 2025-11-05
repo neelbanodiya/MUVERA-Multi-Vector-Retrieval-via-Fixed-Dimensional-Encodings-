@@ -1,0 +1,10 @@
+{
+    "query": "What data are available on the impact of cars built by non-participating manufacturers (American and Chinese) on average emission figures in the European Union?",
+    "response": [
+        "doc_19350.txt",
+        "doc_20347.txt",
+        "doc_2272.txt",
+        "doc_15144.txt",
+        "doc_15493.txt"
+    ]
+}

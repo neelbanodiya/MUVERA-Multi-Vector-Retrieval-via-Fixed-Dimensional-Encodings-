@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the articles, what was Tuesday Weld\u2019s initial dream?",
+    "response": [
+        "doc_14412.txt",
+        "doc_6144.txt",
+        "doc_309.txt",
+        "doc_21507.txt",
+        "doc_19952.txt"
+    ]
+}

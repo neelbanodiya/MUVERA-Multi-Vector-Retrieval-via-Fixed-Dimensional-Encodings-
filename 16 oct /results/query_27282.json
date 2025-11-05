@@ -1,0 +1,10 @@
+{
+    "query": "What time period is mentioned in relation to Chinese porcelain production?",
+    "response": [
+        "doc_15836.txt",
+        "doc_15833.txt",
+        "doc_15835.txt",
+        "doc_15843.txt",
+        "doc_15839.txt"
+    ]
+}

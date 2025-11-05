@@ -1,0 +1,10 @@
+{
+    "query": "According to the Economic Intelligence Unit (EIU) database, did the introduction of the euro increase product market integration across 18 European cities?",
+    "response": [
+        "doc_13918.txt",
+        "doc_18304.txt",
+        "doc_17597.txt",
+        "doc_14838.txt",
+        "doc_18308.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Lee Harvey Oswald attend a trade dance?",
+    "response": [
+        "doc_9903.txt",
+        "doc_15244.txt",
+        "doc_16985.txt",
+        "doc_22787.txt",
+        "doc_5270.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who was the trumpeter and bandleader who discovered Frank Sinatra?",
+    "response": [
+        "doc_9467.txt",
+        "doc_21906.txt",
+        "doc_23066.txt",
+        "doc_19136.txt",
+        "doc_3077.txt"
+    ]
+}

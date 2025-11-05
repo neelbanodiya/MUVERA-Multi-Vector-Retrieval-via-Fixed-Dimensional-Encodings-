@@ -1,0 +1,10 @@
+{
+    "query": "Who directed the film starring Christian Slater?",
+    "response": [
+        "doc_2850.txt",
+        "doc_2851.txt",
+        "doc_3202.txt",
+        "doc_6005.txt",
+        "doc_23795.txt"
+    ]
+}

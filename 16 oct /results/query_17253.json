@@ -1,0 +1,10 @@
+{
+    "query": "What type of barbecue sauce is associated with St. Louis, Missouri?",
+    "response": [
+        "doc_9982.txt",
+        "doc_9983.txt",
+        "doc_17058.txt",
+        "doc_4515.txt",
+        "doc_7092.txt"
+    ]
+}

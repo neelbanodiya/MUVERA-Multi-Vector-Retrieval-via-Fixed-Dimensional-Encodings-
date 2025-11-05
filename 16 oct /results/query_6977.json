@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Shah Jahan\u2019s mausoleum, the Taj Mahal, begun?",
+    "response": [
+        "doc_3994.txt",
+        "doc_3991.txt",
+        "doc_3999.txt",
+        "doc_3990.txt",
+        "doc_3993.txt"
+    ]
+}

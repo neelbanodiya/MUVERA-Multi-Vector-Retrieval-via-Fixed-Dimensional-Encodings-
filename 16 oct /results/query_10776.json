@@ -1,0 +1,10 @@
+{
+    "query": "When was the first ATM installed?",
+    "response": [
+        "doc_6238.txt",
+        "doc_6224.txt",
+        "doc_6240.txt",
+        "doc_6233.txt",
+        "doc_6229.txt"
+    ]
+}

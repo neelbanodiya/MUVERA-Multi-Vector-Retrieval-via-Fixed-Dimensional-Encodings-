@@ -1,0 +1,10 @@
+{
+    "query": "What is Pingtan, and where can it be heard?",
+    "response": [
+        "doc_16629.txt",
+        "doc_18352.txt",
+        "doc_16032.txt",
+        "doc_10611.txt",
+        "doc_14851.txt"
+    ]
+}

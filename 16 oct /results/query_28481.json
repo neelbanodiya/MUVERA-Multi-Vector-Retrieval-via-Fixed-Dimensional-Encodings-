@@ -1,0 +1,10 @@
+{
+    "query": "Which titles include the words \"Blues\" or \"Bride\"?",
+    "response": [
+        "doc_6338.txt",
+        "doc_8008.txt",
+        "doc_19708.txt",
+        "doc_11146.txt",
+        "doc_11703.txt"
+    ]
+}

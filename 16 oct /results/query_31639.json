@@ -1,0 +1,10 @@
+{
+    "query": "What was Crusoe attempting to do with Friday, as described in the passage?",
+    "response": [
+        "doc_18451.txt",
+        "doc_18453.txt",
+        "doc_18445.txt",
+        "doc_17763.txt",
+        "doc_22072.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What country was Mike Packer born in?",
+    "response": [
+        "doc_12357.txt",
+        "doc_18954.txt",
+        "doc_11022.txt",
+        "doc_3817.txt",
+        "doc_3819.txt"
+    ]
+}

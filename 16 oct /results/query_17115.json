@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Nureyev find inspiration from a new way of moving?",
+    "response": [
+        "doc_9900.txt",
+        "doc_9902.txt",
+        "doc_9905.txt",
+        "doc_8202.txt",
+        "doc_8455.txt"
+    ]
+}

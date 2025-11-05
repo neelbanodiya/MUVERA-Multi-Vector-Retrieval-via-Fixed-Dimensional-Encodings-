@@ -1,0 +1,10 @@
+{
+    "query": "What did President Dudayev declare?",
+    "response": [
+        "doc_17971.txt",
+        "doc_17968.txt",
+        "doc_17965.txt",
+        "doc_23272.txt",
+        "doc_17970.txt"
+    ]
+}

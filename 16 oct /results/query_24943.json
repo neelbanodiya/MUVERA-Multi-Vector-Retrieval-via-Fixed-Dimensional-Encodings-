@@ -1,0 +1,10 @@
+{
+    "query": "What is the Rubn Dario park dedicated to?",
+    "response": [
+        "doc_14511.txt",
+        "doc_14503.txt",
+        "doc_14501.txt",
+        "doc_14512.txt",
+        "doc_14502.txt"
+    ]
+}

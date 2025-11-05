@@ -1,0 +1,10 @@
+{
+    "query": "Who became the first president of AMPAS?",
+    "response": [
+        "doc_16985.txt",
+        "doc_16990.txt",
+        "doc_10068.txt",
+        "doc_21729.txt",
+        "doc_1661.txt"
+    ]
+}

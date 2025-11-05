@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what does the Devil do when music is played?",
+    "response": [
+        "doc_19137.txt",
+        "doc_5250.txt",
+        "doc_5252.txt",
+        "doc_20631.txt",
+        "doc_3885.txt"
+    ]
+}

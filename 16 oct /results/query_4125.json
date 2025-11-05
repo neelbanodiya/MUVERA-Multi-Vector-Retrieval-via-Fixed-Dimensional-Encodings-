@@ -1,0 +1,10 @@
+{
+    "query": "Which band did Myles Kennedy play drums for alongside Zia Uden and Jason?",
+    "response": [
+        "doc_2402.txt",
+        "doc_2407.txt",
+        "doc_2395.txt",
+        "doc_5897.txt",
+        "doc_12714.txt"
+    ]
+}

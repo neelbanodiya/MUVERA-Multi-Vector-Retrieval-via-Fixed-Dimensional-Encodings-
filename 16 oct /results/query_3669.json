@@ -1,0 +1,10 @@
+{
+    "query": "How did the Peace of Prague affect the balance of central Europe, based on one of the documents?",
+    "response": [
+        "doc_15943.txt",
+        "doc_5498.txt",
+        "doc_8051.txt",
+        "doc_23359.txt",
+        "doc_3793.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which court requested a preliminary ruling regarding Article 8 of the Council Directive 80/987/EEC?",
+    "response": [
+        "doc_15927.txt",
+        "doc_4525.txt",
+        "doc_8445.txt",
+        "doc_21813.txt",
+        "doc_2842.txt"
+    ]
+}

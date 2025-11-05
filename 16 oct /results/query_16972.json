@@ -1,0 +1,10 @@
+{
+    "query": "What awards did Kirkwood receive for his contributions to the show *A Chorus Line*?",
+    "response": [
+        "doc_22803.txt",
+        "doc_9835.txt",
+        "doc_2264.txt",
+        "doc_9823.txt",
+        "doc_10110.txt"
+    ]
+}

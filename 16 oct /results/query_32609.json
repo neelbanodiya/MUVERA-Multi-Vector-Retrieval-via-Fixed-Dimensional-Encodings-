@@ -1,0 +1,10 @@
+{
+    "query": "What is the approximate sales certification level for *Nevermind*, *In Utero*, and *Unplugged* according to a chart listed in the provided links?",
+    "response": [
+        "doc_17436.txt",
+        "doc_2837.txt",
+        "doc_10191.txt",
+        "doc_11605.txt",
+        "doc_11617.txt"
+    ]
+}

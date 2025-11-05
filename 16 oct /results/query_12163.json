@@ -1,0 +1,10 @@
+{
+    "query": "Who is Ophelia\u2019s brother?",
+    "response": [
+        "doc_7101.txt",
+        "doc_7107.txt",
+        "doc_7109.txt",
+        "doc_7110.txt",
+        "doc_7105.txt"
+    ]
+}

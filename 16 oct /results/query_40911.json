@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the FIMFiction story referencing \"Once Bitten, Twice Shy\"?",
+    "response": [
+        "doc_23910.txt",
+        "doc_23907.txt",
+        "doc_23918.txt",
+        "doc_23912.txt",
+        "doc_23917.txt"
+    ]
+}

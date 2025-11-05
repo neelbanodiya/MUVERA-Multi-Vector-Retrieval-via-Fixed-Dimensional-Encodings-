@@ -1,0 +1,10 @@
+{
+    "query": "What is the subject of the documentary featured in the Museum of Fine Arts, Houston listing?",
+    "response": [
+        "doc_14728.txt",
+        "doc_11735.txt",
+        "doc_14733.txt",
+        "doc_5589.txt",
+        "doc_18212.txt"
+    ]
+}

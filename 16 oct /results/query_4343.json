@@ -1,0 +1,10 @@
+{
+    "query": "What was Ray attempting to learn from Greek plays?",
+    "response": [
+        "doc_22859.txt",
+        "doc_18215.txt",
+        "doc_21130.txt",
+        "doc_24254.txt",
+        "doc_20409.txt"
+    ]
+}

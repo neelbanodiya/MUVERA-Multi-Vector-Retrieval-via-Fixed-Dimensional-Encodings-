@@ -1,0 +1,10 @@
+{
+    "query": "What was Steven's favorite sitcom?",
+    "response": [
+        "doc_18840.txt",
+        "doc_20444.txt",
+        "doc_6074.txt",
+        "doc_14675.txt",
+        "doc_22874.txt"
+    ]
+}

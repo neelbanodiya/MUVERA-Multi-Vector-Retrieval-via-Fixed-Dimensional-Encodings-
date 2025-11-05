@@ -1,0 +1,10 @@
+{
+    "query": "In one of the provided excerpts, what is Harry\u2019s response to the question about the number of shots fired?",
+    "response": [
+        "doc_7920.txt",
+        "doc_19689.txt",
+        "doc_7445.txt",
+        "doc_23698.txt",
+        "doc_7919.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What American jazz drummer released an album titled *Dear John C.* featuring performances of John Coltrane?",
+    "response": [
+        "doc_6337.txt",
+        "doc_23435.txt",
+        "doc_23434.txt",
+        "doc_21964.txt",
+        "doc_12338.txt"
+    ]
+}

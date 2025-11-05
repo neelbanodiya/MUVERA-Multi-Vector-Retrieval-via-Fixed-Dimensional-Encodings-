@@ -1,0 +1,10 @@
+{
+    "query": "Who is Professor of International Economic at KU Leuven?",
+    "response": [
+        "doc_18385.txt",
+        "doc_21443.txt",
+        "doc_14425.txt",
+        "doc_7252.txt",
+        "doc_4273.txt"
+    ]
+}

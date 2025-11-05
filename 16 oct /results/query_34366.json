@@ -1,0 +1,10 @@
+{
+    "query": "Which four artists are listed as having songs featured in the \u201cSummer Songs 1958-2015\u201d compilation?",
+    "response": [
+        "doc_19992.txt",
+        "doc_19991.txt",
+        "doc_20561.txt",
+        "doc_22547.txt",
+        "doc_907.txt"
+    ]
+}

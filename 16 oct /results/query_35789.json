@@ -1,0 +1,10 @@
+{
+    "query": "What type of uniforms do people wear at the Royal Ballet?",
+    "response": [
+        "doc_1081.txt",
+        "doc_14482.txt",
+        "doc_8827.txt",
+        "doc_2959.txt",
+        "doc_1079.txt"
+    ]
+}

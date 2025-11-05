@@ -1,0 +1,10 @@
+{
+    "query": "In what year did significant flooding affect Townsville, Queensland?",
+    "response": [
+        "doc_1764.txt",
+        "doc_22292.txt",
+        "doc_1773.txt",
+        "doc_1778.txt",
+        "doc_1780.txt"
+    ]
+}

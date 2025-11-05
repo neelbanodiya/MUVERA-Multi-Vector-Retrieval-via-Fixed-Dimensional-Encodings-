@@ -1,0 +1,10 @@
+{
+    "query": "What is the Coptic Museum\u2019s collection primarily comprised of?",
+    "response": [
+        "doc_8507.txt",
+        "doc_8505.txt",
+        "doc_8504.txt",
+        "doc_8506.txt",
+        "doc_8508.txt"
+    ]
+}

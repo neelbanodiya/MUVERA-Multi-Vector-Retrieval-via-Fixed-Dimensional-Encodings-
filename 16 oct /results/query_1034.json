@@ -1,0 +1,10 @@
+{
+    "query": "What is F-theory, according to the passage?",
+    "response": [
+        "doc_578.txt",
+        "doc_9046.txt",
+        "doc_15890.txt",
+        "doc_21170.txt",
+        "doc_13216.txt"
+    ]
+}

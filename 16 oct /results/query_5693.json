@@ -1,0 +1,10 @@
+{
+    "query": "What was Anton Chekhov\u2019s profession, as described in one of the linked sources?",
+    "response": [
+        "doc_3307.txt",
+        "doc_3306.txt",
+        "doc_7166.txt",
+        "doc_21384.txt",
+        "doc_5324.txt"
+    ]
+}

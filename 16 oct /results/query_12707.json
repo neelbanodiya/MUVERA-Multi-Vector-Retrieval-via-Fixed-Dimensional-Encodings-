@@ -1,0 +1,10 @@
+{
+    "query": "What nickname is Bethlehem, Pennsylvania sometimes referred to, and why?",
+    "response": [
+        "doc_7400.txt",
+        "doc_7402.txt",
+        "doc_7404.txt",
+        "doc_7401.txt",
+        "doc_7395.txt"
+    ]
+}

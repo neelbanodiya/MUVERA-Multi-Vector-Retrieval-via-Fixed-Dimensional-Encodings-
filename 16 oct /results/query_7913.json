@@ -1,0 +1,10 @@
+{
+    "query": "Which company headquartered in Santo Domingo produces the beers \u201cPresidente\u201d and \u201cBohemia\u201d?",
+    "response": [
+        "doc_4596.txt",
+        "doc_4597.txt",
+        "doc_4598.txt",
+        "doc_10223.txt",
+        "doc_10219.txt"
+    ]
+}

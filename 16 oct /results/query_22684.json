@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Memorial Day become an official federal holiday?",
+    "response": [
+        "doc_13032.txt",
+        "doc_13047.txt",
+        "doc_13037.txt",
+        "doc_13043.txt",
+        "doc_13042.txt"
+    ]
+}

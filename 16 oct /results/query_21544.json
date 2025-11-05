@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the game introduced to the United States as \u201cHop Ching Checkers\u201d?",
+    "response": [
+        "doc_12427.txt",
+        "doc_12425.txt",
+        "doc_12428.txt",
+        "doc_12423.txt",
+        "doc_12429.txt"
+    ]
+}

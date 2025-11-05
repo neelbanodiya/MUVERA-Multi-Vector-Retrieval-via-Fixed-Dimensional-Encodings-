@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of the museum located in Fort Tryon Park, inspired by the Victoria and Albert Museum?",
+    "response": [
+        "doc_20388.txt",
+        "doc_7960.txt",
+        "doc_14728.txt",
+        "doc_4066.txt",
+        "doc_10500.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the lyrics, what should the children do before Frosty melts away?",
+    "response": [
+        "doc_11938.txt",
+        "doc_11931.txt",
+        "doc_11942.txt",
+        "doc_11929.txt",
+        "doc_11934.txt"
+    ]
+}

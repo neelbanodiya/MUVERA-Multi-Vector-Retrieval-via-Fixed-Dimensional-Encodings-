@@ -1,0 +1,10 @@
+{
+    "query": "Which martial arts are specifically highlighted as being well-known from China, Japan, and Korea?",
+    "response": [
+        "doc_18638.txt",
+        "doc_18642.txt",
+        "doc_18637.txt",
+        "doc_7138.txt",
+        "doc_22018.txt"
+    ]
+}

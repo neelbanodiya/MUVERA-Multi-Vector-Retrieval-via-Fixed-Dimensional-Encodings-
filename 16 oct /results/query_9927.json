@@ -1,0 +1,10 @@
+{
+    "query": "What organization awarded Lawrence Block the Mystery Grand Master Award?",
+    "response": [
+        "doc_22013.txt",
+        "doc_22012.txt",
+        "doc_22015.txt",
+        "doc_14342.txt",
+        "doc_16711.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which film festival aims to provide a global audience for Indonesian filmmakers?",
+    "response": [
+        "doc_10766.txt",
+        "doc_22715.txt",
+        "doc_22713.txt",
+        "doc_22714.txt",
+        "doc_6863.txt"
+    ]
+}

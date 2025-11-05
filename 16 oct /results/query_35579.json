@@ -1,0 +1,10 @@
+{
+    "query": "What type of crimes are mentioned in relation to BATTLE Creek, Michigan?",
+    "response": [
+        "doc_8577.txt",
+        "doc_18923.txt",
+        "doc_18918.txt",
+        "doc_18926.txt",
+        "doc_9672.txt"
+    ]
+}

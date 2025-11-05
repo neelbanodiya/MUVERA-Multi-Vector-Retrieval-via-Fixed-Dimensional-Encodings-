@@ -1,0 +1,10 @@
+{
+    "query": "Which artist\u2019s music is available to stream on Deezer?",
+    "response": [
+        "doc_19995.txt",
+        "doc_128.txt",
+        "doc_246.txt",
+        "doc_11678.txt",
+        "doc_20041.txt"
+    ]
+}

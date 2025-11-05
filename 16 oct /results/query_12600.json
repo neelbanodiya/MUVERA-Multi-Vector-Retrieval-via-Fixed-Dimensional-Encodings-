@@ -1,0 +1,10 @@
+{
+    "query": "When did King Edward die, leading to a change in the English monarchy?",
+    "response": [
+        "doc_9767.txt",
+        "doc_7325.txt",
+        "doc_458.txt",
+        "doc_7322.txt",
+        "doc_9758.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which airport in Saudi Arabia is known for having a bad reputation?",
+    "response": [
+        "doc_15717.txt",
+        "doc_15730.txt",
+        "doc_15716.txt",
+        "doc_15718.txt",
+        "doc_15721.txt"
+    ]
+}

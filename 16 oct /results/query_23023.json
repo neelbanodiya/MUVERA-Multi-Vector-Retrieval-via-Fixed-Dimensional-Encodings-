@@ -1,0 +1,10 @@
+{
+    "query": "What type of room is specifically designed for meetings dealing with sensitive information within the Council?",
+    "response": [
+        "doc_13319.txt",
+        "doc_13370.txt",
+        "doc_13318.txt",
+        "doc_13364.txt",
+        "doc_13278.txt"
+    ]
+}

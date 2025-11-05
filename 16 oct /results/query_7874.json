@@ -1,0 +1,10 @@
+{
+    "query": "What was Sgt. Tom Sharky doing when another officer unexpectedly arrived?",
+    "response": [
+        "doc_4584.txt",
+        "doc_4578.txt",
+        "doc_4583.txt",
+        "doc_4582.txt",
+        "doc_4577.txt"
+    ]
+}

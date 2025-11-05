@@ -1,0 +1,10 @@
+{
+    "query": "What was the name given to the waltz by Marjorie, as mentioned in the IANDS article?",
+    "response": [
+        "doc_13106.txt",
+        "doc_9125.txt",
+        "doc_19708.txt",
+        "doc_19454.txt",
+        "doc_14228.txt"
+    ]
+}

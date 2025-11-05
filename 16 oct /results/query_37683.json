@@ -1,0 +1,10 @@
+{
+    "query": "According to the Wikipedia article on Howard Hughes, when was he born?",
+    "response": [
+        "doc_3569.txt",
+        "doc_3563.txt",
+        "doc_3566.txt",
+        "doc_3572.txt",
+        "doc_16329.txt"
+    ]
+}

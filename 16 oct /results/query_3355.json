@@ -1,0 +1,10 @@
+{
+    "query": "How many NHL games did Chris Chelios play?",
+    "response": [
+        "doc_2003.txt",
+        "doc_2000.txt",
+        "doc_2004.txt",
+        "doc_2005.txt",
+        "doc_12778.txt"
+    ]
+}

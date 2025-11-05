@@ -1,0 +1,10 @@
+{
+    "query": "Who was the British Viceroy to whom Gandhi wrote a letter in 1930?",
+    "response": [
+        "doc_1419.txt",
+        "doc_1402.txt",
+        "doc_1413.txt",
+        "doc_1412.txt",
+        "doc_1417.txt"
+    ]
+}

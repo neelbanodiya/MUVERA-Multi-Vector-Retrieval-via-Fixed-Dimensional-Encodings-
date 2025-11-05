@@ -1,0 +1,10 @@
+{
+    "query": "Which organization did Jamie Kelso formerly belong to, and what role did he play on the Stormfront website?",
+    "response": [
+        "doc_19273.txt",
+        "doc_6074.txt",
+        "doc_19272.txt",
+        "doc_15574.txt",
+        "doc_13692.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what is a key belief about Gautama Buddha within Hinduism?",
+    "response": [
+        "doc_5709.txt",
+        "doc_5714.txt",
+        "doc_5715.txt",
+        "doc_5710.txt",
+        "doc_5717.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what state was the first national monument, Devils Tower, established?",
+    "response": [
+        "doc_16260.txt",
+        "doc_16272.txt",
+        "doc_16270.txt",
+        "doc_16262.txt",
+        "doc_16265.txt"
+    ]
+}

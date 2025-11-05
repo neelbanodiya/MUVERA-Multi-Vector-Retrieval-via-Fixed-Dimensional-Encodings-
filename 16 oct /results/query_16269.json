@@ -1,0 +1,10 @@
+{
+    "query": "What word or phrase was \u201cIslamo-fascism\u201d compared to?",
+    "response": [
+        "doc_12128.txt",
+        "doc_9436.txt",
+        "doc_1844.txt",
+        "doc_21170.txt",
+        "doc_23360.txt"
+    ]
+}

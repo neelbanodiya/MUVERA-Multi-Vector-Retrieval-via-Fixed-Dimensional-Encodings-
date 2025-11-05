@@ -1,0 +1,10 @@
+{
+    "query": "If a group has received recognition under the Regulation, what action is needed regarding the expression on the label?",
+    "response": [
+        "doc_5724.txt",
+        "doc_13297.txt",
+        "doc_20764.txt",
+        "doc_3428.txt",
+        "doc_6185.txt"
+    ]
+}

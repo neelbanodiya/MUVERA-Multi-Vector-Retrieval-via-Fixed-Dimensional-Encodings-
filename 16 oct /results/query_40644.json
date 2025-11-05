@@ -1,0 +1,10 @@
+{
+    "query": "What role do wolves traditionally fulfill in the Northeastern United States, as described in one of the linked documents?",
+    "response": [
+        "doc_15361.txt",
+        "doc_10500.txt",
+        "doc_4219.txt",
+        "doc_17396.txt",
+        "doc_23114.txt"
+    ]
+}

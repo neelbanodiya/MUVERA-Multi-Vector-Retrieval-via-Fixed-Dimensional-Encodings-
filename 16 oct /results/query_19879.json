@@ -1,0 +1,10 @@
+{
+    "query": "When did Pierre Trudeau announce his resignation as party leader?",
+    "response": [
+        "doc_11468.txt",
+        "doc_11469.txt",
+        "doc_11467.txt",
+        "doc_11470.txt",
+        "doc_11478.txt"
+    ]
+}

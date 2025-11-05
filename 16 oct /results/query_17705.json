@@ -1,0 +1,10 @@
+{
+    "query": "Where was Cress Williams born?",
+    "response": [
+        "doc_22872.txt",
+        "doc_14666.txt",
+        "doc_5104.txt",
+        "doc_8376.txt",
+        "doc_16345.txt"
+    ]
+}

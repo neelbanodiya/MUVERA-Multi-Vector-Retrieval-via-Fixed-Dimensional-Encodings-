@@ -1,0 +1,10 @@
+{
+    "query": "Which artists are listed in the \"Timelife music collections\" playing their biggest hits from the 1970s?",
+    "response": [
+        "doc_9383.txt",
+        "doc_9382.txt",
+        "doc_20562.txt",
+        "doc_900.txt",
+        "doc_1422.txt"
+    ]
+}

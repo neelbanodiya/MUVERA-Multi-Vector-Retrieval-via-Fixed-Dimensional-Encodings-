@@ -1,0 +1,10 @@
+{
+    "query": "Which naval battle involved Admiral Beatty and the British Grand Fleet?",
+    "response": [
+        "doc_9626.txt",
+        "doc_9629.txt",
+        "doc_9632.txt",
+        "doc_9642.txt",
+        "doc_9627.txt"
+    ]
+}

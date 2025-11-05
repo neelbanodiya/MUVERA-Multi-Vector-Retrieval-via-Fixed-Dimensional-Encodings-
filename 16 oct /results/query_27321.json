@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what does Pope Francis believe about the relationship between Christians and the Roman Catholic Church?",
+    "response": [
+        "doc_5033.txt",
+        "doc_21440.txt",
+        "doc_5038.txt",
+        "doc_23548.txt",
+        "doc_5034.txt"
+    ]
+}

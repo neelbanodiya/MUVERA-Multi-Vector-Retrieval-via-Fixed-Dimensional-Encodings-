@@ -1,0 +1,10 @@
+{
+    "query": "According to one source, what is Jonah Hill doing instead of giving autographs?",
+    "response": [
+        "doc_23187.txt",
+        "doc_24108.txt",
+        "doc_7606.txt",
+        "doc_17306.txt",
+        "doc_14531.txt"
+    ]
+}

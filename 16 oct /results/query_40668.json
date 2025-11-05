@@ -1,0 +1,10 @@
+{
+    "query": "Which film was inspired by \"Paranormal Activity\"?",
+    "response": [
+        "doc_4240.txt",
+        "doc_5504.txt",
+        "doc_9894.txt",
+        "doc_12761.txt",
+        "doc_1812.txt"
+    ]
+}

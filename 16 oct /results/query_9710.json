@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Francois Du Toit selected for a Test match against England?",
+    "response": [
+        "doc_5608.txt",
+        "doc_5607.txt",
+        "doc_20433.txt",
+        "doc_7629.txt",
+        "doc_10379.txt"
+    ]
+}

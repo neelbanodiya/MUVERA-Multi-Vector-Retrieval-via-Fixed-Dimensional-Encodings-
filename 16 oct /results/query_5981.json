@@ -1,0 +1,10 @@
+{
+    "query": "Who wrote the song \"Ferry Cross the Mersey\"?",
+    "response": [
+        "doc_3481.txt",
+        "doc_3489.txt",
+        "doc_3483.txt",
+        "doc_3492.txt",
+        "doc_3482.txt"
+    ]
+}

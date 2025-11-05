@@ -1,0 +1,10 @@
+{
+    "query": "Who painted the crayon portrait of Christina Rossetti, and what evidence of beauty remains in it?",
+    "response": [
+        "doc_6305.txt",
+        "doc_6301.txt",
+        "doc_20409.txt",
+        "doc_6302.txt",
+        "doc_20416.txt"
+    ]
+}

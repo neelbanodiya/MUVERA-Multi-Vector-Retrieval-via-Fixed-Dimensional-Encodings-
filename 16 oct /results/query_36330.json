@@ -1,0 +1,10 @@
+{
+    "query": "Which Mexican newspapers are cited as publishing documents related to the Mexican Revolution?",
+    "response": [
+        "doc_20651.txt",
+        "doc_3835.txt",
+        "doc_21183.txt",
+        "doc_18509.txt",
+        "doc_22775.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which authors have new books being released by Penguin Random House this week?",
+    "response": [
+        "doc_18583.txt",
+        "doc_18582.txt",
+        "doc_7034.txt",
+        "doc_12170.txt",
+        "doc_7863.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year was a specific cabbage variety introduced from Russia?",
+    "response": [
+        "doc_3603.txt",
+        "doc_11564.txt",
+        "doc_2545.txt",
+        "doc_14427.txt",
+        "doc_19732.txt"
+    ]
+}

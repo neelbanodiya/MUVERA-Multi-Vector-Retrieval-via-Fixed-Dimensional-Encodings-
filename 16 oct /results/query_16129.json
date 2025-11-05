@@ -1,0 +1,10 @@
+{
+    "query": "What national park is located east of the Painted Desert?",
+    "response": [
+        "doc_9324.txt",
+        "doc_9325.txt",
+        "doc_9326.txt",
+        "doc_9327.txt",
+        "doc_9328.txt"
+    ]
+}

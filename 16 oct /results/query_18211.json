@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Ed McMahon born?",
+    "response": [
+        "doc_9405.txt",
+        "doc_16329.txt",
+        "doc_452.txt",
+        "doc_4815.txt",
+        "doc_11917.txt"
+    ]
+}

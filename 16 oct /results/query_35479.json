@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the first attempted assassination of Pope John Paul II take place?",
+    "response": [
+        "doc_20680.txt",
+        "doc_20670.txt",
+        "doc_20688.txt",
+        "doc_20683.txt",
+        "doc_6110.txt"
+    ]
+}

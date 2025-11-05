@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Ed during an event involving a policeman's helmet?",
+    "response": [
+        "doc_6759.txt",
+        "doc_397.txt",
+        "doc_6758.txt",
+        "doc_8051.txt",
+        "doc_242.txt"
+    ]
+}

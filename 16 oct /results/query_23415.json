@@ -1,0 +1,10 @@
+{
+    "query": "What category does \u201cBotanical\u201d fall under in the Bioscience Glossary?",
+    "response": [
+        "doc_9343.txt",
+        "doc_12276.txt",
+        "doc_17894.txt",
+        "doc_3455.txt",
+        "doc_12299.txt"
+    ]
+}

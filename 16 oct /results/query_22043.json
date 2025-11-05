@@ -1,0 +1,10 @@
+{
+    "query": "What record does Eli Bishop hold, as mentioned in a link related to Guinness World Records?",
+    "response": [
+        "doc_5956.txt",
+        "doc_22046.txt",
+        "doc_9128.txt",
+        "doc_9127.txt",
+        "doc_12713.txt"
+    ]
+}

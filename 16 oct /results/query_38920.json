@@ -1,0 +1,10 @@
+{
+    "query": "Which regional bloc does not have an embassy in Santo Domingo?",
+    "response": [
+        "doc_12515.txt",
+        "doc_5825.txt",
+        "doc_4573.txt",
+        "doc_17822.txt",
+        "doc_4297.txt"
+    ]
+}

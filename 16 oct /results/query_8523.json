@@ -1,0 +1,10 @@
+{
+    "query": "Which Caribbean nation expects Storm Tomas to hit on Thursday?",
+    "response": [
+        "doc_4936.txt",
+        "doc_4932.txt",
+        "doc_4937.txt",
+        "doc_4424.txt",
+        "doc_4931.txt"
+    ]
+}

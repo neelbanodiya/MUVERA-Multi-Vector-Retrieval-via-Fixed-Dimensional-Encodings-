@@ -1,0 +1,10 @@
+{
+    "query": "What features are available in the LT2 and LT3 models of the GMC Yukon XL?",
+    "response": [
+        "doc_17165.txt",
+        "doc_17155.txt",
+        "doc_17149.txt",
+        "doc_17151.txt",
+        "doc_17154.txt"
+    ]
+}

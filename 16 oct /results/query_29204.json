@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what was Willy Loman\u2019s profession?",
+    "response": [
+        "doc_16997.txt",
+        "doc_17003.txt",
+        "doc_12227.txt",
+        "doc_3935.txt",
+        "doc_5444.txt"
+    ]
+}

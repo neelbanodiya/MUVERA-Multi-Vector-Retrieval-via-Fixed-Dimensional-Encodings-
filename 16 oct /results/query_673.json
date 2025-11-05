@@ -1,0 +1,10 @@
+{
+    "query": "How many films did Val Avery appear in during his career?",
+    "response": [
+        "doc_388.txt",
+        "doc_7514.txt",
+        "doc_17171.txt",
+        "doc_21391.txt",
+        "doc_15277.txt"
+    ]
+}

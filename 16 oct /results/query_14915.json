@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cThe Beales of Grey Gardens\u201d released?",
+    "response": [
+        "doc_8655.txt",
+        "doc_8656.txt",
+        "doc_8467.txt",
+        "doc_6042.txt",
+        "doc_1231.txt"
+    ]
+}

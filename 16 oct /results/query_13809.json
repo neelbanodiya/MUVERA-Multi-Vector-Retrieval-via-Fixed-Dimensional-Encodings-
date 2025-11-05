@@ -1,0 +1,10 @@
+{
+    "query": "What is stated about the ranking of Emory University in relation to other universities, according to the US News Best Colleges article?",
+    "response": [
+        "doc_9023.txt",
+        "doc_20191.txt",
+        "doc_10312.txt",
+        "doc_19359.txt",
+        "doc_12230.txt"
+    ]
+}

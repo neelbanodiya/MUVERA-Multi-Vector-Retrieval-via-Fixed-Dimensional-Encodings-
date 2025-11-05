@@ -1,0 +1,10 @@
+{
+    "query": "What event did someone recall a party at, where her father introduced Miller?",
+    "response": [
+        "doc_19749.txt",
+        "doc_17333.txt",
+        "doc_20139.txt",
+        "doc_19090.txt",
+        "doc_19551.txt"
+    ]
+}

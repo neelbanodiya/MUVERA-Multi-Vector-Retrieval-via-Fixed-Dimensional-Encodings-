@@ -1,0 +1,10 @@
+{
+    "query": "What job did Alexander Bickel accept after World War II?",
+    "response": [
+        "doc_6397.txt",
+        "doc_19667.txt",
+        "doc_19665.txt",
+        "doc_19159.txt",
+        "doc_12534.txt"
+    ]
+}

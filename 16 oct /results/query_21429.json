@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Hamburger born?",
+    "response": [
+        "doc_3569.txt",
+        "doc_3564.txt",
+        "doc_3566.txt",
+        "doc_14748.txt",
+        "doc_3570.txt"
+    ]
+}

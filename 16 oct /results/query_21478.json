@@ -1,0 +1,10 @@
+{
+    "query": "On what date did the British evacuate a city?",
+    "response": [
+        "doc_12368.txt",
+        "doc_4181.txt",
+        "doc_16893.txt",
+        "doc_18986.txt",
+        "doc_13177.txt"
+    ]
+}

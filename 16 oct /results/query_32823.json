@@ -1,0 +1,10 @@
+{
+    "query": "For which financial year does the European Parliament grant discharge to the Director of the European Foundation for the Improvement of Living and Working Conditions?",
+    "response": [
+        "doc_19129.txt",
+        "doc_19127.txt",
+        "doc_19128.txt",
+        "doc_19130.txt",
+        "doc_7812.txt"
+    ]
+}

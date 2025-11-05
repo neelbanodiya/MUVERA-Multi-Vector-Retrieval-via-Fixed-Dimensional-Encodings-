@@ -1,0 +1,10 @@
+{
+    "query": "What style of production did Phil Spector utilize, as referenced in multiple sources?",
+    "response": [
+        "doc_5371.txt",
+        "doc_20569.txt",
+        "doc_14577.txt",
+        "doc_5323.txt",
+        "doc_20608.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was happening in Egypt during the time of heavy monsoon rains?",
+    "response": [
+        "doc_18498.txt",
+        "doc_18488.txt",
+        "doc_19792.txt",
+        "doc_21761.txt",
+        "doc_8112.txt"
+    ]
+}

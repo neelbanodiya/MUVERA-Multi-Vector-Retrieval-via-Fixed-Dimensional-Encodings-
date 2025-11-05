@@ -1,0 +1,10 @@
+{
+    "query": "What portrait appears on the Confederate $2 bill mentioned in the provided texts?",
+    "response": [
+        "doc_3398.txt",
+        "doc_3386.txt",
+        "doc_9873.txt",
+        "doc_656.txt",
+        "doc_10898.txt"
+    ]
+}

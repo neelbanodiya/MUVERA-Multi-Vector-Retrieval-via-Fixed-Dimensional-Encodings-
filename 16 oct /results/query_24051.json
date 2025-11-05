@@ -1,0 +1,10 @@
+{
+    "query": "What type of film is being referenced as an example (\"The Thin Man\")?",
+    "response": [
+        "doc_22600.txt",
+        "doc_5323.txt",
+        "doc_9894.txt",
+        "doc_5324.txt",
+        "doc_18748.txt"
+    ]
+}

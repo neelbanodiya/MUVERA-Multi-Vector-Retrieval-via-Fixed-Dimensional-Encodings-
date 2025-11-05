@@ -1,0 +1,10 @@
+{
+    "query": "What type of dish was traditionally served for Christmas dinner in northern England?",
+    "response": [
+        "doc_19436.txt",
+        "doc_21686.txt",
+        "doc_19437.txt",
+        "doc_21691.txt",
+        "doc_19447.txt"
+    ]
+}

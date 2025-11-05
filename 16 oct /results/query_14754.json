@@ -1,0 +1,10 @@
+{
+    "query": "How far does the person live from Pagosa Springs?",
+    "response": [
+        "doc_9962.txt",
+        "doc_14210.txt",
+        "doc_16151.txt",
+        "doc_7281.txt",
+        "doc_21709.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What book did Diane Johnson author that was a 1997 National Book Award finalist?",
+    "response": [
+        "doc_19908.txt",
+        "doc_19913.txt",
+        "doc_19910.txt",
+        "doc_19911.txt",
+        "doc_19909.txt"
+    ]
+}

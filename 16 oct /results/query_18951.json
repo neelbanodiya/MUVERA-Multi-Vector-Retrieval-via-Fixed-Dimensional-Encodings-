@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many Beijingers participated in the demonstration that took place on May 17, 1989, in Tiananmen Square?",
+    "response": [
+        "doc_10973.txt",
+        "doc_10987.txt",
+        "doc_10988.txt",
+        "doc_10970.txt",
+        "doc_10981.txt"
+    ]
+}

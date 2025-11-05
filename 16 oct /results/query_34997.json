@@ -1,0 +1,10 @@
+{
+    "query": "What role did Sarah Siddons play in British theatre, as referenced in the provided texts?",
+    "response": [
+        "doc_20418.txt",
+        "doc_20411.txt",
+        "doc_20412.txt",
+        "doc_20413.txt",
+        "doc_20405.txt"
+    ]
+}

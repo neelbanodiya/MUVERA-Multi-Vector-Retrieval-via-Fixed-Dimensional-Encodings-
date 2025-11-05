@@ -1,0 +1,10 @@
+{
+    "query": "For which category did *Citizen Kane* receive an Oscar, and what was the outcome?",
+    "response": [
+        "doc_4925.txt",
+        "doc_4924.txt",
+        "doc_4911.txt",
+        "doc_4914.txt",
+        "doc_4928.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What rivers and their tributaries drain into the Pacific Ocean through the Gate Strait?",
+    "response": [
+        "doc_3143.txt",
+        "doc_3144.txt",
+        "doc_3148.txt",
+        "doc_3147.txt",
+        "doc_19671.txt"
+    ]
+}

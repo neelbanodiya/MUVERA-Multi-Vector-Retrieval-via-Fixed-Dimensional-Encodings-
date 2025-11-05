@@ -1,0 +1,10 @@
+{
+    "query": "What was a critical reaction to Disney\u2019s film *Snow White* shortly after its release?",
+    "response": [
+        "doc_17198.txt",
+        "doc_23867.txt",
+        "doc_17190.txt",
+        "doc_1580.txt",
+        "doc_7513.txt"
+    ]
+}

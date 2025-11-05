@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is a nickname associated with the Marine Barracks in Washington, D.C.?",
+    "response": [
+        "doc_13426.txt",
+        "doc_12978.txt",
+        "doc_18370.txt",
+        "doc_4757.txt",
+        "doc_12830.txt"
+    ]
+}

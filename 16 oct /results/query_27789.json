@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Lewis Black voted 51st of the 100 greatest stand-up comedians of all time?",
+    "response": [
+        "doc_4463.txt",
+        "doc_18837.txt",
+        "doc_337.txt",
+        "doc_14076.txt",
+        "doc_15831.txt"
+    ]
+}

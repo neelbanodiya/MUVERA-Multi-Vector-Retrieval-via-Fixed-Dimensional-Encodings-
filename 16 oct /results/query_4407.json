@@ -1,0 +1,10 @@
+{
+    "query": "What educational background did Dick Cheney have, including where he attended school?",
+    "response": [
+        "doc_2561.txt",
+        "doc_2562.txt",
+        "doc_2570.txt",
+        "doc_14424.txt",
+        "doc_2560.txt"
+    ]
+}

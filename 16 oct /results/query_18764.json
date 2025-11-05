@@ -1,0 +1,10 @@
+{
+    "query": "Who was sworn in as the first Governor of the State of Alaska?",
+    "response": [
+        "doc_10897.txt",
+        "doc_10898.txt",
+        "doc_10068.txt",
+        "doc_11473.txt",
+        "doc_10067.txt"
+    ]
+}

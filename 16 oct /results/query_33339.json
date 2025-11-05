@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, which Shakespeare play does John Steinbeck\u2019s *The Winter of Our Discontent* draw inspiration from?",
+    "response": [
+        "doc_19423.txt",
+        "doc_19420.txt",
+        "doc_19422.txt",
+        "doc_19421.txt",
+        "doc_19419.txt"
+    ]
+}

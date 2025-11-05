@@ -1,0 +1,10 @@
+{
+    "query": "Where did Charles Manson and his followers reside during a portion of the late 1960s?",
+    "response": [
+        "doc_8998.txt",
+        "doc_8997.txt",
+        "doc_9007.txt",
+        "doc_9000.txt",
+        "doc_8999.txt"
+    ]
+}

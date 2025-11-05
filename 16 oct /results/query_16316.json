@@ -1,0 +1,10 @@
+{
+    "query": "Which bandleader initially employed Frank Sinatra as a vocalist?",
+    "response": [
+        "doc_9455.txt",
+        "doc_9454.txt",
+        "doc_9467.txt",
+        "doc_9456.txt",
+        "doc_9453.txt"
+    ]
+}

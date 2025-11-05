@@ -1,0 +1,10 @@
+{
+    "query": "What specific health threats does the passage identify as requiring coordinated EU risk management?",
+    "response": [
+        "doc_17589.txt",
+        "doc_22981.txt",
+        "doc_17260.txt",
+        "doc_22212.txt",
+        "doc_18905.txt"
+    ]
+}

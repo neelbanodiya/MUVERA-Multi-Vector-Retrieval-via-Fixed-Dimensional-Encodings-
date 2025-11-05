@@ -1,0 +1,10 @@
+{
+    "query": "How many rooms does the Hofburg Palace have, and how many are open to the public?",
+    "response": [
+        "doc_8642.txt",
+        "doc_8636.txt",
+        "doc_8643.txt",
+        "doc_8637.txt",
+        "doc_8639.txt"
+    ]
+}

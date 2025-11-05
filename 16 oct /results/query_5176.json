@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Regulation (EC) No 261/2004 adopted?",
+    "response": [
+        "doc_22228.txt",
+        "doc_22229.txt",
+        "doc_866.txt",
+        "doc_13436.txt",
+        "doc_391.txt"
+    ]
+}

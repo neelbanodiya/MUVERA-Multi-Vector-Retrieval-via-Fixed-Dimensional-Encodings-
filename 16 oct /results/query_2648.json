@@ -1,0 +1,10 @@
+{
+    "query": "What does \u201cGroovy\u201d mean according to the passage?",
+    "response": [
+        "doc_9046.txt",
+        "doc_949.txt",
+        "doc_12597.txt",
+        "doc_9044.txt",
+        "doc_23903.txt"
+    ]
+}

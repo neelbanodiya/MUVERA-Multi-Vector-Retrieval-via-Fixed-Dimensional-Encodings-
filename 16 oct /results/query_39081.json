@@ -1,0 +1,10 @@
+{
+    "query": "Which EU directive prohibits discrimination on the grounds of age in employment and occupation?",
+    "response": [
+        "doc_3214.txt",
+        "doc_16150.txt",
+        "doc_19459.txt",
+        "doc_5282.txt",
+        "doc_14134.txt"
+    ]
+}

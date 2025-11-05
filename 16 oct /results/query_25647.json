@@ -1,0 +1,10 @@
+{
+    "query": "What other works did John Smith write about his travels, as mentioned in the passages?",
+    "response": [
+        "doc_14860.txt",
+        "doc_14861.txt",
+        "doc_3820.txt",
+        "doc_14859.txt",
+        "doc_9237.txt"
+    ]
+}

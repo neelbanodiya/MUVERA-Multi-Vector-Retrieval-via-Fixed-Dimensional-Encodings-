@@ -1,0 +1,10 @@
+{
+    "query": "What role did Henderson play in Jackson Pollock\u2019s artistic development?",
+    "response": [
+        "doc_16925.txt",
+        "doc_15277.txt",
+        "doc_1962.txt",
+        "doc_5372.txt",
+        "doc_2420.txt"
+    ]
+}

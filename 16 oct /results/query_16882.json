@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of public procurement contracts are won by foreign firms in Sweden, Germany, and Ireland?",
+    "response": [
+        "doc_9782.txt",
+        "doc_4906.txt",
+        "doc_3795.txt",
+        "doc_11730.txt",
+        "doc_14366.txt"
+    ]
+}

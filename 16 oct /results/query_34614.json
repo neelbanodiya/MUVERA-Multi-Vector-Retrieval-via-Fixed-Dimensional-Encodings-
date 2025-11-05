@@ -1,0 +1,10 @@
+{
+    "query": "What is the first line of Beck's song \"Loser\"?",
+    "response": [
+        "doc_20145.txt",
+        "doc_20146.txt",
+        "doc_12570.txt",
+        "doc_18756.txt",
+        "doc_18752.txt"
+    ]
+}

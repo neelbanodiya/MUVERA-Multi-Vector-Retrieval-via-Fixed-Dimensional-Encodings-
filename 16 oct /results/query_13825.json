@@ -1,0 +1,10 @@
+{
+    "query": "What was the ranking of Hawaii in the annual state rankings for overall well-being, as reported in \u201cHawaii tops list of states with highest overall well-being - TODAY.com\u201d?",
+    "response": [
+        "doc_8044.txt",
+        "doc_8034.txt",
+        "doc_8045.txt",
+        "doc_8033.txt",
+        "doc_8041.txt"
+    ]
+}

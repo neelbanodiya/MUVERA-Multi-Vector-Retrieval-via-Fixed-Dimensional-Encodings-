@@ -1,0 +1,10 @@
+{
+    "query": "What historical event significantly impacted the development of Managua after 1972?",
+    "response": [
+        "doc_19474.txt",
+        "doc_14510.txt",
+        "doc_14502.txt",
+        "doc_14501.txt",
+        "doc_14509.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the passages, what was Rebekah\u2019s status when the servant encountered her?",
+    "response": [
+        "doc_8099.txt",
+        "doc_8092.txt",
+        "doc_8097.txt",
+        "doc_8093.txt",
+        "doc_8107.txt"
+    ]
+}

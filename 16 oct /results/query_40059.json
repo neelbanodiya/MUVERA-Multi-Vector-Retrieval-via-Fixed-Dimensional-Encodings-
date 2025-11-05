@@ -1,0 +1,10 @@
+{
+    "query": "What texture are Amaretti cookies described as having?",
+    "response": [
+        "doc_23445.txt",
+        "doc_23456.txt",
+        "doc_23458.txt",
+        "doc_23447.txt",
+        "doc_23449.txt"
+    ]
+}

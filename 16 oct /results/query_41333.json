@@ -1,0 +1,10 @@
+{
+    "query": "Are gold prospecting detectors suitable for all regions of the United States?",
+    "response": [
+        "doc_6864.txt",
+        "doc_24217.txt",
+        "doc_4697.txt",
+        "doc_12470.txt",
+        "doc_17360.txt"
+    ]
+}

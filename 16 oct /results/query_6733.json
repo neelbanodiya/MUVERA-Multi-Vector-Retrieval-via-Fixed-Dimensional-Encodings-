@@ -1,0 +1,10 @@
+{
+    "query": "What is *Son of Rosemary* described as in relation to *Rosemary\u2019s Baby*?",
+    "response": [
+        "doc_3861.txt",
+        "doc_3867.txt",
+        "doc_12659.txt",
+        "doc_2837.txt",
+        "doc_1723.txt"
+    ]
+}

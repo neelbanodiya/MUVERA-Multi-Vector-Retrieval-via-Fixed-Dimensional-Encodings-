@@ -1,0 +1,10 @@
+{
+    "query": "What type of mathematics influenced Persian mathematics?",
+    "response": [
+        "doc_16945.txt",
+        "doc_16939.txt",
+        "doc_16938.txt",
+        "doc_16946.txt",
+        "doc_16940.txt"
+    ]
+}

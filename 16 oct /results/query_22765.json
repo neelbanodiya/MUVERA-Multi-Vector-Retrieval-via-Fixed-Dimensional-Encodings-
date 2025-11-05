@@ -1,0 +1,10 @@
+{
+    "query": "What song did Elvis Presley particularly admire, as evidenced by Roy Hamilton\u2019s recording?",
+    "response": [
+        "doc_6337.txt",
+        "doc_12571.txt",
+        "doc_19995.txt",
+        "doc_12338.txt",
+        "doc_5445.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "If the municipality of Aci Castello received financing, has it been used within the proper time-frame and in the proper fashion?",
+    "response": [
+        "doc_3750.txt",
+        "doc_9897.txt",
+        "doc_22506.txt",
+        "doc_8187.txt",
+        "doc_9021.txt"
+    ]
+}

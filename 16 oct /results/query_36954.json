@@ -1,0 +1,10 @@
+{
+    "query": "How did the reception of *Batman Returns* influence the direction of subsequent Batman films?",
+    "response": [
+        "doc_21618.txt",
+        "doc_21621.txt",
+        "doc_21617.txt",
+        "doc_21620.txt",
+        "doc_21622.txt"
+    ]
+}

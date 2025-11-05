@@ -1,0 +1,10 @@
+{
+    "query": "Which author wrote both *Rosemary's Baby* and *Son of Rosemary*?",
+    "response": [
+        "doc_3862.txt",
+        "doc_3861.txt",
+        "doc_3866.txt",
+        "doc_3867.txt",
+        "doc_3864.txt"
+    ]
+}

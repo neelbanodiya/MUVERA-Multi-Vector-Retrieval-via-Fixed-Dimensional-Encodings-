@@ -1,0 +1,10 @@
+{
+    "query": "What specific location in Miami featured Jahn\u2019s Ice Cream Parlors during the 1950s and 60s?",
+    "response": [
+        "doc_5490.txt",
+        "doc_18837.txt",
+        "doc_11889.txt",
+        "doc_12192.txt",
+        "doc_22787.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was Empress Josephine born?",
+    "response": [
+        "doc_8365.txt",
+        "doc_8366.txt",
+        "doc_8370.txt",
+        "doc_8376.txt",
+        "doc_8369.txt"
+    ]
+}

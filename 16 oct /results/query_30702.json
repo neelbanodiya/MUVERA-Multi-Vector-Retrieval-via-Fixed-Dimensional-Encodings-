@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Holmenkollen Ski Jump serve as the main arena for the Winter Olympics?",
+    "response": [
+        "doc_17855.txt",
+        "doc_17862.txt",
+        "doc_17863.txt",
+        "doc_17851.txt",
+        "doc_17865.txt"
+    ]
+}

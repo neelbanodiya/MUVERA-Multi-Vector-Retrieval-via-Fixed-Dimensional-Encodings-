@@ -1,0 +1,10 @@
+{
+    "query": "What nationality was Mary Cassatt?",
+    "response": [
+        "doc_23405.txt",
+        "doc_755.txt",
+        "doc_14056.txt",
+        "doc_21085.txt",
+        "doc_431.txt"
+    ]
+}

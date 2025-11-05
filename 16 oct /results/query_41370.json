@@ -1,0 +1,10 @@
+{
+    "query": "How much did Nebraska spend in 1996 on its Soil and Water Conservation Program?",
+    "response": [
+        "doc_23029.txt",
+        "doc_3540.txt",
+        "doc_16256.txt",
+        "doc_19078.txt",
+        "doc_6096.txt"
+    ]
+}

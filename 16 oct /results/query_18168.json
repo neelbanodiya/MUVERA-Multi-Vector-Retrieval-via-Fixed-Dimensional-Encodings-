@@ -1,0 +1,10 @@
+{
+    "query": "What action does the Commission intend to take to ensure that these routine checks are justified?",
+    "response": [
+        "doc_16370.txt",
+        "doc_18905.txt",
+        "doc_11887.txt",
+        "doc_9144.txt",
+        "doc_17478.txt"
+    ]
+}

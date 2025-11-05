@@ -1,0 +1,10 @@
+{
+    "query": "What state is the town of Townsville located in?",
+    "response": [
+        "doc_1764.txt",
+        "doc_1765.txt",
+        "doc_1768.txt",
+        "doc_1780.txt",
+        "doc_1771.txt"
+    ]
+}

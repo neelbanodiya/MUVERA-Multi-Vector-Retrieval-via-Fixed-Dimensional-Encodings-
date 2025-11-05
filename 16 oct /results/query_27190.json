@@ -1,0 +1,10 @@
+{
+    "query": "What conditions made Cape Creus dangerous for navigation?",
+    "response": [
+        "doc_15788.txt",
+        "doc_15793.txt",
+        "doc_15800.txt",
+        "doc_15795.txt",
+        "doc_15803.txt"
+    ]
+}

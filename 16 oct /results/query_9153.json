@@ -1,0 +1,10 @@
+{
+    "query": "Who is co-hosting the Japanese Investors' Reception?",
+    "response": [
+        "doc_5275.txt",
+        "doc_22015.txt",
+        "doc_23149.txt",
+        "doc_4750.txt",
+        "doc_9224.txt"
+    ]
+}

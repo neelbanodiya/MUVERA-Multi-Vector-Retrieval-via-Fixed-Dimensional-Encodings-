@@ -1,0 +1,10 @@
+{
+    "query": "What is Detroit known for, according to the passage?",
+    "response": [
+        "doc_8684.txt",
+        "doc_18923.txt",
+        "doc_5711.txt",
+        "doc_14854.txt",
+        "doc_10127.txt"
+    ]
+}

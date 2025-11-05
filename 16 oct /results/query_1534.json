@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many tons of cargo were delivered to the city during the entire Berlin Airlift?",
+    "response": [
+        "doc_875.txt",
+        "doc_870.txt",
+        "doc_874.txt",
+        "doc_876.txt",
+        "doc_869.txt"
+    ]
+}

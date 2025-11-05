@@ -1,0 +1,10 @@
+{
+    "query": "Which countries are considered important partners for energy supply, and why is Norway particularly significant?",
+    "response": [
+        "doc_24182.txt",
+        "doc_24177.txt",
+        "doc_177.txt",
+        "doc_24174.txt",
+        "doc_14212.txt"
+    ]
+}

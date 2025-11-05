@@ -1,0 +1,10 @@
+{
+    "query": "What hotel chains have a presence in Boston, according to the provided links?",
+    "response": [
+        "doc_1608.txt",
+        "doc_1606.txt",
+        "doc_1605.txt",
+        "doc_1614.txt",
+        "doc_1604.txt"
+    ]
+}

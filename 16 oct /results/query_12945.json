@@ -1,0 +1,10 @@
+{
+    "query": "What R&B chart position did the duet featuring Luther Vandross and Mariah Carey reach on the Hot 100 chart?",
+    "response": [
+        "doc_7543.txt",
+        "doc_7536.txt",
+        "doc_7542.txt",
+        "doc_7541.txt",
+        "doc_7539.txt"
+    ]
+}

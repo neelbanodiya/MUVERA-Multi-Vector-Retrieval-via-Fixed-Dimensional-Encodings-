@@ -1,0 +1,10 @@
+{
+    "query": "What type of performance did Prince create, and which ballet company performed it?",
+    "response": [
+        "doc_23546.txt",
+        "doc_13541.txt",
+        "doc_9888.txt",
+        "doc_15653.txt",
+        "doc_15658.txt"
+    ]
+}

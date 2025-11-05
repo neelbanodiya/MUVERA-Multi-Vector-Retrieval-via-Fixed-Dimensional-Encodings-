@@ -1,0 +1,10 @@
+{
+    "query": "What city was founded by the Phoenicians in northern Africa, inheriting no colonial empire from Tyre?",
+    "response": [
+        "doc_8349.txt",
+        "doc_8357.txt",
+        "doc_8345.txt",
+        "doc_8351.txt",
+        "doc_8354.txt"
+    ]
+}

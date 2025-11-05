@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the news article from the Everett Daily Herald?",
+    "response": [
+        "doc_5273.txt",
+        "doc_23494.txt",
+        "doc_18583.txt",
+        "doc_22773.txt",
+        "doc_8364.txt"
+    ]
+}

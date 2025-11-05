@@ -1,0 +1,10 @@
+{
+    "query": "What role did Monet have in the 40 Days and 40 Nights film?",
+    "response": [
+        "doc_19019.txt",
+        "doc_18954.txt",
+        "doc_15277.txt",
+        "doc_17778.txt",
+        "doc_21379.txt"
+    ]
+}

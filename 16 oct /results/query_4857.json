@@ -1,0 +1,10 @@
+{
+    "query": "How did Ted Williams\u2019s father influence his career path, based on the provided text?",
+    "response": [
+        "doc_20133.txt",
+        "doc_1451.txt",
+        "doc_20132.txt",
+        "doc_3820.txt",
+        "doc_7122.txt"
+    ]
+}

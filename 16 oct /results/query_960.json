@@ -1,0 +1,10 @@
+{
+    "query": "Which region of the world contains most of its people, according to the Britannica article?",
+    "response": [
+        "doc_8789.txt",
+        "doc_3268.txt",
+        "doc_8836.txt",
+        "doc_534.txt",
+        "doc_8361.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What movies has Leonardo DiCaprio starred in, such as \"Titanic\" and \"The Wolf of Wall Street\"?",
+    "response": [
+        "doc_8483.txt",
+        "doc_4194.txt",
+        "doc_4996.txt",
+        "doc_18944.txt",
+        "doc_7767.txt"
+    ]
+}

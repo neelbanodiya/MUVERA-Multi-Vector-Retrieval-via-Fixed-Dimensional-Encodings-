@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, is the EU a net exporter or importer of agri-food products from developing countries, and how does its import volume compare to other major importing nations?",
+    "response": [
+        "doc_7865.txt",
+        "doc_7867.txt",
+        "doc_15082.txt",
+        "doc_4034.txt",
+        "doc_19526.txt"
+    ]
+}

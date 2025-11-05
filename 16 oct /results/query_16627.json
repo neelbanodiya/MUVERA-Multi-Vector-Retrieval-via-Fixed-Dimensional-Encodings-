@@ -1,0 +1,10 @@
+{
+    "query": "Who, besides Admiral David Beatty, commanded five battlecruisers during the Battle of Heligoland Bight?",
+    "response": [
+        "doc_9626.txt",
+        "doc_9643.txt",
+        "doc_9629.txt",
+        "doc_9632.txt",
+        "doc_9640.txt"
+    ]
+}

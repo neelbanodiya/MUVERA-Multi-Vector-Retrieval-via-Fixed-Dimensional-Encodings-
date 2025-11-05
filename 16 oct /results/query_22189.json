@@ -1,0 +1,10 @@
+{
+    "query": "During what time period is Ivan\u2019s Childhood set?",
+    "response": [
+        "doc_12800.txt",
+        "doc_14778.txt",
+        "doc_2678.txt",
+        "doc_9892.txt",
+        "doc_14182.txt"
+    ]
+}

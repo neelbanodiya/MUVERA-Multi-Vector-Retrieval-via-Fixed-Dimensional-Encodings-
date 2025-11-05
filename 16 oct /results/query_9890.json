@@ -1,0 +1,10 @@
+{
+    "query": "What was the impact of the bombing of Hiroshima and Nagasaki in 1945?",
+    "response": [
+        "doc_1483.txt",
+        "doc_1627.txt",
+        "doc_1900.txt",
+        "doc_10769.txt",
+        "doc_15912.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is Apollo, a ballet created by George Balanchine, associated with?",
+    "response": [
+        "doc_15658.txt",
+        "doc_15660.txt",
+        "doc_15661.txt",
+        "doc_15649.txt",
+        "doc_15652.txt"
+    ]
+}

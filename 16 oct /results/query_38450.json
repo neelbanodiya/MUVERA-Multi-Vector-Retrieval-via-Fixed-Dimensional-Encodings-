@@ -1,0 +1,10 @@
+{
+    "query": "Besides \u201cCrimson and Clover,\u201d what other song is mentioned as contributing to Joan Jett\u2019s success in the provided links?",
+    "response": [
+        "doc_22547.txt",
+        "doc_22548.txt",
+        "doc_22551.txt",
+        "doc_22550.txt",
+        "doc_13104.txt"
+    ]
+}

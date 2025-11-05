@@ -1,0 +1,10 @@
+{
+    "query": "When did John Henry challenge the steam drill?",
+    "response": [
+        "doc_1945.txt",
+        "doc_1950.txt",
+        "doc_1954.txt",
+        "doc_1953.txt",
+        "doc_1944.txt"
+    ]
+}

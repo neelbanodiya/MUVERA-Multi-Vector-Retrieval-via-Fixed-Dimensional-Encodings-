@@ -1,0 +1,10 @@
+{
+    "query": "Is the city of Augusta, GA, offering to cover the cost of address changes for the author?",
+    "response": [
+        "doc_13595.txt",
+        "doc_13609.txt",
+        "doc_13596.txt",
+        "doc_17770.txt",
+        "doc_2708.txt"
+    ]
+}

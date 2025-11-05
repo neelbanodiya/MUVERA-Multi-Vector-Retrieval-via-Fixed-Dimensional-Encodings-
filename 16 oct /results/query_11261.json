@@ -1,0 +1,10 @@
+{
+    "query": "What is the current situation regarding the capital cities of Bolivia \u2013 La Paz and Sucre?",
+    "response": [
+        "doc_6514.txt",
+        "doc_6515.txt",
+        "doc_6524.txt",
+        "doc_6525.txt",
+        "doc_6517.txt"
+    ]
+}

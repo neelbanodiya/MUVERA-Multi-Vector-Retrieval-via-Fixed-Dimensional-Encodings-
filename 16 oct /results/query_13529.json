@@ -1,0 +1,10 @@
+{
+    "query": "What are the three elements featured on the Canadian coat of arms shield?",
+    "response": [
+        "doc_7894.txt",
+        "doc_7891.txt",
+        "doc_7889.txt",
+        "doc_7890.txt",
+        "doc_7898.txt"
+    ]
+}

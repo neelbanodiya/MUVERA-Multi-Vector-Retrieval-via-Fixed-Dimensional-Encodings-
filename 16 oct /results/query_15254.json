@@ -1,0 +1,10 @@
+{
+    "query": "What countries does Patagonia straddle?",
+    "response": [
+        "doc_8843.txt",
+        "doc_8851.txt",
+        "doc_8842.txt",
+        "doc_8837.txt",
+        "doc_22969.txt"
+    ]
+}

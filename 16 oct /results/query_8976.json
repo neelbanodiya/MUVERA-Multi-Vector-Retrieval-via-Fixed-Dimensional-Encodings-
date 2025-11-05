@@ -1,0 +1,10 @@
+{
+    "query": "What type of film was written and directed by Damien Chazelle?",
+    "response": [
+        "doc_2231.txt",
+        "doc_20567.txt",
+        "doc_23570.txt",
+        "doc_14685.txt",
+        "doc_14684.txt"
+    ]
+}

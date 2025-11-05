@@ -1,0 +1,10 @@
+{
+    "query": "What are the names of the rivers that originate in the Kailash-Lake Manasarovar region?",
+    "response": [
+        "doc_8861.txt",
+        "doc_4335.txt",
+        "doc_8860.txt",
+        "doc_4341.txt",
+        "doc_8858.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how long after Polk left office did he die?",
+    "response": [
+        "doc_16326.txt",
+        "doc_2476.txt",
+        "doc_3752.txt",
+        "doc_3751.txt",
+        "doc_12838.txt"
+    ]
+}

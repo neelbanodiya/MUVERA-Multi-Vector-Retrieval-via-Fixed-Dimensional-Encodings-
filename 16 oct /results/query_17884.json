@@ -1,0 +1,10 @@
+{
+    "query": "Besides *The Lucy Show*, what other television program did Dean Martin appear in during 1965?",
+    "response": [
+        "doc_10359.txt",
+        "doc_10358.txt",
+        "doc_10360.txt",
+        "doc_3739.txt",
+        "doc_730.txt"
+    ]
+}

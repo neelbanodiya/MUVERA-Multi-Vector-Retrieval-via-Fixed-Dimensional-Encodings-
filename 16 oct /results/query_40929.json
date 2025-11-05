@@ -1,0 +1,10 @@
+{
+    "query": "What happened to the external tank after the Space Shuttle landed?",
+    "response": [
+        "doc_4162.txt",
+        "doc_23953.txt",
+        "doc_23947.txt",
+        "doc_613.txt",
+        "doc_14515.txt"
+    ]
+}

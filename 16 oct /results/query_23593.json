@@ -1,0 +1,10 @@
+{
+    "query": "What does the Morse Code Interpreter Strip introduced by the Boy Scouts of America do?",
+    "response": [
+        "doc_15819.txt",
+        "doc_20220.txt",
+        "doc_10945.txt",
+        "doc_20622.txt",
+        "doc_20496.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How much does the Fraunhofer Society\u2019s annual research budget amount to?",
+    "response": [
+        "doc_18430.txt",
+        "doc_12546.txt",
+        "doc_12547.txt",
+        "doc_18733.txt",
+        "doc_12152.txt"
+    ]
+}

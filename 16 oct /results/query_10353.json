@@ -1,0 +1,10 @@
+{
+    "query": "What type of property is located at 1 Market St #3105 in St. Lawrence, Toronto?",
+    "response": [
+        "doc_6002.txt",
+        "doc_6003.txt",
+        "doc_6000.txt",
+        "doc_5999.txt",
+        "doc_3380.txt"
+    ]
+}

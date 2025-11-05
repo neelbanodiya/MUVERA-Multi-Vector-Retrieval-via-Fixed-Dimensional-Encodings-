@@ -1,0 +1,10 @@
+{
+    "query": "What specific EU regulation addresses customs action against goods suspected of infringing intellectual property rights?",
+    "response": [
+        "doc_18475.txt",
+        "doc_19746.txt",
+        "doc_15034.txt",
+        "doc_7624.txt",
+        "doc_6877.txt"
+    ]
+}

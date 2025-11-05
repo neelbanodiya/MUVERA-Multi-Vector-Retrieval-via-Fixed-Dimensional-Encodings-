@@ -1,0 +1,10 @@
+{
+    "query": "What type of film was \u201cMelody Time,\u201d and what was its connection to \u201cFantasia\u201d?",
+    "response": [
+        "doc_9892.txt",
+        "doc_7456.txt",
+        "doc_14258.txt",
+        "doc_14685.txt",
+        "doc_1811.txt"
+    ]
+}

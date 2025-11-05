@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the Little League team that Morris Buttermaker is tasked with coaching?",
+    "response": [
+        "doc_18911.txt",
+        "doc_16718.txt",
+        "doc_7630.txt",
+        "doc_16717.txt",
+        "doc_2354.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year did Kurt Cobain commit suicide?",
+    "response": [
+        "doc_20670.txt",
+        "doc_4343.txt",
+        "doc_9675.txt",
+        "doc_15494.txt",
+        "doc_5191.txt"
+    ]
+}

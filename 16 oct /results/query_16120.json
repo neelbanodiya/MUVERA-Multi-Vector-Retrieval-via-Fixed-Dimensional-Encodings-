@@ -1,0 +1,10 @@
+{
+    "query": "What national park does the northern lobe of Petrified Forest National Park lie within?",
+    "response": [
+        "doc_9327.txt",
+        "doc_9325.txt",
+        "doc_9326.txt",
+        "doc_9324.txt",
+        "doc_9334.txt"
+    ]
+}

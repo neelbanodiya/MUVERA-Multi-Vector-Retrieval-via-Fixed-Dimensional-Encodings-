@@ -1,0 +1,10 @@
+{
+    "query": "What 19th-century novel does \u201cTwo Tales of the Sea\u201d package with \u201cThe Rime of the Ancient Mariner\u201d?",
+    "response": [
+        "doc_22567.txt",
+        "doc_9938.txt",
+        "doc_18455.txt",
+        "doc_1849.txt",
+        "doc_18447.txt"
+    ]
+}

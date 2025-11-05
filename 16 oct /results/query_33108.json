@@ -1,0 +1,10 @@
+{
+    "query": "How much did the Commission spend to create this website?",
+    "response": [
+        "doc_19270.txt",
+        "doc_5999.txt",
+        "doc_12152.txt",
+        "doc_14549.txt",
+        "doc_17465.txt"
+    ]
+}

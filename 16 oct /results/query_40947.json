@@ -1,0 +1,10 @@
+{
+    "query": "What are some characteristics of Medellin coffee?",
+    "response": [
+        "doc_23959.txt",
+        "doc_23960.txt",
+        "doc_23957.txt",
+        "doc_23958.txt",
+        "doc_23956.txt"
+    ]
+}

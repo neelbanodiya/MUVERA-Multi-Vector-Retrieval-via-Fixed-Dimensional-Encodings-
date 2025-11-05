@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, how did Francis Ford Coppola ensure his niece\u2019s safety on the set of *The Godfather Part II*?",
+    "response": [
+        "doc_10927.txt",
+        "doc_10924.txt",
+        "doc_10928.txt",
+        "doc_10926.txt",
+        "doc_10922.txt"
+    ]
+}

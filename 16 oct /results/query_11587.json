@@ -1,0 +1,10 @@
+{
+    "query": "Who coached Italy to its first World Cup triumph in 1982?",
+    "response": [
+        "doc_24227.txt",
+        "doc_10378.txt",
+        "doc_24228.txt",
+        "doc_10380.txt",
+        "doc_10381.txt"
+    ]
+}

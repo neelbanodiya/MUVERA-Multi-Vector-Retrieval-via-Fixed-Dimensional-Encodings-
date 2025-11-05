@@ -1,0 +1,10 @@
+{
+    "query": "What year was the Oxford Companion to American Theatre published?",
+    "response": [
+        "doc_5294.txt",
+        "doc_7862.txt",
+        "doc_20548.txt",
+        "doc_1812.txt",
+        "doc_8258.txt"
+    ]
+}

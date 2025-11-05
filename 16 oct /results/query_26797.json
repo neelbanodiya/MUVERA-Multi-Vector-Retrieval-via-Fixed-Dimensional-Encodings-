@@ -1,0 +1,10 @@
+{
+    "query": "How many books comprise *The Lord of the Rings* trilogy?",
+    "response": [
+        "doc_15556.txt",
+        "doc_15558.txt",
+        "doc_4436.txt",
+        "doc_15548.txt",
+        "doc_15550.txt"
+    ]
+}

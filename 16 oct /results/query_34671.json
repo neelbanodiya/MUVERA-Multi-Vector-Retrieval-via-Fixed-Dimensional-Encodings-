@@ -1,0 +1,10 @@
+{
+    "query": "What two awards did Michael Jordan win while at UNC in 1984?",
+    "response": [
+        "doc_20189.txt",
+        "doc_20188.txt",
+        "doc_20201.txt",
+        "doc_74.txt",
+        "doc_19123.txt"
+    ]
+}

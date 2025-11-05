@@ -1,0 +1,10 @@
+{
+    "query": "When was Louis Napoleon elected as President of France?",
+    "response": [
+        "doc_10140.txt",
+        "doc_10152.txt",
+        "doc_10144.txt",
+        "doc_10146.txt",
+        "doc_10150.txt"
+    ]
+}

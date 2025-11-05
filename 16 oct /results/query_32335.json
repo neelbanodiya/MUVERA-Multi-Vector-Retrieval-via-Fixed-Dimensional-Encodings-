@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what was Bill Cosby\u2019s role in the television show *I Spy*?",
+    "response": [
+        "doc_18836.txt",
+        "doc_18839.txt",
+        "doc_19563.txt",
+        "doc_18954.txt",
+        "doc_18873.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What organization presents the Edgar Allan Poe Awards?",
+    "response": [
+        "doc_5757.txt",
+        "doc_5758.txt",
+        "doc_5759.txt",
+        "doc_5763.txt",
+        "doc_5767.txt"
+    ]
+}

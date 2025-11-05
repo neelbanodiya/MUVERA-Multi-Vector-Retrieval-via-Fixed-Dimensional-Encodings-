@@ -1,0 +1,10 @@
+{
+    "query": "According to one of the Google Books results, which author wrote \u201cElmer Gantry\u201d?",
+    "response": [
+        "doc_8516.txt",
+        "doc_8426.txt",
+        "doc_14009.txt",
+        "doc_337.txt",
+        "doc_3257.txt"
+    ]
+}

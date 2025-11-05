@@ -1,0 +1,10 @@
+{
+    "query": "Which college team did Bob Stephenson play for?",
+    "response": [
+        "doc_1222.txt",
+        "doc_21945.txt",
+        "doc_3576.txt",
+        "doc_9159.txt",
+        "doc_1974.txt"
+    ]
+}

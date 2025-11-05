@@ -1,0 +1,10 @@
+{
+    "query": "What was the publication date of \u201cThe Colorado Kid\u201d?",
+    "response": [
+        "doc_15021.txt",
+        "doc_4165.txt",
+        "doc_6752.txt",
+        "doc_19982.txt",
+        "doc_1812.txt"
+    ]
+}

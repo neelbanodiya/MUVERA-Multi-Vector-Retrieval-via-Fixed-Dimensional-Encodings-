@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what are the PNVD party\u2019s stated long-term goals?",
+    "response": [
+        "doc_17380.txt",
+        "doc_9269.txt",
+        "doc_1506.txt",
+        "doc_11870.txt",
+        "doc_10888.txt"
+    ]
+}

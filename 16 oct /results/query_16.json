@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided articles, what was Richard Seed\u2019s response to concerns about his cloning plans?",
+    "response": [
+        "doc_8.txt",
+        "doc_7.txt",
+        "doc_21632.txt",
+        "doc_21885.txt",
+        "doc_7648.txt"
+    ]
+}

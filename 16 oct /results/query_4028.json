@@ -1,0 +1,10 @@
+{
+    "query": "What was Johnny Cueto's pitching schedule with the San Francisco Giants?",
+    "response": [
+        "doc_2349.txt",
+        "doc_2354.txt",
+        "doc_2363.txt",
+        "doc_2350.txt",
+        "doc_2368.txt"
+    ]
+}

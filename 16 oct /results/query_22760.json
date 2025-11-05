@@ -1,0 +1,10 @@
+{
+    "query": "What song is listed as being performed by Little Richard?",
+    "response": [
+        "doc_13096.txt",
+        "doc_9465.txt",
+        "doc_14258.txt",
+        "doc_5868.txt",
+        "doc_5278.txt"
+    ]
+}

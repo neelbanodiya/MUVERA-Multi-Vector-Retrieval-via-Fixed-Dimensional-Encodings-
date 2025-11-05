@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the Nina Ricci perfume, L'Air du Temps, created?",
+    "response": [
+        "doc_21854.txt",
+        "doc_21853.txt",
+        "doc_22784.txt",
+        "doc_13106.txt",
+        "doc_5851.txt"
+    ]
+}

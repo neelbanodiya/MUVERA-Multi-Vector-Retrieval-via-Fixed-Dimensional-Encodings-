@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what phrase encapsulates the core philosophy of Eastern Airlines\u2019 operations?",
+    "response": [
+        "doc_14879.txt",
+        "doc_14442.txt",
+        "doc_14885.txt",
+        "doc_14880.txt",
+        "doc_14430.txt"
+    ]
+}

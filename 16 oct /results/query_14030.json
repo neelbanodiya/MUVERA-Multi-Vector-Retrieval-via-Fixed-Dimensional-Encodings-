@@ -1,0 +1,10 @@
+{
+    "query": "What specific regulations are being amended by Amendment 38?",
+    "response": [
+        "doc_20779.txt",
+        "doc_10799.txt",
+        "doc_20778.txt",
+        "doc_20759.txt",
+        "doc_20788.txt"
+    ]
+}

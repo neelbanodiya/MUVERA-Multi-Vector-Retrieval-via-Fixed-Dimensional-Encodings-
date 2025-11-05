@@ -1,0 +1,10 @@
+{
+    "query": "What type of engine did Henry Ford choose to power his cars?",
+    "response": [
+        "doc_11183.txt",
+        "doc_11538.txt",
+        "doc_11528.txt",
+        "doc_17153.txt",
+        "doc_11526.txt"
+    ]
+}

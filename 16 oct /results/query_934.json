@@ -1,0 +1,10 @@
+{
+    "query": "What occupation did George Carver have?",
+    "response": [
+        "doc_517.txt",
+        "doc_522.txt",
+        "doc_521.txt",
+        "doc_9771.txt",
+        "doc_520.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what is the maximum vertical jump height achieved by Carmelo Anthony?",
+    "response": [
+        "doc_4360.txt",
+        "doc_4356.txt",
+        "doc_4354.txt",
+        "doc_23538.txt",
+        "doc_12596.txt"
+    ]
+}

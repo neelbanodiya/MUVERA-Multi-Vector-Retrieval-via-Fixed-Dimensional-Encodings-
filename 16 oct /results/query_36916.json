@@ -1,0 +1,10 @@
+{
+    "query": "What types of monkeys are classified as New World monkeys?",
+    "response": [
+        "doc_21582.txt",
+        "doc_21593.txt",
+        "doc_21578.txt",
+        "doc_21592.txt",
+        "doc_21576.txt"
+    ]
+}

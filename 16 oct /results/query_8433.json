@@ -1,0 +1,10 @@
+{
+    "query": "What resolutions has the European Parliament previously adopted concerning Azerbaijan?",
+    "response": [
+        "doc_8769.txt",
+        "doc_4899.txt",
+        "doc_15472.txt",
+        "doc_13347.txt",
+        "doc_1272.txt"
+    ]
+}

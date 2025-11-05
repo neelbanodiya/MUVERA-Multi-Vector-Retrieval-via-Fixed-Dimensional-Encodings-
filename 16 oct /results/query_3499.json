@@ -1,0 +1,10 @@
+{
+    "query": "What percentage of Iran\u2019s current oil sales will be taken away by the oil embargo?",
+    "response": [
+        "doc_2063.txt",
+        "doc_2064.txt",
+        "doc_21441.txt",
+        "doc_12703.txt",
+        "doc_2030.txt"
+    ]
+}

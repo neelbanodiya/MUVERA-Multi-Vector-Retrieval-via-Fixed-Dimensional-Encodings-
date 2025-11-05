@@ -1,0 +1,10 @@
+{
+    "query": "What is the current state of the lake near Managua, Nicaragua?",
+    "response": [
+        "doc_14501.txt",
+        "doc_14502.txt",
+        "doc_14504.txt",
+        "doc_14499.txt",
+        "doc_23098.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When were local and regional elections scheduled to take place in Ukraine, as mentioned in the passage?",
+    "response": [
+        "doc_14690.txt",
+        "doc_6491.txt",
+        "doc_4903.txt",
+        "doc_23027.txt",
+        "doc_1852.txt"
+    ]
+}

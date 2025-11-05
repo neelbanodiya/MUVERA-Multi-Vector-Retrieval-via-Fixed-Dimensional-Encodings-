@@ -1,0 +1,10 @@
+{
+    "query": "Which neighborhood in New York City is described as the \u201chub of African-American culture\u201d?",
+    "response": [
+        "doc_13050.txt",
+        "doc_13067.txt",
+        "doc_13066.txt",
+        "doc_13051.txt",
+        "doc_13055.txt"
+    ]
+}

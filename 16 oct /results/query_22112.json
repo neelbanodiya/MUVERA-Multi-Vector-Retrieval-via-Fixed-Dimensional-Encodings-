@@ -1,0 +1,10 @@
+{
+    "query": "The Spitfire & the Hawker Hurricane are types of these?",
+    "response": [
+        "doc_12762.txt",
+        "doc_12763.txt",
+        "doc_12767.txt",
+        "doc_12764.txt",
+        "doc_12766.txt"
+    ]
+}

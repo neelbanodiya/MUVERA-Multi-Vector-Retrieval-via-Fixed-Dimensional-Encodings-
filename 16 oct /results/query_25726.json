@@ -1,0 +1,10 @@
+{
+    "query": "What information is available about Ronald Reagan\u2019s childhood home?",
+    "response": [
+        "doc_3568.txt",
+        "doc_3563.txt",
+        "doc_3565.txt",
+        "doc_3570.txt",
+        "doc_3571.txt"
+    ]
+}

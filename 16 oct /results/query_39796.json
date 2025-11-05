@@ -1,0 +1,10 @@
+{
+    "query": "What was the title of the film for which John Wayne won an Oscar?",
+    "response": [
+        "doc_23290.txt",
+        "doc_23283.txt",
+        "doc_23292.txt",
+        "doc_23277.txt",
+        "doc_23287.txt"
+    ]
+}

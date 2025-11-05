@@ -1,0 +1,10 @@
+{
+    "query": "What is the average household paying in interest per year according to NerdWallet?",
+    "response": [
+        "doc_11920.txt",
+        "doc_22797.txt",
+        "doc_5221.txt",
+        "doc_14809.txt",
+        "doc_18387.txt"
+    ]
+}

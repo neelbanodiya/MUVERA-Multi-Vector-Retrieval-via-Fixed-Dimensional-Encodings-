@@ -1,0 +1,10 @@
+{
+    "query": "What genres did Mahler primarily focus his creativity on?",
+    "response": [
+        "doc_19613.txt",
+        "doc_19612.txt",
+        "doc_89.txt",
+        "doc_19136.txt",
+        "doc_18912.txt"
+    ]
+}

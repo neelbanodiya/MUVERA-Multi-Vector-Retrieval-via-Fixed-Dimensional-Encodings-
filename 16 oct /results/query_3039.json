@@ -1,0 +1,10 @@
+{
+    "query": "How did Sir Lancelot and the other knights first meet?",
+    "response": [
+        "doc_1834.txt",
+        "doc_1835.txt",
+        "doc_1848.txt",
+        "doc_1843.txt",
+        "doc_1847.txt"
+    ]
+}

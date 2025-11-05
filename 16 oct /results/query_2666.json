@@ -1,0 +1,10 @@
+{
+    "query": "What are some hotels located near Boston Logan International Airport (BOS)?",
+    "response": [
+        "doc_1617.txt",
+        "doc_1611.txt",
+        "doc_1607.txt",
+        "doc_1606.txt",
+        "doc_1609.txt"
+    ]
+}

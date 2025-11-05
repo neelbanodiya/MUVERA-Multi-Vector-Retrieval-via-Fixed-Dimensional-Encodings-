@@ -1,0 +1,10 @@
+{
+    "query": "What has the EU repeatedly expressed to the United States concerning the detainees in Guantanamo?",
+    "response": [
+        "doc_1762.txt",
+        "doc_2799.txt",
+        "doc_4752.txt",
+        "doc_5645.txt",
+        "doc_22395.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many districts make up Huangpu in Shanghai?",
+    "response": [
+        "doc_4542.txt",
+        "doc_4543.txt",
+        "doc_20400.txt",
+        "doc_6315.txt",
+        "doc_16758.txt"
+    ]
+}

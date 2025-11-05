@@ -1,0 +1,10 @@
+{
+    "query": "If Ashley runs 3 times around the track, how many kilometers does she cover?",
+    "response": [
+        "doc_8534.txt",
+        "doc_8535.txt",
+        "doc_8543.txt",
+        "doc_8538.txt",
+        "doc_8536.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was Heinz Kerry\u2019s political position?",
+    "response": [
+        "doc_15072.txt",
+        "doc_15073.txt",
+        "doc_15077.txt",
+        "doc_15071.txt",
+        "doc_2176.txt"
+    ]
+}

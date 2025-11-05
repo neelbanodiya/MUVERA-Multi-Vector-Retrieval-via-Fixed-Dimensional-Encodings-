@@ -1,0 +1,10 @@
+{
+    "query": "How many African Americans served in Union regiments during the Civil War?",
+    "response": [
+        "doc_4968.txt",
+        "doc_4967.txt",
+        "doc_5882.txt",
+        "doc_4974.txt",
+        "doc_4971.txt"
+    ]
+}

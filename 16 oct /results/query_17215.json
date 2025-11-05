@@ -1,0 +1,10 @@
+{
+    "query": "What types of systems were American leaders and citizens supporting through U.S. military and economic aid?",
+    "response": [
+        "doc_18901.txt",
+        "doc_4710.txt",
+        "doc_23122.txt",
+        "doc_17472.txt",
+        "doc_5317.txt"
+    ]
+}

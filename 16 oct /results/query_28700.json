@@ -1,0 +1,10 @@
+{
+    "query": "Which SeaWorld parks feature the Halloween Spooktacular event?",
+    "response": [
+        "doc_16724.txt",
+        "doc_102.txt",
+        "doc_20938.txt",
+        "doc_94.txt",
+        "doc_3509.txt"
+    ]
+}

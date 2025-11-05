@@ -1,0 +1,10 @@
+{
+    "query": "What was Bobby Darin known for?",
+    "response": [
+        "doc_5391.txt",
+        "doc_3077.txt",
+        "doc_74.txt",
+        "doc_18954.txt",
+        "doc_10362.txt"
+    ]
+}

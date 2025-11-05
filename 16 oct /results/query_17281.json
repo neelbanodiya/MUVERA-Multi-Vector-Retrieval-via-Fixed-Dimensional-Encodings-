@@ -1,0 +1,10 @@
+{
+    "query": "What was Bill Murray doing before he starred in *Caddyshack*?",
+    "response": [
+        "doc_16925.txt",
+        "doc_9273.txt",
+        "doc_15117.txt",
+        "doc_18866.txt",
+        "doc_15121.txt"
+    ]
+}

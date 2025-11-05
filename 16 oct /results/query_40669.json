@@ -1,0 +1,10 @@
+{
+    "query": "What year was \u201cThe Haunting\u201d (1999 film) released in the United States?",
+    "response": [
+        "doc_23795.txt",
+        "doc_9892.txt",
+        "doc_14779.txt",
+        "doc_726.txt",
+        "doc_1231.txt"
+    ]
+}

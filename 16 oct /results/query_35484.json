@@ -1,0 +1,10 @@
+{
+    "query": "How many films did Ronald Reagan appear in during the following two decades after his gunshot wound recovery?",
+    "response": [
+        "doc_20671.txt",
+        "doc_19558.txt",
+        "doc_19557.txt",
+        "doc_23283.txt",
+        "doc_23291.txt"
+    ]
+}

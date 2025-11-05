@@ -1,0 +1,10 @@
+{
+    "query": "What type of glass is used to serve the Midwestern Mule?",
+    "response": [
+        "doc_24207.txt",
+        "doc_17080.txt",
+        "doc_3686.txt",
+        "doc_21995.txt",
+        "doc_24217.txt"
+    ]
+}

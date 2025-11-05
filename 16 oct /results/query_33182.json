@@ -1,0 +1,10 @@
+{
+    "query": "Which state did Barbara Ann Mikulski represent when she first served in the Senate in 1987?",
+    "response": [
+        "doc_19314.txt",
+        "doc_19316.txt",
+        "doc_19318.txt",
+        "doc_19319.txt",
+        "doc_19321.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the capital city of Morocco, and where is the headquarters of ADM located?",
+    "response": [
+        "doc_10127.txt",
+        "doc_10132.txt",
+        "doc_18156.txt",
+        "doc_5305.txt",
+        "doc_22691.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What veteran wrote \u201cAll Quiet on the Western Front\u201d?",
+    "response": [
+        "doc_8519.txt",
+        "doc_8520.txt",
+        "doc_8517.txt",
+        "doc_8516.txt",
+        "doc_8521.txt"
+    ]
+}

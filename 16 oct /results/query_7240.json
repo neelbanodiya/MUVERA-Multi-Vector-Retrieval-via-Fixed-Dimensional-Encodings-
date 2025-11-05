@@ -1,0 +1,10 @@
+{
+    "query": "What was the initial experiment involving building techniques that was started in Ningbo in 2003?",
+    "response": [
+        "doc_68.txt",
+        "doc_20400.txt",
+        "doc_12344.txt",
+        "doc_4804.txt",
+        "doc_36.txt"
+    ]
+}

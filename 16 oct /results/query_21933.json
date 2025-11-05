@@ -1,0 +1,10 @@
+{
+    "query": "What is the origin of the Earl of Arundel and when was it created?",
+    "response": [
+        "doc_12643.txt",
+        "doc_12644.txt",
+        "doc_16128.txt",
+        "doc_16125.txt",
+        "doc_12641.txt"
+    ]
+}

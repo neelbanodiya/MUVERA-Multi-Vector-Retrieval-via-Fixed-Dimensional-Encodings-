@@ -1,0 +1,10 @@
+{
+    "query": "What directive protects migratory bird species outside the EU?",
+    "response": [
+        "doc_4602.txt",
+        "doc_9670.txt",
+        "doc_4601.txt",
+        "doc_3067.txt",
+        "doc_14972.txt"
+    ]
+}

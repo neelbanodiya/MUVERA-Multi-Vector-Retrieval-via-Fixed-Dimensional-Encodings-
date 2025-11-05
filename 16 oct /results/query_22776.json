@@ -1,0 +1,10 @@
+{
+    "query": "Which band is associated with the song \u201cTutti Frutti\u201d?",
+    "response": [
+        "doc_13105.txt",
+        "doc_13106.txt",
+        "doc_10200.txt",
+        "doc_12570.txt",
+        "doc_23434.txt"
+    ]
+}

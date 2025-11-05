@@ -1,0 +1,10 @@
+{
+    "query": "Which British comics characters were revived as a result of the deal between DC Comics and IPC Media for the \u201cAlbion\u201d series?",
+    "response": [
+        "doc_1981.txt",
+        "doc_8337.txt",
+        "doc_1980.txt",
+        "doc_18583.txt",
+        "doc_19141.txt"
+    ]
+}

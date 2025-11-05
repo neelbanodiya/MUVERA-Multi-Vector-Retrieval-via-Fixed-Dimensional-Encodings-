@@ -1,0 +1,10 @@
+{
+    "query": "What economic status did Negroes achieve, according to the text?",
+    "response": [
+        "doc_7415.txt",
+        "doc_4968.txt",
+        "doc_17877.txt",
+        "doc_14802.txt",
+        "doc_7426.txt"
+    ]
+}

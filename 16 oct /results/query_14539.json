@@ -1,0 +1,10 @@
+{
+    "query": "How much revenue has the Star Wars franchise generated in merchandising sales overall?",
+    "response": [
+        "doc_8403.txt",
+        "doc_8404.txt",
+        "doc_8406.txt",
+        "doc_8407.txt",
+        "doc_8416.txt"
+    ]
+}

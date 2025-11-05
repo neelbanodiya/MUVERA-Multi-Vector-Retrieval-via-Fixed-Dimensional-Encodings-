@@ -1,0 +1,10 @@
+{
+    "query": "What landmarks are passed on the way up to the Acropolis?",
+    "response": [
+        "doc_22654.txt",
+        "doc_22652.txt",
+        "doc_22660.txt",
+        "doc_22655.txt",
+        "doc_22657.txt"
+    ]
+}

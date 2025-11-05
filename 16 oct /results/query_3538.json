@@ -1,0 +1,10 @@
+{
+    "query": "Who was the senator from Wisconsin associated with McCarthyism?",
+    "response": [
+        "doc_2091.txt",
+        "doc_2088.txt",
+        "doc_2097.txt",
+        "doc_2090.txt",
+        "doc_2101.txt"
+    ]
+}

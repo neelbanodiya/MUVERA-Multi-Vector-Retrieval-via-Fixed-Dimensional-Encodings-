@@ -1,0 +1,10 @@
+{
+    "query": "Who was Andrew Simpson, and what was his profession?",
+    "response": [
+        "doc_581.txt",
+        "doc_14072.txt",
+        "doc_4523.txt",
+        "doc_9771.txt",
+        "doc_16127.txt"
+    ]
+}

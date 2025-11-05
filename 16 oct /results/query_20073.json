@@ -1,0 +1,10 @@
+{
+    "query": "Who earned a living by raiding Spanish ships?",
+    "response": [
+        "doc_11583.txt",
+        "doc_13912.txt",
+        "doc_12039.txt",
+        "doc_6513.txt",
+        "doc_10221.txt"
+    ]
+}

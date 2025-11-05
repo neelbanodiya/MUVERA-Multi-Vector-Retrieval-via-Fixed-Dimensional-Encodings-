@@ -1,0 +1,10 @@
+{
+    "query": "What type of museum offers a professional courtesy discount to AAM members, and which museum is located in Manhattan?",
+    "response": [
+        "doc_13050.txt",
+        "doc_14742.txt",
+        "doc_13055.txt",
+        "doc_14728.txt",
+        "doc_14736.txt"
+    ]
+}

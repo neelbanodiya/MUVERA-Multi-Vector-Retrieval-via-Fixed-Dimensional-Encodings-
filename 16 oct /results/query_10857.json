@@ -1,0 +1,10 @@
+{
+    "query": "What was the approximate increase in the number of unemployed individuals in the EU-27 between 2007 and 2010?",
+    "response": [
+        "doc_3966.txt",
+        "doc_19053.txt",
+        "doc_541.txt",
+        "doc_5074.txt",
+        "doc_22196.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What film featured Warren Beatty and Diane Keaton?",
+    "response": [
+        "doc_4872.txt",
+        "doc_1229.txt",
+        "doc_5158.txt",
+        "doc_14388.txt",
+        "doc_7652.txt"
+    ]
+}

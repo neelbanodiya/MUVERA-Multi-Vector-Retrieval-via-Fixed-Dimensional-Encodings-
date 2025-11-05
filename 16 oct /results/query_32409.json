@@ -1,0 +1,10 @@
+{
+    "query": "Besides ECHO regulation, Regulation (EC) No 1257/96, which other existing Community regulations does the Rapid Reaction Facility build upon?",
+    "response": [
+        "doc_18904.txt",
+        "doc_18905.txt",
+        "doc_14212.txt",
+        "doc_12479.txt",
+        "doc_18040.txt"
+    ]
+}

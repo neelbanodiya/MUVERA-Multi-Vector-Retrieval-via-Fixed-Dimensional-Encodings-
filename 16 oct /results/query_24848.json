@@ -1,0 +1,10 @@
+{
+    "query": "By 2030, what percentage of Europe\u2019s oil and gas imports are expected to come from outside the continent?",
+    "response": [
+        "doc_4906.txt",
+        "doc_20347.txt",
+        "doc_4957.txt",
+        "doc_19177.txt",
+        "doc_19178.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What type of organization is Public Citizen described as?",
+    "response": [
+        "doc_21020.txt",
+        "doc_10035.txt",
+        "doc_10039.txt",
+        "doc_10038.txt",
+        "doc_10037.txt"
+    ]
+}

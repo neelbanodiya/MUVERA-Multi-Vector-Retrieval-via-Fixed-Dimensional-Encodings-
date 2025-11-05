@@ -1,0 +1,10 @@
+{
+    "query": "Who married Adolf Hitler and Eva Braun?",
+    "response": [
+        "doc_4344.txt",
+        "doc_4346.txt",
+        "doc_4343.txt",
+        "doc_4345.txt",
+        "doc_4348.txt"
+    ]
+}

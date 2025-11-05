@@ -1,0 +1,10 @@
+{
+    "query": "What was a specific concern expressed about Donald Trump\u2019s comments regarding a woman, as reported in the WFMJ.com article?",
+    "response": [
+        "doc_5727.txt",
+        "doc_10834.txt",
+        "doc_5543.txt",
+        "doc_21869.txt",
+        "doc_5281.txt"
+    ]
+}

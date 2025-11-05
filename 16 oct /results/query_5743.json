@@ -1,0 +1,10 @@
+{
+    "query": "Where specifically in Berlin did John F. Kennedy deliver the speech, and what is the name of the building?",
+    "response": [
+        "doc_3336.txt",
+        "doc_3331.txt",
+        "doc_3335.txt",
+        "doc_3332.txt",
+        "doc_3333.txt"
+    ]
+}

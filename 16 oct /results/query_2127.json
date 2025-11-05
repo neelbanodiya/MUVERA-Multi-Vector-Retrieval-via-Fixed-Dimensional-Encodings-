@@ -1,0 +1,10 @@
+{
+    "query": "Which political groups were represented in the European Parliament as of December 9, 2002?",
+    "response": [
+        "doc_5471.txt",
+        "doc_4599.txt",
+        "doc_23672.txt",
+        "doc_18506.txt",
+        "doc_17890.txt"
+    ]
+}

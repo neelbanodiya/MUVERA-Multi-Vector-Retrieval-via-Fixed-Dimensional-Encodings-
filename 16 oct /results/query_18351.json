@@ -1,0 +1,10 @@
+{
+    "query": "Why did publishers suggest a change to the original title of Heller\u2019s novel?",
+    "response": [
+        "doc_8692.txt",
+        "doc_19984.txt",
+        "doc_2318.txt",
+        "doc_12832.txt",
+        "doc_23874.txt"
+    ]
+}

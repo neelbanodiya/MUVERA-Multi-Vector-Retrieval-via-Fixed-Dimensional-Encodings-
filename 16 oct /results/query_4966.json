@@ -1,0 +1,10 @@
+{
+    "query": "What was a significant event involving British forces and Fort Niagara, as described in one of the linked documents?",
+    "response": [
+        "doc_10049.txt",
+        "doc_10052.txt",
+        "doc_10058.txt",
+        "doc_10051.txt",
+        "doc_10500.txt"
+    ]
+}

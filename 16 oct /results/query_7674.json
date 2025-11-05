@@ -1,0 +1,10 @@
+{
+    "query": "Which *Seinfeld* character did *not* win an Emmy for their work on the show?",
+    "response": [
+        "doc_4461.txt",
+        "doc_4469.txt",
+        "doc_4459.txt",
+        "doc_4462.txt",
+        "doc_478.txt"
+    ]
+}

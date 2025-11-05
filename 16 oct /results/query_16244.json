@@ -1,0 +1,10 @@
+{
+    "query": "What does TNT stand for according to the LA Times Crossword?",
+    "response": [
+        "doc_9414.txt",
+        "doc_10427.txt",
+        "doc_15910.txt",
+        "doc_12738.txt",
+        "doc_19206.txt"
+    ]
+}

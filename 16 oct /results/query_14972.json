@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, which ancient civilizations utilized the coastline near the Pillars of Hercules for delimitation?",
+    "response": [
+        "doc_8685.txt",
+        "doc_8690.txt",
+        "doc_8684.txt",
+        "doc_8686.txt",
+        "doc_8683.txt"
+    ]
+}

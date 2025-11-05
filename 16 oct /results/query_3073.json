@@ -1,0 +1,10 @@
+{
+    "query": "When did Sundt serve as athletic director at Wisconsin?",
+    "response": [
+        "doc_1881.txt",
+        "doc_1880.txt",
+        "doc_18369.txt",
+        "doc_7515.txt",
+        "doc_7256.txt"
+    ]
+}

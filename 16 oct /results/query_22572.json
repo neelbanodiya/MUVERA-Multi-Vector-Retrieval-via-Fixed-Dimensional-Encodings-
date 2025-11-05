@@ -1,0 +1,10 @@
+{
+    "query": "Which Hall of Famers were selected by the Pittsburgh Steelers in 1969?",
+    "response": [
+        "doc_12991.txt",
+        "doc_13004.txt",
+        "doc_12989.txt",
+        "doc_12988.txt",
+        "doc_12990.txt"
+    ]
+}

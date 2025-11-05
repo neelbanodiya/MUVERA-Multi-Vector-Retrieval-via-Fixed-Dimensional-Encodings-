@@ -1,0 +1,10 @@
+{
+    "query": "Which brand is associated with the \u201cRouge De Fete Holiday Red\u201d lip liner?",
+    "response": [
+        "doc_8830.txt",
+        "doc_10808.txt",
+        "doc_10817.txt",
+        "doc_10807.txt",
+        "doc_10809.txt"
+    ]
+}

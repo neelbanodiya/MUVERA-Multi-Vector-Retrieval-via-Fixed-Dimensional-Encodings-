@@ -1,0 +1,10 @@
+{
+    "query": "When did Gordon die?",
+    "response": [
+        "doc_22257.txt",
+        "doc_20256.txt",
+        "doc_9675.txt",
+        "doc_21067.txt",
+        "doc_1066.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Who commissioned Joshua Reynolds to paint portraits of actresses?",
+    "response": [
+        "doc_20419.txt",
+        "doc_20417.txt",
+        "doc_20408.txt",
+        "doc_20409.txt",
+        "doc_20420.txt"
+    ]
+}

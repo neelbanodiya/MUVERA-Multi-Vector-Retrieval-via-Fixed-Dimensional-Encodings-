@@ -1,0 +1,10 @@
+{
+    "query": "What specific EU directives, beyond the Audiovisual Media Services Directive, address the regulation of electronic communications networks and services?",
+    "response": [
+        "doc_22870.txt",
+        "doc_3701.txt",
+        "doc_6658.txt",
+        "doc_14814.txt",
+        "doc_22976.txt"
+    ]
+}

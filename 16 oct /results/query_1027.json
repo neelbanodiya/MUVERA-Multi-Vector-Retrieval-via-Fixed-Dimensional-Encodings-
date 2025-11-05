@@ -1,0 +1,10 @@
+{
+    "query": "Which hotel hosted Rachel's wedding day according to the provided links?",
+    "response": [
+        "doc_8831.txt",
+        "doc_15562.txt",
+        "doc_19454.txt",
+        "doc_8825.txt",
+        "doc_8826.txt"
+    ]
+}

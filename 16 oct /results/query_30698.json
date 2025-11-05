@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what types of activities are popular in Oslo during the summer months?",
+    "response": [
+        "doc_17857.txt",
+        "doc_17859.txt",
+        "doc_17860.txt",
+        "doc_17856.txt",
+        "doc_17858.txt"
+    ]
+}

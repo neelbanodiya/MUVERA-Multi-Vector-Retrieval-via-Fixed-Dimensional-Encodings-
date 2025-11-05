@@ -1,0 +1,10 @@
+{
+    "query": "What was the final record of the 2016 Indiana Hoosiers baseball team?",
+    "response": [
+        "doc_9861.txt",
+        "doc_9860.txt",
+        "doc_2441.txt",
+        "doc_8500.txt",
+        "doc_428.txt"
+    ]
+}

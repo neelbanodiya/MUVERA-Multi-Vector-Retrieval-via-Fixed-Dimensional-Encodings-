@@ -1,0 +1,10 @@
+{
+    "query": "In what year did events related to conscription and the Chamber of Deputies occur?",
+    "response": [
+        "doc_22187.txt",
+        "doc_14460.txt",
+        "doc_22186.txt",
+        "doc_8295.txt",
+        "doc_5841.txt"
+    ]
+}

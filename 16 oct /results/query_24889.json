@@ -1,0 +1,10 @@
+{
+    "query": "What does the passage state Louise prefers?",
+    "response": [
+        "doc_12901.txt",
+        "doc_14823.txt",
+        "doc_21003.txt",
+        "doc_2062.txt",
+        "doc_15598.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was a notable event that Prince Prospero hosted?",
+    "response": [
+        "doc_16983.txt",
+        "doc_4147.txt",
+        "doc_17914.txt",
+        "doc_1011.txt",
+        "doc_6342.txt"
+    ]
+}

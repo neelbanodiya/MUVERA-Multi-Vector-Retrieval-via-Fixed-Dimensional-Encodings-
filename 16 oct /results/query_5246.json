@@ -1,0 +1,10 @@
+{
+    "query": "Who directed the film \u201cRatatouille\u201d?",
+    "response": [
+        "doc_3059.txt",
+        "doc_402.txt",
+        "doc_5868.txt",
+        "doc_2231.txt",
+        "doc_10969.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to multiple sources, what is a key consideration when selecting a player in the top five of a draft (e.g., NFL draft)?",
+    "response": [
+        "doc_5388.txt",
+        "doc_21628.txt",
+        "doc_21629.txt",
+        "doc_18879.txt",
+        "doc_5233.txt"
+    ]
+}

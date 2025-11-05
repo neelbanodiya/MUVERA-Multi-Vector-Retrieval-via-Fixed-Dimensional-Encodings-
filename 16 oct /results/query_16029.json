@@ -1,0 +1,10 @@
+{
+    "query": "Which African nations have significant potential for wheat production, according to scientific studies?",
+    "response": [
+        "doc_9277.txt",
+        "doc_9278.txt",
+        "doc_9282.txt",
+        "doc_9283.txt",
+        "doc_9281.txt"
+    ]
+}

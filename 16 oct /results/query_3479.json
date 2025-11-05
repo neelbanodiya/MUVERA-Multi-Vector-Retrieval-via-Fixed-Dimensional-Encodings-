@@ -1,0 +1,10 @@
+{
+    "query": "What is the purpose of the public hearing organized by the Committee on Legal Affairs?",
+    "response": [
+        "doc_13194.txt",
+        "doc_13283.txt",
+        "doc_13284.txt",
+        "doc_13322.txt",
+        "doc_13386.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which city in Kansas is considered the \u201ctwin city\u201d of Kansas City?",
+    "response": [
+        "doc_17057.txt",
+        "doc_17058.txt",
+        "doc_17060.txt",
+        "doc_17061.txt",
+        "doc_17062.txt"
+    ]
+}

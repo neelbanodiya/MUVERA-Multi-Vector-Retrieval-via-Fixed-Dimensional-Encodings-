@@ -1,0 +1,10 @@
+{
+    "query": "Which rivers are mentioned as being the location of ancient civilizations, specifically between the Tigris and Euphrates?",
+    "response": [
+        "doc_4335.txt",
+        "doc_4336.txt",
+        "doc_4337.txt",
+        "doc_4338.txt",
+        "doc_4341.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how much popcorn is consumed annually by Americans?",
+    "response": [
+        "doc_23979.txt",
+        "doc_23977.txt",
+        "doc_23986.txt",
+        "doc_23990.txt",
+        "doc_23987.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In 1755, who drew the wall with its Military Way?",
+    "response": [
+        "doc_12604.txt",
+        "doc_4018.txt",
+        "doc_4019.txt",
+        "doc_4306.txt",
+        "doc_9937.txt"
+    ]
+}

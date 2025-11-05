@@ -1,0 +1,10 @@
+{
+    "query": "What is the elevation of the Mountain Station at Mt. San Jacinto State Park?",
+    "response": [
+        "doc_18536.txt",
+        "doc_18552.txt",
+        "doc_3320.txt",
+        "doc_13848.txt",
+        "doc_18544.txt"
+    ]
+}

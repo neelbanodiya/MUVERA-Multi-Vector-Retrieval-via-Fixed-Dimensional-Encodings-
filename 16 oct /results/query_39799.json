@@ -1,0 +1,10 @@
+{
+    "query": "How many of John Wayne\u2019s films featured Native Americans as central characters?",
+    "response": [
+        "doc_23286.txt",
+        "doc_23291.txt",
+        "doc_23288.txt",
+        "doc_23283.txt",
+        "doc_23287.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What area was not covered by Sir Francis Bacon, according to Robert Bowman?",
+    "response": [
+        "doc_3341.txt",
+        "doc_2026.txt",
+        "doc_11888.txt",
+        "doc_23796.txt",
+        "doc_20107.txt"
+    ]
+}

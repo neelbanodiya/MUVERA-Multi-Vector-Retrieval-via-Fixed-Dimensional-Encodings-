@@ -1,0 +1,10 @@
+{
+    "query": "What was the purpose of the Second Continental Congress, as described in the provided text?",
+    "response": [
+        "doc_19841.txt",
+        "doc_19850.txt",
+        "doc_13212.txt",
+        "doc_17353.txt",
+        "doc_17367.txt"
+    ]
+}

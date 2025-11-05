@@ -1,0 +1,10 @@
+{
+    "query": "Which organization incorporated the Federation Starfleet to maintain exploratory, scientific, diplomatic, and defense functions?",
+    "response": [
+        "doc_6248.txt",
+        "doc_6245.txt",
+        "doc_6242.txt",
+        "doc_21953.txt",
+        "doc_13367.txt"
+    ]
+}

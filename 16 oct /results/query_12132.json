@@ -1,0 +1,10 @@
+{
+    "query": "What dessert combinations are mentioned as favorites in Appalachian cuisine?",
+    "response": [
+        "doc_7080.txt",
+        "doc_7088.txt",
+        "doc_7096.txt",
+        "doc_7094.txt",
+        "doc_7089.txt"
+    ]
+}

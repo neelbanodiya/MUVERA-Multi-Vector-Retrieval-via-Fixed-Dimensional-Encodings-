@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what was MTV\u2019s initial stance regarding the internet in 1993?",
+    "response": [
+        "doc_9390.txt",
+        "doc_18843.txt",
+        "doc_11310.txt",
+        "doc_22917.txt",
+        "doc_19216.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What recognition did Time magazine bestow upon William Westmoreland in 1965?",
+    "response": [
+        "doc_4654.txt",
+        "doc_12844.txt",
+        "doc_11913.txt",
+        "doc_18670.txt",
+        "doc_4939.txt"
+    ]
+}

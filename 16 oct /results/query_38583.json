@@ -1,0 +1,10 @@
+{
+    "query": "In what year did \u201cEvita\u201d win the Best Original Score award according to the provided links?",
+    "response": [
+        "doc_22622.txt",
+        "doc_22627.txt",
+        "doc_7455.txt",
+        "doc_7456.txt",
+        "doc_22623.txt"
+    ]
+}

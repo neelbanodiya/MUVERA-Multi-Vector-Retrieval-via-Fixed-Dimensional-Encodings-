@@ -1,0 +1,10 @@
+{
+    "query": "During the 1977 season, what scheduling conflict did the Jets face regarding Shea Stadium?",
+    "response": [
+        "doc_2701.txt",
+        "doc_2702.txt",
+        "doc_2703.txt",
+        "doc_11255.txt",
+        "doc_11268.txt"
+    ]
+}

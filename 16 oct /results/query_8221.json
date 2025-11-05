@@ -1,0 +1,10 @@
+{
+    "query": "In what country did The Salvation Army provide refuge to thousands of people due to violence in Brazzaville?",
+    "response": [
+        "doc_8113.txt",
+        "doc_14581.txt",
+        "doc_8116.txt",
+        "doc_4757.txt",
+        "doc_20873.txt"
+    ]
+}

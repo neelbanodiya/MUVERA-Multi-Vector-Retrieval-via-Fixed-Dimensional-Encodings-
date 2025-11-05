@@ -1,0 +1,10 @@
+{
+    "query": "According to Eric Clapton, where does he rank himself among guitarists?",
+    "response": [
+        "doc_6346.txt",
+        "doc_14520.txt",
+        "doc_4939.txt",
+        "doc_3935.txt",
+        "doc_3077.txt"
+    ]
+}

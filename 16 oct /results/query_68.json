@@ -1,0 +1,10 @@
+{
+    "query": "In what city and province is the Big Valley Jamboree held?",
+    "response": [
+        "doc_37.txt",
+        "doc_22713.txt",
+        "doc_23215.txt",
+        "doc_12260.txt",
+        "doc_9778.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which city is the California Science Center located in?",
+    "response": [
+        "doc_14896.txt",
+        "doc_21463.txt",
+        "doc_21464.txt",
+        "doc_9023.txt",
+        "doc_15880.txt"
+    ]
+}

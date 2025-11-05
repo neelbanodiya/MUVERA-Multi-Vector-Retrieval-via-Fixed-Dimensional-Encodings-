@@ -1,0 +1,10 @@
+{
+    "query": "What does the resolution passed by the Ukrainian Parliament define the Holodomor as?",
+    "response": [
+        "doc_21971.txt",
+        "doc_17868.txt",
+        "doc_3003.txt",
+        "doc_17917.txt",
+        "doc_15472.txt"
+    ]
+}

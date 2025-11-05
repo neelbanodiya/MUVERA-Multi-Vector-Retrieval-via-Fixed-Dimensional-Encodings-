@@ -1,0 +1,10 @@
+{
+    "query": "Has the municipality of Siena secured funding for these projects?",
+    "response": [
+        "doc_8257.txt",
+        "doc_15777.txt",
+        "doc_3660.txt",
+        "doc_8208.txt",
+        "doc_8187.txt"
+    ]
+}

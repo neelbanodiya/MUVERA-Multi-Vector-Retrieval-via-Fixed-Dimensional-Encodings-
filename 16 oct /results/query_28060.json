@@ -1,0 +1,10 @@
+{
+    "query": "Which city in Mexico is the second-most populous?",
+    "response": [
+        "doc_21464.txt",
+        "doc_21465.txt",
+        "doc_21401.txt",
+        "doc_17057.txt",
+        "doc_15880.txt"
+    ]
+}

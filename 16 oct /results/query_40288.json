@@ -1,0 +1,10 @@
+{
+    "query": "What is Bruce Dern described as in the passage?",
+    "response": [
+        "doc_24254.txt",
+        "doc_17738.txt",
+        "doc_22913.txt",
+        "doc_1476.txt",
+        "doc_15532.txt"
+    ]
+}

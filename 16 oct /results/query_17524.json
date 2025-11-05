@@ -1,0 +1,10 @@
+{
+    "query": "Which dynasty was associated with the early French monarchs, as mentioned in the passage?",
+    "response": [
+        "doc_23759.txt",
+        "doc_10146.txt",
+        "doc_23746.txt",
+        "doc_10145.txt",
+        "doc_10144.txt"
+    ]
+}

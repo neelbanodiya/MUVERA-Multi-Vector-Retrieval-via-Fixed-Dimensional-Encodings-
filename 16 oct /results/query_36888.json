@@ -1,0 +1,10 @@
+{
+    "query": "According to the Trendincite article, what ingredient is used in the Bee's Knees cocktail at Apotheke bar?",
+    "response": [
+        "doc_21549.txt",
+        "doc_21551.txt",
+        "doc_21548.txt",
+        "doc_21565.txt",
+        "doc_21554.txt"
+    ]
+}

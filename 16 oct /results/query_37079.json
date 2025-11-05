@@ -1,0 +1,10 @@
+{
+    "query": "How did the Indians sell the dried berries?",
+    "response": [
+        "doc_21765.txt",
+        "doc_10530.txt",
+        "doc_6507.txt",
+        "doc_1652.txt",
+        "doc_6497.txt"
+    ]
+}

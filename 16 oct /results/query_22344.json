@@ -1,0 +1,10 @@
+{
+    "query": "What type of team was sent to the Jurassic Park Site B island?",
+    "response": [
+        "doc_12878.txt",
+        "doc_12868.txt",
+        "doc_12877.txt",
+        "doc_16231.txt",
+        "doc_16230.txt"
+    ]
+}

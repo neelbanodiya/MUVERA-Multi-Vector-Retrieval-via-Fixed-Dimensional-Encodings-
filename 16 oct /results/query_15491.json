@@ -1,0 +1,10 @@
+{
+    "query": "What program appeared in an episode of Showtime\u2019s \u201cWeeds\u201d?",
+    "response": [
+        "doc_6683.txt",
+        "doc_6684.txt",
+        "doc_9515.txt",
+        "doc_19704.txt",
+        "doc_19583.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Besides \u201cJust Shoot Me!\u201d, in what other film did George Segal collaborate with director Carl Reiner and Ruth Gordon?",
+    "response": [
+        "doc_1492.txt",
+        "doc_1485.txt",
+        "doc_2549.txt",
+        "doc_90.txt",
+        "doc_21902.txt"
+    ]
+}

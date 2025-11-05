@@ -1,0 +1,10 @@
+{
+    "query": "What principle, as expressed in the Tampere European Council conclusions, is intended to be the cornerstone of judicial cooperation within the EU?",
+    "response": [
+        "doc_19823.txt",
+        "doc_15130.txt",
+        "doc_15133.txt",
+        "doc_7295.txt",
+        "doc_18376.txt"
+    ]
+}

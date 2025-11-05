@@ -1,0 +1,10 @@
+{
+    "query": "What are the four commitments outlined in the \u2018joint mission statement\u2019 regarding European customs policy?",
+    "response": [
+        "doc_15037.txt",
+        "doc_23542.txt",
+        "doc_13316.txt",
+        "doc_13163.txt",
+        "doc_16882.txt"
+    ]
+}

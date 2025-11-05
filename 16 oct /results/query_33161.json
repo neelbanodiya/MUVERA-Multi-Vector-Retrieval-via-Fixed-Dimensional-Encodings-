@@ -1,0 +1,10 @@
+{
+    "query": "What did Ben Robinson say about his birth year?",
+    "response": [
+        "doc_16345.txt",
+        "doc_2816.txt",
+        "doc_18456.txt",
+        "doc_1251.txt",
+        "doc_1239.txt"
+    ]
+}

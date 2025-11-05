@@ -1,0 +1,10 @@
+{
+    "query": "When did Frank Foster make his debut appearance on \u201cCoronation Street\u201d?",
+    "response": [
+        "doc_17887.txt",
+        "doc_17888.txt",
+        "doc_17889.txt",
+        "doc_17118.txt",
+        "doc_7879.txt"
+    ]
+}

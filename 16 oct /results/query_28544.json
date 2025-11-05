@@ -1,0 +1,10 @@
+{
+    "query": "What specific food items are mentioned as being available at Piccino Coffee Bar?",
+    "response": [
+        "doc_15785.txt",
+        "doc_16636.txt",
+        "doc_10432.txt",
+        "doc_5803.txt",
+        "doc_14354.txt"
+    ]
+}

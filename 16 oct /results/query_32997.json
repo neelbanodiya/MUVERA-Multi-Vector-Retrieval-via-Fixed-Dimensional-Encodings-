@@ -1,0 +1,10 @@
+{
+    "query": "Where is the Peace Palace located in the Netherlands?",
+    "response": [
+        "doc_19221.txt",
+        "doc_19223.txt",
+        "doc_19222.txt",
+        "doc_8634.txt",
+        "doc_8635.txt"
+    ]
+}

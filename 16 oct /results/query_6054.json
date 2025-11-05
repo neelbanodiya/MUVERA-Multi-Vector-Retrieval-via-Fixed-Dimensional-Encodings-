@@ -1,0 +1,10 @@
+{
+    "query": "What year was Emilio Estevez drafted?",
+    "response": [
+        "doc_21943.txt",
+        "doc_21942.txt",
+        "doc_5389.txt",
+        "doc_21944.txt",
+        "doc_5391.txt"
+    ]
+}

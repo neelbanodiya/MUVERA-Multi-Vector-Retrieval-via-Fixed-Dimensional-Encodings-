@@ -1,0 +1,10 @@
+{
+    "query": "How many people has the Betty Ford Center assisted?",
+    "response": [
+        "doc_450.txt",
+        "doc_449.txt",
+        "doc_435.txt",
+        "doc_438.txt",
+        "doc_446.txt"
+    ]
+}

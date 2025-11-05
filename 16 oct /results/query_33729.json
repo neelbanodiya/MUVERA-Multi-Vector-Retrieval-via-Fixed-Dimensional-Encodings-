@@ -1,0 +1,10 @@
+{
+    "query": "Which company produces Diet Dr Pepper, and what ingredient does it replace in its formulation?",
+    "response": [
+        "doc_19643.txt",
+        "doc_19642.txt",
+        "doc_17209.txt",
+        "doc_18289.txt",
+        "doc_17080.txt"
+    ]
+}

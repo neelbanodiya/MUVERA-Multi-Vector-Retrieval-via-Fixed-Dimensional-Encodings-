@@ -1,0 +1,10 @@
+{
+    "query": "In what order were the books of *The Lord of the Rings* trilogy published?",
+    "response": [
+        "doc_15549.txt",
+        "doc_15548.txt",
+        "doc_15547.txt",
+        "doc_15550.txt",
+        "doc_15556.txt"
+    ]
+}

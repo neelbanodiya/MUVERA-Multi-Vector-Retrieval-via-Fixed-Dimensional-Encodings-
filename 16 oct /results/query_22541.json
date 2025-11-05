@@ -1,0 +1,10 @@
+{
+    "query": "Which river does Constitution Island lie in?",
+    "response": [
+        "doc_5024.txt",
+        "doc_9610.txt",
+        "doc_1633.txt",
+        "doc_12062.txt",
+        "doc_1641.txt"
+    ]
+}

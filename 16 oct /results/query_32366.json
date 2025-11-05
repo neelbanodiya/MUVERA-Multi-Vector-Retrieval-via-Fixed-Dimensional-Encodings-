@@ -1,0 +1,10 @@
+{
+    "query": "What type of film was made starring John Houseman and Timothy Bottoms, as mentioned in one of the linked documents?",
+    "response": [
+        "doc_15484.txt",
+        "doc_21902.txt",
+        "doc_18754.txt",
+        "doc_5323.txt",
+        "doc_18753.txt"
+    ]
+}

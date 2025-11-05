@@ -1,0 +1,10 @@
+{
+    "query": "What was Carpenter\u2019s name?",
+    "response": [
+        "doc_14072.txt",
+        "doc_21704.txt",
+        "doc_348.txt",
+        "doc_11891.txt",
+        "doc_19048.txt"
+    ]
+}

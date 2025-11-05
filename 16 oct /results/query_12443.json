@@ -1,0 +1,10 @@
+{
+    "query": "When did the fight between Gene Tunney and Dempsey take place?",
+    "response": [
+        "doc_7221.txt",
+        "doc_7227.txt",
+        "doc_7220.txt",
+        "doc_7236.txt",
+        "doc_7224.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What kind of music is used in the video game *Westworld*?",
+    "response": [
+        "doc_15303.txt",
+        "doc_10862.txt",
+        "doc_9892.txt",
+        "doc_10865.txt",
+        "doc_15304.txt"
+    ]
+}

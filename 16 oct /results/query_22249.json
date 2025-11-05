@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what song did Ringo Starr write himself?",
+    "response": [
+        "doc_13735.txt",
+        "doc_1021.txt",
+        "doc_13852.txt",
+        "doc_5126.txt",
+        "doc_22536.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What specific film earned John Wayne an Academy Award, and what character did he portray in it?",
+    "response": [
+        "doc_23277.txt",
+        "doc_23281.txt",
+        "doc_23286.txt",
+        "doc_23283.txt",
+        "doc_23290.txt"
+    ]
+}

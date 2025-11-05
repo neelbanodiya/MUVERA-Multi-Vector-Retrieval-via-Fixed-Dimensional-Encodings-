@@ -1,0 +1,10 @@
+{
+    "query": "What historical structure is described as being built by Hercules, as recounted in an ancient tale?",
+    "response": [
+        "doc_8685.txt",
+        "doc_8686.txt",
+        "doc_8684.txt",
+        "doc_1294.txt",
+        "doc_11048.txt"
+    ]
+}

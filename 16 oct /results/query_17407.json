@@ -1,0 +1,10 @@
+{
+    "query": "How many records have Fleetwood Mac sold worldwide, and when were some of its members inducted into the Rock and Roll Hall of Fame?",
+    "response": [
+        "doc_18850.txt",
+        "doc_15553.txt",
+        "doc_4896.txt",
+        "doc_11893.txt",
+        "doc_20896.txt"
+    ]
+}

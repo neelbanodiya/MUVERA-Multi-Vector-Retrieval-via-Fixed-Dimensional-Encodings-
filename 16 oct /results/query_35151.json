@@ -1,0 +1,10 @@
+{
+    "query": "According to Freud, what is the primary motivation of the \u201cid\u201d?",
+    "response": [
+        "doc_20502.txt",
+        "doc_20504.txt",
+        "doc_20500.txt",
+        "doc_20511.txt",
+        "doc_20506.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When and where was the Miss World 2003 pageant held?",
+    "response": [
+        "doc_308.txt",
+        "doc_307.txt",
+        "doc_15971.txt",
+        "doc_15158.txt",
+        "doc_12601.txt"
+    ]
+}

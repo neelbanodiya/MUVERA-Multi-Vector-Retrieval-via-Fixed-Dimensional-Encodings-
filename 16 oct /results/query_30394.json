@@ -1,0 +1,10 @@
+{
+    "query": "What is Pittsburgh known for in terms of industry?",
+    "response": [
+        "doc_20235.txt",
+        "doc_349.txt",
+        "doc_16253.txt",
+        "doc_21747.txt",
+        "doc_1778.txt"
+    ]
+}

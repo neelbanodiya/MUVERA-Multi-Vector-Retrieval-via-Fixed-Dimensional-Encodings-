@@ -1,0 +1,10 @@
+{
+    "query": "According to Roscoe Conkling, what will President Grant do?",
+    "response": [
+        "doc_13334.txt",
+        "doc_7524.txt",
+        "doc_13260.txt",
+        "doc_19538.txt",
+        "doc_16997.txt"
+    ]
+}

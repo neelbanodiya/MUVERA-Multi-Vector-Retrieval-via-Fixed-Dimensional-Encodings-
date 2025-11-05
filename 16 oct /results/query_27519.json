@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, when did Sir Thomas More coin the word \u201cutopia\u201d?",
+    "response": [
+        "doc_16002.txt",
+        "doc_16001.txt",
+        "doc_16004.txt",
+        "doc_16005.txt",
+        "doc_16010.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the fort built in 1834 by Nathaniel?",
+    "response": [
+        "doc_9109.txt",
+        "doc_10049.txt",
+        "doc_16683.txt",
+        "doc_19476.txt",
+        "doc_6623.txt"
+    ]
+}

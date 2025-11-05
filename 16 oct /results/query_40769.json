@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the hotel that replaced the Club Bingo in Las Vegas?",
+    "response": [
+        "doc_16828.txt",
+        "doc_14640.txt",
+        "doc_23418.txt",
+        "doc_23833.txt",
+        "doc_568.txt"
+    ]
+}

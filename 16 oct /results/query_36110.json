@@ -1,0 +1,10 @@
+{
+    "query": "What year did Isaac Newton die?",
+    "response": [
+        "doc_21067.txt",
+        "doc_21068.txt",
+        "doc_21066.txt",
+        "doc_21069.txt",
+        "doc_21061.txt"
+    ]
+}

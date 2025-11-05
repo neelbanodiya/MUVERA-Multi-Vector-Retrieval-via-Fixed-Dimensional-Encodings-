@@ -1,0 +1,10 @@
+{
+    "query": "What was Truman Capote\u2019s role in Harper Lee\u2019s research for *In Cold Blood*?",
+    "response": [
+        "doc_3037.txt",
+        "doc_3035.txt",
+        "doc_3026.txt",
+        "doc_3024.txt",
+        "doc_3025.txt"
+    ]
+}

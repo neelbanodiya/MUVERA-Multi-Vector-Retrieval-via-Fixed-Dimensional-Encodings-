@@ -1,0 +1,10 @@
+{
+    "query": "Which play is believed to be one of Shakespeare\u2019s earliest works, preceding only another play mentioned in the provided links?",
+    "response": [
+        "doc_19420.txt",
+        "doc_19425.txt",
+        "doc_17758.txt",
+        "doc_19422.txt",
+        "doc_19424.txt"
+    ]
+}

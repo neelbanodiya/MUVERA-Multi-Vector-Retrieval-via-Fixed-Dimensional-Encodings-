@@ -1,0 +1,10 @@
+{
+    "query": "Approximately when was the English colony of Georgia founded?",
+    "response": [
+        "doc_977.txt",
+        "doc_969.txt",
+        "doc_970.txt",
+        "doc_968.txt",
+        "doc_971.txt"
+    ]
+}

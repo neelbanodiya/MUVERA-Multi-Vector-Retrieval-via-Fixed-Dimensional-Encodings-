@@ -1,0 +1,10 @@
+{
+    "query": "For how many cadets did George S. Patton, Jr. graduate from Virginia Military Institute?",
+    "response": [
+        "doc_14751.txt",
+        "doc_14750.txt",
+        "doc_14752.txt",
+        "doc_14754.txt",
+        "doc_14753.txt"
+    ]
+}

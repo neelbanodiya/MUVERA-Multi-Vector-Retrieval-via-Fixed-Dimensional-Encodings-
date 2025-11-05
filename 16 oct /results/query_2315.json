@@ -1,0 +1,10 @@
+{
+    "query": "What is a common defensive behavior of Ball Pythons?",
+    "response": [
+        "doc_16361.txt",
+        "doc_21228.txt",
+        "doc_10126.txt",
+        "doc_21778.txt",
+        "doc_7784.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "When was Al Capone released from prison?",
+    "response": [
+        "doc_7723.txt",
+        "doc_7720.txt",
+        "doc_7727.txt",
+        "doc_7724.txt",
+        "doc_7728.txt"
+    ]
+}

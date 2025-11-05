@@ -1,0 +1,10 @@
+{
+    "query": "In what year was \u201cFrom Main Street to Stockholm,\u201d a collection of Sinclair Lewis\u2019s letters, published?",
+    "response": [
+        "doc_15831.txt",
+        "doc_15828.txt",
+        "doc_15832.txt",
+        "doc_15830.txt",
+        "doc_15829.txt"
+    ]
+}

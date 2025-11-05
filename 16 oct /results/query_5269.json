@@ -1,0 +1,10 @@
+{
+    "query": "What company purchased all rights to the Garfield comic strips from 1978-1993?",
+    "response": [
+        "doc_3069.txt",
+        "doc_1980.txt",
+        "doc_10968.txt",
+        "doc_19141.txt",
+        "doc_8692.txt"
+    ]
+}

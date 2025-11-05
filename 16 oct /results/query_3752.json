@@ -1,0 +1,10 @@
+{
+    "query": "What specific type of dish is described in the \"Shepherd's Pie\" article, and what material should be used for baking it under the broiler?",
+    "response": [
+        "doc_2208.txt",
+        "doc_8913.txt",
+        "doc_23445.txt",
+        "doc_4896.txt",
+        "doc_8919.txt"
+    ]
+}

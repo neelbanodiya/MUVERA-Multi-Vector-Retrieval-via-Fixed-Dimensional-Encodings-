@@ -1,0 +1,10 @@
+{
+    "query": "When was the title of Duke of Westminster created?",
+    "response": [
+        "doc_12642.txt",
+        "doc_12644.txt",
+        "doc_16125.txt",
+        "doc_16126.txt",
+        "doc_12641.txt"
+    ]
+}

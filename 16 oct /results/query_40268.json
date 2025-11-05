@@ -1,0 +1,10 @@
+{
+    "query": "Who starred as Charlotte Hollis in the film *The Eyes of...*?",
+    "response": [
+        "doc_23558.txt",
+        "doc_19589.txt",
+        "doc_5156.txt",
+        "doc_6005.txt",
+        "doc_22854.txt"
+    ]
+}

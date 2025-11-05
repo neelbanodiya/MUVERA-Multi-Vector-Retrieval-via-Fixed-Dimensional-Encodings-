@@ -1,0 +1,10 @@
+{
+    "query": "Who is Dr. Joseph Chung?",
+    "response": [
+        "doc_18385.txt",
+        "doc_18430.txt",
+        "doc_18386.txt",
+        "doc_348.txt",
+        "doc_596.txt"
+    ]
+}

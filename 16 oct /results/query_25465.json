@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the institute associated with Col. George S. Patton?",
+    "response": [
+        "doc_4803.txt",
+        "doc_19201.txt",
+        "doc_9109.txt",
+        "doc_14058.txt",
+        "doc_16672.txt"
+    ]
+}

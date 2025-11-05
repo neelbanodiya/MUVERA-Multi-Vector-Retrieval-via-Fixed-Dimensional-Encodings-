@@ -1,0 +1,10 @@
+{
+    "query": "Which two members of the Florentine family became queens of France?",
+    "response": [
+        "doc_23749.txt",
+        "doc_23751.txt",
+        "doc_23758.txt",
+        "doc_23746.txt",
+        "doc_23757.txt"
+    ]
+}

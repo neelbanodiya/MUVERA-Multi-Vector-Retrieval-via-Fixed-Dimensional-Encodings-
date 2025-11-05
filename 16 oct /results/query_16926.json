@@ -1,0 +1,10 @@
+{
+    "query": "What decade did the author\u2019s Navy family grow up in?",
+    "response": [
+        "doc_10386.txt",
+        "doc_9032.txt",
+        "doc_13733.txt",
+        "doc_4656.txt",
+        "doc_20260.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which player was the cover athlete for the Canadian version of MLB The Show 17?",
+    "response": [
+        "doc_10292.txt",
+        "doc_10294.txt",
+        "doc_10293.txt",
+        "doc_19608.txt",
+        "doc_23060.txt"
+    ]
+}

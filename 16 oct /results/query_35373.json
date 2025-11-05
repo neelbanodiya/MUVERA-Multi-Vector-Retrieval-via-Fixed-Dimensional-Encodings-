@@ -1,0 +1,10 @@
+{
+    "query": "Which animation studio produced the film *Pinocchio*?",
+    "response": [
+        "doc_20620.txt",
+        "doc_20624.txt",
+        "doc_20619.txt",
+        "doc_20609.txt",
+        "doc_20611.txt"
+    ]
+}

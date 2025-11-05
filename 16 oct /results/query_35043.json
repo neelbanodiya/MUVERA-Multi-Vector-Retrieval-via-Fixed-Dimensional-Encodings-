@@ -1,0 +1,10 @@
+{
+    "query": "On what channel did the series \u201cFranklin and Friends\u201d premiere in the United States?",
+    "response": [
+        "doc_6683.txt",
+        "doc_20436.txt",
+        "doc_19703.txt",
+        "doc_18833.txt",
+        "doc_20439.txt"
+    ]
+}

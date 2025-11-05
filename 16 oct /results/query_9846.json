@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between Bharata and Rama according to the text?",
+    "response": [
+        "doc_5711.txt",
+        "doc_5710.txt",
+        "doc_5716.txt",
+        "doc_5715.txt",
+        "doc_2519.txt"
+    ]
+}

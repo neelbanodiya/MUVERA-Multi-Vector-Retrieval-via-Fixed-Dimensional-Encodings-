@@ -1,0 +1,10 @@
+{
+    "query": "What year was the Notre Dame Glee Club founded?",
+    "response": [
+        "doc_20063.txt",
+        "doc_135.txt",
+        "doc_23470.txt",
+        "doc_20940.txt",
+        "doc_23684.txt"
+    ]
+}

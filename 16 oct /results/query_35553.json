@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how far is the Deep River from the cape?",
+    "response": [
+        "doc_14210.txt",
+        "doc_16151.txt",
+        "doc_15478.txt",
+        "doc_22542.txt",
+        "doc_22339.txt"
+    ]
+}

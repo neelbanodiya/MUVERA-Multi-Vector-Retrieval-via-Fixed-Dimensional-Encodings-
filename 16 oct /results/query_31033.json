@@ -1,0 +1,10 @@
+{
+    "query": "In what film did Walter Matthau play an irascible father to Meg Ryan?",
+    "response": [
+        "doc_18098.txt",
+        "doc_18104.txt",
+        "doc_18099.txt",
+        "doc_5320.txt",
+        "doc_21487.txt"
+    ]
+}

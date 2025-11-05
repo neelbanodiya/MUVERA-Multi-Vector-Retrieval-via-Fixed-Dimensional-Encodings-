@@ -1,0 +1,10 @@
+{
+    "query": "Which of the films mentioned, including \u201cThe Magnificent Ambersons,\u201d were associated with The Mercury Theatre on the Air?",
+    "response": [
+        "doc_7765.txt",
+        "doc_7767.txt",
+        "doc_7769.txt",
+        "doc_7768.txt",
+        "doc_7766.txt"
+    ]
+}

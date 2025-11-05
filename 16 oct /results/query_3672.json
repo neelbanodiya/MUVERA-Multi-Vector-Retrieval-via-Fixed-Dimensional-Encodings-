@@ -1,0 +1,10 @@
+{
+    "query": "What should Crooks not worry about?",
+    "response": [
+        "doc_17891.txt",
+        "doc_21969.txt",
+        "doc_11820.txt",
+        "doc_22920.txt",
+        "doc_20101.txt"
+    ]
+}

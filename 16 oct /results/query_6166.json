@@ -1,0 +1,10 @@
+{
+    "query": "What specific issue regarding corruption prompted concern among MEPs, leading to a call for investigation?",
+    "response": [
+        "doc_1915.txt",
+        "doc_24201.txt",
+        "doc_9147.txt",
+        "doc_23936.txt",
+        "doc_1321.txt"
+    ]
+}

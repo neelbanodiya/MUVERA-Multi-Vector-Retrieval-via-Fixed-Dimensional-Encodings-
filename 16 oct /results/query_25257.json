@@ -1,0 +1,10 @@
+{
+    "query": "Where did D.H. Lawrence spend much of his life and write many of his works?",
+    "response": [
+        "doc_14658.txt",
+        "doc_14661.txt",
+        "doc_18976.txt",
+        "doc_5301.txt",
+        "doc_19141.txt"
+    ]
+}

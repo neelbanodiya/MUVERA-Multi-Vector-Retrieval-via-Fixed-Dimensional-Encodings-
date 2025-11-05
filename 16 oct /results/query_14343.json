@@ -1,0 +1,10 @@
+{
+    "query": "In what year was *The Cost of Discipleship* first published in English?",
+    "response": [
+        "doc_20548.txt",
+        "doc_8728.txt",
+        "doc_20265.txt",
+        "doc_18434.txt",
+        "doc_7132.txt"
+    ]
+}

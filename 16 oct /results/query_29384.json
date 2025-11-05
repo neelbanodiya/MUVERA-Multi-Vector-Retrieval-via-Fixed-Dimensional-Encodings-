@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the musical \u201cTuck Everlasting\u201d set?",
+    "response": [
+        "doc_12398.txt",
+        "doc_5867.txt",
+        "doc_8899.txt",
+        "doc_17108.txt",
+        "doc_20958.txt"
+    ]
+}

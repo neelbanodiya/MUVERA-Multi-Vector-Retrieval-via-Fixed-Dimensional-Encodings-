@@ -1,0 +1,10 @@
+{
+    "query": "Who performed \u201cTutti Frutti\u201d at a performance mentioned in the text?",
+    "response": [
+        "doc_15391.txt",
+        "doc_13103.txt",
+        "doc_13106.txt",
+        "doc_12713.txt",
+        "doc_6341.txt"
+    ]
+}

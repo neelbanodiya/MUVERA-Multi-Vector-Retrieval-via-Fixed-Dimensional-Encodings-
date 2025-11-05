@@ -1,0 +1,10 @@
+{
+    "query": "In what television drama did William Shatner portray the character Denny Crane?",
+    "response": [
+        "doc_15118.txt",
+        "doc_15113.txt",
+        "doc_15121.txt",
+        "doc_15112.txt",
+        "doc_15119.txt"
+    ]
+}

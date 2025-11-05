@@ -1,0 +1,10 @@
+{
+    "query": "What role did Betty Ford play in helping others overcome addiction?",
+    "response": [
+        "doc_433.txt",
+        "doc_447.txt",
+        "doc_438.txt",
+        "doc_443.txt",
+        "doc_437.txt"
+    ]
+}

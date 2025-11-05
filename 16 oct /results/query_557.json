@@ -1,0 +1,10 @@
+{
+    "query": "What artistic movement is associated with composers like Pietro Mascagni and Ruggero Leoncavallo, as described in the passage?",
+    "response": [
+        "doc_334.txt",
+        "doc_321.txt",
+        "doc_15392.txt",
+        "doc_322.txt",
+        "doc_324.txt"
+    ]
+}

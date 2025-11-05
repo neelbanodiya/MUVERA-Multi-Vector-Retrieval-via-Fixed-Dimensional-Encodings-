@@ -1,0 +1,10 @@
+{
+    "query": "What was Marie Duplessis\u2019s profession?",
+    "response": [
+        "doc_9887.txt",
+        "doc_2610.txt",
+        "doc_3684.txt",
+        "doc_5491.txt",
+        "doc_2177.txt"
+    ]
+}

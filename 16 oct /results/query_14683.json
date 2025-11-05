@@ -1,0 +1,10 @@
+{
+    "query": "How many reproductions of the \u201cHeart of the Ocean\u201d necklace did the J. Peterman Company create when the film *Titanic* was released?",
+    "response": [
+        "doc_8471.txt",
+        "doc_8480.txt",
+        "doc_8475.txt",
+        "doc_1580.txt",
+        "doc_2231.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What river did Gerry and the Pacemakers ferry across?",
+    "response": [
+        "doc_3487.txt",
+        "doc_3491.txt",
+        "doc_3489.txt",
+        "doc_3494.txt",
+        "doc_3483.txt"
+    ]
+}

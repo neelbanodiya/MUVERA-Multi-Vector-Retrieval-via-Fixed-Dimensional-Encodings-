@@ -1,0 +1,10 @@
+{
+    "query": "Why does the passage state that Larry Flynt had no children?",
+    "response": [
+        "doc_13515.txt",
+        "doc_15771.txt",
+        "doc_739.txt",
+        "doc_17024.txt",
+        "doc_22919.txt"
+    ]
+}

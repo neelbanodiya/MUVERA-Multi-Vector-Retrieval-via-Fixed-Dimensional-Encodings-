@@ -1,0 +1,10 @@
+{
+    "query": "According to the article, what was a key focus of the academics and activists at the Barcelona conference in 2010?",
+    "response": [
+        "doc_9933.txt",
+        "doc_5685.txt",
+        "doc_12654.txt",
+        "doc_8994.txt",
+        "doc_1678.txt"
+    ]
+}

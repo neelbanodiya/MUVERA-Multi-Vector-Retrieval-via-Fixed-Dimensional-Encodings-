@@ -1,0 +1,10 @@
+{
+    "query": "In which county is Temple Hirst located?",
+    "response": [
+        "doc_7410.txt",
+        "doc_21028.txt",
+        "doc_21029.txt",
+        "doc_23872.txt",
+        "doc_14641.txt"
+    ]
+}

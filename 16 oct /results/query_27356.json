@@ -1,0 +1,10 @@
+{
+    "query": "What months did the Battle of Stalingrad primarily take place?",
+    "response": [
+        "doc_15909.txt",
+        "doc_15908.txt",
+        "doc_15916.txt",
+        "doc_15913.txt",
+        "doc_15923.txt"
+    ]
+}

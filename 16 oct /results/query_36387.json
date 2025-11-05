@@ -1,0 +1,10 @@
+{
+    "query": "What is the first line spoken in the film \u201cThe Adventures of Robin Hood\u201d?",
+    "response": [
+        "doc_21245.txt",
+        "doc_18756.txt",
+        "doc_21246.txt",
+        "doc_18748.txt",
+        "doc_18761.txt"
+    ]
+}

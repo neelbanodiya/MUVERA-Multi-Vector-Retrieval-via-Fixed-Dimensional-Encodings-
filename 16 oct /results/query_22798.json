@@ -1,0 +1,10 @@
+{
+    "query": "What types of performances does Jimmy engage in (e.g., magic tricks, acting)?",
+    "response": [
+        "doc_17098.txt",
+        "doc_18858.txt",
+        "doc_5216.txt",
+        "doc_13448.txt",
+        "doc_14567.txt"
+    ]
+}

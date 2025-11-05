@@ -1,0 +1,10 @@
+{
+    "query": "How does the program translate English words into Pig Latin, as demonstrated in the Chegg homework example?",
+    "response": [
+        "doc_9197.txt",
+        "doc_9196.txt",
+        "doc_5805.txt",
+        "doc_21662.txt",
+        "doc_14591.txt"
+    ]
+}

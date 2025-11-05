@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the relationship between public and private universities in Europe?",
+    "response": [
+        "doc_5384.txt",
+        "doc_5385.txt",
+        "doc_5373.txt",
+        "doc_5375.txt",
+        "doc_1678.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided sources, how did Rupert ultimately kill Brandon?",
+    "response": [
+        "doc_14526.txt",
+        "doc_10449.txt",
+        "doc_9997.txt",
+        "doc_9998.txt",
+        "doc_7611.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is a principle that Democrats and Republicans have largely agreed upon?",
+    "response": [
+        "doc_13196.txt",
+        "doc_20036.txt",
+        "doc_14365.txt",
+        "doc_18001.txt",
+        "doc_19804.txt"
+    ]
+}

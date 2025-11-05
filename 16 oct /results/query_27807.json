@@ -1,0 +1,10 @@
+{
+    "query": "What film won the Academy Award for Best Picture in 1949?",
+    "response": [
+        "doc_4909.txt",
+        "doc_4923.txt",
+        "doc_4919.txt",
+        "doc_16172.txt",
+        "doc_16983.txt"
+    ]
+}

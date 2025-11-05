@@ -1,0 +1,10 @@
+{
+    "query": "Which three governments submitted an initiative to secure a Framework Decision regarding freezing property orders?",
+    "response": [
+        "doc_19822.txt",
+        "doc_19831.txt",
+        "doc_22580.txt",
+        "doc_22579.txt",
+        "doc_19824.txt"
+    ]
+}

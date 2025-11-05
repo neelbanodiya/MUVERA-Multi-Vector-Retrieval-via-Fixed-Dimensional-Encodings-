@@ -1,0 +1,10 @@
+{
+    "query": "What is the profession of some of the doctors featured in the show *ER*?",
+    "response": [
+        "doc_6752.txt",
+        "doc_5053.txt",
+        "doc_22145.txt",
+        "doc_2599.txt",
+        "doc_4463.txt"
+    ]
+}

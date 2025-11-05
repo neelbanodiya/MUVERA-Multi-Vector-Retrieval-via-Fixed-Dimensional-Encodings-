@@ -1,0 +1,10 @@
+{
+    "query": "What film depicts an undersized student\u2019s pursuit of playing for Notre Dame football?",
+    "response": [
+        "doc_20070.txt",
+        "doc_20064.txt",
+        "doc_20067.txt",
+        "doc_9193.txt",
+        "doc_9194.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What did Carl instruct Mr. George to do?",
+    "response": [
+        "doc_13334.txt",
+        "doc_22620.txt",
+        "doc_10800.txt",
+        "doc_22546.txt",
+        "doc_3423.txt"
+    ]
+}

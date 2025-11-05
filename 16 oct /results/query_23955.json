@@ -1,0 +1,10 @@
+{
+    "query": "Which sectors experienced redundancies in Austria, and how many employees were affected?",
+    "response": [
+        "doc_13897.txt",
+        "doc_3966.txt",
+        "doc_8250.txt",
+        "doc_3250.txt",
+        "doc_6493.txt"
+    ]
+}

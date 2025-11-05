@@ -1,0 +1,10 @@
+{
+    "query": "Where is the 30th Space Wing based?",
+    "response": [
+        "doc_14896.txt",
+        "doc_14897.txt",
+        "doc_14280.txt",
+        "doc_14282.txt",
+        "doc_14281.txt"
+    ]
+}

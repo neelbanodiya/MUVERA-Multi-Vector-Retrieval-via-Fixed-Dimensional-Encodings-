@@ -1,0 +1,10 @@
+{
+    "query": "For what film did Billy Wilder win three Academy Awards for Best Costume Design?",
+    "response": [
+        "doc_16172.txt",
+        "doc_14339.txt",
+        "doc_4909.txt",
+        "doc_4927.txt",
+        "doc_4919.txt"
+    ]
+}

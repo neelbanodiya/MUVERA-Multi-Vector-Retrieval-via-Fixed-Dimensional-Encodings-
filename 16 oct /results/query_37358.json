@@ -1,0 +1,10 @@
+{
+    "query": "According to Galen, what is described as \u201chorse-meat\u201d?",
+    "response": [
+        "doc_18267.txt",
+        "doc_18266.txt",
+        "doc_15002.txt",
+        "doc_8051.txt",
+        "doc_8901.txt"
+    ]
+}

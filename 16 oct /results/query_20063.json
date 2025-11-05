@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what was Leutze\u2019s desired artistic advancement?",
+    "response": [
+        "doc_17272.txt",
+        "doc_7878.txt",
+        "doc_14830.txt",
+        "doc_19423.txt",
+        "doc_14185.txt"
+    ]
+}

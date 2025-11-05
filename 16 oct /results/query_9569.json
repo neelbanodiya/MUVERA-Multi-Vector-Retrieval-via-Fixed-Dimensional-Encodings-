@@ -1,0 +1,10 @@
+{
+    "query": "According to multiple sources, what is a recurring theme in Emily Dickinson\u2019s poetry, specifically referenced in lines like \u201cSome keep the Sabbath going to church; I keep it staying at home\u201d?",
+    "response": [
+        "doc_5511.txt",
+        "doc_5507.txt",
+        "doc_5517.txt",
+        "doc_5514.txt",
+        "doc_5508.txt"
+    ]
+}

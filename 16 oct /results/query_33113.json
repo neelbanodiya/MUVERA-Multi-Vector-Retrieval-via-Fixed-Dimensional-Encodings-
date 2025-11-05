@@ -1,0 +1,10 @@
+{
+    "query": "How old was Lucy Marie when she was last seen?",
+    "response": [
+        "doc_1668.txt",
+        "doc_22861.txt",
+        "doc_13879.txt",
+        "doc_22860.txt",
+        "doc_5699.txt"
+    ]
+}

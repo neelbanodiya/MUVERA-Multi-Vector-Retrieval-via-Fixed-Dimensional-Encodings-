@@ -1,0 +1,10 @@
+{
+    "query": "Who was the James Brown fanatic who joined The Prodigy?",
+    "response": [
+        "doc_15245.txt",
+        "doc_12337.txt",
+        "doc_14845.txt",
+        "doc_21908.txt",
+        "doc_22804.txt"
+    ]
+}

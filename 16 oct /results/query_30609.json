@@ -1,0 +1,10 @@
+{
+    "query": "What year was \u201cMiles to Louisville\u201d recorded by Grandpa Jones?",
+    "response": [
+        "doc_21211.txt",
+        "doc_18456.txt",
+        "doc_3840.txt",
+        "doc_2894.txt",
+        "doc_3851.txt"
+    ]
+}

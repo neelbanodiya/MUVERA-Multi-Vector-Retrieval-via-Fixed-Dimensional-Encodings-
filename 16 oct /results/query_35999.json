@@ -1,0 +1,10 @@
+{
+    "query": "What is the Little Red Book also known as?",
+    "response": [
+        "doc_15558.txt",
+        "doc_17767.txt",
+        "doc_6707.txt",
+        "doc_1301.txt",
+        "doc_16355.txt"
+    ]
+}

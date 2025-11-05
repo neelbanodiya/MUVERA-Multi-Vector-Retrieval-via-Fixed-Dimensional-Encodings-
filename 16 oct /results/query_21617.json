@@ -1,0 +1,10 @@
+{
+    "query": "Who is Daniel Chester French?",
+    "response": [
+        "doc_348.txt",
+        "doc_6618.txt",
+        "doc_16872.txt",
+        "doc_4271.txt",
+        "doc_4478.txt"
+    ]
+}

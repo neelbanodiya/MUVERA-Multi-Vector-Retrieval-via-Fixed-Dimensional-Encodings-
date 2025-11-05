@@ -1,0 +1,10 @@
+{
+    "query": "According to the documents, what is essential for the EU to remain competitive in the nanotechnology sector?",
+    "response": [
+        "doc_14284.txt",
+        "doc_14293.txt",
+        "doc_14289.txt",
+        "doc_23976.txt",
+        "doc_14287.txt"
+    ]
+}

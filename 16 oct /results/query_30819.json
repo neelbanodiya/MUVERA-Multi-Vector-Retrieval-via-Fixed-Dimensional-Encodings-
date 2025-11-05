@@ -1,0 +1,10 @@
+{
+    "query": "Which two nations were involved in the War of 1812?",
+    "response": [
+        "doc_17954.txt",
+        "doc_17961.txt",
+        "doc_18393.txt",
+        "doc_9108.txt",
+        "doc_17822.txt"
+    ]
+}

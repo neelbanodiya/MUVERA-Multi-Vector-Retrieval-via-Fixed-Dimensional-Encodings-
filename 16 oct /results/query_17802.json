@@ -1,0 +1,10 @@
+{
+    "query": "How much warmer are six large glaciers in the Amundsen Sea compared to other areas?",
+    "response": [
+        "doc_10323.txt",
+        "doc_10324.txt",
+        "doc_10329.txt",
+        "doc_10322.txt",
+        "doc_10319.txt"
+    ]
+}

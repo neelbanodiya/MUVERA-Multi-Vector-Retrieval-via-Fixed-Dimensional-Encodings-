@@ -1,0 +1,10 @@
+{
+    "query": "What type of avionics package does the Jet use?",
+    "response": [
+        "doc_10842.txt",
+        "doc_10841.txt",
+        "doc_10850.txt",
+        "doc_10853.txt",
+        "doc_10845.txt"
+    ]
+}

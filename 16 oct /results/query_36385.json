@@ -1,0 +1,10 @@
+{
+    "query": "Where was \u201cThe Adventures of Robin Hood\u201d filmed, and what was the size of the natural park used for filming?",
+    "response": [
+        "doc_14779.txt",
+        "doc_10500.txt",
+        "doc_5885.txt",
+        "doc_21371.txt",
+        "doc_8615.txt"
+    ]
+}

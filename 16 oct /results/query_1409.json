@@ -1,0 +1,10 @@
+{
+    "query": "What changes did the Japanese military undergo, according to the provided text?",
+    "response": [
+        "doc_800.txt",
+        "doc_787.txt",
+        "doc_2983.txt",
+        "doc_794.txt",
+        "doc_2982.txt"
+    ]
+}

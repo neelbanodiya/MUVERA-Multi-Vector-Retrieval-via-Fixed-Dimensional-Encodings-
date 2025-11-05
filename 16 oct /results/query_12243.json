@@ -1,0 +1,10 @@
+{
+    "query": "According to the texts, what is the meaning of \u201ctenri\u201d and \u201ckyo\u201d in relation to Mahikari?",
+    "response": [
+        "doc_7146.txt",
+        "doc_792.txt",
+        "doc_9265.txt",
+        "doc_1844.txt",
+        "doc_1297.txt"
+    ]
+}

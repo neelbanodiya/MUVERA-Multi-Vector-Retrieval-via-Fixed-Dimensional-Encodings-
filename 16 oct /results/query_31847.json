@@ -1,0 +1,10 @@
+{
+    "query": "What was the LMU\u2019s per game average for field goal percentage before the abbreviation?",
+    "response": [
+        "doc_18558.txt",
+        "doc_6829.txt",
+        "doc_207.txt",
+        "doc_3828.txt",
+        "doc_23698.txt"
+    ]
+}

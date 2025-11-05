@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the river that Paris is located on?",
+    "response": [
+        "doc_14616.txt",
+        "doc_4336.txt",
+        "doc_5024.txt",
+        "doc_8343.txt",
+        "doc_12986.txt"
+    ]
+}

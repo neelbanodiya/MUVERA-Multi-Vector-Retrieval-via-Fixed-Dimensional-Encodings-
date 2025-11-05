@@ -1,0 +1,10 @@
+{
+    "query": "How many people watched the Live Aid concert?",
+    "response": [
+        "doc_12022.txt",
+        "doc_12018.txt",
+        "doc_12019.txt",
+        "doc_12012.txt",
+        "doc_12016.txt"
+    ]
+}

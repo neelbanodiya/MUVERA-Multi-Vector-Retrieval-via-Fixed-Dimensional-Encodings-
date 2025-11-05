@@ -1,0 +1,10 @@
+{
+    "query": "What are the titles of Ottorino Respighi\u2019s symphonic poems?",
+    "response": [
+        "doc_20430.txt",
+        "doc_20429.txt",
+        "doc_20424.txt",
+        "doc_20425.txt",
+        "doc_20428.txt"
+    ]
+}

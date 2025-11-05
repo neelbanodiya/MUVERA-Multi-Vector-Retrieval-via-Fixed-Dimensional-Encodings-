@@ -1,0 +1,10 @@
+{
+    "query": "Besides being a member of the Byrds, what other musical genres was Clarence White known for playing?",
+    "response": [
+        "doc_1961.txt",
+        "doc_19669.txt",
+        "doc_22803.txt",
+        "doc_22470.txt",
+        "doc_12713.txt"
+    ]
+}

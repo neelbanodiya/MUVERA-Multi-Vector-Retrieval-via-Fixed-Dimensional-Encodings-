@@ -1,0 +1,10 @@
+{
+    "query": "What year did pitcher X have 3,871 strikeouts in 3,122 innings pitched?",
+    "response": [
+        "doc_2351.txt",
+        "doc_8325.txt",
+        "doc_2352.txt",
+        "doc_2360.txt",
+        "doc_2815.txt"
+    ]
+}

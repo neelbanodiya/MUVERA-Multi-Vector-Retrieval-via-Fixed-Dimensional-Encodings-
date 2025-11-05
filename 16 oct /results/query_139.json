@@ -1,0 +1,10 @@
+{
+    "query": "What type of food were pigs fed in Sichuan Province?",
+    "response": [
+        "doc_65.txt",
+        "doc_68.txt",
+        "doc_8750.txt",
+        "doc_8759.txt",
+        "doc_2824.txt"
+    ]
+}

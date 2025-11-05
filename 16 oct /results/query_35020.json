@@ -1,0 +1,10 @@
+{
+    "query": "When and where was Ottorino Respighi born?",
+    "response": [
+        "doc_15474.txt",
+        "doc_20423.txt",
+        "doc_4475.txt",
+        "doc_16628.txt",
+        "doc_22779.txt"
+    ]
+}

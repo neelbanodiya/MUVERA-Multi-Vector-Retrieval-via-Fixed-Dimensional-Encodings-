@@ -1,0 +1,10 @@
+{
+    "query": "What is a significant annual celebration in Mexico described in one of the linked documents?",
+    "response": [
+        "doc_21181.txt",
+        "doc_21180.txt",
+        "doc_10216.txt",
+        "doc_10223.txt",
+        "doc_10217.txt"
+    ]
+}

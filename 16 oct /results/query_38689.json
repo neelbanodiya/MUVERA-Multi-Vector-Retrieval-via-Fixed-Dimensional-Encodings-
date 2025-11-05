@@ -1,0 +1,10 @@
+{
+    "query": "According to Directive 2001/18/EC, what restriction will be in place regarding GMOs containing antibiotic-resistant genes starting in 2009?",
+    "response": [
+        "doc_22675.txt",
+        "doc_3075.txt",
+        "doc_20345.txt",
+        "doc_21032.txt",
+        "doc_12474.txt"
+    ]
+}

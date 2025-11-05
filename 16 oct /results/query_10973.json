@@ -1,0 +1,10 @@
+{
+    "query": "Who are some of the other people mentioned in the passage who were part of the \u201cIn the Middle group\u201d?",
+    "response": [
+        "doc_21400.txt",
+        "doc_10136.txt",
+        "doc_9856.txt",
+        "doc_16485.txt",
+        "doc_12350.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year did Peter MacKinnon\u2019s article appear?",
+    "response": [
+        "doc_20434.txt",
+        "doc_8991.txt",
+        "doc_22773.txt",
+        "doc_7152.txt",
+        "doc_8336.txt"
+    ]
+}

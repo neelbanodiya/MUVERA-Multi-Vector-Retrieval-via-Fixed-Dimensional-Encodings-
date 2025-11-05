@@ -1,0 +1,10 @@
+{
+    "query": "What organization restructured the INS in March 2003?",
+    "response": [
+        "doc_12537.txt",
+        "doc_14791.txt",
+        "doc_5473.txt",
+        "doc_8250.txt",
+        "doc_14054.txt"
+    ]
+}

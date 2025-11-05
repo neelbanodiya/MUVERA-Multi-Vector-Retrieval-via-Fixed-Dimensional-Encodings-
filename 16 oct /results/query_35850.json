@@ -1,0 +1,10 @@
+{
+    "query": "With whom did Eric Clapton collaborate on the song \u201cI Shot the Sheriff\u201d?",
+    "response": [
+        "doc_20897.txt",
+        "doc_11122.txt",
+        "doc_17913.txt",
+        "doc_10936.txt",
+        "doc_12577.txt"
+    ]
+}

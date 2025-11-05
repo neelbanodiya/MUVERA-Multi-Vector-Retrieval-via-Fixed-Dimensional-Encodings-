@@ -1,0 +1,10 @@
+{
+    "query": "What denominations of coins were used in France?",
+    "response": [
+        "doc_2917.txt",
+        "doc_24219.txt",
+        "doc_24215.txt",
+        "doc_23004.txt",
+        "doc_24218.txt"
+    ]
+}

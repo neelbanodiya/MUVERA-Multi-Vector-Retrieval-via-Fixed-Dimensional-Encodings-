@@ -1,0 +1,10 @@
+{
+    "query": "What is Cornell University known for, according to one of the linked documents?",
+    "response": [
+        "doc_5307.txt",
+        "doc_4623.txt",
+        "doc_9024.txt",
+        "doc_12819.txt",
+        "doc_5316.txt"
+    ]
+}

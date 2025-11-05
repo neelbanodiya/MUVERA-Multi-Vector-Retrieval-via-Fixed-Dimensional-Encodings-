@@ -1,0 +1,10 @@
+{
+    "query": "What is Anne Miano known for?",
+    "response": [
+        "doc_18875.txt",
+        "doc_18874.txt",
+        "doc_2962.txt",
+        "doc_3684.txt",
+        "doc_23544.txt"
+    ]
+}

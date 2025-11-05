@@ -1,0 +1,10 @@
+{
+    "query": "What specific action did the European Parliament recommend to the Council regarding the future development of Europol?",
+    "response": [
+        "doc_14344.txt",
+        "doc_14054.txt",
+        "doc_15132.txt",
+        "doc_12932.txt",
+        "doc_13164.txt"
+    ]
+}

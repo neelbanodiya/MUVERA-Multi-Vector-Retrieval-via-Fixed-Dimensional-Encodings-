@@ -1,0 +1,10 @@
+{
+    "query": "By 2007, what percentage of loans held by Fannie and Freddie had an LTV above a certain threshold?",
+    "response": [
+        "doc_5019.txt",
+        "doc_16658.txt",
+        "doc_5560.txt",
+        "doc_21439.txt",
+        "doc_19348.txt"
+    ]
+}

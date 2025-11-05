@@ -1,0 +1,10 @@
+{
+    "query": "What percentage reduction is proposed for policy area 10, Direct Research, according to the PDB?",
+    "response": [
+        "doc_10376.txt",
+        "doc_17595.txt",
+        "doc_6223.txt",
+        "doc_18305.txt",
+        "doc_15137.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which American literary figures are mentioned alongside Ralph Ellison in the collection of literature excerpts?",
+    "response": [
+        "doc_14077.txt",
+        "doc_14076.txt",
+        "doc_14075.txt",
+        "doc_14082.txt",
+        "doc_8516.txt"
+    ]
+}

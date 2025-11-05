@@ -1,0 +1,10 @@
+{
+    "query": "When was an innovative system of locks designed for Milan?",
+    "response": [
+        "doc_20235.txt",
+        "doc_20239.txt",
+        "doc_20243.txt",
+        "doc_20245.txt",
+        "doc_20236.txt"
+    ]
+}

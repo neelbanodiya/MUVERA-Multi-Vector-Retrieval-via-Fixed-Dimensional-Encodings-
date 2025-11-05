@@ -1,0 +1,10 @@
+{
+    "query": "Which German band collaborated with Despina Vandi on the song \u201cDestiny\u201d?",
+    "response": [
+        "doc_22030.txt",
+        "doc_22029.txt",
+        "doc_23546.txt",
+        "doc_22859.txt",
+        "doc_128.txt"
+    ]
+}

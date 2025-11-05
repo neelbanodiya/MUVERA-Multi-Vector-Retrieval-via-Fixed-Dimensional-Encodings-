@@ -1,0 +1,10 @@
+{
+    "query": "What is \u201cThe Curse of the Cat People\u201d considered to be?",
+    "response": [
+        "doc_13956.txt",
+        "doc_13957.txt",
+        "doc_5413.txt",
+        "doc_17868.txt",
+        "doc_15666.txt"
+    ]
+}

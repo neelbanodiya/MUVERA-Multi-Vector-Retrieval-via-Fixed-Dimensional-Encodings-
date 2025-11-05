@@ -1,0 +1,10 @@
+{
+    "query": "Which gulf is the wave forecast model linked to DHI\u2019s global wave model in the Gulf of Oman?",
+    "response": [
+        "doc_22943.txt",
+        "doc_22940.txt",
+        "doc_22942.txt",
+        "doc_22949.txt",
+        "doc_22950.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What was James Ogilvie\u2019s role at New York University (NYU)?",
+    "response": [
+        "doc_582.txt",
+        "doc_4788.txt",
+        "doc_20140.txt",
+        "doc_12836.txt",
+        "doc_4740.txt"
+    ]
+}

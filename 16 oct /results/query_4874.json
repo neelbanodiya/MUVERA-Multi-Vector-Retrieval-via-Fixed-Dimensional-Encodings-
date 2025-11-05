@@ -1,0 +1,10 @@
+{
+    "query": "Which existing European Directives does this Directive amend?",
+    "response": [
+        "doc_2827.txt",
+        "doc_21813.txt",
+        "doc_2848.txt",
+        "doc_16708.txt",
+        "doc_21815.txt"
+    ]
+}

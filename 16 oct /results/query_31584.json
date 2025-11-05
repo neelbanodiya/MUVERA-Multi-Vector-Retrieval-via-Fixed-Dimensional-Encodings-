@@ -1,0 +1,10 @@
+{
+    "query": "Since 2000, what position does Brandenburg currently hold at the Technical University Ilmenau?",
+    "response": [
+        "doc_18430.txt",
+        "doc_18431.txt",
+        "doc_10472.txt",
+        "doc_1678.txt",
+        "doc_650.txt"
+    ]
+}

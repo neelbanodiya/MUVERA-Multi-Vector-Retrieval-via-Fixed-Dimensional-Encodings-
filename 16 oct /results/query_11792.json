@@ -1,0 +1,10 @@
+{
+    "query": "What song did the Pittsburgh Pirates adopt as their theme song?",
+    "response": [
+        "doc_8588.txt",
+        "doc_15425.txt",
+        "doc_10200.txt",
+        "doc_5278.txt",
+        "doc_22491.txt"
+    ]
+}

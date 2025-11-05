@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary purpose of Starfleet within the United Federation of Planets?",
+    "response": [
+        "doc_6242.txt",
+        "doc_6248.txt",
+        "doc_6243.txt",
+        "doc_6244.txt",
+        "doc_6245.txt"
+    ]
+}

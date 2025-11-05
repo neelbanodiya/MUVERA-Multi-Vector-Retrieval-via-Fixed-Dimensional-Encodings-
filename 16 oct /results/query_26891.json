@@ -1,0 +1,10 @@
+{
+    "query": "What team won at Providence in 18...?",
+    "response": [
+        "doc_11464.txt",
+        "doc_1881.txt",
+        "doc_11349.txt",
+        "doc_19122.txt",
+        "doc_11462.txt"
+    ]
+}

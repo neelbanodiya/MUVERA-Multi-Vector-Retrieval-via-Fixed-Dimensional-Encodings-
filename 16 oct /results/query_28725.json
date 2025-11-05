@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, which Shakespeare play features a character like Mark Antony who is considered for elimination?",
+    "response": [
+        "doc_16737.txt",
+        "doc_16731.txt",
+        "doc_16735.txt",
+        "doc_16730.txt",
+        "doc_16729.txt"
+    ]
+}

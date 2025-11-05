@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the drama directed by Thomas Jahn featured in the MIPCOM 2004 product guide?",
+    "response": [
+        "doc_3527.txt",
+        "doc_2231.txt",
+        "doc_14685.txt",
+        "doc_14626.txt",
+        "doc_1231.txt"
+    ]
+}

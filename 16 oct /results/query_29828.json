@@ -1,0 +1,10 @@
+{
+    "query": "Which words appear in the Word List 24?",
+    "response": [
+        "doc_9046.txt",
+        "doc_12385.txt",
+        "doc_12379.txt",
+        "doc_3533.txt",
+        "doc_2965.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the German authorities, what factors might justify requiring a non-German parent to communicate with their child solely in German during supervised visits?",
+    "response": [
+        "doc_18095.txt",
+        "doc_2201.txt",
+        "doc_2202.txt",
+        "doc_12500.txt",
+        "doc_4104.txt"
+    ]
+}

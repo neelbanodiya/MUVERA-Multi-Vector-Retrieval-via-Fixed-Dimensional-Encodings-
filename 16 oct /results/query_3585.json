@@ -1,0 +1,10 @@
+{
+    "query": "On what channel was an episode of \u201cModern Marvels\u201d originally broadcast about the San Francisco-Oakland Bay Bridge?",
+    "response": [
+        "doc_2118.txt",
+        "doc_2108.txt",
+        "doc_2116.txt",
+        "doc_2117.txt",
+        "doc_2121.txt"
+    ]
+}

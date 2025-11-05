@@ -1,0 +1,10 @@
+{
+    "query": "What instrument sections are mentioned in the Vancouver Symphony Orchestra\u2019s musician profiles?",
+    "response": [
+        "doc_16771.txt",
+        "doc_16778.txt",
+        "doc_16780.txt",
+        "doc_16776.txt",
+        "doc_16774.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Where was Thomas Wolfe born?",
+    "response": [
+        "doc_11917.txt",
+        "doc_5104.txt",
+        "doc_14748.txt",
+        "doc_18976.txt",
+        "doc_18977.txt"
+    ]
+}

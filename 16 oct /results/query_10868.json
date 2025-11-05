@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the poem by Dante Gabriel Rossetti that features the sisters Laura and Lizzie?",
+    "response": [
+        "doc_6297.txt",
+        "doc_6300.txt",
+        "doc_6308.txt",
+        "doc_6303.txt",
+        "doc_6298.txt"
+    ]
+}

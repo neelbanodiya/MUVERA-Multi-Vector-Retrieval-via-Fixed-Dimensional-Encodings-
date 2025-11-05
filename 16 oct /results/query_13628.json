@@ -1,0 +1,10 @@
+{
+    "query": "Who is Figaro in relation to Count Almaviva and Rosina?",
+    "response": [
+        "doc_7942.txt",
+        "doc_7940.txt",
+        "doc_7941.txt",
+        "doc_7943.txt",
+        "doc_7944.txt"
+    ]
+}

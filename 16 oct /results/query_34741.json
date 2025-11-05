@@ -1,0 +1,10 @@
+{
+    "query": "How many passengers does Xinzuoying Station handle daily?",
+    "response": [
+        "doc_20225.txt",
+        "doc_19041.txt",
+        "doc_6314.txt",
+        "doc_6847.txt",
+        "doc_10985.txt"
+    ]
+}

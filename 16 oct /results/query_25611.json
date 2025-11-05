@@ -1,0 +1,10 @@
+{
+    "query": "When is the lower-house election of Somalia scheduled to take place?",
+    "response": [
+        "doc_14846.txt",
+        "doc_14845.txt",
+        "doc_6491.txt",
+        "doc_1852.txt",
+        "doc_17133.txt"
+    ]
+}

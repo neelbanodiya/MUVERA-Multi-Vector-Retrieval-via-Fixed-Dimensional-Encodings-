@@ -1,0 +1,10 @@
+{
+    "query": "What role did Barbara Mikulski hold within the Senate, as described in one of the articles?",
+    "response": [
+        "doc_19313.txt",
+        "doc_19314.txt",
+        "doc_19320.txt",
+        "doc_19316.txt",
+        "doc_19317.txt"
+    ]
+}

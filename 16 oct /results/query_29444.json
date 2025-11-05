@@ -1,0 +1,10 @@
+{
+    "query": "Which *Star Wars* characters appear in the *Star Wars* comic series published in 2015?",
+    "response": [
+        "doc_17129.txt",
+        "doc_6660.txt",
+        "doc_18583.txt",
+        "doc_695.txt",
+        "doc_15708.txt"
+    ]
+}

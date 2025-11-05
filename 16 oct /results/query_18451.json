@@ -1,0 +1,10 @@
+{
+    "query": "Besides being the national motto, which other U.S. state also uses the motto \u201cIn God We Trust\u201d?",
+    "response": [
+        "doc_10699.txt",
+        "doc_12128.txt",
+        "doc_10702.txt",
+        "doc_5119.txt",
+        "doc_22812.txt"
+    ]
+}

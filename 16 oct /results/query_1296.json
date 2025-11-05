@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Anne Francis nominated for an Emmy for *Honey West*?",
+    "response": [
+        "doc_2263.txt",
+        "doc_2264.txt",
+        "doc_4644.txt",
+        "doc_4643.txt",
+        "doc_2266.txt"
+    ]
+}

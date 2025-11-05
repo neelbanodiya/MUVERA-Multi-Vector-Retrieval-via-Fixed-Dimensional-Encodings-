@@ -1,0 +1,10 @@
+{
+    "query": "How many civilians were killed and abducted in the Democratic Republic of Congo between December 2007 and March 2010?",
+    "response": [
+        "doc_20154.txt",
+        "doc_8112.txt",
+        "doc_10079.txt",
+        "doc_19581.txt",
+        "doc_1825.txt"
+    ]
+}

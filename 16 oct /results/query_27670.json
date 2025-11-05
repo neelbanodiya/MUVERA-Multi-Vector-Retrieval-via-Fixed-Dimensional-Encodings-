@@ -1,0 +1,10 @@
+{
+    "query": "What was the initial car used in the first *Mad Max* film, and who initially built it?",
+    "response": [
+        "doc_9892.txt",
+        "doc_14259.txt",
+        "doc_1560.txt",
+        "doc_1231.txt",
+        "doc_14626.txt"
+    ]
+}

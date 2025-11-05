@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided links, what city served as the capital for the Loyalists in Spain during 1783?",
+    "response": [
+        "doc_2708.txt",
+        "doc_10049.txt",
+        "doc_1010.txt",
+        "doc_2714.txt",
+        "doc_2716.txt"
+    ]
+}

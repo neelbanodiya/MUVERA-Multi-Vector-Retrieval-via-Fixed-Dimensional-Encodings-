@@ -1,0 +1,10 @@
+{
+    "query": "What was the setting of the film *The Teahouse of the August Moon*?",
+    "response": [
+        "doc_18212.txt",
+        "doc_8796.txt",
+        "doc_8799.txt",
+        "doc_18213.txt",
+        "doc_18491.txt"
+    ]
+}

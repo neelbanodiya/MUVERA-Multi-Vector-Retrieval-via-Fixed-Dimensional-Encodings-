@@ -1,0 +1,10 @@
+{
+    "query": "What honor did Rusty Russell receive in 1990?",
+    "response": [
+        "doc_74.txt",
+        "doc_18243.txt",
+        "doc_18244.txt",
+        "doc_23278.txt",
+        "doc_18336.txt"
+    ]
+}

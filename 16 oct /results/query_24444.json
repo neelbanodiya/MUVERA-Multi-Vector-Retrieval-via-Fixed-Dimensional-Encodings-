@@ -1,0 +1,10 @@
+{
+    "query": "Approximately how many miles separate Lampedusa from Tunisia?",
+    "response": [
+        "doc_14191.txt",
+        "doc_10127.txt",
+        "doc_10128.txt",
+        "doc_15479.txt",
+        "doc_3267.txt"
+    ]
+}

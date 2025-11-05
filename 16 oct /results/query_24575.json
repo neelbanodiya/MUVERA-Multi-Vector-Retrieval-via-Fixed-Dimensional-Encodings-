@@ -1,0 +1,10 @@
+{
+    "query": "In what year is the novel *Brave New World* set?",
+    "response": [
+        "doc_14261.txt",
+        "doc_14262.txt",
+        "doc_14269.txt",
+        "doc_14270.txt",
+        "doc_14267.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which treaty and declaration are referenced in relation to the European Parliament\u2019s consideration of this resolution?",
+    "response": [
+        "doc_17340.txt",
+        "doc_8385.txt",
+        "doc_21805.txt",
+        "doc_13321.txt",
+        "doc_13402.txt"
+    ]
+}

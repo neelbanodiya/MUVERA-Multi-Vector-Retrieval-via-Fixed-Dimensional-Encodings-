@@ -1,0 +1,10 @@
+{
+    "query": "How many tracks did Benson lay down?",
+    "response": [
+        "doc_16917.txt",
+        "doc_19130.txt",
+        "doc_15608.txt",
+        "doc_8907.txt",
+        "doc_12713.txt"
+    ]
+}

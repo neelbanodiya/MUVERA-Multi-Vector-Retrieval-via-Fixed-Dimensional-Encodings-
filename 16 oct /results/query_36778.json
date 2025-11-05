@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, which firm partnered with KKR in the acquisition of RJR Nabisco?",
+    "response": [
+        "doc_16565.txt",
+        "doc_11117.txt",
+        "doc_15272.txt",
+        "doc_9777.txt",
+        "doc_10516.txt"
+    ]
+}

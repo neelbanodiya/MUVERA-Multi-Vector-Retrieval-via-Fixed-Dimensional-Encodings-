@@ -1,0 +1,10 @@
+{
+    "query": "What event in 1988 featured Jason Bonham playing drums for Led Zeppelin?",
+    "response": [
+        "doc_2403.txt",
+        "doc_2394.txt",
+        "doc_2389.txt",
+        "doc_2401.txt",
+        "doc_2391.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which writer received a Mademoiselle fiction award for \u201cIn the Old World\u201d?",
+    "response": [
+        "doc_22573.txt",
+        "doc_4918.txt",
+        "doc_12639.txt",
+        "doc_22245.txt",
+        "doc_22254.txt"
+    ]
+}

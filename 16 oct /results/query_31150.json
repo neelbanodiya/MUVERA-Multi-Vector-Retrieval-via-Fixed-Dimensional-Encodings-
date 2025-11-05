@@ -1,0 +1,10 @@
+{
+    "query": "What was the date of death for Sarah Osborne?",
+    "response": [
+        "doc_18147.txt",
+        "doc_18148.txt",
+        "doc_18146.txt",
+        "doc_18145.txt",
+        "doc_1133.txt"
+    ]
+}

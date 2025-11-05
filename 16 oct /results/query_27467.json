@@ -1,0 +1,10 @@
+{
+    "query": "On what date was the New York City Police Department tweeting about the area described in the passage?",
+    "response": [
+        "doc_23400.txt",
+        "doc_8051.txt",
+        "doc_1523.txt",
+        "doc_7239.txt",
+        "doc_12515.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What actions were Chinese officials conducting in Tibet since October 2005, according to the text?",
+    "response": [
+        "doc_18574.txt",
+        "doc_18126.txt",
+        "doc_18125.txt",
+        "doc_2585.txt",
+        "doc_18116.txt"
+    ]
+}

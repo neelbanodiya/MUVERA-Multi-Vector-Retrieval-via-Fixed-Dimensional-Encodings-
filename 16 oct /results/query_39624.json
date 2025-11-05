@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what did John Drew Barrymore do besides being an actor?",
+    "response": [
+        "doc_23202.txt",
+        "doc_23203.txt",
+        "doc_23201.txt",
+        "doc_23194.txt",
+        "doc_23197.txt"
+    ]
+}

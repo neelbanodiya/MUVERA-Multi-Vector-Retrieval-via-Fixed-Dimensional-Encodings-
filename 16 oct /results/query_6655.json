@@ -1,0 +1,10 @@
+{
+    "query": "What recent survey concerning the frequency with which antibiotics are being taken in the EU Member States prompted this question?",
+    "response": [
+        "doc_20694.txt",
+        "doc_3827.txt",
+        "doc_9838.txt",
+        "doc_6414.txt",
+        "doc_12050.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what sector of Venezuela is the \u201cWinne.com - Report on Venezuela\u201d located?",
+    "response": [
+        "doc_23422.txt",
+        "doc_12986.txt",
+        "doc_14192.txt",
+        "doc_6908.txt",
+        "doc_19348.txt"
+    ]
+}

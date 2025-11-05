@@ -1,0 +1,10 @@
+{
+    "query": "Which *Mad Max* film featured Tina Turner?",
+    "response": [
+        "doc_16093.txt",
+        "doc_16095.txt",
+        "doc_1887.txt",
+        "doc_18773.txt",
+        "doc_18756.txt"
+    ]
+}

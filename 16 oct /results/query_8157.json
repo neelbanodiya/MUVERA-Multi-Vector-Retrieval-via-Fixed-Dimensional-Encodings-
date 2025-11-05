@@ -1,0 +1,10 @@
+{
+    "query": "From what perspective does the film *Waltz with Bashir* initially begin?",
+    "response": [
+        "doc_18759.txt",
+        "doc_7690.txt",
+        "doc_9888.txt",
+        "doc_18762.txt",
+        "doc_12704.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What ministry was seeking to open Europe to in June 2004?",
+    "response": [
+        "doc_21234.txt",
+        "doc_14789.txt",
+        "doc_5230.txt",
+        "doc_5229.txt",
+        "doc_19803.txt"
+    ]
+}

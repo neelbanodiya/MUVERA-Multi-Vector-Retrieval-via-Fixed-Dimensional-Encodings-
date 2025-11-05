@@ -1,0 +1,10 @@
+{
+    "query": "What medal did Lance Deal win in the 1996 Atlanta Olympics?",
+    "response": [
+        "doc_13763.txt",
+        "doc_13761.txt",
+        "doc_13766.txt",
+        "doc_13764.txt",
+        "doc_13765.txt"
+    ]
+}

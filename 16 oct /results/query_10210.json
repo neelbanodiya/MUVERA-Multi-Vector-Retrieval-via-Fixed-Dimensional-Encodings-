@@ -1,0 +1,10 @@
+{
+    "query": "What artwork from the Apollo 11 mission was featured on the reverse of the Eisenhower dollar coin?",
+    "response": [
+        "doc_5919.txt",
+        "doc_5926.txt",
+        "doc_5914.txt",
+        "doc_5923.txt",
+        "doc_5911.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is Mary Pickford described as in the first sentence of the passage?",
+    "response": [
+        "doc_645.txt",
+        "doc_632.txt",
+        "doc_17763.txt",
+        "doc_644.txt",
+        "doc_20309.txt"
+    ]
+}

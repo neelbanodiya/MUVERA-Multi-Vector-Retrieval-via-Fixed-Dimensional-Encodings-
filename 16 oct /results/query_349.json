@@ -1,0 +1,10 @@
+{
+    "query": "In what state did the Battle of Antietam occur, and what town was it near?",
+    "response": [
+        "doc_191.txt",
+        "doc_4066.txt",
+        "doc_207.txt",
+        "doc_190.txt",
+        "doc_201.txt"
+    ]
+}

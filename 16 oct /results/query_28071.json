@@ -1,0 +1,10 @@
+{
+    "query": "What specific EU regulation on wire transfer fees is the Commission referring to in relation to Cyprus banks?",
+    "response": [
+        "doc_16294.txt",
+        "doc_2027.txt",
+        "doc_24184.txt",
+        "doc_1897.txt",
+        "doc_9671.txt"
+    ]
+}

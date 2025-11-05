@@ -1,0 +1,10 @@
+{
+    "query": "Who called Cornell Woolrich the \u201cPoe of the noir literary genre\u201d?",
+    "response": [
+        "doc_4147.txt",
+        "doc_9401.txt",
+        "doc_22536.txt",
+        "doc_16010.txt",
+        "doc_5762.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "Which committee is responsible for \u201cProtecting the Consumer: Improving consumer education and awareness on credit and finance\u201d?",
+    "response": [
+        "doc_13309.txt",
+        "doc_18307.txt",
+        "doc_14124.txt",
+        "doc_3006.txt",
+        "doc_2831.txt"
+    ]
+}

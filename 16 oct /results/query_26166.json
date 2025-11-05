@@ -1,0 +1,10 @@
+{
+    "query": "Who was involved in the deed between David McKinney and Ellen Holbrook?",
+    "response": [
+        "doc_12640.txt",
+        "doc_15209.txt",
+        "doc_2177.txt",
+        "doc_20139.txt",
+        "doc_12643.txt"
+    ]
+}

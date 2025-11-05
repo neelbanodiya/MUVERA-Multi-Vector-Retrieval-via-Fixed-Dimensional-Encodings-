@@ -1,0 +1,10 @@
+{
+    "query": "What was the first selection in the 2004 NBA draft?",
+    "response": [
+        "doc_24139.txt",
+        "doc_24141.txt",
+        "doc_24143.txt",
+        "doc_24142.txt",
+        "doc_24140.txt"
+    ]
+}

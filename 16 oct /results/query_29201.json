@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, which character in *Hamlet* is considered fit to be called one?",
+    "response": [
+        "doc_17000.txt",
+        "doc_7106.txt",
+        "doc_7110.txt",
+        "doc_20130.txt",
+        "doc_7105.txt"
+    ]
+}

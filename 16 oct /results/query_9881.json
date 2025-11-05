@@ -1,0 +1,10 @@
+{
+    "query": "What directives were referenced in Mr. McCreevy\u2019s answer regarding public procurement?",
+    "response": [
+        "doc_466.txt",
+        "doc_5726.txt",
+        "doc_16891.txt",
+        "doc_19130.txt",
+        "doc_22063.txt"
+    ]
+}

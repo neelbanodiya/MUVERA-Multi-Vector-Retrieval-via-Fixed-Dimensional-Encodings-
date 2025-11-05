@@ -1,0 +1,10 @@
+{
+    "query": "According to Annex III of the mentioned Decisions, what is the JRC\u2019s policy regarding the engagement of young scientists?",
+    "response": [
+        "doc_16150.txt",
+        "doc_12491.txt",
+        "doc_12484.txt",
+        "doc_12490.txt",
+        "doc_13351.txt"
+    ]
+}

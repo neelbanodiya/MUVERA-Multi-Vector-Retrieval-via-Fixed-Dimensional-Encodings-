@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided text, what genre is *Pretty Woman* classified as?",
+    "response": [
+        "doc_8696.txt",
+        "doc_15141.txt",
+        "doc_433.txt",
+        "doc_20025.txt",
+        "doc_10829.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the utility move the rock river from Beloit to the school?",
+    "response": [
+        "doc_16152.txt",
+        "doc_897.txt",
+        "doc_28.txt",
+        "doc_2179.txt",
+        "doc_17692.txt"
+    ]
+}

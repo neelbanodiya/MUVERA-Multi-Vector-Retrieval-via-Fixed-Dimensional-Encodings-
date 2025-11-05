@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is Sylvester Stallone\u2019s opinion of Rocky Balboa\u2019s character?",
+    "response": [
+        "doc_16967.txt",
+        "doc_19690.txt",
+        "doc_18755.txt",
+        "doc_20613.txt",
+        "doc_17778.txt"
+    ]
+}

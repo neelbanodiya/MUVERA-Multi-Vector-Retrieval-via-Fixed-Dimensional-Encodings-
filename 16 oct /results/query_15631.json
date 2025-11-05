@@ -1,0 +1,10 @@
+{
+    "query": "How did Jackson Pollock apply paint to the canvas, according to the provided information?",
+    "response": [
+        "doc_9066.txt",
+        "doc_9061.txt",
+        "doc_9069.txt",
+        "doc_9065.txt",
+        "doc_9063.txt"
+    ]
+}

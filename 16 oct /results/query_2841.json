@@ -1,0 +1,10 @@
+{
+    "query": "Has it been informed of the current condition of Lake Koronia?",
+    "response": [
+        "doc_1722.txt",
+        "doc_17441.txt",
+        "doc_18380.txt",
+        "doc_20320.txt",
+        "doc_14220.txt"
+    ]
+}

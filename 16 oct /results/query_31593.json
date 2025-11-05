@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is the name of the restaurant adjacent to the Electric Diner?",
+    "response": [
+        "doc_6708.txt",
+        "doc_16638.txt",
+        "doc_10427.txt",
+        "doc_11727.txt",
+        "doc_9777.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to one article, what was a key factor in the San Francisco Giants winning the World Series in 2014?",
+    "response": [
+        "doc_22500.txt",
+        "doc_22499.txt",
+        "doc_3575.txt",
+        "doc_5038.txt",
+        "doc_6886.txt"
+    ]
+}

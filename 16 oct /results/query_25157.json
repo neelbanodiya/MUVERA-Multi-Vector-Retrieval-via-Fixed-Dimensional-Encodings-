@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what is a key rule when constructing Roman numerals involving subtraction?",
+    "response": [
+        "doc_14582.txt",
+        "doc_14598.txt",
+        "doc_14584.txt",
+        "doc_14587.txt",
+        "doc_14097.txt"
+    ]
+}

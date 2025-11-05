@@ -1,0 +1,10 @@
+{
+    "query": "Who directed the film \u201c2001: A Space Odyssey\u201d?",
+    "response": [
+        "doc_598.txt",
+        "doc_14685.txt",
+        "doc_4991.txt",
+        "doc_14626.txt",
+        "doc_2231.txt"
+    ]
+}

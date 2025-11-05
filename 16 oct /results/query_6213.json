@@ -1,0 +1,10 @@
+{
+    "query": "Which ethnic group comprised approximately one-third of the population of Kiev by the 1920s, according to one of the Wikipedia articles?",
+    "response": [
+        "doc_3939.txt",
+        "doc_3938.txt",
+        "doc_3603.txt",
+        "doc_12883.txt",
+        "doc_11980.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What television program featured the development of the Golden Gate Bridge?",
+    "response": [
+        "doc_2117.txt",
+        "doc_2118.txt",
+        "doc_2108.txt",
+        "doc_2119.txt",
+        "doc_19671.txt"
+    ]
+}

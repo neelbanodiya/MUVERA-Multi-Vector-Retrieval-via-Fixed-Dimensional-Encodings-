@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Lisa Simpson in \u201cThe Simpson Family Smile-Time Variety Hour\u201d?",
+    "response": [
+        "doc_10536.txt",
+        "doc_6682.txt",
+        "doc_12733.txt",
+        "doc_18861.txt",
+        "doc_6683.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, what did Moses receive on the mountain?",
+    "response": [
+        "doc_23688.txt",
+        "doc_14526.txt",
+        "doc_7914.txt",
+        "doc_7912.txt",
+        "doc_7916.txt"
+    ]
+}

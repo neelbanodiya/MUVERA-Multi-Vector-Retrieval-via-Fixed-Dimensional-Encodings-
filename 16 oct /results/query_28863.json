@@ -1,0 +1,10 @@
+{
+    "query": "What was the first megaresort in Las Vegas, and what effect did it have on the city?",
+    "response": [
+        "doc_16827.txt",
+        "doc_16836.txt",
+        "doc_16829.txt",
+        "doc_23418.txt",
+        "doc_6031.txt"
+    ]
+}

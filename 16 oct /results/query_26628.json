@@ -1,0 +1,10 @@
+{
+    "query": "What novel and play served as the basis for D.W. Griffith\u2019s film?",
+    "response": [
+        "doc_1812.txt",
+        "doc_14685.txt",
+        "doc_9401.txt",
+        "doc_12639.txt",
+        "doc_9965.txt"
+    ]
+}

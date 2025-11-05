@@ -1,0 +1,10 @@
+{
+    "query": "What specific international protocol has states within the EU failed to ratify?",
+    "response": [
+        "doc_14901.txt",
+        "doc_4752.txt",
+        "doc_1216.txt",
+        "doc_15139.txt",
+        "doc_16820.txt"
+    ]
+}

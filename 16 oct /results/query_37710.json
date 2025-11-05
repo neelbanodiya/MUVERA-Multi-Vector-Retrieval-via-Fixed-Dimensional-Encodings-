@@ -1,0 +1,10 @@
+{
+    "query": "Who was the second choice for the role of Basil Ransom in *The Bostonians*?",
+    "response": [
+        "doc_22114.txt",
+        "doc_22117.txt",
+        "doc_15277.txt",
+        "doc_16737.txt",
+        "doc_6074.txt"
+    ]
+}

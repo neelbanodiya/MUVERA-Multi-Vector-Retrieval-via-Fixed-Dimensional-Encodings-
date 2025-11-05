@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Senator John Heinz in 1991, and what other events occurred around that time involving car crashes in Arkansas?",
+    "response": [
+        "doc_2031.txt",
+        "doc_16616.txt",
+        "doc_2032.txt",
+        "doc_2045.txt",
+        "doc_2041.txt"
+    ]
+}

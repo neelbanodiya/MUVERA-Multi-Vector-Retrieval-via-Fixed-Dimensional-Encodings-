@@ -1,0 +1,10 @@
+{
+    "query": "Which television show featured Bob Hope and Lucy and Ricky?",
+    "response": [
+        "doc_18861.txt",
+        "doc_5207.txt",
+        "doc_18870.txt",
+        "doc_18858.txt",
+        "doc_9799.txt"
+    ]
+}

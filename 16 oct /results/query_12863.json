@@ -1,0 +1,10 @@
+{
+    "query": "What album did the surviving members of Rigor Mortis Records release in October of that year?",
+    "response": [
+        "doc_18894.txt",
+        "doc_15309.txt",
+        "doc_16311.txt",
+        "doc_15553.txt",
+        "doc_15313.txt"
+    ]
+}

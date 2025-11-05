@@ -1,0 +1,10 @@
+{
+    "query": "What was uncovered at the Tomasica mining complex in 2014?",
+    "response": [
+        "doc_9673.txt",
+        "doc_5142.txt",
+        "doc_5151.txt",
+        "doc_5145.txt",
+        "doc_5154.txt"
+    ]
+}

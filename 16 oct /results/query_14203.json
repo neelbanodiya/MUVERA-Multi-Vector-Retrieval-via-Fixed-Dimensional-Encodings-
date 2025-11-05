@@ -1,0 +1,10 @@
+{
+    "query": "What type of information does the IRS advisory mention regarding bank accounts?",
+    "response": [
+        "doc_2838.txt",
+        "doc_6170.txt",
+        "doc_13367.txt",
+        "doc_12494.txt",
+        "doc_3447.txt"
+    ]
+}

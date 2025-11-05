@@ -1,0 +1,10 @@
+{
+    "query": "What geographical area does the Petrified Forest National Park lie within?",
+    "response": [
+        "doc_9327.txt",
+        "doc_9324.txt",
+        "doc_9332.txt",
+        "doc_9326.txt",
+        "doc_18154.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What year did Canada win back-to-back Olympic gold medals in men's hockey?",
+    "response": [
+        "doc_15506.txt",
+        "doc_15516.txt",
+        "doc_15515.txt",
+        "doc_15509.txt",
+        "doc_15505.txt"
+    ]
+}

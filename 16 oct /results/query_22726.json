@@ -1,0 +1,10 @@
+{
+    "query": "Where in New York City do museums commemorate the immigrant experience?",
+    "response": [
+        "doc_13063.txt",
+        "doc_13059.txt",
+        "doc_13064.txt",
+        "doc_13050.txt",
+        "doc_13062.txt"
+    ]
+}

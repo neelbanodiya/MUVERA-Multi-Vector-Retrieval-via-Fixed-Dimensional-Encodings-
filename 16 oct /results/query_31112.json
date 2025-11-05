@@ -1,0 +1,10 @@
+{
+    "query": "What geographical feature does Logan Pass lie along?",
+    "response": [
+        "doc_1389.txt",
+        "doc_9327.txt",
+        "doc_18128.txt",
+        "doc_9295.txt",
+        "doc_3329.txt"
+    ]
+}

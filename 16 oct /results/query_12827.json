@@ -1,0 +1,10 @@
+{
+    "query": "For what award was Joan Cusack nominated?",
+    "response": [
+        "doc_2263.txt",
+        "doc_13633.txt",
+        "doc_24145.txt",
+        "doc_5760.txt",
+        "doc_4918.txt"
+    ]
+}

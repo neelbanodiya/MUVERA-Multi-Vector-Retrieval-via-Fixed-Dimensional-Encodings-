@@ -1,0 +1,10 @@
+{
+    "query": "According to an article in the Turkish newspaper Milliyet, what is reportedly taking place between the Commission and Turkey?",
+    "response": [
+        "doc_5453.txt",
+        "doc_17465.txt",
+        "doc_22364.txt",
+        "doc_12231.txt",
+        "doc_19701.txt"
+    ]
+}

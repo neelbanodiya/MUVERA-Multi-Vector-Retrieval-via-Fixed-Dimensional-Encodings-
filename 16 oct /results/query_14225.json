@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, which Greek playwright is considered one of the major poets of the 20th century?",
+    "response": [
+        "doc_5294.txt",
+        "doc_20482.txt",
+        "doc_15373.txt",
+        "doc_8272.txt",
+        "doc_20466.txt"
+    ]
+}

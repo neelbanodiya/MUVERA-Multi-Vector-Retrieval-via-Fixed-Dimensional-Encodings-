@@ -1,0 +1,10 @@
+{
+    "query": "What threatened Catherine, leading to a pursuit down the street?",
+    "response": [
+        "doc_22073.txt",
+        "doc_3084.txt",
+        "doc_22072.txt",
+        "doc_20554.txt",
+        "doc_14830.txt"
+    ]
+}

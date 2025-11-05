@@ -1,0 +1,10 @@
+{
+    "query": "Which war involved a battle fought at Nanshan?",
+    "response": [
+        "doc_12607.txt",
+        "doc_12606.txt",
+        "doc_4742.txt",
+        "doc_193.txt",
+        "doc_1483.txt"
+    ]
+}

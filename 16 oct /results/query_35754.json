@@ -1,0 +1,10 @@
+{
+    "query": "In what situation might the Commission adopt safeguard measures, as described in Amendment 290?",
+    "response": [
+        "doc_20837.txt",
+        "doc_20836.txt",
+        "doc_20760.txt",
+        "doc_20814.txt",
+        "doc_20767.txt"
+    ]
+}

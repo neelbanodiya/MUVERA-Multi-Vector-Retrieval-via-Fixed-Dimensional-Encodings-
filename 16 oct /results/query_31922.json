@@ -1,0 +1,10 @@
+{
+    "query": "When was Rihanna\u2019s album \u201cLoud\u201d released?",
+    "response": [
+        "doc_4603.txt",
+        "doc_18601.txt",
+        "doc_18602.txt",
+        "doc_15611.txt",
+        "doc_4605.txt"
+    ]
+}

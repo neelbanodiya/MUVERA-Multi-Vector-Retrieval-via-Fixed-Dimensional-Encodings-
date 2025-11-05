@@ -1,0 +1,10 @@
+{
+    "query": "Which Hawaiian term is associated with the name of a software program?",
+    "response": [
+        "doc_12134.txt",
+        "doc_17438.txt",
+        "doc_17429.txt",
+        "doc_2472.txt",
+        "doc_6908.txt"
+    ]
+}

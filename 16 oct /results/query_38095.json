@@ -1,0 +1,10 @@
+{
+    "query": "How many seasons has *Archer* been renewed for?",
+    "response": [
+        "doc_22331.txt",
+        "doc_11710.txt",
+        "doc_2957.txt",
+        "doc_11513.txt",
+        "doc_2265.txt"
+    ]
+}

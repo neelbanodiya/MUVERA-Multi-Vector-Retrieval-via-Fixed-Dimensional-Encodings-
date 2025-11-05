@@ -1,0 +1,10 @@
+{
+    "query": "What materials were used to create the Imeteri\u2019s Fish figurine?",
+    "response": [
+        "doc_2231.txt",
+        "doc_11027.txt",
+        "doc_13104.txt",
+        "doc_21967.txt",
+        "doc_17176.txt"
+    ]
+}

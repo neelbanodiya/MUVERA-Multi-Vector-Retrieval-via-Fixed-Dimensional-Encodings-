@@ -1,0 +1,10 @@
+{
+    "query": "Which hotels are located in San Francisco?",
+    "response": [
+        "doc_17805.txt",
+        "doc_17817.txt",
+        "doc_17816.txt",
+        "doc_17806.txt",
+        "doc_17813.txt"
+    ]
+}

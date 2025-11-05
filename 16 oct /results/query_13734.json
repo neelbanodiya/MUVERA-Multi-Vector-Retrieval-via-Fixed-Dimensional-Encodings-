@@ -1,0 +1,10 @@
+{
+    "query": "When was \u201cThe Platinum Collection: Greatest Hits I, II & III\u201d originally released?",
+    "response": [
+        "doc_8006.txt",
+        "doc_4604.txt",
+        "doc_4605.txt",
+        "doc_4606.txt",
+        "doc_19668.txt"
+    ]
+}

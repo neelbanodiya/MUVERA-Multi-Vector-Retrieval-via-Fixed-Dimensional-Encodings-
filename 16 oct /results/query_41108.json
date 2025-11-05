@@ -1,0 +1,10 @@
+{
+    "query": "On what date was this ESPN show featured (according to the provided information)?",
+    "response": [
+        "doc_14817.txt",
+        "doc_22741.txt",
+        "doc_14257.txt",
+        "doc_5212.txt",
+        "doc_10292.txt"
+    ]
+}

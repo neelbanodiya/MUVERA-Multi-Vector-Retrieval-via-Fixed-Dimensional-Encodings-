@@ -1,0 +1,10 @@
+{
+    "query": "At which firms did Roberts work, and in what order?",
+    "response": [
+        "doc_2838.txt",
+        "doc_12833.txt",
+        "doc_13334.txt",
+        "doc_16165.txt",
+        "doc_14152.txt"
+    ]
+}

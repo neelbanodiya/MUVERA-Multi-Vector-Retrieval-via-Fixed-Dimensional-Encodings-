@@ -1,0 +1,10 @@
+{
+    "query": "According to the passage, what words begin the film *The Seventh Seal*?",
+    "response": [
+        "doc_7688.txt",
+        "doc_7677.txt",
+        "doc_7681.txt",
+        "doc_7690.txt",
+        "doc_7687.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What EU aviation security regulations were introduced on 6 November last?",
+    "response": [
+        "doc_172.txt",
+        "doc_14894.txt",
+        "doc_5449.txt",
+        "doc_11965.txt",
+        "doc_8794.txt"
+    ]
+}

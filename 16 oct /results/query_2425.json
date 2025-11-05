@@ -1,0 +1,10 @@
+{
+    "query": "According to Amnesty International, what should be done instead of quickly punishing individuals involved in alleged abuses?",
+    "response": [
+        "doc_3141.txt",
+        "doc_1436.txt",
+        "doc_18124.txt",
+        "doc_22394.txt",
+        "doc_10009.txt"
+    ]
+}

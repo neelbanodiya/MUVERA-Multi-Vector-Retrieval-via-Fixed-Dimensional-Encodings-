@@ -1,0 +1,10 @@
+{
+    "query": "In what city and country did Andrew Carnegie spend his early childhood?",
+    "response": [
+        "doc_4246.txt",
+        "doc_4241.txt",
+        "doc_4242.txt",
+        "doc_4243.txt",
+        "doc_18976.txt"
+    ]
+}

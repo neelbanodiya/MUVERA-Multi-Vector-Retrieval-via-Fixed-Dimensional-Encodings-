@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of the Arab slave mentioned in the passage?",
+    "response": [
+        "doc_5304.txt",
+        "doc_3689.txt",
+        "doc_13056.txt",
+        "doc_13057.txt",
+        "doc_1252.txt"
+    ]
+}

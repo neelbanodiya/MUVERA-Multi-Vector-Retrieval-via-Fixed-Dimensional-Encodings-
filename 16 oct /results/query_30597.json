@@ -1,0 +1,10 @@
+{
+    "query": "According to Jimmie Haskell, what quality did Bobby Darin possess that was \u201cinfectious\u201d?",
+    "response": [
+        "doc_17784.txt",
+        "doc_6857.txt",
+        "doc_19267.txt",
+        "doc_23766.txt",
+        "doc_18463.txt"
+    ]
+}

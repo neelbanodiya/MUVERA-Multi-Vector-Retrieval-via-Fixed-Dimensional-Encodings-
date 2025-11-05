@@ -1,0 +1,9 @@
+{
+    "query": "What is the capacity of MedStar Washington Hospital Center?",
+    "response": [
+        "doc_6026.txt",
+        "doc_6025.txt",
+        "doc_5495.txt",
+        "doc_12229.txt"
+    ]
+}

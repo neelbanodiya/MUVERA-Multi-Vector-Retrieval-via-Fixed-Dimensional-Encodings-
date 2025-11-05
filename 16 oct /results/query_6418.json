@@ -1,0 +1,10 @@
+{
+    "query": "According to the encyclopedia entry, in what city does someone who enjoys Stephen King\u2019s work live?",
+    "response": [
+        "doc_17690.txt",
+        "doc_20263.txt",
+        "doc_4939.txt",
+        "doc_7607.txt",
+        "doc_4516.txt"
+    ]
+}

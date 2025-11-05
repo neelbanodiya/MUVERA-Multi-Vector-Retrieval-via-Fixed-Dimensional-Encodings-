@@ -1,0 +1,10 @@
+{
+    "query": "Are there any travel packages specifically designed to combine travel to Prague, Budapest, and Vienna?",
+    "response": [
+        "doc_12332.txt",
+        "doc_12333.txt",
+        "doc_12334.txt",
+        "doc_12335.txt",
+        "doc_12331.txt"
+    ]
+}

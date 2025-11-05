@@ -1,0 +1,10 @@
+{
+    "query": "Who scored the game-winning goal for the U.S. Olympic hockey team against the Soviet Union?",
+    "response": [
+        "doc_11342.txt",
+        "doc_11338.txt",
+        "doc_11341.txt",
+        "doc_11351.txt",
+        "doc_11348.txt"
+    ]
+}

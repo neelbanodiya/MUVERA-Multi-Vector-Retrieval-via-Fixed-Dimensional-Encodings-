@@ -1,0 +1,10 @@
+{
+    "query": "What is the railway distance between Kolkata and Rampurhat?",
+    "response": [
+        "doc_21706.txt",
+        "doc_21707.txt",
+        "doc_4544.txt",
+        "doc_1204.txt",
+        "doc_9962.txt"
+    ]
+}

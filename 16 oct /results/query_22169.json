@@ -1,0 +1,10 @@
+{
+    "query": "Which actor portrayed Frank James in *The Henry Fonda Film Collection*?",
+    "response": [
+        "doc_16925.txt",
+        "doc_21902.txt",
+        "doc_18873.txt",
+        "doc_18482.txt",
+        "doc_1570.txt"
+    ]
+}

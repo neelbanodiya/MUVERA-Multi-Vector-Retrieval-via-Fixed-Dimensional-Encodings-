@@ -1,0 +1,10 @@
+{
+    "query": "What event was commemorated during a formal sitting of Parliament on the occasion of the 20th anniversary of the democratic change in Central and Eastern Europe?",
+    "response": [
+        "doc_20514.txt",
+        "doc_17377.txt",
+        "doc_17393.txt",
+        "doc_6491.txt",
+        "doc_4599.txt"
+    ]
+}

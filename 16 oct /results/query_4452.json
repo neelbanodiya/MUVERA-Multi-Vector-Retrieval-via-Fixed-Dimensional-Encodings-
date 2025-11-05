@@ -1,0 +1,10 @@
+{
+    "query": "What geographical feature is described as the \u201cRoof of the World\u201d?",
+    "response": [
+        "doc_2591.txt",
+        "doc_2252.txt",
+        "doc_18487.txt",
+        "doc_5427.txt",
+        "doc_23073.txt"
+    ]
+}

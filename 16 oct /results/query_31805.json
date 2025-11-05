@@ -1,0 +1,10 @@
+{
+    "query": "How many of the highest points in the US states has someone visited, as described in one of the linked documents?",
+    "response": [
+        "doc_14946.txt",
+        "doc_14176.txt",
+        "doc_15214.txt",
+        "doc_572.txt",
+        "doc_10411.txt"
+    ]
+}

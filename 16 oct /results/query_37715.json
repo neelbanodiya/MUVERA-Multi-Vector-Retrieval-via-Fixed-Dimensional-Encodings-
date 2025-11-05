@@ -1,0 +1,10 @@
+{
+    "query": "What is the title of the film featuring Christopher Reeve and Vanessa Redgrave?",
+    "response": [
+        "doc_22117.txt",
+        "doc_22110.txt",
+        "doc_14684.txt",
+        "doc_14780.txt",
+        "doc_90.txt"
+    ]
+}

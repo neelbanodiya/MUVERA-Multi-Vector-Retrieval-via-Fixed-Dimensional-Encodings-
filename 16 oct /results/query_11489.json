@@ -1,0 +1,10 @@
+{
+    "query": "What was the dedication of \u201cClown in the Dumps\u201d in memory of?",
+    "response": [
+        "doc_20569.txt",
+        "doc_15411.txt",
+        "doc_18844.txt",
+        "doc_20467.txt",
+        "doc_9873.txt"
+    ]
+}

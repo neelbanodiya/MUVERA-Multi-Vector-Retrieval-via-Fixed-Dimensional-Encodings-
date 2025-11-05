@@ -1,0 +1,8 @@
+{
+    "query": "What type of vehicle is the Jeep Willys2 based on?",
+    "response": [
+        "doc_6920.txt",
+        "doc_6918.txt",
+        "doc_6919.txt"
+    ]
+}

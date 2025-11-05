@@ -1,0 +1,10 @@
+{
+    "query": "What city is the subject of the \"Memphis in May\" event?",
+    "response": [
+        "doc_12260.txt",
+        "doc_2710.txt",
+        "doc_2708.txt",
+        "doc_17677.txt",
+        "doc_2709.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "How many times have the Tennessee Titans selected the number one overall pick in the draft?",
+    "response": [
+        "doc_6723.txt",
+        "doc_5390.txt",
+        "doc_24141.txt",
+        "doc_21628.txt",
+        "doc_21627.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between Urdu and Hindustani, as described in the text?",
+    "response": [
+        "doc_23857.txt",
+        "doc_23860.txt",
+        "doc_23848.txt",
+        "doc_23853.txt",
+        "doc_23855.txt"
+    ]
+}

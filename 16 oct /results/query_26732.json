@@ -1,0 +1,10 @@
+{
+    "query": "Who is Jacques Derrida mentioned in the provided texts?",
+    "response": [
+        "doc_19776.txt",
+        "doc_11969.txt",
+        "doc_20523.txt",
+        "doc_15759.txt",
+        "doc_1035.txt"
+    ]
+}

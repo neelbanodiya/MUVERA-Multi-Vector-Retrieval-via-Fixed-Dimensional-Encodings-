@@ -1,0 +1,10 @@
+{
+    "query": "By what date must the proposal for revising the Financial Regulation be submitted?",
+    "response": [
+        "doc_13392.txt",
+        "doc_20831.txt",
+        "doc_20848.txt",
+        "doc_8139.txt",
+        "doc_18507.txt"
+    ]
+}

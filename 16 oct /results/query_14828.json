@@ -1,0 +1,10 @@
+{
+    "query": "What type of rock is specifically mentioned as being found at the northern end of Lympstone, Devon?",
+    "response": [
+        "doc_8610.txt",
+        "doc_7260.txt",
+        "doc_8615.txt",
+        "doc_7259.txt",
+        "doc_8691.txt"
+    ]
+}

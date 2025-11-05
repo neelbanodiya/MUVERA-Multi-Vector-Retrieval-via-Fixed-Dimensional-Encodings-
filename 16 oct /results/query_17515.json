@@ -1,0 +1,10 @@
+{
+    "query": "During what period was Louis-Philippe King of France?",
+    "response": [
+        "doc_10142.txt",
+        "doc_10139.txt",
+        "doc_10150.txt",
+        "doc_10143.txt",
+        "doc_10145.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the Pig Latin translation of \"Thank you\"?",
+    "response": [
+        "doc_9196.txt",
+        "doc_9197.txt",
+        "doc_23169.txt",
+        "doc_12552.txt",
+        "doc_6785.txt"
+    ]
+}

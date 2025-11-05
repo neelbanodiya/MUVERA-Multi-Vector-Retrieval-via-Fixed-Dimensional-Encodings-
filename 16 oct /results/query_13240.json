@@ -1,0 +1,10 @@
+{
+    "query": "What is the breakdown of European financial aid to Senegal, categorized by the fund through which it was provided?",
+    "response": [
+        "doc_7760.txt",
+        "doc_4941.txt",
+        "doc_23029.txt",
+        "doc_13872.txt",
+        "doc_1656.txt"
+    ]
+}

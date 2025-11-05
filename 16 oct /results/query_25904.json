@@ -1,0 +1,10 @@
+{
+    "query": "What specific song did one person mention wanting to find and listen to, referencing David Bowie?",
+    "response": [
+        "doc_15067.txt",
+        "doc_15060.txt",
+        "doc_13852.txt",
+        "doc_8596.txt",
+        "doc_20897.txt"
+    ]
+}

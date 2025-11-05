@@ -1,0 +1,10 @@
+{
+    "query": "Which video game was developed by Snowblind Studios and published by Warner Bros.?",
+    "response": [
+        "doc_10865.txt",
+        "doc_3164.txt",
+        "doc_2925.txt",
+        "doc_10862.txt",
+        "doc_10864.txt"
+    ]
+}

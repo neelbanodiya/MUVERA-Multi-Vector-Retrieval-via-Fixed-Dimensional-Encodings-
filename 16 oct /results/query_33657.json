@@ -1,0 +1,10 @@
+{
+    "query": "In Gustav Mahler\u2019s Sixth Symphony, what is described as one of his \u201cmost turbulent\u201d movements, and what is a notable characteristic of that movement?",
+    "response": [
+        "doc_19620.txt",
+        "doc_19615.txt",
+        "doc_19613.txt",
+        "doc_19614.txt",
+        "doc_19618.txt"
+    ]
+}

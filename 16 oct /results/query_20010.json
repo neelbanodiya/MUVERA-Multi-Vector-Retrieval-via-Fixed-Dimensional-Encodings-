@@ -1,0 +1,10 @@
+{
+    "query": "In what year did the Cabbage Patch Kids become a year-round item?",
+    "response": [
+        "doc_11546.txt",
+        "doc_11547.txt",
+        "doc_11560.txt",
+        "doc_11564.txt",
+        "doc_11561.txt"
+    ]
+}

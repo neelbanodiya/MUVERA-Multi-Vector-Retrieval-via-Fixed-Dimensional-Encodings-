@@ -1,0 +1,10 @@
+{
+    "query": "In what state is Corpus Christi located, and what is the estimated population of its metropolitan area?",
+    "response": [
+        "doc_15881.txt",
+        "doc_15880.txt",
+        "doc_15882.txt",
+        "doc_23215.txt",
+        "doc_21402.txt"
+    ]
+}

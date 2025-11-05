@@ -1,0 +1,10 @@
+{
+    "query": "In what year did Hank Aaron sign a three-year deal with the Atlanta Braves, and what was his salary at that time?",
+    "response": [
+        "doc_23045.txt",
+        "doc_23046.txt",
+        "doc_23047.txt",
+        "doc_23050.txt",
+        "doc_23048.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the primary element within the internal policies (heading 3) of the PDB 2006?",
+    "response": [
+        "doc_17593.txt",
+        "doc_19696.txt",
+        "doc_18302.txt",
+        "doc_9746.txt",
+        "doc_17536.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What geographical feature does California share a border with to the north?",
+    "response": [
+        "doc_1389.txt",
+        "doc_21465.txt",
+        "doc_8850.txt",
+        "doc_4336.txt",
+        "doc_8836.txt"
+    ]
+}

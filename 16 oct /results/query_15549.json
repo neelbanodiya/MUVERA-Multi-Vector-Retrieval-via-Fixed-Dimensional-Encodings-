@@ -1,0 +1,10 @@
+{
+    "query": "What happened at 10050 Cielo Drive in Los Angeles, according to Manson?",
+    "response": [
+        "doc_9011.txt",
+        "doc_9015.txt",
+        "doc_8999.txt",
+        "doc_9010.txt",
+        "doc_9006.txt"
+    ]
+}

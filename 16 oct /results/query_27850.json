@@ -1,0 +1,10 @@
+{
+    "query": "What event led to the initial crossing of the 38th Parallel into South Korea in June 1950?",
+    "response": [
+        "doc_16201.txt",
+        "doc_16206.txt",
+        "doc_16200.txt",
+        "doc_16199.txt",
+        "doc_16203.txt"
+    ]
+}

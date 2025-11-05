@@ -1,0 +1,10 @@
+{
+    "query": "Besides X-rays, what other imaging methods are mentioned as being used at El Camino Hospital?",
+    "response": [
+        "doc_17455.txt",
+        "doc_17461.txt",
+        "doc_17460.txt",
+        "doc_17452.txt",
+        "doc_17456.txt"
+    ]
+}

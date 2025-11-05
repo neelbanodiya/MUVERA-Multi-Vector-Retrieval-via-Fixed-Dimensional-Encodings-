@@ -1,0 +1,10 @@
+{
+    "query": "Which Treaty establishes energy as a field of shared competence within the European Union?",
+    "response": [
+        "doc_13321.txt",
+        "doc_24173.txt",
+        "doc_24172.txt",
+        "doc_24177.txt",
+        "doc_7294.txt"
+    ]
+}

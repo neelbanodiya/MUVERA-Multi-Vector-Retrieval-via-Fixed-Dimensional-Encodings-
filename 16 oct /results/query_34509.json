@@ -1,0 +1,10 @@
+{
+    "query": "What did Larry Mahoney write about in his article regarding Notre Dame joining Hockey East?",
+    "response": [
+        "doc_20066.txt",
+        "doc_6717.txt",
+        "doc_11694.txt",
+        "doc_1011.txt",
+        "doc_16672.txt"
+    ]
+}

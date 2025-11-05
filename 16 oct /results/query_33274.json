@@ -1,0 +1,10 @@
+{
+    "query": "In what year was the University mentioned in the passage established?",
+    "response": [
+        "doc_135.txt",
+        "doc_136.txt",
+        "doc_9024.txt",
+        "doc_18618.txt",
+        "doc_19473.txt"
+    ]
+}

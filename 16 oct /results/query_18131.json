@@ -1,0 +1,10 @@
+{
+    "query": "What counties are listed within the jurisdiction of IBEW Local 26?",
+    "response": [
+        "doc_24077.txt",
+        "doc_3185.txt",
+        "doc_23215.txt",
+        "doc_3186.txt",
+        "doc_4522.txt"
+    ]
+}

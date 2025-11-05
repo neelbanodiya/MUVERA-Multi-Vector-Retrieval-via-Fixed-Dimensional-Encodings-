@@ -1,0 +1,10 @@
+{
+    "query": "In 1989, what was the value of Kohlberg Kravis Roberts\u2019 offer for RJR Nabisco?",
+    "response": [
+        "doc_21493.txt",
+        "doc_9979.txt",
+        "doc_5794.txt",
+        "doc_21972.txt",
+        "doc_3679.txt"
+    ]
+}

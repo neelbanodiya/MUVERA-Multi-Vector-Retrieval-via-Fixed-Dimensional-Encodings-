@@ -1,0 +1,10 @@
+{
+    "query": "What departments at Cornell offer courses in \u201cIntuitive Judgment\u201d and \u201cComparative Cognition\u201d?",
+    "response": [
+        "doc_10825.txt",
+        "doc_10824.txt",
+        "doc_10826.txt",
+        "doc_10310.txt",
+        "doc_14742.txt"
+    ]
+}

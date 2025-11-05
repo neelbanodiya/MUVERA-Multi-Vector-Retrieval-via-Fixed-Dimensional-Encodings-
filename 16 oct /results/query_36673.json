@@ -1,0 +1,10 @@
+{
+    "query": "What type of music is described as being \u201cignored by mainstream radio and MTV\u201d?",
+    "response": [
+        "doc_1785.txt",
+        "doc_15310.txt",
+        "doc_16349.txt",
+        "doc_11951.txt",
+        "doc_19460.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "According to the Art Blog By Bob article, what qualities does David\u2019s art possess?",
+    "response": [
+        "doc_7648.txt",
+        "doc_22070.txt",
+        "doc_3820.txt",
+        "doc_5294.txt",
+        "doc_7825.txt"
+    ]
+}

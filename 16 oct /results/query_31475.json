@@ -1,0 +1,10 @@
+{
+    "query": "Approximately what percentage of college faculty in North America are non-tenure-track?",
+    "response": [
+        "doc_18386.txt",
+        "doc_18387.txt",
+        "doc_5380.txt",
+        "doc_5383.txt",
+        "doc_19146.txt"
+    ]
+}

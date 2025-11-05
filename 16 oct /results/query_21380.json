@@ -1,0 +1,9 @@
+{
+    "query": "According to the provided links, what is the maximum number of guests allowed on the \u201cCentral Europe: Budapest, Vienna & Prague (2016)\u201d tour?",
+    "response": [
+        "doc_12332.txt",
+        "doc_12333.txt",
+        "doc_12335.txt",
+        "doc_12331.txt"
+    ]
+}

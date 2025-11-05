@@ -1,0 +1,10 @@
+{
+    "query": "What year was \u201cthe finest recording of Erich Wolfgang Korngold\u2019s Robin Hood\u201d released?",
+    "response": [
+        "doc_21245.txt",
+        "doc_21246.txt",
+        "doc_23546.txt",
+        "doc_12713.txt",
+        "doc_14550.txt"
+    ]
+}

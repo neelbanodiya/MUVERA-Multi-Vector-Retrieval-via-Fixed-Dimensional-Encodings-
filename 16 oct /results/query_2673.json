@@ -1,0 +1,10 @@
+{
+    "query": "What hotels are listed on the MIT website as being in the Back Bay area?",
+    "response": [
+        "doc_10312.txt",
+        "doc_18558.txt",
+        "doc_818.txt",
+        "doc_17810.txt",
+        "doc_22365.txt"
+    ]
+}

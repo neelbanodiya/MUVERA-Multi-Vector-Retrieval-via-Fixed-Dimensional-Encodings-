@@ -1,0 +1,10 @@
+{
+    "query": "What is an example of a word listed in the provided text that begins with the letter \"C\"?",
+    "response": [
+        "doc_12383.txt",
+        "doc_12385.txt",
+        "doc_12396.txt",
+        "doc_12382.txt",
+        "doc_1189.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What is the relationship between EU Directives and the rules adopted by Member States regarding family reunification?",
+    "response": [
+        "doc_11800.txt",
+        "doc_11799.txt",
+        "doc_11792.txt",
+        "doc_11797.txt",
+        "doc_3093.txt"
+    ]
+}

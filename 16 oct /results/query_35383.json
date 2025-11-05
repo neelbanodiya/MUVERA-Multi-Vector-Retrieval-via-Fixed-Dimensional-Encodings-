@@ -1,0 +1,10 @@
+{
+    "query": "According to the text, who is the narrator of the story of Pinocchio?",
+    "response": [
+        "doc_14866.txt",
+        "doc_19983.txt",
+        "doc_623.txt",
+        "doc_15669.txt",
+        "doc_18808.txt"
+    ]
+}

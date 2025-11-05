@@ -1,0 +1,10 @@
+{
+    "query": "Who is the Greek god that the ballet \u201cApollo\u201d is based on?",
+    "response": [
+        "doc_15649.txt",
+        "doc_15664.txt",
+        "doc_15663.txt",
+        "doc_15662.txt",
+        "doc_15651.txt"
+    ]
+}

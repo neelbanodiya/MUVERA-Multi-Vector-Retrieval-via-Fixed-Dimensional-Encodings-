@@ -1,0 +1,10 @@
+{
+    "query": "What airport in Jeddah was ranked as the second-worst airport in the world according to multiple sources?",
+    "response": [
+        "doc_15718.txt",
+        "doc_15717.txt",
+        "doc_15730.txt",
+        "doc_15719.txt",
+        "doc_15720.txt"
+    ]
+}

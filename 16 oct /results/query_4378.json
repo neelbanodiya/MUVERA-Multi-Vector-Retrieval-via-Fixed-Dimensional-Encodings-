@@ -1,0 +1,10 @@
+{
+    "query": "What is Irma P. Hall best known for playing in films like *Soul Food* and *The Ladykillers*?",
+    "response": [
+        "doc_2549.txt",
+        "doc_7864.txt",
+        "doc_4193.txt",
+        "doc_22746.txt",
+        "doc_7078.txt"
+    ]
+}

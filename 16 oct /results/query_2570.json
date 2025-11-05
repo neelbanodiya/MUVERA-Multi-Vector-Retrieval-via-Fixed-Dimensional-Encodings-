@@ -1,0 +1,10 @@
+{
+    "query": "What was the author doing during the first day of their European tour?",
+    "response": [
+        "doc_2909.txt",
+        "doc_14661.txt",
+        "doc_18976.txt",
+        "doc_13798.txt",
+        "doc_9247.txt"
+    ]
+}

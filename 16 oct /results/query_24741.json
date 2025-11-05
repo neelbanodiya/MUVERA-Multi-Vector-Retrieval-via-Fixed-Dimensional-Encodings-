@@ -1,0 +1,10 @@
+{
+    "query": "What type of performer was W.C. Fields before he became a film actor?",
+    "response": [
+        "doc_6787.txt",
+        "doc_7991.txt",
+        "doc_402.txt",
+        "doc_17171.txt",
+        "doc_16925.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "query": "What pastries are eaten in American culture, and what do they resemble?",
+    "response": [
+        "doc_21686.txt",
+        "doc_7096.txt",
+        "doc_8913.txt",
+        "doc_21694.txt",
+        "doc_21693.txt"
+    ]
+}

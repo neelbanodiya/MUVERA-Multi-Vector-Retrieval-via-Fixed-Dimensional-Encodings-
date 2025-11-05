@@ -1,0 +1,10 @@
+{
+    "query": "What happened to Captain Jumonville?",
+    "response": [
+        "doc_22458.txt",
+        "doc_10451.txt",
+        "doc_15496.txt",
+        "doc_4584.txt",
+        "doc_7628.txt"
+    ]
+}

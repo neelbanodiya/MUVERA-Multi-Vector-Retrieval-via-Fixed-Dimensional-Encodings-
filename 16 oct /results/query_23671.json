@@ -1,0 +1,10 @@
+{
+    "query": "In what year was Man o' War foaled?",
+    "response": [
+        "doc_13731.txt",
+        "doc_13732.txt",
+        "doc_13730.txt",
+        "doc_13728.txt",
+        "doc_13733.txt"
+    ]
+}

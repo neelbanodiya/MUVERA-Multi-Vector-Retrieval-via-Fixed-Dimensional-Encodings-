@@ -1,0 +1,10 @@
+{
+    "query": "In what country were these dolls initially less common compared to Mexico?",
+    "response": [
+        "doc_8789.txt",
+        "doc_10611.txt",
+        "doc_13957.txt",
+        "doc_14060.txt",
+        "doc_18155.txt"
+    ]
+}

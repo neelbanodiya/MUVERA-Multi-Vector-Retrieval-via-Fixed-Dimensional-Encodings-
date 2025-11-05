@@ -1,0 +1,10 @@
+{
+    "query": "When did \u201cMy Little Town\u201d initially appear on a Simon & Garfunkel album?",
+    "response": [
+        "doc_8007.txt",
+        "doc_8008.txt",
+        "doc_8006.txt",
+        "doc_5278.txt",
+        "doc_12339.txt"
+    ]
+}

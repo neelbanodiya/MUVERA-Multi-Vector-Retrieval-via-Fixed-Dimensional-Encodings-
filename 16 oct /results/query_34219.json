@@ -1,0 +1,10 @@
+{
+    "query": "What is the document referenced as having led to legal uncertainty concerning data protection guarantees between the EU and the US?",
+    "response": [
+        "doc_19900.txt",
+        "doc_13068.txt",
+        "doc_7296.txt",
+        "doc_7295.txt",
+        "doc_10031.txt"
+    ]
+}

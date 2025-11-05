@@ -1,0 +1,10 @@
+{
+    "query": "What is the name of Bob Dylan\u2019s website?",
+    "response": [
+        "doc_1723.txt",
+        "doc_21743.txt",
+        "doc_21519.txt",
+        "doc_4961.txt",
+        "doc_18434.txt"
+    ]
+}

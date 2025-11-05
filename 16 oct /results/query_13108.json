@@ -1,0 +1,10 @@
+{
+    "query": "According to Artie, what potential danger does the artifact possess?",
+    "response": [
+        "doc_11503.txt",
+        "doc_4842.txt",
+        "doc_18748.txt",
+        "doc_5332.txt",
+        "doc_15801.txt"
+    ]
+}

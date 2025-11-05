@@ -1,0 +1,10 @@
+{
+    "query": "What was the primary use of the area where the Battle of Cowpens took place before the battle?",
+    "response": [
+        "doc_4066.txt",
+        "doc_192.txt",
+        "doc_207.txt",
+        "doc_204.txt",
+        "doc_199.txt"
+    ]
+}

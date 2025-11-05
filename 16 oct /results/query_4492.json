@@ -1,0 +1,10 @@
+{
+    "query": "When did Marc-Andr\u00e9 Fleury win his first Stanley Cup championship?",
+    "response": [
+        "doc_21625.txt",
+        "doc_2615.txt",
+        "doc_2002.txt",
+        "doc_21627.txt",
+        "doc_11339.txt"
+    ]
+}

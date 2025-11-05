@@ -1,0 +1,9 @@
+{
+    "query": "Besides Freightliner Trucks, which other American truck manufacturers are owned by Daimler AG?",
+    "response": [
+        "doc_3968.txt",
+        "doc_3969.txt",
+        "doc_24118.txt",
+        "doc_21856.txt"
+    ]
+}

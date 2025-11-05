@@ -1,0 +1,10 @@
+{
+    "query": "According to the provided texts, where were grapes found in North America?",
+    "response": [
+        "doc_6496.txt",
+        "doc_6500.txt",
+        "doc_6504.txt",
+        "doc_10210.txt",
+        "doc_8789.txt"
+    ]
+}

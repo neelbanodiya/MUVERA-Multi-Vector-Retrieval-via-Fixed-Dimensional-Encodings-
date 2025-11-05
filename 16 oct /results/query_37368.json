@@ -1,0 +1,10 @@
+{
+    "query": "What was the name of the Braniff Airlines DC-8 airplane that Alexander Calder painted?",
+    "response": [
+        "doc_21888.txt",
+        "doc_21887.txt",
+        "doc_21889.txt",
+        "doc_21894.txt",
+        "doc_21892.txt"
+    ]
+}

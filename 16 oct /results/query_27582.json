@@ -1,0 +1,10 @@
+{
+    "query": "What type of aircraft collided with a Chinese fighter jet on April 1, 2001, resulting in an international dispute?",
+    "response": [
+        "doc_16037.txt",
+        "doc_16036.txt",
+        "doc_13901.txt",
+        "doc_16040.txt",
+        "doc_16857.txt"
+    ]
+}
