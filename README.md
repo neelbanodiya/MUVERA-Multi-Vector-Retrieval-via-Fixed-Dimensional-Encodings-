@@ -1,7 +1,3 @@
-Here is a comprehensive README.md file for your repository, written based on your project details and specifically explaining your use of MUVERA to reduce latency.
-
------
-
 # RAG System for NCIIPC AI Grand Challenge
 
 This repository contains an implementation of a high-performance retrieval system for the [NCIIPC-Startup India AI Grand Challenge](https://ai-grand-challenge.in/) on "Retrieval Augmented Generation based Question and Answering System."
