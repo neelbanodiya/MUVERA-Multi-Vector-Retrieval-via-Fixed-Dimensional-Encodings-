@@ -86,7 +86,4 @@ Our solution, based on the **MUVERA** paper, solves this exact latency problem:
 2.  **From `maxSim` to Dot Product:** This compression cleverly approximates the expensive `maxSim` operation. Instead of a complex, token-by-token comparison, our initial search becomes a **simple, hardware-accelerated dot product (matrix multiplication)**. This is *orders of magnitude faster* than native ColBERT.
 3.  **A "Filter," Not a Replacement:** We don't rely on the FDE score for the final answer. We use it as a massive "filter" to instantly **reduce a million-document problem into a 100-document problem**. The expensive, high-accuracy ColBERT reranking is then easily applied to this tiny subset, giving us a final system that is both fast (low-latency) and accurate.
 
-```bash
-python prepare_submission.py
-# Output: This will create 'PS04_TEAM_NAME.zip'
-```
+
